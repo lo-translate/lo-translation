@@ -1,0 +1,302 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '주로 고급형 개인용 바이오로이드 생산에 주력하던 삼안 산업이었지만 산업용 바이오로이드 역시 삼안 산업의 주요 라인 중 하나였다. 특히 농업용 메이드였던 페어리 시리즈는 인간을 농업에서 거의 축출할 정도로 인기를 모았다. 사업에 성공한 삼안 산업은 더욱 사업을 확장하였으며 페어리 시리즈에 도시 정원과 건물 관리용 바이오로이드를 추가하는 등 사업을 다변화하는 데 주력했다.'
+#: TroopCategory[Squad_3PFairy_1].Squad_Desc
+msgid ""
+"主に高級型の個人用バイオロイド生産に力を注いでいた三安産業であったが産業用バイオロイドもまた三安産業の重要ラインのうちの一つであった。特に農業用メイドであっ"
+"たフェアリーシリーズは人間を農業からほぼ追い出すほどに人気を集めた。事業に成功した三安産業はより事業を拡大し、フェアリーシリーズに都市庭園と建物管理用バイオ"
+"ロイドを追加するなどの事業を多辺化するのに力を注いだ。"
+msgstr ""
+
+#  Korean Text: '페어리 시리즈'
+#: TroopCategory[Squad_3PFairy_1].Squad_Name
+msgid "フェアリーシリーズ"
+msgstr "Fairy Series"
+
+#  Korean Text: '080 팀은 전투보다는 스파이 임무와 정보 조작에 더 큰 비중을 든 요원들로 회사 기밀 정보 사령부 휘하에서 활동해 왔던 바이오로이드들이다. 이들은 인간 멸망 전에는 주로 인간과 바이오로이드들을 대상으로 기밀 임무를 수행해 왔다. 현재는 철충에 대한 정보를 주로 다루고 있다.'
+#: TroopCategory[Squad_080_1].Squad_Desc
+msgid ""
+"080機関は戦闘よりはスパイ任務と情報操作により大きな比重を置いた要員達を会社機密情報司令部の指揮下で活動してきたバイオロイド達だ。これらは人間滅亡前には主"
+"に人間とバイオロイド達を対象に機密任務を遂行してきた。現在は鉄虫についての情報を主に扱っている。"
+msgstr ""
+
+#  Korean Text: '080팀'
+#: TroopCategory[Squad_080_1].Squad_Name
+msgid "080機関"
+msgstr "Agency 080"
+
+#  Korean Text: 'AA 캐노니어는 아머드 메이든과 비슷한 시기에 창설된 이 부대는 정확히 아머드 메이든과 반대 역할을 하기 위해 만들어졌다. 정부의 요새화된 도시에 아머드 메이든이 위협적이었던 것처럼 회사의 요새에도 적 중장 AGS의 공성이 가장 위협적이었다. 회사의 지도자들은 이 AA 캐노니어 부대를 창설해 중장 AGS도 파괴할 수 있는 관통력과 화력을 부여했다. 안타깝게도 이 AA 캐노니어들은 상대적으로 다른 중장 유닛 들에 비해 장갑이나 기동력은 부족했기에 주로 방어전에 사용될 수 밖에 없었지만 중장 AGS와 싸울 때 압도적인 가격 교환비로 큰 명성을 얻었다.'
+#: TroopCategory[Squad_AACannonier_1].Squad_Desc
+msgid ""
+"ＡＡキャノニアはアーマードメイデンと似た時期に創設されたこの部隊は正確にアーマードメイデンと反対の役割をするために作られた。政府の要塞化された都市にアーマー"
+"ドメイデンが脅威的であったように会社の要塞にも敵の重装ＡＧＳの攻城が一番脅威的であった。会社の指導者達はこのＡＡキャノニア部隊を創設し重装ＡＧＳも破壊できる"
+"貫通力と火力を付与した。残念なことにこのＡＡキャノニア達は相対的に他の重装ユニット達と比べて装甲や機動力は不足していたので主に防御戦に使われるしかなかったが"
+"重装ＡＧＳと戦う時圧倒的な価格交換費で大きな名声を得た。"
+msgstr ""
+
+#  Korean Text: 'AA 캐노니어'
+#: TroopCategory[Squad_AACannonier_1].Squad_Name
+msgid "AAキャノニア"
+msgstr "AA Cannonier"
+
+#  Korean Text: '군용 바이오로이드를 생산하기 전, 블랙리버는 전투용 자동 로봇을 주력으로 하는 기업이었으며 AGS 시스템을 만들어 국제 연합군으로 활동하게 한 장본인이었다. 이 시스템의 허점을 파고 들어 기업들은 AGS에 의지하던 정부군을 격파할 수 있었으며 AGS는 서로를 향해 총을 겨누어야 했다.'
+#: TroopCategory[Squad_AGSRoboTech_1].Squad_Desc
+msgid ""
+"軍用バイオロイドを生産する前、ブラックリバーは戦闘用自動ロボットを主力としてきた企業でありＡＧＳシステムを作り国際連合軍として活動させた張本人であった。この"
+"システムの弱みを 狙ってきた企業達はＡＧＳに頼っていた政府軍を撃破する事ができ、ＡＧＳはお互いに銃を向け合わせざるを得なくなった。"
+msgstr ""
+
+#  Korean Text: 'AGS 로보테크'
+#: TroopCategory[Squad_AGSRoboTech_1].Squad_Name
+msgid "AGSロボテック"
+msgstr "AGS Robotech"
+
+#: TroopCategory[Squad_AGSRoboTech_2].Squad_Name
+msgid "AGSスパルタンズ"
+msgstr ""
+
+#  Korean Text: '0'
+#: TroopCategory[Squad_AmuseAttendant].Squad_Desc
+msgid ""
+"PECSの「パブリックサーバント」ラインアップは莫大な公共需要によって企業に大きな富をもたらしたが、コンソーシアムのトップたちはそれだけでは満足しなかった。"
+"\n"
+" "
+"命令を受けた秘書のレモネードは、市場分析結果を通し民間市場のニッチな層を狙うことを提案、それによりPECSの民間用ラインアップが世に姿を現わすこととなった。"
+"\n"
+" その中の一つであるAmuse "
+"Attendant、通称AAシリーズは美しい外見と徹底したサービス精神で世に旋風を巻き起こし、たちまちテーマパーク、競技場といった世界中の娯楽施設でその姿が"
+"見られるようになった。\n"
+"\n"
+" "
+"鉄虫の侵攻が始まると、人間は彼女たちを捨て後退した。残された彼女たちがどう思ったのかは分からないが、百年以上に渡り自身に与えられた居場所を守り続けたという事"
+"例が多く確認された。\n"
+" 生き残った個体、再生産された個体、そのすべてが現在、抵抗軍に合流し、戻るべき居場所を取り戻すため鉄虫と戦っている。"
+msgstr ""
+
+#  Korean Text: '어뮤즈 어텐던트'
+#: TroopCategory[Squad_AmuseAttendant].Squad_Name
+msgid "アミューズアテンダント"
+msgstr ""
+
+#  Korean Text: '앵거 오브 호드'
+#: TroopCategory[Squad_AngerOfTheHorde_1].Squad_Name
+msgid "アンガーオブホード"
+msgstr "Anger of Horde"
+
+#  Korean Text: '기본적으로 여러 가지 역할을 수행하는 것에 중점을 두는 가정용 바이오로이드에 주력한 삼안 산업이었지만 모든 바이오로이드가 다용도로 제작된 것은 아니었다. 몇몇 기종은 특수한 목적 등을 필요로 제작되었으며 가정과 사회 서비스 양쪽에서 사용되었다. 특히 교육용과 대규모 가사용 메이드는 규모가 큰 가정이나 학교 등에서 인기가 매우 높아 수많은 모델이 생산될 수 있었다.'
+#: TroopCategory[Squad_AnywhereSeries_1].Squad_Desc
+msgid ""
+"基本的に色んな役割を遂行する事に重点を置いた家庭用バイオロイドに力を注いでいた三安産業であったが、全てのバイオロイドが多用途に製作されたわけではなかった。い"
+"くつかの機種は特殊な目的等を必要として製作され、家庭と社会サービスの両方の面で使用された。特に教育用と大規模な家事用メイドは規模が大きい家庭や学校等で人気が"
+"とても高く数多くのモデルが生産された。"
+msgstr ""
+
+#  Korean Text: '애니웨어 시리즈'
+#: TroopCategory[Squad_AnywhereSeries_1].Squad_Name
+msgid "エニウェアシリーズ"
+msgstr "Anywhere Series"
+
+#  Korean Text: '연합 전쟁 당시, 회사 측은 강력하게 요새화된 도시들을 공격하기 위해 방어력과 공격력을 고루 갖춘 부대를 창설하기 위해 여러 바이오로이드들을 소집해 개조 과정을 거쳐 강력한 장갑 포병 전력을 만들었다. 과거, 장갑차나 전차와 같은 역할을 맡은 이 부대는 무장한 처녀들이라는 이름을 얻었고 회사 측의 공성에 자주 동원되었다.'
+#: TroopCategory[Squad_ArmoredMaiden_1].Squad_Desc
+msgid ""
+"連合戦争当時、会社側は強力に要塞化された都市達を攻撃するため防御力と攻撃力をしっかり備えた部隊を創設するため色んなバイオロイド達を召集して改造過程を経て強力"
+"な装甲砲兵戦力を作った。過去、装甲車や電車のような役割を任されたこの部隊は武装した処女達といった名前を得て会社側の攻城に動員された。"
+msgstr ""
+
+#  Korean Text: '아머드 메이든'
+#: TroopCategory[Squad_ArmoredMaiden_1].Squad_Name
+msgid "アーマードメイデン"
+msgstr "Armored Maiden"
+
+#  Korean Text: '배틀 메이드 프로젝트는 군대에 뒤지지 않는 화력을 지닌 테러리스트와 정부군의 공격에서 개인의 안전을 완벽하게 보장할 수 있도록 가정용 메이드에 전투 능력을 도입하는 실험 프로젝트였다. 베이스는 두 번째 바이오로이드이자 가장 완벽한 바이오로이드였던 라비아타였고, 그녀의 양산이 실제로 거의 불가능한만큼 그녀의 마이너 버전을 중심으로 했으며 그 과정에서 바닐라 A 시리즈와 콘스탄챠 S 시리즈가 태어났다. 실질적으로 가격과 성능에서 가장 완벽한 밸런스에 도달한 기종은 고급형인 콘스탄챠 S 시리즈였으며 그 중에서도 소량 생산된 S2 모델은 전설적인 성능에 도달할 수 있었다.'
+#: TroopCategory[Squad_BattleMaid_1].Squad_Desc
+msgid ""
+"バトルメイドプロジェクトは軍隊に負けない火力を持ったテロリストと政府軍の攻撃から個人の安全を完璧に保障できるよう家庭用メイドに戦闘能力を導入する実験プロジェ"
+"クトであった。ベースは二番目のバイオロイドであり一番完璧なバイオロイドであったラビアタであって、彼女の量産が実際にほぼ不可能であったので彼女のマイナーバージ"
+"ョンを中心にし、その過程からバニラＡシリーズとコンスタンツァＳシリーズが生まれた。実質的に価格と性能で一番完璧なバランスに到達した機種は高級型のコンスタンツ"
+"ァＳシリーズであって、その中でも少量生産されたＳ２モデルは伝説的な性能に到達する事ができた。"
+msgstr ""
+
+#  Korean Text: '배틀 메이드 프로젝트'
+#: TroopCategory[Squad_BattleMaid_1].Squad_Name
+msgid "バトルメイドプロジェクト"
+msgstr "Project Battle Maids"
+
+#  Korean Text: '버뮤다 팀'
+#: TroopCategory[Squad_Bermuda_1].Squad_Name
+msgid "バミューダチーム"
+msgstr "Bermuda Team"
+
+#  Korean Text: '펙스 콘소시엄은 공공 치안 분야에서는 독보적인 시장 점유율을 자랑했다. 개인의 안전에 치우친 고급 제품을 생산하던 삼안에 비해 펙스 콘소시엄은 생산성과 각종 상황에 대처하는 유연성이 좋은 것으로 유명했던 이 라인업은 테러리스트와도 맞설 수 있도록 설계되었다.'
+#: TroopCategory[Squad_CityGuard_1].Squad_Desc
+msgid ""
+"PECSコンソーシアムは公共治安分野では一人歩きしている程の市場占有率を誇っていた。個人の安全に偏った高級製品を生産していた三安に比べ、PECSコンソーシア"
+"ムは生産性と各種状況に対処する柔軟性が良い事で有名だったこのラインアップはテロリストとも向かい合えるよう設計された。"
+msgstr ""
+"PECS Consortium had a practical monopoly on public order and security. While "
+"Saman focused on producing high-end products for personal safety, PECS "
+"Consortium's lineup valued manpower and the flexibility to deal with various "
+"situations, including terrorism."
+
+#  Korean Text: '시티 가드'
+#: TroopCategory[Squad_CityGuard_1].Squad_Name
+msgid "シティーガード"
+msgstr "City Guard"
+
+#  Korean Text: '컴패니언 시리즈는 배틀 메이드 프로젝트에서 파생된 시리즈로 화력이 집중되는 현장에서 완벽하게 개인 경호를 맡을 수 있는 바이오로이드 메이드를 개발하는 것을 목표로 만들어진 시리즈다. 컴패니언들은 라비아타의 유전자를 일부 승계해 매우 전투력이 출중했으며 자신들의 주인에 집중하는 경향이 매우 강한 특징을 보여 부자들에게는 최고의 경호원으로 이름이 높았다. '
+#: TroopCategory[Squad_CompanionSeries_1].Squad_Desc
+msgid ""
+"コンパニオンシリーズはバトルメイドプロジェクトから派生したシリーズで火力が集中される現場で完璧に個人の警護を任せる事のできるバイオロイドメイドを開発する事を"
+"目標に作られたシリーズだ。コンパニオン達はラビアタの遺伝子を一部承継しとても戦闘力が抜きに出て自分達の主人に集中する傾向がとても強い特徴を見せお金持ちには最"
+"高の警護員として名が高っかった。"
+msgstr ""
+
+#  Korean Text: '컴패니언 시리즈'
+#: TroopCategory[Squad_CompanionSeries_1].Squad_Name
+msgid "コンパニオンシリーズ"
+msgstr "Companion Series"
+
+#  Korean Text: 'D-엔터테인먼트'
+#: TroopCategory[Squad_Dentertainment_1].Squad_Name
+msgid "D-エンターテインメント"
+msgstr "D-Entertainment"
+
+#: TroopCategory[Squad_Dentertainment_2].Squad_Name
+msgid "D-エンターテインメントII"
+msgstr ""
+
+#  Korean Text: '인류의 멸망에도 불구하고 여전히 가장 무장을 잘 갖춘 군대를 꼽자면 둠 브링어를 예로 들 수 있다. 회사들의 세계 지배에 따라 창설된 이 군대는 4군 중에서 가장 뒤늦게 만들어졌지만 가장 ㅋ악명 높은 명성을 얻기도 했다. 번개같이 날아와 퍼붓는 기동 타격과 성층권을 넘나들며 벌인 전략 폭격은 둠 브링어에게 자신의 이름에 걸맞는 명성을 주었다. 적들이 둠 브링어를 두려워한 또 다른 이유는 둠 브링어가 열핵 병기를 다양하게 보유하고 있었다는 점이다. 실제로 열핵 병기에 대한 제어권을 쥐고 있는 것은 인간이었기에 사용된 적은 없었지만 존재 만으로도 둠 브링어는 공포스러운 존재로 인정 받았다.'
+#: TroopCategory[Squad_DoomBringer_1].Squad_Desc
+msgid ""
+"人類の滅亡にも関わらず相変わらず一番武装を備えている軍隊として選ぶならドゥームブリンガーがある。会社の世界支配により創設されたこの軍隊は4軍中で一番遅く作ら"
+"れたが、一番悪名高い名声を得た。雷のように飛んでいき浴びせる機動打撃と成層圏を行き来し、始めた戦略爆撃はドゥームブリンガーに自身の名に合った名声を与えた。敵"
+"たちはドゥームブリンガーを恐れたまた他の理由はドゥームブリンガーが様々な熱核兵器を保有していたという点だ。実際に熱核兵器についての制御権を握っているのは人間"
+"であったので使用された事はなかったが、存在だけでもドゥームブリンガーは恐怖の存在として認められていた。"
+msgstr ""
+
+#  Korean Text: '둠 브링어'
+#: TroopCategory[Squad_DoomBringer_1].Squad_Name
+msgid "ドゥームブリンガー"
+msgstr "Doom Bringers"
+
+#  Korean Text: '수많은 중공업 분야에서 삼안산업과 경쟁했던 펙스 콘소시엄의 중공업용 라인업. 바이오로이드나 로봇 한 쪽으로 치우친 다른 라인업과 다르게 골든 워커즈 라인업은 적재적소에 로봇과 바이오로이드를 용도에 맞게 배치해 실용적인 라인업으로 인기가 높았다. 게다가 중공업 용 답게 뛰어난 내구성과 무기로도 변할 수 있는 작업 공구들은 연합 전쟁에서 손쉽게 병기로 개조되어 정부군과 싸웠다.'
+#: TroopCategory[Squad_GoldenWorkers_1].Squad_Desc
+msgid ""
+"数多くの重工業分野で三安産業と競争していたPECSコンソーシアムの重工業用ラインアップ。バイオロイドやロボット一方だけに偏った他のラインアップとは違ったゴー"
+"ルデンワーカーズラインアップは適材適所にロボットとバイオロイドを用途に合わせて配置し実用的なラインアップとして人気が高かった。それに重工業用らしく優れた耐久"
+"性と武器にも変化できる作業工具は連合戦争で手軽に兵器として改造され政府軍と戦った。"
+msgstr ""
+
+#  Korean Text: '골든 워커즈'
+#: TroopCategory[Squad_GoldenWorkers_1].Squad_Name
+msgid "ゴールデンワーカーズ"
+msgstr "Golden Walkers"
+
+#  Korean Text: '호라이즌'
+#: TroopCategory[Squad_Horizon_1].Squad_Name
+msgid "ホライゾン"
+msgstr "Horizon"
+
+#: TroopCategory[Squad_Kouhei].Squad_Name
+msgid "コウヘイ教団"
+msgstr ""
+
+#  Korean Text: '화성 및 태양계 개발을 위해 만들어진 펙스의 오비탈 와쳐는 군부대가 아님에도 불구하고 그 임무의 특수성 때문에 군 부대 이상가는 능력을 가진 부대였다. 특히 쏟아지는 유성우와 태양풍 속에서도 움직일 수 있는 내구력과 건설에 방해가 되는 지형을 밀어버릴 수 있는 화력을 갖춘 오비탈 와쳐는 인간의 마지막 황금기에 우주 개발에 투입되었고 그 능력을 발휘할 수 있었다.'
+#: TroopCategory[Squad_OrbitalWatcher_1].Squad_Desc
+msgid ""
+"火星及び太陽系の開発のために作られたPECSのオービタルウォッチャーは軍部隊ではないにも関わらずその任務の特殊性により軍部隊以上の能力を持つ部隊であった。特"
+"に降り注ぐ流星雨と太陽風の中でも動ける耐久力と建設に邪魔になる地形を削る事のできる火力を備えたオービタルウォッチャーは人間の最後の黄金期に宇宙開発に投入され"
+"その能力を発揮した。"
+msgstr ""
+
+#  Korean Text: '오비탈 와쳐'
+#: TroopCategory[Squad_OrbitalWatcher_1].Squad_Name
+msgid "オービタルウォッチャー"
+msgstr "Orbital Watcher"
+
+#  Korean Text: '펙스 콘소시엄의 각종 산업용 바이오로이드 라인업. 펙스는 주로 이 바이오로이드 임대업을 통해 수익을 얻는 형식이었고 산업의 종류만큼이나 생산되었기 압도적으로 다양한 종류의 바이오로이드가 생산되었다.'
+#: TroopCategory[Squad_PublicServant_1].Squad_Desc
+msgid ""
+"PECSコンソーシアムの各種産業用バイオロイドラインアップ。PECSは主にこのバイオロイド貸出業を通して収益を得る方式であって、産業の種類の数だけ生産された"
+"ため圧倒的に多様な種類のバイオロイドが生産された。"
+msgstr ""
+
+#  Korean Text: '퍼블릭 서번트'
+#: TroopCategory[Squad_PublicServant_1].Squad_Name
+msgid "パブリックサーバント"
+msgstr "Public Servant"
+
+#: TroopCategory[Squad_PublicServant_2].Squad_Name
+msgid "パブリックサーバントII"
+msgstr ""
+
+#  Korean Text: '스카이 나이츠'
+#: TroopCategory[Squad_SkyKnight_1].Squad_Name
+msgid "スカイナイツ"
+msgstr "Sky Knights"
+
+#  Korean Text: '스틸 라인은 한 때, 블랙 리버의 가장 거대한 군 부대 중 하나였다. 정신적으로 완벽한 것으로 이름이 높은 한정 생산 바이오로이드인 불굴의 마리 모델을 지휘관으로 삼은 이 부대는 기본적으로는 보병 부대에 가까웠지만 지상 지원 전력과 기갑 전력을 충실하게 갖추고 있었고 항공 부대까지 가지고 있었다. 스틸 라인은 여러 작전에서 유능한 면모를 발휘했지만 무엇보다도 강력한 모습을 발휘할 때는 바로 방어전을 수행할 때였다.'
+#: TroopCategory[Squad_SteelLine_1].Squad_Desc
+msgid ""
+"スチールラインはひと時、ブラックリバーの一番巨大な軍部隊の一つだった。精神的に完璧な事で名が高い限定生産バイオロイドの不屈のマリーモデルを指揮官としたこの部"
+"隊は基本的には歩兵部隊に近かったが、地上支援戦力と機甲戦力を十二分に備えており、航空部隊まで持っていた。スチールラインは色んな作戦で有能な姿を発揮していたが"
+"何よりも強力な姿を発揮する時はまさに防御戦を遂行する時であった。"
+msgstr ""
+
+#  Korean Text: '스틸 라인'
+#: TroopCategory[Squad_SteelLine_1].Squad_Name
+msgid "スチールライン"
+msgstr "Steel Line"
+
+#  Korean Text: '스틸 라인 지원부대'
+#: TroopCategory[Squad_SteelLine_2].Squad_Name
+msgid "スチールライン支援部隊"
+msgstr "Steel Line Support Units"
+
+#  Korean Text: '스트라이커즈'
+#: TroopCategory[Squad_Strikers].Squad_Name
+msgid "ストライカー"
+msgstr ""
+
+#  Korean Text: 'CT 팀은 도시 내 인간에 대한 테러 활동을 방지하기 위해 만들어진 군사 조직이다. 연합 전쟁 이후, 정부의 잔당들은 지속적으로 테러를 일삼았는데 CT 팀은 이 정부 잔당들로부터 시민을 보호하고 테러리스트들을 섬멸하기 위해 조직되었다. 시티 가드들과 마찰도 있었지만 CT 팀은 다양한 형태의 병과로 조직되었다는 점에서 시티 가드들에 비해 우위에 있었고 실제로 화력에서도 앞서는 편이었기에 강력한 테러에는 CT 팀이 출동하는 경우가 많았다.'
+#: TroopCategory[Squad_TeamMongus_1].Squad_Desc
+msgid ""
+"ＣＴチームは都市内の人間に対するテロ活動を防止するため作られた軍事組織だ。連合戦争以後、政府の残党達は持続的にテロに専念していたがＣＴチームはこの政府の残党"
+"達から市民を保護しテロリストを殲滅するために組織された。シティーガード達と摩擦もあったが、ＣＴチームは様々な形の兵科で組織されたという点でシティーガード達と"
+"比べて優位にあり、実際に火力でも先に進んでいた方であったので強力なテロにはＣＴチームが出動する場合が多かった。"
+msgstr ""
+
+#  Korean Text: '몽구스 팀'
+#: TroopCategory[Squad_TeamMongus_1].Squad_Name
+msgid "マングースチーム"
+msgstr "Team Mongoose"
+
+#  Korean Text: '발할라의 자매들로 불리는 이 집단군은 스틸 라인과 함게 블랙 리버에서 가장 거대한 규모를 자랑하는 군부대였다. 스틸 라인이 어디에서나 싸울 수 있는 군대를 지향했다면, 이 발할라의 재매들은 많은 공업 지대가 밀집되어 있는 냉대 지방과 한대 지방에서 싸우는 것을 기본으로 만들어졌다. 발할라의 자매들은 평탄한 지형보다는 험한 산지에서 싸우는 것이 목적이었기에 주로 보병 전력으로 편성되었고 강력한 화력 투사보다는 정밀한 화력을 투사하는 것에 강한 군대였다. 이 군대에서는 수많은 명저격수들이 탄생하곤 했다.'
+#: TroopCategory[Squad_Walhalla_1].Squad_Desc
+msgid ""
+"ヴァルハラの姉妹達と呼ばれるこの集団軍はスチールラインと共にブラックリバーで一番巨大な規模を誇る軍部隊であった。スチールラインがどこでも戦る軍隊を目指してい"
+"たならば、このヴァルハラの姉妹達は沢山の工業地帯が密集している冷帯地方と寒帯地方で戦う事を基本として作られた。ヴァルハラの姉妹達は平坦な地形よりも険しい山地"
+"で戦う事が目的であったために主に歩兵戦力で編成されており強力な火力投射よりは精密な火力を投射する事に強い軍隊であった。この軍隊では数多くの名狙撃手達が誕生し"
+"た。"
+msgstr ""
+
+#  Korean Text: '시스터즈 오브 발할라'
+#: TroopCategory[Squad_Walhalla_1].Squad_Name
+msgid "シスターズオブヴァルハラ"
+msgstr "Sisters of Walhalla"
+
+#: TroopCategory[Squad_Walhalla_2].Squad_Name
+msgid "シスターズオブヴァルハラII"
+msgstr ""

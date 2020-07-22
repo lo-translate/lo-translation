@@ -1,0 +1,68 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '적중+{0}%'
+#: CoreLinkBonus[Core_Bonus_ACC_5].CoreLink_Bonus_String
+msgid "命中率+{0}%"
+msgstr "Accuracy +{0}%"
+
+#  Korean Text: '공격력+{0}%'
+#: CoreLinkBonus[Core_Bonus_ATK_10].CoreLink_Bonus_String
+msgid "攻撃力+{0}%"
+msgstr "Attack +{0}%"
+
+#  Korean Text: '버프/디버프 효과 Lv+{0}'
+#: CoreLinkBonus[Core_Bonus_Buff_2].CoreLink_Bonus_String
+msgid "バフ／デバフ効果Lv+{0}"
+msgstr "Buff / Debuff Effect Lv +{0}"
+
+#  Korean Text: '출격 비용-{0}%'
+#: CoreLinkBonus[Core_Bonus_Cost_20].CoreLink_Bonus_String
+msgid "出撃費用-{0}%"
+msgstr "Sortieing Cost -{0}%"
+
+#  Korean Text: '치명타+{0}%'
+#: CoreLinkBonus[Core_Bonus_Cri_2].CoreLink_Bonus_String
+msgid "クリティカル率+{0}%"
+msgstr "Crit Chance +{0}%"
+
+#  Korean Text: '방어력+{0}%'
+#: CoreLinkBonus[Core_Bonus_DEF_3].CoreLink_Bonus_String
+msgid "防御力+{0}%"
+msgstr "Defense +{0}%"
+
+#  Korean Text: '회피+{0}%'
+#: CoreLinkBonus[Core_Bonus_EV_3].CoreLink_Bonus_String
+msgid "回避率+{0}%"
+msgstr "Evasion +{0}%"
+
+#  Korean Text: '획득 경험치+{0}%'
+#: CoreLinkBonus[Core_Bonus_Exp_5].CoreLink_Bonus_String
+msgid "獲得経験値+{0}%"
+msgstr "Experience +{0}%"
+
+#  Korean Text: '사거리+{0}'
+#: CoreLinkBonus[Core_Bonus_Range_1].CoreLink_Bonus_String
+msgid "射程距離+{0}"
+msgstr "Range +{0}"
+
+#  Korean Text: '스킬 위력+{0}%'
+#: CoreLinkBonus[Core_Bonus_Skill_2].CoreLink_Bonus_String
+msgid "スキル威力+{0}%"
+msgstr "Skill Power +{0}%"
+
+#  Korean Text: '행동력+{0}'
+#: CoreLinkBonus[Core_Bonus_SPD_2].CoreLink_Bonus_String
+msgid "行動力+{0}"
+msgstr "Action Speed +{0}"

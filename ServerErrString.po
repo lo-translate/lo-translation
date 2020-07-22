@@ -1,0 +1,2285 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#: ServerErrString[1].Info
+msgid "로그인시 발급되는 토큰이 유효하지 않을 경우 발생 함"
+msgstr ""
+
+#  Korean Text: '인증실패'
+#: ServerErrString[1].Msg
+msgid "認証失敗"
+msgstr ""
+
+#: ServerErrString[1].Pos
+msgid "시스템"
+msgstr "System"
+
+#: ServerErrString[2].Info
+msgid "기획데이터를 찾을 수 없음"
+msgstr ""
+
+#  Korean Text: '일반적오류'
+#: ServerErrString[2].Msg
+msgid "一般的エラー"
+msgstr ""
+
+#: ServerErrString[3].Info
+msgid "닉네임 중복체크 시 레디스 db에 이미 같은 닉네임이 존재함"
+msgstr ""
+
+#  Korean Text: '닉네임중복'
+#: ServerErrString[3].Msg
+msgid "ニックネーム重複"
+msgstr ""
+
+#: ServerErrString[4].Info
+msgid "GlobalValue 테이블 데이터에서 데이터 조회 실패"
+msgstr ""
+
+#: ServerErrString[5].Info
+msgid "치트 문자열 규칙에 맞지 않음"
+msgstr ""
+
+#  Korean Text: '치트 문자열 오류'
+#: ServerErrString[5].Msg
+msgid "チート文字列エラー"
+msgstr ""
+
+#: ServerErrString[6].Info
+msgid "데이터베이스 쿼리가 실패한 경우"
+msgstr ""
+
+#  Korean Text: 'DB일반적오류'
+#: ServerErrString[6].Msg
+msgid "ＤＢ一般的エラー"
+msgstr ""
+
+#: ServerErrString[7].Info
+msgid "데이터베이스와 서버가 연결에 문제가 발생한 경우"
+msgstr ""
+
+#  Korean Text: 'DB연결오류'
+#: ServerErrString[7].Msg
+msgid "ＤＢ連結エラー"
+msgstr ""
+
+#: ServerErrString[8].Info
+msgid "기획데이터에 존재하지 않은 데이터를 검색한 경우 발생 "
+msgstr ""
+
+#  Korean Text: '유효하지않은 데이터'
+#: ServerErrString[8].Msg
+msgid "有効でないデータ"
+msgstr ""
+
+#: ServerErrString[9].Info
+msgid "캐릭터를 보유수량 초과로 더 이상 캐릭터를 획득할 수 없는 경우 발생 "
+msgstr ""
+
+#  Korean Text: '캐릭터 보유 수량 초과'
+#: ServerErrString[9].Msg
+msgid "キャラクター保有数オーバー"
+msgstr "Unit capacity exceeded"
+
+#: ServerErrString[10].Info
+msgid "자원이 부족합니다"
+msgstr ""
+
+#  Korean Text: '자원이 부족합니다'
+#: ServerErrString[10].Msg
+msgid "資源が不足しています"
+msgstr ""
+
+#: ServerErrString[11].Info
+msgid "캐시 데이터 로딩 실패"
+msgstr ""
+
+#  Korean Text: '시스템 오류 '
+#: ServerErrString[11].Msg
+msgid "システムエラー"
+msgstr ""
+
+#: ServerErrString[12].Info
+msgid "상점 데이터 버전 체크 실패"
+msgstr ""
+
+#  Korean Text: '상점 데이터 버전 체크 실패'
+#: ServerErrString[12].Msg
+msgid "ストアデータバージョンチェック失敗"
+msgstr ""
+
+#: ServerErrString[14].Info
+msgid "마켓 타입 오류"
+msgstr ""
+
+#  Korean Text: '마켓 타입 오류'
+#: ServerErrString[14].Msg
+msgid "マーケットタイプエラー"
+msgstr ""
+
+#: ServerErrString[15].Info
+msgid "엑세스토큰 인증 실패"
+msgstr ""
+
+#  Korean Text: '엑세스토큰 인증 실패'
+#: ServerErrString[15].Msg
+msgid "アクセストークンの認証に失敗"
+msgstr ""
+
+#: ServerErrString[16].Info
+msgid "유효하지 않은 계정"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 계정'
+#: ServerErrString[16].Msg
+msgid "有効でないアカウント"
+msgstr ""
+
+#: ServerErrString[17].Info
+msgid "변경 할 수 없는 계정 연동 타입"
+msgstr ""
+
+#  Korean Text: '변경 할 수 없는 계정 연동 타입'
+#: ServerErrString[17].Msg
+msgid "変更できないアカウント連動タイプ"
+msgstr ""
+
+#: ServerErrString[18].Info
+msgid "이미 다른 계정이 연동되어 있음"
+msgstr ""
+
+#  Korean Text: '이미 다른 계정이 연동되어 있음'
+#: ServerErrString[18].Msg
+msgid "既に他のアカウントが連動されている"
+msgstr ""
+
+#: ServerErrString[19].Info
+msgid "입장가능한 서버를 찾지못했습니다. 다시시도해주세요"
+msgstr ""
+
+#  Korean Text: '입장가능한 서버를 찾지못했습니다. 다시시도해주세요'
+#: ServerErrString[19].Msg
+msgid "入場可能なサーバーが見つかりません。もう一度お試しください。"
+msgstr ""
+
+#: ServerErrString[20].Info
+msgid "계정연동 파라메터오류"
+msgstr ""
+
+#  Korean Text: '계정연동 파라메터오류'
+#: ServerErrString[20].Msg
+msgid "アカウント連動パラメーターエラー"
+msgstr ""
+
+#: ServerErrString[21].Info
+msgid "캐릭터정보 읽는도중 에러발생 "
+msgstr ""
+
+#  Korean Text: '캐릭터정보 읽는도중 에러발생 '
+#: ServerErrString[21].Msg
+msgid "キャラクター情報読み込み中エラー発生"
+msgstr ""
+
+#: ServerErrString[22].Info
+msgid "연구 데이터를 읽는도중 에러발생 "
+msgstr ""
+
+#  Korean Text: '연구 데이터를 읽는도중 에러발생 '
+#: ServerErrString[22].Msg
+msgid "研究データ読み込み中エラー発生"
+msgstr ""
+
+#: ServerErrString[23].Info
+msgid "클라이언트 버전이 맞지 않습니다"
+msgstr ""
+
+#  Korean Text: '클라이언트 버전이 맞지 않습니다'
+#: ServerErrString[23].Msg
+msgid "クライアントバージョンが合いません。"
+msgstr ""
+
+#: ServerErrString[24].Info
+msgid "닉네임 특수문자 오류"
+msgstr ""
+
+#  Korean Text: '닉네임 특수문자 오류'
+#: ServerErrString[24].Msg
+msgid "ニックネーム特殊文字エラー"
+msgstr ""
+
+#: ServerErrString[25].Info
+msgid "닉네임 길이 오류"
+msgstr ""
+
+#  Korean Text: '닉네임 길이 오류'
+#: ServerErrString[25].Msg
+msgid "ニックネーム長さエラー"
+msgstr ""
+
+#: ServerErrString[26].Info
+msgid "금칙어를 사용할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '금칙어를 사용할 수 없습니다'
+#: ServerErrString[26].Msg
+msgid "禁止単語が組まれています。"
+msgstr ""
+
+#: ServerErrString[27].Info
+msgid "점검중입니다"
+msgstr ""
+
+#  Korean Text: '점검중입니다'
+#: ServerErrString[27].Msg
+msgid "メンテナンス中です"
+msgstr ""
+
+#: ServerErrString[28].Info
+msgid "지금은 서버가 혼잡합니다. 나중에 다시 시도해주세요"
+msgstr ""
+
+#  Korean Text: '지금은 서버가 혼잡합니다. 나중에 다시 시도해주세요'
+#: ServerErrString[28].Msg
+msgid "今サーバーが混みあっています。しばらく後でもう一度お試しください。"
+msgstr ""
+
+#: ServerErrString[30].Info
+msgid "보상 중복 지급 문제로 인해, 해당 문제가 해결될 때까지 보상 일괄 획득 기능을 사용할 수 없는 상태입니다. 양해 부탁 드립니다."
+msgstr ""
+
+#  Korean Text: '보상 중복 지급 문제로 인해, 해당 문제가 해결될 때까지 보상 일괄 획득 기능을 사용할 수 없는 상태입니다. 양해 부탁 드립니다.'
+#: ServerErrString[30].Msg
+msgid "報酬重複支給問題のため、該当の問題が解決されるまで報酬一括獲得機能を使用できない状態です。ご了承ください。"
+msgstr ""
+
+#: ServerErrString[31].Info
+msgid "결제 오류"
+msgstr ""
+
+#  Korean Text: '결제 오류'
+#: ServerErrString[31].Msg
+msgid "決済エラー"
+msgstr ""
+
+#: ServerErrString[50].Info
+msgid "아이템 지급 수량이 없을 경우 발생"
+msgstr ""
+
+#  Korean Text: '아이템지급수량오류'
+#: ServerErrString[50].Msg
+msgid "アイテム支給数量エラー"
+msgstr ""
+
+#: ServerErrString[50].Pos
+msgid "아이템공통"
+msgstr ""
+
+#: ServerErrString[51].Info
+msgid "지워야 할 아이템 수량이 보유 수량보다 많은 경우 발생 "
+msgstr ""
+
+#  Korean Text: '아이템 삭제 수량 오류 '
+#: ServerErrString[51].Msg
+msgid "アイテム削除数量エラー"
+msgstr ""
+
+#: ServerErrString[52].Info
+msgid "필요 아이템이 부족합니다"
+msgstr ""
+
+#  Korean Text: '필요 아이템이 부족합니다'
+#: ServerErrString[52].Msg
+msgid "必要アイテムが不足しています"
+msgstr ""
+
+#: ServerErrString[100].Info
+msgid "분대원이 부족합니다"
+msgstr ""
+
+#  Korean Text: '분대원이 부족합니다'
+#: ServerErrString[100].Msg
+msgid "分隊員が不足しています"
+msgstr ""
+
+#: ServerErrString[100].Pos
+msgid "기타"
+msgstr "Other"
+
+#: ServerErrString[101].Info
+msgid "이미 보상 받았습니다"
+msgstr ""
+
+#  Korean Text: '이미 보상 받았습니다'
+#: ServerErrString[101].Msg
+msgid "既に報酬を受け取りました"
+msgstr ""
+
+#: ServerErrString[150].Info
+msgid "유효하지 않은 쿠폰"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 쿠폰'
+#: ServerErrString[150].Msg
+msgid "有効でないクーポン"
+msgstr ""
+
+#: ServerErrString[150].Pos
+msgid "쿠폰"
+msgstr ""
+
+#: ServerErrString[151].Info
+msgid "이미 쿠폰 사용"
+msgstr ""
+
+#  Korean Text: '이미 쿠폰 사용'
+#: ServerErrString[151].Msg
+msgid "既にクーポン使用"
+msgstr ""
+
+#: ServerErrString[152].Info
+msgid "이미 사용된 쿠폰"
+msgstr ""
+
+#  Korean Text: '이미 사용된 쿠폰'
+#: ServerErrString[152].Msg
+msgid "既に使用されたクーポン"
+msgstr ""
+
+#: ServerErrString[153].Info
+msgid "유통기한 지난 쿠폰"
+msgstr ""
+
+#  Korean Text: '유통기한 지난 쿠폰'
+#: ServerErrString[153].Msg
+msgid "賞味期限切れのクーポン"
+msgstr ""
+
+#: ServerErrString[154].Info
+msgid "쿠폰 보상 지급오류"
+msgstr ""
+
+#  Korean Text: '쿠폰 보상 지급오류'
+#: ServerErrString[154].Msg
+msgid "クーポン報酬支給エラー"
+msgstr ""
+
+#: ServerErrString[200].Info
+msgid "준비된 스쿼드가 없습니다"
+msgstr ""
+
+#  Korean Text: '준비된 스쿼드가 없습니다'
+#: ServerErrString[200].Msg
+msgid "準備できた分隊がありません。"
+msgstr ""
+
+#: ServerErrString[200].Pos
+msgid "자원탐색"
+msgstr ""
+
+#: ServerErrString[201].Info
+msgid "자원 탐색에 사용할 스쿼드 내부의 인원이 부족함"
+msgstr ""
+
+#  Korean Text: '스쿼드 인원이 부족합니다'
+#: ServerErrString[201].Msg
+msgid "分隊人員が不足しています"
+msgstr ""
+
+#: ServerErrString[202].Info
+msgid "스쿼드슬롯에 존재하는 PC정보를 Loading 하던중 실패"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 캐릭터정보'
+#: ServerErrString[202].Msg
+msgid "有効でないキャラクター情報"
+msgstr ""
+
+#: ServerErrString[203].Info
+msgid "자원 탐색에 투입되는 PC의 레벨 부족"
+msgstr ""
+
+#  Korean Text: '입장 PC 레벨 부족 '
+#: ServerErrString[203].Msg
+msgid "入場ＰＣレベル不足"
+msgstr ""
+
+#: ServerErrString[204].Info
+msgid "진행중인 자원탐사가 없음"
+msgstr ""
+
+#  Korean Text: '진행중인 자원탐사가 없음'
+#: ServerErrString[204].Msg
+msgid "進行中の資源探査無し"
+msgstr ""
+
+#: ServerErrString[205].Info
+msgid "이미 자원탐사가 진행중입니다"
+msgstr ""
+
+#  Korean Text: '이미 자원탐사가 진행중입니다'
+#: ServerErrString[205].Msg
+msgid "既に探査中の探検隊です"
+msgstr ""
+
+#: ServerErrString[206].Info
+msgid "이미 탐사중인 탐험대입니다"
+msgstr ""
+
+#: ServerErrString[207].Info
+msgid "탐사시간이 완료 되지 않음."
+msgstr ""
+
+#  Korean Text: '탐사가 완료되지 않음'
+#: ServerErrString[207].Msg
+msgid "探査が完了していません"
+msgstr ""
+
+#: ServerErrString[208].Info
+msgid "자원 탐색에 사용할 스쿼드가 없음"
+msgstr ""
+
+#: ServerErrString[250].Info
+msgid "장비 강화에 필요한 재료아이템이 없거나 부족함"
+msgstr ""
+
+#  Korean Text: '재료아이템부족'
+#: ServerErrString[250].Msg
+msgid "素材アイテム不足"
+msgstr ""
+
+#: ServerErrString[250].Pos
+msgid "장비강화"
+msgstr ""
+
+#: ServerErrString[251].Info
+msgid "존재하지 않거나, 유효하지 않은 아이템으로 강화 요청함"
+msgstr ""
+
+#  Korean Text: '강화대상 아이템이 유효하지 않습니다'
+#: ServerErrString[251].Msg
+msgid "強化対象アイテムが有効ではありません"
+msgstr ""
+
+#: ServerErrString[252].Info
+msgid "더 이상 강화할 수 없는 상태일 경우"
+msgstr ""
+
+#  Korean Text: '이미 최대강화 상태입니다'
+#: ServerErrString[252].Msg
+msgid "既に最大強化状態です"
+msgstr ""
+
+#: ServerErrString[253].Info
+msgid "존재하지 않거나, 유효하지 않은 재료아이템으로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 재료아이템으로 요청'
+#: ServerErrString[253].Msg
+msgid "有効でない素材アイテムで要請"
+msgstr ""
+
+#: ServerErrString[254].Info
+msgid "보유하고 있는 소모 자원이 부족한 경우 발생 "
+msgstr ""
+
+#  Korean Text: '보유 자원이 부족합니다'
+#: ServerErrString[254].Msg
+msgid "保有資源が不足しています"
+msgstr ""
+
+#: ServerErrString[255].Info
+msgid "재료에 잠금 아이템이 존재"
+msgstr ""
+
+#  Korean Text: '재료에 잠금 아이템이 존재'
+#: ServerErrString[255].Msg
+msgid "素材にロックされたアイテムが存在"
+msgstr ""
+
+#: ServerErrString[300].Info
+msgid "필요자원 개별수량이 10개 미만일 경우 "
+msgstr ""
+
+#  Korean Text: '필요자원 수량 부족'
+#: ServerErrString[300].Msg
+msgid "必要資源数量不足"
+msgstr ""
+
+#: ServerErrString[300].Pos
+msgid "아이템제작"
+msgstr ""
+
+#: ServerErrString[301].Info
+msgid "필요자원 개별 수량이 990 개를 초과할 경우 "
+msgstr ""
+
+#  Korean Text: '필요자원 수량 초과'
+#: ServerErrString[301].Msg
+msgid "必要資源数量オーバー"
+msgstr ""
+
+#: ServerErrString[302].Info
+msgid "기획데이터에 아이템 타입과 등급에 맞는 데이터가 없어서 문제발생"
+msgstr ""
+
+#  Korean Text: '아이템타입과 등급에 맞는 아이템을 제작할 수 없음'
+#: ServerErrString[302].Msg
+msgid "アイテムタイプと等級に合ったアイテムを製作できません"
+msgstr ""
+
+#: ServerErrString[303].Info
+msgid "제작 테이블의 기획데이터 검색 실패 시 발생 "
+msgstr ""
+
+#: ServerErrString[304].Info
+msgid "전투 장비 코어 소모아이템이 없음"
+msgstr ""
+
+#  Korean Text: '제작 필요아이템이 부족합니다'
+#: ServerErrString[304].Msg
+msgid "製作必要アイテムが不足しています"
+msgstr ""
+
+#: ServerErrString[305].Info
+msgid "빠른 제작 필요아이템 부족"
+msgstr ""
+
+#  Korean Text: '빠른 제작 필요아이템 부족'
+#: ServerErrString[305].Msg
+msgid "即製作に必要アイテム不足"
+msgstr ""
+
+#: ServerErrString[350].Info
+msgid "유효하지않은 아이템 타입으로 장착 요청한 경우 발생"
+msgstr ""
+
+#  Korean Text: '유효하지않은 아이템 타입'
+#: ServerErrString[350].Msg
+msgid "有効でないアイテムタイプ"
+msgstr ""
+
+#: ServerErrString[350].Pos
+msgid "아이템장착"
+msgstr ""
+
+#: ServerErrString[351].Info
+msgid "코어슬롯에는 아이템을 장착할 수 없음."
+msgstr ""
+
+#  Korean Text: '코어슬롯에는 장착불가'
+#: ServerErrString[351].Msg
+msgid "コアスロットには装着不可"
+msgstr ""
+
+#: ServerErrString[352].Info
+msgid "이미장착되었습니다"
+msgstr ""
+
+#  Korean Text: '이미장착되었습니다'
+#: ServerErrString[352].Msg
+msgid "既に装着されています"
+msgstr ""
+
+#: ServerErrString[353].Info
+msgid "장착 레벨이 부족합니다"
+msgstr ""
+
+#  Korean Text: '장착 레벨이 부족합니다'
+#: ServerErrString[353].Msg
+msgid "装着レベルが不足しています"
+msgstr ""
+
+#: ServerErrString[400].Info
+msgid "코어 대상이 잘못되었습니다"
+msgstr ""
+
+#  Korean Text: '코어 대상이 잘못되었습니다'
+#: ServerErrString[400].Msg
+msgid "コア対象が間違ってます"
+msgstr ""
+
+#: ServerErrString[400].Pos
+msgid "코어아이템"
+msgstr ""
+
+#: ServerErrString[401].Info
+msgid "코어 탈착에 필요한 소모성 아이템이 부족한 경우 발생함"
+msgstr ""
+
+#  Korean Text: '코어 탈착 소모 아이템이 부족합니다'
+#: ServerErrString[401].Msg
+msgid "コア脱着消費アイテムが足りません"
+msgstr ""
+
+#: ServerErrString[402].Info
+msgid "존재하지 않는 캐릭터에 코어 장착 요청이 온 경우 발생 "
+msgstr ""
+
+#  Korean Text: '유효하지 않은 캐릭터로 요청'
+#: ServerErrString[402].Msg
+msgid "有効でないキャラクターで要請"
+msgstr ""
+
+#: ServerErrString[403].Info
+msgid "유효하지 않은 재료 캐릭터로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 재료 캐릭터로 요청'
+#: ServerErrString[403].Msg
+msgid "有効でない素材キャラクターで要請"
+msgstr ""
+
+#: ServerErrString[404].Info
+msgid "유효하지 않은 슬롯으로의 요청"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 슬롯으로의 요청'
+#: ServerErrString[404].Msg
+msgid "有効でないスロットでの要請"
+msgstr ""
+
+#: ServerErrString[405].Info
+msgid "장착하려는 캐릭터가 다른 캐릭터에 재료로 코어링크되어 있는 경우"
+msgstr ""
+
+#  Korean Text: '코어링크된 캐릭터에 장착할 수 없습니다'
+#: ServerErrString[405].Msg
+msgid "コアリンクされたキャラクターに装着できません"
+msgstr ""
+
+#: ServerErrString[406].Info
+msgid "재료 캐릭터가 이미 다른 캐릭터에게 링크되어 있는 경우"
+msgstr ""
+
+#  Korean Text: '이미 링크된 캐릭터입니다'
+#: ServerErrString[406].Msg
+msgid "既にリンクされたキャラクターです"
+msgstr ""
+
+#: ServerErrString[409].Info
+msgid "기존 슬롯 정보 처리 오류"
+msgstr ""
+
+#  Korean Text: '기존 슬롯 정보 처리 오류'
+#: ServerErrString[409].Msg
+msgid "従来のスロット情報の処理エラー"
+msgstr ""
+
+#: ServerErrString[410].Info
+msgid "기존 장착 캐릭터 정보 제거 실패"
+msgstr ""
+
+#  Korean Text: '기존 장착 캐릭터 정보 제거 실패'
+#: ServerErrString[410].Msg
+msgid "従来の装着キャラクター情報の除去に失敗"
+msgstr ""
+
+#: ServerErrString[411].Info
+msgid "영구 링크 정보 등록 실패"
+msgstr ""
+
+#  Korean Text: '영구 링크 정보 등록 실패'
+#: ServerErrString[411].Msg
+msgid "永久リンク情報の登録に失敗"
+msgstr ""
+
+#: ServerErrString[412].Info
+msgid "링크 캐릭터 슬롯 장착 실패"
+msgstr ""
+
+#  Korean Text: '링크 캐릭터 슬롯 장착 실패'
+#: ServerErrString[412].Msg
+msgid "リンクキャラクターのスロットへの装着に失敗"
+msgstr ""
+
+#: ServerErrString[413].Info
+msgid "이미 링크된 캐릭터입니다"
+msgstr ""
+
+#: ServerErrString[414].Info
+msgid "아이템을 가지고있는 캐릭터를 링크할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '아이템을 가지고있는 캐릭터를 링크할 수 없습니다'
+#: ServerErrString[414].Msg
+msgid "アイテムを保有中のキャラクターはリンクできません"
+msgstr ""
+
+#: ServerErrString[415].Info
+msgid "SS 랭크 미만의 대체코어만 링크가 가능합니다."
+msgstr ""
+
+#  Korean Text: 'SS 랭크 미만의 대체코어만 링크가 가능합니다.'
+#: ServerErrString[415].Msg
+msgid "SSランク未満の代用コアのみリンクが可能です。"
+msgstr ""
+
+#: ServerErrString[416].Info
+msgid "SS 랭크의 대체코어만 링크가 가능합니다"
+msgstr ""
+
+#  Korean Text: 'SS 랭크의 대체코어만 링크가 가능합니다'
+#: ServerErrString[416].Msg
+msgid "SSランクの代用コアのみリンクが可能です。"
+msgstr ""
+
+#: ServerErrString[417].Info
+msgid "잠금 캐릭터는 영구링크할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '잠금 캐릭터는 영구링크할 수 없습니다'
+#: ServerErrString[417].Msg
+msgid "ロックキャラクターは永久リンクができません。"
+msgstr ""
+
+#: ServerErrString[420].Info
+msgid "빈슬롯으로 장착해제 요청"
+msgstr ""
+
+#  Korean Text: '빈슬롯으로 장착해제 요청'
+#: ServerErrString[420].Msg
+msgid "空きスロットに装着解除を要請"
+msgstr ""
+
+#: ServerErrString[421].Info
+msgid "링크 해제 실패"
+msgstr ""
+
+#  Korean Text: '링크 해제 실패'
+#: ServerErrString[421].Msg
+msgid "リンク解除失敗"
+msgstr ""
+
+#: ServerErrString[422].Info
+msgid "링크 해제 아이템이 부족합니다"
+msgstr ""
+
+#  Korean Text: '링크 해제 아이템이 부족합니다'
+#: ServerErrString[422].Msg
+msgid "リンク解除アイテムが足りません。"
+msgstr ""
+
+#: ServerErrString[430].Info
+msgid "유효하지않은 슬롯으로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지않은 슬롯으로 요청'
+#: ServerErrString[430].Msg
+msgid "有効でないスロットへの要請"
+msgstr ""
+
+#: ServerErrString[431].Info
+msgid "유효하지 않은 스킨정보로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 스킨정보로 요청'
+#: ServerErrString[431].Msg
+msgid "有効でないスキン情報への要請"
+msgstr ""
+
+#: ServerErrString[432].Info
+msgid "링크 스킨 설정 실패 "
+msgstr ""
+
+#  Korean Text: '링크 스킨 설정 실패 '
+#: ServerErrString[432].Msg
+msgid "リンクのスキン設定失敗"
+msgstr ""
+
+#: ServerErrString[433].Info
+msgid "보유하고있지 않은 스킨으로 변경할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '보유하고있지 않은 스킨으로 변경할 수 없습니다'
+#: ServerErrString[433].Msg
+msgid "未保有のスキンには変更できません。"
+msgstr ""
+
+#: ServerErrString[440].Info
+msgid "적합률이 500% 가 아님"
+msgstr ""
+
+#  Korean Text: '적합률이 500% 가 아님'
+#: ServerErrString[440].Msg
+msgid "適合率が500%ではない"
+msgstr ""
+
+#: ServerErrString[441].Info
+msgid "유효하지 않은 링크 보너스 키 문자열"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 링크 보너스 키 문자열'
+#: ServerErrString[441].Msg
+msgid "有効でないリンクボーナスキーの文字列"
+msgstr ""
+
+#: ServerErrString[442].Info
+msgid "링크 보너스 설정 실패"
+msgstr ""
+
+#  Korean Text: '링크 보너스 설정 실패'
+#: ServerErrString[442].Msg
+msgid "リンクボーナス設定失敗"
+msgstr ""
+
+#: ServerErrString[443].Info
+msgid "링크 해제 아이템 부족"
+msgstr ""
+
+#  Korean Text: '링크 해제 아이템 부족'
+#: ServerErrString[443].Msg
+msgid "リンク解除アイテム不足"
+msgstr ""
+
+#: ServerErrString[450].Info
+msgid "재료 아이템 부족"
+msgstr ""
+
+#: ServerErrString[450].Pos
+msgid "캐릭터강화"
+msgstr ""
+
+#: ServerErrString[451].Info
+msgid "확률의 합이 100%가 되지 않는 경우 발생함"
+msgstr ""
+
+#: ServerErrString[452].Info
+msgid "초기화를 위한 소모성 아이템을 보유하고 있지 않음"
+msgstr ""
+
+#  Korean Text: '초기화 아이템 부족'
+#: ServerErrString[452].Msg
+msgid "初期化アイテム不足"
+msgstr ""
+
+#: ServerErrString[453].Info
+msgid "강화가능횟수가 부족할 경우 "
+msgstr ""
+
+#  Korean Text: '강화가능횟수 부족'
+#: ServerErrString[453].Msg
+msgid "強化可能回数不足"
+msgstr ""
+
+#: ServerErrString[454].Info
+msgid "재료에 잠금 유닛이 존재"
+msgstr ""
+
+#  Korean Text: '재료에 잠금 유닛이 존재'
+#: ServerErrString[454].Msg
+msgid "素材にロックされたユニットが存在"
+msgstr ""
+
+#: ServerErrString[455].Info
+msgid "강화 대상 캐릭터가 유효하지 않습니다"
+msgstr ""
+
+#  Korean Text: '강화 대상 캐릭터가 유효하지 않습니다'
+#: ServerErrString[455].Msg
+msgid "強化対象キャラクターが有効ではありません"
+msgstr ""
+
+#: ServerErrString[456].Info
+msgid "코어유닛(대체코어)는 캐릭터 강화재료로 사용할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '코어유닛(대체코어)는 캐릭터 강화재료로 사용할 수 없습니다'
+#: ServerErrString[456].Msg
+msgid "コアユニット（代用コア）はキャラクターの強化素材には使用できません。"
+msgstr ""
+
+#: ServerErrString[457].Info
+msgid "링크된 캐릭터를 강화재료로 사용 할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '링크된 캐릭터를 강화재료로 사용 할 수 없습니다'
+#: ServerErrString[457].Msg
+msgid "リンクされたキャラクターを強化素材に使用することはできません。"
+msgstr ""
+
+#: ServerErrString[500].Info
+msgid "캐릭터 제작에 필요한 소모성 아이템을 보유하고 있지 않음"
+msgstr ""
+
+#  Korean Text: '필요아이템부족'
+#: ServerErrString[500].Msg
+msgid "必要アイテム不足"
+msgstr ""
+
+#: ServerErrString[500].Pos
+msgid "캐릭터제작"
+msgstr ""
+
+#: ServerErrString[501].Info
+msgid "클래스와 롤 및 등급에 해당하는 캐릭터 데이터를 찾을 수 없음"
+msgstr ""
+
+#: ServerErrString[502].Info
+msgid "제작에 필요한 자원이 부족할 경우 발생"
+msgstr ""
+
+#  Korean Text: '필요 자원 부족'
+#: ServerErrString[502].Msg
+msgid "必要資源不足"
+msgstr ""
+
+#: ServerErrString[503].Info
+msgid "빠른완료 아이템 부족"
+msgstr ""
+
+#  Korean Text: '빠른완료 아이템 부족'
+#: ServerErrString[503].Msg
+msgid "即完了アイテム不足"
+msgstr ""
+
+#: ServerErrString[504].Info
+msgid "캐릭터 제작 시간이 완료되지 않음"
+msgstr ""
+
+#  Korean Text: '캐릭터 제작 중'
+#: ServerErrString[504].Msg
+msgid "キャラクター製作中"
+msgstr ""
+
+#: ServerErrString[505].Info
+msgid "캐릭터 제작 슬롯이 이미사용중"
+msgstr ""
+
+#  Korean Text: '캐릭터 제작 슬롯이 이미사용중'
+#: ServerErrString[505].Msg
+msgid "キャラクター製作スロットが既に使用中"
+msgstr ""
+
+#: ServerErrString[506].Info
+msgid "캐릭터 생성 DB처리에 실패한 경우 "
+msgstr ""
+
+#  Korean Text: '캐릭터 생성실패'
+#: ServerErrString[506].Msg
+msgid "キャラクター生成失敗"
+msgstr ""
+
+#: ServerErrString[507].Info
+msgid "특수모듈 수량 부족"
+msgstr ""
+
+#  Korean Text: '특수모듈 수량 부족'
+#: ServerErrString[507].Msg
+msgid "特殊モジュール数量不足"
+msgstr ""
+
+#: ServerErrString[508].Info
+msgid "연구가 필요합니다"
+msgstr ""
+
+#  Korean Text: '연구가 필요합니다'
+#: ServerErrString[508].Msg
+msgid "研究が必要です"
+msgstr ""
+
+#: ServerErrString[550].Info
+msgid "서버로 수신된 스쿼드 인덱스가 잘못되었을 경우 발생"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 스쿼드로의 요청'
+#: ServerErrString[550].Msg
+msgid "有効でない分隊での要請"
+msgstr ""
+
+#: ServerErrString[550].Pos
+msgid "스쿼드장착"
+msgstr ""
+
+#: ServerErrString[552].Pos
+msgid "스쿼드탈착"
+msgstr ""
+
+#: ServerErrString[554].Info
+msgid "이미 다른 스쿼드에서 사용중인 캐릭터이거나 같은 종료의 캐릭터 사용불가"
+msgstr ""
+
+#  Korean Text: '이미 다른 스쿼드에서 사용중인 캐릭터이거나 같은 종료의 캐릭터 사용불가'
+#: ServerErrString[554].Msg
+msgid "既に他の分隊で使用中のキャラクターや、同じ種類のキャラクター使用不可"
+msgstr ""
+
+#: ServerErrString[555].Info
+msgid "자원탐색 중인 유닛은 스쿼드 배치 불가"
+msgstr ""
+
+#  Korean Text: '자원탐색 중인 유닛은 스쿼드 배치 불가'
+#: ServerErrString[555].Msg
+msgid "資源探索中のユニットは分隊配置不可"
+msgstr ""
+
+#: ServerErrString[557].Info
+msgid "유효하지 않은 캐릭터입니다"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 캐릭터입니다'
+#: ServerErrString[557].Msg
+msgid "有効でないキャラクターです"
+msgstr ""
+
+#: ServerErrString[558].Info
+msgid "자원 탐색 스쿼드는 4부대까지만 파견할 수 있습니다"
+msgstr ""
+
+#  Korean Text: '자원 탐색 스쿼드는 4부대까지만 파견할 수 있습니다'
+#: ServerErrString[558].Msg
+msgid "資源探索分隊は４部隊まで派遣できます"
+msgstr ""
+
+#: ServerErrString[600].Info
+msgid "장비 제작 시간이 완료되지 않음"
+msgstr ""
+
+#  Korean Text: '장비 제작 중'
+#: ServerErrString[600].Msg
+msgid "装備製作中"
+msgstr ""
+
+#: ServerErrString[600].Pos
+msgid "장비제작"
+msgstr ""
+
+#: ServerErrString[601].Info
+msgid "아이템 잠금 업데이트 오류"
+msgstr ""
+
+#  Korean Text: '아이템 잠금 업데이트 오류'
+#: ServerErrString[601].Msg
+msgid "アイテムロックアップデートエラー"
+msgstr ""
+
+#: ServerErrString[650].Info
+msgid "인벤 공간이 부족합니다"
+msgstr ""
+
+#  Korean Text: '인벤 공간이 부족합니다'
+#: ServerErrString[650].Msg
+msgid "インベントリースペースが不足しています"
+msgstr ""
+
+#: ServerErrString[651].Info
+msgid "장착인벤에 삭제할 아이템이 없을 경우 발생 함"
+msgstr ""
+
+#  Korean Text: '제거할 장착아이템이 존재하지 않음'
+#: ServerErrString[651].Msg
+msgid "除去する装着アイテムが存在しません"
+msgstr ""
+
+#: ServerErrString[652].Info
+msgid "장착할 아이템이 장착된 상태가 아닐 경우 발생 함"
+msgstr ""
+
+#  Korean Text: '장착된 아이템이 아님'
+#: ServerErrString[652].Msg
+msgid "装着されたアイテムではありません"
+msgstr ""
+
+#: ServerErrString[653].Info
+msgid "인벤 에 삭제할 아이템이 없을 경우 발생 함"
+msgstr ""
+
+#  Korean Text: '제거할 인벤아이템이 존재하지않음'
+#: ServerErrString[653].Msg
+msgid "除去するインベントリーアイテムが存在しません"
+msgstr ""
+
+#: ServerErrString[654].Info
+msgid "유효하지않은 아이템"
+msgstr ""
+
+#  Korean Text: '유효하지않은 아이템'
+#: ServerErrString[654].Msg
+msgid "有効でないアイテム"
+msgstr ""
+
+#: ServerErrString[655].Info
+msgid "유효하지않은 캐릭터"
+msgstr ""
+
+#  Korean Text: '유효하지않은 캐릭터'
+#: ServerErrString[655].Msg
+msgid "有効でないキャラクター"
+msgstr ""
+
+#: ServerErrString[656].Info
+msgid "유효하지 않은 장착 슬롯"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 장착 슬롯'
+#: ServerErrString[656].Msg
+msgid "有効でない装着スロット"
+msgstr ""
+
+#: ServerErrString[700].Info
+msgid "장착되어있는 아이템이 아닙니다"
+msgstr ""
+
+#  Korean Text: '장착되어있는 아이템이 아닙니다'
+#: ServerErrString[700].Msg
+msgid "装着されているアイテムではありません"
+msgstr ""
+
+#: ServerErrString[700].Pos
+msgid "아이템탈착"
+msgstr ""
+
+#: ServerErrString[750].Info
+msgid "유효하지 않은 아이템키"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 아이템키'
+#: ServerErrString[750].Msg
+msgid "有効でないアイテムキー"
+msgstr ""
+
+#: ServerErrString[750].Pos
+msgid "아이템"
+msgstr ""
+
+#: ServerErrString[751].Info
+msgid "소모성 아이템만 이용할 수 있습니다"
+msgstr ""
+
+#  Korean Text: '소모성 아이템만 이용할 수 있습니다'
+#: ServerErrString[751].Msg
+msgid "消耗性アイテムのみ利用できます"
+msgstr ""
+
+#: ServerErrString[752].Info
+msgid "수량 부족"
+msgstr ""
+
+#  Korean Text: '수량 부족'
+#: ServerErrString[752].Msg
+msgid "数量不足"
+msgstr ""
+
+#: ServerErrString[800].Info
+msgid "유효하지 않은 수복 슬롯으로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 수복 슬롯으로 요청'
+#: ServerErrString[800].Msg
+msgid "有効でない修復スロットで要請"
+msgstr ""
+
+#: ServerErrString[800].Pos
+msgid "캐릭터 수복"
+msgstr ""
+
+#: ServerErrString[801].Info
+msgid "수복이 불필요한 상태입니다"
+msgstr ""
+
+#  Korean Text: '수복이 불필요한 상태입니다'
+#: ServerErrString[801].Msg
+msgid "修復が不必要な状態です"
+msgstr ""
+
+#: ServerErrString[802].Info
+msgid "쾌속 수복 아이템이 부족합니다"
+msgstr ""
+
+#  Korean Text: '쾌속 수복 아이템이 부족합니다'
+#: ServerErrString[802].Msg
+msgid "快速修復アイテムが不足しています"
+msgstr ""
+
+#: ServerErrString[803].Info
+msgid "수복 신청 내역이 없습니다"
+msgstr ""
+
+#  Korean Text: '수복 신청 내역이 없습니다'
+#: ServerErrString[803].Msg
+msgid "修復申請内訳がありません"
+msgstr ""
+
+#: ServerErrString[804].Info
+msgid "수복이 완료되지 않았습니다"
+msgstr ""
+
+#  Korean Text: '수복이 완료되지 않았습니다'
+#: ServerErrString[804].Msg
+msgid "修復が完了していません"
+msgstr ""
+
+#: ServerErrString[805].Info
+msgid "중파 상태인 캐릭터만 수복할 수 있습니다."
+msgstr ""
+
+#  Korean Text: '중파 상태인 캐릭터만 수복할 수 있습니다.'
+#: ServerErrString[805].Msg
+msgid "中破状態のキャラクターのみ修復できます。"
+msgstr ""
+
+#: ServerErrString[850].Info
+msgid "스쿼드 교체 잔여수량 부족 "
+msgstr ""
+
+#  Korean Text: '스쿼드 교체 잔여수량 부족 '
+#: ServerErrString[850].Msg
+msgid "分隊交代の残り数量不足"
+msgstr ""
+
+#: ServerErrString[850].Pos
+msgid "전투스쿼드교체"
+msgstr ""
+
+#: ServerErrString[851].Info
+msgid "유효하지않은 스쿼드로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지않은 스쿼드로 요청'
+#: ServerErrString[851].Msg
+msgid "有効でない分隊で要請"
+msgstr ""
+
+#: ServerErrString[852].Info
+msgid "전투가 진행중인상태에서는 이용할 수 없습니다."
+msgstr ""
+
+#  Korean Text: '전투가 진행중인상태에서는 이용할 수 없습니다.'
+#: ServerErrString[852].Msg
+msgid "戦闘が行われている状態では利用できません。"
+msgstr ""
+
+#: ServerErrString[860].Pos
+msgid "전투위치이동"
+msgstr ""
+
+#: ServerErrString[861].Info
+msgid "유효하지않은 aid로 요청"
+msgstr ""
+
+#  Korean Text: '유효하지않은 aid로 요청'
+#: ServerErrString[861].Msg
+msgid "有効でないＡＩＤで要請"
+msgstr ""
+
+#: ServerErrString[870].Info
+msgid "유효하지 않은 pcid로 요청 "
+msgstr ""
+
+#  Korean Text: '유효하지 않은 pcid로 요청 '
+#: ServerErrString[870].Msg
+msgid "有効でないＰＣＩＤで要請"
+msgstr ""
+
+#: ServerErrString[870].Pos
+msgid "응급수복"
+msgstr ""
+
+#: ServerErrString[871].Info
+msgid "기획데이터 오류 "
+msgstr ""
+
+#  Korean Text: '기획데이터 오류 '
+#: ServerErrString[871].Msg
+msgid "企画データエラー"
+msgstr ""
+
+#: ServerErrString[872].Info
+msgid "자원부족 "
+msgstr ""
+
+#  Korean Text: '자원부족 '
+#: ServerErrString[872].Msg
+msgid "資源不足"
+msgstr "Not enough resources"
+
+#: ServerErrString[880].Info
+msgid "이미 변경 된 상태입니다"
+msgstr ""
+
+#  Korean Text: '이미 변경 된 상태입니다'
+#: ServerErrString[880].Msg
+msgid "既に変更された状態です"
+msgstr ""
+
+#: ServerErrString[900].Info
+msgid "이미사용중인 캐릭터입니다"
+msgstr ""
+
+#  Korean Text: '이미사용중인 캐릭터입니다'
+#: ServerErrString[900].Msg
+msgid "既に使用中のキャラクターです"
+msgstr ""
+
+#: ServerErrString[900].Pos
+msgid "캐릭터 공통"
+msgstr ""
+
+#: ServerErrString[950].Info
+msgid "맵 입장 난이도가 유효하지 않습니다."
+msgstr ""
+
+#  Korean Text: '맵 입장 난이도가 유효하지 않습니다.'
+#: ServerErrString[950].Msg
+msgid "マップ入場難易度が有効ではありません．"
+msgstr ""
+
+#: ServerErrString[950].Pos
+msgid "맵입장"
+msgstr ""
+
+#: ServerErrString[951].Info
+msgid "유효하지 않은 스테이지 "
+msgstr ""
+
+#  Korean Text: '유효하지 않은 스테이지 '
+#: ServerErrString[951].Msg
+msgid "有効でないステージ"
+msgstr ""
+
+#: ServerErrString[952].Info
+msgid "유효하지 않은 스쿼드"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 스쿼드'
+#: ServerErrString[952].Msg
+msgid "有効でない分隊"
+msgstr ""
+
+#: ServerErrString[953].Info
+msgid "수복이 필요한 스쿼드 존재함. "
+msgstr ""
+
+#  Korean Text: '수복이 필요한 스쿼드 존재함. '
+#: ServerErrString[953].Msg
+msgid "修復が必要な分隊が存在します。"
+msgstr ""
+
+#: ServerErrString[954].Info
+msgid "맵에 등록된 미션정보가 유효하지 않습니다."
+msgstr ""
+
+#  Korean Text: '맵에 등록된 미션정보가 유효하지 않습니다.'
+#: ServerErrString[954].Msg
+msgid "マップに登録されたミッション情報が有効ではありません。"
+msgstr ""
+
+#: ServerErrString[955].Info
+msgid "자원이 부족하여 입장할 수 없습니다."
+msgstr ""
+
+#  Korean Text: '자원이 부족하여 입장할 수 없습니다.'
+#: ServerErrString[955].Msg
+msgid "資源が不足しており入場できません。"
+msgstr ""
+
+#: ServerErrString[956].Info
+msgid "필요 캐릭터가 존재하지 않습니다"
+msgstr ""
+
+#  Korean Text: '필요 캐릭터가 존재하지 않습니다'
+#: ServerErrString[956].Msg
+msgid "必要キャラクターが存在しません"
+msgstr ""
+
+#: ServerErrString[957].Info
+msgid "입장 가능한 요일이 아닙니다"
+msgstr ""
+
+#  Korean Text: '입장 가능한 요일이 아닙니다'
+#: ServerErrString[957].Msg
+msgid "入場可能な曜日ではありません"
+msgstr ""
+
+#: ServerErrString[958].Info
+msgid "연구 필요"
+msgstr ""
+
+#  Korean Text: '연구 필요'
+#: ServerErrString[958].Msg
+msgid "研究必要"
+msgstr ""
+
+#: ServerErrString[959].Info
+msgid "재접속 할 수 없는 상태임"
+msgstr ""
+
+#  Korean Text: '재접속 할 수 없는 상태임'
+#: ServerErrString[959].Msg
+msgid "再接続できない状態です"
+msgstr ""
+
+#: ServerErrString[959].Pos
+msgid "재접속"
+msgstr ""
+
+#: ServerErrString[960].Info
+msgid "유저데이터를 찾을 수 없음"
+msgstr ""
+
+#  Korean Text: '유저데이터를 찾을 수 없음'
+#: ServerErrString[960].Msg
+msgid "ユーザーデータが見つかりません"
+msgstr ""
+
+#: ServerErrString[961].Info
+msgid "강화재료 캐릭터는 사용할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '강화재료 캐릭터는 사용할 수 없습니다'
+#: ServerErrString[961].Msg
+msgid "強化素材キャラクターは使えません"
+msgstr ""
+
+#: ServerErrString[962].Info
+msgid "접속자가 많아 입장할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '접속자가 많아 입장할 수 없습니다'
+#: ServerErrString[962].Msg
+msgid "接続者が多いため入場できません"
+msgstr ""
+
+#: ServerErrString[1000].Info
+msgid "유효하지 않은 아이템으로 분해 요청 "
+msgstr ""
+
+#  Korean Text: '유효하지 않은 아이템으로 분해 요청 '
+#: ServerErrString[1000].Msg
+msgid "有効でないアイテムで分解要請"
+msgstr ""
+
+#: ServerErrString[1000].Pos
+msgid "분해"
+msgstr "Recycling"
+
+#: ServerErrString[1001].Info
+msgid "장착되어 있는 아이템은 분해할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '장착되어 있는 아이템은 분해할 수 없습니다'
+#: ServerErrString[1001].Msg
+msgid "装着されているアイテムは分解できません"
+msgstr ""
+
+#: ServerErrString[1002].Info
+msgid "유효하지 않은 캐릭터로 분해 요청 "
+msgstr ""
+
+#  Korean Text: '유효하지 않은 캐릭터로 분해 요청 '
+#: ServerErrString[1002].Msg
+msgid "有効でないキャラクターで分解要請"
+msgstr ""
+
+#: ServerErrString[1003].Info
+msgid "잠금 유닛"
+msgstr ""
+
+#  Korean Text: '잠금 유닛'
+#: ServerErrString[1003].Msg
+msgid "ロックされたユニット"
+msgstr ""
+
+#: ServerErrString[1004].Info
+msgid "잠금 아이템"
+msgstr ""
+
+#  Korean Text: '잠금 아이템'
+#: ServerErrString[1004].Msg
+msgid "ロックされたアイテム"
+msgstr ""
+
+#: ServerErrString[1005].Info
+msgid "한번에 최대 18개 이하의 수량으로 분해 하실 수 있습니다"
+msgstr ""
+
+#  Korean Text: '한번에 최대 18개 이하의 수량으로 분해 하실 수 있습니다'
+#: ServerErrString[1005].Msg
+msgid "一度に最大１８個以下の数量で分解できます"
+msgstr ""
+
+#: ServerErrString[1100].Info
+msgid "유효하지 않은 이야기 요청"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 이야기 요청'
+#: ServerErrString[1100].Msg
+msgid "有効でないストーリー要請"
+msgstr ""
+
+#: ServerErrString[1100].Pos
+msgid "숙소이야기"
+msgstr ""
+
+#: ServerErrString[1101].Info
+msgid "조건을 만족하지 않습니다"
+msgstr ""
+
+#  Korean Text: '조건을 만족하지 않습니다'
+#: ServerErrString[1101].Msg
+msgid "条件を満たしていません"
+msgstr ""
+
+#: ServerErrString[1102].Info
+msgid "시스템 오류 "
+msgstr ""
+
+#: ServerErrString[1103].Info
+msgid "이미 진행중인 이야기입니다"
+msgstr ""
+
+#  Korean Text: '이미 진행중인 이야기입니다'
+#: ServerErrString[1103].Msg
+msgid "既に行われているストーリーです"
+msgstr ""
+
+#: ServerErrString[2100].Info
+msgid "이미 리더로 설정된 PC 입니다"
+msgstr ""
+
+#  Korean Text: '이미 리더로 설정된 PC 입니다'
+#: ServerErrString[2100].Msg
+msgid "既にリーダーとして設定されたＰＣです"
+msgstr ""
+
+#: ServerErrString[2100].Pos
+msgid "리더시스템"
+msgstr ""
+
+#: ServerErrString[2101].Info
+msgid "스쿼드에 존재하지 않는 캐릭터입니다"
+msgstr ""
+
+#  Korean Text: '스쿼드에 존재하지 않는 캐릭터입니다'
+#: ServerErrString[2101].Msg
+msgid "分隊に存在しないキャラクターです"
+msgstr ""
+
+#: ServerErrString[3000].Info
+msgid "유효한 닉네임이 아닙니다"
+msgstr ""
+
+#  Korean Text: '유효한 닉네임이 아닙니다'
+#: ServerErrString[3000].Msg
+msgid "有効なニックネームではありません"
+msgstr ""
+
+#: ServerErrString[3000].Pos
+msgid "친구"
+msgstr "Friend"
+
+#: ServerErrString[3001].Info
+msgid "존재하지 않는 유저입니다"
+msgstr ""
+
+#  Korean Text: '존재하지 않는 유저입니다'
+#: ServerErrString[3001].Msg
+msgid "存在しないユーザーです"
+msgstr ""
+
+#: ServerErrString[3002].Info
+msgid "유효하지 않은 유저 고유번호입니다"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 유저 고유번호입니다'
+#: ServerErrString[3002].Msg
+msgid "有効でないユーザー固有番号です"
+msgstr ""
+
+#: ServerErrString[3003].Info
+msgid "추천할 유저를 찾을 수 없습니다"
+msgstr ""
+
+#  Korean Text: '추천할 유저를 찾을 수 없습니다'
+#: ServerErrString[3003].Msg
+msgid "おすすめユーザーが見つかりません"
+msgstr ""
+
+#: ServerErrString[3004].Info
+msgid "더이상 친구를 추가할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '더이상 친구를 추가할 수 없습니다'
+#: ServerErrString[3004].Msg
+msgid "これ以上友達を追加できません"
+msgstr ""
+
+#: ServerErrString[3005].Info
+msgid "더이상 친구를 요청할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '더이상 친구를 요청할 수 없습니다'
+#: ServerErrString[3005].Msg
+msgid "これ以上友達を要請できません"
+msgstr ""
+
+#: ServerErrString[3006].Info
+msgid "이미 친구입니다"
+msgstr ""
+
+#  Korean Text: '이미 친구입니다'
+#: ServerErrString[3006].Msg
+msgid "既に友達です"
+msgstr ""
+
+#: ServerErrString[3007].Info
+msgid "이미 초대한 친구 입니다. "
+msgstr ""
+
+#  Korean Text: '이미 초대한 친구 입니다. '
+#: ServerErrString[3007].Msg
+msgid "既に招待した友達です。"
+msgstr ""
+
+#: ServerErrString[3008].Info
+msgid "친구 데이터를 찾을 수 없습니다 (캐시)"
+msgstr ""
+
+#  Korean Text: '친구 데이터를 찾을 수 없습니다 (캐시)'
+#: ServerErrString[3008].Msg
+msgid "友達データーが見つかりません（キャッシュ）"
+msgstr ""
+
+#: ServerErrString[3009].Info
+msgid "친구 초대를 받은 적이 없습니다"
+msgstr ""
+
+#  Korean Text: '친구 초대를 받은 적이 없습니다'
+#: ServerErrString[3009].Msg
+msgid "友達招待を受けた事がありません"
+msgstr ""
+
+#: ServerErrString[3010].Info
+msgid "상대방이 초대를 한적이 없습니다"
+msgstr ""
+
+#  Korean Text: '상대방이 초대를 한적이 없습니다'
+#: ServerErrString[3010].Msg
+msgid "相手が招待した事がありません"
+msgstr ""
+
+#: ServerErrString[3011].Info
+msgid "접속 가능한 채팅서버가 없습니다."
+msgstr ""
+
+#  Korean Text: '접속 가능한 채팅서버가 없습니다.'
+#: ServerErrString[3011].Msg
+msgid "接続可能なチャットサーバーがありません"
+msgstr ""
+
+#: ServerErrString[3012].Info
+msgid "친구가 접속한 채팅 서버 정보를 찾을 수 없습니다"
+msgstr ""
+
+#  Korean Text: '친구가 접속한 채팅 서버 정보를 찾을 수 없습니다'
+#: ServerErrString[3012].Msg
+msgid "友達が接続したチャットサーバー情報が見つかりません"
+msgstr ""
+
+#: ServerErrString[3013].Info
+msgid "자기자신을 검색할 수 없습니다"
+msgstr ""
+
+#  Korean Text: '자기자신을 검색할 수 없습니다'
+#: ServerErrString[3013].Msg
+msgid "自分自身を検索できません"
+msgstr ""
+
+#: ServerErrString[3014].Info
+msgid "상대방이 친구를 맺을 수 없는 상태입니다."
+msgstr ""
+
+#  Korean Text: '상대방이 친구를 맺을 수 없는 상태입니다.'
+#: ServerErrString[3014].Msg
+msgid "相手が友達になれない状態です。"
+msgstr ""
+
+#: ServerErrString[3015].Info
+msgid "상대방이 이미 나를 초대하였습니다."
+msgstr ""
+
+#  Korean Text: '상대방이 이미 나를 초대하였습니다.'
+#: ServerErrString[3015].Msg
+msgid "相手が既に私を招待しました。"
+msgstr ""
+
+#: ServerErrString[3016].Info
+msgid "상대방이 더이상 친구를 맺을 수 없습니다"
+msgstr ""
+
+#  Korean Text: '상대방이 더이상 친구를 맺을 수 없습니다'
+#: ServerErrString[3016].Msg
+msgid "相手がこれ以上友達を登録できません"
+msgstr ""
+
+#: ServerErrString[3017].Info
+msgid "상대방은 친구가 아닙니다"
+msgstr ""
+
+#  Korean Text: '상대방은 친구가 아닙니다'
+#: ServerErrString[3017].Msg
+msgid "相手は友達ではありません"
+msgstr ""
+
+#: ServerErrString[3018].Info
+msgid "상대방이 초대 요청한 상태입니다."
+msgstr ""
+
+#  Korean Text: '상대방이 초대 요청한 상태입니다.'
+#: ServerErrString[3018].Msg
+msgid "相手が招待要請した状態です。"
+msgstr ""
+
+#: ServerErrString[3019].Info
+msgid "상대방이 요청을 취소했습니다."
+msgstr ""
+
+#  Korean Text: '상대방이 요청을 취소했습니다.'
+#: ServerErrString[3019].Msg
+msgid "相手が要請をキャンセルしました。"
+msgstr ""
+
+#: ServerErrString[3500].Info
+msgid "지원스쿼드는 빈 스쿼드로 설정할수 없습니다"
+msgstr ""
+
+#  Korean Text: '지원스쿼드는 빈 스쿼드로 설정할수 없습니다'
+#: ServerErrString[3500].Msg
+msgid "支援分隊は空きの分隊として設定できません"
+msgstr ""
+
+#: ServerErrString[3500].Pos
+msgid "프로필"
+msgstr "Profile"
+
+#: ServerErrString[3501].Info
+msgid "소개말 사이즈 초과"
+msgstr ""
+
+#  Korean Text: '소개말 사이즈 초과'
+#: ServerErrString[3501].Msg
+msgid "紹介文サイズオーバー"
+msgstr ""
+
+#: ServerErrString[3502].Info
+msgid "소개말 금칙어 사용"
+msgstr ""
+
+#  Korean Text: '소개말 금칙어 사용'
+#: ServerErrString[3502].Msg
+msgid "紹介文に禁止語が使われています"
+msgstr ""
+
+#: ServerErrString[4000].Info
+msgid "퀘스트 보상을 받을 수 있는 상태가 아닙니다"
+msgstr ""
+
+#  Korean Text: '퀘스트 보상을 받을 수 있는 상태가 아닙니다'
+#: ServerErrString[4000].Msg
+msgid "クエスト報酬を受け取れる状態ではありません"
+msgstr ""
+
+#: ServerErrString[4000].Pos
+msgid "퀘스트"
+msgstr ""
+
+#: ServerErrString[4001].Info
+msgid "보상가능한 퀘스트가 없습니다"
+msgstr ""
+
+#  Korean Text: '보상가능한 퀘스트가 없습니다'
+#: ServerErrString[4001].Msg
+msgid "報酬可能なクエストがありません"
+msgstr ""
+
+#: ServerErrString[5000].Info
+msgid "유효하지 않은 연구"
+msgstr ""
+
+#  Korean Text: '유효하지 않은 연구'
+#: ServerErrString[5000].Msg
+msgid "有効でない研究"
+msgstr ""
+
+#: ServerErrString[5000].Pos
+msgid "연구"
+msgstr "Research"
+
+#: ServerErrString[5001].Info
+msgid "완료되지 않은 연구 퀘스트가 있습니다"
+msgstr ""
+
+#  Korean Text: '완료되지 않은 연구 퀘스트가 있습니다'
+#: ServerErrString[5001].Msg
+msgid "完了していない研究クエストがあります"
+msgstr ""
+
+#: ServerErrString[5002].Info
+msgid "완료되지 않은 선행 연구가 있습니다."
+msgstr ""
+
+#  Korean Text: '완료되지 않은 선행 연구가 있습니다.'
+#: ServerErrString[5002].Msg
+msgid "完了していない先行研究があります。"
+msgstr ""
+
+#: ServerErrString[5003].Info
+msgid "연구 비용이 부족합니다."
+msgstr ""
+
+#  Korean Text: '연구 비용이 부족합니다.'
+#: ServerErrString[5003].Msg
+msgid "研究費用が不足しています。"
+msgstr ""
+
+#: ServerErrString[5004].Info
+msgid "이미 진행중인 연구"
+msgstr ""
+
+#  Korean Text: '이미 진행중인 연구'
+#: ServerErrString[5004].Msg
+msgid "既に進行中の研究"
+msgstr ""
+
+#: ServerErrString[5005].Info
+msgid "존재하지 않는 연구 입니다."
+msgstr ""
+
+#  Korean Text: '존재하지 않는 연구 입니다.'
+#: ServerErrString[5005].Msg
+msgid "存在しない研究です。"
+msgstr ""
+
+#: ServerErrString[5006].Info
+msgid "필요아이템이 부족합니다."
+msgstr ""
+
+#  Korean Text: '필요아이템이 부족합니다.'
+#: ServerErrString[5006].Msg
+msgid "必要アイテムが不足しています．"
+msgstr ""
+
+#: ServerErrString[5007].Info
+msgid "이미 완료 된 연구"
+msgstr ""
+
+#  Korean Text: '이미 완료 된 연구'
+#: ServerErrString[5007].Msg
+msgid "既に完了した研究"
+msgstr ""
+
+#: ServerErrString[5500].Info
+msgid "보유하지 않은 아이템입니다"
+msgstr ""
+
+#  Korean Text: '보유하지 않은 아이템입니다'
+#: ServerErrString[5500].Msg
+msgid "保有していないアイテムです"
+msgstr ""
+
+#: ServerErrString[5500].Pos
+msgid "선물"
+msgstr "Gifts"
+
+#: ServerErrString[5501].Info
+msgid "선물할수 없는 아이템입니다"
+msgstr ""
+
+#  Korean Text: '선물할수 없는 아이템입니다'
+#: ServerErrString[5501].Msg
+msgid "プレゼントできないアイテムです"
+msgstr ""
+
+#: ServerErrString[5502].Info
+msgid "아이템 보유 수량이 부족합니다"
+msgstr ""
+
+#  Korean Text: '아이템 보유 수량이 부족합니다'
+#: ServerErrString[5502].Msg
+msgid "アイテム保有数量が不足しています"
+msgstr ""
+
+#: ServerErrString[5503].Info
+msgid "선물할 수 없는 캐릭터 입니다"
+msgstr ""
+
+#  Korean Text: '선물할 수 없는 캐릭터 입니다'
+#: ServerErrString[5503].Msg
+msgid "プレゼントできないキャラクターです"
+msgstr ""
+
+#: ServerErrString[5600].Info
+msgid "보유하지 않은 스킨입니다."
+msgstr ""
+
+#  Korean Text: '보유하지 않은 스킨입니다.'
+#: ServerErrString[5600].Msg
+msgid "保有していないスキンです。"
+msgstr ""
+
+#: ServerErrString[5600].Pos
+msgid "스킨"
+msgstr ""
+
+#: ServerErrString[5601].Info
+msgid "한번에 선물할 수 있는 수량이 초과되었습니다"
+msgstr ""
+
+#  Korean Text: '한번에 선물할 수 있는 수량이 초과되었습니다'
+#: ServerErrString[5601].Msg
+msgid "一度にプレゼントできる数量をオーバーしました"
+msgstr ""
+
+#: ServerErrString[5700].Info
+msgid "db 스크립트 오류"
+msgstr ""
+
+#  Korean Text: 'db 스크립트 오류'
+#: ServerErrString[5700].Msg
+msgid "ＤＢスクリプトエラー"
+msgstr ""
+
+#: ServerErrString[5700].Pos
+msgid "출석"
+msgstr ""
+
+#: ServerErrString[5701].Info
+msgid "DB 테이블 값없음"
+msgstr ""
+
+#  Korean Text: 'DB 테이블 값없음'
+#: ServerErrString[5701].Msg
+msgid "ＤＢテーブル値無し"
+msgstr ""
+
+#: ServerErrString[5800].Info
+msgid "상점 상품 구매 영수증 인증 실패"
+msgstr ""
+
+#  Korean Text: '상점 상품 구매 영수증 인증 실패'
+#: ServerErrString[5800].Msg
+msgid "ストアの商品購買領収書認証失敗"
+msgstr ""
+
+#: ServerErrString[5800].Pos
+msgid "상점"
+msgstr "Store"
+
+#: ServerErrString[5801].Info
+msgid "지불 타입이 유효하지 않습니다"
+msgstr ""
+
+#  Korean Text: '지불 타입이 유효하지 않습니다'
+#: ServerErrString[5801].Msg
+msgid "支払いタイプが有効ではありません"
+msgstr ""
+
+#: ServerErrString[5802].Info
+msgid "캐시부족"
+msgstr ""
+
+#  Korean Text: '캐시부족'
+#: ServerErrString[5802].Msg
+msgid "キャッシュ不足"
+msgstr ""
+
+#: ServerErrString[5803].Info
+msgid "판매 상품 아님"
+msgstr ""
+
+#  Korean Text: '판매 상품 아님'
+#: ServerErrString[5803].Msg
+msgid "販売商品ではありません"
+msgstr ""
+
+#: ServerErrString[5804].Info
+msgid "판매 개수 제한"
+msgstr ""
+
+#  Korean Text: '판매 개수 제한'
+#: ServerErrString[5804].Msg
+msgid "販売個数制限"
+msgstr ""
+
+#: ServerErrString[5810].Info
+msgid "원스토어 상품 구매 영수증 인증 실패"
+msgstr ""
+
+#  Korean Text: '원스토어 상품 구매 영수증 인증 실패'
+#: ServerErrString[5810].Msg
+msgid "2-エラーが発生しました。"
+msgstr ""
+
+#: ServerErrString[5810].Pos
+msgid "원스토어"
+msgstr ""
+
+#: ServerErrString[5811].Info
+msgid "원스토어 영수증 소비 실패"
+msgstr ""
+
+#: ServerErrString[5812].Info
+msgid "원스토어 검증 서버 요청 오류"
+msgstr ""
+
+#: ServerErrString[5813].Info
+msgid "원스토어 검증 서버 응답 값 오류"
+msgstr ""
+
+#: ServerErrString[5814].Info
+msgid "원스토어 검증 서버 응답 오류"
+msgstr ""
+
+#: ServerErrString[5815].Info
+msgid "원스토어 소비 서버 요청 실패"
+msgstr ""
+
+#: ServerErrString[5816].Info
+msgid "원스토어 소비 서버 응답 값 오류"
+msgstr ""
+
+#: ServerErrString[5817].Info
+msgid "원스토어 소비 서버 응답 오류"
+msgstr ""
+
+#: ServerErrString[5820].Info
+msgid "앱스토어 상품 구매 영수증 인증 실패"
+msgstr ""
+
+#: ServerErrString[5820].Pos
+msgid "앱스토어"
+msgstr ""
+
+#: ServerErrString[5821].Info
+msgid "앱스토어 검증 서버 요청 오류"
+msgstr ""
+
+#: ServerErrString[5822].Info
+msgid "앱스토어 검증 서버 응답 값 오류"
+msgstr ""
+
+#: ServerErrString[5823].Info
+msgid "앱스토어 검증 서버 응답 오류"
+msgstr ""
+
+#: ServerErrString[5850].Info
+msgid "판매 상품이 아닙니다."
+msgstr ""
+
+#: ServerErrString[5850].Pos
+msgid "교환 상점"
+msgstr ""
+
+#: ServerErrString[5851].Info
+msgid "구매에 필요한 재료가 부족합니다."
+msgstr ""
+
+#  Korean Text: '재료 부족'
+#: ServerErrString[5851].Msg
+msgid "素材不足"
+msgstr ""
+
+#: ServerErrString[5853].Info
+msgid "한번에 살수 있는 최대량을 초과했습니다."
+msgstr ""
+
+#  Korean Text: '최대 판매 개수 제한'
+#: ServerErrString[5853].Msg
+msgid "最大販売個数制限"
+msgstr ""
+
+#: ServerErrString[8000].Info
+msgid "요청 오류로 클라이언트를 종료합니다. (8000)"
+msgstr ""
+
+#  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8000)'
+#: ServerErrString[8000].Msg
+msgid "要請エラーでクライアントを終了します。（8000）"
+msgstr ""
+
+#: ServerErrString[8000].Pos
+msgid "요청 오류"
+msgstr ""
+
+#: ServerErrString[8001].Info
+msgid "요청 오류로 클라이언트를 종료합니다. (8001)"
+msgstr ""
+
+#  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8001)'
+#: ServerErrString[8001].Msg
+msgid "要請エラーによりクライアントを終了します。（8001）"
+msgstr ""
+
+#: ServerErrString[8002].Info
+msgid "요청 오류로 클라이언트를 종료합니다. (8002)"
+msgstr ""
+
+#  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8002)'
+#: ServerErrString[8002].Msg
+msgid "要請エラーによりクライアントを終了します。（8002）"
+msgstr ""
+
+#: ServerErrString[8003].Info
+msgid "요청 오류로 클라이언트를 종료합니다. (8003)"
+msgstr ""
+
+#  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8003)'
+#: ServerErrString[8003].Msg
+msgid "要請エラーによりクライアントを終了します。（8003）"
+msgstr ""
+
+#: ServerErrString[8004].Info
+msgid "요청 오류로 클라이언트를 종료합니다. (8004)"
+msgstr ""
+
+#  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8004)'
+#: ServerErrString[8004].Msg
+msgid "要請エラーによりクライアントを終了します。（8004）"
+msgstr ""
+
+#: ServerErrString[8005].Info
+msgid "요청 오류로 클라이언트를 종료합니다. (8005)"
+msgstr ""
+
+#  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8005)'
+#: ServerErrString[8005].Msg
+msgid "要請エラーによりクライアントを終了します。（8005）"
+msgstr ""
+
+#: ServerErrString[9000].Info
+msgid "API 호출에 실패했습니다."
+msgstr ""
+
+#  Korean Text: 'API 호출에 실패했습니다.'
+#: ServerErrString[9000].Msg
+msgid "APIの呼び出しに失敗しました。"
+msgstr ""
+
+#: ServerErrString[9000].Pos
+msgid "API 호출 실패"
+msgstr ""
+
+#: ServerErrString[9001].Info
+msgid "자원 충전에 실패했습니다."
+msgstr ""
+
+#  Korean Text: '자원 충전에 실패했습니다.'
+#: ServerErrString[9001].Msg
+msgid "資源の補充に失敗しました。"
+msgstr ""
+
+#: ServerErrString[9002].Info
+msgid "구매 상한을 초과했습니다."
+msgstr ""
+
+#  Korean Text: '구매 상한을 초과했습니다.'
+#: ServerErrString[9002].Msg
+msgid "購入上限を超過しました。"
+msgstr ""
+
+#: ServerErrString[9003].Info
+msgid "기간제 아이템은 중복 구매할 수 없습니다."
+msgstr ""
+
+#  Korean Text: '기간제 아이템은 중복 구매할 수 없습니다.'
+#: ServerErrString[9003].Msg
+msgid "定期発注商品は重複購入できません。"
+msgstr ""
+
+#: ServerErrString[9004].Info
+msgid "구매할 수 있는 최대값을 초과했습니다. "
+msgstr ""
+
+#  Korean Text: '구매할 수 있는 최대값을 초과했습니다. '
+#: ServerErrString[9004].Msg
+msgid "購入可能最大数を超過しました。"
+msgstr ""
+
+#: ServerErrString[9005].Info
+msgid "유저 데이터가 존재하지 않습니다."
+msgstr ""
+
+#  Korean Text: '유저 데이터가 존재하지 않습니다.'
+#: ServerErrString[9005].Msg
+msgid "ユーザーデーターが存在しません。"
+msgstr ""
+
+#: ServerErrString[9005].Pos
+msgid "계정 복구 실패"
+msgstr ""
+
+#: ServerErrString[9006].Info
+msgid "계정이 탈퇴 상태가 아닙니다."
+msgstr ""
+
+#  Korean Text: '계정이 탈퇴 상태가 아닙니다.'
+#: ServerErrString[9006].Msg
+msgid "アカウントが脱退状態ではありません。"
+msgstr ""
+
+#: ServerErrString[9007].Info
+msgid "복구 가능한 날짜를 초과했습니다."
+msgstr ""
+
+#  Korean Text: '복구 가능한 날짜를 초과했습니다.'
+#: ServerErrString[9007].Msg
+msgid "復旧可能期限を超過しました。"
+msgstr ""
+
+#: ServerErrString[9100].Info
+msgid "유효하지 않은 package name입니다."
+msgstr ""
+
+#: ServerErrString[9100].Msg
+msgid "有効でないパッケージㅡ名です。"
+msgstr ""
+
+#: ServerErrString[9101].Info
+msgid "검색조건 규칙을 확인해 주시기 바랍니다."
+msgstr ""
+
+#: ServerErrString[9101].Msg
+msgid "検索条件の設定を確認してください。"
+msgstr ""
+
+#: ServerErrString[9200].Info
+msgid "구매내역이 존재하지 않거나, 구매완료 상태가 아닙니다."
+msgstr ""
+
+#: ServerErrString[9200].Msg
+msgid "購買内訳が存在しないか、購買完了状態ではありません。"
+msgstr ""
+
+#: ServerErrString[9201].Info
+msgid "소비상태 변경이 불가하거나, 이미 변경완료 되었습니다."
+msgstr ""
+
+#: ServerErrString[9201].Msg
+msgid "消費状態変更が不可であるか、既に変更が完了されています。"
+msgstr ""
+
+#: ServerErrString[9202].Info
+msgid "소비상태 변경 대상이 2건 이상 존재합니다."
+msgstr ""
+
+#: ServerErrString[9202].Msg
+msgid "消費状態変更対象が２件以上存在します。"
+msgstr ""
+
+#: ServerErrString[9999].Info
+msgid "정의되지 않은 오류가 발생하였습니다."
+msgstr ""
+
+#: ServerErrString[9999].Msg
+msgid "定義されていないエラーが発生しました。"
+msgstr ""

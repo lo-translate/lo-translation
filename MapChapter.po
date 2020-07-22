@@ -1,0 +1,45 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#: MapChapter[Chapter_01Ev].ChapterName
+msgid "至高の晩餐"
+msgstr ""
+
+#  Korean Text: '지구의 마지막 인간'
+#: MapChapter[Chapter_01N].ChapterName
+msgid "地球上最後の人間"
+msgstr ""
+
+#  Korean Text: '즐거운 나의 집'
+#: MapChapter[Chapter_02N].ChapterName
+msgid "楽しい我が家"
+msgstr ""
+
+#  Korean Text: '호문쿨루스'
+#: MapChapter[Chapter_03N].ChapterName
+msgid "ホムンクルス"
+msgstr ""
+
+#  Korean Text: '깊고 깊은 미궁'
+#: MapChapter[Chapter_04N].ChapterName
+msgid "深い深い迷宮"
+msgstr ""
+
+#: MapChapter[Chapter_05N].ChapterName
+msgid "記憶保管所"
+msgstr ""
+
+#: MapChapter[Chapter_06N].ChapterName
+msgid "ふたつの墓"
+msgstr ""

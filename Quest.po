@@ -1,0 +1,3283 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '1-3 스테이지 클리어'
+#: Quest[Achievement_001].QuestDesc
+msgid "1-3ステージクリア"
+msgstr "Clear stage 1-3"
+
+#  Korean Text: '여정의 시작'
+#: Quest[Achievement_001].QuestTitle
+msgid "旅の始まり"
+msgstr "The Journey Begins"
+
+#  Korean Text: '처음 바이오로이드를 제작'
+#: Quest[Achievement_002].QuestDesc
+msgid "初めてバイオロイドを製造"
+msgstr "Build your first Bioroid"
+
+#  Korean Text: '너, 내 동료가 되라'
+#: Quest[Achievement_002].QuestTitle
+msgid "お前、俺の仲間になれ"
+msgstr "You, be my colleague!"
+
+#  Korean Text: '바이오로이드를 50회 제작'
+#: Quest[Achievement_003].QuestDesc
+msgid "バイオロイドを50回製造"
+msgstr "Build 50 Bioroids"
+
+#  Korean Text: '널 만나고 싶어'
+#: Quest[Achievement_003].QuestTitle
+msgid "あなたに会いたい"
+msgstr "I Want to Meet You"
+
+#  Korean Text: '바이오로이드를 100회 제작'
+#: Quest[Achievement_004].QuestDesc
+msgid "バイオロイドを100回製造"
+msgstr "Build 100 Bioroids"
+
+#  Korean Text: '백번째 당첨 손님'
+#: Quest[Achievement_004].QuestTitle
+msgid "百番目に当選した客"
+msgstr "The 100th Guest"
+
+#  Korean Text: '바이오로이드를 250회 제작'
+#: Quest[Achievement_005].QuestDesc
+msgid "バイオロイドを250回製造"
+msgstr "Build 250 Bioroids"
+
+#  Korean Text: '한 번만 더 만들면 나온다'
+#: Quest[Achievement_005].QuestTitle
+msgid "もう一回作れば出る"
+msgstr "Just One More Try"
+
+#  Korean Text: '바이오로이드를 500회 제작'
+#: Quest[Achievement_006].QuestDesc
+msgid "バイオロイドを500回製造"
+msgstr "Build 500 Bioroids"
+
+#  Korean Text: '보고 또 보고'
+#: Quest[Achievement_006].QuestTitle
+msgid "見てさらに見て"
+msgstr "Familiar Faces"
+
+#  Korean Text: '바이오로이드를 1,000회 제작'
+#: Quest[Achievement_007].QuestDesc
+msgid "バイオロイドを1,000回製造"
+msgstr "Build 1,000 Bioroids"
+
+#  Korean Text: '너의 제조식은…'
+#: Quest[Achievement_007].QuestTitle
+msgid "君の製造式は…"
+msgstr "Your Resource Table"
+
+#  Korean Text: '바이오로이드를 10,000회 제작'
+#: Quest[Achievement_008].QuestDesc
+msgid "バイオロイドを10,000回製造"
+msgstr "Build 10,000 Bioroids"
+
+#  Korean Text: '만들기 시작해서 그냥 많이 만들었습니다'
+#: Quest[Achievement_008].QuestTitle
+msgid "何となく沢山作りました"
+msgstr "...And They Just Make a Lot of Them"
+
+#  Korean Text: '바이오로이드를 100,000회 제작'
+#: Quest[Achievement_009].QuestDesc
+msgid "バイオロイドを100,000回製造"
+msgstr "Build 100,000 Bioroids"
+
+#  Korean Text: '십만 바이오로이드 양병'
+#: Quest[Achievement_009].QuestTitle
+msgid "十万バイオロイド養兵"
+msgstr "An Army of 100,000"
+
+#  Korean Text: '처음 장비를 제작'
+#: Quest[Achievement_010].QuestDesc
+msgid "初めて装備を製造"
+msgstr "Build your first equipment"
+
+#  Korean Text: '신상품 입고'
+#: Quest[Achievement_010].QuestTitle
+msgid "新商品入庫"
+msgstr "New Goods in Stock"
+
+#  Korean Text: '장비를 50회 제작'
+#: Quest[Achievement_011].QuestDesc
+msgid "装備を50回製造"
+msgstr "Build equipment 50 times"
+
+#  Korean Text: '도구는 많을수록 좋다'
+#: Quest[Achievement_011].QuestTitle
+msgid "道具は多いほど良い"
+msgstr "The More Tools, The Better"
+
+#  Korean Text: '장비를 100회 제작'
+#: Quest[Achievement_012].QuestDesc
+msgid "装備を100回製造"
+msgstr "Build equipment 100 times"
+
+#  Korean Text: '가내수공업'
+#: Quest[Achievement_012].QuestTitle
+msgid "家内制手工業"
+msgstr "Cottage Industry"
+
+#  Korean Text: '장비를 500회 제작'
+#: Quest[Achievement_013].QuestDesc
+msgid "装備を500回製造"
+msgstr "Build equipment 500 times"
+
+#  Korean Text: '전쟁은 장비 승부'
+#: Quest[Achievement_013].QuestTitle
+msgid "戦争は装備勝負"
+msgstr "Arms Race"
+
+#  Korean Text: '장비를 1,000회 제작'
+#: Quest[Achievement_014].QuestDesc
+msgid "装備を1,000回製造"
+msgstr "Build equipment 1,000 times"
+
+#  Korean Text: '군비 확충'
+#: Quest[Achievement_014].QuestTitle
+msgid "軍備拡充"
+msgstr "Armament Expansion"
+
+#  Korean Text: '장비를 5,000회 제작'
+#: Quest[Achievement_015].QuestDesc
+msgid "装備を5,000回製造"
+msgstr "Build equipment 5,000 times"
+
+#  Korean Text: '대량 생산 체제'
+#: Quest[Achievement_015].QuestTitle
+msgid "大量生産体制"
+msgstr "Mass Production System"
+
+#  Korean Text: '장비를 10,000회 제작'
+#: Quest[Achievement_016].QuestDesc
+msgid "装備を10,000回製造"
+msgstr "Build equipment 10,000 times"
+
+#  Korean Text: '장비를 정지합니다'
+#: Quest[Achievement_016].QuestTitle
+msgid "装備を停止します"
+msgstr "It's Not Shutting Down"
+
+#  Korean Text: '장비를 100,000회 제작'
+#: Quest[Achievement_017].QuestDesc
+msgid "装備を100,000回製造"
+msgstr "Build equipment 100,000 times"
+
+#  Korean Text: '당신의 자원은 안녕하십니까'
+#: Quest[Achievement_017].QuestTitle
+msgid "あなたの資源は元気ですか"
+msgstr "Are Your Resources Okay?"
+
+#  Korean Text: '처음 로봇을 제작'
+#: Quest[Achievement_018].QuestDesc
+msgid "初めてロボットを製造"
+msgstr "Build your first AGS"
+
+#  Korean Text: '기동 준비 완료'
+#: Quest[Achievement_018].QuestTitle
+msgid "機動準備完了"
+msgstr "Ready to Roll"
+
+#  Korean Text: '로봇을 10회 제작'
+#: Quest[Achievement_019].QuestDesc
+msgid "ロボットを10回製造"
+msgstr "Build 10 AGS"
+
+#  Korean Text: '안녕하십니까 휴먼'
+#: Quest[Achievement_019].QuestTitle
+msgid "こんにちはヒューマン"
+msgstr "Greetings Human"
+
+#  Korean Text: '로봇을 30회 제작'
+#: Quest[Achievement_020].QuestDesc
+msgid "ロボットを30回製造"
+msgstr "Build 30 AGS"
+
+#  Korean Text: '합체 시퀀스'
+#: Quest[Achievement_020].QuestTitle
+msgid "合体シーケンス"
+msgstr "Combination Sequence"
+
+#  Korean Text: '로봇을 100회 제작'
+#: Quest[Achievement_021].QuestDesc
+msgid "ロボットを100回製造"
+msgstr "Build 100 AGS"
+
+#  Korean Text: '로봇 전시장'
+#: Quest[Achievement_021].QuestTitle
+msgid "ロボット展示場"
+msgstr "Robotics Exhibition"
+
+#  Korean Text: '로봇을 250회 제작'
+#: Quest[Achievement_022].QuestDesc
+msgid "ロボットを250回製造"
+msgstr "Build 250 AGS"
+
+#  Korean Text: '유기물보단 무기물'
+#: Quest[Achievement_022].QuestTitle
+msgid "有機物よりは無機物"
+msgstr "Metal Over Flesh"
+
+#  Korean Text: '로봇을 500회 제작'
+#: Quest[Achievement_023].QuestDesc
+msgid "ロボットを500回製造"
+msgstr "Build 500 AGS"
+
+#  Korean Text: '강철의 구세주'
+#: Quest[Achievement_023].QuestTitle
+msgid "鋼鉄の救世主"
+msgstr "Full Metal Savior"
+
+#  Korean Text: 'SS등급 전투원 제작'
+#: Quest[Achievement_024].QuestDesc
+msgid "SS級戦闘員製造"
+msgstr "Build your first SS unit"
+
+#  Korean Text: '오늘의 바이오로이드는…!'
+#: Quest[Achievement_024].QuestTitle
+msgid "今日のバイオロイドは…！"
+msgstr "And the Bioroid of the Day is...!"
+
+#  Korean Text: 'SS등급 전투원 5기 제작'
+#: Quest[Achievement_025].QuestDesc
+msgid "SS級戦闘員5機製造"
+msgstr "Build 5 SS units"
+
+#  Korean Text: '엘리트 스쿼드'
+#: Quest[Achievement_025].QuestTitle
+msgid "エリート分隊"
+msgstr "Elite Squad"
+
+#  Korean Text: 'SS등급 전투원 20기 제작'
+#: Quest[Achievement_026].QuestDesc
+msgid "SS級戦闘員20機製造"
+msgstr "Build 20 SS units"
+
+#  Korean Text: '의외로 자주보이는'
+#: Quest[Achievement_026].QuestTitle
+msgid "意外とよく見る"
+msgstr "Not as Rare as I Though"
+
+#  Korean Text: 'SS등급 전투원 100기 제작'
+#: Quest[Achievement_027].QuestDesc
+msgid "SS級戦闘員100機製造"
+msgstr "Build 100 SS units"
+
+#  Korean Text: '보급이 걱정되는 시점'
+#: Quest[Achievement_027].QuestTitle
+msgid "補給が心配になる頃"
+msgstr "Might Want to Save Those Supplies"
+
+#  Korean Text: '전투원 모듈을 10회 분해'
+#: Quest[Achievement_028].QuestDesc
+msgid "戦闘員モジュールを10回分解"
+msgstr "Disassemble units 10 times"
+
+#  Korean Text: '소집 해제'
+#: Quest[Achievement_028].QuestTitle
+msgid "召集解除"
+msgstr "An Honorable Discharge"
+
+#  Korean Text: '전투원 모듈을 50회 분해'
+#: Quest[Achievement_029].QuestDesc
+msgid "戦闘員モジュールを50回分解"
+msgstr "Disassemble units 50 times"
+
+#  Korean Text: '정리 기간'
+#: Quest[Achievement_029].QuestTitle
+msgid "整理期間"
+msgstr "Clearance Period"
+
+#  Korean Text: '전투원 모듈을 100회 분해'
+#: Quest[Achievement_030].QuestDesc
+msgid "戦闘員モジュールを100回分解"
+msgstr "Disassemble units 100 times"
+
+#  Korean Text: '실업대란'
+#: Quest[Achievement_030].QuestTitle
+msgid "リストラ多発"
+msgstr "Mass Unemployement"
+
+#  Korean Text: '전투원 모듈을 250회 분해'
+#: Quest[Achievement_031].QuestDesc
+msgid "戦闘員モジュールを250回分解"
+msgstr "Disassemble units 250 times"
+
+#  Korean Text: '어디로 가는 걸까'
+#: Quest[Achievement_031].QuestTitle
+msgid "どこに行くのだろうか"
+msgstr "Where Do They Go Anyway"
+
+#  Korean Text: '전투원 모듈을 500회 분해'
+#: Quest[Achievement_032].QuestDesc
+msgid "戦闘員モジュールを500回分解"
+msgstr "Disassemble units 500 times"
+
+#  Korean Text: '여기 있는 모듈 다 내꺼야'
+#: Quest[Achievement_032].QuestTitle
+msgid "ここにあるモジュールは全部私のものだ"
+msgstr "All Your Modules Are Belong to Us"
+
+#  Korean Text: '전투원 모듈을 1,000회 분해'
+#: Quest[Achievement_033].QuestDesc
+msgid "戦闘員モジュールを1,000回分解"
+msgstr "Disassemble units 1,000 times"
+
+#  Korean Text: '눈물을 머금고..'
+#: Quest[Achievement_033].QuestTitle
+msgid "涙をこらえて……"
+msgstr "Holding Back Tears..."
+
+#  Korean Text: '전투원 모듈을 5,000회 분해'
+#: Quest[Achievement_034].QuestDesc
+msgid "戦闘員モジュールを5,000回分解"
+msgstr "Disassemble units 5,000 times"
+
+#  Korean Text: '그들은 내 안에 살아있어'
+#: Quest[Achievement_034].QuestTitle
+msgid "彼らは私の中で生きている"
+msgstr "They'll Live On Inside My Heart"
+
+#  Korean Text: '전투원 모듈을 10,000회 분해'
+#: Quest[Achievement_035].QuestDesc
+msgid "戦闘員モジュールを10,000回分解"
+msgstr "Disassemble units 10,000 times"
+
+#  Korean Text: '어서 가, 사령관'
+#: Quest[Achievement_035].QuestTitle
+msgid "行ってください、司令官"
+msgstr "Go, Commander"
+
+#  Korean Text: '장비를 10회 분해'
+#: Quest[Achievement_036].QuestDesc
+msgid "装備を10回分解"
+msgstr "Disassemble equipment 10 times"
+
+#  Korean Text: '쓸모 없는 물건'
+#: Quest[Achievement_036].QuestTitle
+msgid "使いどころの無い物"
+msgstr "Useless Stuff"
+
+#  Korean Text: '장비를 50회 분해'
+#: Quest[Achievement_037].QuestDesc
+msgid "装備を50回分解"
+msgstr "Disassemble equipment 50 times"
+
+#  Korean Text: '악성 재고 처리'
+#: Quest[Achievement_037].QuestTitle
+msgid "不良在庫処理"
+msgstr "Handling Bad Stock"
+
+#  Korean Text: '장비를 100회 분해'
+#: Quest[Achievement_038].QuestDesc
+msgid "装備を100回分解"
+msgstr "Disassemble equipment 100 times"
+
+#  Korean Text: '바겐세일'
+#: Quest[Achievement_038].QuestTitle
+msgid "バーゲンセール"
+msgstr "Bargain Sale"
+
+#  Korean Text: '장비를 500회 분해'
+#: Quest[Achievement_039].QuestDesc
+msgid "装備を500回分解"
+msgstr "Disassemble equipment 500 times"
+
+#  Korean Text: '쓸만한 게 나올때까지'
+#: Quest[Achievement_039].QuestTitle
+msgid "使えそうなものが出てくるまで"
+msgstr "Till I Get Something Useful"
+
+#  Korean Text: '장비를 1,000회 분해'
+#: Quest[Achievement_040].QuestDesc
+msgid "装備を1,000回分解"
+msgstr "Disassemble equipment 1,000 times"
+
+#  Korean Text: '천회돌파'
+#: Quest[Achievement_040].QuestTitle
+msgid "千回突破"
+msgstr "Thousand Scraps"
+
+#  Korean Text: '장비를 5,000회 분해'
+#: Quest[Achievement_041].QuestDesc
+msgid "装備を5,000回分解"
+msgstr "Disassemble equipment 5,000 times"
+
+#  Korean Text: '깡-깡-깡'
+#: Quest[Achievement_041].QuestTitle
+msgid "カンカンカン"
+msgstr "Hammer to Fall"
+
+#  Korean Text: '장비를 10,000회 분해'
+#: Quest[Achievement_042].QuestDesc
+msgid "装備を10,000回分解"
+msgstr "Disassemble equipment 10,000 times"
+
+#  Korean Text: '갈린 장비 수를 기억하는가…'
+#: Quest[Achievement_042].QuestTitle
+msgid "取り替えた装備数を覚えているか…"
+msgstr "How Many Equips Have You Scrapped?"
+
+#  Korean Text: '장비를 100,000회 분해'
+#: Quest[Achievement_043].QuestDesc
+msgid "装備を100,000回分解"
+msgstr "Disassemble equipment 100,000 times"
+
+#  Korean Text: '빚이 되어라!'
+#: Quest[Achievement_043].QuestTitle
+msgid "借金まみれ!"
+msgstr "Let There Be Scraps"
+
+#  Korean Text: '바이오로이드를 10기 획득'
+#: Quest[Achievement_044].QuestDesc
+msgid "バイオロイドを10機入手"
+msgstr "Get 10 Bioroids"
+
+#  Korean Text: '바이오로이드 분대'
+#: Quest[Achievement_044].QuestTitle
+msgid "バイオロイド分隊"
+msgstr ""
+
+#  Korean Text: '바이오로이드를 100기 획득'
+#: Quest[Achievement_045].QuestDesc
+msgid "バイオロイドを100機入手"
+msgstr "Get 100 Bioroids"
+
+#  Korean Text: '바이오로이드 중대'
+#: Quest[Achievement_045].QuestTitle
+msgid "バイオロイド中隊"
+msgstr ""
+
+#  Korean Text: '바이오로이드를 1,000기 획득'
+#: Quest[Achievement_046].QuestDesc
+msgid "バイオロイドを1,000機入手"
+msgstr "Get 1,000 Bioroids"
+
+#  Korean Text: '바이오로이드 대대'
+#: Quest[Achievement_046].QuestTitle
+msgid "バイオロイド大隊"
+msgstr ""
+
+#  Korean Text: '바이오로이드를 3,000기 획득'
+#: Quest[Achievement_047].QuestDesc
+msgid "バイオロイドを3,000機入手"
+msgstr "Get 3,000 Bioroids"
+
+#  Korean Text: '바이오로이드 연대'
+#: Quest[Achievement_047].QuestTitle
+msgid "バイオロイド連隊"
+msgstr ""
+
+#  Korean Text: '바이오로이드를 10,000기 획득'
+#: Quest[Achievement_048].QuestDesc
+msgid "バイオロイドを10,000機入手"
+msgstr "Get 10,000 Bioroids"
+
+#  Korean Text: '바이오로이드 여단'
+#: Quest[Achievement_048].QuestTitle
+msgid "バイオロイド旅団"
+msgstr ""
+
+#  Korean Text: '바이오로이드를 100,000기 획득'
+#: Quest[Achievement_049].QuestDesc
+msgid "バイオロイドを100,000機入手"
+msgstr "Get 100,000 Bioroids"
+
+#  Korean Text: '바이오로이드 군단'
+#: Quest[Achievement_049].QuestTitle
+msgid "バイオロイド軍団"
+msgstr ""
+
+#  Korean Text: '바이오로이드를 1,000,000기 획득'
+#: Quest[Achievement_050].QuestDesc
+msgid "バイオロイドを1,000,000機入手"
+msgstr "Get 1,000,000 Bioroids"
+
+#  Korean Text: '바이오로이드 백만대군'
+#: Quest[Achievement_050].QuestTitle
+msgid "バイオロイド百万大軍"
+msgstr ""
+
+#  Korean Text: '바이오로이드 도감 10종 등록'
+#: Quest[Achievement_051].QuestDesc
+msgid "バイオロイド図鑑10種類を登録"
+msgstr "Register 10 Bioroids in the scrapbook"
+
+#  Korean Text: '근무자 명단'
+#: Quest[Achievement_051].QuestTitle
+msgid "勤務者名簿"
+msgstr "Staff Roster"
+
+#  Korean Text: '바이오로이드 도감 30종 등록'
+#: Quest[Achievement_052].QuestDesc
+msgid "バイオロイド図鑑30種類を登録"
+msgstr "Register 30 Bioroids in the scrapbook"
+
+#  Korean Text: '바이오로이드 출석부'
+#: Quest[Achievement_052].QuestTitle
+msgid "バイオロイド出席簿"
+msgstr "Bioroid Roll Book"
+
+#  Korean Text: '바이오로이드 도감 50종 등록'
+#: Quest[Achievement_053].QuestDesc
+msgid "バイオロイド図鑑50種類を登録"
+msgstr "Register 50 Bioroids in the scrapbook"
+
+#  Korean Text: '전투원하지 않으시겠습니까'
+#: Quest[Achievement_053].QuestTitle
+msgid "戦闘を望んでいないのですか"
+msgstr "Wanna be a Combatant?"
+
+#  Korean Text: '바이오로이드 도감 70종 등록'
+#: Quest[Achievement_054].QuestDesc
+msgid "バイオロイド図鑑70種類を登録"
+msgstr "Register 70 Bioroids in the scrapbook"
+
+#  Korean Text: '명함 콜렉터'
+#: Quest[Achievement_054].QuestTitle
+msgid "名刺コレクター"
+msgstr "Business Card Collector"
+
+#  Korean Text: '로봇 도감 5종 등록'
+#: Quest[Achievement_055].QuestDesc
+msgid "ロボット図鑑5種類を登録"
+msgstr "Register 5 Robots in the scrapbook"
+
+#  Korean Text: 'A.I.'
+#: Quest[Achievement_055].QuestTitle
+msgid "Ａ．Ｉ．"
+msgstr ""
+
+#  Korean Text: '로봇 도감 10종 등록'
+#: Quest[Achievement_056].QuestDesc
+msgid "ロボット図鑑10種類を登録"
+msgstr "Register 10 Robots in the scrapbook"
+
+#  Korean Text: '가전제품 카탈로그'
+#: Quest[Achievement_056].QuestTitle
+msgid "家電製品カタログ"
+msgstr "Home Electronics Catalogue"
+
+#  Korean Text: 'HP 강화 Lv.30 달성'
+#: Quest[Achievement_057].QuestDesc
+msgid "HP強化Lv.30達成"
+msgstr "Achieved Lv.30 in HP Enhancement"
+
+#  Korean Text: '안전주의'
+#: Quest[Achievement_057].QuestTitle
+msgid "安全注意"
+msgstr "Safety First"
+
+#  Korean Text: 'HP 강화 Lv.60 달성'
+#: Quest[Achievement_058].QuestDesc
+msgid "HP強化Lv.60達成"
+msgstr "Achieved Lv.60 in HP Enhancement"
+
+#  Korean Text: '든든한 내구력'
+#: Quest[Achievement_058].QuestTitle
+msgid "丈夫な耐久力"
+msgstr ""
+
+#  Korean Text: 'HP 강화 Lv.90 달성'
+#: Quest[Achievement_059].QuestDesc
+msgid "HP強化Lv.90達成"
+msgstr "Achieved Lv.90 in HP Enhancement"
+
+#  Korean Text: '체질 개선'
+#: Quest[Achievement_059].QuestTitle
+msgid "体質改善"
+msgstr ""
+
+#  Korean Text: 'HP 강화 Lv.120 달성'
+#: Quest[Achievement_060].QuestDesc
+msgid "HP強化Lv.120達成"
+msgstr "Achieved Lv.120 in HP Enhancement"
+
+#  Korean Text: '버티는 건 자신있는'
+#: Quest[Achievement_060].QuestTitle
+msgid "耐久力には自信がある"
+msgstr ""
+
+#  Korean Text: 'HP 강화 Lv.150 달성'
+#: Quest[Achievement_061].QuestDesc
+msgid "HP強化Lv.150達成"
+msgstr "Achieved Lv.150 in HP Enhancement"
+
+#  Korean Text: '체력은 국력'
+#: Quest[Achievement_061].QuestTitle
+msgid "体力は国力"
+msgstr ""
+
+#  Korean Text: '공격력 강화 Lv.30 달성'
+#: Quest[Achievement_062].QuestDesc
+msgid "攻撃力強化Lv.30達成"
+msgstr "Achieved Lv.30 in Attack Enhancement"
+
+#  Korean Text: '공격은 최선의 방어'
+#: Quest[Achievement_062].QuestTitle
+msgid "攻撃は最大の防御"
+msgstr "Offense is The Best Defense"
+
+#  Korean Text: '공격력 강화 Lv.60 달성'
+#: Quest[Achievement_063].QuestDesc
+msgid "攻撃力強化Lv.60達成"
+msgstr "Achieved Lv.60 in Attack Enhancement"
+
+#  Korean Text: '한 방에 목숨거는'
+#: Quest[Achievement_063].QuestTitle
+msgid "一発に命をかける"
+msgstr ""
+
+#  Korean Text: '공격력 강화 Lv.90 달성'
+#: Quest[Achievement_064].QuestDesc
+msgid "攻撃力強化Lv.90達成"
+msgstr "Achieved Lv.90 in Attack Enhancement"
+
+#  Korean Text: '날카로운 창'
+#: Quest[Achievement_064].QuestTitle
+msgid "鋭い槍"
+msgstr "The Sharpest Spear"
+
+#  Korean Text: '공격력 강화 Lv.120 달성'
+#: Quest[Achievement_065].QuestDesc
+msgid "攻撃力強化Lv.120達成"
+msgstr "Achieved Lv.120 in Attack Enhancement"
+
+#  Korean Text: '보기만해도 두려운'
+#: Quest[Achievement_065].QuestTitle
+msgid "見るだけで怖い"
+msgstr ""
+
+#  Korean Text: '공격력 강화 Lv.150 달성'
+#: Quest[Achievement_066].QuestDesc
+msgid "攻撃力強化Lv.150達成"
+msgstr "Achieved Lv.150 in Attack Enhancement"
+
+#  Korean Text: '너도 한 방, 나도 한 방'
+#: Quest[Achievement_066].QuestTitle
+msgid "てめえも一発、おれも一発"
+msgstr ""
+
+#  Korean Text: '방어력 강화 Lv.30 달성'
+#: Quest[Achievement_067].QuestDesc
+msgid "防御力強化Lv.30達成"
+msgstr "Achieved Lv.30 in Defense Enhancement"
+
+#  Korean Text: '아픈건 싫어'
+#: Quest[Achievement_067].QuestTitle
+msgid "痛いのは嫌だ"
+msgstr "Don't Wanna Get Hurt"
+
+#  Korean Text: '방어력 강화 Lv.60 달성'
+#: Quest[Achievement_068].QuestDesc
+msgid "防御力強化Lv.60達成"
+msgstr "Achieved Lv.60 in Defense Enhancement"
+
+#  Korean Text: '방어의 정석'
+#: Quest[Achievement_068].QuestTitle
+msgid "防御の定石"
+msgstr "The Textbook Defense"
+
+#  Korean Text: '방어력 강화 Lv.90 달성'
+#: Quest[Achievement_069].QuestDesc
+msgid "防御力強化Lv.90達成"
+msgstr "Achieved Lv.90 in Defense Enhancement"
+
+#  Korean Text: '더 단단하게'
+#: Quest[Achievement_069].QuestTitle
+msgid "もっと固く"
+msgstr "Harder and Harder"
+
+#  Korean Text: '방어력 강화 Lv.120 달성'
+#: Quest[Achievement_070].QuestDesc
+msgid "防御力強化Lv.120達成"
+msgstr "Achieved Lv.120 in Defense Enhancement"
+
+#  Korean Text: '철벽 수비'
+#: Quest[Achievement_070].QuestTitle
+msgid "鉄壁防備"
+msgstr ""
+
+#  Korean Text: '방어력 강화 Lv.150 달성'
+#: Quest[Achievement_071].QuestDesc
+msgid "防御力強化Lv.150達成"
+msgstr "Achieved Lv.150 in Defense Enhancement"
+
+#  Korean Text: '괜찮아, 튕겨냈다'
+#: Quest[Achievement_071].QuestTitle
+msgid "大丈夫、弾き返した"
+msgstr "No Worries, I Deflected It"
+
+#  Korean Text: '명중률 강화 Lv.30 달성'
+#: Quest[Achievement_072].QuestDesc
+msgid "命中率強化Lv.30達成"
+msgstr "Achieved Lv.30 in Accuracy Enhancement"
+
+#  Korean Text: '침착한 조준'
+#: Quest[Achievement_072].QuestTitle
+msgid "落ち着いた照準"
+msgstr ""
+
+#  Korean Text: '명중률 강화 Lv.60 달성'
+#: Quest[Achievement_073].QuestDesc
+msgid "命中率強化Lv.60達成"
+msgstr "Achieved Lv.60 in Accuracy Enhancement"
+
+#  Korean Text: '아직 한 발 남았다'
+#: Quest[Achievement_073].QuestTitle
+msgid "まだ一発残ってる"
+msgstr ""
+
+#  Korean Text: '명중률 강화 Lv.90 달성'
+#: Quest[Achievement_074].QuestDesc
+msgid "命中率強化Lv.90達成"
+msgstr "Achieved Lv.90 in Accuracy Enhancement"
+
+#  Korean Text: '백발백중'
+#: Quest[Achievement_074].QuestTitle
+msgid "百発百中"
+msgstr ""
+
+#  Korean Text: '명중률 강화 Lv.120 달성'
+#: Quest[Achievement_075].QuestDesc
+msgid "命中率強化Lv.120達成"
+msgstr "Achieved Lv.120 in Accuracy Enhancement"
+
+#  Korean Text: '독수리의 눈'
+#: Quest[Achievement_075].QuestTitle
+msgid "鷲の目"
+msgstr "Eagle Eyes"
+
+#  Korean Text: '명중률 강화 Lv.150 달성'
+#: Quest[Achievement_076].QuestDesc
+msgid "命中率強化Lv.150達成"
+msgstr "Achieved Lv.150 in Accuracy Enhancement"
+
+#  Korean Text: '에임 핵'
+#: Quest[Achievement_076].QuestTitle
+msgid "神エイム"
+msgstr "Aim Hax"
+
+#  Korean Text: '회피율 강화 Lv.30 달성'
+#: Quest[Achievement_077].QuestDesc
+msgid "回避率強化Lv.30達成"
+msgstr "Achieved Lv.30 in Evasion Enhancement"
+
+#  Korean Text: '빠른 반응'
+#: Quest[Achievement_077].QuestTitle
+msgid "速やかな反応"
+msgstr "Quick Reflexes"
+
+#  Korean Text: '회피율 강화 Lv.60 달성'
+#: Quest[Achievement_078].QuestDesc
+msgid "回避率強化Lv.60達成"
+msgstr "Achieved Lv.60 in Evasion Enhancement"
+
+#  Korean Text: '유연한 몸놀림'
+#: Quest[Achievement_078].QuestTitle
+msgid "柔軟な身体捌き"
+msgstr "Flexible Moves"
+
+#  Korean Text: '회피율 강화 Lv.90 달성'
+#: Quest[Achievement_079].QuestDesc
+msgid "回避率強化Lv.90達成"
+msgstr "Achieved Lv.90 in Evasion Enhancement"
+
+#  Korean Text: '식스 센스'
+#: Quest[Achievement_079].QuestTitle
+msgid "シックスセンス"
+msgstr "The Sixth Sense"
+
+#  Korean Text: '회피율 강화 Lv.120 달성'
+#: Quest[Achievement_080].QuestDesc
+msgid "回避率強化Lv.120達成"
+msgstr "Achieved Lv.120 in Evasion Enhancement"
+
+#  Korean Text: '안 맞으면 그만'
+#: Quest[Achievement_080].QuestTitle
+msgid "当たらなければいいよ～"
+msgstr "Just Don't Get Hit"
+
+#  Korean Text: '회피율 강화 Lv.150 달성'
+#: Quest[Achievement_081].QuestDesc
+msgid "回避率強化Lv.150達成"
+msgstr "Achieved Lv.150 in Evasion Enhancement"
+
+#  Korean Text: '내게도 적이 보인다'
+#: Quest[Achievement_081].QuestTitle
+msgid "私にも敵が見える"
+msgstr "I Can See Their Every Move"
+
+#  Korean Text: '치명타 강화 Lv.30 달성'
+#: Quest[Achievement_082].QuestDesc
+msgid "クリティカル強化Lv.30達成"
+msgstr "Achieved Lv.30 in Critical Chance Enhancement"
+
+#  Korean Text: '도박사'
+#: Quest[Achievement_082].QuestTitle
+msgid "ギャンブラー"
+msgstr "Gambler"
+
+#  Korean Text: '치명타 강화 Lv.60 달성'
+#: Quest[Achievement_083].QuestDesc
+msgid "クリティカル強化Lv.60達成"
+msgstr "Achieved Lv.60 in Critical Chance Enhancement"
+
+#  Korean Text: '불의의 일격'
+#: Quest[Achievement_083].QuestTitle
+msgid "不意の一撃"
+msgstr "Unexpected Strike"
+
+#  Korean Text: '치명타 강화 Lv.90 달성'
+#: Quest[Achievement_084].QuestDesc
+msgid "クリティカル強化Lv.90達成"
+msgstr "Achieved Lv.90 in Critical Chance Enhancement"
+
+#  Korean Text: '운도 실력이야'
+#: Quest[Achievement_084].QuestTitle
+msgid "運も実力のうちだ"
+msgstr "Luck is Part of Skill"
+
+#  Korean Text: '치명타 강화 Lv.120 달성'
+#: Quest[Achievement_085].QuestDesc
+msgid "クリティカル強化Lv.120達成"
+msgstr "Achieved Lv.120 in Critical Chance Enhancement"
+
+#  Korean Text: '치명적인 매력'
+#: Quest[Achievement_085].QuestTitle
+msgid "致命的な魅力"
+msgstr "Critical Charm"
+
+#  Korean Text: '치명타 강화 Lv.150 달성'
+#: Quest[Achievement_086].QuestDesc
+msgid "クリティカル強化Lv.150達成"
+msgstr "Achieved Lv.150 in Critical Chance Enhancement"
+
+#  Korean Text: '이번엔 터진다'
+#: Quest[Achievement_086].QuestTitle
+msgid "今度こそ大当たり！"
+msgstr ""
+
+#  Korean Text: '철충을 100기 처치'
+#: Quest[Achievement_087].QuestDesc
+msgid "鉄虫を100機倒す"
+msgstr "Eliminate 100 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 I'
+#: Quest[Achievement_087].QuestTitle
+msgid "鉄虫殲滅I"
+msgstr "Iron Parasite Extermination I"
+
+#  Korean Text: '철충을 500기 처치'
+#: Quest[Achievement_088].QuestDesc
+msgid "鉄虫を500機倒す"
+msgstr "Eliminate 500 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 II'
+#: Quest[Achievement_088].QuestTitle
+msgid "鉄虫殲滅II"
+msgstr "Iron Parasite Extermination II"
+
+#  Korean Text: '철충을 1,000기 처치'
+#: Quest[Achievement_089].QuestDesc
+msgid "鉄虫を1,000機倒す"
+msgstr "Eliminate 1,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 III'
+#: Quest[Achievement_089].QuestTitle
+msgid "鉄虫殲滅III"
+msgstr "Iron Parasite Extermination III"
+
+#  Korean Text: '철충을 5,000기 처치'
+#: Quest[Achievement_090].QuestDesc
+msgid "鉄虫を5,000機倒す"
+msgstr "Eliminate 5,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 IV'
+#: Quest[Achievement_090].QuestTitle
+msgid "鉄虫殲滅IV"
+msgstr "Iron Parasite Extermination IV"
+
+#  Korean Text: '철충을 10,000기 처치'
+#: Quest[Achievement_091].QuestDesc
+msgid "鉄虫を10,000機倒す"
+msgstr "Eliminate 10,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 V'
+#: Quest[Achievement_091].QuestTitle
+msgid "鉄虫殲滅V"
+msgstr "Iron Parasite Extermination V"
+
+#  Korean Text: '철충을 100,000기 처치'
+#: Quest[Achievement_092].QuestDesc
+msgid "鉄虫を100,000機倒す"
+msgstr "Eliminate 100,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 VI'
+#: Quest[Achievement_092].QuestTitle
+msgid "鉄虫殲滅VI"
+msgstr "Iron Parasite Extermination VI"
+
+#  Korean Text: '철충을 1,000,000기 처치'
+#: Quest[Achievement_093].QuestDesc
+msgid "鉄虫を1,000,000機倒す"
+msgstr "Eliminate 1,000,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 VII'
+#: Quest[Achievement_093].QuestTitle
+msgid "鉄虫殲滅VII"
+msgstr "Iron Parasite Extermination VII"
+
+#  Korean Text: '철충을 2,500,000기 처치'
+#: Quest[Achievement_094].QuestDesc
+msgid "鉄虫を2,500,000機倒す"
+msgstr "Eliminate 2,500,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 VIII'
+#: Quest[Achievement_094].QuestTitle
+msgid "鉄虫殲滅VIII"
+msgstr "Iron Parasite Extermination VIII"
+
+#  Korean Text: '철충을 5,000,000기 처치'
+#: Quest[Achievement_095].QuestDesc
+msgid "鉄虫を5,000,000機倒す"
+msgstr "Eliminate 5,000,000 Iron Parasites"
+
+#  Korean Text: '철충 섬멸 VIX'
+#: Quest[Achievement_095].QuestTitle
+msgid "鉄虫殲滅VIX"
+msgstr "Iron Parasite Extermination VIX"
+
+#  Korean Text: '일반 스테이지 50회 클리어'
+#: Quest[Achievement_096].QuestDesc
+msgid "一般ステージ50回クリア"
+msgstr "Clear 50 normal stages"
+
+#  Korean Text: '지역 확보 I'
+#: Quest[Achievement_096].QuestTitle
+msgid "地域確保I"
+msgstr "Secure Area I"
+
+#  Korean Text: '일반 스테이지 100회 클리어'
+#: Quest[Achievement_097].QuestDesc
+msgid "一般ステージ100回クリア"
+msgstr "Clear 100 normal stages"
+
+#  Korean Text: '지역 확보 II'
+#: Quest[Achievement_097].QuestTitle
+msgid "地域確保II"
+msgstr "Secure Area II"
+
+#  Korean Text: '일반 스테이지 250회 클리어'
+#: Quest[Achievement_098].QuestDesc
+msgid "一般ステージ250回クリア"
+msgstr "Clear 250 normal stages"
+
+#  Korean Text: '지역 확보 III'
+#: Quest[Achievement_098].QuestTitle
+msgid "地域確保III"
+msgstr "Secure Area III"
+
+#  Korean Text: '일반 스테이지 1,000회 클리어'
+#: Quest[Achievement_099].QuestDesc
+msgid "一般ステージ1,000回クリア"
+msgstr "Clear 1,000 normal stages"
+
+#  Korean Text: '지역 확보 IV'
+#: Quest[Achievement_099].QuestTitle
+msgid "地域確保IV"
+msgstr "Secure Area IV"
+
+#  Korean Text: '일반 스테이지 5,000회 클리어'
+#: Quest[Achievement_100].QuestDesc
+msgid "一般ステージ5,000回クリア"
+msgstr "Clear 5,000 normal stages"
+
+#  Korean Text: '지역 확보 V'
+#: Quest[Achievement_100].QuestTitle
+msgid "地域確保V"
+msgstr "Secure Area V"
+
+#  Korean Text: '일반 스테이지 10,000회 클리어'
+#: Quest[Achievement_101].QuestDesc
+msgid "一般ステージ10,000回クリア"
+msgstr "Clear 10,000 normal stages"
+
+#  Korean Text: '지역 확보 VI'
+#: Quest[Achievement_101].QuestTitle
+msgid "地域確保VI"
+msgstr "Secure Area VI"
+
+#  Korean Text: '일반 스테이지 50,000회 클리어'
+#: Quest[Achievement_102].QuestDesc
+msgid "一般ステージ50,000回クリア"
+msgstr "Clear 50,000 normal stages"
+
+#  Korean Text: '지역 확보 VII'
+#: Quest[Achievement_102].QuestTitle
+msgid "地域確保VII"
+msgstr "Secure Area VII"
+
+#  Korean Text: '일반 스테이지 100,000회 클리어'
+#: Quest[Achievement_103].QuestDesc
+msgid "一般ステージ100,000回クリア"
+msgstr "Clear 100,000 normal stages"
+
+#  Korean Text: '지역 확보 VIII'
+#: Quest[Achievement_103].QuestTitle
+msgid "地域確保VIII"
+msgstr "Secure Area VIII"
+
+#  Korean Text: '사이드 스테이지 30회 클리어'
+#: Quest[Achievement_104].QuestDesc
+msgid "サイドステージ30回クリア"
+msgstr "Clear 30 side stages"
+
+#  Korean Text: '미탐사 구역 확보 I'
+#: Quest[Achievement_104].QuestTitle
+msgid "未探索区域確保I"
+msgstr "Secure Unexplored Area I"
+
+#  Korean Text: '사이드 스테이지 50회 클리어'
+#: Quest[Achievement_105].QuestDesc
+msgid "サイドステージ50回クリア"
+msgstr "Clear 50 side stages"
+
+#  Korean Text: '미탐사 구역 확보 II'
+#: Quest[Achievement_105].QuestTitle
+msgid "未探索区域確保II"
+msgstr "Secure Unexplored Area II"
+
+#  Korean Text: '사이드 스테이지 100회 클리어'
+#: Quest[Achievement_106].QuestDesc
+msgid "サイドステージ100回クリア"
+msgstr "Clear 100 side stages"
+
+#  Korean Text: '미탐사 구역 확보 III'
+#: Quest[Achievement_106].QuestTitle
+msgid "未探索区域確保III"
+msgstr "Secure Unexplored Area III"
+
+#  Korean Text: '사이드 스테이지 500회 클리어'
+#: Quest[Achievement_107].QuestDesc
+msgid "サイドステージ500回クリア"
+msgstr "Clear 500 side stages"
+
+#  Korean Text: '미탐사 구역 확보 IV'
+#: Quest[Achievement_107].QuestTitle
+msgid "未探索区域確保IV"
+msgstr "Secure Unexplored Area IV"
+
+#  Korean Text: '사이드 스테이지 1,000회 클리어'
+#: Quest[Achievement_108].QuestDesc
+msgid "サイドステージ1,000回クリア"
+msgstr "Clear 1,000 side stages"
+
+#  Korean Text: '미탐사 구역 확보 V'
+#: Quest[Achievement_108].QuestTitle
+msgid "未探索区域確保V"
+msgstr "Secure Unexplored Area V"
+
+#  Korean Text: '사이드 스테이지 10,000회 클리어'
+#: Quest[Achievement_109].QuestDesc
+msgid "サイドステージ10,000回クリア"
+msgstr "Clear 10,000 side stages"
+
+#  Korean Text: '미탐사 구역 확보 VI'
+#: Quest[Achievement_109].QuestTitle
+msgid "未探索区域確保VI"
+msgstr "Secure Unexplored Area VI"
+
+#  Korean Text: '일일 훈련 스테이지 20회 클리어'
+#: Quest[Achievement_110].QuestDesc
+msgid "デイリー訓練ステージ20回クリア"
+msgstr "Clear 20 Daily Training stages"
+
+#  Korean Text: '상시 훈련 I'
+#: Quest[Achievement_110].QuestTitle
+msgid "常時訓練I"
+msgstr "Diligent Training I"
+
+#  Korean Text: '일일 훈련 스테이지 50회 클리어'
+#: Quest[Achievement_111].QuestDesc
+msgid "デイリー訓練ステージ50回クリア"
+msgstr "Clear 50 Daily Training stages"
+
+#  Korean Text: '상시 훈련 II'
+#: Quest[Achievement_111].QuestTitle
+msgid "常時訓練II"
+msgstr "Diligent Training II"
+
+#  Korean Text: '일일 훈련 스테이지 100회 클리어'
+#: Quest[Achievement_112].QuestDesc
+msgid "デイリー訓練ステージ100回クリア"
+msgstr "Clear 100 Daily Training stages"
+
+#  Korean Text: '상시 훈련 III'
+#: Quest[Achievement_112].QuestTitle
+msgid "常時訓練III"
+msgstr "Diligent Training III"
+
+#  Korean Text: '일일 훈련 스테이지 500회 클리어'
+#: Quest[Achievement_113].QuestDesc
+msgid "デイリー訓練ステージ500回クリア"
+msgstr "Clear 500 Daily Training stages"
+
+#  Korean Text: '상시 훈련 IV'
+#: Quest[Achievement_113].QuestTitle
+msgid "常時訓練IV"
+msgstr "Diligent Training IV"
+
+#  Korean Text: '일일 훈련 스테이지 1000회 클리어'
+#: Quest[Achievement_114].QuestDesc
+msgid "デイリー訓練ステージ1000回クリア"
+msgstr "Clear 1000 Daily Training stages"
+
+#  Korean Text: '상시 훈련 V'
+#: Quest[Achievement_114].QuestTitle
+msgid "常時訓練V"
+msgstr "Diligent Training V"
+
+#  Korean Text: '일일 훈련 스테이지 10000회 클리어'
+#: Quest[Achievement_115].QuestDesc
+msgid "デイリー訓練ステージ10000回クリア"
+msgstr "Clear 10000 Daily Training stages"
+
+#  Korean Text: '상시 훈련 VI'
+#: Quest[Achievement_115].QuestTitle
+msgid "常時訓練VI"
+msgstr "Diligent Training VI"
+
+#  Korean Text: '외전 스테이지 30회 클리어'
+#: Quest[Achievement_116].QuestDesc
+msgid "外伝ステージ30回クリア"
+msgstr "Clear 30 sub-story stages"
+
+#  Korean Text: '기억속의 전장 I'
+#: Quest[Achievement_116].QuestTitle
+msgid "記憶の中の戦場I"
+msgstr "Battlefield Memories I"
+
+#  Korean Text: '외전 스테이지 100회 클리어'
+#: Quest[Achievement_117].QuestDesc
+msgid "外伝ステージ100回クリア"
+msgstr "Clear 100 sub-story stages"
+
+#  Korean Text: '기억속의 전장 II'
+#: Quest[Achievement_117].QuestTitle
+msgid "記憶の中の戦場II"
+msgstr "Battlefield Memories II"
+
+#  Korean Text: '외전 스테이지 250회 클리어'
+#: Quest[Achievement_118].QuestDesc
+msgid "外伝ステージ250回クリア"
+msgstr "Clear 250 sub-story stages"
+
+#  Korean Text: '기억속의 전장 III'
+#: Quest[Achievement_118].QuestTitle
+msgid "記憶の中の戦場III"
+msgstr "Battlefield Memories III"
+
+#  Korean Text: '외전 스테이지 500회 클리어'
+#: Quest[Achievement_119].QuestDesc
+msgid "外伝ステージ500回クリア"
+msgstr "Clear 500 sub-story stages"
+
+#  Korean Text: '기억속의 전장 IV'
+#: Quest[Achievement_119].QuestTitle
+msgid "記憶の中の戦場IV"
+msgstr "Battlefield Memories IV"
+
+#  Korean Text: '외전 스테이지 1,000회 클리어'
+#: Quest[Achievement_120].QuestDesc
+msgid "外伝ステージ1,000回クリア"
+msgstr "Clear 1,000 sub-story stages"
+
+#  Korean Text: '기억속의 전장 V'
+#: Quest[Achievement_120].QuestTitle
+msgid "記憶の中の戦場V"
+msgstr "Battlefield Memories V"
+
+#  Korean Text: '외전 스테이지 10,000회 클리어'
+#: Quest[Achievement_121].QuestDesc
+msgid "外伝ステージ10,000回クリア"
+msgstr "Clear 10,000 sub-story stages"
+
+#  Korean Text: '기억속의 전장 VI'
+#: Quest[Achievement_121].QuestTitle
+msgid "記憶の中の戦場VI"
+msgstr "Battlefield Memories VI"
+
+#  Korean Text: '스테이지 10회 실패'
+#: Quest[Achievement_122].QuestDesc
+msgid "ステージ10回失敗"
+msgstr "Fail 10 stages"
+
+#  Korean Text: '후퇴도 전술 I'
+#: Quest[Achievement_122].QuestTitle
+msgid "後退も戦術I"
+msgstr "Retreat is a valid strategy I"
+
+#  Korean Text: '스테이지 50회 실패'
+#: Quest[Achievement_123].QuestDesc
+msgid "ステージ50回失敗"
+msgstr "Fail 50 stages"
+
+#  Korean Text: '후퇴도 전술 II'
+#: Quest[Achievement_123].QuestTitle
+msgid "後退も戦術II"
+msgstr "Retreat is a valid strategy II"
+
+#  Korean Text: '스테이지 100회 실패'
+#: Quest[Achievement_124].QuestDesc
+msgid "ステージ100回失敗"
+msgstr "Fail 100 stages"
+
+#  Korean Text: '후퇴도 전술 III'
+#: Quest[Achievement_124].QuestTitle
+msgid "後退も戦術III"
+msgstr "Retreat is a valid strategy III"
+
+#  Korean Text: '스테이지 500회 실패'
+#: Quest[Achievement_125].QuestDesc
+msgid "ステージ500回失敗"
+msgstr "Fail 500 stages"
+
+#  Korean Text: '후퇴도 전술 IV'
+#: Quest[Achievement_125].QuestTitle
+msgid "後退も戦術IV"
+msgstr "Retreat is a valid strategy IV"
+
+#  Korean Text: '스테이지 1,000회 실패'
+#: Quest[Achievement_126].QuestDesc
+msgid "ステージ1,000回失敗"
+msgstr "Fail 1,000 stages"
+
+#  Korean Text: '후퇴도 전술 V'
+#: Quest[Achievement_126].QuestTitle
+msgid "後退も戦術V"
+msgstr "Retreat is a valid strategy V"
+
+#  Korean Text: '스테이지 미션 20개 달성'
+#: Quest[Achievement_127].QuestDesc
+msgid "ステージミッション20個を達成"
+msgstr "Clear 20 mission stages"
+
+#  Korean Text: '일류 사령관 I'
+#: Quest[Achievement_127].QuestTitle
+msgid "一流司令官I"
+msgstr "First-rate Commander I"
+
+#  Korean Text: '스테이지 미션 40개 달성'
+#: Quest[Achievement_128].QuestDesc
+msgid "ステージミッション40個を達成"
+msgstr "Clear 40 mission stages"
+
+#  Korean Text: '일류 사령관 II'
+#: Quest[Achievement_128].QuestTitle
+msgid "一流司令官II"
+msgstr "First-rate Commander II"
+
+#  Korean Text: '스테이지 미션 80개 달성'
+#: Quest[Achievement_129].QuestDesc
+msgid "ステージミッション80個を達成"
+msgstr "Clear 80 mission stages"
+
+#  Korean Text: '일류 사령관 III'
+#: Quest[Achievement_129].QuestTitle
+msgid "一流司令官III"
+msgstr "First-rate Commander III"
+
+#  Korean Text: '스테이지 미션 120개 달성'
+#: Quest[Achievement_130].QuestDesc
+msgid "ステージミッション120個を達成"
+msgstr "Clear 120 mission stages"
+
+#  Korean Text: '일류 사령관 IV'
+#: Quest[Achievement_130].QuestTitle
+msgid "一流司令官IV"
+msgstr "First-rate Commander IV"
+
+#  Korean Text: '스테이지 미션 160개 달성'
+#: Quest[Achievement_131].QuestDesc
+msgid "ステージミッション160個を達成"
+msgstr "Clear 160 mission stages"
+
+#  Korean Text: '일류 사령관 V'
+#: Quest[Achievement_131].QuestTitle
+msgid "一流司令官V"
+msgstr "First-rate Commander V"
+
+#  Korean Text: '스테이지 미션 200개 달성'
+#: Quest[Achievement_132].QuestDesc
+msgid "ステージミッション200個を達成"
+msgstr "Clear 200 mission stages"
+
+#  Korean Text: '일류 사령관 VI'
+#: Quest[Achievement_132].QuestTitle
+msgid "一流司令官VI"
+msgstr "First-rate Commander VI"
+
+#  Korean Text: '스테이지 미션 240개 달성'
+#: Quest[Achievement_133].QuestDesc
+msgid "ステージミッション240個を達成"
+msgstr "Clear 240 mission stages"
+
+#  Korean Text: '일류 사령관 VII'
+#: Quest[Achievement_133].QuestTitle
+msgid "一流司令官VII"
+msgstr "First-rate Commander VII"
+
+#  Korean Text: '스테이지 미션 280개 달성'
+#: Quest[Achievement_134].QuestDesc
+msgid "ステージミッション280個を達成"
+msgstr "Clear 280 mission stages"
+
+#  Korean Text: '일류 사령관 VIII'
+#: Quest[Achievement_134].QuestTitle
+msgid "一流司令官VIII"
+msgstr "First-rate Commander VIII"
+
+#  Korean Text: '스테이지 미션 320개 달성'
+#: Quest[Achievement_135].QuestDesc
+msgid "ステージミッション320個を達成"
+msgstr "Clear 320 mission stages"
+
+#  Korean Text: '일류 사령관 VIX'
+#: Quest[Achievement_135].QuestTitle
+msgid "一流司令官VIX"
+msgstr "First-rate Commander VIX"
+
+#  Korean Text: '1-8 스테이지 클리어'
+#: Quest[Achievement_136].QuestDesc
+msgid "1-8ステージクリア"
+msgstr "Clear stage 1-8"
+
+#  Korean Text: '첫 번째 이야기'
+#: Quest[Achievement_136].QuestTitle
+msgid "１番目のストーリー"
+msgstr ""
+
+#  Korean Text: '2-8 스테이지 클리어'
+#: Quest[Achievement_137].QuestDesc
+msgid "2-8ステージクリア"
+msgstr "Clear stage 2-8"
+
+#  Korean Text: '두 번째 이야기'
+#: Quest[Achievement_137].QuestTitle
+msgid "２番目のストーリー"
+msgstr ""
+
+#  Korean Text: '3-8 스테이지 클리어'
+#: Quest[Achievement_138].QuestDesc
+msgid "3-8ステージクリア"
+msgstr "Clear stage 3-8"
+
+#  Korean Text: '세 번째 이야기'
+#: Quest[Achievement_138].QuestTitle
+msgid "３番目のストーリー"
+msgstr ""
+
+#  Korean Text: '4-8 스테이지 클리어'
+#: Quest[Achievement_139].QuestDesc
+msgid "4-8ステージクリア"
+msgstr "Clear stage 4-8"
+
+#  Korean Text: '네 번째 이야기'
+#: Quest[Achievement_139].QuestTitle
+msgid "４番目のストーリー"
+msgstr ""
+
+#  Korean Text: '5-8 스테이지 클리어'
+#: Quest[Achievement_140].QuestDesc
+msgid "5-8ステージクリア"
+msgstr "Clear stage 5-8"
+
+#  Korean Text: '다섯 번째 이야기'
+#: Quest[Achievement_140].QuestTitle
+msgid "５番目のストーリー"
+msgstr ""
+
+#  Korean Text: '스토커를 처치'
+#: Quest[Achievement_141].QuestDesc
+msgid "ストーカーを倒す"
+msgstr ""
+
+#  Korean Text: '그만 따라와!'
+#: Quest[Achievement_141].QuestTitle
+msgid "ついてくるな！"
+msgstr "Stop Stalking Me!"
+
+#  Korean Text: '프레데터를 처치'
+#: Quest[Achievement_142].QuestDesc
+msgid "プレデターを倒す"
+msgstr ""
+
+#  Korean Text: '포식자의 최후'
+#: Quest[Achievement_142].QuestTitle
+msgid "捕食者の最後"
+msgstr "Predator Becomes Prey"
+
+#  Korean Text: '트릭스터를 처치'
+#: Quest[Achievement_143].QuestDesc
+msgid "トリックスターを倒す"
+msgstr ""
+
+#  Korean Text: '약오르는 녀석'
+#: Quest[Achievement_143].QuestTitle
+msgid "ムカつくやつ"
+msgstr "Tricky Fellow"
+
+#  Korean Text: '레이더를 처치'
+#: Quest[Achievement_144].QuestDesc
+msgid "レイダーを倒す"
+msgstr ""
+
+#  Korean Text: '소음공해 해결'
+#: Quest[Achievement_144].QuestTitle
+msgid "騒音公害解決"
+msgstr "Noise Pollution"
+
+#  Korean Text: '언더왓쳐를 처치'
+#: Quest[Achievement_145].QuestDesc
+msgid "アンダーウォッチャーを倒す"
+msgstr ""
+
+#  Korean Text: '깊은 곳의 공포'
+#: Quest[Achievement_145].QuestTitle
+msgid "深い所の恐怖"
+msgstr "Horror in the Depths"
+
+#  Korean Text: '일격에 1,000 이상의 피해를 줌'
+#: Quest[Achievement_146].QuestDesc
+msgid "一撃で1,000以上のダメージを与える"
+msgstr "Deal 1,000 or more damage in one hit"
+
+#  Korean Text: '회심의 일격 I'
+#: Quest[Achievement_146].QuestTitle
+msgid "会心の一撃I"
+msgstr ""
+
+#  Korean Text: '일격에 2,500 이상의 피해를 줌'
+#: Quest[Achievement_147].QuestDesc
+msgid "一撃で2,500以上のダメージを与える"
+msgstr "Deal 2,500 or more damage in one hit"
+
+#  Korean Text: '회심의 일격 II'
+#: Quest[Achievement_147].QuestTitle
+msgid "会心の一撃II"
+msgstr ""
+
+#  Korean Text: '일격에 5,000 이상의 피해를 줌'
+#: Quest[Achievement_148].QuestDesc
+msgid "一撃で5,000以上のダメージを与える"
+msgstr "Deal 5,000 or more damage in one hit"
+
+#  Korean Text: '회심의 일격 III'
+#: Quest[Achievement_148].QuestTitle
+msgid "会心の一撃III"
+msgstr ""
+
+#  Korean Text: '일격에 10,000 이상의 피해를 줌'
+#: Quest[Achievement_149].QuestDesc
+msgid "一撃で10,000以上のダメージを与える"
+msgstr "Deal 10,000 or more damage in one hit"
+
+#  Korean Text: '회심의 일격 IV'
+#: Quest[Achievement_149].QuestTitle
+msgid "会心の一撃IV"
+msgstr ""
+
+#  Korean Text: '일격에 25,000 이상의 피해를 줌'
+#: Quest[Achievement_150].QuestDesc
+msgid "一撃で25,000以上のダメージを与える"
+msgstr "Deal 25,000 or more damage in one hit"
+
+#  Korean Text: '회심의 일격 V'
+#: Quest[Achievement_150].QuestTitle
+msgid "会心の一撃V"
+msgstr ""
+
+#  Korean Text: '일격에 50,000 이상의 피해를 줌'
+#: Quest[Achievement_151].QuestDesc
+msgid "一撃で50,000以上のダメージを与える"
+msgstr "Deal 50,000 or more damage in one hit"
+
+#  Korean Text: '원 펀치'
+#: Quest[Achievement_151].QuestTitle
+msgid "ワンパンチ"
+msgstr "One Punch"
+
+#  Korean Text: '이야기를 30회 완료'
+#: Quest[Achievement_153].QuestDesc
+msgid "ストーリーを30回完了"
+msgstr "Complete 30 stories"
+
+#  Korean Text: '숨겨둔 이야기 II'
+#: Quest[Achievement_153].QuestTitle
+msgid "隠しておいたストーリーII"
+msgstr "Hidden Story II"
+
+#  Korean Text: '이야기를 50회 완료'
+#: Quest[Achievement_154].QuestDesc
+msgid "ストーリーを50回完了"
+msgstr "Complete 50 stories"
+
+#  Korean Text: '숨겨둔 이야기 III'
+#: Quest[Achievement_154].QuestTitle
+msgid "隠しておいたストーリーIII"
+msgstr "Hidden Story III"
+
+#  Korean Text: '이야기를 100회 완료'
+#: Quest[Achievement_155].QuestDesc
+msgid "ストーリーを100回完了"
+msgstr "Complete 100 stories"
+
+#  Korean Text: '숨겨둔 이야기 IV'
+#: Quest[Achievement_155].QuestTitle
+msgid "隠しておいたストーリーIV"
+msgstr "Hidden Story IV"
+
+#  Korean Text: '이야기를 250회 완료'
+#: Quest[Achievement_156].QuestDesc
+msgid "ストーリーを250回完了"
+msgstr "Complete 250 stories"
+
+#  Korean Text: '숨겨둔 이야기 V'
+#: Quest[Achievement_156].QuestTitle
+msgid "隠しておいたストーリーV"
+msgstr "Hidden Story V"
+
+#  Korean Text: '전투원 스킬 10 레벨 달성'
+#: Quest[Achievement_157].QuestDesc
+msgid "戦闘員スキル10レベル達成"
+msgstr "Earned 10 Unit levels"
+
+#  Korean Text: '단련의 성과 I'
+#: Quest[Achievement_157].QuestTitle
+msgid "鍛錬の成果I"
+msgstr "The fruit of one's labors I"
+
+#  Korean Text: '전투원 스킬 10 레벨 달성 10회'
+#: Quest[Achievement_158].QuestDesc
+msgid "戦闘員スキル10レベル達成10回"
+msgstr "Earned 10 Unit levels, 10 times"
+
+#  Korean Text: '단련의 성과 II'
+#: Quest[Achievement_158].QuestTitle
+msgid "鍛錬の成果II"
+msgstr "The fruit of one's labors II"
+
+#  Korean Text: '전투원 스킬 10 레벨 달성 30회'
+#: Quest[Achievement_159].QuestDesc
+msgid "戦闘員スキル10レベル達成30回"
+msgstr "Earned 10 Unit levels, 30 times"
+
+#  Korean Text: '단련의 성과 III'
+#: Quest[Achievement_159].QuestTitle
+msgid "鍛錬の成果III"
+msgstr "The fruit of one's labors III"
+
+#  Korean Text: '전투원 스킬 10 레벨 달성 50회'
+#: Quest[Achievement_160].QuestDesc
+msgid "戦闘員スキル10レベル達成50回"
+msgstr "Earned 10 Unit levels, 50 times"
+
+#  Korean Text: '단련의 성과 IV'
+#: Quest[Achievement_160].QuestTitle
+msgid "鍛錬の成果IV"
+msgstr "The fruit of one's labors IV"
+
+#  Korean Text: '전투원 스킬 10 레벨 달성 100회'
+#: Quest[Achievement_161].QuestDesc
+msgid "戦闘員スキル10レベル達成100回"
+msgstr "Earned 10 Unit levels, 100 times"
+
+#  Korean Text: '단련의 성과 V'
+#: Quest[Achievement_161].QuestTitle
+msgid "鍛錬の成果V"
+msgstr "The fruit of one's labors V"
+
+#  Korean Text: '전투원 Lv.100 달성'
+#: Quest[Achievement_162].QuestDesc
+msgid "戦闘員Lv.100達成"
+msgstr "Achieved Unit Lv.100"
+
+#  Korean Text: '정예 대원'
+#: Quest[Achievement_162].QuestTitle
+msgid "精鋭隊員"
+msgstr ""
+
+#  Korean Text: '전투원 Lv.100 달성 10회'
+#: Quest[Achievement_163].QuestDesc
+msgid "戦闘員Lv.100達成10回"
+msgstr "Achieved Unit Lv.100, 10 times"
+
+#  Korean Text: '정예 분대'
+#: Quest[Achievement_163].QuestTitle
+msgid "精鋭分隊"
+msgstr ""
+
+#  Korean Text: '전투원 Lv.100 달성 30회'
+#: Quest[Achievement_164].QuestDesc
+msgid "戦闘員Lv.100達成30回"
+msgstr "Achieved Unit Lv.100, 30 times"
+
+#  Korean Text: '정예 소대'
+#: Quest[Achievement_164].QuestTitle
+msgid "精鋭小隊"
+msgstr ""
+
+#  Korean Text: '전투원 Lv.100 달성 50회'
+#: Quest[Achievement_165].QuestDesc
+msgid "戦闘員Lv.100達成50回"
+msgstr "Achieved Unit Lv.100, 50 times"
+
+#  Korean Text: '공포의 외인부대'
+#: Quest[Achievement_165].QuestTitle
+msgid "恐怖の外人部隊"
+msgstr ""
+
+#  Korean Text: '전투원 Lv.100 달성 100회'
+#: Quest[Achievement_166].QuestDesc
+msgid "戦闘員Lv.100達成100回"
+msgstr "Achieved Unit Lv.100, 100 times"
+
+#  Korean Text: '더 이상 아무것도 두렵지 않아'
+#: Quest[Achievement_166].QuestTitle
+msgid "もう何も怖くない"
+msgstr ""
+
+#  Korean Text: '장비를 10회 강화'
+#: Quest[Achievement_167].QuestDesc
+msgid "装備を10回強化"
+msgstr "Enhance equipment 10 times"
+
+#  Korean Text: '장비가 강렬한 빛을 내며… I'
+#: Quest[Achievement_167].QuestTitle
+msgid "装備が強烈な光を放ち…I"
+msgstr "Make the equipment shine so brightly that... I"
+
+#  Korean Text: '장비를 100회 강화'
+#: Quest[Achievement_168].QuestDesc
+msgid "装備を100回強化"
+msgstr "Enhance equipment 100 times"
+
+#  Korean Text: '장비가 강렬한 빛을 내며… II'
+#: Quest[Achievement_168].QuestTitle
+msgid "装備が強烈な光を放ち…II"
+msgstr "Make the equipment shine so brightly that... II"
+
+#  Korean Text: '장비를 500회 강화'
+#: Quest[Achievement_169].QuestDesc
+msgid "装備を500回強化"
+msgstr "Enhance equipment 500 times"
+
+#  Korean Text: '장비가 강렬한 빛을 내며… III'
+#: Quest[Achievement_169].QuestTitle
+msgid "装備が強烈な光を放ち…III"
+msgstr "Make the equipment shine so brightly that... III"
+
+#  Korean Text: '장비를 1,000회 강화'
+#: Quest[Achievement_170].QuestDesc
+msgid "装備を1,000回強化"
+msgstr "Enhance equipment 1,000 times"
+
+#  Korean Text: '장비가 강렬한 빛을 내며… IV'
+#: Quest[Achievement_170].QuestTitle
+msgid "装備が強烈な光を放ち…IV"
+msgstr "Make the equipment shine so brightly that... IV"
+
+#  Korean Text: '장비를 10,000회 강화'
+#: Quest[Achievement_171].QuestDesc
+msgid "装備を10,000回強化"
+msgstr "Enhance equipment 10,000 times"
+
+#  Korean Text: '장비가 강렬한 빛을 내며… V'
+#: Quest[Achievement_171].QuestTitle
+msgid "装備が強烈な光を放ち…V"
+msgstr "Make the equipment shine so brightly that... V"
+
+#  Korean Text: '지휘 숙련도 Lv.5 달성'
+#: Quest[Achievement_172].QuestDesc
+msgid "指揮熟練度Lv.5達成"
+msgstr "Achieved Commander level 5"
+
+#  Korean Text: '신입 사령관 I'
+#: Quest[Achievement_172].QuestTitle
+msgid "新入司令官I"
+msgstr "New Commander I"
+
+#  Korean Text: '지휘 숙련도 Lv.15 달성'
+#: Quest[Achievement_173].QuestDesc
+msgid "指揮熟練度Lv.15達成"
+msgstr "Achieved Commander level 15"
+
+#  Korean Text: '신입 사령관 II'
+#: Quest[Achievement_173].QuestTitle
+msgid "新入司令官II"
+msgstr "New Commander II"
+
+#  Korean Text: '지휘 숙련도 Lv.30 달성'
+#: Quest[Achievement_174].QuestDesc
+msgid "指揮熟練度Lv.30達成"
+msgstr "Achieved Commander level 30"
+
+#  Korean Text: '초보 사령관 I'
+#: Quest[Achievement_174].QuestTitle
+msgid "初歩司令官I"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.45 달성'
+#: Quest[Achievement_175].QuestDesc
+msgid "指揮熟練度Lv.45達成"
+msgstr "Achieved Commander level 45"
+
+#  Korean Text: '초보 사령관 II'
+#: Quest[Achievement_175].QuestTitle
+msgid "初歩司令官II"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.60 달성'
+#: Quest[Achievement_176].QuestDesc
+msgid "指揮熟練度Lv.60達成"
+msgstr "Achieved Commander level 60"
+
+#  Korean Text: '숙련 사령관 I'
+#: Quest[Achievement_176].QuestTitle
+msgid "熟練司令官I"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.80 달성'
+#: Quest[Achievement_177].QuestDesc
+msgid "指揮熟練度Lv.80達成"
+msgstr "Achieved Commander level 80"
+
+#  Korean Text: '숙련 사령관 II'
+#: Quest[Achievement_177].QuestTitle
+msgid "熟練司令官II"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.100 달성'
+#: Quest[Achievement_178].QuestDesc
+msgid "指揮熟練度Lv.100達成"
+msgstr "Achieved Commander level 100"
+
+#  Korean Text: '베테랑 사령관 I'
+#: Quest[Achievement_178].QuestTitle
+msgid "ベテラン司令官I"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.125 달성'
+#: Quest[Achievement_179].QuestDesc
+msgid "指揮熟練度Lv.125達成"
+msgstr "Achieved Commander level 125"
+
+#  Korean Text: '베테랑 사령관 II'
+#: Quest[Achievement_179].QuestTitle
+msgid "ベテラン司令官II"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.150 달성'
+#: Quest[Achievement_180].QuestDesc
+msgid "指揮熟練度Lv.150達成"
+msgstr "Achieved Commander level 150"
+
+#  Korean Text: '역전의 사령관'
+#: Quest[Achievement_180].QuestTitle
+msgid "歴戦の司令官"
+msgstr ""
+
+#  Korean Text: '지휘 숙련도 Lv.200 달성'
+#: Quest[Achievement_181].QuestDesc
+msgid "指揮熟練度Lv.200達成"
+msgstr "Achieved Commander level 200"
+
+#  Korean Text: '전설의 사령관'
+#: Quest[Achievement_181].QuestTitle
+msgid "伝説の司令官"
+msgstr ""
+
+#  Korean Text: '자원 탐색 10회 완료'
+#: Quest[Achievement_182].QuestDesc
+msgid "資源探索10回完了"
+msgstr "Complete 10 explorations"
+
+#  Korean Text: '동전 줍기'
+#: Quest[Achievement_182].QuestTitle
+msgid "コイン拾い"
+msgstr ""
+
+#  Korean Text: '자원 탐색 50회 완료'
+#: Quest[Achievement_183].QuestDesc
+msgid "資源探索50回完了"
+msgstr "Complete 50 explorations"
+
+#  Korean Text: '쓰다만 물건 수거'
+#: Quest[Achievement_183].QuestTitle
+msgid "使い捨て物品収集"
+msgstr ""
+
+#  Korean Text: '자원 탐색 100회 완료'
+#: Quest[Achievement_184].QuestDesc
+msgid "資源探索100回完了"
+msgstr "Complete 100 explorations"
+
+#  Korean Text: '주인 없는 물건들'
+#: Quest[Achievement_184].QuestTitle
+msgid "持ち主がいない物品"
+msgstr ""
+
+#  Korean Text: '자원 탐색 250회 완료'
+#: Quest[Achievement_185].QuestDesc
+msgid "資源探索250回完了"
+msgstr "Complete 250 explorations"
+
+#  Korean Text: '자원을 찾아서…'
+#: Quest[Achievement_185].QuestTitle
+msgid "資源を探して…"
+msgstr ""
+
+#  Korean Text: '자원 탐색 500회 완료'
+#: Quest[Achievement_186].QuestDesc
+msgid "資源探索500回完了"
+msgstr "Complete 500 explorations"
+
+#  Korean Text: '5분 쉬고 다시 출동'
+#: Quest[Achievement_186].QuestTitle
+msgid "５分休んでから再び出動"
+msgstr ""
+
+#  Korean Text: '자원 탐색 1,000회 완료'
+#: Quest[Achievement_187].QuestDesc
+msgid "資源探索1,000回完了"
+msgstr "Complete 1,000 explorations"
+
+#  Korean Text: '휴식시간 따윈 없다'
+#: Quest[Achievement_187].QuestTitle
+msgid "休憩時間など無い"
+msgstr ""
+
+#  Korean Text: '자원 탐색 10,000회 완료'
+#: Quest[Achievement_188].QuestDesc
+msgid "資源探索10,000回完了"
+msgstr "Complete 10,000 explorations"
+
+#  Korean Text: '골동품 수집가'
+#: Quest[Achievement_188].QuestTitle
+msgid "骨董品収集家"
+msgstr ""
+
+#  Korean Text: '전투원 10회 수복'
+#: Quest[Achievement_189].QuestDesc
+msgid "戦闘員10回修複"
+msgstr "Recapture 10 lost Units"
+
+#  Korean Text: '일어나세요 용사여 I'
+#: Quest[Achievement_189].QuestTitle
+msgid "起きよ勇士よI"
+msgstr "Rise and Shine I"
+
+#  Korean Text: '전투원 50회 수복'
+#: Quest[Achievement_190].QuestDesc
+msgid "戦闘員50回修複"
+msgstr "Recapture 50 lost Units"
+
+#  Korean Text: '일어나세요 용사여 II'
+#: Quest[Achievement_190].QuestTitle
+msgid "起きよ勇士よII"
+msgstr "Rise and Shine II"
+
+#  Korean Text: '전투원 100회 수복'
+#: Quest[Achievement_191].QuestDesc
+msgid "戦闘員100回修複"
+msgstr "Recapture 100 lost Units"
+
+#  Korean Text: '일어나세요 용사여 III'
+#: Quest[Achievement_191].QuestTitle
+msgid "起きよ勇士よIII"
+msgstr "Rise and Shine III"
+
+#  Korean Text: '전투원 250회 수복'
+#: Quest[Achievement_192].QuestDesc
+msgid "戦闘員250回修複"
+msgstr "Recapture 250 lost Units"
+
+#  Korean Text: '일어나세요 용사여 IV'
+#: Quest[Achievement_192].QuestTitle
+msgid "起きよ勇士よIV"
+msgstr "Rise and Shine IV"
+
+#  Korean Text: '전투원 1,000회 수복'
+#: Quest[Achievement_193].QuestDesc
+msgid "戦闘員1,000回修複"
+msgstr "Recapture 1,000 lost Units"
+
+#  Korean Text: '일어나세요 용사여 V'
+#: Quest[Achievement_193].QuestTitle
+msgid "起きよ勇士よV"
+msgstr "Rise and Shine V"
+
+#  Korean Text: '전투원 2,500회 수복'
+#: Quest[Achievement_194].QuestDesc
+msgid "戦闘員2,500回修複"
+msgstr "Recapture 2,500 lost Units"
+
+#  Korean Text: '일어나세요 용사여 VI'
+#: Quest[Achievement_194].QuestTitle
+msgid "起きよ勇士よVI"
+msgstr "Rise and Shine VI"
+
+#  Korean Text: '전투원에 코어 링크 장착'
+#: Quest[Achievement_195].QuestDesc
+msgid "戦闘員にコアリンク装着"
+msgstr "Install one Core Link to Units"
+
+#  Korean Text: '듀얼 코어'
+#: Quest[Achievement_195].QuestTitle
+msgid "デュアルコア"
+msgstr "Dual Core"
+
+#  Korean Text: '전투원에 코어 링크 10회 장착'
+#: Quest[Achievement_196].QuestDesc
+msgid "戦闘員にコアリンク10回装着"
+msgstr "Install Core Links to Units 10 times"
+
+#  Korean Text: '쿼드 코어'
+#: Quest[Achievement_196].QuestTitle
+msgid "クォードコア"
+msgstr "Quad Core"
+
+#  Korean Text: '전투원에 코어 링크 30회 장착'
+#: Quest[Achievement_197].QuestDesc
+msgid "戦闘員にコアリンク30回装着"
+msgstr "Install Core Links to Units 30 times"
+
+#  Korean Text: '헥사 코어'
+#: Quest[Achievement_197].QuestTitle
+msgid "ヘキサコア"
+msgstr "Hexa Core"
+
+#  Korean Text: '전투원에 코어 링크 50회 장착'
+#: Quest[Achievement_198].QuestDesc
+msgid "戦闘員にコアリンク50回装着"
+msgstr "Install Core Links to Units 50 times"
+
+#  Korean Text: '옥타 코어'
+#: Quest[Achievement_198].QuestTitle
+msgid "オクタコア"
+msgstr "Octa Core"
+
+#  Korean Text: '전투원에 코어 링크 100회 장착'
+#: Quest[Achievement_199].QuestDesc
+msgid "戦闘員にコアリンク100回装着"
+msgstr "Install Core Links to Units 100 times"
+
+#  Korean Text: '헥사데카 코어'
+#: Quest[Achievement_199].QuestTitle
+msgid "ヘキサデカコア"
+msgstr "Hexadeca Core"
+
+#  Korean Text: '부품 20,000 이상 획득'
+#: Quest[Achievement_200].QuestDesc
+msgid "部品20,000以上入手"
+msgstr "Obtain 20,000 Parts"
+
+#  Korean Text: '부품 수집가 I'
+#: Quest[Achievement_200].QuestTitle
+msgid "部品収集家I"
+msgstr "Parts Collector"
+
+#  Korean Text: '부품 50,000 이상 획득'
+#: Quest[Achievement_201].QuestDesc
+msgid "部品50,000以上入手"
+msgstr "Obtain 50,000 Parts"
+
+#  Korean Text: '부품 수집가 II'
+#: Quest[Achievement_201].QuestTitle
+msgid "部品収集家II"
+msgstr "Parts Collector"
+
+#  Korean Text: '부품 100,000 이상 획득'
+#: Quest[Achievement_202].QuestDesc
+msgid "部品100,000以上入手"
+msgstr "Obtain 100,000 Parts"
+
+#  Korean Text: '부품 수집가 III'
+#: Quest[Achievement_202].QuestTitle
+msgid "部品収集家III"
+msgstr "Parts Collector"
+
+#  Korean Text: '부품 200,000 이상 획득'
+#: Quest[Achievement_203].QuestDesc
+msgid "部品200,000以上入手"
+msgstr "Obtain 200,000 Parts"
+
+#  Korean Text: '부품 수집가 IV'
+#: Quest[Achievement_203].QuestTitle
+msgid "部品収集家IV"
+msgstr "Parts Collector"
+
+#  Korean Text: '부품 300,000 이상 획득'
+#: Quest[Achievement_204].QuestDesc
+msgid "部品300,000以上入手"
+msgstr "Obtain 300,000 Parts"
+
+#  Korean Text: '부품 수집가 V'
+#: Quest[Achievement_204].QuestTitle
+msgid "部品収集家V"
+msgstr "Parts Collector"
+
+#  Korean Text: '영양 20,000 이상 획득'
+#: Quest[Achievement_205].QuestDesc
+msgid "栄養20,000以上入手"
+msgstr "Obtain 20,000 Nutrients"
+
+#  Korean Text: '아포칼립스 대비책 I'
+#: Quest[Achievement_205].QuestTitle
+msgid "アポカリプス準備策I"
+msgstr "Disaster Preparedness I"
+
+#  Korean Text: '영양 50,000 이상 획득'
+#: Quest[Achievement_206].QuestDesc
+msgid "栄養50,000以上入手"
+msgstr "Obtain 50,000 Nutrients"
+
+#  Korean Text: '아포칼립스 대비책 II'
+#: Quest[Achievement_206].QuestTitle
+msgid "アポカリプス準備策II"
+msgstr "Disaster Preparedness II"
+
+#  Korean Text: '영양 100,000 이상 획득'
+#: Quest[Achievement_207].QuestDesc
+msgid "栄養100,000以上入手"
+msgstr "Obtain 100,000 Nutrients"
+
+#  Korean Text: '아포칼립스 대비책 III'
+#: Quest[Achievement_207].QuestTitle
+msgid "アポカリプス準備策III"
+msgstr "Disaster Preparedness III"
+
+#  Korean Text: '영양 200,000 이상 획득'
+#: Quest[Achievement_208].QuestDesc
+msgid "栄養200,000以上入手"
+msgstr "Obtain 200,000 Nutrients"
+
+#  Korean Text: '아포칼립스 대비책 IV'
+#: Quest[Achievement_208].QuestTitle
+msgid "アポカリプス準備策IV"
+msgstr "Disaster Preparedness IV"
+
+#  Korean Text: '영양 300,000 이상 획득'
+#: Quest[Achievement_209].QuestDesc
+msgid "栄養300,000以上入手"
+msgstr "Obtain 300,000 Nutrients"
+
+#  Korean Text: '아포칼립스 대비책 V'
+#: Quest[Achievement_209].QuestTitle
+msgid "アポカリプス準備策V"
+msgstr "Disaster Preparedness V"
+
+#  Korean Text: '전력 20,000 이상 획득'
+#: Quest[Achievement_210].QuestDesc
+msgid "電力20,000以上入手"
+msgstr "Obtain 20,000 Power"
+
+#  Korean Text: '전기를 아껴씁시다 I'
+#: Quest[Achievement_210].QuestTitle
+msgid "電気を節約しましょうI"
+msgstr "Power Saver I"
+
+#  Korean Text: '전력 50,000 이상 획득'
+#: Quest[Achievement_211].QuestDesc
+msgid "電力50,000以上入手"
+msgstr "Obtain 50,000 Power"
+
+#  Korean Text: '전기를 아껴씁시다 II'
+#: Quest[Achievement_211].QuestTitle
+msgid "電気を節約しましょうII"
+msgstr "Power Saver II"
+
+#  Korean Text: '전력 100,000 이상 획득'
+#: Quest[Achievement_212].QuestDesc
+msgid "電力100,000以上入手"
+msgstr "Obtain 100,000 Power"
+
+#  Korean Text: '전기를 아껴씁시다 III'
+#: Quest[Achievement_212].QuestTitle
+msgid "電気を節約しましょうIII"
+msgstr "Power Saver III"
+
+#  Korean Text: '전력 200,000 이상 획득'
+#: Quest[Achievement_213].QuestDesc
+msgid "電力200,000以上入手"
+msgstr "Obtain 200,000 Power"
+
+#  Korean Text: '전기를 아껴씁시다 IV'
+#: Quest[Achievement_213].QuestTitle
+msgid "電気を節約しましょうIV"
+msgstr "Power Saver IV"
+
+#  Korean Text: '전력 300,000 이상 획득'
+#: Quest[Achievement_214].QuestDesc
+msgid "電力300,000以上入手"
+msgstr "Obtain 300,000 Power"
+
+#  Korean Text: '전기를 아껴씁시다 V'
+#: Quest[Achievement_214].QuestTitle
+msgid "電気を節約しましょうV"
+msgstr "Power Saver V"
+
+#  Korean Text: '6-8 스테이지 클리어'
+#: Quest[Achievement_215].QuestDesc
+msgid "6-8ステージクリア"
+msgstr "Clear stage 6-8"
+
+#  Korean Text: '여섯 번째 이야기'
+#: Quest[Achievement_215].QuestTitle
+msgid "６番目のストーリー"
+msgstr "The Sixth Story"
+
+#  Korean Text: '익스큐셔너를 처치'
+#: Quest[Achievement_216].QuestDesc
+msgid "エクスキューショナーを倒す"
+msgstr ""
+
+#  Korean Text: '처형된 처형자'
+#: Quest[Achievement_216].QuestTitle
+msgid "処刑された処刑者"
+msgstr "Execute the Executioner"
+
+#  Korean Text: '메인 스테이지 10회 클리어'
+#: Quest[DailyQuest_Fix_001].QuestDesc
+msgid "メインステージを10回クリア"
+msgstr "Clear 10 main stages"
+
+#  Korean Text: '구역 순찰'
+#: Quest[DailyQuest_Fix_001].QuestTitle
+msgid "区域巡察"
+msgstr "Zone Patrol"
+
+#  Korean Text: '철충 50기 파괴'
+#: Quest[DailyQuest_Fix_002].QuestDesc
+msgid "鉄虫を５０機破壊"
+msgstr "Destroy 50 Iron Parasites"
+
+#  Korean Text: '증식 억제'
+#: Quest[DailyQuest_Fix_002].QuestTitle
+msgid "増殖抑制"
+msgstr "Suppress Propagation"
+
+#  Korean Text: '바이오로이드 3기 제작'
+#: Quest[DailyQuest_Fix_003].QuestDesc
+msgid "バイオロイドを３機製造"
+msgstr "Build 3 Bioroids"
+
+#  Korean Text: '새로운 전력 확보'
+#: Quest[DailyQuest_Fix_003].QuestTitle
+msgid "新たな戦力確保"
+msgstr "Secure New Power"
+
+#  Korean Text: '장비 5개 제작'
+#: Quest[DailyQuest_Fix_004].QuestDesc
+msgid "装備を５個製造"
+msgstr "Build 5 pieces of equipment"
+
+#  Korean Text: '전투 장비 보급'
+#: Quest[DailyQuest_Fix_004].QuestTitle
+msgid "戦闘装備補給"
+msgstr "Supply Battle Equipment"
+
+#  Korean Text: '바이오로이드 타입 전투원 10기 획득'
+#: Quest[DailyQuest_Fix_005].QuestDesc
+msgid "バイオロイドタイプ戦闘員10機入手"
+msgstr "Obtain 10 Bioroids Units"
+
+#  Korean Text: '실종 대원 탐색'
+#: Quest[DailyQuest_Fix_005].QuestTitle
+msgid "失踪隊員探索"
+msgstr "Searching for Missing Crew"
+
+#  Korean Text: '물자 확보'
+#: Quest[DailyQuest_Fix_006].QuestTitle
+msgid "物資確保"
+msgstr "Securing Supplies"
+
+#  Korean Text: '전투원 3회 강화'
+#: Quest[DailyQuest_Fix_007].QuestDesc
+msgid "戦闘員3回強化"
+msgstr "Enhance unit 3 times"
+
+#  Korean Text: '전투원 점검'
+#: Quest[DailyQuest_Fix_007].QuestTitle
+msgid "戦闘員点検"
+msgstr "Combatant Inspection"
+
+#  Korean Text: '장비 3회 강화'
+#: Quest[DailyQuest_Fix_008].QuestDesc
+msgid "装備3回強化"
+msgstr "Enhance equipment 3 times"
+
+#  Korean Text: '장비 점검'
+#: Quest[DailyQuest_Fix_008].QuestTitle
+msgid "装備点検"
+msgstr "Equipment Inspection"
+
+#  Korean Text: '일일 훈련 완료'
+#: Quest[DailyQuest_Fix_009].QuestDesc
+msgid "デイリー訓練完了"
+msgstr "Daily training completed"
+
+#  Korean Text: '상시 훈련'
+#: Quest[DailyQuest_Fix_009].QuestTitle
+msgid "常時訓練"
+msgstr "Regular Training"
+
+#  Korean Text: '보스 타입 철충 3기 파괴'
+#: Quest[DailyQuest_Random_001].QuestDesc
+msgid "ボスタイプ鉄虫3機破壊"
+msgstr "Destroy 3 Boss Iron Parasites"
+
+#  Korean Text: '잠재적 위협 제거'
+#: Quest[DailyQuest_Random_001].QuestTitle
+msgid "潜在的脅威除去"
+msgstr "Eliminate Potential Threats"
+
+#  Korean Text: '나이트 칙 계통의 철충 30기 파괴'
+#: Quest[DailyQuest_Random_002].QuestDesc
+msgid "ナイトチック系の鉄虫30機破壊"
+msgstr "Destroy 30 Night Chick Iron Parasites"
+
+#  Korean Text: '오늘 저녁은 치킨?'
+#: Quest[DailyQuest_Random_002].QuestTitle
+msgid "今日の夜はチキン？"
+msgstr "Chicken for Dinner?"
+
+#  Korean Text: '경장형 철충 25기 파괴'
+#: Quest[DailyQuest_Random_003].QuestDesc
+msgid "軽装型鉄虫25機破壊"
+msgstr "Destroy 25 Light Iron Parasites"
+
+#  Korean Text: '해로운 기계'
+#: Quest[DailyQuest_Random_003].QuestTitle
+msgid "有害な機械"
+msgstr "Harmful Machines"
+
+#  Korean Text: '중장형 철충 10기 파괴'
+#: Quest[DailyQuest_Random_004].QuestDesc
+msgid "重装型鉄虫10機破壊"
+msgstr "Destroy 10 Heavy Iron Parasites"
+
+#  Korean Text: '고철 수집'
+#: Quest[DailyQuest_Random_004].QuestTitle
+msgid "鉄くず収集"
+msgstr "Scrap Metal Collection"
+
+#  Korean Text: '기동형 철충 15기 파괴'
+#: Quest[DailyQuest_Random_005].QuestDesc
+msgid "機動型鉄虫15機破壊"
+msgstr "Destroy 15 Flying Iron Parasites"
+
+#  Korean Text: '귀찮은 날파리들'
+#: Quest[DailyQuest_Random_005].QuestTitle
+msgid "面倒くさいハエども"
+msgstr "Annoying Flies"
+
+#  Korean Text: '장비를 3회 분해'
+#: Quest[DailyQuest_Random_006].QuestDesc
+msgid "装備を3回分解"
+msgstr "Disassemble equipment 3 times"
+
+#  Korean Text: '창고 정리'
+#: Quest[DailyQuest_Random_006].QuestTitle
+msgid "倉庫整理"
+msgstr "Clearing the Warehouse"
+
+#  Korean Text: '메인 스테이지 125회 클리어'
+#: Quest[MonthlyQuest_Fix_001].QuestDesc
+msgid "メインステージ125回クリア"
+msgstr "Clear 125 main stages"
+
+#  Korean Text: '구역 점령'
+#: Quest[MonthlyQuest_Fix_001].QuestTitle
+msgid "区域占領"
+msgstr "Zone Occupation"
+
+#  Korean Text: '미탐사 구역 확보'
+#: Quest[MonthlyQuest_Fix_002].QuestTitle
+msgid "未探索区域確保"
+msgstr "Secure Unexplored Areas"
+
+#  Korean Text: '철충 500기 파괴'
+#: Quest[MonthlyQuest_Fix_003].QuestDesc
+msgid "鉄虫500機破壊"
+msgstr "Destroy 500 Iron Parasites"
+
+#  Korean Text: '해충 박멸'
+#: Quest[MonthlyQuest_Fix_003].QuestTitle
+msgid "害虫駆除"
+msgstr "Pest Extermination"
+
+#  Korean Text: '자원 탐색 60회 완료'
+#: Quest[MonthlyQuest_Fix_004].QuestDesc
+msgid "資源探索60回完了"
+msgstr "Complete 60 explorations"
+
+#  Korean Text: '주 7일 근무제'
+#: Quest[MonthlyQuest_Fix_004].QuestTitle
+msgid "週７日勤務制"
+msgstr "7-Day Work Week"
+
+#  Korean Text: '일일 훈련 30회 완료'
+#: Quest[MonthlyQuest_Fix_005].QuestDesc
+msgid "デイリー訓練30回完了"
+msgstr "Complete 30 daily stages"
+
+#  Korean Text: '끝나지 않는 특훈'
+#: Quest[MonthlyQuest_Fix_005].QuestTitle
+msgid "終わらない特訓"
+msgstr "Endless Special Training"
+
+#  Korean Text: '보스 타입 철충 30기 파괴'
+#: Quest[MonthlyQuest_Fix_006].QuestDesc
+msgid "ボスタイプ鉄虫30機破壊"
+msgstr "Destroy 30 Boss Iron Parasites"
+
+#  Korean Text: '더 이상 적수는 없다'
+#: Quest[MonthlyQuest_Fix_006].QuestTitle
+msgid "もう敵はいない"
+msgstr "Unmatched by Anyone"
+
+#  Korean Text: '경장형 철충 300기 파괴'
+#: Quest[MonthlyQuest_Fix_007].QuestDesc
+msgid "軽装型鉄虫300機破壊"
+msgstr "Destroy 300 light Iron Parasites"
+
+#  Korean Text: '주력 부대 섬멸'
+#: Quest[MonthlyQuest_Fix_007].QuestTitle
+msgid "主力部隊殲滅"
+msgstr "Annihilate Main Forces"
+
+#  Korean Text: '중장형 철충 100기 파괴'
+#: Quest[MonthlyQuest_Fix_008].QuestDesc
+msgid "重装型鉄虫100機破壊"
+msgstr "Destroy 100 heavy Iron Parasites"
+
+#  Korean Text: '장갑 부대 섬멸'
+#: Quest[MonthlyQuest_Fix_008].QuestTitle
+msgid "装甲部隊殲滅"
+msgstr "Annihilate Armored Forces"
+
+#  Korean Text: '기동형 철충 200기 파괴'
+#: Quest[MonthlyQuest_Fix_009].QuestDesc
+msgid "機動型鉄虫200機破壊"
+msgstr "Destroy 200 flying Iron Parasites"
+
+#  Korean Text: '기동 부대 섬멸'
+#: Quest[MonthlyQuest_Fix_009].QuestTitle
+msgid "機動部隊殲滅"
+msgstr "Annihilate Mobile Forces"
+
+#  Korean Text: '바이오로이드 전투원 100기 획득'
+#: Quest[MonthlyQuest_Random_001].QuestDesc
+msgid "バイオロイド戦闘員100機入手"
+msgstr "Acquire 100 Bioroid units"
+
+#  Korean Text: '난민 보호소'
+#: Quest[MonthlyQuest_Random_001].QuestTitle
+msgid "難民保護所"
+msgstr "Refugee Shelter"
+
+#  Korean Text: '전투원 레벨 업 100회'
+#: Quest[MonthlyQuest_Random_002].QuestDesc
+msgid "戦闘員レベルアップ100回"
+msgstr "Level up units 100 times"
+
+#  Korean Text: '정예 병력 육성'
+#: Quest[MonthlyQuest_Random_002].QuestTitle
+msgid "精鋭兵力育成"
+msgstr "Elite Troop Training"
+
+#  Korean Text: '전투원 수복 30회'
+#: Quest[MonthlyQuest_Random_003].QuestDesc
+msgid "戦闘員修複30回"
+msgstr "Restore 30 units"
+
+#  Korean Text: '다시 전장으로'
+#: Quest[MonthlyQuest_Random_003].QuestTitle
+msgid "再び戦場へ"
+msgstr "Back to the battlefield"
+
+#  Korean Text: '로봇 전투원 20회 제작'
+#: Quest[MonthlyQuest_Random_004].QuestDesc
+msgid "ロボット戦闘員20回製造"
+msgstr "Build 20 AGS units."
+
+#  Korean Text: '인간 세상의 끝'
+#: Quest[MonthlyQuest_Random_004].QuestTitle
+msgid "人間世界の終わり"
+msgstr "The end of the human world"
+
+#  Korean Text: '부품을 30000이상 사용'
+#: Quest[MonthlyQuest_Random_005].QuestDesc
+msgid "部品を30000以上使用"
+msgstr "Use over 30000 parts"
+
+#  Korean Text: '투자는 아낌없이'
+#: Quest[MonthlyQuest_Random_005].QuestTitle
+msgid "投資は惜しまず"
+msgstr "Investment generously"
+
+#  Korean Text: '영양을 30000이상 사용'
+#: Quest[MonthlyQuest_Random_006].QuestDesc
+msgid "栄養を30000以上使用"
+msgstr "Use over 30000 nutrients"
+
+#  Korean Text: '든든한 한끼?'
+#: Quest[MonthlyQuest_Random_006].QuestTitle
+msgid "お腹パンパン？"
+msgstr "A Hearty Meal?"
+
+#  Korean Text: '전력을 30000이상 사용'
+#: Quest[MonthlyQuest_Random_007].QuestDesc
+msgid "電力を30000以上使用"
+msgstr "Use more than 30000 power"
+
+#  Korean Text: '이번 달 전기비는…'
+#: Quest[MonthlyQuest_Random_007].QuestTitle
+msgid "今月の電気代は…"
+msgstr "This Month's Electricity Bill is..."
+
+#  Korean Text: '함내 사령실 활성화'
+#: Quest[Research_Fac_Quest_001].QuestDesc
+msgid "1-3クリアにより艦内指令室アクティブ化"
+msgstr "Activate Command Room"
+
+#  Korean Text: '(연구) 함내 기반 시설_1-3클리어'
+#: Quest[Research_Fac_Quest_001].QuestTitle
+msgid "（研究）艦内基盤施設＿１－３クリア"
+msgstr "(Research) Base Infrastructure_1-3 Clear"
+
+#  Korean Text: '부품 1000 이상 사용'
+#: Quest[Research_Fac_Quest_002].QuestDesc
+msgid "部品1000以上使用"
+msgstr "Use over 1000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv1_부품 소모'
+#: Quest[Research_Fac_Quest_002].QuestTitle
+msgid "（研究）資源リサイクルＬＶ１＿部品消費"
+msgstr "(Research) Resource Recycling Lv1_Parts Usage"
+
+#  Korean Text: '영양 1000 이상 사용'
+#: Quest[Research_Fac_Quest_003].QuestDesc
+msgid "栄養1000以上使用"
+msgstr "Use over 1000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv1_영양 소모'
+#: Quest[Research_Fac_Quest_003].QuestTitle
+msgid "（研究）資源リサイクルＬＶ１＿栄養消費"
+msgstr "(Research) Resource Recycling Lv1_Nutrients Usage"
+
+#  Korean Text: '전력 1000 이상 사용'
+#: Quest[Research_Fac_Quest_004].QuestDesc
+msgid "電力1000以上使用"
+msgstr "Use over 1000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv1_전력 소모'
+#: Quest[Research_Fac_Quest_004].QuestTitle
+msgid "（研究）資源リサイクルＬＶ１＿電力消費"
+msgstr "(Research) Resource Recycling Lv1_Power Usage"
+
+#  Korean Text: '부품 3000 이상 사용'
+#: Quest[Research_Fac_Quest_005].QuestDesc
+msgid "部品3000以上使用"
+msgstr "Use over 3000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv2_부품 소모'
+#: Quest[Research_Fac_Quest_005].QuestTitle
+msgid "（研究）資源リサイクルＬＶ２＿部品消費"
+msgstr "(Research) Resource Recycling Lv2_Parts Usage"
+
+#  Korean Text: '영양 3000 이상 사용'
+#: Quest[Research_Fac_Quest_006].QuestDesc
+msgid "栄養3000以上使用"
+msgstr "Use over 3000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv2_영양 소모'
+#: Quest[Research_Fac_Quest_006].QuestTitle
+msgid "（研究）資源リサイクルＬＶ２＿栄養消費"
+msgstr "(Research) Resource Recycling Lv2_Nutrients Usage"
+
+#  Korean Text: '전력 3000 이상 사용'
+#: Quest[Research_Fac_Quest_007].QuestDesc
+msgid "電力3000以上使用"
+msgstr "Use over 3000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv2_전력 소모'
+#: Quest[Research_Fac_Quest_007].QuestTitle
+msgid "（研究）資源リサイクルＬＶ２＿電力消費"
+msgstr "(Research) Resource Recycling Lv2_Power Usage"
+
+#  Korean Text: '부품 5000 이상 사용'
+#: Quest[Research_Fac_Quest_008].QuestDesc
+msgid "部品5000以上使用"
+msgstr "Use over 5000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv3_부품 소모'
+#: Quest[Research_Fac_Quest_008].QuestTitle
+msgid "（研究）資源リサイクルＬＶ３＿部品消費"
+msgstr "(Research) Resource Recycling Lv3_Parts Usage"
+
+#  Korean Text: '영양 5000 이상 사용'
+#: Quest[Research_Fac_Quest_009].QuestDesc
+msgid "栄養5000以上使用"
+msgstr "Use over 5000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv3_영양 소모'
+#: Quest[Research_Fac_Quest_009].QuestTitle
+msgid "（研究）資源リサイクルＬＶ３＿栄養消費"
+msgstr "(Research) Resource Recycling Lv3_Nutrients Usage"
+
+#  Korean Text: '전력 5000 이상 사용'
+#: Quest[Research_Fac_Quest_010].QuestDesc
+msgid "電力5000以上使用"
+msgstr "Use over 5000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv3_전력 소모'
+#: Quest[Research_Fac_Quest_010].QuestTitle
+msgid "（研究）資源リサイクルＬＶ３＿電力消費"
+msgstr "(Research) Resource Recycling Lv3_Power Usage"
+
+#  Korean Text: '부품 10000 이상 사용'
+#: Quest[Research_Fac_Quest_011].QuestDesc
+msgid "部品10000以上使用"
+msgstr "Use over 10000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv4_부품 소모'
+#: Quest[Research_Fac_Quest_011].QuestTitle
+msgid "（研究）資源リサイクルＬＶ４＿部品消費"
+msgstr "(Research) Resource Recycling Lv4_Parts Usage"
+
+#  Korean Text: '영양 10000 이상 사용'
+#: Quest[Research_Fac_Quest_012].QuestDesc
+msgid "栄養10000以上使用"
+msgstr "Use over 10000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv4_영양 소모'
+#: Quest[Research_Fac_Quest_012].QuestTitle
+msgid "（研究）資源リサイクルＬＶ４＿栄養消費"
+msgstr "(Research) Resource Recycling Lv4_Nutrients Usage"
+
+#  Korean Text: '전력 10000 이상 사용'
+#: Quest[Research_Fac_Quest_013].QuestDesc
+msgid "電力10000以上使用"
+msgstr "Use over 10000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv4_전력 소모'
+#: Quest[Research_Fac_Quest_013].QuestTitle
+msgid "（研究）資源リサイクルＬＶ４＿電力消費"
+msgstr "(Research) Resource Recycling Lv4_Power Usage"
+
+#  Korean Text: '부품 15000 이상 사용'
+#: Quest[Research_Fac_Quest_014].QuestDesc
+msgid "部品15000以上使用"
+msgstr "Use over 15000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv5_부품 소모'
+#: Quest[Research_Fac_Quest_014].QuestTitle
+msgid "（研究）資源リサイクルＬＶ５＿部品消費"
+msgstr "(Research) Resource Recycling Lv5_Parts Usage"
+
+#  Korean Text: '영양 15000 이상 사용'
+#: Quest[Research_Fac_Quest_015].QuestDesc
+msgid "栄養15000以上使用"
+msgstr "Use over 15000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv5_영양 소모'
+#: Quest[Research_Fac_Quest_015].QuestTitle
+msgid "（研究）資源リサイクルＬＶ５＿栄養消費"
+msgstr "(Research) Resource Recycling Lv5_Nutrients Usage"
+
+#  Korean Text: '전력 15000 이상 사용'
+#: Quest[Research_Fac_Quest_016].QuestDesc
+msgid "電力15000以上使用"
+msgstr "Use over 15000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv5_전력 소모'
+#: Quest[Research_Fac_Quest_016].QuestTitle
+msgid "（研究）資源リサイクルＬＶ５＿電力消費"
+msgstr "(Research) Resource Recycling Lv5_Power Usage"
+
+#  Korean Text: '부품 25000 이상 사용'
+#: Quest[Research_Fac_Quest_017].QuestDesc
+msgid "部品25000以上使用"
+msgstr "Use over 25000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv6_부품 소모'
+#: Quest[Research_Fac_Quest_017].QuestTitle
+msgid "（研究）資源リサイクルＬＶ６＿部品消費"
+msgstr "(Research) Resource Recycling Lv6_Parts Usage"
+
+#  Korean Text: '영양 25000 이상 사용'
+#: Quest[Research_Fac_Quest_018].QuestDesc
+msgid "栄養25000以上使用"
+msgstr "Use over 25000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv6_영양 소모'
+#: Quest[Research_Fac_Quest_018].QuestTitle
+msgid "（研究）資源リサイクルＬＶ６＿栄養消費"
+msgstr "(Research) Resource Recycling Lv6_Nutrients Usage"
+
+#  Korean Text: '전력 25000 이상 사용'
+#: Quest[Research_Fac_Quest_019].QuestDesc
+msgid "電力25000以上使用"
+msgstr "Use over 25000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv6_전력 소모'
+#: Quest[Research_Fac_Quest_019].QuestTitle
+msgid "（研究）資源リサイクルＬＶ６＿電力消費"
+msgstr "(Research) Resource Recycling Lv6_Power Usage"
+
+#  Korean Text: '부품 50000 이상 사용'
+#: Quest[Research_Fac_Quest_020].QuestDesc
+msgid "部品50000以上使用"
+msgstr "Use over 50000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv7_부품 소모'
+#: Quest[Research_Fac_Quest_020].QuestTitle
+msgid "（研究）資源リサイクルＬＶ７＿部品消費"
+msgstr "(Research) Resource Recycling Lv7_Parts Usage"
+
+#  Korean Text: '영양 50000 이상 사용'
+#: Quest[Research_Fac_Quest_021].QuestDesc
+msgid "栄養50000以上使用"
+msgstr "Use over 50000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv7_영양 소모'
+#: Quest[Research_Fac_Quest_021].QuestTitle
+msgid "（研究）資源リサイクルＬＶ７＿栄養消費"
+msgstr "(Research) Resource Recycling Lv7_Nutrients Usage"
+
+#  Korean Text: '전력 50000 이상 사용'
+#: Quest[Research_Fac_Quest_022].QuestDesc
+msgid "電力50000以上使用"
+msgstr "Use over 50000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv7_전력 소모'
+#: Quest[Research_Fac_Quest_022].QuestTitle
+msgid "（研究）資源リサイクルＬＶ７＿電力消費"
+msgstr "(Research) Resource Recycling Lv7_Power Usage"
+
+#  Korean Text: '부품 100000 이상 사용'
+#: Quest[Research_Fac_Quest_023].QuestDesc
+msgid "部品100000以上使用"
+msgstr "Use over 100000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv8_부품 소모'
+#: Quest[Research_Fac_Quest_023].QuestTitle
+msgid "（研究）資源リサイクルＬＶ８＿部品消費"
+msgstr "(Research) Resource Recycling Lv8_Parts Usage"
+
+#  Korean Text: '영양 100000 이상 사용'
+#: Quest[Research_Fac_Quest_024].QuestDesc
+msgid "栄養100000以上使用"
+msgstr "Use over 100000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv8_영양 소모'
+#: Quest[Research_Fac_Quest_024].QuestTitle
+msgid "（研究）資源リサイクルＬＶ８＿栄養消費"
+msgstr "(Research) Resource Recycling Lv8_Nutrients Usage"
+
+#  Korean Text: '전력 100000 이상 사용'
+#: Quest[Research_Fac_Quest_025].QuestDesc
+msgid "電力100000以上使用"
+msgstr "Use over 100000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv8_전력 소모'
+#: Quest[Research_Fac_Quest_025].QuestTitle
+msgid "（研究）資源リサイクルＬＶ８＿電力消費"
+msgstr "(Research) Resource Recycling Lv8_Power Usage"
+
+#  Korean Text: '부품 200000 이상 사용'
+#: Quest[Research_Fac_Quest_026].QuestDesc
+msgid "部品200000以上使用"
+msgstr "Use over 200000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv9_부품 소모'
+#: Quest[Research_Fac_Quest_026].QuestTitle
+msgid "（研究）資源リサイクルＬＶ９＿部品消費"
+msgstr "(Research) Resource Recycling Lv9_Parts Usage"
+
+#  Korean Text: '영양 200000 이상 사용'
+#: Quest[Research_Fac_Quest_027].QuestDesc
+msgid "栄養200000以上使用"
+msgstr "Use over 200000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv9_영양 소모'
+#: Quest[Research_Fac_Quest_027].QuestTitle
+msgid "（研究）資源リサイクルＬＶ９＿栄養消費"
+msgstr "(Research) Resource Recycling Lv9_Nutrients Usage"
+
+#  Korean Text: '전력 200000 이상 사용'
+#: Quest[Research_Fac_Quest_028].QuestDesc
+msgid "電力200000以上使用"
+msgstr "Use over 200000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv9_전력 소모'
+#: Quest[Research_Fac_Quest_028].QuestTitle
+msgid "（研究）資源リサイクルＬＶ９＿電力消費"
+msgstr "(Research) Resource Recycling Lv9_Power Usage"
+
+#  Korean Text: '부품 300000 이상 사용'
+#: Quest[Research_Fac_Quest_029].QuestDesc
+msgid "部品300000以上使用"
+msgstr "Use over 300000 Parts"
+
+#  Korean Text: '(연구) 자원 재활용 Lv10_부품 소모'
+#: Quest[Research_Fac_Quest_029].QuestTitle
+msgid "（研究）資源リサイクルＬＶ１０＿部品消費"
+msgstr "(Research) Resource Recycling Lv10_Parts Usage"
+
+#  Korean Text: '영양 300000 이상 사용'
+#: Quest[Research_Fac_Quest_030].QuestDesc
+msgid "栄養300000以上使用"
+msgstr "Use over 300000 Nutrients"
+
+#  Korean Text: '(연구) 자원 재활용 Lv10_영양 소모'
+#: Quest[Research_Fac_Quest_030].QuestTitle
+msgid "（研究）資源リサイクルＬＶ１０＿栄養消費"
+msgstr "(Research) Resource Recycling Lv10_Nutrients Usage"
+
+#  Korean Text: '전력 300000 이상 사용'
+#: Quest[Research_Fac_Quest_031].QuestDesc
+msgid "電力300000以上使用"
+msgstr "Use over 300000 Power"
+
+#  Korean Text: '(연구) 자원 재활용 Lv10_전력 소모'
+#: Quest[Research_Fac_Quest_031].QuestTitle
+msgid "（研究）資源リサイクルＬＶ１０＿電力消費"
+msgstr "(Research) Resource Recycling Lv10_Power Usage"
+
+#  Korean Text: '로봇을 2기 이상 획득'
+#: Quest[Research_Fac_Quest_032].QuestDesc
+msgid "ロボットを2機以上入手"
+msgstr "Obtain 2 Robots or more"
+
+#  Korean Text: '(연구) AGS 제작 설비_로봇 획득'
+#: Quest[Research_Fac_Quest_032].QuestTitle
+msgid "（研究）ＡＧＳ製作設備＿ロボット獲得"
+msgstr "(Research) AGS Production Facility_Obtain Robots"
+
+#  Korean Text: '자원 탐색 5회 완료'
+#: Quest[Research_Fac_Quest_033].QuestDesc
+msgid "資源探索5回完了"
+msgstr "Complete 5 explorations"
+
+#  Korean Text: '(연구) 정밀 레이더_파견 5회 완료'
+#: Quest[Research_Fac_Quest_033].QuestTitle
+msgid "（研究）精密レーダー＿派遣５回完了"
+msgstr "(Research) Precision Radar_5 Explorations Completed"
+
+#  Korean Text: '바이오로이드 20기 제작'
+#: Quest[Research_Fac_Quest_034].QuestDesc
+msgid "バイオロイドを20機製造"
+msgstr "Build 20 Bioroids"
+
+#  Korean Text: '(연구) 특수 제작_바이오로이드 제작'
+#: Quest[Research_Fac_Quest_034].QuestTitle
+msgid "（研究）特殊製作＿バイオロイド製作"
+msgstr "(Research) Special Production_Bioroid Production"
+
+#  Korean Text: 'S등급 바이오로이드 3기 제작'
+#: Quest[Research_Fac_Quest_035].QuestDesc
+msgid "S級バイオロイド3機製造"
+msgstr "Build 3 S-Class Bioroids"
+
+#  Korean Text: '(연구) 특수 제작_S등급바이오로이드 제작'
+#: Quest[Research_Fac_Quest_035].QuestTitle
+msgid "（研究）特殊製作＿Ｓ等級バイオロイド製作"
+msgstr "(Research) Special Production_S-Class Bioroid Production"
+
+#  Korean Text: '중장형 전투원을 2 종류 이상 보유'
+#: Quest[Research_Fac_Quest_036].QuestDesc
+msgid "重装形戦闘員を2種類以上を持っている"
+msgstr "Own at least 2 types of heavy units"
+
+#  Korean Text: '(연구) 특수 제작_중장형 획득'
+#: Quest[Research_Fac_Quest_036].QuestTitle
+msgid "（研究）特殊製作＿重装型獲得"
+msgstr "(Research) Special Production_Heavy-type"
+
+#  Korean Text: '전투원을 25회 이상 수복'
+#: Quest[Research_Fac_Quest_037].QuestDesc
+msgid "戦闘員を25回以上修複"
+msgstr "Recover units 25 times or more"
+
+#  Korean Text: '(연구) 수복실 개량 Lv1_전투원 수복'
+#: Quest[Research_Fac_Quest_037].QuestTitle
+msgid "（研究）修復室改良ＬＶ１＿戦闘員修復"
+msgstr "(Research) Recovery Room Upgrade Lv1_Unit Recovery"
+
+#  Korean Text: '전투원을 50회 이상 수복'
+#: Quest[Research_Fac_Quest_038].QuestDesc
+msgid "戦闘員を50回以上修複"
+msgstr "Recover units 50 times or more"
+
+#  Korean Text: '(연구) 수복실 개량 Lv2_전투원 수복'
+#: Quest[Research_Fac_Quest_038].QuestTitle
+msgid "（研究）修復室改良ＬＶ２＿戦闘員修復"
+msgstr "(Research) Recovery Room Upgrade Lv2_Unit Recovery"
+
+#  Korean Text: '전투원을 100회 이상 수복'
+#: Quest[Research_Fac_Quest_039].QuestDesc
+msgid "戦闘員を100回以上修複"
+msgstr "Recover units 100 times or more"
+
+#  Korean Text: '(연구) 수복실 개량 Lv3_전투원 수복'
+#: Quest[Research_Fac_Quest_039].QuestTitle
+msgid "（研究）修復室改良ＬＶ３＿戦闘員修復"
+msgstr "(Research) Recovery Room Upgrade Lv3_Unit Recovery"
+
+#  Korean Text: '전투원을 150회 이상 수복'
+#: Quest[Research_Fac_Quest_040].QuestDesc
+msgid "戦闘員を150回以上修複"
+msgstr "Recover units 150 times or more"
+
+#  Korean Text: '(연구) 수복실 개량 Lv4_전투원 수복'
+#: Quest[Research_Fac_Quest_040].QuestTitle
+msgid "（研究）修復室改良ＬＶ４＿戦闘員修復"
+msgstr "(Research) Recovery Room Upgrade Lv4_Unit Recovery"
+
+#  Korean Text: '전투원을 250회 이상 수복'
+#: Quest[Research_Fac_Quest_041].QuestDesc
+msgid "戦闘員を250回以上修複"
+msgstr "Recover units 250 times or more"
+
+#  Korean Text: '(연구) 수복실 개량 Lv5_전투원 수복'
+#: Quest[Research_Fac_Quest_041].QuestTitle
+msgid "（研究）修復室改良ＬＶ５＿戦闘員修復"
+msgstr "(Research) Recovery Room Upgrade Lv5_Unit Recovery"
+
+#  Korean Text: '전투원 모듈을 50회 이상 분해'
+#: Quest[Research_Fac_Quest_042].QuestDesc
+msgid "戦闘員を50回以上分解"
+msgstr "Disassemble units 50 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv1_전투원 분해'
+#: Quest[Research_Fac_Quest_042].QuestTitle
+msgid "（研究）精密分解ＬＶ１＿戦闘員分解"
+msgstr "(Research) Precision Disassembly Lv1_Unit Disassembly"
+
+#  Korean Text: '장비 모듈을 50회 이상 분해'
+#: Quest[Research_Fac_Quest_043].QuestDesc
+msgid "装備を50回以上分解"
+msgstr "Disassemble equipment 50 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv1_장비 분해'
+#: Quest[Research_Fac_Quest_043].QuestTitle
+msgid "（研究）精密分解ＬＶ１＿装備分解"
+msgstr "(Research) Precision Disassembly Lv1_Equipment Disassembly"
+
+#  Korean Text: '전투원 모듈을 100회 이상 분해'
+#: Quest[Research_Fac_Quest_044].QuestDesc
+msgid "戦闘員を100回以上分解"
+msgstr "Disassemble units 100 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv2_전투원 분해'
+#: Quest[Research_Fac_Quest_044].QuestTitle
+msgid "（研究）精密分解ＬＶ２＿戦闘員分解"
+msgstr "(Research) Precision Disassembly Lv2_Unit Disassembly"
+
+#  Korean Text: '장비 모듈을 100회 이상 분해'
+#: Quest[Research_Fac_Quest_045].QuestDesc
+msgid "装備を100回以上分解"
+msgstr "Disassemble equipment 100 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv2_장비 분해'
+#: Quest[Research_Fac_Quest_045].QuestTitle
+msgid "（研究）精密分解ＬＶ２＿装備分解"
+msgstr "(Research) Precision Disassembly Lv2_Equipment Disassembly"
+
+#  Korean Text: '전투원 모듈을 200회 이상 분해'
+#: Quest[Research_Fac_Quest_046].QuestDesc
+msgid "戦闘員を200回以上分解"
+msgstr "Disassemble units 200 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv3_전투원 분해'
+#: Quest[Research_Fac_Quest_046].QuestTitle
+msgid "（研究）精密分解ＬＶ３＿戦闘員分解"
+msgstr "(Research) Precision Disassembly Lv3_Unit Disassembly"
+
+#  Korean Text: '장비 모듈을 200회 이상 분해'
+#: Quest[Research_Fac_Quest_047].QuestDesc
+msgid "装備を200回以上分解"
+msgstr "Disassemble equipment 200 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv3_장비 분해'
+#: Quest[Research_Fac_Quest_047].QuestTitle
+msgid "（研究）精密分解ＬＶ３＿装備分解"
+msgstr "(Research) Precision Disassembly Lv3_Equipment Disassembly"
+
+#  Korean Text: '전투원 모듈을 350회 이상 분해'
+#: Quest[Research_Fac_Quest_048].QuestDesc
+msgid "戦闘員を350回以上分解"
+msgstr "Disassemble units 350 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv4_전투원 분해'
+#: Quest[Research_Fac_Quest_048].QuestTitle
+msgid "（研究）精密分解ＬＶ４＿戦闘員分解"
+msgstr "(Research) Precision Disassembly Lv4_Unit Disassembly"
+
+#  Korean Text: '장비 모듈을 350회 이상 분해'
+#: Quest[Research_Fac_Quest_049].QuestDesc
+msgid "装備を350回以上分解"
+msgstr "Disassemble equipment 350 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv4_장비 분해'
+#: Quest[Research_Fac_Quest_049].QuestTitle
+msgid "（研究）精密分解ＬＶ４＿装備分解"
+msgstr "(Research) Precision Disassembly Lv4_Equipment Disassembly"
+
+#  Korean Text: '전투원 모듈을 500회 이상 분해'
+#: Quest[Research_Fac_Quest_050].QuestDesc
+msgid "戦闘員を500回以上分解"
+msgstr "Disassemble units 500 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv5_전투원 분해'
+#: Quest[Research_Fac_Quest_050].QuestTitle
+msgid "（研究）精密分解ＬＶ５＿戦闘員分解"
+msgstr "(Research) Precision Disassembly Lv5_Unit Disassembly"
+
+#  Korean Text: '장비 모듈을 500회 이상 분해'
+#: Quest[Research_Fac_Quest_051].QuestDesc
+msgid "装備を500回以上分解"
+msgstr "Disassemble equipment 500 times or more"
+
+#  Korean Text: '(연구) 정밀 분해 Lv5_장비 분해'
+#: Quest[Research_Fac_Quest_051].QuestTitle
+msgid "（研究）精密分解ＬＶ５＿装備分解"
+msgstr "(Research) Precision Disassembly Lv5_Equipment Disassembly"
+
+#  Korean Text: '적 50기 이상 처치'
+#: Quest[Research_Fac_Quest_052].QuestDesc
+msgid "敵を50機以上倒す"
+msgstr "Eliminate 50 or more enemies"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv1_적 처치'
+#: Quest[Research_Fac_Quest_052].QuestTitle
+msgid "（研究）シミュレーティングＬＶ１＿敵殲滅"
+msgstr "(Research) Simulation Lv1 Enemy Elimination"
+
+#  Korean Text: '일반 스테이지 10회 클리어'
+#: Quest[Research_Fac_Quest_053].QuestDesc
+msgid "一般ステージ10回クリア"
+msgstr "Clear 10 normal stages"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv1_스테이지 클리어'
+#: Quest[Research_Fac_Quest_053].QuestTitle
+msgid "（研究）シミュレーティングＬＶ１＿ステージクリア"
+msgstr "(Research) Simulation Lv1_Stage Clear"
+
+#  Korean Text: '적 150기 이상 처치'
+#: Quest[Research_Fac_Quest_054].QuestDesc
+msgid "敵を150機以上倒す"
+msgstr "Eliminate 150 or more enemies"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv2_적 처치'
+#: Quest[Research_Fac_Quest_054].QuestTitle
+msgid "（研究）シミュレーティングＬＶ２＿敵殲滅"
+msgstr "(Research) Simulation Lv2 Enemy Elimination"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv2_스테이지 클리어'
+#: Quest[Research_Fac_Quest_055].QuestTitle
+msgid "（研究）シミュレーティングＬＶ２＿ステージクリア"
+msgstr "(Research) Simulation Lv2_Stage Clear"
+
+#  Korean Text: '보스 타입 적 10기 이상 처치'
+#: Quest[Research_Fac_Quest_056].QuestDesc
+msgid "ボスタイプを10機以上倒す"
+msgstr "Eliminate 10 or more Boss enemies"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv2_보스 처치'
+#: Quest[Research_Fac_Quest_056].QuestTitle
+msgid "（研究）シミュレーティングＬＶ２＿ボス殲滅"
+msgstr "(Research) Simulation Lv2_Boss Elimination"
+
+#  Korean Text: '보스 타입 적 30기 이상 처치'
+#: Quest[Research_Fac_Quest_057].QuestDesc
+msgid "ボスタイプを30機以上倒す"
+msgstr "Eliminate 30 or more Boss enemies"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv3_보스 처치'
+#: Quest[Research_Fac_Quest_057].QuestTitle
+msgid "（研究）シミュレーティングＬＶ３＿ボス殲滅"
+msgstr "(Research) Simulation Lv3_Boss Elimination"
+
+#  Korean Text: '일반 스테이지 200회 클리어'
+#: Quest[Research_Fac_Quest_058].QuestDesc
+msgid "一般ステージ200回クリア"
+msgstr "Clear 200 normal stages"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv3_스테이지 클리어'
+#: Quest[Research_Fac_Quest_058].QuestTitle
+msgid "（研究）シミュレーティングＬＶ３＿ステージクリア"
+msgstr "(Research) Simulation Lv3_Stage Clear"
+
+#  Korean Text: '보스 타입 적 100기 이상 처치'
+#: Quest[Research_Fac_Quest_059].QuestDesc
+msgid "ボスタイプを100機以上倒す"
+msgstr "Eliminate 100 or more Boss enemies"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv4_보스 처치'
+#: Quest[Research_Fac_Quest_059].QuestTitle
+msgid "（研究）シミュレーティングＬＶ４＿ボス殲滅"
+msgstr "(Research) Simulation Lv4_Boss Elimination"
+
+#  Korean Text: '일반 스테이지 300회 클리어'
+#: Quest[Research_Fac_Quest_060].QuestDesc
+msgid "一般ステージを300回クリア"
+msgstr "Clear 300 normal stages"
+
+#  Korean Text: '(연구) 시뮬레이팅 Lv4_스테이지 클리어'
+#: Quest[Research_Fac_Quest_060].QuestTitle
+msgid "（研究）シミュレーティングＬＶ４＿ステージクリア"
+msgstr "(Research) Simulation Lv4_Stage Clear"
+
+#  Korean Text: '일반 스테이지 3회 클리어'
+#: Quest[Research_Fac_Quest_061].QuestDesc
+msgid "一般ステージを3回クリア"
+msgstr "Clear 3 normal stages"
+
+#  Korean Text: '(연구) 현장 지휘 모듈_스테이지 클리어'
+#: Quest[Research_Fac_Quest_061].QuestTitle
+msgid "（研究）現場指揮モジュール＿ステージクリア"
+msgstr "(Research) Field Command System_Stage Clear"
+
+#  Korean Text: '지휘 숙련도 Lv.3 이상 달성'
+#: Quest[Research_Fac_Quest_062].QuestDesc
+msgid "指揮熟練度Lv.3以上達成"
+msgstr "Attain Commander Lv.3 or higher"
+
+#  Korean Text: '(연구) 현장 지휘 모듈_지휘 숙련도 달성'
+#: Quest[Research_Fac_Quest_062].QuestTitle
+msgid "（研究）現場指揮モジュール＿指揮熟練度達成"
+msgstr "(Research) Field Command System_Attain Commander Level"
+
+#  Korean Text: '(연구) 운송 드론 Lv1_탐사 완료'
+#: Quest[Research_Fac_Quest_063].QuestTitle
+msgid "(研究)運送ドローンLV1_探索完了"
+msgstr "(Research) Transport Drone Lv1_Exploration Completed"
+
+#  Korean Text: '지휘 숙련도 Lv.15 이상 달성'
+#: Quest[Research_Fac_Quest_064].QuestDesc
+msgid "指揮熟練度Lv.15以上達成"
+msgstr "Attain Commander Lv.15 or higher"
+
+#  Korean Text: '(연구) 탐사 구역 Lv1_지휘 숙련도 달성'
+#: Quest[Research_Fac_Quest_064].QuestTitle
+msgid "(研究)探索区域LV1_指揮熟練度達成"
+msgstr "(Research) Area Exploration Lv1_Attain Commander Level"
+
+#  Korean Text: '자원 탐색 30회 완료'
+#: Quest[Research_Fac_Quest_065].QuestDesc
+msgid "資源探索30回完了"
+msgstr "Complete 30 explorations"
+
+#  Korean Text: '(연구) 운송 드론 Lv2_탐사 완료'
+#: Quest[Research_Fac_Quest_065].QuestTitle
+msgid "(研究)運送ドローンLV2_探索完了"
+msgstr "(Research) Transport Drone Lv2_Exploration Completed"
+
+#  Korean Text: '지휘 숙련도 Lv.20 이상 달성'
+#: Quest[Research_Fac_Quest_066].QuestDesc
+msgid "指揮熟練度Lv.20以上達成"
+msgstr "Attain Commander Lv.20 or higher"
+
+#  Korean Text: '(연구) 탐사 구역 Lv2_지휘 숙련도 달성'
+#: Quest[Research_Fac_Quest_066].QuestTitle
+msgid "(研究)探索区域LV2_指揮熟練度達成"
+msgstr "(Research) Area Exploration Lv2_Attain Commander Level"
+
+#  Korean Text: '(연구) 운송 드론 Lv3_탐사 완료'
+#: Quest[Research_Fac_Quest_067].QuestTitle
+msgid "(研究)運送ドローンLV3_探索完了"
+msgstr "(Research) Transport Drone Lv3_Exploration Completed"
+
+#  Korean Text: '지휘 숙련도 Lv.25 이상 달성'
+#: Quest[Research_Fac_Quest_068].QuestDesc
+msgid "指揮熟練度Lv.25以上達成"
+msgstr "Attain Commander Lv.25 or higher"
+
+#  Korean Text: '(연구) 탐사 구역 Lv3_지휘 숙련도 달성'
+#: Quest[Research_Fac_Quest_068].QuestTitle
+msgid "(研究)探索区域LV3_指揮熟練度達成"
+msgstr "(Research) Area Exploration Lv3_Attain Commander Level"
+
+#  Korean Text: '(연구) 운송 드론 Lv4_탐사 완료'
+#: Quest[Research_Fac_Quest_069].QuestTitle
+msgid "(研究)運送ドローンLV4_探索完了"
+msgstr "(Research) Transport Drone Lv4_Exploration Completed"
+
+#  Korean Text: '지휘 숙련도 Lv.30 이상 달성'
+#: Quest[Research_Fac_Quest_070].QuestDesc
+msgid "指揮熟練度Lv.30以上達成"
+msgstr "Attain Commander Lv.30 or higher"
+
+#  Korean Text: '(연구) 탐사 구역 Lv4_지휘 숙련도 달성'
+#: Quest[Research_Fac_Quest_070].QuestTitle
+msgid "(研究)探索区域LV4_指揮熟練度達成"
+msgstr "(Research) Area Exploration Lv4_Attain Commander Level"
+
+#  Korean Text: '자원 탐색 200회 완료'
+#: Quest[Research_Fac_Quest_071].QuestDesc
+msgid "資源探索200回完了"
+msgstr "Complete 200 explorations"
+
+#  Korean Text: '(연구) 운송 드론 Lv5_탐사 완료'
+#: Quest[Research_Fac_Quest_071].QuestTitle
+msgid "(研究)運送ドローンLV5_探索完了"
+msgstr "(Research) Transport Drone Lv5_Exploration Completed"
+
+#  Korean Text: '지휘 숙련도 Lv.40 이상 달성'
+#: Quest[Research_Fac_Quest_072].QuestDesc
+msgid "指揮熟練度Lv.40以上達成"
+msgstr "Attain Commander Lv.40 or higher"
+
+#  Korean Text: '(연구) 탐사 구역 Lv5_지휘 숙련도 달성'
+#: Quest[Research_Fac_Quest_072].QuestTitle
+msgid "(研究)探索区域LV5_指揮熟練度達成"
+msgstr "(Research) Area Exploration Lv5_Attain Commander Level"
+
+#  Korean Text: '메인 스테이지 50회 클리어'
+#: Quest[WeeklyQuest_Fix_001].QuestDesc
+msgid "メインステージを50回クリア"
+msgstr "Clear 50 main stages"
+
+#  Korean Text: '구역 순회'
+#: Quest[WeeklyQuest_Fix_001].QuestTitle
+msgid "区域巡回"
+msgstr "Tour of the Zone"
+
+#  Korean Text: '철충 200기 파괴'
+#: Quest[WeeklyQuest_Fix_002].QuestDesc
+msgid "鉄虫を200機破壊"
+msgstr "Destroy 200 Iron Parasites"
+
+#  Korean Text: '싹 잘라놓기'
+#: Quest[WeeklyQuest_Fix_002].QuestTitle
+msgid "ばっさり切る"
+msgstr "Cut Their Roots"
+
+#  Korean Text: '부대 전력 강화'
+#: Quest[WeeklyQuest_Fix_003].QuestTitle
+msgid "部隊戦力強化"
+msgstr "Troop Reinforcement"
+
+#  Korean Text: '장비 20개 제작'
+#: Quest[WeeklyQuest_Fix_004].QuestDesc
+msgid "装備を20個製造"
+msgstr "Build 20 pieces of equipment"
+
+#  Korean Text: '예비 장비 확보'
+#: Quest[WeeklyQuest_Fix_004].QuestTitle
+msgid "予備装備確保"
+msgstr "Spare Equipment"
+
+#  Korean Text: '놀 틈은 없다'
+#: Quest[WeeklyQuest_Fix_005].QuestTitle
+msgid "遊ぶ暇がない"
+msgstr "No Time to Slack Around"
+
+#  Korean Text: '일일 훈련 10회 완료'
+#: Quest[WeeklyQuest_Fix_006].QuestDesc
+msgid "デイリー訓練10回完了"
+msgstr "Complete 10 daily stages"
+
+#  Korean Text: '집중 훈련 주간'
+#: Quest[WeeklyQuest_Fix_006].QuestTitle
+msgid "集中訓練週間"
+msgstr "Intensive Training Week"
+
+#  Korean Text: '보스 타입 철충 15기 파괴'
+#: Quest[WeeklyQuest_Fix_007].QuestDesc
+msgid "ボスタイプ鉄虫15機破壊"
+msgstr "Destroy 15 Boss Iron Parasites"
+
+#  Korean Text: '머리 제거하기'
+#: Quest[WeeklyQuest_Fix_007].QuestTitle
+msgid "頭を除去する"
+msgstr "Take Out Their Heads"
+
+#  Korean Text: '경장형 철충 150기 파괴'
+#: Quest[WeeklyQuest_Random_001].QuestDesc
+msgid "軽装型鉄虫150機破壊"
+msgstr "Destroy 150 light Iron Parasites"
+
+#  Korean Text: '지상 제압'
+#: Quest[WeeklyQuest_Random_001].QuestTitle
+msgid "地上制圧"
+msgstr "Ground Suppression"
+
+#  Korean Text: '중장형 철충 50기 파괴'
+#: Quest[WeeklyQuest_Random_002].QuestDesc
+msgid "重装型鉄虫50機破壊"
+msgstr "Destroy 50 Heavy Iron Parasites"
+
+#  Korean Text: '거점 제압'
+#: Quest[WeeklyQuest_Random_002].QuestTitle
+msgid "拠点制圧"
+msgstr "Stronghold"
+
+#  Korean Text: '기동형 철충 100기 파괴'
+#: Quest[WeeklyQuest_Random_003].QuestDesc
+msgid "機動型鉄虫100機破壊"
+msgstr "Destroy 100 flying Iron Parasites"
+
+#  Korean Text: '공중 제압'
+#: Quest[WeeklyQuest_Random_003].QuestTitle
+msgid "空中制圧"
+msgstr "Air Suppression"
+
+#  Korean Text: '모듈 분리 작업'
+#: Quest[WeeklyQuest_Random_004].QuestTitle
+msgid "モジュール分離作業"
+msgstr "Module Removal Tasks"
+
+#  Korean Text: '재활용 작업'
+#: Quest[WeeklyQuest_Random_005].QuestTitle
+msgid "リサイクル作業"
+msgstr "Recycling Work"
+
+#  Korean Text: '전투원 레벨 업 50회'
+#: Quest[WeeklyQuest_Random_006].QuestDesc
+msgid "戦闘員レベルアップ50回"
+msgstr "Level up 50 units"
+
+#  Korean Text: '집중 육성 기간'
+#: Quest[WeeklyQuest_Random_006].QuestTitle
+msgid "集中育成期間"
+msgstr "Intensive Training Period"
+
+#  Korean Text: '전투원 수복 15회'
+#: Quest[WeeklyQuest_Random_007].QuestDesc
+msgid "戦闘員修複15回"
+msgstr "Restore 15 units"
+
+#  Korean Text: '전력 재 정비'
+#: Quest[WeeklyQuest_Random_007].QuestTitle
+msgid "電力再整備"
+msgstr "Electric Power Maintenance"

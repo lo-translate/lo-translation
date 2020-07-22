@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: 'AMG-11 터렛'
+#: Summon[SUMMON_SU_AMG11_N].Name
+msgid "AMG-11タレット"
+msgstr ""
+
+#  Korean Text: '점착 폭탄'
+#: Summon[SUMMON_SU_C4Bomb_N].Name
+msgid "粘着爆弾"
+msgstr ""
+
+#  Korean Text: '반응 지뢰'
+#: Summon[SUMMON_SU_LMMine_N].Name
+msgid "反応地雷"
+msgstr ""
+
+#  Korean Text: '래빗 D 필드'
+#: Summon[SUMMON_SU_RabbitBarrier_N].Name
+msgid "ラビットDフィールド"
+msgstr ""
+
+#  Korean Text: '지연 폭탄'
+#: Summon[SUMMON_SU_RaiderBomb_N].Name
+msgid "遅延爆弾"
+msgstr ""
+
+#  Korean Text: '환경형 소환물(T)'
+#: Summon[SUMMON_SU_TestSEnv_N].Name
+msgid "環境型召喚物（Ｔ）"
+msgstr ""
+
+#  Korean Text: '설치형 소환물(T)'
+#: Summon[SUMMON_SU_TestSInstall_N].Name
+msgid "設置型召喚物（Ｔ）"
+msgstr ""
+
+#  Korean Text: '참호 방벽'
+#: Summon[SUMMON_SU_TrenchBomb_N].Name
+msgid "トレンチ防壁"
+msgstr ""

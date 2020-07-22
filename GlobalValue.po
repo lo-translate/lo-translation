@@ -1,0 +1,233 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#: GlobalValue[1].Desc
+msgid "장착 인벤 슬롯 수량 (초기값)"
+msgstr ""
+
+#: GlobalValue[2].Desc
+msgid "소모성 인벤 슬롯 수량 (초기값)"
+msgstr ""
+
+#: GlobalValue[3].Desc
+msgid "강화 가능 횟수"
+msgstr ""
+
+#: GlobalValue[4].Desc
+msgid "캐릭터 수복시스템에서 중파기준값"
+msgstr ""
+
+#: GlobalValue[5].Desc
+msgid "로비 수복 비용 배율 값"
+msgstr ""
+
+#: GlobalValue[6].Desc
+msgid "전투 응급수복 비용 배율 값 "
+msgstr ""
+
+#: GlobalValue[7].Desc
+msgid "완파시 비용 배율 값 "
+msgstr ""
+
+#: GlobalValue[8].Desc
+msgid "완파시 시간 배율 값"
+msgstr ""
+
+#: GlobalValue[9].Desc
+msgid "리더 캐릭터 경험치 배율 값"
+msgstr ""
+
+#: GlobalValue[10].Desc
+msgid "리더 스킬 경험치 배율 값"
+msgstr ""
+
+#: GlobalValue[11].Desc
+msgid "전투입장시 소모자원감소제어값"
+msgstr ""
+
+#: GlobalValue[12].Desc
+msgid "일일 퀘스트 무작위 수량"
+msgstr ""
+
+#: GlobalValue[13].Desc
+msgid "주간 퀘스트 무작위 수량"
+msgstr ""
+
+#: GlobalValue[14].Desc
+msgid "월간 퀘스트 무작위 수량"
+msgstr ""
+
+#: GlobalValue[15].Desc
+msgid "평일 요일던전 티켓 충전량"
+msgstr ""
+
+#: GlobalValue[16].Desc
+msgid "일요일 요일던전 티켓 충전량"
+msgstr ""
+
+#: GlobalValue[17].Desc
+msgid "경장 일반 제작 점수 값 "
+msgstr ""
+
+#: GlobalValue[18].Desc
+msgid "기동 일반 제작 점수 값"
+msgstr ""
+
+#: GlobalValue[19].Desc
+msgid "공격기 일반 제작 점수 값 "
+msgstr ""
+
+#: GlobalValue[20].Desc
+msgid "보호기 일반 제작 점수 값"
+msgstr ""
+
+#: GlobalValue[21].Desc
+msgid "지원기 일반 제작 점수 값 "
+msgstr ""
+
+#: GlobalValue[22].Desc
+msgid "경장 특수 제작 점수 값"
+msgstr ""
+
+#: GlobalValue[23].Desc
+msgid "기동 특수 제작 점수 값 "
+msgstr ""
+
+#: GlobalValue[24].Desc
+msgid "중장 특수 제작 점수 값"
+msgstr ""
+
+#: GlobalValue[25].Desc
+msgid "공격기 특수 제작 점수 값 "
+msgstr ""
+
+#: GlobalValue[26].Desc
+msgid "보호기 특수 제작 점수 값"
+msgstr ""
+
+#: GlobalValue[27].Desc
+msgid "지원기 특수 제작 점수 값"
+msgstr ""
+
+#: GlobalValue[28].Desc
+msgid "10분 당 Value 값 만큼 METAL 자원을 지급"
+msgstr ""
+
+#: GlobalValue[29].Desc
+msgid "10분 당 Value 값 만큼 NUTRIENT 자원을 지급"
+msgstr ""
+
+#: GlobalValue[30].Desc
+msgid "10분 당 Value 값 만큼 POWER 자원을 지급"
+msgstr ""
+
+#: GlobalValue[31].Desc
+msgid "자원 자동 회복 상한 값 기본수치"
+msgstr ""
+
+#: GlobalValue[32].Desc
+msgid "자원 자동 회복 상한 값 계정 레벨당 수치"
+msgstr ""
+
+#: GlobalValue[33].Desc
+msgid "장비 인벤 최대 슬롯 수량 (최대)"
+msgstr ""
+
+#: GlobalValue[34].Desc
+msgid "소모성 인벤 최대 슬롯 수량 (최대)"
+msgstr ""
+
+#: GlobalValue[35].Desc
+msgid "캐릭터 최대 슬롯 수량"
+msgstr ""
+
+#: GlobalValue[36].Desc
+msgid "캐릭터 초기 슬롯 수량"
+msgstr ""
+
+#: GlobalValue[37].Desc
+msgid "스쿼드슬롯최대수량"
+msgstr ""
+
+#: GlobalValue[38].Desc
+msgid "B랭크 제작 대상 없을 때, 나오는 캐릭터 (무작위)"
+msgstr ""
+
+#: GlobalValue[39].Desc
+msgid "A랭크 제작 대상 없을 때, 나오는 캐릭터 (무작위)"
+msgstr ""
+
+#: GlobalValue[40].Desc
+msgid "S랭크 제작 대상 없을 때, 나오는 캐릭터 (무작위)"
+msgstr ""
+
+#: GlobalValue[41].Desc
+msgid "SS랭크 제작 대상 없을 때, 나오는 캐릭터 (무작위)"
+msgstr ""
+
+#: GlobalValue[42].Desc
+msgid "계정 최대 레벨"
+msgstr ""
+
+#: GlobalValue[43].Desc
+msgid "PC 최대 레벨"
+msgstr ""
+
+#: GlobalValue[44].Desc
+msgid "스킬 최대 레벨"
+msgstr ""
+
+#: GlobalValue[45].Desc
+msgid "11연 가챠 3등급 확률"
+msgstr "11-Year Lottery 3-Rank Chance"
+
+#: GlobalValue[46].Desc
+msgid "11연 가챠 4등급 확률"
+msgstr "11-Year Lottery 4-Rank Chance"
+
+#: GlobalValue[47].Desc
+msgid "11연 가챠 5등급 확률"
+msgstr "11-Year Lottery 5-Rank Chance"
+
+#: GlobalValue[48].Desc
+msgid "수복비용시간보정비율 B"
+msgstr "Recovery Cost Correction Ratio B"
+
+#: GlobalValue[49].Desc
+msgid "수복비용시간보정비율 A"
+msgstr "Recovery Cost Correction Ratio A"
+
+#: GlobalValue[50].Desc
+msgid "수복비용시간보정비율 S"
+msgstr "Recovery Cost Correction Ratio S"
+
+#: GlobalValue[51].Desc
+msgid "수복비용시간보정비율 SS"
+msgstr "Recovery Cost Correction Ratio SS"
+
+#: GlobalValue[52].Desc
+msgid "영원한 전장 시작 시간"
+msgstr "Endless War Start Time"
+
+#: GlobalValue[53].Desc
+msgid "영원한 전장 종료 시간"
+msgstr "Endless War End Time"
+
+#: GlobalValue[54].Desc
+msgid "강화 상한치 기본 수치"
+msgstr "Enhancement Limit Base Value"
+
+#: GlobalValue[55].Desc
+msgid "강화 상한치 최대 수치"
+msgstr "Enhancement Limit Maximum Value"

@@ -1,0 +1,1738 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '아군의 전멸'
+#: MapStage[Ch01Ev2Stage01].DefeatDesc1
+msgid "味方の全滅"
+msgstr "Annihilation of our troops"
+
+#  Korean Text: '섬으로 정찰 나간 호라이즌 대원들은 구조요청 신호를 받게 된다.'
+#: MapStage[Ch01Ev2Stage01].StageDesc
+msgid "島の偵察に向かったホライゾンの隊員たちは救助要請の信号を受信する。"
+msgstr ""
+
+#  Korean Text: '호라이즌의 일과'
+#: MapStage[Ch01Ev2Stage01].StageName
+msgid "ホライゾンの日課"
+msgstr ""
+
+#  Korean Text: '모든 적 처치'
+#: MapStage[Ch01Ev2Stage01].VictoryDesc1
+msgid "すべての敵退治"
+msgstr "Eliminate all enemies"
+
+#  Korean Text: '오르카는 외딴섬의 해변으로 향한다.'
+#: MapStage[Ch01Ev2Stage02].StageDesc
+msgid "オルカは離れ小島の海岸に向かう。"
+msgstr ""
+
+#  Korean Text: '뜨거운 해변'
+#: MapStage[Ch01Ev2Stage02].StageName
+msgid "熱い海辺"
+msgstr ""
+
+#  Korean Text: '오르카의 인원들은 본격적인 탐사에 앞서 베이스캠프를 설치한다.'
+#: MapStage[Ch01Ev2Stage03].StageDesc
+msgid "オルカの要員たちは本格的な探索に先立ち、ベースキャンプを設置する。"
+msgstr ""
+
+#  Korean Text: '그 많은 화약은…'
+#: MapStage[Ch01Ev2Stage03].StageName
+msgid "その多くの火薬は…"
+msgstr ""
+
+#  Korean Text: '트리아이나와 호라이즌 대원들은 본격적인 탐사에 나선다.'
+#: MapStage[Ch01Ev2Stage04].StageDesc
+msgid "トリアイナとホライゾンの隊員たちは本格的な探索に乗り出す。"
+msgstr ""
+
+#  Korean Text: '군인 체질'
+#: MapStage[Ch01Ev2Stage04].StageName
+msgid "軍人体質"
+msgstr ""
+
+#  Korean Text: '불꽃놀이가 끝난 뒤, 메이는 또 다른 요청을 한다.'
+#: MapStage[Ch01Ev2Stage05].StageDesc
+msgid "花火が終わった後、メイは新たな要請をする。"
+msgstr ""
+
+#  Korean Text: '성의를 표하는 법'
+#: MapStage[Ch01Ev2Stage05].StageName
+msgid "誠意を示す法"
+msgstr ""
+
+#  Korean Text: '트리아이나와 호라이즌 대원들은 보물에 조금씩 다가간다.'
+#: MapStage[Ch01Ev2Stage06].StageDesc
+msgid "トリアイナとホライゾンの隊員たちは宝物に少しずつ近づく。"
+msgstr ""
+
+#  Korean Text: '들려주고 싶은 이야기'
+#: MapStage[Ch01Ev2Stage06].StageName
+msgid "聞かせてあげたい話"
+msgstr ""
+
+#  Korean Text: '흩어져 있던 오르카의 인원들이 한자리에 모여 금고로 향한다.'
+#: MapStage[Ch01Ev2Stage07].StageDesc
+msgid "散り散りになっていたオルカの要員たちが一同に集まり金庫に向かう。"
+msgstr ""
+
+#  Korean Text: '금고 진입'
+#: MapStage[Ch01Ev2Stage07].StageName
+msgid "金庫進入"
+msgstr ""
+
+#  Korean Text: '워울프는 소외된 바이오로이드들을 결집해 팀을 구성한다.'
+#: MapStage[Ch01Ev2Stage08].StageDesc
+msgid "ウェアウルフは疎外されたバイオロイドたちを結集しチームを構成する。"
+msgstr ""
+
+#  Korean Text: '루가루'
+#: MapStage[Ch01Ev2Stage08].StageName
+msgid "ルガル"
+msgstr ""
+
+#  Korean Text: '워울프와 수영복 인원들은 식량이 부족해 사냥을 시작한다.'
+#: MapStage[Ch01Ev2Stage09].StageDesc
+msgid "ウェアウルフと水着姿の要員たちは食糧が足らず狩りを始める。"
+msgstr ""
+
+#  Korean Text: '사냥 시작'
+#: MapStage[Ch01Ev2Stage09].StageName
+msgid "ハンティングスタート"
+msgstr ""
+
+#  Korean Text: '굶주린 수영복 해적단 인원들에게 또 다른 시련이 닥친다.'
+#: MapStage[Ch01Ev2Stage10].StageDesc
+msgid "お腹を空かせた水着姿の海賊団の要員たちにまた別の試練が訪れる。"
+msgstr ""
+
+#  Korean Text: '폭죽 소리'
+#: MapStage[Ch01Ev2Stage10].StageName
+msgid "爆竹の音"
+msgstr ""
+
+#  Korean Text: '수영복 인원들은 내분을 겪고 결국 오르카로 복귀한다.'
+#: MapStage[Ch01Ev2Stage11].StageDesc
+msgid "水着姿の要員たちは内紛を経て結局オルカに復帰する。"
+msgstr ""
+
+#  Korean Text: '정글의 규칙'
+#: MapStage[Ch01Ev2Stage11].StageName
+msgid "ジャングルのルール"
+msgstr ""
+
+#  Korean Text: '수영복 인원들은 복귀 도중 수상한 시설물을 발견한다.'
+#: MapStage[Ch01Ev2Stage12].StageDesc
+msgid "水着姿の要員たちは復帰途中、怪しい施設を発見する。"
+msgstr ""
+
+#  Korean Text: '세 자루의 칼'
+#: MapStage[Ch01Ev2Stage12].StageName
+msgid "三本の刀"
+msgstr ""
+
+#  Korean Text: '성전'
+#: MapStage[Ch01Ev4Stage04].StageName
+msgid "聖戦"
+msgstr ""
+
+#  Korean Text: '오르카는 소완으로 인해 혼란에 빠진다.'
+#: MapStage[Ch01EvStage01].StageDesc
+msgid "オルカ号はソワンにより混乱に陥る。"
+msgstr ""
+
+#  Korean Text: '소완의 등장'
+#: MapStage[Ch01EvStage01].StageName
+msgid "ソワンの登場"
+msgstr ""
+
+#  Korean Text: '오르카에서 대책없는 요리 대회가 개최된다.'
+#: MapStage[Ch01EvStage02].StageDesc
+msgid "オルカ号で無策な料理大会が開催される。"
+msgstr ""
+
+#  Korean Text: '소완의 목적'
+#: MapStage[Ch01EvStage02].StageName
+msgid "ソワンの目的"
+msgstr ""
+
+#  Korean Text: '오르카에서는 케이크를 두고 경기가 펼쳐진다.'
+#: MapStage[Ch01EvStage03].StageDesc
+msgid "オルカ号ではケーキをターゲットに競技が繰り広げられる。"
+msgstr ""
+
+#  Korean Text: '도전 : 케이크'
+#: MapStage[Ch01EvStage03].StageName
+msgid "挑戦：ケーキ"
+msgstr ""
+
+#  Korean Text: '미트볼을 만들기 위해 바이오로이드들은 고군분투한다.'
+#: MapStage[Ch01EvStage04].StageDesc
+msgid "ミートボールを作るため、バイオロイド達は孤軍奮闘する。"
+msgstr ""
+
+#  Korean Text: '도전 : 미트볼'
+#: MapStage[Ch01EvStage04].StageName
+msgid "挑戦：ミートボール"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 마지막 경기를 두고 최선을 다한다.'
+#: MapStage[Ch01EvStage05].StageDesc
+msgid "バイオロイド達は最後の競技で最善を尽くす。"
+msgstr ""
+
+#  Korean Text: '도전 : 모두가 원하는'
+#: MapStage[Ch01EvStage05].StageName
+msgid "挑戦：みんな大好き"
+msgstr ""
+
+#  Korean Text: '소완은 해답을 찾기위해 마지막 시도를 한다.'
+#: MapStage[Ch01EvStage06].StageDesc
+msgid "ソワンは回答を探すため最後の試みを実行する。"
+msgstr ""
+
+#  Korean Text: '되찾은 일상'
+#: MapStage[Ch01EvStage06].StageName
+msgid "取り戻した日常"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 요리 재료를 구하기 위해 전장으로 향한다.'
+#: MapStage[Ch01EvStage07].StageDesc
+msgid "バイオロイド達は料理素材を求めて戦場に向かう。"
+msgstr ""
+
+#  Korean Text: '쇼핑 카트'
+#: MapStage[Ch01EvStage07].StageName
+msgid "ショッピングカート"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 마구잡이로 재료를 수집하기 시작한다.'
+#: MapStage[Ch01EvStage08].StageDesc
+msgid "バイオロイド達はむやみやたらに素材を収集し始める。"
+msgstr ""
+
+#  Korean Text: '끝없는 수집'
+#: MapStage[Ch01EvStage08].StageName
+msgid "終わりなき収集"
+msgstr ""
+
+#  Korean Text: '일행은 해독제를 구하기 위해 출발한다.'
+#: MapStage[Ch01EvStage09].StageDesc
+msgid "みんなは解毒剤を求め出発する。"
+msgstr ""
+
+#  Korean Text: '해독제'
+#: MapStage[Ch01EvStage09].StageName
+msgid "解毒剤"
+msgstr ""
+
+#  Korean Text: '하치코는 기력 회복을 위해 마지막 요리를 준비한다.'
+#: MapStage[Ch01EvStage10].StageDesc
+msgid "ハチコは気力回復のため最後の料理を準備する。"
+msgstr ""
+
+#  Korean Text: '피할 수 없는 참치'
+#: MapStage[Ch01EvStage10].StageName
+msgid "避けられないツナ缶"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 권태에 빠진 사령관을 위해 전장으로 향한다.'
+#: MapStage[Ch01EvStage11].StageDesc
+msgid "バイオロイド達は倦怠に陥った司令官のため戦場に向かう。"
+msgstr ""
+
+#  Korean Text: '권태'
+#: MapStage[Ch01EvStage11].StageName
+msgid "倦怠"
+msgstr ""
+
+#  Korean Text: '닥터를 포함한 바이오로이드들은 식재료를 수집하기 위해 출발한다.'
+#: MapStage[Ch01EvStage12].StageDesc
+msgid "ドクターを含めたバイオロイド達は食材を収集するため出発する。"
+msgstr ""
+
+#  Korean Text: '일렉트릭'
+#: MapStage[Ch01EvStage12].StageName
+msgid "エレクトリック"
+msgstr ""
+
+#  Korean Text: '전투원들의 급양을 개선하기 위한 대책 회의가 열린다.'
+#: MapStage[Ch01EvStage13].StageDesc
+msgid "戦闘員の給養を改善するための対策会議が開かれる。"
+msgstr ""
+
+#  Korean Text: '초대받지 못한 자'
+#: MapStage[Ch01EvStage13].StageName
+msgid "招かざる者"
+msgstr ""
+
+#  Korean Text: '식재료를 구하기 위해 바이오로이드들은 출발한다.'
+#: MapStage[Ch01EvStage14].StageDesc
+msgid "食材を求め、バイオロイド達は出発する。"
+msgstr ""
+
+#  Korean Text: '위대한 식재료'
+#: MapStage[Ch01EvStage14].StageName
+msgid "偉大な食材"
+msgstr ""
+
+#  Korean Text: '특정 아군 스쿼드의 전멸'
+#: MapStage[Ch01Stage01].DefeatDesc1
+msgid "特定の味方部隊の全滅"
+msgstr "Elimination of a specific squad"
+
+#  Korean Text: '드디어 인간을 찾은 바이오로이드들은 자신들을 쫓아온 철충의 포위망을 돌파해 탈출하려 한다.'
+#: MapStage[Ch01Stage01].StageDesc
+msgid "ついに人間を発見したバイオロイド達は、追って来る鉄虫の包囲網を突破しようとしている。"
+msgstr ""
+
+#  Korean Text: '비상 상황'
+#: MapStage[Ch01Stage01].StageName
+msgid "非常事態"
+msgstr ""
+
+#  Korean Text: 'LRL은 자신의 숨겨진 유실물을 찾아달라고 부탁한다.'
+#: MapStage[Ch01Stage01Ex].StageDesc
+msgid "ＬＲＬは自分の隠された遺失物を探して欲しいと頼む。"
+msgstr ""
+
+#  Korean Text: '싸이클롭스의 보물'
+#: MapStage[Ch01Stage01Ex].StageName
+msgid "サイクロプスの宝物"
+msgstr ""
+
+#  Korean Text: '본부와의 교신에 실패한 바이오로이드들은 마지막 인간을 '그곳'으로 이끈다.'
+#: MapStage[Ch01Stage02].StageDesc
+msgid "本部との交信に失敗したバイオロイド達は、最後の人間を「そこ」へと導く。"
+msgstr ""
+
+#  Korean Text: '등대로!'
+#: MapStage[Ch01Stage02].StageName
+msgid "灯台に!"
+msgstr "To the Lighthouse!"
+
+#  Korean Text: '그리폰과 요안나는 또 다른 빅칙의 위치를 찾고 그 빅칙을 파괴할 것을 건의한다.'
+#: MapStage[Ch01Stage02Ex].StageDesc
+msgid "グリフォンとヨアンナは他のビッグチックの位置を探し、その破壊を提案する。"
+msgstr ""
+
+#  Korean Text: '또 다른 괴물'
+#: MapStage[Ch01Stage02Ex].StageName
+msgid "新たな化け物"
+msgstr ""
+
+#  Korean Text: '마지막 인간의 안전을 위해 바이오로이드들은 등대로 향한다.'
+#: MapStage[Ch01Stage03].StageDesc
+msgid "最後の人間の安全を守るため、バイオロイド達は灯台に向かった。"
+msgstr ""
+
+#  Korean Text: '등대 아래 비밀기지'
+#: MapStage[Ch01Stage03].StageName
+msgid "灯台下の秘密基地"
+msgstr "Secret Base Under the Lighthouse"
+
+#  Korean Text: '포츈은 흩어진 바이오로이드들을 찾기 위한 전투를 부탁한다.'
+#: MapStage[Ch01Stage03B].StageDesc
+msgid "フォーチュンはバラバラになったバイオロイド達を探すため、出撃の準備を依頼する。"
+msgstr ""
+
+#  Korean Text: '포츈의 의뢰 I'
+#: MapStage[Ch01Stage03B].StageName
+msgid "フォーチュンの依頼I"
+msgstr ""
+
+#  Korean Text: '포츈은 철충의 감염 프로세스를 연구하기 위해 그 표본을 구해달라고 부탁한다.'
+#: MapStage[Ch01Stage03Ex].StageDesc
+msgid "フォーチュンは鉄虫の感染プロセスを研究するため、その標本探しを依頼する。"
+msgstr ""
+
+#  Korean Text: '표본 수집'
+#: MapStage[Ch01Stage03Ex].StageName
+msgid "標本収集"
+msgstr ""
+
+#  Korean Text: '구조 요청을 받은 바이오로이드들은 자매들을 구하기 위해 움직인다.'
+#: MapStage[Ch01Stage04].StageDesc
+msgid "バイオロイド達は姉妹からの救助要請を受け、動き出す。"
+msgstr ""
+
+#  Korean Text: '구조 신호'
+#: MapStage[Ch01Stage04].StageName
+msgid "救助信号"
+msgstr "Rescue Signal"
+
+#  Korean Text: '포츈은 흩어진 자매들을 찾기 위해 소형 신호 발생기 설치를 부탁한다.'
+#: MapStage[Ch01Stage04B].StageDesc
+msgid "フォーチュンはバラバラになった姉妹達を探すため小型信号発生器の設置を依頼する。"
+msgstr ""
+
+#  Korean Text: '포츈의 의뢰 II'
+#: MapStage[Ch01Stage04B].StageName
+msgid "フォーチュンの依頼II"
+msgstr ""
+
+#  Korean Text: '그리폰은 스토커의 남은 친위대를 파괴해 이 지역에 대한 위협을 완전히 종식시키자는 부탁을 한다.'
+#: MapStage[Ch01Stage04Ex].StageDesc
+msgid "グリフォンはストーカーの残りの親衛隊を破壊し、この地域の脅威を根絶させようと請う。"
+msgstr ""
+
+#  Korean Text: '잔당 처치'
+#: MapStage[Ch01Stage04Ex].StageName
+msgid "残党処分"
+msgstr ""
+
+#  Korean Text: '위기에 빠진 기계들을 구출하기 위해 바이오로이드들은 움직인다.'
+#: MapStage[Ch01Stage05].StageDesc
+msgid "危機に陥った機械を救出しようと、バイオロイド達は動きだす。"
+msgstr ""
+
+#  Korean Text: '동맹의 조건'
+#: MapStage[Ch01Stage05].StageName
+msgid "同盟の条件"
+msgstr "Alliance Under a Condition"
+
+#  Korean Text: '요안나는 부서진 로봇의 부품 수거를 통해 자원 확충을 건의한다.'
+#: MapStage[Ch01Stage05B].StageDesc
+msgid "ヨアンナは壊れたロボットの部品収集を通して資源の拡充を提案する。"
+msgstr ""
+
+#  Korean Text: '부품 수거'
+#: MapStage[Ch01Stage05B].StageName
+msgid "部品収集"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 포위해 오는 철충을 요격하기 위해 움직인다.'
+#: MapStage[Ch01Stage06].StageDesc
+msgid "バイオロイド達は包囲して来る鉄虫を迎撃しに向かう。"
+msgstr ""
+
+#  Korean Text: '미끼'
+#: MapStage[Ch01Stage06].StageName
+msgid "餌"
+msgstr "Bait"
+
+#  Korean Text: '요안나는 고립된 스토커의 부하들을 섬멸해 섬을 차지할 것을 건의한다.'
+#: MapStage[Ch01Stage06B].StageDesc
+msgid "ヨアンナは孤立したストーカーの部下達を殲滅し、島の占拠を提案する。"
+msgstr ""
+
+#  Korean Text: '독안에 든 쥐'
+#: MapStage[Ch01Stage06B].StageName
+msgid "四面楚歌"
+msgstr ""
+
+#  Korean Text: '바이오로이드는 자신들을 찾는 철충들을 요격한다.'
+#: MapStage[Ch01Stage07].StageDesc
+msgid "バイオロイドは自分達を追ってくる鉄虫たちを迎え撃つ。"
+msgstr ""
+
+#  Korean Text: '교살 밧줄'
+#: MapStage[Ch01Stage07].StageName
+msgid "絞殺ロープ"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 함정에 걸린 적을 찾기 위해 움직인다.'
+#: MapStage[Ch01Stage08].StageDesc
+msgid "バイオロイド達は罠にかかった敵を探そうと動き出す。"
+msgstr ""
+
+#  Korean Text: '위험한 미끼'
+#: MapStage[Ch01Stage08].StageName
+msgid "危険な餌"
+msgstr ""
+
+#  Korean Text: '잊혀진 보물을 찾아서 I'
+#: MapStage[Ch02Ev2Stage01].StageDesc
+msgid "忘れられた宝物を探してⅠ"
+msgstr ""
+
+#  Korean Text: '유산 탐색 I'
+#: MapStage[Ch02Ev2Stage01].StageName
+msgid "遺産探索Ⅰ"
+msgstr ""
+
+#  Korean Text: '잊혀진 보물을 찾아서 II'
+#: MapStage[Ch02Ev2Stage02].StageDesc
+msgid "忘れられた宝物を探してⅡ"
+msgstr ""
+
+#  Korean Text: '유산 탐색 II'
+#: MapStage[Ch02Ev2Stage02].StageName
+msgid "遺産探索Ⅱ"
+msgstr ""
+
+#  Korean Text: '잊혀진 보물을 찾아서 III'
+#: MapStage[Ch02Ev2Stage03].StageDesc
+msgid "忘れられた宝物を探してⅢ"
+msgstr ""
+
+#  Korean Text: '유산 탐색 III'
+#: MapStage[Ch02Ev2Stage03].StageName
+msgid "遺産探索Ⅲ"
+msgstr ""
+
+#  Korean Text: '보물 탐사를 위한 준비 I'
+#: MapStage[Ch02Ev2Stage04].StageDesc
+msgid "宝物探索に向けた準備Ⅰ"
+msgstr ""
+
+#  Korean Text: '식량 확보 I'
+#: MapStage[Ch02Ev2Stage04].StageName
+msgid "食糧確保Ⅰ"
+msgstr ""
+
+#  Korean Text: '보물 탐사를 위한 준비 II'
+#: MapStage[Ch02Ev2Stage05].StageDesc
+msgid "宝物探索に向けた準備Ⅱ"
+msgstr ""
+
+#  Korean Text: '식량 확보 II'
+#: MapStage[Ch02Ev2Stage05].StageName
+msgid "食糧確保Ⅱ"
+msgstr ""
+
+#  Korean Text: '보물 탐사를 위한 준비 III'
+#: MapStage[Ch02Ev2Stage06].StageDesc
+msgid "宝物探索に向けた準備Ⅲ"
+msgstr ""
+
+#  Korean Text: '식량 확보 III'
+#: MapStage[Ch02Ev2Stage06].StageName
+msgid "食糧確保Ⅲ"
+msgstr ""
+
+#  Korean Text: '시원한 녀석, 짜릿한 녀석, 두꺼운 녀석들과의 한판 승부!'
+#: MapStage[Ch02Ev2Stage07].StageDesc
+msgid "爽快な奴、刺激的な奴、熱い奴らとの一本勝負!"
+msgstr ""
+
+#  Korean Text: '식량 확보 IV'
+#: MapStage[Ch02Ev2Stage07].StageName
+msgid "食糧確保Ⅳ"
+msgstr ""
+
+#  Korean Text: '공중에서 떨어지는 폭탄 배송'
+#: MapStage[Ch02Ev2Stage08].StageDesc
+msgid "空中から落下する爆弾配送"
+msgstr ""
+
+#  Korean Text: '유산 탐색 IV'
+#: MapStage[Ch02Ev2Stage08].StageName
+msgid "遺産探索Ⅳ"
+msgstr ""
+
+#  Korean Text: '밀집 방어 대형 돌파 작전'
+#: MapStage[Ch02Ev2Stage09].StageDesc
+msgid "密集防御大型突破作戦"
+msgstr ""
+
+#  Korean Text: '식량 확보 V'
+#: MapStage[Ch02Ev2Stage09].StageName
+msgid "食料確保Ⅴ"
+msgstr ""
+
+#  Korean Text: '왠지 공격이 튕겨나가지 말입니다…'
+#: MapStage[Ch02Ev2Stage10].StageDesc
+msgid "何故か攻撃が外れてしまいます…。"
+msgstr ""
+
+#  Korean Text: '유산 탐색 V'
+#: MapStage[Ch02Ev2Stage10].StageName
+msgid "遺産探索Ⅴ"
+msgstr ""
+
+#  Korean Text: '무덤의 망령과의 전투를 재현한 시뮬레이션입니다. 왠지 소문이 많이 부풀려진 느낌입니다...'
+#: MapStage[Ch02Ev2Stage11].StageDesc
+msgid "墓の亡霊との戦闘を再現したシミュレーションです。どうしたことか噂が誇張された感じです…。"
+msgstr ""
+
+#  Korean Text: '오르카 챌린지 I'
+#: MapStage[Ch02Ev2Stage11].StageName
+msgid "オルカチャレンジⅠ"
+msgstr ""
+
+#  Korean Text: '수평선을 향해 쏴라! 바다 소녀(?)들과의 모의 전투 시뮬레이션입니다만, 누군가가 데이터에 장난을 쳐놓은 것 같습니다…'
+#: MapStage[Ch02Ev2Stage12].StageDesc
+msgid "水平線に向かって撃て!海の少女(?)たちとの模擬戦闘シミュレーションですが、誰かがデータにいたずらをしたようです…。"
+msgstr ""
+
+#  Korean Text: '오르카 챌린지 II'
+#: MapStage[Ch02Ev2Stage12].StageName
+msgid "オルカチャレンジⅡ"
+msgstr ""
+
+#  Korean Text: '바이오로이드는 새로운 동료를 만들기 위해 나선다.'
+#: MapStage[Ch02Stage01].StageDesc
+msgid "バイオロイドは新たな仲間を求めて出発する。"
+msgstr ""
+
+#  Korean Text: '유전자 저장소'
+#: MapStage[Ch02Stage01].StageName
+msgid "遺伝子貯蔵所"
+msgstr ""
+
+#  Korean Text: '포츈은 좀 더 빠른 바이오로이드 제작을 위해 배양 촉매를 구해 줄 것을 부탁한다.'
+#: MapStage[Ch02Stage01B].StageDesc
+msgid "フォーチュンはバイオロイド製作の高速化ため、培養触媒を探してくるよう依頼する。"
+msgstr ""
+
+#  Korean Text: '배양 촉매'
+#: MapStage[Ch02Stage01B].StageName
+msgid "培養触媒"
+msgstr ""
+
+#  Korean Text: '포츈은 자신의 위상을 회복하기 위해 참치를 만들려 알루미늄을 구하려 한다.'
+#: MapStage[Ch02Stage01Ex].StageDesc
+msgid "フォーチュンは自分の名誉回復のため、ツナ缶を作ろうとアルミニウムを欲している。"
+msgstr ""
+
+#  Korean Text: '포츈의 참치 연구 I'
+#: MapStage[Ch02Stage01Ex].StageName
+msgid "フォーチュンのツナ缶研究I"
+msgstr ""
+
+#  Korean Text: '전쟁을 위해 마지막 인간과 바이오로이드는 동력을 찾기 위해 나선다.'
+#: MapStage[Ch02Stage02].StageDesc
+msgid "戦争のため、最後の人間とバイオロイドは動力を探すために旅立つ。"
+msgstr ""
+
+#  Korean Text: '수소 전지 저장고'
+#: MapStage[Ch02Stage02].StageName
+msgid "水素電池の貯蔵庫"
+msgstr ""
+
+#  Korean Text: '포츈은 참치를 잡기 위해 어종 유도기를 원한다.'
+#: MapStage[Ch02Stage02Ex].StageDesc
+msgid "フォーチュンはツナ缶を捕まえるため魚種誘導器を欲する。"
+msgstr ""
+
+#  Korean Text: '포츈의 참치 연구 II'
+#: MapStage[Ch02Stage02Ex].StageName
+msgid "フォーチュンのツナ缶研究II"
+msgstr ""
+
+#  Korean Text: '마지막 인간은 전쟁을 지속하기 위한 영양원을 찾기 위해 바이오로이드를 파견한다.'
+#: MapStage[Ch02Stage03].StageDesc
+msgid "最後の人間は、戦争を続けるための物資を探そうとバイオロイドを派遣する。"
+msgstr ""
+
+#  Korean Text: '디너 파티'
+#: MapStage[Ch02Stage03].StageName
+msgid "ディナーパーティー"
+msgstr ""
+
+#  Korean Text: '그리폰은 참치캔이란 음식에 대한 이야기를 듣고 그 참치캔을 구해 보자는 말을 한다.'
+#: MapStage[Ch02Stage03B].StageDesc
+msgid "グリフォンはツナ缶という食べ物の話を聞いて、そのツナ缶を探してみようと言い出した。"
+msgstr ""
+
+#  Korean Text: '참치를 위하여 I'
+#: MapStage[Ch02Stage03B].StageName
+msgid "ツナ缶のためにI"
+msgstr ""
+
+#  Korean Text: '포츈은 파티를 위한 캔따개를 부탁한다.'
+#: MapStage[Ch02Stage03Ex].StageDesc
+msgid "フォーチュンはパーティーのための缶切りを頼む。"
+msgstr ""
+
+#  Korean Text: '참치 파티'
+#: MapStage[Ch02Stage03Ex].StageName
+msgid "ツナ缶パーティー"
+msgstr ""
+
+#  Korean Text: '녹음된 소리를 듣고 바이오로이드는 불굴의 마리를 찾기 위해 움직인다.'
+#: MapStage[Ch02Stage04].StageDesc
+msgid "録音された音を聞いて、バイオロイドは不屈のマリーを探すため動き出す。"
+msgstr ""
+
+#  Korean Text: '그리운 옛 집'
+#: MapStage[Ch02Stage04].StageName
+msgid "懐かしい家"
+msgstr ""
+
+#  Korean Text: '그리폰에게 참치를 빼앗긴 LRL은 또 다른 참치를 구해달라는 부탁을 한다.'
+#: MapStage[Ch02Stage04B].StageDesc
+msgid "グリフォンにツナ缶を奪われたＬＲＬはまた他のツナ缶を探して欲しいと頼む。"
+msgstr ""
+
+#  Korean Text: '참치를 위하여 II'
+#: MapStage[Ch02Stage04B].StageName
+msgid "ツナ缶のためにII"
+msgstr ""
+
+#  Korean Text: '불굴의 마리는 부하들의 용기를 기리고 정신교육을 위한 병사 수첩 회수를 부탁한다.'
+#: MapStage[Ch02Stage04Ex].StageDesc
+msgid "不屈のマリーは部下達の勇気を称えて、精神教育のための兵士手帳回収を依頼する。"
+msgstr ""
+
+#  Korean Text: '스틸라인 병사수첩'
+#: MapStage[Ch02Stage04Ex].StageName
+msgid "スチールラインの兵士手帳"
+msgstr ""
+
+#  Korean Text: '바이오로오이드는 불굴의 마리의 뒤를 쫓는다.'
+#: MapStage[Ch02Stage05].StageDesc
+msgid "バイオロイドは不屈のマリーの後を追う。"
+msgstr ""
+
+#  Korean Text: '헤파이스 철공소'
+#: MapStage[Ch02Stage05].StageName
+msgid "ヘパイス鉄工房"
+msgstr ""
+
+#  Korean Text: '바이오로이드는 오염된 공장에서 믿을 수 없는 광경을 목격하게 된다.'
+#: MapStage[Ch02Stage06].StageDesc
+msgid "バイオロイドは汚染された工場で信じられない光景を目撃する事になる。"
+msgstr ""
+
+#  Korean Text: '오염된 공장'
+#: MapStage[Ch02Stage06].StageName
+msgid "汚染された工場"
+msgstr ""
+
+#  Korean Text: '바이오로이드는 위급한 동료를 구하기 위해 달려간다.'
+#: MapStage[Ch02Stage07].StageDesc
+msgid "バイオロイドは危機に晒されている同僚を救うため走り出す。"
+msgstr ""
+
+#  Korean Text: '마리의 표식'
+#: MapStage[Ch02Stage07].StageName
+msgid "マリーの標的"
+msgstr ""
+
+#  Korean Text: '포츈은 철충을 먹는 프레데터의 잔해 조사를 샘플을 부탁한다.'
+#: MapStage[Ch02Stage07B].StageDesc
+msgid "フォーチュンは鉄虫を食べるプレデターの残骸調査のサンプルを依頼する。"
+msgstr ""
+
+#  Korean Text: '잔해 연구'
+#: MapStage[Ch02Stage07B].StageName
+msgid "残骸研究"
+msgstr ""
+
+#  Korean Text: '불굴의 마리를 찾기 위해 바이오로이드는 전장으로 향한다.'
+#: MapStage[Ch02Stage08].StageDesc
+msgid "不屈のマリーを探すため、バイオロイドは戦場へと向かう。"
+msgstr ""
+
+#  Korean Text: '장군의 은신처'
+#: MapStage[Ch02Stage08].StageName
+msgid "将軍の隠れ場"
+msgstr ""
+
+#  Korean Text: '오르카의 인원들은 금고로 통하는 동굴에 진입한다.'
+#: MapStage[Ch03Ev2Stage01].StageDesc
+msgid "オルカの要員たちは金庫に続く洞窟に進入する。"
+msgstr ""
+
+#  Korean Text: '뉴 트리아이나'
+#: MapStage[Ch03Ev2Stage01].StageName
+msgid "ニュートリアイナ"
+msgstr ""
+
+#  Korean Text: '오르카의 전투원들은 길을 막아서는 AGS 들과 전투를 벌인다.'
+#: MapStage[Ch03Ev2Stage02].StageDesc
+msgid "オルカの戦闘員たちは道を塞ぐAGSたちと戦闘を開始する。"
+msgstr ""
+
+#  Korean Text: '세 개의 보석'
+#: MapStage[Ch03Ev2Stage02].StageName
+msgid "三つの宝石"
+msgstr ""
+
+#  Korean Text: '트레저 헌팅을 즐기던 오르카의 인원들에게 불길한 기운이 엄습한다.'
+#: MapStage[Ch03Ev2Stage03].StageDesc
+msgid "トレジャー狩りを楽しんでいたオルカの要員たちに不吉な勢力が急襲する。"
+msgstr ""
+
+#  Korean Text: '누군가의 로망'
+#: MapStage[Ch03Ev2Stage03].StageName
+msgid "誰かのロマン"
+msgstr ""
+
+#  Korean Text: '갑작스럽게 마주친 검은 AGS가 거래를 제안한다.'
+#: MapStage[Ch03Ev2Stage04].StageDesc
+msgid "突然出くわした黒いAGSが取引を提案する。"
+msgstr ""
+
+#  Korean Text: '거래 제안'
+#: MapStage[Ch03Ev2Stage04].StageName
+msgid "取引の提案"
+msgstr ""
+
+#  Korean Text: '트레저 헌팅을 즐기는 오르카의 인원들이 우정을 쌓는다.'
+#: MapStage[Ch03Ev2Stage05].StageDesc
+msgid "トレジャー狩りを楽しむオルカの要員たちが友情を深める。"
+msgstr ""
+
+#  Korean Text: '현명한 선택'
+#: MapStage[Ch03Ev2Stage05].StageName
+msgid "賢明な選択"
+msgstr ""
+
+#  Korean Text: '오르카의 인원들은 놀라운 소식을 접한다.'
+#: MapStage[Ch03Ev2Stage06].StageDesc
+msgid "オルカの要員たちは驚くべき知らせを聞く。"
+msgstr ""
+
+#  Korean Text: '포효'
+#: MapStage[Ch03Ev2Stage06].StageName
+msgid "咆哮"
+msgstr ""
+
+#  Korean Text: '오르카의 인원들은 보물을 얻기 위해 금고 내부로 향한다.'
+#: MapStage[Ch03Ev2Stage07].StageDesc
+msgid "オルカの要員たちは宝物を探すため金庫の内部に向かう。"
+msgstr ""
+
+#  Korean Text: '이해 불능'
+#: MapStage[Ch03Ev2Stage07].StageName
+msgid "理解不能"
+msgstr ""
+
+#  Korean Text: '금고에 도착한 오르카의 전투원들은 강력한 적과 마주친다.'
+#: MapStage[Ch03Ev2Stage08].StageDesc
+msgid "金庫に到着したオルカの戦闘員たちは強力な敵と遭遇する。"
+msgstr ""
+
+#  Korean Text: '망령'
+#: MapStage[Ch03Ev2Stage08].StageName
+msgid "亡霊"
+msgstr ""
+
+#  Korean Text: '둠 브링어 팀은 평화로운 휴가를 즐긴다.'
+#: MapStage[Ch03Ev2Stage09].StageDesc
+msgid "ドゥームブリンガーチームは平和な休暇を楽しむ。"
+msgstr ""
+
+#  Korean Text: '아토믹 러브'
+#: MapStage[Ch03Ev2Stage09].StageName
+msgid "アトミックラブ"
+msgstr ""
+
+#  Korean Text: '포츈은 다른 인원들이 휴가를 즐길 수 있도록 배려한다.'
+#: MapStage[Ch03Ev2Stage10].StageDesc
+msgid "フォーチュンは他の要員たちが休暇を楽しめるよう配慮する。"
+msgstr ""
+
+#  Korean Text: '연락 대기'
+#: MapStage[Ch03Ev2Stage10].StageName
+msgid "連絡待機"
+msgstr ""
+
+#  Korean Text: '갑작스러운 지원 요청을 받은 트레저 헌트 팀은 해변으로 복귀한다.'
+#: MapStage[Ch03Ev2Stage11].StageDesc
+msgid "突然の支援要請を受けたトレジャーハントチームは海岸に復帰する。"
+msgstr ""
+
+#  Korean Text: '평화 협정'
+#: MapStage[Ch03Ev2Stage11].StageName
+msgid "平和協定"
+msgstr ""
+
+#  Korean Text: '해변의 인원들은 동굴에서 구한 전리품으로 즐거움을 만끽한다.'
+#: MapStage[Ch03Ev2Stage12].StageDesc
+msgid "海岸の要員たちは洞窟で手に入れた戦利品で幸せを満喫する。"
+msgstr ""
+
+#  Korean Text: '선물의 행방'
+#: MapStage[Ch03Ev2Stage12].StageName
+msgid "プレゼントの行方"
+msgstr ""
+
+#  Korean Text: '휴가를 만끽하던 소완에게 블랙 리리스가 도움을 요청한다.'
+#: MapStage[Ch03Ev2Stage13].StageDesc
+msgid "休暇を満喫していたソワンにブラックリリスが支援を要請する。"
+msgstr ""
+
+#  Korean Text: '어두운 거래'
+#: MapStage[Ch03Ev2Stage13].StageName
+msgid "裏の取引"
+msgstr ""
+
+#  Korean Text: '신입기자 스프리건은 잔류한 인원들을 위한 취재 영상을 준비한다.'
+#: MapStage[Ch03Ev2Stage14].StageDesc
+msgid "新入り記者のスプリガンは残留した要員たちのための取材映像を準備する。"
+msgstr ""
+
+#  Korean Text: '오르카는 갈망한다'
+#: MapStage[Ch03Ev2Stage14].StageName
+msgid "オルカは切望している"
+msgstr ""
+
+#  Korean Text: '마리가 목격한 수상한 장소를 찾기 위해 바이오로이드는 헤맨다.'
+#: MapStage[Ch03Stage01].StageDesc
+msgid "マリーが目撃した不思議な場所を探すため、バイオロイドは東奔西走する。"
+msgstr ""
+
+#  Korean Text: '마리가 본 것'
+#: MapStage[Ch03Stage01].StageName
+msgid "マリーが見た物"
+msgstr ""
+
+#  Korean Text: '포츈은 남성 바이오로이드에 대한 실험 기록 수집을 부탁한다.'
+#: MapStage[Ch03Stage01Ex].StageDesc
+msgid "フォーチュンは男性バイオロイドについての実験記録の収集を依頼する。"
+msgstr ""
+
+#  Korean Text: '실험 기록 (1)'
+#: MapStage[Ch03Stage01Ex].StageName
+msgid "実験記録(1)"
+msgstr ""
+
+#  Korean Text: '실험장 내부에서 벌어지는 일을 위해 바이오로이드들은 실험장 내부로 향한다.'
+#: MapStage[Ch03Stage02].StageDesc
+msgid "実験場内部で起こり得る事態に備え、バイオロイド達は実験場内部に向かう。"
+msgstr ""
+
+#  Korean Text: '에이다 통신'
+#: MapStage[Ch03Stage02].StageName
+msgid "エイダー通信"
+msgstr ""
+
+#  Korean Text: '코코는 인간을 위해 우주에 있는 자매들을 다시 되돌려 달라고 에이다에게 부탁한다.'
+#: MapStage[Ch03Stage02B].StageDesc
+msgid "ココは人間のため宇宙にいる姉妹達を再び返して欲しいとエイダーに請う。"
+msgstr ""
+
+#  Korean Text: '지구의 감시자'
+#: MapStage[Ch03Stage02B].StageName
+msgid "地球の監視者"
+msgstr ""
+
+#  Korean Text: '포츈은 폭동을 일으켜 격리된 바이오로이드들에 대한 실험 자료를 부탁한다.'
+#: MapStage[Ch03Stage02Ex].StageDesc
+msgid "フォーチュンは暴動を起こし隔離されたバイオロイド達についての実験資料を依頼する。"
+msgstr ""
+
+#  Korean Text: '실험 기록 (2)'
+#: MapStage[Ch03Stage02Ex].StageName
+msgid "実験記録(2)"
+msgstr ""
+
+#  Korean Text: '실험장 내부의 데이터를 찾기 위해 바이오로이드들은 수색한다.'
+#: MapStage[Ch03Stage03].StageDesc
+msgid "実験場内部のデータを探すため、バイオロイド達は捜索を開始する。"
+msgstr ""
+
+#  Korean Text: '81번 실험장 내부'
+#: MapStage[Ch03Stage03].StageName
+msgid "81番実験場内部"
+msgstr ""
+
+#  Korean Text: '토모와 LRL은 귀신 이야기를 하다가 두려움에 떨며 야간 수색에 나선다.'
+#: MapStage[Ch03Stage03B].StageDesc
+msgid "トモとＬＲＬは幽霊の話をしてたら怖くなり震えながら夜間捜索に出ていく。"
+msgstr ""
+
+#  Korean Text: '귀신 이야기'
+#: MapStage[Ch03Stage03B].StageName
+msgid "幽霊のストーリー"
+msgstr "Ghost Stories"
+
+#  Korean Text: '포츈에게 실험 기록에 대한 보고를 받던 중 발생한 습격에 반격하기 위해 바이오로이드들은 전투에 나선다.'
+#: MapStage[Ch03Stage03Ex].StageDesc
+msgid "フォーチュンから実験記録についての報告を受けている中、起こった襲撃に反撃するためバイオロイド達は戦闘に出る。"
+msgstr ""
+
+#  Korean Text: '실험 기록 (3)'
+#: MapStage[Ch03Stage03Ex].StageName
+msgid "実験記録(3)"
+msgstr ""
+
+#  Korean Text: '패스파인더의 진입을 위해 바이오로이드들은 내부의 철충을 청소한다.'
+#: MapStage[Ch03Stage04].StageDesc
+msgid "パスファインダーの進入のため、バイオロイド達は内部の鉄虫を駆逐する。"
+msgstr ""
+
+#  Korean Text: '사라진 실험체'
+#: MapStage[Ch03Stage04].StageName
+msgid "消えた実験体"
+msgstr ""
+
+#  Korean Text: '포츈은 실험장에 어울리지 않는 VIP 객실에 대한 자료를 통해 실험의 비밀을 알아내려 한다.'
+#: MapStage[Ch03Stage04Ex].StageDesc
+msgid "フォーチュンは実験場には合わないVIP客室についての資料を通して実験の秘密を知ろうとする。"
+msgstr ""
+
+#  Korean Text: '실험 기록 (4)'
+#: MapStage[Ch03Stage04Ex].StageName
+msgid "実験記録(4)"
+msgstr ""
+
+#  Korean Text: '포츈이 준 단서를 확인하기 위해 바이오로이드들은 움직인다.'
+#: MapStage[Ch03Stage05].StageDesc
+msgid "フォーチュンがくれた手掛かりを確認するため、バイオロイド達は動く。"
+msgstr ""
+
+#  Korean Text: '조력자'
+#: MapStage[Ch03Stage05].StageName
+msgid "助っ人"
+msgstr ""
+
+#  Korean Text: '갑작스럽게 증원된 적의 병력을 차단하기 위해 바이오로이드들은 고갯길 진지로 향한다'
+#: MapStage[Ch03Stage06].StageDesc
+msgid "突然現れた敵兵力の増援から身を守るため、バイオロイド達は坂の方の陣地へ向かう。"
+msgstr ""
+
+#  Korean Text: '일보후퇴'
+#: MapStage[Ch03Stage06].StageName
+msgid "一歩後退"
+msgstr ""
+
+#  Korean Text: '마리는 고갯글의 진지를 보강하기 위해 입구 고개의 적을 공격하자고 건의한다.'
+#: MapStage[Ch03Stage06B].StageDesc
+msgid "マリーは坂道の陣地を補強するため、入り口の峠の敵を攻撃しようと提案する。"
+msgstr ""
+
+#  Korean Text: '전면 공습'
+#: MapStage[Ch03Stage06B].StageName
+msgid "全面空襲"
+msgstr "All-out Raid"
+
+#  Korean Text: '갑작스레 나타난 트릭스터를 쫓아 바이오로이드는 다시 실험장으로 향한다.'
+#: MapStage[Ch03Stage07].StageDesc
+msgid "突然現れたトリックスターを追い、バイオロイドは再び実験場に向かう。"
+msgstr ""
+
+#  Korean Text: '철충이 찾는 것'
+#: MapStage[Ch03Stage07].StageName
+msgid "鉄虫が探している物"
+msgstr ""
+
+#  Korean Text: '마리는 내부 콘솔 자료의 보강을 위해 실험장 내부의 적들을 처리하자고 건의한다.'
+#: MapStage[Ch03Stage07B].StageDesc
+msgid "マリーは内部のコンソール資料の補強のため、実験場内部の敵を処理しようと提案する。"
+msgstr ""
+
+#  Korean Text: '내부 청소'
+#: MapStage[Ch03Stage07B].StageName
+msgid "内部清掃"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 실험체를 훔친 트릭스터를 쫓는다.'
+#: MapStage[Ch03Stage08].StageDesc
+msgid "バイオロイド達は実験体を盗んだトリックスターを追う。"
+msgstr ""
+
+#  Korean Text: '트릭스터 사냥'
+#: MapStage[Ch03Stage08].StageName
+msgid "トリックスター狩り"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 사라진 트릭스터의 행방을 쫓는다.'
+#: MapStage[Ch04Stage01].StageDesc
+msgid "バイオロイド達は消えたトリックスターの行方を追う。"
+msgstr ""
+
+#  Korean Text: '숨겨진 굴'
+#: MapStage[Ch04Stage01].StageName
+msgid "隠された洞窟"
+msgstr ""
+
+#  Korean Text: '콘스탄챠는 라비아타를 찾기 위한 수색조를 부탁한다.'
+#: MapStage[Ch04Stage01B].StageDesc
+msgid "コンスタンツァはラビアタを探すための捜索チームを依頼する。"
+msgstr ""
+
+#  Korean Text: '세력 재건'
+#: MapStage[Ch04Stage01B].StageName
+msgid "勢力再建"
+msgstr ""
+
+#  Korean Text: '연결에 성공한 라비아타는 자신의 뒤를 끊어줄 것을 부탁한다.'
+#: MapStage[Ch04Stage01Ex].StageDesc
+msgid "接続に成功したラビアタは自分の後を切ってくれと頼む。"
+msgstr ""
+
+#  Korean Text: '승리의 단서'
+#: MapStage[Ch04Stage01Ex].StageName
+msgid "勝利の糸口"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 트릭스터가 사라진 지하수로로의 진입을 결정한다.'
+#: MapStage[Ch04Stage02].StageDesc
+msgid "バイオロイド達はトリックスターが消えた地下水路へ足を進める。"
+msgstr ""
+
+#  Korean Text: '지하수로'
+#: MapStage[Ch04Stage02].StageName
+msgid "地下水路"
+msgstr ""
+
+#  Korean Text: '새로 합류한 바닐라는 라비아타를 찾을 단서를 주고 그녀의 수색을 부탁한다.'
+#: MapStage[Ch04Stage02B].StageDesc
+msgid "新たに合流したバニラは、ラビアタを探す手掛かりを渡し彼女の捜索を依頼する。"
+msgstr ""
+
+#  Korean Text: '라비아타의 행보'
+#: MapStage[Ch04Stage02B].StageName
+msgid "ラビアタの歩み"
+msgstr ""
+
+#  Korean Text: '갑자기 라비아타의 통신이 끊기고 콘스탄챠는 그곳을 수색하기 위해 나선다.'
+#: MapStage[Ch04Stage02Ex].StageDesc
+msgid "突然ラビアタの通信が途絶えたため、コンスタンツァはその捜索へ赴く。"
+msgstr ""
+
+#  Korean Text: '사라진 그녀'
+#: MapStage[Ch04Stage02Ex].StageName
+msgid "消えた少女"
+msgstr ""
+
+#  Korean Text: '패스파인더의 신호를 받기 위한 신호기를 설치하기 위해 바이오로이드들은 내부로 향한다.'
+#: MapStage[Ch04Stage03].StageDesc
+msgid "パスファインダーの信号を受けるための受信機を設置するため、バイオロイド達は内部に向かう。"
+msgstr ""
+
+#  Korean Text: '탐사 드론 신호기'
+#: MapStage[Ch04Stage03].StageName
+msgid "探索ドローン信号機"
+msgstr ""
+
+#  Korean Text: 'LRL은 라비아타를 찾을 새로운 단서를 제시하고 바이오로이드들은 그곳으로 향한다.'
+#: MapStage[Ch04Stage03B].StageDesc
+msgid "ＬＲＬはラビアタを探す新たな手掛かりを示し、バイオロイド達はそこへ向かうことにした。"
+msgstr ""
+
+#  Korean Text: '두 번째 굴'
+#: MapStage[Ch04Stage03B].StageName
+msgid "ふたつめの洞窟"
+msgstr ""
+
+#  Korean Text: '마리는 철로와 지하 수로의 안전을 위해 대공포의 설치를 건의한다.'
+#: MapStage[Ch04Stage03Ex].StageDesc
+msgid "マリーは鉄道と地下水路の安全のため対空砲の設置を提案する。"
+msgstr ""
+
+#  Korean Text: '대공포 설치'
+#: MapStage[Ch04Stage03Ex].StageName
+msgid "対空砲設置"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 패스파인더 출진을 위해 드론 기지를 위협하는 철충을 요격한다.'
+#: MapStage[Ch04Stage04].StageDesc
+msgid "バイオロイド達はパスファインダーの出陣のため、ドローン基地を脅かす鉄虫を迎撃する。"
+msgstr ""
+
+#  Korean Text: '차단 해소'
+#: MapStage[Ch04Stage04].StageName
+msgid "ブロック解消"
+msgstr ""
+
+#  Korean Text: '콘스탄챠는 열차의 안전을 위해 호위대의 편성을 건의한다.'
+#: MapStage[Ch04Stage04Ex].StageDesc
+msgid "コンスタンツァは列車の安全のため護衛隊の編成を提案する。"
+msgstr ""
+
+#  Korean Text: '열차 강도'
+#: MapStage[Ch04Stage04Ex].StageName
+msgid "列車強盗"
+msgstr ""
+
+#  Korean Text: '패스파인더 드론의 안전한 이동을 위해 바이오로이드들은 철충을 청소한다.'
+#: MapStage[Ch04Stage05].StageDesc
+msgid "パスファインダーのドローンの安全な移動のため、バイオロイド達は鉄虫を駆逐する。"
+msgstr ""
+
+#  Korean Text: '안전 수송'
+#: MapStage[Ch04Stage05].StageName
+msgid "安全輸送"
+msgstr ""
+
+#  Korean Text: '숨겨진 층계를 찾은 바이오로이드들은 그곳을 확인하기 위해 움직인다.'
+#: MapStage[Ch04Stage06].StageDesc
+msgid "隠された階層を見つけたバイオロイド達は探索を開始する。"
+msgstr ""
+
+#  Korean Text: '숨겨진 층계'
+#: MapStage[Ch04Stage06].StageName
+msgid "隠された階層"
+msgstr ""
+
+#  Korean Text: '포츈은 통신을 재개할 방법을 바이오로이드들에게 내놓는다.'
+#: MapStage[Ch04Stage06B].StageDesc
+msgid "フォーチュンは通信を再開する方法をバイオロイド達に教える。"
+msgstr ""
+
+#  Korean Text: '통신 재개'
+#: MapStage[Ch04Stage06B].StageName
+msgid "通信再開"
+msgstr ""
+
+#  Korean Text: '잠긴 문 앞에서 돌아선 바이오로이드들은 다시 트릭스터를 쫓기 위해 움직인다.'
+#: MapStage[Ch04Stage07].StageDesc
+msgid "閉ざされた門の前から撤退したバイオロイド達は、再びトリックスターを追うため動く。"
+msgstr ""
+
+#  Korean Text: '지하 특급'
+#: MapStage[Ch04Stage07].StageName
+msgid "地下特急"
+msgstr ""
+
+#  Korean Text: '철로 위에서 바이오로이드들은 습격을 받는다.'
+#: MapStage[Ch04Stage08].StageDesc
+msgid "バイオロイド達は鉄道の上から襲撃を受ける。"
+msgstr ""
+
+#  Korean Text: '철길 위에서'
+#: MapStage[Ch04Stage08].StageName
+msgid "鉄道の上で"
+msgstr ""
+
+#  Korean Text: '건너편 역사에 도착한 바이오로이드들은 미지의 장소에 대한 수색에 나선다.'
+#: MapStage[Ch05Stage01].StageDesc
+msgid "向こう側の駅舎に到着したバイオロイド達は未知の場所についての捜索を開始する。"
+msgstr ""
+
+#  Korean Text: '역사 건너편'
+#: MapStage[Ch05Stage01].StageName
+msgid "駅舎の向こう側"
+msgstr ""
+
+#  Korean Text: '갑작스럽게 우리를 공격하는 AI를 물리치기 위해 에이다는 적 AI와의 첩촉을 제안한다.'
+#: MapStage[Ch05Stage02].StageDesc
+msgid "我々を攻撃してくるAIを倒すため、エイダーは敵のAIとの接触を提案する。"
+msgstr ""
+
+#  Korean Text: '적이 된 로봇'
+#: MapStage[Ch05Stage02].StageName
+msgid "敵となったロボット"
+msgstr ""
+
+#  Korean Text: '에이다는 철충의 부품을 이용해 AGS 로봇을 수리할 것을 건의한다.'
+#: MapStage[Ch05Stage02B].StageDesc
+msgid "エイダーは鉄虫の部品を利用しAGSロボットを修理する事を提案する。"
+msgstr ""
+
+#  Korean Text: '호환 부품'
+#: MapStage[Ch05Stage02B].StageName
+msgid "互換部品"
+msgstr "Compatible Parts"
+
+#  Korean Text: '포츈은 서버 해킹을 위해 서버실에 통신 연결을 부탁 한다.'
+#: MapStage[Ch05Stage03].StageDesc
+msgid "フォーチュンはサーバーハッキングのためサーバー室に通信接続を依頼する。"
+msgstr ""
+
+#  Korean Text: '1번 서버 구역'
+#: MapStage[Ch05Stage03].StageName
+msgid "1番サーバー区域"
+msgstr ""
+
+#  Korean Text: 'LRL은 자신만의 글을 쓸 도구를 찾기 위해 서버실에서 퍼스널 컴퓨터를 구해다 달라고 요청한다.'
+#: MapStage[Ch05Stage03B].StageDesc
+msgid "ＬＲＬは自分だけの文字を書く道具を探すためサーバー室でパーソナルコンピューターを探してくれと要請する。"
+msgstr ""
+
+#  Korean Text: '퍼스널 컴퓨터'
+#: MapStage[Ch05Stage03B].StageName
+msgid "パーソナルコンピューター"
+msgstr "Personal Computers"
+
+#  Korean Text: '서버를 부수고 도주한 트릭스터를 유인하기 위해 바이오로이드들은 또 다른 서버를 찾는다.'
+#: MapStage[Ch05Stage04].StageDesc
+msgid "サーバーを壊し逃走したトリックスターを誘引するため、バイオロイド達はまた他のサーバーを探す。"
+msgstr ""
+
+#  Korean Text: '옆 길 데이터'
+#: MapStage[Ch05Stage04].StageName
+msgid "横道のデータ"
+msgstr ""
+
+#  Korean Text: '원활한 해킹을 위해 콘스탄챠는 새로운 전문가를 영입하려 움직인다.'
+#: MapStage[Ch05Stage05].StageDesc
+msgid "円滑なハッキングのためコンスタンツァは新たな専門家をスカウトしようと動く。"
+msgstr ""
+
+#  Korean Text: '전문가가 필요해!'
+#: MapStage[Ch05Stage05].StageName
+msgid "専門家が必要!"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 사고가 난 전문가를 구하기 위해 움직인다.'
+#: MapStage[Ch05Stage06].StageDesc
+msgid "バイオロイド達は鉄虫に襲われた情報戦の専門家を探すため動く。"
+msgstr ""
+
+#  Korean Text: '스카디'
+#: MapStage[Ch05Stage06].StageName
+msgid "スカディー"
+msgstr "Scathy"
+
+#  Korean Text: 'LRL은 컴퓨터 전문가가 되기 위해서 서적을 구한다.'
+#: MapStage[Ch05Stage06B].StageDesc
+msgid "ＬＲＬはコンピューター専門家になるための文献を求める。"
+msgstr ""
+
+#  Korean Text: '전문가가 되고 싶어!'
+#: MapStage[Ch05Stage06B].StageName
+msgid "専門家になりたい！"
+msgstr "I Wanna be a Professional!"
+
+#  Korean Text: '구해온 전문가 스카디는 언더와쳐를 해킹하기 위해 움직인다.'
+#: MapStage[Ch05Stage07].StageDesc
+msgid "捜索対象だった専門家スカディーは、アンダーウォッチャーをハッキングするため動く。"
+msgstr ""
+
+#  Korean Text: '해킹 시작'
+#: MapStage[Ch05Stage07].StageName
+msgid "ハッキング開始"
+msgstr ""
+
+#  Korean Text: 'LRL은 컴퓨터 전문가가 되기 위해서 스카디에게 배움을 요청한다.'
+#: MapStage[Ch05Stage07B].StageDesc
+msgid "ＬＲＬはコンピューター専門家になるため、スカディーに教えを乞う。"
+msgstr ""
+
+#  Korean Text: '너무나 어려운 길'
+#: MapStage[Ch05Stage07B].StageName
+msgid "険しい道のり"
+msgstr ""
+
+#  Korean Text: '가장 강력한 무기를 봉인한 언더와쳐를 처치하기 위해 바이오로이드들은 심연으로 향한다.'
+#: MapStage[Ch05Stage08].StageDesc
+msgid "一番強力な武器を封印したアンダーウォッチャーを始末するため、バイオロイド達は深淵へと向かう。"
+msgstr ""
+
+#  Korean Text: '깊고 깊은 감시자'
+#: MapStage[Ch05Stage08].StageName
+msgid "深淵の監視者"
+msgstr ""
+
+#  Korean Text: '스카디와 콘스탄챠는 가상현실 접속기의 정보를 찾는다.'
+#: MapStage[Ch06Stage01].StageDesc
+msgid "スカディーとコンスタンツァは仮想現実の接続器の情報を探す。"
+msgstr ""
+
+#  Korean Text: '봉인된 연구실'
+#: MapStage[Ch06Stage01].StageName
+msgid "封印された研究室"
+msgstr "Sealed Laboratory"
+
+#  Korean Text: '둠 브링어 팀은 백업을 위해 가상 현실 공간으로 향한다.'
+#: MapStage[Ch06Stage01B].StageDesc
+msgid "ドゥームブリンガーチームはバックアップのため仮想現実空間に向かう。"
+msgstr ""
+
+#  Korean Text: '남자들이란…'
+#: MapStage[Ch06Stage01B].StageName
+msgid "男って…"
+msgstr ""
+
+#  Korean Text: '바이오로이드들은 금고라 불리는 유산을 찾기 위해 가상 현실 공간으로 향한다.'
+#: MapStage[Ch06Stage02].StageDesc
+msgid "バイオロイド達は金庫と呼ばれる遺産を探すため仮想現実空間に向かう。"
+msgstr ""
+
+#  Korean Text: '아미나 존스의 마지막 금고'
+#: MapStage[Ch06Stage02].StageName
+msgid "アミーナジョーンズの最後の金庫"
+msgstr ""
+
+#  Korean Text: '둠 브링어 팀은 적을 포착하기 위해 가상 현실 공간으로 향한다.'
+#: MapStage[Ch06Stage02B].StageDesc
+msgid "ドゥームブリンガーチームは敵を捕獲するため仮想現実空間に向かう。"
+msgstr ""
+
+#  Korean Text: '누군가의 테스트'
+#: MapStage[Ch06Stage02B].StageName
+msgid "誰かのテスト"
+msgstr ""
+
+#  Korean Text: '일행은 트릭스터의 흔적을 찾아 연구소로 향한다.'
+#: MapStage[Ch06Stage03].StageDesc
+msgid "一行はトリックスターの痕跡を求め研究所に向かう。"
+msgstr ""
+
+#  Korean Text: '얼음 무덤'
+#: MapStage[Ch06Stage03].StageName
+msgid "氷の墓"
+msgstr "Frozen Tomb"
+
+#  Korean Text: '라비아타가 남긴 흔적을 따라 일행은 가상현실 공간을 수색한다.'
+#: MapStage[Ch06Stage04].StageDesc
+msgid "ラビアタが残した痕跡に沿って一行は仮想現実空間を捜索する。"
+msgstr ""
+
+#  Korean Text: '에바의 기억 : 첫 번째'
+#: MapStage[Ch06Stage04].StageName
+msgid "エヴァの記憶：始まり"
+msgstr ""
+
+#  Korean Text: '일행은 에바 존스의 데이터를 수집하기 위해 출발한다.'
+#: MapStage[Ch06Stage05].StageDesc
+msgid "一行はエヴァジョーンズのデータを収集するため出発する。"
+msgstr ""
+
+#  Korean Text: '에바의 기억 : 아미나'
+#: MapStage[Ch06Stage05].StageName
+msgid "エヴァの記憶：アミーナ"
+msgstr ""
+
+#  Korean Text: '메이는 최선의 방법을 찾기위해 고민한다.'
+#: MapStage[Ch06Stage05B].StageDesc
+msgid "メイは最善の方法を見つけるために頭を悩ます。"
+msgstr ""
+
+#  Korean Text: '그림자'
+#: MapStage[Ch06Stage05B].StageName
+msgid "影"
+msgstr ""
+
+#  Korean Text: '콘스탄챠는 라비아타를 만나기 위해 출발한다.'
+#: MapStage[Ch06Stage06].StageDesc
+msgid "コンスタンツァはラビアタに会うため出発する。"
+msgstr ""
+
+#  Korean Text: '에바의 기억 : 인간의 창조'
+#: MapStage[Ch06Stage06].StageName
+msgid "エヴァの記憶：人間の創造"
+msgstr ""
+
+#  Korean Text: '둠 브링어 팀은 위험이 될 요소를 제거하기 위해 가상 현실 공간으로 향한다.'
+#: MapStage[Ch06Stage06B].StageDesc
+msgid "ドゥームブリンガーチームは危険要素を除去するため仮想現実空間に向かう。"
+msgstr ""
+
+#  Korean Text: '근접위험통보'
+#: MapStage[Ch06Stage06B].StageName
+msgid "近接危険通報"
+msgstr ""
+
+#  Korean Text: '라비아타와 콘스탄챠는 오르카로 향한다.'
+#: MapStage[Ch06Stage07].StageDesc
+msgid "ラビアタとコンスタンツァはオルカに向かう。"
+msgstr ""
+
+#  Korean Text: '라비아타의 은신처'
+#: MapStage[Ch06Stage07].StageName
+msgid "ラビアタの隠れ家"
+msgstr ""
+
+#  Korean Text: '라비아타와 콘스탄챠는 또 다른 가능성을 찾아 출발한다.'
+#: MapStage[Ch06Stage08].StageDesc
+msgid "ラビアタとコンスタンツァは他の可能性を探し再度出発する。"
+msgstr ""
+
+#  Korean Text: '새로운 육체'
+#: MapStage[Ch06Stage08].StageName
+msgid "新しい肉体"
+msgstr ""
+
+#  Korean Text: '프로텍터 키를 구하기 위해 일행은 오메가 공업 공장으로 향한다.'
+#: MapStage[ChCS-01Stage01].StageDesc
+msgid "プロテクターキーを入手するため、一行はオメガ工業工場に向かう。"
+msgstr ""
+
+#  Korean Text: '오메가 공업 공장'
+#: MapStage[ChCS-01Stage01].StageName
+msgid "オメガ工業工場"
+msgstr ""
+
+#  Korean Text: '콘스탄챠의 모듈을 구하기 위해 일행은 BD 모듈 22번 공장으로 향한다.'
+#: MapStage[ChCS-01Stage02].StageDesc
+msgid "コンスタンツァのモジュールを入手するため、一行はBDモジュール22番工場に向かう。"
+msgstr ""
+
+#  Korean Text: 'BD 모듈 제 22 공장'
+#: MapStage[ChCS-01Stage02].StageName
+msgid "BDモジュール、第22工場"
+msgstr ""
+
+#  Korean Text: '소완은 소풍을 방해하는 벌레들을 처리하기 위해 나선다.'
+#: MapStage[ChCS-02Stage01].StageDesc
+msgid "ソワンはピクニックの邪魔をする虫を退治しに行く。"
+msgstr ""
+
+#  Korean Text: '도시락 속의 전쟁'
+#: MapStage[ChCS-02Stage01].StageName
+msgid "お弁当の中の戦争"
+msgstr ""
+
+#  Korean Text: '설명'
+#: MapStage[ChCS-02Stage02].StageDesc
+msgid "説明"
+msgstr "Description"
+
+#  Korean Text: '토모 이야기 II'
+#: MapStage[ChCS-02Stage02].StageName
+msgid "トモ物語II"
+msgstr "Tomo's Tale II"
+
+#  Korean Text: '리제 이야기 I'
+#: MapStage[ChCS-03Stage01].StageName
+msgid "リーゼ物語I"
+msgstr "Lise's Tale I"
+
+#  Korean Text: '리제 이야기 II'
+#: MapStage[ChCS-03Stage02].StageName
+msgid "リーゼ物語II"
+msgstr "Lise's Tale II"
+
+#  Korean Text: '이프리트 이야기 I'
+#: MapStage[ChCS-04Stage01].StageName
+msgid "イフリート物語I"
+msgstr "Efreeti's Tale I"
+
+#  Korean Text: '이프리트 이야기 II'
+#: MapStage[ChCS-04Stage02].StageName
+msgid "イフリート物語II"
+msgstr "Efreeti's Tale II"
+
+#  Korean Text: '초급 모의 전투 훈련 스테이지'
+#: MapStage[ChDailyStage01].StageDesc
+msgid "初級摸擬戦闘訓練ステージ"
+msgstr "Beginner Combat Simulation Stage"
+
+#  Korean Text: '초급 모의 전투 훈련'
+#: MapStage[ChDailyStage01].StageName
+msgid "初級摸擬戦闘訓練"
+msgstr "Beginner Combat Simulation"
+
+#  Korean Text: '중급 모의 전투 훈련 스테이지'
+#: MapStage[ChDailyStage02].StageDesc
+msgid "中級摸擬戦闘訓練ステージ"
+msgstr "Intermediate Combat Simulation Stage"
+
+#  Korean Text: '중급 모의 전투 훈련'
+#: MapStage[ChDailyStage02].StageName
+msgid "中級摸擬戦闘訓練"
+msgstr "Intermediate Combat Simulation"
+
+#  Korean Text: '상급 모의 전투 훈련 스테이지'
+#: MapStage[ChDailyStage03].StageDesc
+msgid "上級摸擬戦闘訓練ステージ"
+msgstr "Advanced Combat Simulation Stage"
+
+#  Korean Text: '상급 모의 전투 훈련'
+#: MapStage[ChDailyStage03].StageName
+msgid "上級摸擬戦闘訓練"
+msgstr "Advanced Combat Simulation"
+
+#  Korean Text: '최상급 모의 전투 훈련 스테이지'
+#: MapStage[ChDailyStage04].StageDesc
+msgid "最上級摸擬戦闘訓練ステージ"
+msgstr "Expert Combat Simulation Stage"
+
+#  Korean Text: '최상급 모의 전투 훈련'
+#: MapStage[ChDailyStage04].StageName
+msgid "最上級摸擬戦闘訓練"
+msgstr "Expert Combat Simulation"
+
+#  Korean Text: '초급 기능 강화 훈련 스테이지'
+#: MapStage[ChDailyStage05].StageDesc
+msgid "初級スキル訓練ステージ"
+msgstr "Beginner Enhancement Training Stage"
+
+#  Korean Text: '초급 기능 강화 훈련'
+#: MapStage[ChDailyStage05].StageName
+msgid "初級機能訓練"
+msgstr "Beginner Enhancement Training"
+
+#  Korean Text: '중급 기능 강화 훈련 스테이지'
+#: MapStage[ChDailyStage06].StageDesc
+msgid "中級スキル訓練ステージ"
+msgstr "Intermediate Enhancement Training Stage"
+
+#  Korean Text: '중급 기능 강화 훈련'
+#: MapStage[ChDailyStage06].StageName
+msgid "中級機能訓練"
+msgstr "Intermediate Enhancement Training"
+
+#  Korean Text: '상급 기능 강화 훈련 스테이지'
+#: MapStage[ChDailyStage07].StageDesc
+msgid "上級スキル訓練ステージ"
+msgstr "Advanced Enhancement Training Stage"
+
+#  Korean Text: '상급 기능 강화 훈련'
+#: MapStage[ChDailyStage07].StageName
+msgid "上級機能訓練"
+msgstr "Advanced Enhancement Training"
+
+#  Korean Text: '최상급 기능 강화 훈련 스테이지'
+#: MapStage[ChDailyStage08].StageDesc
+msgid "最上級スキル訓練ステージ"
+msgstr "Expert Enhancement Training Stage"
+
+#  Korean Text: '최상급 기능 강화 훈련'
+#: MapStage[ChDailyStage08].StageName
+msgid "最上級機能訓練"
+msgstr "Expert Enhancement Training"
+
+#  Korean Text: '초급 기능 훈련 스테이지 (중장)'
+#: MapStage[ChDailyStage09].StageDesc
+msgid "初級機能訓練ステージ（重装）"
+msgstr "Beginner Skill Training Stage (Heavy)"
+
+#  Korean Text: '초급 기능 훈련 (중장)'
+#: MapStage[ChDailyStage09].StageName
+msgid "初級能力訓練(重装)"
+msgstr "Beginner Skill Training (Heavy)"
+
+#  Korean Text: '중급 기능 훈련 스테이지 (중장)'
+#: MapStage[ChDailyStage10].StageDesc
+msgid "中級機能訓練ステージ（重装）"
+msgstr "Intermediate Skill Training Stage (Heavy)"
+
+#  Korean Text: '중급 기능 훈련 (중장)'
+#: MapStage[ChDailyStage10].StageName
+msgid "中級能力訓練(重装)"
+msgstr "Intermediate Skill Training (Heavy)"
+
+#  Korean Text: '상급 기능 훈련 스테이지 (중장)'
+#: MapStage[ChDailyStage11].StageDesc
+msgid "上級機能訓練ステージ（重装）"
+msgstr "Advanced Skill Training Stage (Heavy)"
+
+#  Korean Text: '상급 기능 훈련 (중장)'
+#: MapStage[ChDailyStage11].StageName
+msgid "上級能力訓練(重装)"
+msgstr "Advanced Skill Training (Heavy)"
+
+#  Korean Text: '최상급 기능 훈련 스테이지 (중장)'
+#: MapStage[ChDailyStage12].StageDesc
+msgid "最上級機能訓練ステージ（重装）"
+msgstr "Expert Skill Training Stage (Heavy)"
+
+#  Korean Text: '최상급 기능 훈련 (중장)'
+#: MapStage[ChDailyStage12].StageName
+msgid "最上級能力訓練(重装)"
+msgstr "Expert Skill Training (Heavy)"
+
+#  Korean Text: '없음'
+#: MapStage[ChDailyStage13].DefeatDesc1
+msgid "なし"
+msgstr "No Item"
+
+#  Korean Text: '초급 모듈 훈련 스테이지'
+#: MapStage[ChDailyStage13].StageDesc
+msgid "初級モジュール訓練ステージ"
+msgstr "Beginner Module Training Stage"
+
+#  Korean Text: '초급 모듈 훈련'
+#: MapStage[ChDailyStage13].StageName
+msgid "初級モジュール訓練"
+msgstr "Beginner Module Training"
+
+#  Korean Text: '중급 모듈 훈련 스테이지'
+#: MapStage[ChDailyStage14].StageDesc
+msgid "中級モジュール訓練ステージ"
+msgstr "Intermediate Module Training Stage"
+
+#  Korean Text: '중급 모듈 훈련'
+#: MapStage[ChDailyStage14].StageName
+msgid "中級モジュール訓練"
+msgstr "Intermediate Module Training"
+
+#  Korean Text: '상급 모듈 훈련 스테이지'
+#: MapStage[ChDailyStage15].StageDesc
+msgid "上級モジュール訓練ステージ"
+msgstr "Advanced Module Training Stage"
+
+#  Korean Text: '상급 모듈 훈련'
+#: MapStage[ChDailyStage15].StageName
+msgid "上級モジュール訓練"
+msgstr "Advanced Module Training"
+
+#  Korean Text: '최상급 모듈 훈련 스테이지'
+#: MapStage[ChDailyStage16].StageDesc
+msgid "最上級モジュール訓練ステージ"
+msgstr "Expert ModuleTraining Stage"
+
+#  Korean Text: '최상급 모듈 훈련'
+#: MapStage[ChDailyStage16].StageName
+msgid "最上級モジュール訓練"
+msgstr "Expert Module Training"
+
+#  Korean Text: '초급 기능 훈련 스테이지 (기동)'
+#: MapStage[ChDailyStage17].StageDesc
+msgid "初級機能訓練ステージ（機動）"
+msgstr "Beginner Skill Training Stage (Flying)"
+
+#  Korean Text: '초급 기능 훈련 (기동)'
+#: MapStage[ChDailyStage17].StageName
+msgid "初級能力訓練(機動)"
+msgstr "Beginner Skill Training (Flying)"
+
+#  Korean Text: '중급 기능 훈련 스테이지 (기동)'
+#: MapStage[ChDailyStage18].StageDesc
+msgid "中級機能訓練ステージ（機動）"
+msgstr "Intermediate Skill Training Stage (Flying)"
+
+#  Korean Text: '중급 기능 훈련 (기동)'
+#: MapStage[ChDailyStage18].StageName
+msgid "中級能力訓練(機動)"
+msgstr "Intermediate Skill Training (Flying)"
+
+#  Korean Text: '상급 기능 훈련 스테이지 (기동)'
+#: MapStage[ChDailyStage19].StageDesc
+msgid "上級機能訓練ステージ（機動）"
+msgstr "Advanced Skill Training Stage (Flying)"
+
+#  Korean Text: '상급 기능 훈련 (기동)'
+#: MapStage[ChDailyStage19].StageName
+msgid "上級能力訓練(機動)"
+msgstr "Advanced Skill Training (Flying)"
+
+#  Korean Text: '최상급 기능 훈련 스테이지 (기동)'
+#: MapStage[ChDailyStage20].StageDesc
+msgid "最上級機能訓練ステージ（機動）"
+msgstr "Expert Skill Training Stage (Flying)"
+
+#  Korean Text: '최상급 기능 훈련 (기동)'
+#: MapStage[ChDailyStage20].StageName
+msgid "最上級能力訓練(機動)"
+msgstr "Expert Skill Training (Flying)"
+
+#  Korean Text: '초급 기능 훈련 스테이지 (경장)'
+#: MapStage[ChDailyStage21].StageDesc
+msgid "初級機能訓練ステージ（軽装）"
+msgstr "Beginner Skill Training Stage (Light)"
+
+#  Korean Text: '초급 기능 훈련 (경장)'
+#: MapStage[ChDailyStage21].StageName
+msgid "初級能力訓練(軽装)"
+msgstr "Beginner Skill Training (Light)"
+
+#  Korean Text: '중급 기능 훈련 스테이지 (경장)'
+#: MapStage[ChDailyStage22].StageDesc
+msgid "中級機能訓練ステージ（軽装）"
+msgstr "Intermediate Skill Training Stage (Light)"
+
+#  Korean Text: '중급 기능 훈련 (경장)'
+#: MapStage[ChDailyStage22].StageName
+msgid "中級能力訓練(軽装)"
+msgstr "Intermediate Skill Training (Light)"
+
+#  Korean Text: '상급 기능 훈련 스테이지 (경장)'
+#: MapStage[ChDailyStage23].StageDesc
+msgid "上級機能訓練ステージ（軽装）"
+msgstr "Advanced Skill Training Stage (Light)"
+
+#  Korean Text: '상급 기능 훈련 (경장)'
+#: MapStage[ChDailyStage23].StageName
+msgid "上級能力訓練(軽装)"
+msgstr "Advanced Skill Training (Light)"
+
+#  Korean Text: '최상급 기능 훈련 스테이지 (경장)'
+#: MapStage[ChDailyStage24].StageDesc
+msgid "最上級機能訓練ステージ（軽装）"
+msgstr "Expert Skill Training Stage (Light)"
+
+#  Korean Text: '최상급 기능 훈련 (경장)'
+#: MapStage[ChDailyStage24].StageName
+msgid "最上級能力訓練(軽装)"
+msgstr "Expert Skill Training (Light)"

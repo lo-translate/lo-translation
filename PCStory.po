@@ -1,0 +1,378 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '콘스탄챠 호감도 80 이상'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_1].DgStartTriggerString1
+msgid "コンスタンツァ好感度80以上"
+msgstr ""
+
+#  Korean Text: '콘스탄챠가 뭔가 할 말이 있는 듯 하다.'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_1].StoryFileDesc
+msgid "コンスタンツァが何か言いたいことがあるようだ。"
+msgstr ""
+
+#  Korean Text: '안경이 좋아?'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_1].StoryFileName
+msgid "眼鏡が好き？"
+msgstr ""
+
+#  Korean Text: 'BD 모듈 제 15 공장 이야기 파일 완료'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_4].DgStartTriggerString1
+msgid "BDモジュール第15工場のストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '콘스탄챠가 걱정이 있는 듯 하다.'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_4].StoryFileDesc
+msgid "コンスタンツァに何か心配事があるようだ。"
+msgstr ""
+
+#  Korean Text: '콘스탄챠의 마음'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_4].StoryFileName
+msgid "コンスタンツァの気持ち"
+msgstr ""
+
+#  Korean Text: 'BD 모듈 제 22 공장 스테이지 클리어'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_6].DgStartTriggerString1
+msgid "BDモジュール第22工場ステージクリア"
+msgstr ""
+
+#  Korean Text: '콘스탄챠와 대화하자.'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_6].StoryFileDesc
+msgid "コンスタンツァと会話しよう。"
+msgstr ""
+
+#  Korean Text: '안경이 어울리나요?'
+#: PCStory[Story_3P_ConstantiaS2_1_3P_ConstantiaS2_6].StoryFileName
+msgid "眼鏡は似合っていますか？"
+msgstr ""
+
+#  Korean Text: '안경이 좋아? 이야기 파일 완료'
+#: PCStory[Story_3P_ConstantiaS2_1_BR_Amy_2].DgStartTriggerString1
+msgid "眼鏡が好き？ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '에이미가 면담 요청을 했다.'
+#: PCStory[Story_3P_ConstantiaS2_1_BR_Amy_2].StoryFileDesc
+msgid "エイミーが面談を要請してきた。"
+msgstr ""
+
+#  Korean Text: '에이미의 걱정'
+#: PCStory[Story_3P_ConstantiaS2_1_BR_Amy_2].StoryFileName
+msgid "エイミーの心配"
+msgstr ""
+
+#  Korean Text: '에이미의 걱정 이야기 파일 완료'
+#: PCStory[Story_3P_ConstantiaS2_1_BR_Amy_3].DgStartTriggerString1
+msgid "エイミーの心配事ファイル完了"
+msgstr ""
+
+#  Korean Text: '디스플레이를 구하기 위해 에이미가 출격한다.'
+#: PCStory[Story_3P_ConstantiaS2_1_BR_Amy_3].StoryFileDesc
+msgid "ディスプレイを入手するためエイミーが出撃する。"
+msgstr ""
+
+#  Korean Text: 'BD 모듈 제 15 공장'
+#: PCStory[Story_3P_ConstantiaS2_1_BR_Amy_3].StoryFileName
+msgid "BDモジュール第１５工場"
+msgstr ""
+
+#  Korean Text: '콘스탄챠의 마음 이야기 파일 완료'
+#: PCStory[Story_3P_ConstantiaS2_1_PECS_LRL_5].DgStartTriggerString1
+msgid "コンスタンツァの心のストーリファイル完了"
+msgstr ""
+
+#  Korean Text: 'LRL이 디스플레이 모듈을 구할 방법을 찾은 듯 하다.'
+#: PCStory[Story_3P_ConstantiaS2_1_PECS_LRL_5].StoryFileDesc
+msgid "LRLがディスプレイモジュールを手に入れる方法を見つけたようだ。"
+msgstr ""
+
+#  Korean Text: 'BD 모듈 제 22 공장'
+#: PCStory[Story_3P_ConstantiaS2_1_PECS_LRL_5].StoryFileName
+msgid "BDモジュール、第22工場"
+msgstr ""
+
+#  Korean Text: '소완 호감도 80 이상'
+#: PCStory[Story_3P_Sowan_5_3P_BlackLilith_1].DgStartTriggerString1
+msgid "ソワン好感度80以上"
+msgstr ""
+
+#  Korean Text: '램파트의 마음 이야기 파일 완료'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_2].DgStartTriggerString1
+msgid "ランパートの心ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '램파트와 면담하자.'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_2].StoryFileDesc
+msgid "ランパートと面談をしよう。"
+msgstr ""
+
+#  Korean Text: '램파트의 고민'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_2].StoryFileName
+msgid "ランパートの悩み"
+msgstr ""
+
+#  Korean Text: '램파트의 과거 이야기 파일 완료'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_5].DgStartTriggerString1
+msgid "ランパートの過去ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '일행은 프로텍트 키를 구하기 위해 오메가 공업 공장으로 향한다.'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_5].StoryFileDesc
+msgid "一行はプロテクトキーを探しにオメガ工業工場に向かう。"
+msgstr ""
+
+#  Korean Text: '오메가 공업 공장'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_5].StoryFileName
+msgid "オメガ工業工場"
+msgstr ""
+
+#  Korean Text: '오메가 공업 공장 스테이지 클리어'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_6].DgStartTriggerString1
+msgid "オメガ工業の工場ステージクリア"
+msgstr ""
+
+#  Korean Text: '전투병기로 거듭난 램파트를 맞이하자.'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_6].StoryFileDesc
+msgid "戦闘兵器として生まれ変わったランパートを迎えよう。"
+msgstr ""
+
+#  Korean Text: '새 술은 새 부대에'
+#: PCStory[Story_AGS_Rampart_2_AGS_Rampart_6].StoryFileName
+msgid "新しい酒は新しい部隊に。"
+msgstr ""
+
+#  Korean Text: 'Lv. 25 이상 램파트 보유'
+#: PCStory[Story_AGS_Rampart_2_PECS_Fortune_1].DgStartTriggerString1
+msgid "Lv. 25以上のランパートを保有"
+msgstr ""
+
+#  Korean Text: '포츈이 뭔가 할 말이 있는 듯 하다.'
+#: PCStory[Story_AGS_Rampart_2_PECS_Fortune_1].StoryFileDesc
+msgid "フォーチュンが何か言いたいことがあるようだ。"
+msgstr ""
+
+#  Korean Text: '램파트의 마음'
+#: PCStory[Story_AGS_Rampart_2_PECS_Fortune_1].StoryFileName
+msgid "ランパートの心"
+msgstr ""
+
+#  Korean Text: '램파트의 기억 이야기 파일 완료'
+#: PCStory[Story_AGS_Rampart_2_PECS_Fortune_4].DgStartTriggerString1
+msgid "ランパートの思い出ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '포츈과 펍 헤드가 할 말이 있는 듯 하다.'
+#: PCStory[Story_AGS_Rampart_2_PECS_Fortune_4].StoryFileDesc
+msgid "フォーチュンとポップヘッドが何か言いたいことがあるようだ。"
+msgstr ""
+
+#  Korean Text: '램파트의 과거'
+#: PCStory[Story_AGS_Rampart_2_PECS_Fortune_4].StoryFileName
+msgid "ランパートの過去"
+msgstr ""
+
+#  Korean Text: '램파트의 고민 이야기 파일 완료'
+#: PCStory[Story_AGS_Rampart_2_PECS_PuppHead_3].DgStartTriggerString1
+msgid "ランパートの悩みストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '램파트와 펍 헤드의 대화.'
+#: PCStory[Story_AGS_Rampart_2_PECS_PuppHead_3].StoryFileDesc
+msgid "ランパートとポップヘッドの対話。"
+msgstr ""
+
+#  Korean Text: '램파트의 기억'
+#: PCStory[Story_AGS_Rampart_2_PECS_PuppHead_3].StoryFileName
+msgid "ランパートの思い出"
+msgstr ""
+
+#  Korean Text: '자존심 이야기 파일 완료'
+#: PCStory[Story_BR_PA00EL_4_BR_Blackhound_6].DgStartTriggerString1
+msgid "プライドストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '마침내 오르카에 도착한 그리폰 일행은 휴식을 취한다. (업적 보상으로 전용 스킨을 획득할 수 있습니다.)'
+#: PCStory[Story_BR_PA00EL_4_BR_Blackhound_6].StoryFileDesc
+msgid "ついにオルカに到着したグリフォン一行は休息をとる。（業績報酬として専用スキンを獲得できます。）"
+msgstr ""
+
+#  Korean Text: '난 실수하지 않았어'
+#: PCStory[Story_BR_PA00EL_4_BR_Blackhound_6].StoryFileName
+msgid "私は失敗なんてしない"
+msgstr ""
+
+#  Korean Text: '오래된 전투 복장 이야기 파일 완료'
+#: PCStory[Story_BR_PA00EL_4_BR_NightAngel_3].DgStartTriggerString1
+msgid "古びた戦闘服ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '두 명의 바이오로이드는 빠른 속도로 친해져 간다.'
+#: PCStory[Story_BR_PA00EL_4_BR_NightAngel_3].StoryFileDesc
+msgid "二人のバイオロイドはすぐ仲良くなる。"
+msgstr ""
+
+#  Korean Text: '파트너'
+#: PCStory[Story_BR_PA00EL_4_BR_NightAngel_3].StoryFileName
+msgid "パートナー"
+msgstr ""
+
+#  Korean Text: '그리폰 호감도 80 이상'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_1].DgStartTriggerString1
+msgid "グリフォン好感度80以上"
+msgstr ""
+
+#  Korean Text: '그리폰은 임무 복귀 중 달갑지 않은 새로운 임무를 맡게 된다.'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_1].StoryFileDesc
+msgid "グリフォンは任務からの復帰中、嬉しくない別の任務を受けることになる。"
+msgstr ""
+
+#  Korean Text: '번거로운 일'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_1].StoryFileName
+msgid "厄介な事"
+msgstr ""
+
+#  Korean Text: '번거로운 일 이야기 파일 완료'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_2].DgStartTriggerString1
+msgid "厄介なことストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '대기 중인 그리폰에게 새로운 소식이 전달된다.'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_2].StoryFileDesc
+msgid "待機中のグリフォンに新しい知らせが伝えられる。"
+msgstr ""
+
+#  Korean Text: '오래된 전투 복장'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_2].StoryFileName
+msgid "古びた戦闘服"
+msgstr ""
+
+#  Korean Text: '파트너 이야기 파일 완료'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_4].DgStartTriggerString1
+msgid "パートナーストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '신호를 따라온 일행은 단서를 찾는다.'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_4].StoryFileDesc
+msgid "信号を受け、ついてきた一行は手がかりを探し回る。"
+msgstr ""
+
+#  Korean Text: '마지막 신호'
+#: PCStory[Story_BR_PA00EL_4_BR_PA00EL_4].StoryFileName
+msgid "最後の信号"
+msgstr ""
+
+#  Korean Text: '마지막 신호 이야기 파일 완료'
+#: PCStory[Story_BR_PA00EL_4_BR_Undine_5].DgStartTriggerString1
+msgid "最後の信号ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '구조팀은 목표를 찾는데 성공한다.'
+#: PCStory[Story_BR_PA00EL_4_BR_Undine_5].StoryFileDesc
+msgid "救助チームは目標を探すことに成功する。"
+msgstr ""
+
+#  Korean Text: '자존심'
+#: PCStory[Story_BR_PA00EL_4_BR_Undine_5].StoryFileName
+msgid "プライド"
+msgstr ""
+
+#  Korean Text: '교과서 이야기 파일 완료'
+#: PCStory[Story_BR_Tomoe_3_3P_Alexandra_5].DgStartTriggerString1
+msgid "教科書ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '오르카의 제일 가는 참 교육자가 등장한다.'
+#: PCStory[Story_BR_Tomoe_3_3P_Alexandra_5].StoryFileDesc
+msgid "オルカいちの真の教育者が登場する。"
+msgstr ""
+
+#  Korean Text: '참 교육자'
+#: PCStory[Story_BR_Tomoe_3_3P_Alexandra_5].StoryFileName
+msgid "真の教育者"
+msgstr ""
+
+#  Korean Text: '분노는 창천을 울린다 이야기 파일 완료'
+#: PCStory[Story_BR_Tomoe_3_3P_ConstantiaS2_3].DgStartTriggerString1
+msgid "怒りは蒼天を響かせるストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '콘스탄챠는 오르카 내의 교육에 관심을 가진다.'
+#: PCStory[Story_BR_Tomoe_3_3P_ConstantiaS2_3].StoryFileDesc
+msgid "コンスタンツァはオルカ内の教育に関心がある。"
+msgstr ""
+
+#  Korean Text: '교과서 찾기'
+#: PCStory[Story_BR_Tomoe_3_3P_ConstantiaS2_3].StoryFileName
+msgid "教科書探し"
+msgstr ""
+
+#  Korean Text: '토모 호감도 60 이상'
+#: PCStory[Story_BR_Tomoe_3_BR_Tomoe_1].DgStartTriggerString1
+msgid "トモ好感度60以上"
+msgstr ""
+
+#  Korean Text: '토모와 스틸 드라코의 대화는 LRL을 혼란에 빠트린다.'
+#: PCStory[Story_BR_Tomoe_3_BR_Tomoe_1].StoryFileDesc
+msgid "トモとスチールドラコの会話はLRLを混乱に陥れる。"
+msgstr ""
+
+#  Korean Text: '어떤 대화'
+#: PCStory[Story_BR_Tomoe_3_BR_Tomoe_1].StoryFileName
+msgid "とある会話"
+msgstr ""
+
+#  Korean Text: '참 교육자 이야기 파일 완료'
+#: PCStory[Story_BR_Tomoe_3_BR_Tomoe_6].DgStartTriggerString1
+msgid "真の教育者ストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: '토모는 배움의 기쁨으로 전율한다. (업적 보상으로 전용 스킨을 획득할 수 있습니다.)'
+#: PCStory[Story_BR_Tomoe_3_BR_Tomoe_6].StoryFileDesc
+msgid "トモは学びの喜びで戦慄する。（業績報酬として専用スキンを獲得できます。）"
+msgstr ""
+
+#  Korean Text: '배움의 기쁨'
+#: PCStory[Story_BR_Tomoe_3_BR_Tomoe_6].StoryFileName
+msgid "学びの楽しさ"
+msgstr ""
+
+#  Korean Text: '어떤 대화 이야기 파일 완료'
+#: PCStory[Story_BR_Tomoe_3_PECS_LRL_2].DgStartTriggerString1
+msgid "とあるストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: 'LRL은 콘스탄챠에게 하소연한다.'
+#: PCStory[Story_BR_Tomoe_3_PECS_LRL_2].StoryFileDesc
+msgid "LRLはコンスタンツァに愚痴をこぼす。"
+msgstr ""
+
+#  Korean Text: '분노는 창천을 울린다'
+#: PCStory[Story_BR_Tomoe_3_PECS_LRL_2].StoryFileName
+msgid "怒りは蒼天を響かせる"
+msgstr ""
+
+#  Korean Text: '교과서 찾기 이야기 파일 완료'
+#: PCStory[Story_BR_Tomoe_3_PECS_LRL_4].DgStartTriggerString1
+msgid "教科書探しストーリーファイル完了"
+msgstr ""
+
+#  Korean Text: 'LRL은 교과서를 들고 오르카로 복귀한다.'
+#: PCStory[Story_BR_Tomoe_3_PECS_LRL_4].StoryFileDesc
+msgid "LRLは教科書を持ってオルカに復帰する。"
+msgstr ""
+
+#  Korean Text: '교과서'
+#: PCStory[Story_BR_Tomoe_3_PECS_LRL_4].StoryFileName
+msgid "教科書"
+msgstr ""

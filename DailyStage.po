@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '훈련 상세'
+#: DailyStage[DailyTraining_Ability_Training_1].Daily_MainDesc
+msgid "訓練詳細"
+msgstr "Training Details"
+
+#  Korean Text: '능력 강화 (중장형)'
+#: DailyStage[DailyTraining_Ability_Training_1].Daily_MainName
+msgid "能力強化(重装型)"
+msgstr "Capability Enhancement (Heavy)"
+
+#  Korean Text: '다양한 적과의 교전을 기록해 전투원 강화 전용 중장형 모듈과 장비 강화 모듈을 제작합니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
+#: DailyStage[DailyTraining_Ability_Training_1].DailySubDesc_1
+msgid "様々な敵との交戦を記録するほか、戦闘員の強化専用の重装型モジュールと装備強化モジュールを製作します。&n各報酬は訓練完了後に獲得できます。"
+msgstr ""
+"Record a battle with a variety of enemies to create Heavy Modules and "
+"Equipment Enhancement Modules.&nRewards can only be obtained by completing "
+"the training."
+
+#  Korean Text: '초급'
+#: DailyStage[DailyTraining_Ability_Training_1].DailySubName_1
+msgid "初級"
+msgstr "Beginner"
+
+#  Korean Text: '중급'
+#: DailyStage[DailyTraining_Ability_Training_1].DailySubName_2
+msgid "中級"
+msgstr "Intermediate"
+
+#  Korean Text: '상급'
+#: DailyStage[DailyTraining_Ability_Training_1].DailySubName_3
+msgid "上級"
+msgstr "Advanced"
+
+#  Korean Text: '최상급'
+#: DailyStage[DailyTraining_Ability_Training_1].DailySubName_4
+msgid "最上級"
+msgstr "Expert"
+
+#  Korean Text: '능력 강화 (기동형)'
+#: DailyStage[DailyTraining_Ability_Training_2].Daily_MainName
+msgid "能力強化(機動型)"
+msgstr "Capability Enhancement (Flying)"
+
+#  Korean Text: '다양한 적과의 교전을 기록해 전투원 강화 전용 기동형 모듈과 장비 강화 모듈을 제작합니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
+#: DailyStage[DailyTraining_Ability_Training_2].DailySubDesc_1
+msgid "様々な敵との交戦を記録し、戦闘員強化専用の機動型モジュールと装備強化モジュールを製作します。&n各報酬は訓練完了後に獲得できます。"
+msgstr ""
+"Record a battle with a variety of enemies to create Flying Modules and "
+"Equipment Enhancement Modules.&nRewards can only be obtained by completing "
+"the training."
+
+#  Korean Text: '능력 강화 (경장형)'
+#: DailyStage[DailyTraining_Ability_Training_3].Daily_MainName
+msgid "能力強化(軽装型)"
+msgstr "Capability Enhancement (Light)"
+
+#  Korean Text: '다양한 적과의 교전을 기록해 전투원 강화 전용 경장형 모듈과 장비 강화 모듈을 제작합니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
+#: DailyStage[DailyTraining_Ability_Training_3].DailySubDesc_1
+msgid "様々な敵との交戦を記録し、戦闘員強化専用の軽装型モジュールと装備強化モジュールを製作します。&n各報酬は訓練完了後に獲得できます。"
+msgstr ""
+"Record a battle with a variety of enemies to create Light Modules and "
+"Equipment Enhancement Modules.&nRewards can only be obtained by completing "
+"the training."
+
+#  Korean Text: '모의 전투'
+#: DailyStage[DailyTraining_Battle_Training_1].Daily_MainName
+msgid "模擬戦闘"
+msgstr "Battle Simulation"
+
+#  Korean Text: '임의의 적 부대와 모의 전투 훈련을 수행합니다.&n전투원 경험치와 스킬 경험치를 얻을 수 있으며, 전투 일지와 훈련 교본을 획득할 수 있습니다.'
+#: DailyStage[DailyTraining_Battle_Training_1].DailySubDesc_1
+msgid "任意の敵部隊と模擬戦闘訓練を遂行します。&n戦闘員の経験値を多く獲得でき、完了時、戦闘日誌を獲得します。"
+msgstr ""
+"Perform mock combat drills with random enemy units&nYou'll get Combat XP and "
+"Skill XP, and you'll get Battle Logs and Training Manuals."
+
+#  Korean Text: '기능 강화'
+#: DailyStage[DailyTraining_Skill_Training_1].Daily_MainName
+msgid "機能強化"
+msgstr "Functional Enhancement"
+
+#  Korean Text: '상급 철충 상대로 모의 훈련을 수행합니다.&n기능 강화용 데이터를 얻기 위한 훈련으로, 오리진 더스트를 얻을 수 있습니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
+#: DailyStage[DailyTraining_Skill_Training_1].DailySubDesc_1
+msgid ""
+"上級鉄虫を相手に模擬訓練を遂行します。&n機能強化用データを獲得するのが目的であり、訓練教本を獲得できます。&n各報酬は訓練完了後に獲得できます。"
+msgstr ""
+"Perform mock drills against advanced Iron Parasites.&nAs an exercise to "
+"obtain data for enhancing capabilities, you can obtain Origin Dust.&nRewards "
+"can only be obtained by completing the training."

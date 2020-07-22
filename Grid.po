@@ -1,0 +1,413 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '교차약폭발'
+#: Grid[Grid_25e25e100e25e25].GridName
+msgid "クロス弱爆発"
+msgstr ""
+
+#  Korean Text: '교차중폭발'
+#: Grid[Grid_50e50e100e50e50].GridName
+msgid "クロス中爆発"
+msgstr ""
+
+#  Korean Text: '교차강폭발'
+#: Grid[Grid_75e75e100e75e75].GridName
+msgid "クロス強爆発"
+msgstr ""
+
+#  Korean Text: '교차일반'
+#: Grid[Grid_100e100e100e100e100].GridName
+msgid "クロス一般"
+msgstr ""
+
+#  Korean Text: '지그재그일반'
+#: Grid[Grid_100e100e100eeee].GridName
+msgid "ジグザグ一般"
+msgstr ""
+
+#  Korean Text: '익스실드인접'
+#: Grid[Grid_100e100100100100100100100].GridName
+msgid "エクスシールド隣接"
+msgstr ""
+
+#  Korean Text: '전열일반'
+#: Grid[Grid_100ee100ee100ee].GridName
+msgid "前列一般"
+msgstr ""
+
+#  Korean Text: '부채꼴역방향'
+#: Grid[Grid_100ee100100e100ee].GridName
+msgid "扇形逆方向"
+msgstr ""
+
+#  Korean Text: '후열제외'
+#: Grid[Grid_100eeeee100ee].GridName
+msgid "後列除外"
+msgstr ""
+
+#  Korean Text: '전열고정'
+#: Grid[Grid_100100e100ee100100e].GridName
+msgid "前列固定"
+msgstr ""
+
+#  Korean Text: '부채꼴방사형'
+#: Grid[Grid_100100e100100100100100e].GridName
+msgid "扇形放射型"
+msgstr ""
+
+#  Korean Text: '상행약감쇄'
+#: Grid[Grid_1005025eeeeee].GridName
+msgid "上行弱減衰"
+msgstr ""
+
+#  Korean Text: '상행강감쇄'
+#: Grid[Grid_1007550eeeeee].GridName
+msgid "上行強減衰"
+msgstr ""
+
+#  Korean Text: '2행일반'
+#: Grid[Grid_100100100eee100100100].GridName
+msgid "2列一般"
+msgstr ""
+
+#  Korean Text: '상행일반'
+#: Grid[Grid_100100100eeeeee].GridName
+msgid "上行一般"
+msgstr ""
+
+#  Korean Text: '전체기폭'
+#: Grid[Grid_11111001111].GridName
+msgid "全体起爆"
+msgstr ""
+
+#  Korean Text: '전체인접'
+#: Grid[Grid_100100100100e100100100100].GridName
+msgid "全体隣接"
+msgstr ""
+
+#  Korean Text: '전체앞제외'
+#: Grid[Grid_100100100100ee100100100].GridName
+msgid "全体前除外"
+msgstr ""
+
+#  Korean Text: '언더왓쳐일반'
+#: Grid[Grid_100100100100100e100100100].GridName
+msgid "アンダーウォッチャー一般"
+msgstr ""
+
+#  Korean Text: '익스롱인접'
+#: Grid[Grid_100100100100100100100e100].GridName
+msgid "エクスロング隣接"
+msgstr ""
+
+#  Korean Text: '전체일반'
+#: Grid[Grid_100100100100100100100100100].GridName
+msgid "全体一般"
+msgstr ""
+
+#  Korean Text: '언더왓쳐전체'
+#: Grid[Grid_100100100100100100100100100UW].GridName
+msgid "アンダーウォッチャー全体"
+msgstr ""
+
+#  Korean Text: '전체약약폭발'
+#: Grid[Grid_1010101010010101010].GridName
+msgid "全体弱弱爆発"
+msgstr ""
+
+#  Korean Text: '전체약원폭발'
+#: Grid[Grid_2525252510025252525].GridName
+msgid "全体弱円爆発"
+msgstr ""
+
+#  Korean Text: '전체중폭발'
+#: Grid[Grid_2550255010050255050].GridName
+msgid "全体中爆発"
+msgstr ""
+
+#  Korean Text: '전체중원폭발'
+#: Grid[Grid_5050505010050505050].GridName
+msgid "全体円爆発"
+msgstr ""
+
+#  Korean Text: '전체강폭발'
+#: Grid[Grid_5075507510075507550].GridName
+msgid "全体強爆発"
+msgstr ""
+
+#  Korean Text: '전체강원폭발'
+#: Grid[Grid_7575757510075757575].GridName
+msgid "全体強円爆発"
+msgstr ""
+
+#  Korean Text: '십자약약폭발'
+#: Grid[Grid_e10e1010010e10e].GridName
+msgid "十字弱弱爆発"
+msgstr ""
+
+#  Korean Text: '십자약폭발'
+#: Grid[Grid_e25e2510025e25e].GridName
+msgid "十字弱爆発"
+msgstr ""
+
+#  Korean Text: '중열약폭발'
+#: Grid[Grid_e25ee100ee25e].GridName
+msgid "中列弱爆発"
+msgstr ""
+
+#  Korean Text: '십자중폭발'
+#: Grid[Grid_e50e5010050e50e].GridName
+msgid "十字中爆発"
+msgstr ""
+
+#  Korean Text: '중열중폭발'
+#: Grid[Grid_e50ee100ee50e].GridName
+msgid "中列爆発"
+msgstr ""
+
+#  Korean Text: '십자강폭발'
+#: Grid[Grid_e75e7510075e75e].GridName
+msgid "十字強爆発"
+msgstr ""
+
+#  Korean Text: '중열강폭발'
+#: Grid[Grid_e75ee100ee75e].GridName
+msgid "中列強爆発"
+msgstr ""
+
+#  Korean Text: '인접그리드'
+#: Grid[Grid_e100e100e100e100e].GridName
+msgid "隣接グリッド"
+msgstr ""
+
+#  Korean Text: '인접앞제외'
+#: Grid[Grid_e100e100eee100e].GridName
+msgid "隣接前除外"
+msgstr ""
+
+#  Korean Text: '부채꼴제외'
+#: Grid[Grid_e100e100eee100eEx].GridName
+msgid "扇形除外"
+msgstr ""
+
+#  Korean Text: '중열후방'
+#: Grid[Grid_e100e100100ee100e].GridName
+msgid "中列後方"
+msgstr ""
+
+#  Korean Text: '십자일반'
+#: Grid[Grid_e100e100100100e100e].GridName
+msgid "十字一般"
+msgstr ""
+
+#  Korean Text: '중열일반'
+#: Grid[Grid_e100ee100ee100e].GridName
+msgid "中列一般"
+msgstr ""
+
+#  Korean Text: '중열하단'
+#: Grid[Grid_e100ee100eeee].GridName
+msgid "中列下段"
+msgstr ""
+
+#  Korean Text: '중열제외'
+#: Grid[Grid_e100ee100eeeeM2].GridName
+msgid "中列除外"
+msgstr ""
+
+#  Korean Text: '부채꼴역제외'
+#: Grid[Grid_e100eee100e100e].GridName
+msgid "扇形逆除外"
+msgstr ""
+
+#  Korean Text: '인접열'
+#: Grid[Grid_e100eeeee100e].GridName
+msgid "隣接列"
+msgstr ""
+
+#  Korean Text: '단일좌측'
+#: Grid[Grid_e100eeeeeee].GridName
+msgid "単一左側"
+msgstr ""
+
+#  Korean Text: '중열후열'
+#: Grid[Grid_e100100e100100e100100].GridName
+msgid "中列後列"
+msgstr ""
+
+#  Korean Text: '후열고정'
+#: Grid[Grid_e100100ee100e100100].GridName
+msgid "後列固定"
+msgstr ""
+
+#  Korean Text: '2행제외'
+#: Grid[Grid_e100100eeee100100].GridName
+msgid "2列除外"
+msgstr ""
+
+#  Korean Text: '부채꼴역방사형'
+#: Grid[Grid_e100100100100100e100100].GridName
+msgid "扇形逆放射型"
+msgstr ""
+
+#  Korean Text: '부채꼴중폭발'
+#: Grid[Grid_ee50e10050ee50].GridName
+msgid "扇形中爆発"
+msgstr ""
+
+#  Korean Text: '부채꼴강폭발'
+#: Grid[Grid_ee75e10075ee75].GridName
+msgid "扇形強爆発"
+msgstr ""
+
+#  Korean Text: '부채꼴확산'
+#: Grid[Grid_ee100e100eee100].GridName
+msgid "扇形拡散"
+msgstr ""
+
+#  Korean Text: '부채꼴일반'
+#: Grid[Grid_ee100e100100ee100].GridName
+msgid "扇形一般"
+msgstr ""
+
+#  Korean Text: '후열일반'
+#: Grid[Grid_ee100ee100ee100].GridName
+msgid "後列一般"
+msgstr ""
+
+#  Korean Text: '전열인접'
+#: Grid[Grid_ee100ee100ee100B].GridName
+msgid "前列隣接"
+msgstr ""
+
+#  Korean Text: '후열앞제외'
+#: Grid[Grid_ee100eeeee100].GridName
+msgid "後列前除外"
+msgstr ""
+
+#  Korean Text: '중행인접'
+#: Grid[Grid_eee100e100eee].GridName
+msgid "中列隣接"
+msgstr ""
+
+#  Korean Text: '뒷칸'
+#: Grid[Grid_eee100eeeee].GridName
+msgid "後方"
+msgstr ""
+
+#  Korean Text: '한칸앞약폭발'
+#: Grid[Grid_eee25100eeee].GridName
+msgid "1マス前弱爆発"
+msgstr ""
+
+#  Korean Text: '한칸앞중폭발'
+#: Grid[Grid_eee50100eeee].GridName
+msgid "1マス前中爆発"
+msgstr ""
+
+#  Korean Text: '한칸앞강폭발'
+#: Grid[Grid_eee75100eeee].GridName
+msgid "1マス前強爆発"
+msgstr ""
+
+#  Korean Text: '한칸앞일반'
+#: Grid[Grid_eee100100eeee].GridName
+msgid "1マス前一般"
+msgstr ""
+
+#  Korean Text: '중행약감쇄'
+#: Grid[Grid_eee1005025eee].GridName
+msgid "中行弱減衰"
+msgstr ""
+
+#  Korean Text: '중행강감쇄'
+#: Grid[Grid_eee1007550eee].GridName
+msgid "中行強減衰"
+msgstr ""
+
+#  Korean Text: '중행중폭발'
+#: Grid[Grid_eee5010050eee].GridName
+msgid "中行中爆発"
+msgstr ""
+
+#  Korean Text: '중행고정'
+#: Grid[Grid_eee100100100eeeF].GridName
+msgid "中列固定"
+msgstr ""
+
+#  Korean Text: '중행일반몹'
+#: Grid[Grid_eee100100100eeeM].GridName
+msgid "中列一般モンスター"
+msgstr ""
+
+#  Korean Text: '중열상단'
+#: Grid[Grid_eeee100ee100e].GridName
+msgid "中列上段"
+msgstr ""
+
+#  Korean Text: '단일'
+#: Grid[Grid_eeee100eeee].GridName
+msgid "単一"
+msgstr ""
+
+#  Korean Text: '한칸뒤약폭발'
+#: Grid[Grid_eeee10025eee].GridName
+msgid "1マス後方弱爆発"
+msgstr ""
+
+#  Korean Text: '한칸뒤중폭발'
+#: Grid[Grid_eeee10050eee].GridName
+msgid "1マス後方中爆発"
+msgstr ""
+
+#  Korean Text: '한칸뒤강폭발'
+#: Grid[Grid_eeee10075eee].GridName
+msgid "1マス後方強爆発"
+msgstr ""
+
+#  Korean Text: '한칸뒤일반'
+#: Grid[Grid_eeee100100eee].GridName
+msgid "1マス後方一般"
+msgstr ""
+
+#  Korean Text: '단일앞'
+#: Grid[Grid_eeeee100eee].GridName
+msgid "単一前"
+msgstr ""
+
+#  Korean Text: '하행약감쇄'
+#: Grid[Grid_eeeeee1005025].GridName
+msgid "下行弱減衰"
+msgstr ""
+
+#  Korean Text: '하행강감쇄'
+#: Grid[Grid_eeeeee1007550].GridName
+msgid "下行強減衰"
+msgstr ""
+
+#  Korean Text: '하행일반'
+#: Grid[Grid_eeeeee100100100].GridName
+msgid "下行一般"
+msgstr ""
+
+#  Korean Text: '단일우측'
+#: Grid[Grid_eeeeeee100e].GridName
+msgid "単一右側"
+msgstr ""
+
+#  Korean Text: '전체고정'
+#: Grid[Grid_F_100100100100100100100100100].GridName
+msgid "全体固定"
+msgstr ""

@@ -1,0 +1,514 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '램파트로 센츄리온을 처치 후 클리어'
+#: MissionObject[Mission_Kill_Cent_By_Rampart].Mission_ObjectString
+msgid "ランパートでセンチュリーオンを倒した後クリア"
+msgstr "Clear after eliminating Centurion with Rampart"
+
+#  Korean Text: '폴른으로 풀아머 빅 칙 처치 후 클리어'
+#: MissionObject[Mission_Kill_FABC_By_Fallen].Mission_ObjectString
+msgid "フォールンでフルアーマービックチックを倒した後クリア"
+msgstr "Clear after eliminating the Full-Armored Big Chick with Fallen"
+
+#  Korean Text: '램파트로 풀아머 빅 칙을 처치 후 클리어'
+#: MissionObject[Mission_Kill_FABigChicnk_By_Rampart].Mission_ObjectString
+msgid "ラムパートでフルアーマービックチックを退治してクリア"
+msgstr "Clear after eliminating Full Armor Big Chick with Rampart"
+
+#  Korean Text: 'CS페로로 트릭스터를 처치 후 클리어'
+#: MissionObject[Mission_Kill_Kidnapper_By_Perrault].Mission_ObjectString
+msgid "CSペロでトリックスターを倒した後クリア"
+msgstr "Clear after eliminating Trickster with CS Perrault"
+
+#  Korean Text: 'LRL로 스토커를 처치 후 클리어'
+#: MissionObject[Mission_Kill_MP_Stalker_By_Char_PECS_LRL_N].Mission_ObjectString
+msgid "ＬＲＬでストーカーを倒した後クリア"
+msgstr "Clear after eliminating Stalker with LRL"
+
+#  Korean Text: '3기 이상의 적을 동시에 처치한 상태로 클리어'
+#: MissionObject[Mission_KillMonster3_By_ONESKILL].Mission_ObjectString
+msgid "３機以上の敵を同時に倒した状態でクリア"
+msgstr "Clear after killing 3 enemies simultaneously"
+
+#  Korean Text: '그리폰의 전탄 방출로 3기 이상의 적을 처치 후 클리어'
+#: MissionObject[Mission_KillMonster3_By_Skill_BR_PA00EL_N_2].Mission_ObjectString
+msgid "グリフォンの全弾放出で３機以上の敵を倒した後クリア"
+msgstr "Clear after eliminating 3 more enemies with Griffon's Bomb Strike"
+
+#  Korean Text: '4기 이상의 적을 동시에 처치한 상태로 클리어'
+#: MissionObject[Mission_KillMonster4_By_ONESKILL].Mission_ObjectString
+msgid "４機以上の敵を同時に倒した状態でクリア"
+msgstr "Clear after killing 4 enemies simultaneously"
+
+#  Korean Text: '5기 이상의 적을 동시에 처치한 상태로 클리어'
+#: MissionObject[Mission_KillMonster5_By_ONESKILL].Mission_ObjectString
+msgid "５機以上の敵を同時に倒した状態でクリア"
+msgstr "Clear after killing 5 enemies simultaneously"
+
+#  Korean Text: '스테이지 클리어'
+#: MissionObject[Mission_StageClear].Mission_ObjectString
+msgid "ステージクリア"
+msgstr "Stage Clear"
+
+#  Korean Text: '바이오로이드를 2기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_AndroidLess2].Mission_ObjectString
+msgid "バイオロイドを２機以下で編成してクリア"
+msgstr "Clear while sending 2 or fewer Bioroids"
+
+#  Korean Text: '바이오로이드를 2기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_AndroidMore2].Mission_ObjectString
+msgid "バイオロイドを２機以上編成してクリア"
+msgstr "Clear while sending 2 or more Bioroids"
+
+#  Korean Text: '중장형을 편성하지 않고 클리어'
+#: MissionObject[Mission_StageClear_ARMOREDLess0].Mission_ObjectString
+msgid "重装型を編成せずにクリア"
+msgstr "Clear without sending a heavy unit"
+
+#  Korean Text: '중장형을 1기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_ARMOREDLess1].Mission_ObjectString
+msgid "重装型を１機以下で編成してクリア"
+msgstr "Clear while sending 1 or fewer heavy units"
+
+#  Korean Text: '중장형을 2기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_ARMOREDLess2].Mission_ObjectString
+msgid "重装型を２機以下で編成してクリア"
+msgstr "Clear while sending 2 or fewer heavy units"
+
+#  Korean Text: '중장형을 2기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_ARMOREDMore2].Mission_ObjectString
+msgid "重装型を２機以上編成してクリア"
+msgstr "Clear while sending 2 or more heavy units"
+
+#  Korean Text: '중장형을 5기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_ARMOREDMore5].Mission_ObjectString
+msgid "重装型を５機以上編成してクリア"
+msgstr "Clear while sending 5 or more heavy units"
+
+#  Korean Text: '피격 횟수 없이 클리어'
+#: MissionObject[Mission_StageClear_Beatenless0].Mission_ObjectString
+msgid "被撃回数無しでクリア"
+msgstr "Clear without taking a hit"
+
+#  Korean Text: '피격 횟수 1번 이하로 클리어'
+#: MissionObject[Mission_StageClear_Beatenless1].Mission_ObjectString
+msgid "被撃回数１回以下でクリア"
+msgstr "Clear taking fewer than 1 hits"
+
+#  Korean Text: '피격 횟수 3번 이하로 클리어'
+#: MissionObject[Mission_StageClear_Beatenless3].Mission_ObjectString
+msgid "被撃回数３回以下でクリア"
+msgstr "Clear taking fewer than 3 hits"
+
+#  Korean Text: '피격 횟수 5번 이하로 클리어'
+#: MissionObject[Mission_StageClear_Beatenless5].Mission_ObjectString
+msgid "被撃回数５回以下でクリア"
+msgstr "Clear taking fewer than 5 hits"
+
+#  Korean Text: '피격 횟수 10번 이하로 클리어'
+#: MissionObject[Mission_StageClear_Beatenless10].Mission_ObjectString
+msgid "被撃回数１０回以下でクリア"
+msgstr "Clear taking fewer than 10 hits"
+
+#  Korean Text: '피격 횟수 15번 이하로 클리어'
+#: MissionObject[Mission_StageClear_Beatenless15].Mission_ObjectString
+msgid "被撃回数１５回以下でクリア"
+msgstr "Clear taking fewer than 15 hits"
+
+#  Korean Text: '전투 불능 캐릭터 없이 클리어'
+#: MissionObject[Mission_StageClear_DeadLess0].Mission_ObjectString
+msgid "戦闘不能戦闘員無しでクリア"
+msgstr "Clear without a unit becoming incapacitated"
+
+#  Korean Text: '전투 불능 캐릭터 1명 이하로 클리어'
+#: MissionObject[Mission_StageClear_DeadLess1].Mission_ObjectString
+msgid "戦闘不能戦闘員1名以下でクリア"
+msgstr "Cleared with 1 or fewer units incapacitated"
+
+#  Korean Text: '9 라운드 내에 스토커를 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill_Stalker_In9Round].Mission_ObjectString
+msgid "９ラウンド以内にストーカーを倒した状態でクリア"
+msgstr "Clear after defeating Stalker within 9 rounds"
+
+#  Korean Text: '2 라운드 내에 적을 2기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill2_In2Round].Mission_ObjectString
+msgid "２ラウンド以内に敵を２機以上倒した状態でクリア"
+msgstr "Clear while defeating 2 enemies within 2 rounds"
+
+#  Korean Text: '1 라운드 내에 적을 3기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill3_In1Round].Mission_ObjectString
+msgid "１ラウンド以内に敵を３機以上倒した状態でクリア"
+msgstr "Clear while defeating 3 enemies within 1 round"
+
+#  Korean Text: '2 라운드 내에 적을 4기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill4_In2Round].Mission_ObjectString
+msgid "２ラウンド以内に敵を４機以上倒した状態でクリア"
+msgstr "Clear while defeating 4 enemies within 2 rounds"
+
+#  Korean Text: '3 라운드 내에 적을 4기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill4_In3Round].Mission_ObjectString
+msgid "３ラウンド以内に敵を４機以上倒した状態でクリア"
+msgstr "Clear while defeating 4 enemies within 3 rounds"
+
+#  Korean Text: '소완으로 한 웨이브에 적을 5기 이상 처치 후 클리어'
+#: MissionObject[Mission_StageClear_Kill5_Char_3P_Sowan_N].Mission_ObjectString
+msgid "ソワンで敵を5基以上処置した後クリア"
+msgstr "Clear after eliminating 5 or more enemies in 1 wave with Sowan"
+
+#  Korean Text: '3 라운드 내에 적을 5기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill5_In3Round].Mission_ObjectString
+msgid "３ラウンド以内に敵を５機以上倒した状態でクリア"
+msgstr "Clear while defeating 5 enemies within 3 rounds"
+
+#  Korean Text: '4 라운드 내에 적을 5기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill5_In4Round].Mission_ObjectString
+msgid "４ラウンド以内に敵を５機以上倒した状態でクリア"
+msgstr "Clear while defeating 5 enemies within 4 rounds"
+
+#  Korean Text: '2 라운드 내에 적을 6기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill6_In2Round].Mission_ObjectString
+msgid "２ラウンド以内に敵を６機以上倒した状態でクリア"
+msgstr "Clear while defeating 6 enemies within 2 rounds"
+
+#  Korean Text: '3 라운드 내에 적을 6기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill6_In3Round].Mission_ObjectString
+msgid "３ラウンド以内に敵を６機以上倒した状態でクリア"
+msgstr "Clear while defeating 6 enemies within 3 rounds"
+
+#  Korean Text: '2 라운드 내에 적을 7기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill7_In2Round].Mission_ObjectString
+msgid "２ラウンド以内に敵を７機以上倒した状態でクリア"
+msgstr "Clear while defeating 7 enemies within 2 rounds"
+
+#  Korean Text: '3 라운드 내에 적을 7기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill7_In3Round].Mission_ObjectString
+msgid "３ラウンド以内に敵を７機以上倒した状態でクリア"
+msgstr "Clear while defeating 7 enemies within 3 rounds"
+
+#  Korean Text: '1 라운드 내에 적을 8기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill8_In1Round].Mission_ObjectString
+msgid "１ラウンド以内に敵を８機以上倒した状態でクリア"
+msgstr "Clear while defeating 8 enemies within 1 round"
+
+#  Korean Text: '10 라운드 내에 적을 12기 이상 처치하고 클리어'
+#: MissionObject[Mission_StageClear_Kill12_In10Round].Mission_ObjectString
+msgid "１０ラウンド以内に敵を１２機以上倒してクリア"
+msgstr "Defeat 12 or more enemies within 10 rounds, and clear."
+
+#  Korean Text: '10 라운드 내에 적을 18기 이상 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_Kill18_In10Round].Mission_ObjectString
+msgid "１０ラウンド以内に敵を１８機以上倒した状態でクリア"
+msgstr "Clear while defeating 18 enemies within 10 rounds"
+
+#  Korean Text: '10 라운드 내에 빅 칙 런쳐를 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_KillBCLauncher_In10Round].Mission_ObjectString
+msgid "１０ラウンド以内にビッグチックランチャーを倒した状態でクリア"
+msgstr "Clear after defeating Big Chick Launcher within 10 rounds"
+
+#  Korean Text: '7 라운드 내에 빅 칙을 처치한 상태로 클리어'
+#: MissionObject[Mission_StageClear_KillBigChick_In7Round].Mission_ObjectString
+msgid "７ラウンド以内にビックチックを倒した状態でクリア"
+msgstr "Clear while defeating Big Chick within 7 rounds"
+
+#  Korean Text: '그리폰이 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_BR_PA00EL].Mission_ObjectString
+msgid "グリフォンが生存したままクリア"
+msgstr "Clear with Griffon alive"
+
+#  Korean Text: '공진의 알렉산드라를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_3P_Alexandra_N].Mission_ObjectString
+msgid "共鳴のアレクサンドラを編成後、彼女が生存したままクリア"
+msgstr "Clear using Resonant Alexandra and having her survive"
+
+#  Korean Text: '블랙 리리스를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_3P_BlackLilith_N].Mission_ObjectString
+msgid "ブラックリリスを編成後、彼女が生存したままでクリア"
+msgstr "Clear using BlackLillith and having her survive"
+
+#  Korean Text: '콘스탄챠 S2를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_3P_ConstantiaS2_N].Mission_ObjectString
+msgid "コンスタンツァS2を編成後、彼女が生きているままでクリア"
+msgstr "Clear using Constantia S2 and having her survive"
+
+#  Korean Text: '다프네를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_3P_Daphne_N].Mission_ObjectString
+msgid "ダフネを編成後、彼女が生存したままクリア"
+msgstr "Clear using Daphne and having her survive"
+
+#  Korean Text: '시저스 리제를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_3P_ScissorsLise_N].Mission_ObjectString
+msgid "シザーズリーゼを編成後、彼女が生存したままクリア"
+msgstr "Clear using Scissors Lise and having her survive"
+
+#  Korean Text: '소완을 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_3P_Sowan_N].Mission_ObjectString
+msgid "ソワンを編成後、彼女がせいぞんしたままでクリア"
+msgstr "Clear using Sowan and having her survive"
+
+#  Korean Text: '램파트를 편성 후, 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_AGS_Rampart_N].Mission_ObjectString
+msgid "ラムパートを編成後、生存したままでクリア"
+msgstr "Clear using Rampart and having her survive"
+
+#  Korean Text: '에이미 레이저를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_BR_Amy_N].Mission_ObjectString
+msgid "エイミーレイザを編成後、彼女が正ぞしている状態でクリア"
+msgstr "Clear using Amy the Razor and having her survive"
+
+#  Korean Text: 'T-2 브라우니를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_BR_Brownie_N].Mission_ObjectString
+msgid "Ｔ２ブラウニーを編成後、彼女が生存したままクリア"
+msgstr "Clear using T-2 Brownie and having her survive"
+
+#  Korean Text: 'M-5 이프리트를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_BR_Efreeti_N].Mission_ObjectString
+msgid "M-5イフリートを編成後、彼女が生存したままクリア"
+msgstr "Clear using M-5 Efreeti and having her survive"
+
+#  Korean Text: 'T-3 레프리콘을 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_BR_Leprechaun_N].Mission_ObjectString
+msgid "T-3レプリコンを編成後、彼女が生存したままクリア"
+msgstr "Clear using T-3 Leprechaun and having her survive"
+
+#  Korean Text: '불굴의 마리를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_BR_Marie_N].Mission_ObjectString
+msgid "不屈のマリーを編成後、彼女が生存したままクリア"
+msgstr "Clear using Indomitable Marie and having her survive"
+
+#  Korean Text: '토모를 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_BR_Tomoe_N].Mission_ObjectString
+msgid "トモを編成後、彼女が生存したままクリア"
+msgstr "Clear using Tomo and having her survive"
+
+#  Korean Text: 'LRL을 편성 후, 그녀가 생존한 채로 클리어'
+#: MissionObject[Mission_StageClear_Live_Char_PECS_LRL_N].Mission_ObjectString
+msgid "ＬＲＬを編成後、彼女が生存したままクリア"
+msgstr "Clear using LRL and having her survive"
+
+#  Korean Text: '기동형을 편성하지 않고 클리어'
+#: MissionObject[Mission_StageClear_MOBILITYLess0].Mission_ObjectString
+msgid "機動型を編成せずにクリア"
+msgstr "Clear without sending flying units"
+
+#  Korean Text: '기동형을 1기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_MOBILITYLess1].Mission_ObjectString
+msgid "機動型を1機以下編成してクリア"
+msgstr "Clear while sending 1 or fewer flying units"
+
+#  Korean Text: '기동형을 2기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_MOBILITYLess2].Mission_ObjectString
+msgid "機動型を２機以下編成してクリア"
+msgstr "Clear while sending 2 or fewer flying units"
+
+#  Korean Text: '기동형을 3기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_MOBILITYMore3].Mission_ObjectString
+msgid "機動型を３機以上編成してクリア"
+msgstr "Clear while sending 3 or more flying units"
+
+#  Korean Text: '기동형을 5기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_MOBILITYMore5].Mission_ObjectString
+msgid "機動型を５機以上編成してクリア"
+msgstr "Clear while sending 5 or more flying units"
+
+#  Korean Text: '프레데터가 부식 용액을 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_No_Skill_MP_Predator_B0208_2].Mission_ObjectString
+msgid "プレデターに腐食溶液を使用させずにクリア"
+msgstr "Clear without letting Predator use its acid"
+
+#  Korean Text: '시작형 빅 칙이 영거리 중 기관포를 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoBigChickExSkill2].Mission_ObjectString
+msgid "試作型ビッグチックに零距離重機関砲を使用させずにクリア"
+msgstr "Clear without having Proto Big Chick use Point-Blank Machine Gun"
+
+#  Korean Text: '빅 칙이 영거리 중 기관총을 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoBigChickSkill2].Mission_ObjectString
+msgid "ビッグチックに零距離機関銃を使用させずにクリア"
+msgstr "Clear without having Big Chick use Point-Blank Machine Gun"
+
+#  Korean Text: '트릭스터가 광란의 학살을 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoChTricksterAttack2].Mission_ObjectString
+msgid "トリックスターに狂乱の虐殺を使用させずにクリア"
+msgstr "Clear without having Trickster use Frenzy Massacre"
+
+#  Korean Text: '하베스터가 폐기물 분쇄를 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoHarvesterAttack].Mission_ObjectString
+msgid "ハーヴェスターに廃棄物粉砕を使用させずにクリア"
+msgstr "Clear without having Harvester use Waste Crush"
+
+#  Korean Text: '하베스터가 폐기물 수거를 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoHarvesterAttack2].Mission_ObjectString
+msgid "ハーヴェスターに廃棄物収集を使用させずにクリア"
+msgstr "Clear without having Harvester use Waste Collection"
+
+#  Korean Text: '헤비 스카우트가 대 장갑 기관포를 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoHScoutAttack1].Mission_ObjectString
+msgid "ヘビースカウトに対装甲機関砲を使用させずにクリア"
+msgstr "Clear without having Heavy Scout use Anti-Armor Machine Gun"
+
+#  Korean Text: '매머드의 직사 포격이 발동한 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoMammothAttack1].Mission_ObjectString
+msgid "マンモスに直射砲撃を使用させずにクリア"
+msgstr "Clear without taking a direct hit from Mammoth"
+
+#  Korean Text: '레이더의 광탄 난사가 발동한 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoRaiderSkill2].Mission_ObjectString
+msgid "レイダーに光弾乱射を使用させずにクリア"
+msgstr "Clear without having Raider use Lightball Barrage"
+
+#  Korean Text: '스카우트가 공격한 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoScoutAttack].Mission_ObjectString
+msgid "スカウトが攻撃することなくクリア"
+msgstr "Clear without having the Scout attack you"
+
+#  Korean Text: '양산형 셀주크가 175mm 직사포를 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoSeljuqAttack1].Mission_ObjectString
+msgid "量産型セルジュークに175mm直射砲を使用させずにクリア"
+msgstr ""
+"Clear without having the enemy Mass-Production Seljuq use 175mm Direct Fire"
+
+#  Korean Text: '칙 스나이퍼가 정조준 저격을 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoSniperChickAttack].Mission_ObjectString
+msgid "チックスナイパーに正照準狙撃を使用させずにクリア"
+msgstr "Clear without having the Sniper Chock use Aimed Shot"
+
+#  Korean Text: '스쿼드를 교체한 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoSquadChange].Mission_ObjectString
+msgid "分隊を交代せずにクリア"
+msgstr "Clear without changing squads"
+
+#  Korean Text: '언더왓쳐의 플라즈마 캐논이 발동한 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoUWMEGACANNON].Mission_ObjectString
+msgid "アンダーウォッチャーにプラズマキャノンを使用させずにクリア"
+msgstr "Clear without having Underwatcher use Plasma Cannon"
+
+#  Korean Text: '재퍼가 전격 방사를 쓴 적 없이 클리어'
+#: MissionObject[Mission_StageClear_NoZapperAttack].Mission_ObjectString
+msgid "ザッパーに電撃放射を使用させずにクリア"
+msgstr "Clear without having Zapper use Lightning Emission"
+
+#  Korean Text: '하나의 스쿼드만 배치해 클리어'
+#: MissionObject[Mission_StageClear_OneSquad].Mission_ObjectString
+msgid "一つの分隊のみ配置してクリア"
+msgstr "Clear with only one squad selected"
+
+#  Korean Text: '로봇을 2기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_RobotLess2].Mission_ObjectString
+msgid "ロボットを２機以下編成してクリア"
+msgstr "Clear while sending 2 or fewer robots"
+
+#  Korean Text: '로봇을 1기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_RobotMore1].Mission_ObjectString
+msgid "ロボットを１機以上編成してクリア"
+msgstr "Clear while sending 1 or more robots"
+
+#  Korean Text: '로봇을 2기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_RobotMore2].Mission_ObjectString
+msgid "ロボットを２機以上編成してクリア"
+msgstr "Clear while sending 2 or more robots"
+
+#  Korean Text: '로봇을 5기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_RobotMore5].Mission_ObjectString
+msgid "ロボットを５機以上編成してクリア"
+msgstr "Clear while sending 5 or more robots"
+
+#  Korean Text: '5 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round5].Mission_ObjectString
+msgid "５ラウンド以内にクリア"
+msgstr "Clear within 5 rounds"
+
+#  Korean Text: '7 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round7].Mission_ObjectString
+msgid "７ラウンド以内にクリア"
+msgstr "Clear within 7 rounds"
+
+#  Korean Text: '8 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round8].Mission_ObjectString
+msgid "８ラウンド以内にクリア"
+msgstr "Clear within 8 rounds"
+
+#  Korean Text: '10 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round10].Mission_ObjectString
+msgid "１０ラウンド以内にクリア"
+msgstr "Clear within 10 rounds"
+
+#  Korean Text: '12 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round12].Mission_ObjectString
+msgid "１２ラウンド以内にクリア"
+msgstr "Clear within 12 rounds"
+
+#  Korean Text: '15 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round15].Mission_ObjectString
+msgid "１５ラウンド以内にクリア"
+msgstr "Clear within 15 rounds"
+
+#  Korean Text: '20 라운드 이내에 클리어'
+#: MissionObject[Mission_StageClear_Round20].Mission_ObjectString
+msgid "２０ラウンド以内にクリア"
+msgstr "Clear within 20 rounds"
+
+#  Korean Text: '두 개 이하의 스쿼드만으로 클리어'
+#: MissionObject[Mission_StageClear_Squad2].Mission_ObjectString
+msgid "二つ以下の分隊だけでクリア"
+msgstr "Clear with no more than two squads"
+
+#  Korean Text: '스쿼드를 2번 이상 교체하고 클리어'
+#: MissionObject[Mission_StageClear_SquadChange2].Mission_ObjectString
+msgid "分隊を２回以上交代してクリア"
+msgstr "Clear after changing squads more than 2 times"
+
+#  Korean Text: '스쿼드 교체 수 1번 이하로 클리어'
+#: MissionObject[Mission_StageClear_SquadChangeLess1].Mission_ObjectString
+msgid "分隊交代数が１回以下でクリア"
+msgstr "Clear while replacing your squad no more than 1 times"
+
+#  Korean Text: '경장형을 편성하지 않고 클리어'
+#: MissionObject[Mission_StageClear_TrooperLess0].Mission_ObjectString
+msgid "軽装型を編成せずにクリア"
+msgstr "Clear without sending any light units"
+
+#  Korean Text: '경장형을 1기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_TrooperLess1].Mission_ObjectString
+msgid "軽装型を1基以下で編成してクリア"
+msgstr "Clear while sending 1 or fewer light units"
+
+#  Korean Text: '경장형을 2기 이하로 편성해 클리어'
+#: MissionObject[Mission_StageClear_TrooperLess2].Mission_ObjectString
+msgid "軽装型を２機以下で編成してクリア"
+msgstr "Clear while sending 2 or fewer light units"
+
+#  Korean Text: '경장형을 2기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_TrooperMore2].Mission_ObjectString
+msgid "軽装型を２機以上編成してクリア"
+msgstr "Clear while sending 2 or more light units"
+
+#  Korean Text: '경장형을 4기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_TrooperMore4].Mission_ObjectString
+msgid "軽装型を４機以上編成してクリア"
+msgstr "Clear while sending 4 or more light units"
+
+#  Korean Text: '경장형을 5기 이상 편성해 클리어'
+#: MissionObject[Mission_StageClear_TrooperMore5].Mission_ObjectString
+msgid "軽装型を５機以上編成してクリア"
+msgstr "Clear while sending 5 or more light units"
+
+#  Korean Text: '그리폰을 스쿼드에 포함해 클리어'
+#: MissionObject[Mission_StageClear_With_BR_PA00EL].Mission_ObjectString
+msgid "グリフォンを分隊に参加させてクリア"
+msgstr "Clear with Griffon in the squad"
+
+#  Korean Text: '램파트를 스쿼드에 포함해 클리어'
+#: MissionObject[Mission_StageClear_With_Char_AGS_Rampart_N].Mission_ObjectString
+msgid "ラムパートを分隊に含めてクリア"
+msgstr "Clear with Rampart in the squad"

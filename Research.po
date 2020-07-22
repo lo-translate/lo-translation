@@ -1,0 +1,797 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '함내 모의 전투 시뮬레이터 설비를 구축합니다.'
+#: Research[Research_AI_Simulator_Lv1].Research_Desc
+msgid "艦内に模擬戦闘シミュレーション設備を構築します。"
+msgstr "Build Combat Simulation facilities in the base."
+
+#  Korean Text: '시뮬레이팅 시스템 I'
+#: Research[Research_AI_Simulator_Lv1].Research_Name
+msgid "シミュレーティングシステムI"
+msgstr "Simulation System I"
+
+#  Korean Text: '일일 훈련 가능'
+#: Research[Research_AI_Simulator_Lv1].Research_ResultDesc
+msgid "デイリー訓練可能"
+msgstr "Makes Daily Training available."
+
+#  Korean Text: '모의 전투 시뮬레이터의 성능 개량을 위한 연구를 진행합니다.'
+#: Research[Research_AI_Simulator_Lv2].Research_Desc
+msgid "模擬戦闘シミュレーターの性能を改良するための研究を行います。"
+msgstr "Research performance improvements to the Combat Simulation system."
+
+#  Korean Text: '시뮬레이팅 시스템 II'
+#: Research[Research_AI_Simulator_Lv2].Research_Name
+msgid "シミュレーティングシステムII"
+msgstr "Simulation System II"
+
+#  Korean Text: '중급 일일 훈련 가능'
+#: Research[Research_AI_Simulator_Lv2].Research_ResultDesc
+msgid "中級デイリー訓練可能"
+msgstr "Intermediate Daily Training available"
+
+#  Korean Text: '시뮬레이팅 시스템 III'
+#: Research[Research_AI_Simulator_Lv3].Research_Name
+msgid "シミュレーティングシステムIII"
+msgstr "Simulation System III"
+
+#  Korean Text: '상급 일일 훈련 가능'
+#: Research[Research_AI_Simulator_Lv3].Research_ResultDesc
+msgid "上級デイリー訓練可能"
+msgstr "Advanced Daily Training available"
+
+#  Korean Text: '시뮬레이팅 시스템 IV'
+#: Research[Research_AI_Simulator_Lv4].Research_Name
+msgid "シミュレーティングシステムIV"
+msgstr "Simulation System IV"
+
+#  Korean Text: '최상급 일일 훈련 가능'
+#: Research[Research_AI_Simulator_Lv4].Research_ResultDesc
+msgid "最上級デイリー訓練可能"
+msgstr "Expert Daily Training available"
+
+#  Korean Text: '함내에 감지용 정밀 레이더 시스템을 구축합니다.'
+#: Research[Research_AIControl].Research_Desc
+msgid "艦内に感知用精密レーダーシステムを構築します。"
+msgstr "Build a precision radar system for detection within the base."
+
+#  Korean Text: '정밀 레이더 시스템'
+#: Research[Research_AIControl].Research_Name
+msgid "精密レーダーシステム"
+msgstr "Precision Radar Systems"
+
+#  Korean Text: '각종 AI 제어가 필요한 시설 및 시스템 연구 진행 가능'
+#: Research[Research_AIControl].Research_ResultDesc
+msgid "各種AI制御が必要な施設およびシステム研究進行可能"
+msgstr ""
+"Permits research on facilities and systems that require various AI control"
+
+#  Korean Text: '자원 탐사 구역에 파견할 운송용 드론 통제 설비를 구축합니다.'
+#: Research[Research_Carriage_Lv1].Research_Desc
+msgid "資源探索区域に派遣する運送用ドローン統制設備を構築します。"
+msgstr ""
+"Establish a drone control facility for transportation to the Exploration "
+"areas."
+
+#  Korean Text: '운송 드론 I'
+#: Research[Research_Carriage_Lv1].Research_Name
+msgid "運送ドローンI"
+msgstr "Transportation Drone I"
+
+#  Korean Text: '자원 탐색 시 획득 자원 5% 증가'
+#: Research[Research_Carriage_Lv1].Research_ResultDesc
+msgid "資源探索時獲得資源5%増加"
+msgstr "5% increase in acquired resources when Exploring."
+
+#  Korean Text: '운송용 드론의 탑재량을 늘리는 연구를 진행합니다.'
+#: Research[Research_Carriage_Lv2].Research_Desc
+msgid "運送用ドローンの積載量を増やす研究を行います。"
+msgstr "Research to increase transport drone payload."
+
+#  Korean Text: '운송 드론 II'
+#: Research[Research_Carriage_Lv2].Research_Name
+msgid "運送ドローンII"
+msgstr "Transportation Drone II"
+
+#  Korean Text: '자원 탐색 시 획득 자원 10% 증가'
+#: Research[Research_Carriage_Lv2].Research_ResultDesc
+msgid "資源探索時獲得資源10%増加"
+msgstr "10% increase in acquired resources when Exploring."
+
+#  Korean Text: '운송 드론 III'
+#: Research[Research_Carriage_Lv3].Research_Name
+msgid "運送ドローンIII"
+msgstr "Transportation Drone III"
+
+#  Korean Text: '자원 탐색 시 획득 자원 15% 증가'
+#: Research[Research_Carriage_Lv3].Research_ResultDesc
+msgid "資源探索時獲得資源15%増加"
+msgstr "15% increase in acquired resources when Exploring."
+
+#  Korean Text: '운송 드론 IV'
+#: Research[Research_Carriage_Lv4].Research_Name
+msgid "運送ドローンIV"
+msgstr "Transportation Drone IV"
+
+#  Korean Text: '자원 탐색 시 획득 자원 20% 증가'
+#: Research[Research_Carriage_Lv4].Research_ResultDesc
+msgid "資源探索時獲得資源20%増加"
+msgstr "20% increase in acquired resources when Exploring."
+
+#  Korean Text: '운송 드론 V'
+#: Research[Research_Carriage_Lv5].Research_Name
+msgid "運送ドローンV"
+msgstr "Transportation Drone V"
+
+#  Korean Text: '자원 탐색 시 획득 자원 25% 증가'
+#: Research[Research_Carriage_Lv5].Research_ResultDesc
+msgid "資源探索時獲得資源25%増加"
+msgstr "25% increase in acquired resources when Exploring."
+
+#  Korean Text: '사령관을 대신해 전투원들에게 명령을 내릴 수 있는 시스템을 구축합니다.'
+#: Research[Research_CommandModule].Research_Desc
+msgid "司令官に代わり戦闘員に命令を下すことができるシステムを構築します。"
+msgstr "Build a system to command your combatants on the Commander's behalf."
+
+#  Korean Text: '지휘 대행 시스템'
+#: Research[Research_CommandModule].Research_Name
+msgid "指揮代行システム"
+msgstr "Command Agency System"
+
+#  Korean Text: '자율 전투 기능 사용 가능'
+#: Research[Research_CommandModule].Research_ResultDesc
+msgid "自律戦闘機能使用可能"
+msgstr "AutoBattle Feature is available"
+
+#  Korean Text: '공방의 분해 시설을 개량하기 위한 연구를 진행합니다.'
+#: Research[Research_Disassemble_Lv1].Research_Desc
+msgid "製作室の分解施設を改良するための研究を行います。"
+msgstr "Research improvements to the disassembly facilities of the workshop."
+
+#  Korean Text: '정밀 분해 시설 I'
+#: Research[Research_Disassemble_Lv1].Research_Name
+msgid "精密分解施設I"
+msgstr "Precision Disassembly Facility I"
+
+#  Korean Text: '분해 시 획득 자원 30% 증가'
+#: Research[Research_Disassemble_Lv1].Research_ResultDesc
+msgid "分解時獲得資源30%増加"
+msgstr "Recover 30% more resources when disassembling."
+
+#  Korean Text: '정밀 분해 시설 II'
+#: Research[Research_Disassemble_Lv2].Research_Name
+msgid "精密分解施設II"
+msgstr "Precision Disassembly Facility II"
+
+#  Korean Text: '분해 시 획득 자원 60% 증가'
+#: Research[Research_Disassemble_Lv2].Research_ResultDesc
+msgid "分解時獲得資源60%増加"
+msgstr "Recover 60% more resources when disassembling."
+
+#  Korean Text: '정밀 분해 시설 III'
+#: Research[Research_Disassemble_Lv3].Research_Name
+msgid "精密分解施設III"
+msgstr "Precision Disassembly Facility III"
+
+#  Korean Text: '분해 시 획득 자원 90% 증가'
+#: Research[Research_Disassemble_Lv3].Research_ResultDesc
+msgid "分解時獲得資源90%増加"
+msgstr "Recover 90% more resources when disassembling."
+
+#  Korean Text: '정밀 분해 시설 IV'
+#: Research[Research_Disassemble_Lv4].Research_Name
+msgid "精密分解施設IV"
+msgstr "Precision Disassembly Facility IV"
+
+#  Korean Text: '분해 시 획득 자원 120% 증가'
+#: Research[Research_Disassemble_Lv4].Research_ResultDesc
+msgid "分解時獲得資源120%増加"
+msgstr "Recover 120% more resources when disassembling."
+
+#  Korean Text: '정밀 분해 시설 V'
+#: Research[Research_Disassemble_Lv5].Research_Name
+msgid "精密分解施設V"
+msgstr "Precision Disassembly Facility V"
+
+#  Korean Text: '분해 시 획득 자원 150% 증가'
+#: Research[Research_Disassemble_Lv5].Research_ResultDesc
+msgid "分解時獲得資源150%増加"
+msgstr "Recover 150% more resources when disassembling."
+
+#  Korean Text: '탐사 구역을 세밀하게 분석하기 위한 시설을 구축합니다.'
+#: Research[Research_Precised_Exploration_Lv1].Research_Desc
+msgid "探索区域を精密に分析するための施設を構築します。"
+msgstr "Build facilities to further analyze the Exploration areas."
+
+#  Korean Text: '탐사 구역 분석실 I'
+#: Research[Research_Precised_Exploration_Lv1].Research_Name
+msgid "探査区域分析室I"
+msgstr "Exploration Area Analysis Facility I"
+
+#  Korean Text: '자원 탐색 시 물품 발견 확률 +4%'
+#: Research[Research_Precised_Exploration_Lv1].Research_ResultDesc
+msgid "資源探索時アイテム獲得率+4％"
+msgstr "4% higher chance of finding items when Exploring."
+
+#  Korean Text: '탐사 구역 분석 시설을 개량하기 위한 연구를 진행합니다.'
+#: Research[Research_Precised_Exploration_Lv2].Research_Desc
+msgid "探索区域の分析施設を改良するための研究を行います。"
+msgstr "Research to improve exploration area analysis facility."
+
+#  Korean Text: '탐사 구역 분석실 II'
+#: Research[Research_Precised_Exploration_Lv2].Research_Name
+msgid "探査区域分析室II"
+msgstr "Exploration Area Analysis Facility II"
+
+#  Korean Text: '자원 탐색 시 물품 발견 확률 +8%'
+#: Research[Research_Precised_Exploration_Lv2].Research_ResultDesc
+msgid "資源探索時アイテム獲得率+8％"
+msgstr "8% higher chance of finding items when Exploring."
+
+#  Korean Text: '탐사 구역 분석실 III'
+#: Research[Research_Precised_Exploration_Lv3].Research_Name
+msgid "探査区域分析室III"
+msgstr "Exploration Area Analysis Facility III"
+
+#  Korean Text: '자원 탐색 시 물품 발견 확률 +12%'
+#: Research[Research_Precised_Exploration_Lv3].Research_ResultDesc
+msgid "資源探索時アイテム獲得率+12％"
+msgstr "12% higher chance of finding items when Exploring."
+
+#  Korean Text: '탐사 구역 분석실 IV'
+#: Research[Research_Precised_Exploration_Lv4].Research_Name
+msgid "探査区域分析室IV"
+msgstr "Exploration Area Analysis Facility IV"
+
+#  Korean Text: '자원 탐색 시 물품 발견 확률 +16%'
+#: Research[Research_Precised_Exploration_Lv4].Research_ResultDesc
+msgid "資源探索時アイテム獲得率+16％"
+msgstr "16% higher chance of finding items when Exploring."
+
+#  Korean Text: '탐사 구역 분석실 V'
+#: Research[Research_Precised_Exploration_Lv5].Research_Name
+msgid "探査区域分析室V"
+msgstr "Exploration Area Analysis Facility V"
+
+#  Korean Text: '자원 탐색 시 물품 발견 확률 +20%'
+#: Research[Research_Precised_Exploration_Lv5].Research_ResultDesc
+msgid "資源探索時アイテム獲得率+20％"
+msgstr "20% higher chance of finding items when Exploring."
+
+#  Korean Text: '함내 자원 재활용 시설을 개량해 자원 생산 효율을 올립니다.'
+#: Research[Research_Recycle_Lv1].Research_Desc
+msgid "艦内の資源リサイクル施設を改良し、資源の生産効率を上げます。"
+msgstr ""
+"Improve resource recycling facilities to increase resource production "
+"efficiency."
+
+#  Korean Text: '자원 재활용 I'
+#: Research[Research_Recycle_Lv1].Research_Name
+msgid "資源リサイクルI"
+msgstr "Resource Recycling I"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 20% 증가'
+#: Research[Research_Recycle_Lv1].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値20%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 20%"
+
+#  Korean Text: '자원 재활용 II'
+#: Research[Research_Recycle_Lv2].Research_Name
+msgid "資源リサイクルII"
+msgstr "Resource Recycling II"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 40% 증가'
+#: Research[Research_Recycle_Lv2].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値40%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 40%"
+
+#  Korean Text: '자원 재활용 III'
+#: Research[Research_Recycle_Lv3].Research_Name
+msgid "資源リサイクルIII"
+msgstr "Resource Recycling III"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 60% 증가'
+#: Research[Research_Recycle_Lv3].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値60%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 60%"
+
+#  Korean Text: '자원 재활용 IV'
+#: Research[Research_Recycle_Lv4].Research_Name
+msgid "資源リサイクルIV"
+msgstr "Resource Recycling IV"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 80% 증가'
+#: Research[Research_Recycle_Lv4].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値80%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 80%"
+
+#  Korean Text: '자원 재활용 V'
+#: Research[Research_Recycle_Lv5].Research_Name
+msgid "資源リサイクルV"
+msgstr "Resource Recycling V"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 100% 증가'
+#: Research[Research_Recycle_Lv5].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値100%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 100%"
+
+#  Korean Text: '자원 재활용 VI'
+#: Research[Research_Recycle_Lv6].Research_Name
+msgid "資源リサイクルVI"
+msgstr "Resource Recycling VI"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 120% 증가'
+#: Research[Research_Recycle_Lv6].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値120%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 120%"
+
+#  Korean Text: '자원 재활용 VII'
+#: Research[Research_Recycle_Lv7].Research_Name
+msgid "資源リサイクルVII"
+msgstr "Resource Recycling VII"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 140% 증가'
+#: Research[Research_Recycle_Lv7].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値140%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 140%"
+
+#  Korean Text: '자원 재활용 VIII'
+#: Research[Research_Recycle_Lv8].Research_Name
+msgid "資源リサイクルVIII"
+msgstr "Resource Recycling VIII"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 160% 증가'
+#: Research[Research_Recycle_Lv8].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値160%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 160%"
+
+#  Korean Text: '자원 재활용 IX'
+#: Research[Research_Recycle_Lv9].Research_Name
+msgid "資源リサイクルIX"
+msgstr "Resource Recycling IX"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 180% 증가'
+#: Research[Research_Recycle_Lv9].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値180%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 180%"
+
+#  Korean Text: '자원 재활용 X'
+#: Research[Research_Recycle_Lv10].Research_Name
+msgid "資源リサイクルX"
+msgstr "Resource Recycling X"
+
+#  Korean Text: '부품/영양/전력 자동 회복 수치 200% 증가'
+#: Research[Research_Recycle_Lv10].Research_ResultDesc
+msgid "部品/栄養/電力自動回復数値200%増加"
+msgstr "Increase auto-production of Parts/Nutrients/Power by 200%"
+
+#  Korean Text: '수복 시설을 개량해, 소모 자원을 줄입니다.'
+#: Research[Research_RepairRoom_Lv1].Research_Desc
+msgid "修復施設を改良し、資源の消費量を減らします。"
+msgstr "Improve repair facilities and reduce resources costs."
+
+#  Korean Text: '수복실 개량 I'
+#: Research[Research_RepairRoom_Lv1].Research_Name
+msgid "修復室改良I"
+msgstr "Recovery Room Improvement I"
+
+#  Korean Text: '수복 소모 자원 6% 감소'
+#: Research[Research_RepairRoom_Lv1].Research_ResultDesc
+msgid "修復消費資源6%減少"
+msgstr "Recovery resource consumption reduced by 6%"
+
+#  Korean Text: '수복실 개량 II'
+#: Research[Research_RepairRoom_Lv2].Research_Name
+msgid "修復室改良II"
+msgstr "Recovery Room Improvement II"
+
+#  Korean Text: '수복 소모 자원 12% 감소'
+#: Research[Research_RepairRoom_Lv2].Research_ResultDesc
+msgid "修復消費資源12%減少"
+msgstr "Recovery resource consumption reduced by 12%"
+
+#  Korean Text: '수복실 개량 III'
+#: Research[Research_RepairRoom_Lv3].Research_Name
+msgid "修復室改良III"
+msgstr "Recovery Room Improvement III"
+
+#  Korean Text: '수복 소모 자원 18% 감소'
+#: Research[Research_RepairRoom_Lv3].Research_ResultDesc
+msgid "修復消費資源18%減少"
+msgstr "Recovery resource consumption reduced by 18%"
+
+#  Korean Text: '수복실 개량 IV'
+#: Research[Research_RepairRoom_Lv4].Research_Name
+msgid "修復室改良IV"
+msgstr "Recovery Room Improvement IV"
+
+#  Korean Text: '수복 소모 자원 24% 감소'
+#: Research[Research_RepairRoom_Lv4].Research_ResultDesc
+msgid "修復消費資源24%減少"
+msgstr "Recovery resource consumption reduced by 24%"
+
+#  Korean Text: '수복실 개량 V'
+#: Research[Research_RepairRoom_Lv5].Research_Name
+msgid "修復室改良V"
+msgstr "Recovery Room Improvement V"
+
+#  Korean Text: '수복 소모 자원 35% 감소'
+#: Research[Research_RepairRoom_Lv5].Research_ResultDesc
+msgid "修復消費資源35%減少"
+msgstr "Recovery resource consumption reduced by 35%"
+
+#  Korean Text: '함내에 로봇 연구실과 제작 시설을 구축합니다.'
+#: Research[Research_Robot_Making].Research_Desc
+msgid "艦内にロボット研究室と製作施設を構築します。"
+msgstr "Build robot labs and manufacturing facilities within the base."
+
+#  Korean Text: '로봇 제작 설비'
+#: Research[Research_Robot_Making].Research_Name
+msgid "ロボット製作設備"
+msgstr "Robot Engineering Facility"
+
+#  Korean Text: '로봇 연구와 제작 가능'
+#: Research[Research_Robot_Making].Research_ResultDesc
+msgid "ロボット研究地製作可能"
+msgstr "Robots can be researched and produced"
+
+#  Korean Text: '바이오로이드 제작용 특수 시설을 구축합니다.'
+#: Research[Research_Special_Making].Research_Desc
+msgid "バイオロイド製作用特殊施設を構築します。"
+msgstr "Build special facilities for making Bioroids."
+
+#  Korean Text: '중장비 제작 설비'
+#: Research[Research_Special_Making].Research_Name
+msgid "重装備製作設備"
+msgstr "Heavy Equipment Manufacturing Facility"
+
+#  Korean Text: '바이오로이드 특수 제작 가능'
+#: Research[Research_Special_Making].Research_ResultDesc
+msgid "バイオロイド特殊製作可能"
+msgstr "Bioroid Special Builds possible"
+
+#  Korean Text: '연구를 위한 함내 기반 시설을 활성화합니다.'
+#: Research[Research_SubmarineFacility].Research_Desc
+msgid "研究のための艦内基盤施設を活性化します。"
+msgstr "Activate base infrastructure research"
+
+#  Korean Text: '함내 기반 시설'
+#: Research[Research_SubmarineFacility].Research_Name
+msgid "艦内基盤施設"
+msgstr "Base Infrastructure"
+
+#  Korean Text: '각종 시설 및 시스템 연구 진행 가능'
+#: Research[Research_SubmarineFacility].Research_ResultDesc
+msgid "各種施設およびシステム研究進行可能"
+msgstr "Various facilities and systems research can be conducted"
+
+#  Korean Text: '강도가 더 높은 프레임의 제조 방법을 연구합니다.'
+#: Research[Robot_Advanced_Frame].Research_Desc
+msgid "強度がより高いフレームの製造方法を研究します。"
+msgstr "Research how to make robot frames of greater strength."
+
+#  Korean Text: '강화 로봇 프레임'
+#: Research[Robot_Advanced_Frame].Research_Name
+msgid "強化ロボットフレーム"
+msgstr "Enhanced Robot Frame"
+
+#  Korean Text: '강화 로봇 프레임 기술 해금'
+#: Research[Robot_Advanced_Frame].Research_ResultDesc
+msgid "強化ロボットフレーム技術解禁"
+msgstr "Unlock enhanced robot frame technology"
+
+#  Korean Text: '많은 정보를 빠르게 분석하고 처리할 수 있는 시스템을 연구합니다.'
+#: Research[Robot_Advanced_Simulator].Research_Desc
+msgid "多くの情報を素早く分析し処理できるシステムを研究します。 "
+msgstr ""
+"Research systems that can analyze and process a lot of information quickly."
+
+#  Korean Text: '고성능 시뮬레이터'
+#: Research[Robot_Advanced_Simulator].Research_Name
+msgid "高性能シミュレーター"
+msgstr "High Performance Simulator"
+
+#  Korean Text: '고성능 시뮬레이터 기술 해금'
+#: Research[Robot_Advanced_Simulator].Research_ResultDesc
+msgid "高性能シミュレーター技術解禁"
+msgstr "Unlock high performance simulator technology"
+
+#  Korean Text: '로봇을 공중에 띄울 수 있도록 공중 자세 제어 장치를 연구합니다.'
+#: Research[Robot_Aero_Controlsystem].Research_Desc
+msgid "ロボットを空中に浮かべることができる空中姿勢制御装置を研究します。"
+msgstr "Research air attitude control devices to keep the robot in the air."
+
+#  Korean Text: '공중 제어 장치'
+#: Research[Robot_Aero_Controlsystem].Research_Name
+msgid "空中制御装置"
+msgstr "Air Control"
+
+#  Korean Text: '공중 제어 장치 기술 해금'
+#: Research[Robot_Aero_Controlsystem].Research_ResultDesc
+msgid "空中制御装置技術解禁"
+msgstr "Unlock air control technology"
+
+#  Korean Text: 'AGS를 지휘할 수 있는 네트워크 시스템을 연구합니다.'
+#: Research[Robot_AGS_Command].Research_Desc
+msgid "AGSを指揮できるネットワークシステムを研究します。"
+msgstr "Study network systems capable of conducting AGS."
+
+#  Korean Text: 'AGS 지휘 시스템'
+#: Research[Robot_AGS_Command].Research_Name
+msgid "ＡＧＳ指揮システム"
+msgstr "AGS Command System"
+
+#  Korean Text: 'AGS 지휘 시스템 기술 해금'
+#: Research[Robot_AGS_Command].Research_ResultDesc
+msgid "AGS指揮システム技術解禁"
+msgstr "Unlock AGS command system technology"
+
+#  Korean Text: '공중에서 빠르게 기동할 수 있는 장치를 연구합니다.'
+#: Research[Robot_Booster].Research_Desc
+msgid "空中で素早く機動可能な装置を研究します。"
+msgstr "Research devices that can maneuver quickly in midair."
+
+#  Korean Text: '부스터 시스템'
+#: Research[Robot_Booster].Research_Name
+msgid "ブースターシステム"
+msgstr "Booster System"
+
+#  Korean Text: '부스터 시스템 기술 해금'
+#: Research[Robot_Booster].Research_ResultDesc
+msgid "ブースターシステム技術解禁"
+msgstr "Unlock booster system technology"
+
+#  Korean Text: '로봇과 바이오로이드 간 소통을 원활하게하기 위한 장치를 연구합니다.'
+#: Research[Robot_Communication].Research_Desc
+msgid "ロボットとバイオロイドの間の疎通を円滑にするための装置を研究します。"
+msgstr ""
+"Research devices to facilitate communication between robots and Bioroids."
+
+#  Korean Text: '커뮤니케이션 모듈'
+#: Research[Robot_Communication].Research_Name
+msgid "コミュニケーションモジュール"
+msgstr "Communication Module"
+
+#  Korean Text: '커뮤니케이션 모듈 기술 해금'
+#: Research[Robot_Communication].Research_ResultDesc
+msgid "コミュニケーションモジュール技術解禁"
+msgstr "Unlock communication module technology"
+
+#  Korean Text: '에너지를 응축해 더 높은 출력을 낼 수 있는 장치를 연구합니다.'
+#: Research[Robot_EnergyCharger].Research_Desc
+msgid "エネルギーを凝縮しより高い出力を出せる装置を研究します。"
+msgstr "Research devices that can condense energy and produce higher output."
+
+#  Korean Text: '에너지 응축기'
+#: Research[Robot_EnergyCharger].Research_Name
+msgid "エネルギー凝縮機"
+msgstr "Energy Condenser"
+
+#  Korean Text: '에너지 응축기 기술 해금'
+#: Research[Robot_EnergyCharger].Research_ResultDesc
+msgid "エネルギー凝縮器技術解禁"
+msgstr "Unlock energy condenser technology"
+
+#  Korean Text: '적을 분석할 수 있는 시스템을 연구합니다.'
+#: Research[Robot_ExamSystem].Research_Desc
+msgid "敵を分析することが可能なシステムを研究します。"
+msgstr "Research a system that can analyze enemies."
+
+#  Korean Text: '대상 분석 시스템'
+#: Research[Robot_ExamSystem].Research_Name
+msgid "ターゲット分析システム"
+msgstr "Target Analysis System"
+
+#  Korean Text: '대상 분석 시스템 기술 해금'
+#: Research[Robot_ExamSystem].Research_ResultDesc
+msgid "対象分析システム技術解禁"
+msgstr "Unlock target analysis system technology"
+
+#  Korean Text: '화기를 효율적으로 제어할 수 있는 시스템을 연구합니다.'
+#: Research[Robot_FCS].Research_Desc
+msgid "火器を効率的に制御することができるシステムを研究します。"
+msgstr "Research systems that can effectively control firearms."
+
+#  Korean Text: '화기 집중 제어 시스템'
+#: Research[Robot_FCS].Research_Name
+msgid "火器火気集中制御システム"
+msgstr "Firearms Focus Control System"
+
+#  Korean Text: '화기 집중 제어 시스템 기술 해금'
+#: Research[Robot_FCS].Research_ResultDesc
+msgid "火器集中制御システム技術解禁"
+msgstr "Unlock firearm focus control system technology"
+
+#  Korean Text: '탄력이 높은 프레임의 제조 방법을 연구합니다.'
+#: Research[Robot_FlexibleFrame].Research_Desc
+msgid "弾力が高いフレームの製造方法を研究します。"
+msgstr "Research how to make a frame with high flexibility."
+
+#  Korean Text: '고탄력 로봇 프레임'
+#: Research[Robot_FlexibleFrame].Research_Name
+msgid "高弾力ロボットフレーム"
+msgstr "High Flexibility Robot Frame"
+
+#  Korean Text: '고탄력 로봇 프레임 기술 해금'
+#: Research[Robot_FlexibleFrame].Research_ResultDesc
+msgid "高弾力ロボットフレーム技術解禁"
+msgstr "Unlock high flexibility robot frame technology"
+
+#  Korean Text: '로봇에게 장착할 견고한 장갑 프레임을 연구합니다.'
+#: Research[Robot_HeavyArmor].Research_Desc
+msgid "ロボットに装着する堅固な装甲フレームを研究します。"
+msgstr "Research a heavy armor frame for the robot."
+
+#  Korean Text: '중장갑 프레임'
+#: Research[Robot_HeavyArmor].Research_Name
+msgid "重装甲フレーム"
+msgstr "Heavy Armor Frame"
+
+#  Korean Text: '중장갑 프레임 기술 해금'
+#: Research[Robot_HeavyArmor].Research_ResultDesc
+msgid "重装甲フレーム技術解禁"
+msgstr "Unlock heavy armor frame technology"
+
+#  Korean Text: '중화기를 제어할 수 있는 시스템을 연구합니다.'
+#: Research[Robot_HeavyFCS].Research_Desc
+msgid "重火器を制御できるシステムを研究します。"
+msgstr "Research systems that can control heavy weapons."
+
+#  Korean Text: '중화기 제어 시스템'
+#: Research[Robot_HeavyFCS].Research_Name
+msgid "重火器制御システム"
+msgstr "Heavy Weapons Control System"
+
+#  Korean Text: '중화기 제어 시스템 기술 해금'
+#: Research[Robot_HeavyFCS].Research_ResultDesc
+msgid "重火器制御システム技術解禁"
+msgstr "Unlock heavy weapons control system technology"
+
+#  Korean Text: '출력이 높은 로봇용 부스터를 연구합니다.'
+#: Research[Robot_HPBooster].Research_Desc
+msgid "外部エネルギーを動力に変換できる装置を研究します。"
+msgstr "Research robotic boosters with high output."
+
+#  Korean Text: '고출력 부스터'
+#: Research[Robot_HPBooster].Research_Name
+msgid "エネルギーコンバーター"
+msgstr "High-Power Boosters"
+
+#  Korean Text: '고출력 부스터 기술 해금'
+#: Research[Robot_HPBooster].Research_ResultDesc
+msgid "エネルギーコンバーター技術解禁"
+msgstr "High-power booster technology unlocked"
+
+#  Korean Text: '대형 로봇용 프레임을 연구합니다.'
+#: Research[Robot_LargeFrame].Research_Desc
+msgid "大型ロボット用フレームを研究します。"
+msgstr "Research frames for large robots."
+
+#  Korean Text: '대형 로봇 프레임'
+#: Research[Robot_LargeFrame].Research_Name
+msgid "大型ロボットフレーム"
+msgstr "Large Robot Frame"
+
+#  Korean Text: '대형 로봇 프레임 기술 해금'
+#: Research[Robot_LargeFrame].Research_ResultDesc
+msgid "大型ロボットフレーム技術解禁"
+msgstr "Unlock large robot frame technology"
+
+#  Korean Text: '출력이 높은 로봇용 제네레이터를 연구합니다.'
+#: Research[Robot_MassiveGenerator].Research_Desc
+msgid "出力が高いロボット用ジェネレーターを研究します。"
+msgstr "Research on generators for robots with high output"
+
+#  Korean Text: '대용량 제네레이터'
+#: Research[Robot_MassiveGenerator].Research_Name
+msgid "大容量ジェネレーター"
+msgstr "High-Capacity Generator"
+
+#  Korean Text: '대용량 제네레이터 기술 해금'
+#: Research[Robot_MassiveGenerator].Research_ResultDesc
+msgid "大容量ジェネレーター技術解禁"
+msgstr "Unlock the high-capacity generator technology"
+
+#  Korean Text: '다수의 부스터를 제어하기 위한 장치를 연구합니다.'
+#: Research[Robot_MultiBooster].Research_Desc
+msgid "多数のブースターを制御するための装置を研究します。"
+msgstr "Research devices for controlling multiple boosters."
+
+#  Korean Text: '다중 부스터 제어 장치'
+#: Research[Robot_MultiBooster].Research_Name
+msgid "多重ブースター制御装置"
+msgstr "Multi-Booster Control Unit"
+
+#  Korean Text: '다중 부스터 제어 장치 기술 해금'
+#: Research[Robot_MultiBooster].Research_ResultDesc
+msgid "多重ブースター制御装置技術解禁"
+msgstr "Unlock multi-booster control technology"
+
+#  Korean Text: '로봇에게 장착할 입자 가속 장치를 연구합니다.'
+#: Research[Robot_ParticleAccelerator].Research_Desc
+msgid "ロボットに装着する粒子加速装置を研究します。"
+msgstr "Research robot-mounted particle accelerators."
+
+#  Korean Text: '입자 가속 장치'
+#: Research[Robot_ParticleAccelerator].Research_Name
+msgid "粒子加速装置"
+msgstr "Particle Accelerator"
+
+#  Korean Text: '입자 가속 장치 기술 해금'
+#: Research[Robot_ParticleAccelerator].Research_ResultDesc
+msgid "粒子加速装置技術解禁"
+msgstr "Unlock particle accelerator technology"
+
+#  Korean Text: '보호 대상을 설정할 수 있는 모듈을 연구합니다.'
+#: Research[Robot_ProtectModule].Research_Desc
+msgid "保護対象を設定できるモジュールを研究します。"
+msgstr "Rsearch modules that allow you to set up protection targets."
+
+#  Korean Text: '대상 보호 모듈'
+#: Research[Robot_ProtectModule].Research_Name
+msgid "ターゲット保護モジュール"
+msgstr "Target Protection Module"
+
+#  Korean Text: '대상 보호 모듈 기술 해금'
+#: Research[Robot_ProtectModule].Research_ResultDesc
+msgid "対象保護モジュール技術解禁"
+msgstr "Unlock target protection module"
+
+#  Korean Text: '로봇의 기본 프레임과 유기물 중추 회로 설치 방법을 연구합니다.'
+#: Research[Robot_Robotics_Frame].Research_Desc
+msgid "ロボットの基本フレームと有機物中枢回路の設置方法を研究します。"
+msgstr ""
+"Research the basic frame of robots and how to install the organic central "
+"circuit."
+
+#  Korean Text: '로보틱스 프레임'
+#: Research[Robot_Robotics_Frame].Research_Name
+msgid "ロボティックスフレーム"
+msgstr "Robotics Frame"
+
+#  Korean Text: '로보틱스 프레임 기술 해금'
+#: Research[Robot_Robotics_Frame].Research_ResultDesc
+msgid "ロボティクスフレーム技術解禁"
+msgstr "Unlock robotics frame technology"
+
+#  Korean Text: '본체에 받는 충격을 완화시키는 장치를 연구합니다.'
+#: Research[Robot_Shock_Absorber].Research_Desc
+msgid "本体に受けた衝撃を緩和させる装置を研究します。"
+msgstr "Research devices to relieve shock to body."
+
+#  Korean Text: '충격 완화 장치'
+#: Research[Robot_Shock_Absorber].Research_Name
+msgid "衝撃緩和装置"
+msgstr "Shock Absorbers"
+
+#  Korean Text: '충격 완화 장치 기술 해금'
+#: Research[Robot_Shock_Absorber].Research_ResultDesc
+msgid "衝撃緩和装置技術解禁"
+msgstr "Unlock shock absorber technology"
+
+#  Korean Text: '로봇이 더 전술적으로 행동할 수 있도록 시스템을 개량합니다.'
+#: Research[Robot_TacticControl].Research_Desc
+msgid "ロボットがより戦術的に行動できるようシステムを改良します。"
+msgstr "Modifies the system to allow the robot to behave more tactically."
+
+#  Korean Text: '개량형 전술 제어 시스템'
+#: Research[Robot_TacticControl].Research_Name
+msgid "改良型戦術制御システム"
+msgstr "Enhanced Tactical Control System"
+
+#  Korean Text: '개량형 전술 제어 시스템 기술 해금'
+#: Research[Robot_TacticControl].Research_ResultDesc
+msgid "改良型戦術制御システム技術解禁"
+msgstr "Unlock advanced tactical control system technology"

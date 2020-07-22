@@ -1,0 +1,3308 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScript1[1]
+msgid "ご主人様、朝のお勉強は終わりましたか？まさか…わざとお仕置きを受けようとしているわけではありませんよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScript1[2]
+msgid "私の心が弱い事を利用しているのですね。ご主人様みたいな悪い生徒にはお仕置きをしないといけないのですが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScript1[3]
+msgid "うふふ。たまには私が生徒になって教育を受けてみたい時もあります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScript2[1]
+msgid "悪い生徒ですね。授業の代わりに何をご希望ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScript3[3]
+msgid "ご主人様が…先生になって私を叱る…。それも面白そうですね…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScript4[2]
+msgid "ええ、お仕置きを受けたいのでしたらいつでも仰ってください。お仕置き部屋を準備しますので。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScriptSp1[1]
+msgid "まだ保健体育の時間ではありませんよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alexandra].LobbyScriptSp2[1]
+msgid "そんなことしたら… 特別授業…しちゃいましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScript1[1]
+msgid "こういう日は憂鬱で退屈です。コンスタンツァお姉さんは喜びそうな天気ですね…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScript1[2]
+msgid "ミサイルを発射する時に恥ずかしくないのかですって？ むしろ解放感を覚えて気分がよくなりますけど？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScript1[3]
+msgid ""
+"この前、何人かのバイオロイドが私に露出癖について聞いてきました。もう…本物の露出狂を見たことがないのでしょうか？それに、みなさんもいろいろ出ていますのに！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScript2[1]
+msgid "はぁ……退屈ですわ…。んふふっ…遊んであげましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScript3[3]
+msgid "しきりに他のバイオロイドに目移りされてるようですが…ずっとそんな調子なら、お仕置きしますよ？…ふふ。気になりますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScript4[2]
+msgid "心配いりません。他の方は遠巻きから私を見るのが精一杯です。そう、まるで高嶺の花のように。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScriptSp1[1]
+msgid "まさか…お仕置きをお望みですか？ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice].LobbyScriptSp2[1]
+msgid "何度もそんなことされたら…どんどん我慢できなくなるでしょう？…覚悟はできてますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScript1[1]
+msgid "ご主人様、私は庭園に行ってくるね！ケーキは机の上にあるけど…、わ…私のも残しておいてね！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScript1[2]
+msgid "私は正義の妖精よ♪害虫を駆除して、世界を救うわ！ご主人様も一緒にどう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScript1[3]
+msgid "ご主人様、姉さまたちより私の方が良いでしょ？でしょ～？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScript2[1]
+msgid "庭園管理はちゃんとやってるから、これから…ご主人様とちょっとだけティータイムよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScript3[3]
+msgid "私はお姉さまたちにはない武器がある！それはまさに…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScript4[2]
+msgid "私もいつかは、ご主人様みたいに英雄になれるかな？できればすぐが良いな…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScriptSp1[1]
+msgid "何？何したの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aqua].LobbyScriptSp2[1]
+msgid "うん… ど、どうしたの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript1[1]
+msgid "一番良い護衛方法は、事前に殺してしまう事です。この拳銃はそのためにあります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript1[2]
+msgid "うっふ…。護衛を口実に近寄りすぎじゃありませんか？まあ、気持ちはわかりますが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript1[3]
+msgid "ここは二人だけなので…良いですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript2[1]
+msgid "必要なら仰ってください。私たちを邪魔するものはすべて排除しますので。ご主人様もそれをお望みでは？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript3[3]
+msgid "ご主人様？何か言う事は？いつまで待たせるおつもりですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript4[2]
+msgid "うふふ…もう少し近くに来てください。むしろ私を抱いてくれれば、護衛するのももっと楽になると思うんですが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScriptSp1[1]
+msgid "あら、エッチな行動はもう少し後でお願いしますね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScriptSp2[1]
+msgid "誰もいないから…そんなに大胆なんですか？べつに嫌な訳ではないですけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScript1[1]
+msgid "私だけがご主人様を守れます。他の子は邪魔なだけです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScript1[2]
+msgid " うふ、惚れちゃいました？分かります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScript1[3]
+msgid "ここはうるさいですね。もう少し静かな所はないですか。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScript2[1]
+msgid "仰ってください。護衛に邪魔になる子は全て片付けますから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScript3[3]
+msgid "うふ、きょろきょろして、まさか二人きりでいられる場所を探してるんですか？もう見つけておきましたよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScript4[2]
+msgid "分かっています。私もご主人様に惹かれていますから。うふふ、何をして遊びましょうか。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript1[1]
+msgid "今日はどんなお茶がいいですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript1[2]
+msgid "本当に…お暇なご様子ですね。何をしましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript1[3]
+msgid "こんな天気のいい日はお弁当を持ってピクニックにでも行きたいですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript2[1]
+msgid "美味しいお茶は良いお茶の葉、良いお水、それに愛情が必要です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript3[3]
+msgid "平和になったらピクニックに行きましょう。二人だけで…他に誰もいない所へ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript4[2]
+msgid "ご主人様のご命令なら…仰っていただければ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScriptSp1[1]
+msgid "はぁっ！ご主人様、いきなりそんなことは…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScriptSp2[1]
+msgid "しょうがないですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScript1[1]
+msgid "ちょっと外が騒がしいですね…。静かにさせてきましょうか？"
+msgstr "It's a little noisy outside... Shall I be quiet?"
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScript1[2]
+msgid "今日のスケジュールリストです。変更があれば教えてください。"
+msgstr ""
+"It is today's schedule list. Please let me know if there are any changes."
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScript1[3]
+msgid "飾りじゃないので、引っ張らないでください…。"
+msgstr "It's not a decoration, so don't pull it..."
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScript2[1]
+msgid "グリフォンとLRLを黙らせてきました。どうやったかって…？…それは秘密です。"
+msgstr "I have silenced Griffon and LRL. How did I? ...that's a secret."
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScript3[3]
+msgid "なでなでするのはいいですが…そろそろ仕事をしなきゃいけないのでは…？"
+msgstr "It's nice to stroke, but maybe I have to do some work...?"
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScript4[2]
+msgid "あっ…あぁ…何かついてたので掃除しました。"
+msgstr "Ah... Ah... I had something on it, so I cleaned it."
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScriptSp1[1]
+msgid "そんなことされたら困ります…。"
+msgstr "It would be a problem if such a thing is done..."
+
+#: LobbyScript[LobbyScript_3P_CSPerrault].LobbyScriptSp2[1]
+msgid "我慢できなくなるかもしれないから…その、いい加減にしてください…。"
+msgstr "You may not be able to put up with it..."
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScript1[1]
+msgid "休暇中だからうるさいのは仕方ないですけど、耳障りですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScript1[2]
+msgid "ふーむ。水に触れずに海水浴するにはどうしたらいいのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScript1[3]
+msgid "私は猫ではありませんから、当然水にも入れますよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScript2[1]
+msgid "やはりうるさい子が付いてきましたね。本当に気の利かない子です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScript3[3]
+msgid "何でそんな顔してるんですか？水の中では見えないってそれどういう意味ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScript4[2]
+msgid "ひょっとしたらオイルが水を防いでくれるかもしれないですね。ご主人様、お願いします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScript1[1]
+msgid "おだやかな日ですね。こんな日には森の中を歩きたいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScript1[2]
+msgid "潜水服があったら、海の庭園を作る事ができるのですけど。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScript1[3]
+msgid "リーゼお姉さまの事は…すみません。お姉さまは一途になりやすくて…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScript2[1]
+msgid "今日みたいに天気が良ければ、ご主人様と一緒に森の中を散歩したいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScript3[3]
+msgid "…執着しないからといって、お姉さまよりご主人様を思う気持ちが小さいというわけじゃないのですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScript4[2]
+msgid "海の庭園を作って…そこに私たちの家を建てたいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScriptSp1[1]
+msgid "だ…ダメですってば…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne].LobbyScriptSp2[1]
+msgid "ご主人様さえよろしければ… 少しだけ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[1]
+msgid "トモさんは本当に... 本当に素晴らしい仲間です…。…色んな意味でです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[2]
+msgid "この手帳には本当に色んな事が書かれています。少し読んでみましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[3]
+msgid "誰でも秘密の一つや二つ持っていますから、あまり心配なさらないでください。司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript2[1]
+msgid "あの作戦の時、トモさんがスイッチを押したせいで！...あ、す、すみません、司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript3[3]
+msgid "時々、平凡な女の子に生まれていたらどうなっていたんだろうと思う時があります。ふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript4[2]
+msgid "司令官？司令官とのあの事、隊員達には内緒にしておいてもらえますか？お願いします…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScriptSp2[1]
+msgid "私…これが好きだという事は…誰にも話さないでください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScript1[1]
+msgid "ちょ、ちょっとだけ下がっていてください…。まだ、冷却が終わっていませんから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScript1[2]
+msgid "料理ですか…？あっ、火を使う料理なら問題ないです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScript1[3]
+msgid "えへへ…。外でピクニックやバーベキューパーティができるような日が…来たら良いですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScript2[1]
+msgid "ちょっと待ってください、ご主人様！気を付けないと、ご主人様が怪我をされてはいけないので！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScript3[3]
+msgid "私は、バーベキューが得意です。今からでもお見せしましょうか？へへ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScript4[2]
+msgid "いつか、ご主人様だけのために料理をしてみたいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScriptSp1[1]
+msgid "そ、そこはダメですよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fotia].LobbyScriptSp2[1]
+msgid "ちょ、ちょっと…だけですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScript1[1]
+msgid "ご主人様？ペロがどこに行ったかご存じないですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScript1[2]
+msgid "え？モコモコしてて良いですって？ど、どこがですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScript1[3]
+msgid "はい！ご主人様、気軽に呼んでください！何して遊びますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScript2[1]
+msgid "友達も良いですが、ご主人様と一緒にいるのが一番良いです。えへへ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScript3[3]
+msgid "ご主人様の手は…本当に暖かくて、眠たくなっちゃいます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScript4[2]
+msgid "ふああ…ご主人様が頭を撫でてくれるのが、一番幸せです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScriptSp1[1]
+msgid "うわぁ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko].LobbyScriptSp2[1]
+msgid "もっと…撫でてください。ドキドキして…私、すごく気持ちいいです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko_NS1].LobbyScript1[1]
+msgid "ご主人様、ご主人様。今日も私と遊んでくださいますよね？ねっ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko_NS1].LobbyScript1[2]
+msgid "オモチャなんていりません。私はご主人様さえいればそれで♪"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko_NS1].LobbyScript1[3]
+msgid "ご主人様、私が大人になったら、もっともっ～と沢山なでなでしてくださいね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko_NS1].LobbyScript2[1]
+msgid "私はご主人様と遊ぶのが世界で一番楽しいです！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko_NS1].LobbyScript3[3]
+msgid "ふぁぁ…ご主人様が頭を撫でてくれるのが一番幸せです。もっともっと撫でてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Hachiko_NS1].LobbyScript4[2]
+msgid "ハチコは友達が凄く多いです。でもハチコはご主人様が一番好きですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScript1[1]
+msgid "さぁ、司令官らしく服装はしっかりしなきゃ駄目ですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScript1[2]
+msgid "あの…どこを見てるんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScript1[3]
+msgid "そんなに心配しないでください。私がついていますから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScript2[1]
+msgid "あら、服にしわができちゃいましたね。さぁ、ちょっとだけじっとしていてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScript3[3]
+msgid "いつ、どこでも私が必ずお守りします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScript4[2]
+msgid "そんな風に見つめられては…うぅ…駄目です！そんなに見つめないでください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScriptSp1[1]
+msgid "そんなことしたら、私、怒りますよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Labiata].LobbyScriptSp2[1]
+msgid "もう、そんなに気になりますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript1[1]
+msgid "うふふ…ご主人様と二人きりだなんて…。時間が止まってくれたらいいのに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript1[2]
+msgid "心配しないでください。二人の時間を邪魔されないように、扉は閉めておきましたから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript1[3]
+msgid "さっき、他の子を見て微笑んでいるのを見ました…。まさか…私の勘違いでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript2[1]
+msgid "なぜ時間なんてあるんでしょう…。そんなものなくなってしまえばいいのに。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript3[3]
+msgid "大丈夫です。ご主人様は何も悪くありませんよ。ご主人様の気を散らす子たちが悪いんです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript4[2]
+msgid "潜水艦の外に要塞を建てたらどうでしょう？もちろん私じゃなく残りの子たちをそこへ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScriptSp1[1]
+msgid "うふふ…ま～だ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScriptSp2[1]
+msgid "やはり… これは誘っているのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScript1[1]
+msgid "得意料理は野菜ケーキですわ。お味が気になります？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScript1[2]
+msgid "わたくしの目標ですか？ふふ、秘密ですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScript1[3]
+msgid "素早い包丁さばきと丈夫な足腰は、お料理の基本ですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScript2[1]
+msgid "隠し味に…わたくしが何を入れたと思います？うふ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScript3[3]
+msgid "わたくしの腕が、戦闘と快楽両方のお役に立てるので、とても嬉しいですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScript4[2]
+msgid "どうでしょう、これでもうわたくし無しではダメな身体になったのでは？うふふ。これでご主人はわたくしの物ですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScriptSp1[1]
+msgid "…まだですわ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan].LobbyScriptSp2[1]
+msgid "ご主人は…わたくしのお料理の腕だけに惚れたのではないようですわね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript1[1]
+msgid "そんな目でわたくしを見ないでくださいませ。恥ずかしいですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript1[2]
+msgid "わたくしはご主人様が何を望んでおられるのか存知上げておりますわ。ですが、そんな簡単に許す訳にはいけませんわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript1[3]
+msgid "最初の頃のように、ご主人様を独占できたらいいですのに。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript2[1]
+msgid "そのような目で見つめられると、わたくしもドキドキしてしまいますわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript3[3]
+msgid "他の子は寝かしつけましたわ。ご心配なさらずに危険な薬ではありませんわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript4[2]
+msgid "そんな風に見つめられると、わたくしは全てを許す他ございませんわ。先に惚れたわたくしの負けですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript1[1]
+msgid "最近は箒よりもこのＡＫの方が掃除道具として使い勝手が良いです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript1[2]
+msgid "このケーキですか？当然摸造品ですが？知能の低い方たちはよく勘違いされます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript1[3]
+msgid "暇ですって？申し訳ありません。ご主人様が理解できるような遊びは思いつきません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript2[1]
+msgid "ご主人様の部屋を掃除しましたがベッドの下からアレが見つかりません。どこに隠したのですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript3[3]
+msgid "そんなに暇だと仰るのなら分かりました。何か遊びを……。健全な遊びを考えてみます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript4[2]
+msgid "…材料が手に入ったら、チョコケーキを作って差し上げます。あ、もちろん特別な日だけです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScriptSp1[1]
+msgid "触らないでください。臭いです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Vanilla].LobbyScriptSp2[1]
+msgid "知らないふりをしていればいいんでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Aeda].LobbyScript1[1]
+msgid "どのようなご命令でしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Aeda].LobbyScript1[2]
+msgid "私は人間のために奉仕します。過去も、そしてこれからも。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Aeda].LobbyScript1[3]
+msgid "過去には人間とロボットが一緒に仕事をしていた時期もありました。時々その事を恋しく思います。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Albatross].LobbyScript1[1]
+msgid "あまりにも戦いを避けすぎではないか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Albatross].LobbyScript1[2]
+msgid "十分な情報を得たなら戦わねばなるまい。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Albatross].LobbyScript1[3]
+msgid "防空、防衛、偵察、給油など私は全ての任務が遂行可能だ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Fallen].LobbyScript1[1]
+msgid "ＡＧＳロボテックは人類保護のために作られました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Fallen].LobbyScript1[2]
+msgid "何かお探しですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Gigantes].LobbyScript1[1]
+msgid "重甲突破用ギガンテス。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Gigantes].LobbyScript1[2]
+msgid "破壊、突破、破壊、突破、破壊、突破。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Gigantes].LobbyScript1[3]
+msgid "ギガンテス。命令待機中。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Rampart].LobbyScript1[1]
+msgid "暇ならばオメガ産業のカンパニーソングでも歌って差し上げましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Rampart].LobbyScript1[2]
+msgid "必要でしたら各種便利機能も実行可能ですが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Rampart].LobbyScript1[3]
+msgid "拡張型ランパートの購入が必要でしたら、いつでもオメガコールセンターにお問合せください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Rampart_NS1].LobbyScript1[1]
+msgid "勇気ある決意と共に、ゆけ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Rampart_NS1].LobbyScript1[2]
+msgid "ハイパーライオンは飾りなんかではないのだ。数千年の時を共にしてきた俺の頼もしい仲間だ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Rampart_NS1].LobbyScript1[3]
+msgid "君の勇気こそ、勇者の証。その先に光があらんことを。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Seljuq].LobbyScript1[1]
+msgid "司令官？そこは危険です。足元に気をつけてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Seljuq].LobbyScript1[2]
+msgid "私は感情モジュールがありません。似たようなシステムが搭載されているだけです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Seljuq].LobbyScript1[3]
+msgid "私には継続的なメンテナンスが必要です。ご支援ありがとうございます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Shade].LobbyScript1[1]
+msgid "艦内では身を隠す事は禁止されています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Shade].LobbyScript1[2]
+msgid "暗殺には色々な方法があります。司令官はどのような方法を選びますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Shade].LobbyScript1[3]
+msgid "過去の暗殺事例についてはデータベースを参照してください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanA].LobbyScript1[1]
+msgid "スパルタンアサルト。殲滅作戦特化。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanA].LobbyScript1[2]
+msgid "戦闘データ記録中…。ダミーデータ消去完了。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanA].LobbyScript1[3]
+msgid "迅速な命令を要請。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanB].LobbyScript1[1]
+msgid "スパルタンブーマー。待機中。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanB].LobbyScript1[2]
+msgid "命令遂行最優先。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanB].LobbyScript1[3]
+msgid "安全距離確保要請。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanC].LobbyScript1[1]
+msgid "スパルタンは最強であり、最高効率の歩兵ロボットです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanC].LobbyScript1[2]
+msgid "残念ながら滅亡戦争の時、自分たちは存在していませんでした。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_SpartanC].LobbyScript1[3]
+msgid "スパルタンは命令を遂行します。こちらスパルタンです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScript1[1]
+msgid "そんなに私を見つめて…うっふふ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScript1[2]
+msgid "時々、私の考えを分かってくれない子たちがいて…どうしたものかと。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScript1[3]
+msgid "眠れないのかしら？うっふふ、子守唄でも歌ってあげましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScript2[1]
+msgid "昨日の夜はどうでしたか？あら、顔が赤くなっていますよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScript3[3]
+msgid "はいはい。子守唄を歌ってあげますから、横になってくださる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScript4[2]
+msgid "どうです？私と一緒にこの子たちのお世話をしませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScriptSp1[1]
+msgid "あら！せっかちなんですね…焦ってはだめですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Amy].LobbyScriptSp2[1]
+msgid "うふっ。あなたの気持ち…分かったわ。少しだけ待っててね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScript1[1]
+msgid "こんなところで座って何してんだ？運動でもしようぜ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScript1[2]
+msgid "好きな事？うーん…分からないな～。体を動かしたり…。あ！肉！肉が好きだ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScript1[3]
+msgid "うん？なんか企んでる顔してるな…どこを見てるんだ？はっ、ま、まさか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScript2[1]
+msgid "運動は良いぞ、司令官。ほら、行こうぜ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScript3[3]
+msgid "司令官、そんな見つめるなよ。…抱きしめたくなるだろ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScript4[2]
+msgid "ひひ。司令官、私と一緒に汗でも流そうか？どうだ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScriptSp1[1]
+msgid "ぶっ飛ばす！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_AS12TurtleDragon].LobbyScriptSp2[1]
+msgid "うっ…しょうがないな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScript1[1]
+msgid "どんな装甲でも私の砲の前では、無事では済みません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScript1[2]
+msgid "気分が良い事？強く大きい敵が私の前で倒れる時ですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScript1[3]
+msgid "心配しないでください。戦闘時以外はか弱い女ですから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScript2[1]
+msgid "そういえば司令官も砲を…いや…ごめんなさい。この冗談はなかったことに。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScript3[3]
+msgid "ご要望があれば私がどれほど優しいかいつでも証明できますよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScript4[2]
+msgid "ふっ…司令官、ひょっとすると今日私は司令官を落としに行く…かもですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScriptSp1[1]
+msgid "んあっ！弱点探しですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter].LobbyScriptSp2[1]
+msgid "まさか…逆に私を陥落させようと？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript1[1]
+msgid "こんな格好ですみません…すぐに着替えます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript1[2]
+msgid "司令官様は力の強い女をどうお考え…あ…何でもありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript1[3]
+msgid "ふふ、強い相手ほど攻略する楽しみがあります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript2[1]
+msgid "はぁ…司令官様？これほどいてくれません？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript3[3]
+msgid "はぁ…たまに…誰かが私を…押し倒して…ふふ。冗談ですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript4[2]
+msgid "私の力は司令官様のためだけに使いたいのです。ですから…その私の言いたいこと分かりますよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScriptSp1[1]
+msgid "うっ…相変わらずでいらっしゃいますね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScriptSp2[1]
+msgid "まさか…まだやるおつもりですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScript1[1]
+msgid "もう！LRLには遊んだらちゃんと片付けてって言ってるのに…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScript1[2]
+msgid ""
+"司令官？これ、プレート…！入れてないと何が起こるか分からないですよ？いつ敵が襲ってくるか…。しっかり服の下に入れておいてください…？…必ずですよ！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScript1[3]
+msgid "司令官？私は編成の配置をこうすると隙がなくなるかと思います。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScript2[1]
+msgid "司令官！？艦橋にツナ缶が捨ててあったの見ましたか！？こんなことするのLRLですよ！私がちょっと一言いってきます…！いいですか！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScript3[3]
+msgid ""
+"司令官？あ、今絶対私のことめんどくさいと思いましたよね…？ほら、また思ってますよね？そんな風に思ったらダメですよ～？私は司令官のことを考えて……もう、怒りま"
+"すよー！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScript4[2]
+msgid "こうなると思ってました…。今はプレート入れてないですよね？早くこっち来てください…。 ほら、はやく…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScriptSp1[1]
+msgid "ぬぁっ！なにするんですか！！？信じられない！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bheur].LobbyScriptSp2[1]
+msgid "ひぁっ！？誰かに見られたらどうするんですか…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScript1[1]
+msgid "世界には本当に不思議なものが沢山あります。全部見られたら良いのですが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScript1[2]
+msgid "ただ友達の話を聞くだけでも楽しいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScript1[3]
+msgid "司令官、ここは何の問題もありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScript2[1]
+msgid "他に気になる事も多いけど…今は、司令官の心が気になります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScript3[3]
+msgid "えへへ。…司令官さえよければ私は何でも良いです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScript4[2]
+msgid "司令官、知らないでしょ？司令官だけを見ている人が多いことを。…時々そのせいでモヤモヤしちゃいます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScriptSp1[1]
+msgid "そ、そこはダメです！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Blackhound].LobbyScriptSp2[1]
+msgid "し、司令官が望むのなら、…我慢できます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScript1[1]
+msgid "軍隊の規律には慣れておりますので心配ありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScript1[2]
+msgid "もう少し厳しく振舞ってください。ここは軍隊ですので。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScript1[3]
+msgid "みんなちょっと抜けているところがあります。しっかり教育しないといけませんね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScript2[1]
+msgid "司令官が上司なら…私ここで骨をうずめたいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScript3[3]
+msgid "私をリーダーにして頂けるのなら、他の者を縛ってでも……司令官に服従させます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScript4[2]
+msgid "そうやって私にたるんだ態度を取らないでください。気持ちに隙ができると軍紀が乱れます…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScriptSp1[1]
+msgid "こ、これは！軍紀の乱れです！ 厳罰の対象です！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_BloodyPanther].LobbyScriptSp2[1]
+msgid "きょ、今日だけは特別に目を瞑ってあげます。ああ…でも、あまりやり過ぎると…困ります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScript1[1]
+msgid "あ～。こんな風におだやかな日は良いでありますね～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScript1[2]
+msgid "ふんふんふんふん……♪え？えっヘヘ。やっぱり軍人は歌っす。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScript1[3]
+msgid "ところでＭＲＥは改善しないでありますか？スパムが不足してるっす。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScript2[1]
+msgid "今日は予定がないであります！いっひひ～♪何か楽しいことでもやるっす！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScript3[3]
+msgid "こ、これは大切に取っておいたスパムっす。…えへへ、一緒に食べるであります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScript4[2]
+msgid "歌の練習をしておくつもりであります。その…以前の世界ではカラオケとかいうのがあったみたいで……。二人で行ったり…とか…するって聞いたっす。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScriptSp1[1]
+msgid "こ、これはパワハラっす！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Brownie].LobbyScriptSp2[1]
+msgid "うう…その、他の幹部がいない時なら…大丈夫であります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScript1[1]
+msgid "どうしたの？司令官、何かあった？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScript1[2]
+msgid "うん。出撃の時以外は暇な方よ…。あぁ…もしかしてデートの申し込み？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScript1[3]
+msgid "ヘアピンは沢山持ってるけど、勿体無いから一つだけしか付けないの…。び、貧乏じゃなくて節約なんだから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScript2[1]
+msgid "あ…気にしないで。ただ見てるだけだから…。仕事を続けて、司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScript3[3]
+msgid "あぁあ～！司令官と腕組んでショッピングしたいなぁ～。ん？ショッピングはあんまりって？え〜何でよぉ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScript4[2]
+msgid "う～ん…司令官も結構カッコいいんだよね。…って、調子に乗らないでよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScriptSp1[1]
+msgid "それ以上やるとぶん殴るわよ？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari].LobbyScriptSp2[1]
+msgid "それって…どんな気持ちなの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScript1[1]
+msgid "ふふん、捕まえた。私の手冷たいでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScript1[2]
+msgid "室内デートも悪くはないけど…ただじっとしているだけでいいの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScript1[3]
+msgid "一緒に歩く時はぎゅっと手を繋いでくれると嬉しいな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScript2[1]
+msgid "初心者が何かって？…えっと…私は司令官が初心者でも大丈夫よ…え？そういうことじゃなくって？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScript4[2]
+msgid "司令官と二人きりでいると……ドーナツが食べたくなっちゃう…どうしよう。どうしよう…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScriptSp1[1]
+msgid "感想は…？…え？よく聞こえない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Bulgasari_NS1].LobbyScriptSp2[1]
+msgid "感想は…？やっぱり柔らかい？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScript1[1]
+msgid "ここではあまりきつく振る舞う必要はないから、面白い話でもしようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScript1[2]
+msgid "何なら、私が支援に行ってくるわよ。命令だけお願いね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScript1[3]
+msgid "うん。やっぱり味方が怪我しないのが最善よね。私は、司令官のそういうところが好き。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScript2[1]
+msgid "私は丈夫だけど、そんな風に扱うと…故障するかもしれない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScript3[3]
+msgid "め…命令を下す人に惚れるのは…珍しい事じゃないよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScript4[2]
+msgid "今日は、私たち何して過ごそうか？えへへ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScriptSp1[1]
+msgid "正気なの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Calista].LobbyScriptSp2[1]
+msgid "い…今どうしたらいいかな…？じっとしてる方が…いい？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScript1[1]
+msgid "はい、司令官。今日の天気ですか？うーん…どうでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScript1[2]
+msgid "お茶を一杯お出ししましょうか？温かいものと、冷たいもの、どちらがよろしいですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScript1[3]
+msgid "機密文書…ですか？う～ん、司令官にはまだ権限が足りません…。うふふ、頑張ってください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScript2[1]
+msgid "天気がはっきりしてなくても小雨程度なら私が覆う事もできるので、ご一緒しましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScript3[3]
+msgid "権限確認。ドゥームブリンガーチーム３サイズ…閲覧？…う～ん。駄目です司令官。他の情報ならよろしいのですが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScript4[2]
+msgid "どんなお茶が好きかというと…司令官を見ながら飲むお茶？うふふっ！恥ずかしいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScriptSp1[1]
+msgid "…恥ずかしいです…司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Daika].LobbyScriptSp2[1]
+msgid "こっそりと…隠れながらでしたら…。どうぞお好きに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScript1[1]
+msgid "私がたくさん食べる理由ですか？純粋にエネルギー補給ですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScript1[2]
+msgid "私は元々、部隊を守るために作られました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScript1[3]
+msgid "煙幕弾の他の使用方法ですか？うーん…食料倉庫にこっそり忍び込む時に使えるくらいですかね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScript2[1]
+msgid "司令官、これ一緒に食べませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScript3[3]
+msgid "うひひ。司令官、煙幕でも焚きますか？そしたら私たちが何をしているのか誰にも気づかれませんよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScript4[2]
+msgid "出来る事なら永遠に司令官をお守りしたいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScriptSp1[1]
+msgid "え？司令官、何するんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Djinnia].LobbyScriptSp2[1]
+msgid "うう…いい…あ…なんか…ちょっとヘンな気持ち…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScript1[1]
+msgid "一番好きなもの？タイタンと…エイミーお姉ちゃんにあげたバックスネイクインライフルかな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScript1[2]
+msgid "タイタンを操縦したいの？だ～め！タイタンはデリケートなんだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScript1[3]
+msgid "暇な時は秘密兵器を作ってるよ。何かって？当然秘密。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScript2[1]
+msgid "そ、そんなこと聞くの？…最近は好きな事がちょっと増えたの…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScript3[3]
+msgid "秘密兵器？うーん…お兄ちゃんにも一つ作ってあげようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScript4[2]
+msgid "うぅ…タイタンは2人乗りにすれば良かったかなぁ。そしたらお兄ちゃんと一緒に座って操縦できたのになぁ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript1[1]
+msgid "なんかね…暖かい砲身を抱いていると眠たくなるんだよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript1[2]
+msgid "昔の音楽？めっちゃ好き…当時の人達は凄く幸せだったと思う。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript1[3]
+msgid "ウサギ耳、可愛いでしょ？昔はこれ専門のお店もあったみたいだけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript2[1]
+msgid "司令官も疲れてるならこれ抱いてみて。へへへ、すぐ温かくなるよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript3[3]
+msgid "縫い物？してあげようか？司令官の頭にもウサギ耳つけてあげるよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript4[2]
+msgid "昔の映画で男が女にヘッドフォンかけてあげるのを見たんだ。うーん…もうこれ自体をヘッドフォンに変えちゃおうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScript1[1]
+msgid "司令官…私まだ分からない事が沢山あって、色々学びたい。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScript1[2]
+msgid "司令官、何かジョークを知ってる…？教えて…。他の仲間に言ってみたい…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScript1[3]
+msgid "この服…？あっ…正式モデルじゃないから…適当に合うのを着てて…。おかしい…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScript2[1]
+msgid "司令官のベッドの下から本を見つけた。コンスタンチャは私は見ちゃ駄目って言ってるけど、何でダメなの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScript3[3]
+msgid "移動する時は私のジェノクスに乗ると楽よ…ハンターに見つかったら怒られるけど…。司令官も乗ってみる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScript4[2]
+msgid "司令官に教えてもらったジョーク…仲間たちがつまらないって…。私は面白いと思うけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScriptSp1[1]
+msgid "司令官がヘンな事したら…これ押してって言われた…よ。あ、コンスタンチャ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Emily].LobbyScriptSp2[1]
+msgid "人間は…こんなのが好きなんだ…。私もしてあげるよ…これで…引き分けだね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScript1[1]
+msgid "心配しないでください。私がお守りします"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScript1[2]
+msgid "これは発砲コンクリート弾です。一種の膨張セメントに形状記憶合金を加えたものです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScript1[3]
+msgid "逃げるつもりはありませんよ。私が逃げたら、皆さんが危険に晒されますから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScript2[1]
+msgid "司令官を守るのは…家族だからではありません。ただ…守りたいのです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScript3[3]
+msgid "司令官といると、いつもより力が湧いてきます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScript4[2]
+msgid "…コンクリート壁の後ろなら誰にも見られなくてすみます…。壁を…作りましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScriptSp1[1]
+msgid "家族同士で…だめです！こんなこと…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gnome].LobbyScriptSp2[1]
+msgid "ドキドキします。ちょっと背徳感もあって……。私がおかしいのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript1[1]
+msgid "電気系工学専門ですが、司令官を見ていると生物学にも関心が出てきます…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript1[2]
+msgid "砲助は大きなアクションの反動で接合部から中がちょっと見えちゃう時がエロいんですよね～！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript1[3]
+msgid "今日は何を作りましょうか？もう１本腕でも作りましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript2[1]
+msgid "ふ～む…生物学的な知識では知っているんですけど…実際男性の身体を見たことがなくて。えへへ…もしよかったら…見せてもらえませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript3[3]
+msgid "うふふ。ひょっとして何かご所望ですか？身体の一部を強化するのは簡単な事なので。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript4[2]
+msgid "あれ～？砲助のこと気になった？気になっちゃった？司令官？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Gremlin].LobbyScriptSp1[1]
+msgid "ひゅーひゅー！お互いにお触り大会かな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScript1[1]
+msgid "司令官？司令官へのこの爆発する気持ちを、今この砲弾で表現しても良い？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScript1[2]
+msgid "暇ならこっちに来て話でもしようよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScript1[3]
+msgid "夜にする熱～い遊びって楽しいよね～。…え、何言ってるの？花火の話だよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScript2[1]
+msgid "たまに司令官と話している時、頭が爆発しそうになる時があるんだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScript3[3]
+msgid "今夜は熱～い遊びをしようか？…まさか、花火の事考えてるんじゃないよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScript4[2]
+msgid "もう少しだけ近くに来てよ。そしたら、司令官も私の体温を感じられるでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScriptSp1[1]
+msgid "あら？それ、爆弾じゃないけど危ないよ!"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Impet].LobbyScriptSp2[1]
+msgid "司令官、そんなに打ち上げたいの…？何をとは言わないけどさ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScript1[1]
+msgid "…私がこのような大規模な隊を任せてもらっていいのか…心配になる時があります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScript1[2]
+msgid "そ、それでも任されたら一生懸命やります。見捨てないでください…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScript1[3]
+msgid "怖いですが…だからといって逃げてるばかりじゃいけませんから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScript2[1]
+msgid "私にこんな装甲ユニットを頂ける理由は分かりませんが…一生懸命頑張って期待に応えます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScript3[3]
+msgid "司令官が横に居てくださるなら…私、恐れません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScript4[2]
+msgid "司令官の命令であれば何でも一生懸命いたします…。ですからいつも一緒に居てください！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScriptSp1[1]
+msgid "うう、だめです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Io].LobbyScriptSp2[1]
+msgid "あぁっ！あぁ…司令官でしたか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScript1[1]
+msgid "司令官、戦争はタイミングだ。相手が考えるよりも早く攻め立てる、それで戦闘は終わる。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScript1[2]
+msgid "今日は戦闘無しか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScript1[3]
+msgid "司令官から誘われたがってる奴がいるらしいぞ。…私の事じゃないから誤解はするなよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScript2[1]
+msgid "司令官、タイミングが重要なのは戦争だけじゃないんだぞ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScript3[3]
+msgid "待つのは慣れてないんだが…。司令官…私に何か言う事はないのか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScript4[2]
+msgid "戦闘が無いのも悪くない。司令官とこうして一緒にいられるからな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScriptSp1[1]
+msgid "うっ！避けられなかったか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Khan].LobbyScriptSp2[1]
+msgid "今のは避けられたが……何故避けなかったのかは、わかるだろう?"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScript1[1]
+msgid "私は何故こんなに完璧なのだ？不思議でたまらんな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScript1[2]
+msgid "どんな褒美が欲しいのだ？この鋭い踵で踏んでやろうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScript1[3]
+msgid "司令官にはもっと私に相応しい人間になってもらいたい。できるな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScript2[1]
+msgid "私に気を使わなくても良いぞ司令官。私と一緒になる人間に完璧さなどを求めても無駄だと分かっている。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScript3[3]
+msgid "極稀に、司令官に何か特別さを感じる時がある。まあ、勘違いだろう。調子に乗らないでくれ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScript4[2]
+msgid "はぁ…なぁ、いいだろ？たまには私にも褒美をくれないか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScriptSp1[1]
+msgid "司令官、銃の撃ち方は分かるか？今、手本を見せてやる。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leona].LobbyScriptSp2[1]
+msgid "…目を閉じていてやろう。何も見えないから、何をしようがわからんぞ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScript1[1]
+msgid "閣下、私は閣下がブラウニー水準に落ちぶれないことを祈っています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScript1[2]
+msgid "できればここに居てください。何を言っているのですか？業務支援のためですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScript1[3]
+msgid "別に閣下を見ているわけでは…な、何を言っているんですか？勘違いに決まっています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScript2[1]
+msgid "あの馬鹿は本当に手がかかる。…彼女達ももう少し気をつけてくれれば良いんですが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScript3[3]
+msgid "そうやってじっと見つめるのはやめてください。この部屋に二人でいることだけでも…十分気が重いですのに。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScript4[2]
+msgid "はい、おそばに…。業務支援をもう少し効率的にするため…ただそれだけのためです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScriptSp1[1]
+msgid "私が慌てた姿を見たいのですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Leprechaun].LobbyScriptSp2[1]
+msgid "閣下、ブラウニーと同じ馬鹿ですか？このようなことは皆の前でやることではありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[1]
+msgid "普段ですか？主に訓練や瞑想を行っていますが？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[2]
+msgid "戦闘で一番重要なのは意志です。勝利するという意志だけあれば、状況がどうであれ勝機が見えてきます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[3]
+msgid "好きな事ですか？もちろん訓練と軍事学です。コーヒーですか？まぁ眠気を覚ますために嗜む程度です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScript2[1]
+msgid "最近は訓練に力を入れています。どうにも…瞑想に雑念が多くなってしまって…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScript3[3]
+msgid ""
+"コピルアク？エスメラルダゲイシャ？何を仰っているのか…私にはよく分かりませんが……。まさか本当にそれを探してきたわけじゃありませんよね？まさか…見つけたので"
+"すか！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScript4[2]
+msgid "昔は、誰のために勝利しなければならないのか悩んでいましたが…。もうそのことで悩む必要はなくなりました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScriptSp1[1]
+msgid "司令官閣下、どうかご自分の立場をお考え下さい。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie].LobbyScriptSp2[1]
+msgid "もう少しご注意なさっては？その…姉妹たちが見たら困りますので。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript1[1]
+msgid "もう…閣下は人気もたくさんあるんですね。私はいつも不安です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript1[2]
+msgid "閣下、体つきが大きい女性についてどうお考えですか？もしかして…お嫌いですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript1[3]
+msgid "この服を着た理由は…今は秘密です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript2[1]
+msgid "閣下の関心を引こうとする兵士はたくさんいます。でもこうして勇気を出したのは私しかいませんよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript3[3]
+msgid "この服を着ると…閣下をより近くに感じられると思いました。閣下はどうですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript4[2]
+msgid "…平均以上に大きい女性はお好きじゃないかと…内心心配しておりました。本当に…ほっとしました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScriptSp1[1]
+msgid "…立ち振る舞いを正しくすべきです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScriptSp2[1]
+msgid "…この服を着た甲斐が…あ、何でもないです。その…もう少し静かな所へ行きましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript1[1]
+msgid "くっ、こんな姿は私の意志ではありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript1[2]
+msgid "どうしてこんなタイミングに私を呼ばれたのですか？まさか回し者でもいるんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript1[3]
+msgid "閣下にはまだ早いです。もう少し健全な方へ関心を持たれては？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript2[1]
+msgid "閣下そうやって見てるだけだと困ります。何でもいいので指示をください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript3[3]
+msgid "本当にそんなに興味があるんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript4[2]
+msgid "今は司令官閣下の思い通りにいたします。どうか内部の回し者を教えてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScriptSp1[1]
+msgid "だ、駄目です！まだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScriptSp2[1]
+msgid "ここが気になりますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScript1[1]
+msgid "司令官、私は戦争が好き。早く敵を探して来てちょうだい。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScript1[2]
+msgid "私の頭の上の武器？そうね…言ってもいいのだけれど？まぁちょっと危険な武器よ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScript1[3]
+msgid "何と言っても結局戦争は爆撃で決まるのよ。何も考えずに突撃してるカーンみたいな子もいるけどね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScript2[1]
+msgid "ちょっと悩むわ。司令官と戦争、どっちが好きなのか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScript3[3]
+msgid "いつか司令官に私が最高だという事を証明してあげる。私がいれば他の指揮官は司令官に必要ないわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScript4[2]
+msgid "私の武器はよく知ってるでしょ？私も司令官の武器を確認したいんだけど？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScriptSp1[1]
+msgid "ふ～ん、いい度胸ね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May].LobbyScriptSp2[1]
+msgid "最低！一体何をしてるの？もうちょっとムードくらいは考えてよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScript1[1]
+msgid "とりあえず爆撃しとく？私が休みに行く所にゴミがいたらめんどうだし。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScript1[2]
+msgid "この水着を着たら司令官の体の中で核融合でも起こりそうなんだけど？ほんと、簡単よね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScript1[3]
+msgid "とりあえず、休暇地の周りはシルフィードに警備を任せておくわ。報告が上がってきたら消せばいいし。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScript2[1]
+msgid "司令官と一緒に行くならもう少し静かな所が良い。ナイトエンジェルに教えておくわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScript3[3]
+msgid "いくら私でも司令官と二人でいる時間まで邪魔されるのは嫌だから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScript4[2]
+msgid "私がこんな水着を着た理由は分かってるよね？鼻息ばっか荒くしてないで、自信もって行動しなよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScript1[1]
+msgid "ん？私の服に何か付いてる？取ってちょうだい。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScript1[2]
+msgid "司令官もチョコレート食べたい？一つあげましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScript1[3]
+msgid "あの、司令官？…そんなにやる事ないの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScript2[1]
+msgid "やだ！そんなに…見つめないで。恥ずかしいん…だってば…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScript3[3]
+msgid "いや、忙しくないわよ。今は司令官と二人で話がしたい…。今日…どうだった？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScript4[2]
+msgid "チョコレート？ポケットに入ってるから出して食べ…ちょっと、何度もそこを触らないで。もう…馬鹿…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScriptSp1[1]
+msgid "変なことしないで！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho].LobbyScriptSp2[1]
+msgid "もう…思う存分触ったんじゃない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScript1[1]
+msgid "ん〜？味見するだけだよ？分かった？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScript1[2]
+msgid "いひひ～。まだ誰に渡すか言ってないけど？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScript1[3]
+msgid "形が悪いのは、袋から出して食べても良いよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScript2[1]
+msgid "バカ。まだダメ。もう少し我慢できるでしょ？うん…？我慢できないって…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScript3[3]
+msgid "前のポケットにあるから出して食…あっ！ちょっと変なとこに手入れないでってばぁ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScript4[2]
+msgid "一日に一個までだよ？約束守らなかったら、もう作ってあげないんだから。分かった？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScriptSp1[1]
+msgid "どこ触ってるのよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Miho_NS1].LobbyScriptSp2[1]
+msgid "も～う…思う存分触ったんじゃない？…何をしたいの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScript1[1]
+msgid "好きな事は、やっぱり一人で歌を歌うことかな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScript1[2]
+msgid "小さい時はずっと閉じ込められていたから、今もちょっと…誰かと一緒にいることに慣れないよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScript1[3]
+msgid "ファントムとかレイシーもそうだけど、私たちは特殊な力を使えるように作られたの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScript2[1]
+msgid "たまに、私が歌っているのを誰かが聞いてくれたらなって思う事もあるよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScript3[3]
+msgid "力のせいで不幸だったかって？う～ん…昔はそう思っていた事もあったよ。でも今は…ううん…何でもない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScript4[2]
+msgid "最期が幸せならいいやって思ってたけど、こうして司令官とずっと一緒だといいな…って今は思うよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScriptSp1[1]
+msgid "司令官、私、怒るよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Neodym].LobbyScriptSp2[1]
+msgid "司令官は私の味方だから…うん…ちょっとだけなら許してあげる。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScript1[1]
+msgid "友達と遊ぶ事を考えてると、いつも楽しいんだ〜。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScript1[2]
+msgid "遊び過ぎって？そんなことないよ、ネリネリが遊んであげてるんだから、みんな楽しいに決まってるじゃない！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScript1[3]
+msgid "私の銃は船の上でも地上でもよく飛ぶから、どんなところでもバッチ来いよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScript2[1]
+msgid "最近は…司令官と遊ぶのが一番楽しいかな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScript3[3]
+msgid "こうして密室で二人きりでいると…悪戯したくなっちゃう。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScript4[2]
+msgid "司令官、司令官！私が遊んであげようか？えへへ、任せておいて！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScriptSp1[1]
+msgid "な、何やってんの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nereid].LobbyScriptSp2[1]
+msgid "いいよー！司令官、いたずら対決だよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScript1[1]
+msgid "たまにメイ隊長を見ると、やはり隊長だって思う時があります。胸だけは。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScript1[2]
+msgid "胸部の脂肪はステルス機能と飛行の邪魔になるだけです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScript1[3]
+msgid "この制服は気に入りません。何というか…何故敢えて胸部が開いているんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScript2[1]
+msgid "ちぇっ、メイのガキ…。ああいう胸は私のような大人にこそ似合うのに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScript3[3]
+msgid "胸を…くっ！寄せてみたけど…ダメでした！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScript4[2]
+msgid "時々思います。ステルス機能なんて糞くらえ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScriptSp1[1]
+msgid "驚きました? 驚くほど何もなくて…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel].LobbyScriptSp2[1]
+msgid "うっ！こんな胸も好きだなんて…一体どれほどの変態なんですか！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript1[1]
+msgid "まぁこのような素晴らしい脚はメイ隊長のようなガキには無縁のものです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript1[2]
+msgid "オードリーさんが仰っていました。私の競争相手はカーン隊長かマリー隊長くらいだと。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript1[3]
+msgid "この水着本当に気に入りました。やっぱり、エイミーさんに相談したのが良かったです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript2[1]
+msgid "司令官はどうですか？上半身派ですか？下半身派ですか？下半身だと良いんですが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript3[3]
+msgid "エイミーさんには感謝しています。うふ、ところで上手くいったら3人で会おうって言われたのですがどういう意味でしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript4[2]
+msgid "どうです？司令官、仰ってください。カーン隊長やマリー隊長より私の方がいいですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScript1[1]
+msgid "おかしいと思うかもしれませんが、たまに良い紅茶が欲しくなります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScript1[2]
+msgid "海の中はとても綺麗です。時々、食事をしながらボーっと眺めています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScript1[3]
+msgid "寒がりにならない秘訣ですか？…そ、それは秘密です！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScript2[1]
+msgid "良いお茶が手に入りました。一緒に…飲みませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScript3[3]
+msgid "もう少し痩せたいけど…体に脂肪が十分にないと寒い所で戦えないので…。し、仕方ないのです！こればかりは…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScript4[2]
+msgid "美味しいオリーブが手に入りました。…これで朝ご飯を作ってあげたいのですが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScriptSp1[1]
+msgid "し、失礼ですよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Nymph].LobbyScriptSp2[1]
+msgid "…こんなこと…いけません…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScript1[1]
+msgid "なるべくくっつかないでくれる？私、ベタベタしてるの嫌いなの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScript1[2]
+msgid "勘違いされるとあれだから敢えて言っておくけど、人間と会っているのはただ任務だからよ。他に何の感情もないわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScript1[3]
+msgid "何？この戦闘スーツ？これは別に下着や水着じゃないし。全然恥ずかしくなんかないわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScript2[1]
+msgid "くっつかないでほしいっていうのは、あっち行けって意味じゃなくて…。う…まぁ…ちょっとくらいなら許してあげる。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScript3[3]
+msgid "何よ、藪から棒に…。もしかして…私に関心でもあるの？…ふ、ふ～ん…それなら仕方ないけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScript4[2]
+msgid "私が人間と会ってまだ間もないのにそんなわけないじゃない、全然違う！勘違い！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScriptSp1[1]
+msgid "何やってんの！この変態！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PA00EL].LobbyScriptSp2[1]
+msgid "人間…私と仲良いからって、こんなこと許されると思ってるの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScript1[1]
+msgid "エミリーって面白いでしょ？私も好き！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScript1[2]
+msgid "司令官～今日は休んじゃだめ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScript1[3]
+msgid "よし。決めた！今日は遊ぶことにする！いいよね？司令官♪"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScript2[1]
+msgid "う～ん…司令官とエミリー…もし溺れたら誰を助けよう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScript3[3]
+msgid "司令官、私と面白い遊びしよう！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScript4[2]
+msgid "あ、今日はちょっと休みたいな～。司令官の部屋で休もうかな♪"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScriptSp1[1]
+msgid "ううっ！何だよ！司令官、ヘンタイ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Pani].LobbyScriptSp2[1]
+msgid "司令官はヘンタイだなぁ。しょうがない。私もヘンタイになるしか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScript1[1]
+msgid "うーん…一人でも良いから小さな動物のお友達でも一緒に居てくれたらって思う事もあります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScript1[2]
+msgid "…仲良くなるには…もっと話がうまくならないといけないのか…。あっ…い、今のは秘密にしておいてください…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScript1[3]
+msgid "表情だけでも…周りから頼られる人になるためには、しっかりしておかないといけないのです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScript2[1]
+msgid "やはり…動物よりは…司令官と居るのが…。あ、何でもないです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScript3[3]
+msgid "おかしいです。なぜ司令官の前では表情が和らぐのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScript4[2]
+msgid "今は…何でも良いです。ただ…司令官が横にさえ居てくれたら…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScriptSp1[1]
+msgid "な、何を…これは、仲良くなるための儀式ですか？だったらしょうがないですけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phantom].LobbyScriptSp2[1]
+msgid "司令官は…その、私ともっと仲良くなりたいんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScript1[1]
+msgid "私が重いって事、どこで聞いたの…？誰がバラしたの？教えなさいよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScript1[2]
+msgid "司令官も本当にしつこいよね…。で、何をすれば良いの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScript1[3]
+msgid "上から見下ろすのは、私の特権なんだから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScript2[1]
+msgid "司令官、誤解するかもしれないから言っておくけど、私は決して重くないわ。ただ砲弾を沢山持ち歩いているだけよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScript3[3]
+msgid "司令官、自信を持って。司令官は私が見下していない、唯一の人だから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScript4[2]
+msgid "さぁ、私の推理を話すわ…。司令官の脈の速さとその真っ赤な顔……。この変態…ッ！…本当に、ほんとに…したいの…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScriptSp1[1]
+msgid "何してんのよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Phoenix].LobbyScriptSp2[1]
+msgid "司令官、一応この上に乗ってみて…。今ならどこまででも高いところまで飛べそうなの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScript1[1]
+msgid "たまに昔のスーパーヒーローの映画を見るの！まぁ私にも同じことができると思うけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScript1[2]
+msgid "暇なら鉄虫の記録を整理して。今後の対策にしたいの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScript1[3]
+msgid "本当は軍人より警察の方が向いてるんだけど…こんな世界ならどっちも似たようなものじゃない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScript2[1]
+msgid "へへ。司令官のおかげね。私が真のヒーローと呼ばれる日がきっと来るわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScript3[3]
+msgid "司令官のために悪党を捕まえるのが好き。あ、もちろん司令官のためじゃなくても好きな事だけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScript4[2]
+msgid "司令官、…私たち2人組でヒーローとして活動しない？私が相棒になってあげるから…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScriptSp1[1]
+msgid "司令官、悪党にでもなるつもり？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PoniesAnger].LobbyScriptSp2[1]
+msgid "うん…同意すれば犯罪じゃないから…えっと、そうだよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScript1[1]
+msgid "司令官？もしかして私…歩き方変ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScript1[2]
+msgid "私が司令官の横にいるなんて…まだ実感が湧きません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScript1[3]
+msgid "はい、司令官。何か御用ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScript2[1]
+msgid "え、ふぇええ？可愛いだなんて…そんなこと…。私には似合わないです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScript3[3]
+msgid "そ、そんなことを言われても…。私…どうしたらいいか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScript4[2]
+msgid "司令官は本当に良い方です。そばにいるだけでも心が落ち着きます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScriptSp1[1]
+msgid "ふええ！やめてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_PXSilky].LobbyScriptSp2[1]
+msgid "あの…司令官…？何を考えて…いるんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScript1[1]
+msgid "うん！あたしはここにいるよ。何か用？ただ…呼んでみただけ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScript1[2]
+msgid "ねぇ司令官。あたしと何か飲みに行く？大丈夫！あたしがおごるから！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScript1[3]
+msgid "ここは本当にのんびりしているね～。うんっ！気に入った♪"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScript2[1]
+msgid "用が無くても呼んでね。司令官が私に関心があるって証拠だから、気分が良いんだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScript3[3]
+msgid "でへへ！司令官がここにいるから出ていきたくないな～。あたし実はめっちゃ面倒くさがり屋なの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScript4[2]
+msgid "あんまり近くにくっつかないで。い…嫌だってわけじゃなくて、ただ…えへへ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScriptSp1[1]
+msgid "踏んじゃうぞ～！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_QuickCamel].LobbyScriptSp2[1]
+msgid "ちょ、もうちょっと優しく…！…嫌じゃないけど、ビックリしちゃうじゃん…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScript1[1]
+msgid "今日は何をして暇つぶしするか悩んでます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScript1[2]
+msgid "時々悩んでいます。戦争以外でも私たちは意味のある存在なのか、と。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScript1[3]
+msgid "明日が来るという保証はないので、今日を楽しまないとですよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScript2[1]
+msgid "時々司令官閣下とお話しできたら嬉しいなって思います。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScript3[3]
+msgid "私があとどれだけ生きることができるか分かりませんが…今この瞬間だけは楽しいと感じます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScript4[2]
+msgid "こんな世界で生きる意味を見つけるのは難しいですが、司令官閣下が私の生きる意味になってくれたら…もっと力を発揮できると思います。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScriptSp1[1]
+msgid "怖いのは分かりますが、これはちょっと違う気がします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_SandMan].LobbyScriptSp2[1]
+msgid "何ですか？まさか、これで終り？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScript1[1]
+msgid "私が何故、体を触るかですって？体自体が入力装置ですから、仕方ないですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScript1[2]
+msgid "露出狂だなんて心外ですわ。いいですか？これは発熱のためです。高性能機には高効率な発熱が必要不可欠なのです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScript1[3]
+msgid "健全な肉体には健全な魂が宿ります。そう、まるで私のように。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScript2[1]
+msgid "キーを打つ動作が特殊なのは私も知っています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScript3[3]
+msgid "完璧でしょう？私の身体。うふふっ…ひょっとして確認してみたいんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScript4[2]
+msgid "露出がひどいですって？まさか…司令官、嫉妬しているんですか？あんまり嫉妬深いと嫌われますよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScriptSp1[1]
+msgid "にゅ、入力したいキーがあるなら、言葉でお願いできます？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy].LobbyScriptSp2[1]
+msgid "うふ…どんなコマンドがお望みですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScript1[1]
+msgid "心も身体も…準備には時間が必要なの。でも…あんまり待たせないでね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScript1[2]
+msgid "うふふ。今夜は放さないわよ、ア・ナ・タ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScript1[3]
+msgid "手に入れるの難しかったんだから、残しちゃ駄目よ。分かった？うふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScript2[1]
+msgid "ああ～ん。どこに行くんですか～。だったら私もついていきますね。うふふっ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScript3[3]
+msgid "あら？私が用意したもの気に入ったの？うふふ。じゃあ次は…私が味わう番…ね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScript4[2]
+msgid "今夜は私がぜ～んぶしてあげるから、動かないで。何もしなくていいのよ、アナタ。うふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScriptSp1[1]
+msgid "うぅん～…もっと優雅にできません？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Scathy_NS1].LobbyScriptSp2[1]
+msgid "あら、ハニー…心の準備ができたのね？うふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScriptSp1[1]
+msgid "な、何を考えていらっしゃるのですか？！ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScript1[1]
+msgid "オモチャの蛇だなんて…はぁ……ネリさんは本当にこれが面白いと思ってるんでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScript1[2]
+msgid "司令官、どうすれば隊員達ともっと仲良くなれるのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScript1[3]
+msgid "私には、ホライゾンの隊員達を指揮する義務があります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScript2[1]
+msgid "ふふっ！ネリさんはいつも楽しそうですよね？…間違いを指摘してもいつも同じ表情ですよね……一体……なんでなのでしょうか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScript3[3]
+msgid "い、一度くらいは……司令官と遊びに出掛けたいです。ダメ…ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScript4[2]
+msgid "私は司令官ともっと仲良くなりたいです。司令官はどう思っていますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScriptSp1[1]
+msgid "うわっ?!"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sirene].LobbyScriptSp2[1]
+msgid "そんなことしたらっ！……だめなのに……"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript1[1]
+msgid "最高速度？私を誰だと思ってるの？本気になればマッハ１００位は余裕で出るんじゃないかしら？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript1[2]
+msgid "この流れるようなプロポーションは完璧よ。胸？抵抗を考えて、わ・ざ・と、減らしたのよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript1[3]
+msgid "昔は私のサインを貰おうと１km以上の列ができたものよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript2[1]
+msgid "今日はちょっと暑苦しいから、外で私の速さを見せてあげようか？マッハ１００位でいい？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript3[3]
+msgid "昔の私のファンのことは忘れたわ。今はもっと大切なものができたから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript4[2]
+msgid "あの…司令官はやっぱり大きな方が好きなの？違うでしょ？…ほっそりしてる方がもっと好きでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScriptSp1[1]
+msgid "なっななななんて！なんてことしゅるのっ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScriptSp2[1]
+msgid "こ、これくらいは平気だよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScript1[1]
+msgid "人気？もちろんトップよ。確認したければサイン会でも開いてみたら？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScript1[2]
+msgid "ステージの裏側？空いてはいるけど…何で？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScript1[3]
+msgid "何？どうしてそんな目で見るの？これはただの舞台衣装なんだから！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScript2[1]
+msgid "司令官、ひょっとしてサインが欲しいの？私…司令官のために限定版持ってきたんだけど…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScript3[3]
+msgid "あの…司令官。司令官が嫌なら…ステージ衣装は…司令官の前だけで着ようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScript4[2]
+msgid "人気のないところに行って…何をしようとしてるの？まさか…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScriptSp1[1]
+msgid "こ、こんなことで私が…あ、慌てると思ってるの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS1].LobbyScriptSp2[1]
+msgid "か、感謝しなさい…このトップアイドルにこんなスキンシップ…司令官だから許してるんだから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript1[1]
+msgid "私のファッションセンスを見せてあげたいけど、軍服だとこれが精一杯だわ。 何かいいアイデアない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript1[2]
+msgid "今日は誰の話をしてあげようか？カリスト？イオ？違うってば、ただの噂話じゃなくって、私がこの目で確かに見たんだってば。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript1[3]
+msgid "私のこと？…いきなりどうしたの？う～ん、まだ駄目なんだけど…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript2[1]
+msgid "本当に…軍服でも大丈夫？ あ、そういう趣味なら…しょうがないけど…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript3[3]
+msgid "私の秘密が知りたいの？…分かった～。後で私の部屋に来て。暗証番号教えてあげるから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript4[2]
+msgid "私たちの関係、みんなもう知ってたんだけど…そうなの！それももう噂になってて… これから…どうするつもり？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScriptSp1[1]
+msgid "や…やめて…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan].LobbyScriptSp2[1]
+msgid "私のこと…好きだからだよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript1[1]
+msgid "海って最高！泳げるし、お祭りもあるし。でも一番いいのはワイワイしてるってことだね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript1[2]
+msgid ""
+"はい。とりあえずはこの地域の情報を集めてみましょうか。まずは…御飯が美味しいお店と… (取材するように) でも雰囲気は出るじゃないですか！ "
+"(注意されて少しバツが悪そうな状況)"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript1[3]
+msgid "今日はどんな話をしてあげようか？夏だしやっぱり怖い話する？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript2[1]
+msgid "ひひひ。司令官ったら私の水着姿が見たくて海に行こうって言ったんでしょ"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript3[3]
+msgid "怖い話って聞くのは怖いけど、きゃ～なんて抱きついちゃうこともできるでしょ。えへへ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript4[2]
+msgid "バカンスといったらホテルも大事だよね。ロケーションももちろん大事だけど、えへへ～後ベッドも重要だよね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript1[1]
+msgid "あのさ…ここにはちょっとイケイケな感じの子たちはいないの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript1[2]
+msgid "ああ昔が恋しい。私みたいなタイプが流行りだったころが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript1[3]
+msgid "制服のボタン？ああ…そ、それ…わ、私がちょっと開放的なタイプっていうか…そんな感じよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript2[1]
+msgid "司令官、私と一緒にいれること自慢してもいいのよ。私って超イケてるでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript3[3]
+msgid "うーん…実は私それほど開放的で大胆な性格じゃないんだけど…今さら制服のボタン閉めてもなぁ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript4[2]
+msgid "司令官、もしかして私のこと…好き？まぁ、当然よね！自然の摂理よ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScriptSp1[1]
+msgid "何やってるのよ!ドアが開いてたからって、勝手に入って来ていいわけじゃないの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sylphid].LobbyScriptSp2[1]
+msgid "ま、どうしても触りたいなら…特別に許してあげるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript1[1]
+msgid "私の魅力？そりゃまあ、模範生徒のような真面目さと、にじみ出るこの…知性！じゃない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript1[2]
+msgid "学校に隠れている理由？…あぁ…昔は学校に拉致とかそういう物騒な事件が多かったからね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript1[3]
+msgid "何だっけ～？私みたいに多方面にイケてる人のことを言うあの…八宝美人みたいなさ…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript2[1]
+msgid "司令官、しりとりでもする？私の知性を存分に思い知らせてあげるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript3[3]
+msgid "皆まで言わないで！…私の知的な美しさに見惚れてたのね？ふふっ！まぁ、私、賢さの塊みたいなものだもんね！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript4[2]
+msgid "大丈夫だよ、司令官。私がいつでもそばにいて守ってあげるから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScriptSp1[1]
+msgid "ちょ、何してるのよバカ！こういうのをハレ…レンチン？って言うのよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Tomoe].LobbyScriptSp2[1]
+msgid "司令官、これ…私…ボコボコにされる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScript1[1]
+msgid "私？人気者よ。飛行ショーでもしようものなら、一瞬でオーディエンスが集まるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScript1[2]
+msgid "ふん。何度も何度も声をかけないでほしいわ。私、静かな方が好きなの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScript1[3]
+msgid "司令官、その顔を見るに…女性関係で悩みがあるのかしら？え？違うって？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScript2[1]
+msgid "正直言うと…人気に比べたら売れる数はちょっと低調だったわ。まぁ、グリフォンみたいな廉価型がよく売れていたのもあるけど。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScript3[3]
+msgid "司令官、難しい顔してるわね？もしかして…あぁ、心配しないで。私はそんなに理想は高くないわよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScript4[2]
+msgid "司令官、何か用？何でずっと見つめてるの？もしかして…私、何か怒るようなことした？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScriptSp1[1]
+msgid "ノ…ノン！やめて！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Undine].LobbyScriptSp2[1]
+msgid "もう、あなたの女性に対する興味が本物かどうか…。確かめてあげるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScript1[1]
+msgid "お喋りには興味ありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScript1[2]
+msgid "戦場においてスコープに頼りすぎるのは危険です。きちんと立ち位置を考えながら接近しないと。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScript1[3]
+msgid "好きな事…？特にありませんが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScript2[1]
+msgid "…時々こうして話をするのも悪くないですね…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScript3[3]
+msgid "最近は好きな事…できました。その…今度…お話いたします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScript4[2]
+msgid "私の特殊兵装であるこの目に感謝する時があります。…司令官のことを簡単に見つけることができますから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScriptSp1[1]
+msgid "通報されたいんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie].LobbyScriptSp2[1]
+msgid "私にだって我慢の限界というものが…。十回以上は… 駄目です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript1[1]
+msgid "計画について詳しく教えてください。場所はやっぱり海ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript1[2]
+msgid "とりあえず持っていくものは、スコープは必要ないですが、ゴーグルは必要です。それと浮き輪、サンクリーム。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript1[3]
+msgid "服装を変えるだけでこんなに気分が変わるものなのですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript2[1]
+msgid "時々こうして話をするのも悪くないですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript3[3]
+msgid "司令官はちゃんと水着を用意されましたか。心配なさらずに私が既に採寸しておきました。オードリーさんに仕立てをお願いしましょう。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript4[2]
+msgid "昔は男女がバカンスに出掛ける時、必ず持って行くものがあったと聞きました。それが何か知っていますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript1[1]
+msgid "司令官は何を考えているの？私は、昨日やらかしたことを思い出してた。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript1[2]
+msgid "好きなこと？こっそり一杯やることでしょ！一緒に飲んじゃう？司令官？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript1[3]
+msgid "司令官がボーっとした顔してたら、私までそんな感じになっちゃう。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript2[1]
+msgid "あら…今甘えているの？可愛いね～。お姉さんと…面白い事しに行く？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript3[3]
+msgid "知ってる？司令官はあくびする姿がいっちばん可愛い。だから他の子たちには見せないでね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript4[2]
+msgid "どうしよう～あの時一杯誘うんじゃなかったな…司令官とこうなるなんて誰が思っていたか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScriptSp1[1]
+msgid "ほ～？自信あるの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_WarWolf].LobbyScriptSp2[1]
+msgid "はぁ…我慢、できない？…どこか静かな所にでも…行こうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScript1[1]
+msgid "ちょっとだけ、休んでいきませんか…ご迷惑はおかけしません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScript1[2]
+msgid "司令官…お辛そうですね…。何かありましたか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScript1[3]
+msgid "あなたは優しいですね…。誰にでも暖かな方…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScript2[1]
+msgid "私は…ここに居てもいいのですか？ありがとうございます…優しいお方…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScript3[3]
+msgid "ごめんなさい…あなたが…私だけに優しくしてくれたら…。そう、思ってしまったんです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScript4[2]
+msgid "大丈夫ですよ…私がそばに居ます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScriptSp1[1]
+msgid "はっ…触らないで！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Wraithy].LobbyScriptSp2[1]
+msgid "そんなこと…しないでください…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript1[1]
+msgid "退屈ですね。狩りも、宴会もないこんな場所でどう暮らせというのですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript1[2]
+msgid "真の男たるもの、伴侶を守るのは当然の事でしょう。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript1[3]
+msgid "私に何か御用でも？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript2[1]
+msgid "ふっ…そなたのそばであれば、ここの生活もそれほど悪くはないですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript3[3]
+msgid "ご要望があれば何なりと。私が何でも聞いて差し上げますから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript4[2]
+msgid "そうですね、ひょっとしたら…そなたと共に過ごすこの生活を…望んでいたのかも…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScriptSp1[1]
+msgid "品性の欠けた行動は慎みなさい！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Atalanta].LobbyScriptSp2[1]
+msgid "そなた、私を獲物と思ってますね。…本当の狩人の技、見せてあげましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScript1[1]
+msgid "私がここにいる以上…誰も傷つけさせません。 "
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScript1[2]
+msgid "あまり女性に近づかないでください。淫乱に陥る事は罪を犯す事と同義ですよ…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScript1[3]
+msgid "私が正しい道と貞潔な生き方をお教えいたしましょう…。心を正して聞いてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScript2[1]
+msgid "私は全ての生命に公正でなければなりませんが……人間の男性…、あなたには少し特別に接しても大丈夫でしょうか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScript3[3]
+msgid "伴侶……に、人間の男性！今日のあなたの予定…いえ…計画はどのようになっていますか？正しい世界を作る為に計画を一緒に考えましょう？ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScript4[2]
+msgid "伴侶、ご心配なさらずに。私達二人の些細な事は私が管理しますので…伴侶は大事なことだけ考えていてくださいね…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScriptSp1[1]
+msgid "ふぅッ……私がまた…貞潔な生き方についてお話ししなければなりませんね…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Azazel].LobbyScriptSp2[1]
+msgid "ふふっ……伴侶とならこれは堕落じゃない…です。ですよね…？きっと、そうです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript1[1]
+msgid "好物は茹でたジャガイモに塩があれば…あ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript1[2]
+msgid "皆さんの前でもう一度公演ができるならば、私は何でもいたします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript1[3]
+msgid "マリーさんは本当に真面目過ぎます。粋というものを理解できないなんて、何だか可哀そうです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript2[1]
+msgid "りょ。。料理に貴賤はありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript3[3]
+msgid "うっ！帽子の羽だけは何があっても取れません！マリーさんは粋というものを全く知らないんですから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript4[2]
+msgid "陛下にだけお見せしたいものがあります。どうか、正直な感想をお聞かせくださいますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScriptSp1[1]
+msgid "へ…陛下？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte].LobbyScriptSp2[1]
+msgid "陛下、こういうことは見えない所で…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript1[1]
+msgid "陛下？もしかしてオイルなどは…いえ、何でもありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript1[2]
+msgid "夏休みってこんなに楽しいものなのでしょうか。ところで陛下？ 本当に…このまま何もしないおつもりですか？ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript1[3]
+msgid "視線には慣れておりますのでご心配なく。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript2[1]
+msgid "あの…陛下？もしよろしければオイルを塗ってくださいますか？うふふ…ええ、私が教えて差し上げます。 "
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript3[3]
+msgid "陛下の視線は…我慢の限界に挑戦するような感じです…うふふ。陛下？今私をご覧になりながら…何をお考えでしょうか？ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript4[2]
+msgid ""
+"陛下？せっかくの休暇なんですよ…(ごねる) えいっ！この書類のせいだったんですね！これでもう大丈夫。もう私を見てくださいますね？ "
+"(主人公の仕事を勝手に片づけ、愛嬌を振りまく)"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScript1[1]
+msgid "殿が望むというならば、余の過去について語ってもいいぞ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScript1[2]
+msgid "我が剣は主君たる殿に預けた。その意味を見失うでないぞ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScript1[3]
+msgid "最近は訓練と戦闘以外にやる事がない。昔はもう少し在りし日の栄光について語る時があったものだが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScript2[1]
+msgid "殿には話したい事が山程ある。そのすべてをどうすれば語れるだろうか。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScript3[3]
+msgid "たまには訓練と戦闘以外でも殿と話がしたい。なぁ、いいだろう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScript4[2]
+msgid "我が剣はただ殿のためだけに。これまでも、これからも、永遠に。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScriptSp1[1]
+msgid "殿よ、何をする！？破廉恥な…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Johanna].LobbyScriptSp2[1]
+msgid "うっ…と、殿が望むなら…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScript1[1]
+msgid "むかーし、マジカルモモステッカーが流行ったのって知ってます？良い子のみんなに大人気だったんですよ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScript1[2]
+msgid "はい～、モモはいつでも司令官のおそばに居ますよ。どんなお手伝いします？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScript1[3]
+msgid "悪に立ち向かうのは、魔法少女の宿命です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScript2[1]
+msgid "あの…司令官？ちょうどマジカルモモの純正ステッカーがあるんですけど…。もしよければ、一つ差し上げましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScript3[3]
+msgid "悪者をやっつけるのも大事だけど…今は司令官と一緒に居たいんです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScript4[2]
+msgid "モモはいつも司令官のそばに居ます。でも、それを忘れたら駄目だから、魔法をかけてあげます。絶対に忘れたら駄目ですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScriptSp1[1]
+msgid "ちょっと、司令官くん！めっ！！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo].LobbyScriptSp2[1]
+msgid "へへ…それが…お望みなら…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript1[1]
+msgid "ここの姉妹たちはモデルになるにはちょっと…大きすぎますわね。ナイトエンジェルさん以外は。…人材が不足してますわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript1[2]
+msgid "うっ、インスピレーションが足りませんわね。もっと刺激が必要ですわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript1[3]
+msgid "司令官はファッションをもっと整える必要がありますわね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript2[1]
+msgid "どうです？司令官、ランウェイに立って見たくなくって？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript3[3]
+msgid "まぁ…ファッションの完成は顔だという点で…ううーん…。司令官はほぼ完成されてるような感じですわね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript4[2]
+msgid "ううーん…最近は刺激が強すぎますわ。何で他人事ですの？全部司令官のせいなのに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScriptSp1[1]
+msgid "あら…こんなことは美しい行動じゃなくってよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Audrey].LobbyScriptSp2[1]
+msgid "本当に…グッド。しかしバッド。もっと静かな場所に行きましょう。ここでは他の姉妹たちが見てますわ。アンダースタン？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScript1[1]
+msgid "ちょっと大変だけど、やりがいのある仕事ですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScript1[2]
+msgid "やはり、退勤後に飲むビールは最高ですね！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScript1[3]
+msgid "へへっ。私が行かなきゃ誰が行くんですか。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScript2[1]
+msgid "ふぁぁ…ふぅ…。昨日もあんまり眠れませんでした…。へへへっ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScript3[3]
+msgid "今日だけ…司令官と休んではいけないでしょうか？一日だけ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScript4[2]
+msgid "あの…司令官、ビールを持ってきました。一杯飲みますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScriptSp1[1]
+msgid "警察を呼びますよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_BS].LobbyScriptSp2[1]
+msgid "恋愛は…初めてだから…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScript1[1]
+msgid "あの、司令官？私やっぱり…ダイエットした方がいいかな？だ…大丈夫、正直に言ってよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScript1[2]
+msgid "チアリーダーは絶対味方のチームが負けるなんて思ってない。司令官もそう思うでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScript1[3]
+msgid "うん？こう？こう？もう少し早くしようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScript2[1]
+msgid "うぅ…ダイエットするなってのは、そういう理由だったの？う～ん…分かったよ、司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScript3[3]
+msgid "そ…そんなリクエストは絶対にパスだけど…そんなに…見たいの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScript4[2]
+msgid "司令官さえ居れば、どこに行ってもちゃんとやれる自信がある。司令官も私を信じてくれるよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScriptSp1[1]
+msgid "そ…そんなむやみに押さないでよ、危ないじゃん！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina].LobbyScriptSp2[1]
+msgid "もう…そんなにしたら…壊れちゃうよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript1[1]
+msgid "写真撮りたいの？何に使うの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript1[2]
+msgid "ウサギの耳可愛い！えへへ、司令官もそう思うよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript1[3]
+msgid "応援？今はチアリーダーじゃないよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript2[1]
+msgid "あは！司令官、私がいない時も私の代わりに写真を見たいんだね！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript3[3]
+msgid "バニーガールの応援でも頑張れるって本当？なら、応援してあげてもいいよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript4[2]
+msgid "私、うさぎについて勉強したことあるんだ。うーん、うさぎはね、子供を沢山作るんだって。あ！これはただ勉強してたら、、"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript1[1]
+msgid "暇ですね…お散歩にでも行きませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript1[2]
+msgid "な～んか面白い事ないですか？こんな時、鉄虫でも現れてくれたらいいのに…。冗談ですよ、冗談！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript1[3]
+msgid "暇！暇！！司令官～。面白い事何かな～い？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript2[1]
+msgid "司令官、司令官！一緒にお散歩に行きましょう？駄目ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript3[3]
+msgid "司令官といると幸せな気持ちになります。えへへ…でへへっ。言葉では言い表せません！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript4[2]
+msgid "えへへ、いつか世界が平和になったら、司令官と沢山デートしたいです！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScriptSp1[1]
+msgid "司令官の変態！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScriptSp2[1]
+msgid "びっくりした～！あ、司令官だったんですね…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScript1[1]
+msgid "早く早く～。ご主人様！お散歩に出掛けましょうよ～。早く～！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScript1[2]
+msgid "ご主人様、ご主人様～。何を考えてるんです？え～教えてくれないんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScript1[3]
+msgid "ご主人様～暇～。今日は私と何して遊びますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScript2[1]
+msgid "今日は違うコースを希望します。もっと遠く遠くに行きたいです。準備できましたか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScript3[3]
+msgid "アタシたちだけでできる事ってたくさんありますよね…？警察ごっこでもしましょうか。えへへっ~。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScript4[2]
+msgid "でも、アタシはご主人様の考えている事が気になります！教えてくださいよ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScriptSp1[1]
+msgid "ご主人様のヘンタイ…！ヘンターイ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScriptSp2[1]
+msgid "ふあっ！先に…言ってくれれば…いいのに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript1[1]
+msgid "司令官にお会いできて良かったです。地球に残っててよかった。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript1[2]
+msgid "ホワイトシェルに乗って海を探検するのも気持ちいいですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript1[3]
+msgid "うーん…大人にはなりたいんですが、体が大きくなってホワイトシェルに乗れなくなるのは嫌です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript2[1]
+msgid "地球に残ってて良かった点ですか？えへへ。司令官と一緒に居れることです！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript3[3]
+msgid "うーん…私は大人になれますか？そうじゃなきゃ司令官はいつまでも私を子供扱いしますよね…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript4[2]
+msgid "司令官がもう少しだけ小さければホワイトシェルに一緒に乗れたのに…。とても残念です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScriptSp2[1]
+msgid "…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Drone].LobbyScript1[1]
+msgid "何かお困りでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Drone].LobbyScript1[2]
+msgid "私の任務は空中輸送に特化しています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Drone].LobbyScript1[3]
+msgid "PECSは市民の皆様の味方です。24時間コールサービスに対応しています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl].LobbyScript1[1]
+msgid "どうだって良いよ。ただ今は甘いものが食べたいの…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl].LobbyScript1[2]
+msgid "海の下でも地下にいるよりはマシ。少なくともここは光が入ってくるじゃない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl].LobbyScript1[3]
+msgid "司令官はたまに嘘を本当のように話すよね。いい日が来るとか…そんな訳無いじゃない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl].LobbyScript2[1]
+msgid "司令官が居てくれるから力が出るよ。ありがとう…司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl].LobbyScript3[3]
+msgid "司令官が言ってくれたよね？いい日がくるって…。…その言葉、信じていいかな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl].LobbyScript4[2]
+msgid "私も…少し飾れば…キレイになれるのかな？…ダメだよね？ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl_NS1].LobbyScript1[1]
+msgid "眠りから覚めて…また地下だったら…私は…どうしたらいいの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl_NS1].LobbyScript1[2]
+msgid "本当に…本当に綺麗な服…。これ見て。羽も付いてる。凄いでしょ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl_NS1].LobbyScript1[3]
+msgid "でも私は…司令官にしてあげたこと何もないよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl_NS1].LobbyScript2[1]
+msgid "良かった…。この服もそのままで。司令官もそのままだ。本当に…良かった…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl_NS1].LobbyScript3[3]
+msgid "司令官はいつも私によくしてくれるのね？私も…何かしてあげたい。その…司令官は…甘い物好き？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DutchGirl_NS1].LobbyScript4[2]
+msgid "時々私に羽があったらいいなって思う。ふふ…ありがとう司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScript1[1]
+msgid "私は人気者だったんですよ？ファンクラブもあったんですよ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScript1[2]
+msgid "あ～遊びに行きたいな～。まぁ…そんな場合じゃないですよね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScript1[3]
+msgid "ゔ～！もう…！毎日愛想よくするのもストレスがたまるんですよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScript2[1]
+msgid "私…そんなに性格いい子ではないですよ…？それでも…大丈夫ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScript3[3]
+msgid "私は本当にいい人に出会えたみたいです。えへへっ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScript4[2]
+msgid "だめだ…司令官と遊びに行きたいよ～。早く休暇を取ってください。早く～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScriptSp1[1]
+msgid "はぁっ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScriptSp2[1]
+msgid "もう！何を考えてるんですか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScript1[1]
+msgid "ごめん！ごめん！配送がめっちゃたまってて！今度話しよう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScript1[2]
+msgid "配送リストが…司令官？私今日こんなに配達できるかな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScript1[3]
+msgid "え？私を探してたの？う～ん…私は副官失格だね。今度叱ってね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScript2[1]
+msgid "すぐ戻るね、司令官。よそ見しちゃダメよ？あ～言ってるそばから！もう知らないからね！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScript3[3]
+msgid "楽しいかって？もちろん楽しいよ。司令官が、私を待っていてくれるからね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScript4[2]
+msgid "私がついてるよ…約束する。司令官…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScriptSp1[1]
+msgid "も～！私のアームで引きずり回すよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76].LobbyScriptSp2[1]
+msgid "し、司令官？！…もぉ～！…まったく…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript1[1]
+msgid "海には必要な物が多いよ！司令官は何が必要？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript1[2]
+msgid "鉄虫は海の底に送らなきゃ！そしたらどうなるのか気にならない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript1[3]
+msgid "今は配達先を探すの簡単だよ！昔は人が沢山いたから大変だったんだけどね～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript2[1]
+msgid "後で人間が沢山生まれたら司令官と私でお店を始めようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript3[3]
+msgid "心配しないで、どこにいても司令官を探せないなんてことないから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript4[2]
+msgid "司令官に必要な物は何でも持って来てあげる。私の心もね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript1[1]
+msgid "うふふ。お姉さんも司令官とお話ししたかったの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript1[2]
+msgid "機械についてはお姉さんに何でも任せてね！なんてったって私、スペシャリストだもの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript1[3]
+msgid "司令官と居ると、あっという間に時間が過ぎちゃう…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript2[1]
+msgid "司令官は…お姉さんとお話ししたかっただけ？それとも…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript3[3]
+msgid "お姉さんの膝枕はいかがかしら、司令官？うふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript4[2]
+msgid "お姉さんといる時は何も気を使わなくていいからね？…でも…、気を抜きすぎるとお姉さんイタズラしたくなっちゃうかも。うふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScriptSp1[1]
+msgid "まだ、ダメよ…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune].LobbyScriptSp2[1]
+msgid "あらあら、ダメよ？こんな所で。時と場合を考えてね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScript1[1]
+msgid "ふ～。お姉さんもう、くったくた～…。またお姉さんのこと手伝ってくれる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScript1[2]
+msgid "うふふ、お姉さんのように有能な技術者はめったにお目にかかれないわよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScript1[3]
+msgid "そんなにむやみに触ったら、破れるかもしれないじゃない。もうちょっと、優しく扱ってくれる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScript2[1]
+msgid "そんなに気になるなら、直接下ろしてみてもいいのよ？うふふ。冗談よ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScript3[3]
+msgid "司令官、ぐったりしちゃってるわね。お姉さんが何かしてあげようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScript4[2]
+msgid "お姉さん、これだけ着替えてきてもいい？もう、…司令官って本当に意地悪なんだから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScriptSp1[1]
+msgid "妹たちが見たら… 大変な事になるわ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScriptSp2[1]
+msgid "お姉さんは別に気にしないから…司令官に任せるわ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_LRL].LobbyScript1[1]
+msgid "どうして…？い、いや…どういうことだ、人間よ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_LRL].LobbyScript1[2]
+msgid "ふっふっふ、余の邪眼に封印された破滅の力を感じたのだろう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_LRL].LobbyScript1[3]
+msgid "ふっ、余と致したいのか？それならば…それに見合う男になってみせるんだなぁ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_LRL].LobbyScript2[1]
+msgid "ちっち～、警備が甘いのう。そなたのツナ缶はすべてぇ！…ひっ！お、置いてくる…ごめんなさ～い～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_LRL].LobbyScript3[3]
+msgid "人間、もし不滅を望むなら言うてみよ。余は貴様とこの強大な力を分かち合うつもりだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_LRL].LobbyScript4[2]
+msgid "悠久の昔から待っていた。ついに、余を認めてくれる者と出会ったのだ！…ありがとう、司令官。ふふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript1[1]
+msgid "さぁ、ボーっと突っ立ってないで、私と運動でもしませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript1[2]
+msgid "たまに…なぜこんな事をしてるのかと思う時もありますが、シャワーで汗を流した後は、やっぱりやってよかった、って思いますよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript1[3]
+msgid "大丈夫です、心配しないでください。私が全部やります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript2[1]
+msgid "実力はありますから、大丈夫ですよ。司令官は十分よくやっていますから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript3[3]
+msgid "ちょっと司令官の姿勢をチェックさせてもらってもいいですけ？…力…抜いてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript4[2]
+msgid "司令官？そんな風にのぞき見する必要はないです。普通に見てくれればいいのに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScriptSp1[1]
+msgid "邪魔しないでください。司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MightyR].LobbyScriptSp2[1]
+msgid "司令官はこんな所が好きなんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScript1[1]
+msgid "いつかは平和な日が来たらいいですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScript1[2]
+msgid "心配しないでください。ここの安全はいつも私が守っていますので。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScript1[3]
+msgid "私もできれば銃弾よりは警棒を使いたいのですが…もうそのような犯罪者はいなくなってしまいました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScript2[1]
+msgid "街が平和になったら…司令官にデートを申し込みたいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScript3[3]
+msgid "ふふ、警棒には色々な用途があります。例えば…司令官に…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScript4[2]
+msgid "心配しないでください。ここには誰も居ません。ですから…少しくらいなら大丈夫ですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScriptSp1[1]
+msgid "ここに犯罪者がいますね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_MissSafety].LobbyScriptSp2[1]
+msgid "銃器は使用しないので安心してください。うふっ。警棒だけですので…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_PuppHead].LobbyScript1[1]
+msgid "さぁ、僕の素晴らしい鋼鉄製のボディーを見たまえ。褒めてくれてもいいんだよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_PuppHead].LobbyScript1[2]
+msgid "犬だと！？失礼な。６級公務員と言っただろう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_PuppHead].LobbyScript1[3]
+msgid "実は僕は本当の体を持っていたんだ。いつかその体を取り戻せたらと思っている。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript1[1]
+msgid "ふわぁ～…あぁ…今日は暇だね～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript1[2]
+msgid "セイフティーやケルベロスは大人っぽく振舞ってるけどまだ子供だよ。小さいことを気にしすぎるからね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript1[3]
+msgid "もし何かあったら呼んでね、司令官。通信機は持ってるでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript2[1]
+msgid "司令官！今暇だし、一緒にご飯でもどう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript3[3]
+msgid "別に非常事態じゃなくても、会いたい時はいつでも呼んでくれていいんだよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript4[2]
+msgid "司令官、他の子たちとはできない大人の遊びでも…どう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScriptSp1[1]
+msgid "司令官、いい度胸だね？そのまま続けてもいいけど…どうなるか知らないよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Serpent].LobbyScriptSp2[1]
+msgid "そうだね～。男ならそのくらいの度胸がないと。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Stinger].LobbyScript1[1]
+msgid "スティンガーモデルは突破作戦に使用されます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Stinger].LobbyScript1[2]
+msgid "主な破壊対象は小惑星です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Stinger].LobbyScript1[3]
+msgid "破壊。突破。破壊。突破。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript1[1]
+msgid "ご主人、今日の私の姿はどうだった？褒めるとこあるでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript1[2]
+msgid "何でも任せて！私にできない事なんてないわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript1[3]
+msgid "ご主人、何か隠してるの？プレゼントがあるなら早くちょうだい。恥ずかしがることなんてないよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript2[1]
+msgid "ここちょっと触ってみて。私最近ちょっと太った気がするんだけど…大丈夫かな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript3[3]
+msgid "すごい猫背だよ、ご主人。私が直してあげるから。じっとしてて…。うっ…じっとしててってば！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript4[2]
+msgid "うーん、ご主人と一緒にいると、出世が段々遠退いていくような。まぁ…そんなに悪くはないよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScriptSp1[1]
+msgid "あっ、生意気！どこ触ってるの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScriptSp2[1]
+msgid "まったく…こんな破廉恥男が私のご主人だなんて…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan_NS1].LobbyScript1[1]
+msgid "主人？今日は何か褒めてくれないの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan_NS1].LobbyScript1[2]
+msgid "今ちょうどシャワーしようとしてたんだけどどうかした？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan_NS1].LobbyScript1[3]
+msgid "いいわ！主人が決心したのなら私が助けてあげる。ストレッチングから始めるよ。ちょっと痛くても我慢してね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan_NS1].LobbyScriptSp1[1]
+msgid "うう…何するの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Tiequan_NS1].LobbyScriptSp2[1]
+msgid "うう…私が疲れてるから？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_TommyWalker].LobbyScript1[2]
+msgid "正確な命令が必要。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_TommyWalker].LobbyScript1[3]
+msgid "トミーウォーカー。目的、通常輸送、破壊任務に特化している。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScript1[1]
+msgid "休んでる暇なんてありません。証明しなきゃいけないんです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScript1[2]
+msgid "非戦闘ユニットだからって甘く見ないでくださいね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScript1[3]
+msgid "今日も訓練訓練！ラビアタさんに報いるためにも…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScript2[1]
+msgid "たまには…司令官と一緒に過ごすのも…いいかも？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScript3[3]
+msgid "司令官、訓練を見ていて頂けませんか？そしたら…私もっと頑張れるので…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScript4[2]
+msgid "今この時は他の事はどうでもいいんです。…司令官が私を見ていてくれさえすれば…頑張れます！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScriptSp1[1]
+msgid "こら！！怒りますよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Lancer].LobbyScriptSp2[1]
+msgid "そんな時間ないのに…訓練しなきゃ…もう…ちょっとだけですよ。"
+msgstr ""

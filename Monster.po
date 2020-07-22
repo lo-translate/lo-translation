@@ -1,0 +1,1368 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: 'AMG-11의 자율 경비용 기종이다.'
+#: Monster[MOB_MP_AMG11_TU2].Mob_Info
+msgid "AMG-11の自律警備用機種だ。"
+msgstr ""
+
+#  Korean Text: '경비용 AMG-11'
+#: Monster[MOB_MP_AMG11_TU2].Name
+msgid "警備用AMG-11"
+msgstr ""
+
+#  Korean Text: '오~ 이 녀석들 왠지 마음에 드는데? 몇 대 가져가서 네리의 부하로 쓰면 되겠어! 네리 대신 일하게 해야지!\n\n\n - 네레이드 보고함'
+#: Monster[MOB_MP_AMG11AA_EV1].Mob_Info
+msgid ""
+"お～この子たち不思議と気に入ったんだけど？何台か持って行ってネリの部下にしたらよさそう！ネリの代わりに働かせなきゃ！\n"
+"\n"
+"\n"
+" - ネレイドの報告"
+msgstr ""
+
+#  Korean Text: '대공용 AMG-11'
+#: Monster[MOB_MP_AMG11AA_EV1].Name
+msgid "対空用AMG-11"
+msgstr "Anti-Air AMG-11"
+
+#  Korean Text: '결국 부하가 되어버린 불쌍한 기계들이다.'
+#: Monster[MOB_MP_AMG11AA_EV5].Mob_Info
+msgid "結局、部下になってしまった可哀そうな機械だ。"
+msgstr ""
+
+#  Korean Text: '네리의 부하'
+#: Monster[MOB_MP_AMG11AA_EV5].Name
+msgid "ネリの部下"
+msgstr ""
+
+#  Korean Text: '<교전 기록 없음>'
+#: Monster[MOB_MP_BigChick_EW].Mob_Info
+msgid "普通の鉄虫だ。"
+msgstr "An ordinary Iron Parasite."
+
+#  Korean Text: '빅 칙'
+#: Monster[MOB_MP_BigChick_EW].Name
+msgid "ビッグチック"
+msgstr "Big Chick"
+
+#  Korean Text: '엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!\n\n\n- 보고자 브라우니지 말임다.'
+#: Monster[MOB_MP_BigChick_N].Mob_Info
+msgid ""
+"とてつもなく巨大なナイトチックであります！ナイトチックと同じ行動パターンですが、胸板も厚いし銃の威力ももっと強力であります。行動を開始する前に早く殺さなけれ"
+"ばいけません！\n"
+"\n"
+"\n"
+"- 報告者ブラウニーであります。"
+msgstr ""
+"It's a really huge Night Chick, sir! It does the same thing Night Chicks do, "
+"but it's got fatter armor and stronger guns, sir. We gotta kill it before it "
+"can move, sir!\n"
+"\n"
+"\n"
+"- Brownie reporting in, sir."
+
+#  Korean Text: '시작형 빅 칙'
+#: Monster[MOB_MP_BigChickEX_N].Name
+msgid "試作型ビッグチック"
+msgstr "Proto Big Chick"
+
+#  Korean Text: '엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!\n\n\n- 보고자 브라우니지 말임다.'
+#: Monster[MOB_MP_BigChickEX_TU].Mob_Info
+msgid "<交戦記録なし>"
+msgstr "<No battle reports available>"
+
+#  Korean Text: '빅 칙 런쳐'
+#: Monster[MOB_MP_BigChickM_EV1].Name
+msgid "ビッグチックランチャー"
+msgstr "Big Chick Launcher"
+
+#  Korean Text: '엄청나게 피하기 힘든 미사일을 마구 쏴댐. 멀리서 처리하는 게 제일 좋을 것 같아.\n\n\n- 핀토가 정찰 중 보고'
+#: Monster[MOB_MP_BigChickM_N].Mob_Info
+msgid ""
+"到底避けられないミサイルを乱射してくるの。遠くから処理するのが最善策だと思うわ。\n"
+"\n"
+"\n"
+"- ピントが偵察中に報告"
+msgstr ""
+
+#  Korean Text: '빅 칙 런쳐 G'
+#: Monster[MOB_MP_BigChickMG_EV1].Name
+msgid "ビックチックランチャーG"
+msgstr "Big Chick Launcher G"
+
+#  Korean Text: '제법 근성이 있는 녀석이야! 아무리 때려도 잘 쓰러지지 않던데 미호는 잘 처리하더라구. 쓸데 없이 계속 치치말라나 뭐라나…하지만 한 번 붙으면 물러날 내가 아니지~!\n\n\n - 스틸 드라코 보고함'
+#: Monster[MOB_MP_BigChickS_N].Mob_Info
+msgid ""
+"かなり根性のある奴だよ！いくら叩いても倒れなかったのにミホが叩いたらすぐに倒れたよ。むやみに叩いても意味ないとか何とか…でも一度戦いを始めたら引き下がる私じ"
+"ゃないわよ~！\n"
+"\n"
+"\n"
+" - スチールドラコの報告"
+msgstr ""
+
+#  Korean Text: '빅 칙 실더'
+#: Monster[MOB_MP_BigChickS_N].Name
+msgid "ビッグチックシールダー"
+msgstr "Big Chick Shielder"
+
+#  Korean Text: '강화형 빅 칙'
+#: Monster[MOB_MP_BigChickSP_EV1].Name
+msgid "強化型ビッグチック"
+msgstr "Advanced Big Chick"
+
+#  Korean Text: '작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.\n\n\n- 37식 다이카'
+#: Monster[MOB_MP_Centurion_EV1].Mob_Info
+msgid ""
+"敵は部隊の指揮官の役割をする鉄虫と思われます。周辺の鉄虫に一斉攻撃を指示する状況が確認されました。部下たちが破壊されると警戒するようです。先に処理した方が良"
+"さそうです。\n"
+"\n"
+"\n"
+"- 37式ダイカ"
+msgstr ""
+"It appears to command small troops of Iron Parasites. It was seen ordering "
+"Iron Parasites around it to attack at once. It seems to stay alert once its "
+"subordinates are down. I suggest taking this one out before the others.\n"
+"\n"
+"\n"
+"- Type37 Daika"
+
+#  Korean Text: '센츄리온'
+#: Monster[MOB_MP_Centurion_EV1].Name
+msgid "センチュリオン"
+msgstr "Centurion"
+
+#  Korean Text: '센츄리온에서 지휘 능력이 더 강화된 기종입니다. 포착 당한 후에는 공격을 피하기 힘드니 주의하셔야 합니다. 본 기종에도 안테나 도입을 검토하면 감사하겠습니다.\n\n\n- 램파트'
+#: Monster[MOB_MP_CenturionCF_N].Mob_Info
+msgid ""
+"センチュリオンの指揮能力がより強化された機種です。捕まると攻撃を避けるのが難しいため、注意が必要です。本機種にもアンテナ導入を検討していただけると嬉しいです"
+"。\n"
+"\n"
+"\n"
+"- ランパート"
+msgstr ""
+
+#  Korean Text: '센츄리온 치프틴'
+#: Monster[MOB_MP_CenturionCF_N].Name
+msgid "センチュリオンチプティン"
+msgstr "Centurion Chieftain"
+
+#  Korean Text: '엘리트 센츄리온'
+#: Monster[MOB_MP_CenturionEX_N].Name
+msgid "エリートセンチュリオン"
+msgstr ""
+
+#  Korean Text: '지휘관 역할을 하는 철충인가 보네… 저렇게 무리하게 부하들을 다루면 안 좋을 것 같은데… 역시 적당히 하는 게 최고야...\n\n\n- 이프리트 보고함'
+#: Monster[MOB_MP_CenturionG_N].Mob_Info
+msgid ""
+"指揮官の役目をする鉄虫みたい…あんなに無理して部下を扱ってはだめなのに…やっぱり何でもほどほどがいいよね...\n"
+"\n"
+"\n"
+"- イフリートの報告"
+msgstr ""
+
+#  Korean Text: '센츄리온 제네럴'
+#: Monster[MOB_MP_CenturionG_N].Name
+msgid "センチュリオンゼネラル"
+msgstr ""
+
+#  Korean Text: '물… 절대 뿌리지 말것…\n\n\n - 서펀트 보고함'
+#: Monster[MOB_MP_Chiller_N].Mob_Info
+msgid ""
+"水…絶対に撒かないこと…\n"
+"\n"
+"\n"
+" - サーペントの報告"
+msgstr ""
+"Do not... spray water on it...\n"
+"\n"
+"\n"
+" - Serpent reporting in"
+
+#  Korean Text: '칠러'
+#: Monster[MOB_MP_Chiller_N].Name
+msgid "チラー"
+msgstr "Chiller"
+
+#  Korean Text: '드론의 자율 경비용 기종이다.'
+#: Monster[MOB_MP_Drone_TU2].Mob_Info
+msgid "ドローンの自律警備用機種だ。"
+msgstr ""
+
+#  Korean Text: '경비용 드론'
+#: Monster[MOB_MP_Drone_TU2].Name
+msgid "警備用ドローン"
+msgstr ""
+
+#  Korean Text: '지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…\n\n\n - 익스프레스 76 보고함'
+#: Monster[MOB_MP_DroneM_EV1].Mob_Info
+msgid ""
+"地上軍対抗用に改造されたドローンみたいだ。対空能力はないみたい。それはそうと爆弾の配達だなんて…キャッチフレーズにふさわしい気もする…\n"
+"\n"
+"\n"
+" - イクスプレス76の報告"
+msgstr ""
+
+#  Korean Text: '드론 커스텀'
+#: Monster[MOB_MP_DroneM_EV1].Name
+msgid "ドローンカスタム"
+msgstr "Drone Custom"
+
+#  Korean Text: '칙 엠페러'
+#: Monster[MOB_MP_EmperorChick_EV1].Name
+msgid "チックエンペラー"
+msgstr "Chick Emperor"
+
+#  Korean Text: '익스큐셔너'
+#: Monster[MOB_MP_Executioner_B06].Name
+msgid "エクスキューショナー"
+msgstr "Executioner"
+
+#  Korean Text: '익스큐셔너 롱 블레이드'
+#: Monster[MOB_MP_ExecutionerLB_B06].Name
+msgid "エクスキューショナーロングブレード"
+msgstr "Executioner Long Blade"
+
+#  Korean Text: '익스큐셔너 실드 블레이드'
+#: Monster[MOB_MP_ExecutionerRB_B06].Name
+msgid "エクスキューショナーシールドブレード"
+msgstr "Executioner Shield Blade"
+
+#  Korean Text: '수상한 기계장치'
+#: Monster[MOB_MP_ExpGenerator_N].Name
+msgid "怪しい機械装置"
+msgstr ""
+
+#  Korean Text: '수상한 실험체'
+#: Monster[MOB_MP_ExpGenerator2_N].Name
+msgid "怪しい実験体"
+msgstr ""
+
+#  Korean Text: '고블린이었던 것으로 보인다. 더 이상 생물체라고 할 수 있을지는 모르겠다…'
+#: Monster[MOB_MP_ExpGoblinA_N].Mob_Info
+msgid "ゴブリンであったと思われる。今や生物体といえるかどうかは分からない…"
+msgstr ""
+"Something that used to be a Goblin long ago. Not sure if it can still be "
+"considered living..."
+
+#  Korean Text: '실험체 고블린 파쇄병'
+#: Monster[MOB_MP_ExpGoblinA_N].Name
+msgid "実験体ゴブリン破砕兵"
+msgstr "Experimental Goblin Grenadier"
+
+#  Korean Text: '실험체 고블린'
+#: Monster[MOB_MP_ExpGoblinT_N].Name
+msgid "実験体ゴブリン"
+msgstr "Experimental Goblin"
+
+#  Korean Text: '빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?\n\n\n - 불가사리 보고함'
+#: Monster[MOB_MP_FABigChick_N].Mob_Info
+msgid ""
+"ビックチックとは違うんだよ！ビックチックとは！何で作ったのかは分からないけど装甲が次元が違う。私みたいな対装甲要員が居なかったらどうしたんだろ？\n"
+"\n"
+"\n"
+" - ブルガサリ―が報告"
+msgstr ""
+"This one's no ordinary Big Chick! I dunno what it's made of, but the armor is "
+"on a whole another level, so you'll want to bring anti-armor units like me if "
+"you don't want trouble.\n"
+"\n"
+"\n"
+" - Report by Bulgasari"
+
+#  Korean Text: '풀아머 빅 칙'
+#: Monster[MOB_MP_FABigChick_N].Name
+msgid "プルアーマービッグチック"
+msgstr "Full-Armored Big Chick"
+
+#  Korean Text: 'FA 빅 칙 II'
+#: Monster[MOB_MP_FABigChickEX_N].Name
+msgid "FAビッグチックII"
+msgstr ""
+
+#  Korean Text: '폴른의 자율 경비용 기종이다.'
+#: Monster[MOB_MP_Fallen_TU2].Mob_Info
+msgid "フォールンの自律警備用機種だ。"
+msgstr ""
+
+#  Korean Text: '경비용 폴른'
+#: Monster[MOB_MP_Fallen_TU2].Name
+msgid "警備用フォールン"
+msgstr ""
+
+#  Korean Text: '조준은 엉망이지만 화력은 강력하니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.\n\n\n - 블랙 하운드 보고함'
+#: Monster[MOB_MP_FallenC_EV1].Mob_Info
+msgid ""
+"照準はめちゃくちゃだけど火力は強力なので注意してください。力み過ぎて稼働停止することもあるのでうまく避けるのがポイントです。\n"
+"\n"
+"\n"
+" - ブラックハウンドの報告"
+msgstr ""
+
+#  Korean Text: '폴른 커스텀'
+#: Monster[MOB_MP_FallenC_EV1].Name
+msgid "フォールンカスタム"
+msgstr "Fallen Custom"
+
+#  Korean Text: '기간테스의 양산형 기종이다.'
+#: Monster[MOB_MP_Gigantes_TU2].Mob_Info
+msgid "ギガンテスの量産型機種だ。"
+msgstr ""
+
+#  Korean Text: '양산형 기간테스'
+#: Monster[MOB_MP_Gigantes_TU2].Name
+msgid "量産型ギガンテス"
+msgstr ""
+
+#  Korean Text: '거점 방어에 특화된 모델인건가? 행동은 굼떠보이지만 좀처럼 빈틈이 안보여. 하지만 내 소우 피쉬라면 해결할 수 있을걸?\n\n\n - 트리아이나 보고함'
+#: Monster[MOB_MP_GigantesC_EV1].Mob_Info
+msgid ""
+"拠点の防御に特化されたモデルかな？行動はのろそうだけどなかなかガードが固そうだ。でも私のソーフィッシュには適わないだろうね。\n"
+"\n"
+"\n"
+" - ツリーアイナの報告"
+msgstr ""
+
+#  Korean Text: '기간테스 커스텀'
+#: Monster[MOB_MP_GigantesC_EV1].Name
+msgid "ギガンテスカスタム"
+msgstr "Gigantes Custom"
+
+#  Korean Text: '아르바이트 중인 기간테스인 듯하다...'
+#: Monster[MOB_MP_GigantesDagon_N].Mob_Info
+msgid "アルバイト中のギガンテスのようだ..."
+msgstr ""
+
+#  Korean Text: '다곤씨 (대여 중)'
+#: Monster[MOB_MP_GigantesDagon_N].Name
+msgid "ダゴン氏（レンタル中）"
+msgstr ""
+
+#  Korean Text: '얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…\n\n\n- 더치걸'
+#: Monster[MOB_MP_Harvester_N].Mob_Info
+msgid ""
+"この子は元々は私みたいに働く子だったみたい。遠くに居る敵を爪で引き寄せるから注意して。私みたいに苦労が多いから楽にさせてあげた方がいいかも…\n"
+"\n"
+"\n"
+"-ダッチガール"
+msgstr ""
+
+#  Korean Text: '하베스터'
+#: Monster[MOB_MP_Harvester_N].Name
+msgid "ハーヴェスター"
+msgstr "Harvester"
+
+#  Korean Text: '아머드 하베스터'
+#: Monster[MOB_MP_HarvesterEX_EW].Name
+msgid "アーマードハーヴェスター"
+msgstr ""
+
+#  Korean Text: '실드 하베스터'
+#: Monster[MOB_MP_HarvesterS_N].Name
+msgid "シールドハーヴェスター"
+msgstr "Shield Harvester"
+
+#  Korean Text: '헤비 스카우트'
+#: Monster[MOB_MP_HeavyScout_EV1].Name
+msgid "ヘビースカウト"
+msgstr "Heavy Scout"
+
+#  Korean Text: '스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.\n\n\n- 페로 드림'
+#: Monster[MOB_MP_HeavyScout_N].Mob_Info
+msgid ""
+"スカウトと似ています。弾種はちょっと違うみたいですが。何かを撃ってきましたが全部外れでした。あまり正確でないみたいです。周辺の鉄虫と隊列を組もうとしたときは"
+"注意が必要です。\n"
+"\n"
+"\n"
+"- ペロより"
+msgstr ""
+
+#  Korean Text: '헤비 스카우트 G'
+#: Monster[MOB_MP_HeavyScoutG_TU].Name
+msgid "ヘビースカウトG"
+msgstr "Heavy Scout G"
+
+#  Korean Text: '성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.\n\n\n- 블랙 하운드'
+#: Monster[MOB_MP_Juggernaut_N].Mob_Info
+msgid ""
+"性格の悪そうな鉄虫なんです。攻撃を始めると最後まで攻撃してくるんです。ですので空中部隊で誘引するのがよさそうです。あの図体で他の鉄虫を保護できないようにする"
+"のです。\n"
+"\n"
+"\n"
+"- ブラックハウンド"
+msgstr ""
+
+#  Korean Text: '저거너트'
+#: Monster[MOB_MP_Juggernaut_N].Name
+msgid "ジャガノート"
+msgstr "Juggernaut"
+
+#  Korean Text: '강화형 저거너트'
+#: Monster[MOB_MP_JuggernautP_EV1].Name
+msgid "強化型ジャガノート"
+msgstr "Enhanced Juggernaut"
+
+#  Korean Text: '요원 암살용 철충 연결체. 빠르고 민첩하다. 나와 우리 부대처럼 기동전이 가능한 부대가 맡는 게 좋을 것 같군. 포획이든 파괴든 쉽지 않다.\n\n\n- 칸'
+#: Monster[MOB_MP_Kidnapper_B0308].Mob_Info
+msgid ""
+"要員暗殺用鉄虫連結体。素早く敏捷だ。私と我が部隊のように機動戦が可能な部隊が担当するのがよさそうだ。捕獲であろうが破壊であろうが容易ではない。\n"
+"\n"
+"\n"
+"- カーン"
+msgstr ""
+"A Nexus-tier Iron Parasite, specializing in assasination. It has high speed "
+"and agility. I would suggest sending a moblie squad such as us to deal with "
+"it. It won't be easy to kill or capture this one.\n"
+"\n"
+"\n"
+"- Khan"
+
+#  Korean Text: '트릭스터'
+#: Monster[MOB_MP_Kidnapper_B0308].Name
+msgid "トリックスター"
+msgstr "Trickster"
+
+#  Korean Text: '공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!\n\n\n- 실피드'
+#: Monster[MOB_MP_Legion_N].Mob_Info
+msgid ""
+"空中の敵だけを執拗に狙うので空中部隊運用時には注意して！この粘っこい粘着剤をはがすのに二日もかかったんだから。それがつくと陰キャみたいに見えるからほんと気を"
+"つけて！\n"
+"\n"
+"\n"
+"- シルフィード"
+msgstr ""
+
+#  Korean Text: '레기온'
+#: Monster[MOB_MP_Legion_N].Name
+msgid "レギオン"
+msgstr "Legion"
+
+#  Korean Text: '엘리트 레기온'
+#: Monster[MOB_MP_LegionElite_N].Name
+msgid "エリートレギオン"
+msgstr ""
+
+#  Korean Text: '화력이 좀 더 강한 레기온이야. 난 전혀 구분이 안 가는데 에밀리는 잘 구분하더라구. 이상한 데서 재주가 좋다니까...아! 지휘관 철충과의 연계 공격은 특히 주의해야 해!\n\n\n- 파니 보고함'
+#: Monster[MOB_MP_LegionElite_TU].Mob_Info
+msgid ""
+"火力がさらに強力なレギオンだ。私は全然区別がつかないんだけどエミリーはちゃんと見分けてたよ。変な才能があるんだから…あ！”指揮官の鉄虫との連携攻撃は特に気を"
+"付けて！\n"
+"\n"
+"\n"
+"- パニの報告"
+msgstr ""
+
+#  Korean Text: '정예 레기온'
+#: Monster[MOB_MP_LegionEX_N].Name
+msgid "精鋭レギオン"
+msgstr ""
+
+#  Korean Text: '레기온 마인레이어'
+#: Monster[MOB_MP_LegionMine_TU4].Name
+msgid "レギオンマインレイヤー"
+msgstr "Legion Minelayer"
+
+#  Korean Text: '레기온 스나이퍼'
+#: Monster[MOB_MP_LegionSP_EV1].Name
+msgid "レギオンスナイパー"
+msgstr "Legion Sniper"
+
+#  Korean Text: '적의 빈틈을 노리는 용의주도한 개체입니다. 대물 저격총을 가지고 있으니 중장갑 전투원을 운용할 때는 주의해주세요.\n\n\n- 팬텀'
+#: Monster[MOB_MP_LegionSP_N].Mob_Info
+msgid ""
+"敵の隙を狙う用意周到な個体です。大物の狙撃中を持っているので重装甲の戦闘員を運用する際は注意してください。\n"
+"\n"
+"\n"
+"- ファントム"
+msgstr ""
+
+#  Korean Text: '개량형 레기온 스나이퍼'
+#: Monster[MOB_MP_LegionSPEX_N].Name
+msgid "改良型レギオンスナイパー"
+msgstr ""
+
+#  Korean Text: '<교전 기록 없음>'
+#: Monster[MOB_MP_Mammoth_EW].Mob_Info
+msgid ""
+"一発の威力が凄まじいうえ、装甲も分厚いので装甲の間から致命打を加えたり、貫通できる武器がよさそうだわ。避けられなかったら死ぬって思ってな。\n"
+"\n"
+"\n"
+"- 報告者サンドガール"
+msgstr "<No battle reports available>"
+
+#  Korean Text: '매머드'
+#: Monster[MOB_MP_Mammoth_EW].Name
+msgid "マンモス"
+msgstr "Mammoth"
+
+#  Korean Text: '개량형 매머드'
+#: Monster[MOB_MP_MammothP_TU].Name
+msgid "改良型マンモス"
+msgstr "Modified Mammoth"
+
+#  Korean Text: '슈~퍼한 네리네리를 이길 수 있을까!?\n\n\n- 네레이드'
+#: Monster[MOB_MP_Nereid_EV1].Mob_Info
+msgid ""
+"スーパーパワフルなネリネリに勝てるかな！？\n"
+"\n"
+"\n"
+"- ネレイド"
+msgstr ""
+
+#  Korean Text: '슈퍼 네리다!'
+#: Monster[MOB_MP_Nereid_EV1].Name
+msgid "スーパーネリだ！"
+msgstr ""
+
+#  Korean Text: '얼른 처리하고 놀러 가야지!\n\n\n- 네레이드'
+#: Monster[MOB_MP_Nereid_EV2].Mob_Info
+msgid ""
+"さっさと処理して遊びに行かなきゃ！\n"
+"\n"
+"\n"
+"- ネレイド"
+msgstr ""
+
+#  Korean Text: '그럼~요!'
+#: Monster[MOB_MP_Nereid_EV2].Name
+msgid "AG-1ネレイド_敵"
+msgstr ""
+
+#  Korean Text: '하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!\n\n\n- 보고자 그렘린입니당! '
+#: Monster[MOB_MP_NightChick_B0108].Mob_Info
+msgid ""
+"はあ…この可愛い子の名前はナイトチックですぅ。可愛いけどもっと可愛いフォールンを食べる怖い奴らですぅ。休まず機関銃を乱射するので気をつけてくださいね～！\n"
+"\n"
+"\n"
+"- 報告者グレムリンでした！"
+msgstr ""
+
+#  Korean Text: '나이트 칙'
+#: Monster[MOB_MP_NightChick_B0108].Name
+msgid "ナイトチック"
+msgstr "Night Chick"
+
+#  Korean Text: '나이트 칙 Type-S'
+#: Monster[MOB_MP_NightChick_RV].Name
+msgid "ナイトチックType-S"
+msgstr ""
+
+#  Korean Text: '물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!\n\n\n - 아쿠아 보고함'
+#: Monster[MOB_MP_NightChickAQ_N].Mob_Info
+msgid ""
+"水を運搬する鉄虫みたいだ。鉄虫は水が漏れるとにっちもさっちもいかないからこれを利用すればよさそう！\n"
+"\n"
+"\n"
+" - アクアの報告"
+msgstr ""
+"Looks like an Iron Parasite that carries water. Iron Parasites get all "
+"nervous when there's water leaks nearby, so we can use this as an "
+"advantage!\n"
+"\n"
+"\n"
+" - Aqua reporting in"
+
+#  Korean Text: '아쿠아 칙'
+#: Monster[MOB_MP_NightChickAQ_N].Name
+msgid "アクアチック"
+msgstr "Aqua Chick"
+
+#  Korean Text: '나이트 칙 캐논'
+#: Monster[MOB_MP_NightChickC_EV1].Name
+msgid "ナイトチックキヤノン"
+msgstr "Night Chick Cannon"
+
+#  Korean Text: '박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?\n\n\n- 메이 보고함'
+#: Monster[MOB_MP_NightChickC_EV9].Mob_Info
+msgid ""
+"迫撃砲で武装したナイトチックか…大したことない爆竹を撃つ虫けらね。あ、弱い子たちには恐怖かな？\n"
+"\n"
+"\n"
+"- メイが報告"
+msgstr ""
+"It's a Night Chick armed with a mortar... Nothing more than a bug spluttering "
+"lame firecrackers. Maybe it could scare weaklings, though?\n"
+"\n"
+"\n"
+"- May reporting in"
+
+#  Korean Text: '개량형 칙 캐논'
+#: Monster[MOB_MP_NightChickCEX_EV1].Name
+msgid "改良型チックキャノン"
+msgstr ""
+
+#  Korean Text: '냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…\n\n\n- 보고자 미호'
+#: Monster[MOB_MP_NightChickCM_N].Mob_Info
+msgid ""
+"臭くて得体のしれない液体を撒くのよ。汚くていやらしいの。その変な液体がかかった子はしばらく近くに来させなかったほどよ。特にスチールドラコは…\n"
+"\n"
+"\n"
+"- 報告者ミホ"
+msgstr ""
+
+#  Korean Text: '케미컬 칙'
+#: Monster[MOB_MP_NightChickCM_N].Name
+msgid "ケミカルチック"
+msgstr "Chemical Chick"
+
+#  Korean Text: '케미컬 칙 Type-X'
+#: Monster[MOB_MP_NightChickCMP_EV1].Name
+msgid "ケミカルチックType-X"
+msgstr "Chemical Chick Type-X"
+
+#  Korean Text: '강화형 케미컬 칙'
+#: Monster[MOB_MP_NightChickCMS_EV1].Name
+msgid "強化型ケミカルチック"
+msgstr "Enhanced Chemical Chick"
+
+#  Korean Text: '나이트 칙 디텍터'
+#: Monster[MOB_MP_NightChickDE_EV1].Name
+msgid "ナイトチックディテクター"
+msgstr "Night Chick Detector"
+
+#  Korean Text: '그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!\n\n\n- 예쁜 누나 포츈이 보고해용~!'
+#: Monster[MOB_MP_NightChickDE_N].Mob_Info
+msgid ""
+"その子はそこまで危険な子ではないわ。でも邪魔ばかりしてくるから注意が必要なの。攻撃を受けると他の鉄虫に支援要請するずる賢い奴だから懲らしめなきゃ！お姉さんも"
+"見てるわよ～！\n"
+"\n"
+"\n"
+"- 可愛いお姉さんフォーチュンが報告するわ～！"
+msgstr ""
+
+#  Korean Text: '나이트 칙 디텍터 G'
+#: Monster[MOB_MP_NightChickDEG_EW].Name
+msgid "ナイトチックディテクターG"
+msgstr "Night Chick Detector G"
+
+#  Korean Text: '지상전용 레이더 철충이네요. 공중 공격엔 취약하니 기동 부대를 동원해 처리하는 것을 추천드려요.\n\n\n - 다이카 보고함'
+#: Monster[MOB_MP_NightChickDEG_TU].Mob_Info
+msgid ""
+"地上戦用レーダー鉄虫です。空中攻撃に弱いので機動部隊を動員して処理することをお勧めします。\n"
+"\n"
+"\n"
+" - ダイカの報告"
+msgstr ""
+
+#  Korean Text: '강화형 나이트 칙'
+#: Monster[MOB_MP_NightChickEX_EV1].Name
+msgid "強化型ナイトチック"
+msgstr ""
+
+#  Korean Text: '흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.\n\n\n- 보고자 레프리콘'
+#: Monster[MOB_MP_NightChickM_N].Mob_Info
+msgid ""
+"平凡なミサイルで武装した鉄虫。無条件に突撃する姿がブラウニーと似ています。\n"
+"\n"
+"\n"
+"- 報告者レプリコン"
+msgstr ""
+"A common Iron Parasite, armed with missles. The way it always charges forward "
+"somewhat resembles Brownie.\n"
+"\n"
+"\n"
+"- Report by Leprechaun"
+
+#  Korean Text: '나이트 칙 런처'
+#: Monster[MOB_MP_NightChickM_N].Name
+msgid "ナイトチックランチャー"
+msgstr "Night Chick Launcher"
+
+#  Korean Text: '강화형 칙 런쳐'
+#: Monster[MOB_MP_NightChickMEX_N].Name
+msgid "強化型チックランチャー"
+msgstr ""
+
+#  Korean Text: '칙 쿼터마스터'
+#: Monster[MOB_MP_NightChickQM_EV1].Name
+msgid "チッククォーターマスター"
+msgstr "Chick Quartermaster"
+
+#  Korean Text: '<교전 기록 없음>'
+#: Monster[MOB_MP_NightChickQM_EW].Mob_Info
+msgid ""
+"鉄虫の補給機体です。攻撃阻止能力に優れているため主力攻撃機を安全に保護すれば長期戦は免れることができます。\n"
+"\n"
+"\n"
+"- シルキー"
+msgstr "<No battle reports available>"
+
+#  Korean Text: '개량형 칙 쿼터마스터'
+#: Monster[MOB_MP_NightChickQMEX_N].Name
+msgid "改良型チッククォーターマスター"
+msgstr ""
+
+#  Korean Text: '이 자식들 짜증나 방패를 들고 앞을 자꾸 가로막거든? 다행히 머리가 나빠서 바로 뒤만 가로 막지만… 어쨌든 이 녀석들이 방어 자세를 취하기 전에 뒤를 정리해 두라고!\n\n\n- 보고자 그리폰'
+#: Monster[MOB_MP_NightChickS_N].Mob_Info
+msgid ""
+"こいつら、うざい。盾を持って前の方でしきりに邪魔するんだよね。幸いにも頭が悪くてすぐ後ろだけを塞いでいるけどね…とにかくこいつらが防御姿勢をとる前に退治しち"
+"ゃおう！\n"
+"\n"
+"\n"
+"- 報告者グリフォン"
+msgstr ""
+"These guys are annoying. They always get in the way with thier shields up. "
+"Thankfully, they're too stupid to protect anything that's not right behind "
+"them... Anyway, deal with the ones on the back before this thing can up its "
+"guard!\n"
+"\n"
+"\n"
+"- Report by Griffon"
+
+#  Korean Text: '나이트 칙 실더'
+#: Monster[MOB_MP_NightChickS_N].Name
+msgid "ナイトチックシールダー"
+msgstr "Night Chick Shielder"
+
+#  Korean Text: '<교전 기록 없음>'
+#: Monster[MOB_MP_NightChickSI_EW].Mob_Info
+msgid ""
+"一般のチックシルダーよりも大きな盾を持つため後ろの対象を攻撃するためにはもっと勇敢な精神が必要だ。ナイトチックシルダーと混乱しないように指揮コンソールを必ず"
+"確認すること。\n"
+"\n"
+"\n"
+"- マリー "
+msgstr "<No battle reports available>"
+
+#  Korean Text: '나이트 칙 실더 개'
+#: Monster[MOB_MP_NightChickSI_EW].Name
+msgid "ナイトチックシールダー改"
+msgstr "Night Chick Shielder Mk2"
+
+#  Korean Text: '칙 스나이퍼'
+#: Monster[MOB_MP_NightChickSP_EV1].Name
+msgid "チックスナイパー"
+msgstr "Chick Sniper"
+
+#  Korean Text: '<교전 기록 없음>'
+#: Monster[MOB_MP_NightChickSP_EW].Mob_Info
+msgid ""
+"掩蔽と偽装能力に長ける。素早く一発で仕留めるのがよさそうだ。\n"
+"\n"
+"\n"
+"- ヴァルキリー"
+msgstr ""
+"Has excellent cover and camouflage capabilites. Quickly taking it out with "
+"one decisive hit is recommended.\n"
+"\n"
+"\n"
+"- Valkyrie"
+
+#  Korean Text: '베테랑 칙 스나이퍼'
+#: Monster[MOB_MP_NightChickSPV_TU].Name
+msgid "ベテランチックスナイパー"
+msgstr "Veteran Chick Sniper"
+
+#  Korean Text: '썬더 칙'
+#: Monster[MOB_MP_NightChickTD_EW].Name
+msgid "サンダーチック"
+msgstr "Thunder Chick"
+
+#  Korean Text: '으아~ 촙 메이커로 때리니 갑자기 날뛰어서 큰일 날 뻔 했어요! 전기에 반응하는 것 같던데...아 참! 서펀트씨가 물을 뿌린 녀석은 갑자기 자폭해버리더라구요.\n\n\n - 켈베로스 보고함'
+#: Monster[MOB_MP_NightChickTD_N].Mob_Info
+msgid ""
+"うわ～チョップメーカーで叩いたらいきなり跳ね上がって大変なことになるところでした！電気に反応するみたいですが…あ、そうだ！サーペントさんが水を撒いた奴はいき"
+"なり自爆してましたね。\n"
+"\n"
+"\n"
+" - ケルベロスの報告"
+msgstr ""
+
+#  Korean Text: '테스트용 나이트칙'
+#: Monster[MOB_MP_NightChickTT_N].Name
+msgid "テスト用ナイトチック"
+msgstr "Test NightChick"
+
+#  Korean Text: '테스트용 나이트칙2'
+#: Monster[MOB_MP_NightChickTT2_N].Name
+msgid "テスト用ナイトゥチック2"
+msgstr "Test NightChick2"
+
+#  Korean Text: '각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.\n\n\n- 블러디팬서'
+#: Monster[MOB_MP_Phalangites_N].Mob_Info
+msgid ""
+"整った隊列で行軍する鉄虫です。鉄虫の中でも珍しく団結力の高い連中です。お互いに密着して保護しあうため陣形を乱すのが効果的だと思われます。\n"
+"\n"
+"\n"
+"- ブラッディーパンサー"
+msgstr ""
+
+#  Korean Text: '팔랑스'
+#: Monster[MOB_MP_Phalangites_N].Name
+msgid "ファランクス"
+msgstr "Phalanx"
+
+#  Korean Text: '프레데터'
+#: Monster[MOB_MP_Predator_B0208].Name
+msgid "プレデター"
+msgstr "Predator"
+
+#  Korean Text: '가상공간 캐노니어'
+#: Monster[MOB_MP_ProgramMobAN_EW].Name
+msgid "仮想空間キャノニア"
+msgstr "Virtual Space Cannoneer"
+
+#  Korean Text: '철충 사념체 (포병)'
+#: Monster[MOB_MP_ProgramMobAN_N].Name
+msgid "鉄虫思念体（砲兵）"
+msgstr ""
+
+#  Korean Text: '가상공간 패트릭'
+#: Monster[MOB_MP_ProgramMobAS_EW].Name
+msgid "仮想空間パトリック"
+msgstr "Virtual Space Patrick"
+
+#  Korean Text: '철충 사념체 (돌격병)'
+#: Monster[MOB_MP_ProgramMobAS_N].Name
+msgid "鉄虫思念体（突撃兵）"
+msgstr ""
+
+#  Korean Text: '가상공간 탱크'
+#: Monster[MOB_MP_ProgramMobAT_EW].Name
+msgid "仮想空間タンク"
+msgstr "Virtual Space Tank"
+
+#  Korean Text: '철충 사념체 (중장갑병)'
+#: Monster[MOB_MP_ProgramMobAT_N].Name
+msgid "鉄虫思念体（重装甲兵）"
+msgstr ""
+
+#  Korean Text: '가상공간 봄버'
+#: Monster[MOB_MP_ProgramMobMN_EW].Name
+msgid "仮想空間ボンバー"
+msgstr "Virtual Space Bomber"
+
+#  Korean Text: '철충 사념체 (폭격기)'
+#: Monster[MOB_MP_ProgramMobMN_N].Name
+msgid "鉄虫思念体（爆撃機）"
+msgstr ""
+
+#  Korean Text: '가상공간 경보기'
+#: Monster[MOB_MP_ProgramMobMS_EW].Name
+msgid "仮想空間警報器"
+msgstr "Virtual Space Alarm"
+
+#  Korean Text: '철충 사념체 (정찰기)'
+#: Monster[MOB_MP_ProgramMobMS_N].Name
+msgid "鉄虫思念体（偵察機）"
+msgstr ""
+
+#  Korean Text: '가상공간 파이터'
+#: Monster[MOB_MP_ProgramMobMT_EW].Name
+msgid "仮想空間ファイター"
+msgstr "Virtual Space Fighter"
+
+#  Korean Text: '철충 사념체 (호위기)'
+#: Monster[MOB_MP_ProgramMobMT_N].Name
+msgid "鉄虫思念体（護衛機）"
+msgstr ""
+
+#  Korean Text: '가상공간 스나이퍼'
+#: Monster[MOB_MP_ProgramMobTN_EW].Name
+msgid "仮想空間スナイパー"
+msgstr "Virtual Space Sniper"
+
+#  Korean Text: '철충 사념체 (저격병)'
+#: Monster[MOB_MP_ProgramMobTN_N].Name
+msgid "鉄虫思念体（狙撃兵）"
+msgstr ""
+
+#  Korean Text: '가상공간 솔져'
+#: Monster[MOB_MP_ProgramMobTS_EW].Name
+msgid "仮想空間ソルジャー"
+msgstr "Virtual Space Soldier"
+
+#  Korean Text: '철충 사념체 (보병)'
+#: Monster[MOB_MP_ProgramMobTS_N].Name
+msgid "鉄虫思念体（步兵）"
+msgstr ""
+
+#  Korean Text: '가상공간 실더'
+#: Monster[MOB_MP_ProgramMobTT_EW].Name
+msgid "仮想空間シールダー"
+msgstr "Virtual Space Shielder"
+
+#  Korean Text: '철충 사념체 (장갑병)'
+#: Monster[MOB_MP_ProgramMobTT_N].Name
+msgid "鉄虫思念体（装甲兵）"
+msgstr ""
+
+#  Korean Text: '펍 헤드의 자율 경비용 기종이다.'
+#: Monster[MOB_MP_PuppHead_TU2].Mob_Info
+msgid "ポップヘッドの自律警備用機種だ。"
+msgstr ""
+
+#  Korean Text: '경비용 펍 헤드'
+#: Monster[MOB_MP_PuppHead_TU2].Name
+msgid "警備用ポップヘッド"
+msgstr ""
+
+#  Korean Text: '이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.\n\n\n - 칸 보고함'
+#: Monster[MOB_MP_PuppHeadC_EV1].Mob_Info
+msgid ""
+"こいつと一緒に行動する敵は動きが素早いようだ。早めに処理した方がよさそうだ。\n"
+"\n"
+"\n"
+" - カーンの報告"
+msgstr ""
+
+#  Korean Text: '펍 헤드 커스텀'
+#: Monster[MOB_MP_PuppHeadC_EV1].Name
+msgid "ポップヘッドカスタム"
+msgstr "PupHead Custom"
+
+#  Korean Text: '고속 교란용 연결체. 지휘 능력이 제법 뛰어나 대량의 철충 부대와 함께 다니기 때문에 주의하는 게 좋아. 보기보다 겁쟁이라 위협을 느끼면 닥치는대로 전격탄을 난사하니 대비하는 작전을 세우면 그럭저럭 상대할 만 할 거야.\n\n\n- 레오나'
+#: Monster[MOB_MP_Raider_B04].Mob_Info
+msgid ""
+"高速撹乱用連結体。指揮能力が非常に優れており、大量の鉄虫部隊を引き連れているため注意した方がいい。見た目によらず臆病者で危険を感じるとがむしゃらに電撃弾を乱"
+"射してくるので、それに備えた作戦を立てておけばやりがいのある相手だ。\n"
+"\n"
+"\n"
+"- レオナ"
+msgstr ""
+
+#  Korean Text: '레이더'
+#: Monster[MOB_MP_Raider_B04].Name
+msgid "レーダー"
+msgstr "Raider"
+
+#  Korean Text: '광폭화 레이더'
+#: Monster[MOB_MP_Raider_CH].Name
+msgid "狂暴化レーダー"
+msgstr "Enraged Raider"
+
+#  Korean Text: '램파트의 자율 경비용 기종이다.'
+#: Monster[MOB_MP_Rampart_TU2].Mob_Info
+msgid "ランパートの自律警備用機種だ。"
+msgstr ""
+
+#  Korean Text: '경비용 램파트'
+#: Monster[MOB_MP_Rampart_TU2].Name
+msgid "警備用ランパート"
+msgstr ""
+
+#  Korean Text: '불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.\n\n\n - 칼리스타 보고함'
+#: Monster[MOB_MP_RampartC_EV1].Mob_Info
+msgid ""
+"不利になると仲間に支援要請をするずる賢い奴だ。防御を始めると反撃してくるから注意して。\n"
+"\n"
+"\n"
+" - カリスタの報告"
+msgstr ""
+
+#  Korean Text: '램파트 커스텀'
+#: Monster[MOB_MP_RampartC_EV1].Name
+msgid "ランパートカスタム"
+msgstr "Rampart Custom"
+
+#  Korean Text: '큿… 제 레이더로도 포착하기 어려운 상대네요. 최대 충전 상태가 되면 강력한 공격을 하니 주의하시길. 상태를 보니 큰 피해를 입으면 어떤 꼬맹이처럼 성대하게 폭발할 것 같군요.\n\n\n- 나이트 앤젤 보고함'
+#: Monster[MOB_MP_RocC_EV1].Mob_Info
+msgid ""
+"くっ…私のレーダーでも探知できない相手です。最大充電状態になると強力な攻撃をしてくるので気を付けてください。見るからに大きなダメージを受けると子供みたいに癇"
+"癪を起しそうですね。\n"
+"\n"
+"\n"
+"- ナイトエンジェルの報告"
+msgstr ""
+
+#  Korean Text: '로크 (최대 충전)'
+#: Monster[MOB_MP_RocC_EV1].Name
+msgid "ローク（最大充電）"
+msgstr ""
+
+#  Korean Text: '전력을 공급하기 위한 장치네요. 웬만한 충격으론 금방 복원되니 무력화되었을 때 본체를 노리는게 좋을 것 같아요.\n\n\n- 세이렌 보고함'
+#: Monster[MOB_MP_RocCGenerator_EV1].Mob_Info
+msgid ""
+"電力を供給するための装置です。並大抵の衝撃ではすぐ復元可能と思われますので無力化した時に本体を狙うのがよさそうです。\n"
+"\n"
+"\n"
+"- セイレンの報告"
+msgstr ""
+
+#  Korean Text: '에너지 컨덴서'
+#: Monster[MOB_MP_RocCGenerator_EV1].Name
+msgid "エネルギーコンデンサー"
+msgstr ""
+
+#  Korean Text: '강화 에너지 컨덴서'
+#: Monster[MOB_MP_RocCGeneratorA_EV1].Name
+msgid "強化エネルギーコンデンサー"
+msgstr ""
+
+#  Korean Text: '이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.\n\n\n- 보고자 닥터'
+#: Monster[MOB_MP_Scarab_N].Mob_Info
+msgid ""
+"奇妙な構造なのにいい仕事しているのよ。私あれ何としてでも分解してみたいから捕まえたら私にちょうだい！臆病者だから怖いと防御するから早く片付けた方がいいよ。"
+"\n"
+"\n"
+"\n"
+"- 報告者ドクター"
+msgstr ""
+
+#  Korean Text: '스캐럽'
+#: Monster[MOB_MP_Scarab_N].Name
+msgid "スケロプ"
+msgstr "Scarab"
+
+#  Korean Text: '스캐럽 HC'
+#: Monster[MOB_MP_ScarabEX_EV1].Name
+msgid "スケロプHC"
+msgstr ""
+
+#  Korean Text: '스카우트'
+#: Monster[MOB_MP_Scout_EV1].Name
+msgid "スカウト"
+msgstr "Scout"
+
+#  Korean Text: '저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!\n\n\n- 스틸 드라코'
+#: Monster[MOB_MP_Scout_N].Mob_Info
+msgid ""
+"あの憎たらしいハエたちめ！すばしこくって攻撃も当たらないしうざいし本当に嫌になっちゃう。百発百中のミホが必要だわ！\n"
+"\n"
+"\n"
+"- スチールドラコ"
+msgstr ""
+"Those damn flies! They're just too quick and nimble to hit, and they won't "
+"stop getting in my way, it's sooo annoying. We'll need sharpshooters like "
+"Miho to deal with this!\n"
+"\n"
+"\n"
+"- Steel Draco"
+
+#  Korean Text: '강습형 스카우트'
+#: Monster[MOB_MP_ScoutEX_EV1].Name
+msgid "強襲型スカウト"
+msgstr ""
+
+#  Korean Text: '지원형 스카우트'
+#: Monster[MOB_MP_ScoutSP_N].Name
+msgid "支援型スカウト"
+msgstr "Support Scout"
+
+#  Korean Text: '셀주크의 양산형 기종이다.'
+#: Monster[MOB_MP_Seljuq_TU2].Mob_Info
+msgid "セルジュークの量産型機種だ。"
+msgstr ""
+
+#  Korean Text: '양산형 셀주크'
+#: Monster[MOB_MP_Seljuq_TU2].Name
+msgid "量産型セルジューク"
+msgstr ""
+
+#  Korean Text: '화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.\n\n\n - 세이렌 보고함'
+#: Monster[MOB_MP_SeljuqA_EV1].Mob_Info
+msgid ""
+"火力は一般型セルジュークよりも劣りますが、装甲はアップグレードされているようです。攻撃を許していてはこちらの動きを読まれてしまうので防御能力が高い小隊で制圧"
+"するのがよさそうです。\n"
+"\n"
+"\n"
+" - セイレンの報告"
+msgstr ""
+
+#  Korean Text: '셀주크 커스텀'
+#: Monster[MOB_MP_SeljuqA_EV1].Name
+msgid "セルジュークカスタム"
+msgstr ""
+
+#  Korean Text: '속이 아파오기 시작했어요… 제가 안 보면 대체 무슨 일을 할지...\n\n\n- 세이렌'
+#: Monster[MOB_MP_Sirene_EV1].Mob_Info
+msgid ""
+"お腹が痛くなってきました…私がいないと一体何をしでかすか...\n"
+"\n"
+"\n"
+"- セイレン"
+msgstr ""
+
+#  Korean Text: '문제아반 반장'
+#: Monster[MOB_MP_Sirene_EV1].Name
+msgid "問題児クラスの委員長"
+msgstr ""
+
+#  Korean Text: '사실 세이렌도 놀고 싶어 하는 걸지도.'
+#: Monster[MOB_MP_Sirene_EV2].Mob_Info
+msgid "実はセイレンも遊びたがっているのかも。"
+msgstr ""
+
+#  Korean Text: '그럼요~'
+#: Monster[MOB_MP_Sirene_EV2].Name
+msgid "もちろん～"
+msgstr ""
+
+#  Korean Text: '스패로우'
+#: Monster[MOB_MP_Sparrow_N].Name
+msgid "スペロウ"
+msgstr "Sparrow"
+
+#  Korean Text: '스펙터'
+#: Monster[MOB_MP_Spector_EV1].Name
+msgid "スペクター"
+msgstr "Spectre"
+
+#  Korean Text: '방어막을 걷어내지 않으면 격추하기 힘든 개체야. 유령같은 움직임 때문에 맞추기 힘들테니 주의해.\n\n\n- 네오딤'
+#: Monster[MOB_MP_Spector_N].Mob_Info
+msgid ""
+"シールドを解除しない限り、撃墜しずらい個体だ。幽霊みたいな動きのせいで照準を合わせるのが大変だから注意して。\n"
+"\n"
+"\n"
+"- ネオディム"
+msgstr ""
+
+#  Korean Text: '스펙터 BS'
+#: Monster[MOB_MP_SpectorBS_N].Name
+msgid "スペクターBS"
+msgstr "Spectre BS"
+
+#  Korean Text: '스펙터 MS'
+#: Monster[MOB_MP_SpectorMS_N].Name
+msgid "スペクターMS"
+msgstr "Spectre MS"
+
+#  Korean Text: '철충 연결체입니다. 힘을 모아서 엄청난 한 방을 노리는 비열한 타입의 적입니다. 하지만 힘을 모으고 있는 시간은 짧으니 최대한 공격을 늦춰서 제 포를 이용해 처리하는 게 가장 좋아 보이는군요.\n\n\n- 보고자 비스트 헌터'
+#: Monster[MOB_MP_Stalker_B0108].Mob_Info
+msgid ""
+"鉄虫の連結体です。力を合わせて強烈な一発を狙う卑劣なタイプの敵です。ただ力を集める時間が短いので最大限攻撃を遅らせ、私の砲を利用して処理するのが一番効果的だ"
+"と思います。\n"
+"\n"
+"\n"
+"- 報告者ビーストハンター"
+msgstr ""
+"A Nexus-tier Iron Parasite. A cunning enemy whose tactic is to charge up "
+"strength and deliver devastating attacks. It cannot stay charged up for long, "
+"so I suggest delaying its attack as much as possible then taking it our with "
+"my cannon.\n"
+"\n"
+"\n"
+"- Report by Beast Hunter"
+
+#  Korean Text: '스토커'
+#: Monster[MOB_MP_Stalker_B0108].Name
+msgid "ストーカー"
+msgstr "Stalker"
+
+#  Korean Text: '스팅어의 양산형 기종이다.'
+#: Monster[MOB_MP_Stinger_TU2].Mob_Info
+msgid "スティンガーの量産型機種だ。"
+msgstr ""
+
+#  Korean Text: '양산형 스팅어'
+#: Monster[MOB_MP_Stinger_TU2].Name
+msgid "量産型スティンガー"
+msgstr ""
+
+#  Korean Text: '극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.\n\n\n - 님프 보고함'
+#: Monster[MOB_MP_StingerC_EV1].Mob_Info
+msgid ""
+"極地用スティンガー？妙に親近感を感じますね。敵が保護する前に早く退治した方がよさそうです。まだまだ大丈夫だと安心していたら大変なことになります。\n"
+"\n"
+"\n"
+" - ニンフの報告"
+msgstr ""
+
+#  Korean Text: '스팅어 커스텀'
+#: Monster[MOB_MP_StingerC_EV1].Name
+msgid "スティンガーカスタム"
+msgstr "Stinger Custom"
+
+#  Korean Text: '트레비앙~한 방어 능력을 가진 적이에요. 보통은 중화기로 제압해야 하지만 제 정교한 검술로도 해결할 수 있으니 맡겨주세요!\n\n\n- 샬럿 보고함'
+#: Monster[MOB_MP_Testudo_N].Mob_Info
+msgid ""
+"トレビア～ンな防御能力を持った敵です。通常は重火器で制圧するべきですが、私の巧みな剣術で解決できそうなのでお任せください！\n"
+"\n"
+"\n"
+"- シャーロットの報告"
+msgstr ""
+
+#  Korean Text: '테스투도'
+#: Monster[MOB_MP_Testudo_N].Name
+msgid "テストゥド"
+msgstr ""
+
+#  Korean Text: '장갑이 활성화 되었을 땐 유효 피해를 주기 힘들어요! 장갑을 비활성화 시킨 후에 한 번에 해치워야 해요!\n\n\n- 켈베로스'
+#: Monster[MOB_MP_Tortoise_N].Mob_Info
+msgid ""
+"装甲が活性化された状態では有効なダメージを与えるのが難しくなります！装甲を非活性化させた後で、一度にまとめて片付けましょう！\n"
+"\n"
+"\n"
+"- ケルベロス"
+msgstr ""
+"Most attacks won't be effective while the armor is active! We should "
+"deactivate its armor and take it out in one go!\n"
+"\n"
+"\n"
+"- Cerberus"
+
+#  Korean Text: '토터스'
+#: Monster[MOB_MP_Tortoise_N].Name
+msgid "トータス"
+msgstr "Tortoise"
+
+#  Korean Text: '연습용으로 쓰이는 표적 나이트 칙 모형이다.'
+#: Monster[MOB_MP_TrainingDummy_N].Mob_Info
+msgid "練習用に使用される標的ナイトチックの模型だ。"
+msgstr "A model of Night Chick, used for practice."
+
+#  Korean Text: '표적 더미'
+#: Monster[MOB_MP_TrainingDummy_N].Name
+msgid "標的ダミー"
+msgstr "Target Dummy"
+
+#  Korean Text: '제 해킹으로 성능이 저하된 상태지만, 에너지 충전이 완료되면 여전히 무시무시한 공격을 할 거예요. 충전을 막기 위해 제네레이터를 공격하는 것도 좋겠네요. 본체는 공격 직후를 노리면 더 많은 타격을 줄 수 있을 것 같네요.\n\n\n- 스카디'
+#: Monster[MOB_MP_UnderWatcher_B05].Mob_Info
+msgid ""
+"私のハッキングで性能が低下した状態ですが、エネルギー充電が完了すればまだまだ強力な攻撃が可能だと思われます。充電を防ぐためジェネレーターを攻撃するのもいいか"
+"もしれません。本体は攻撃直後を狙うとより多くの打撃を与えられそうですね。\n"
+"\n"
+"\n"
+"- スカディー"
+msgstr ""
+
+#  Korean Text: '언더왓쳐'
+#: Monster[MOB_MP_UnderWatcher_B05].Name
+msgid "アンダーウォッチャー"
+msgstr "Underwatcher"
+
+#  Korean Text: '언더왓쳐의 공격용 암 파츠네요. 대공 기능이 있는 것 같으니 주의하세요.\n\n\n- 스카디'
+#: Monster[MOB_MP_UnderWatcherArm_B05].Mob_Info
+msgid ""
+"アンダーウォッチャーの攻撃用アームパーツです。対空機能があるようなので注意してください。\n"
+"\n"
+"\n"
+"- スカディー"
+msgstr ""
+
+#  Korean Text: '언더왓쳐 암'
+#: Monster[MOB_MP_UnderWatcherArm_B05].Name
+msgid "アンダーウォッチャーアーム"
+msgstr "Underwatcher Arm"
+
+#  Korean Text: '에너지 공급용 제네레이터네요. 계속 공격해보면 에너지 공급을 멈출 수 있을 것 같네요.\n\n\n- 스카디'
+#: Monster[MOB_MP_UnderWatcherGenerator_B05].Mob_Info
+msgid ""
+"エネルギー供給用ジェネレーターです。何度も攻撃し続ければエネルギーの供給が停止しそうですね。\n"
+"\n"
+"\n"
+"- スカディー"
+msgstr ""
+
+#  Korean Text: '언더왓쳐 제네레이터'
+#: Monster[MOB_MP_UnderWatcherGenerator_B05].Name
+msgid "アンダーウォッチャージェネレーター"
+msgstr "Underwatcher Generator"
+
+#  Korean Text: '조준용 센서가 달린 파츠네요. 피해를 주거나 파괴하면 공격을 피하기 쉬워질거에요.\n\n\n- 스카디'
+#: Monster[MOB_MP_UnderWatcherSensor_B05].Mob_Info
+msgid ""
+"照準用センサーが搭載されたパーツです。ダメージを与えたり破壊すると攻撃を避けるのが楽になるでしょう。\n"
+"\n"
+"\n"
+"- スカディー"
+msgstr ""
+
+#  Korean Text: '언더왓쳐 센서'
+#: Monster[MOB_MP_UnderWatcherSensor_B05].Name
+msgid "アンダーウォッチャーセンサー"
+msgstr "Underwatcher Sensor"
+
+#  Korean Text: '치즈는 역시 프랑스 산이 최고에요!\n\n\n- 운디네'
+#: Monster[MOB_MP_Undine_EV1].Mob_Info
+msgid ""
+"チーズはやはりフランス産が最高です！\n"
+"\n"
+"\n"
+"- ウンディーネ"
+msgstr ""
+
+#  Korean Text: '까망베르'
+#: Monster[MOB_MP_Undine_EV1].Name
+msgid "カマンベル"
+msgstr ""
+
+#  Korean Text: '퐁 레베크'
+#: Monster[MOB_MP_Undine_EV2].Name
+msgid "フォンレベック"
+msgstr ""
+
+#  Korean Text: '브리 드 모'
+#: Monster[MOB_MP_Undine_EV3].Name
+msgid "ブリーデモー"
+msgstr ""
+
+#  Korean Text: '그럼요…? 오늘의 암구호인 건가요?\n\n\n- 운디네'
+#: Monster[MOB_MP_Undine_EV4].Mob_Info
+msgid ""
+"もちろんですとも…？今日の合言葉ですか？\n"
+"\n"
+"\n"
+"- ウンディーネ"
+msgstr ""
+
+#  Korean Text: '그럼…요?'
+#: Monster[MOB_MP_Undine_EV4].Name
+msgid "もち…ろん？"
+msgstr ""
+
+#  Korean Text: 'P-3M 운디네_적'
+#: Monster[MOB_MP_Undine_EV5].Name
+msgid "P-3Mウンディーネ_敵"
+msgstr ""
+
+#  Korean Text: '누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.\n\n\n- 슬레이프니르'
+#: Monster[MOB_MP_Wasp_N].Mob_Info
+msgid ""
+"誰がこの子に角をつけたの？私ほど早くはないだろうけど私より遅い奴らは全部気をつけて。かなりのスピードで突撃してくるんだから。\n"
+"\n"
+"\n"
+"- スレイプニール"
+msgstr ""
+"Who the hell thought it would be a good idea to attach a horn on this guy? It "
+"may not be as fast as I am, but its charge is still quite fast, so others "
+"should be careful of it.\n"
+"\n"
+"\n"
+"- Sleipnir"
+
+#  Korean Text: '와습'
+#: Monster[MOB_MP_Wasp_N].Name
+msgid "ワスプ"
+msgstr "Wasp"
+
+#  Korean Text: '와습 HM'
+#: Monster[MOB_MP_WaspEX_EV1].Name
+msgid "ワスプHM"
+msgstr ""
+
+#  Korean Text: '호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?\n\n\n- 보고자 블랙 리리스'
+#: Monster[MOB_MP_Zapper_N].Mob_Info
+msgid ""
+"好戦性が低い個体ですね。先に手を出さなければ攻撃してこないので注意してください。高圧電流攻撃をしてきますよ。まさか私が代わりに攻撃されてびりびりと目が回る様"
+"子を見たいんじゃないでしょうね？\n"
+"\n"
+"\n"
+"- 報告者ブラックリリス"
+msgstr ""
+"A rather non-aggressive enemy. It won't attack as long as we don't hit it "
+"first, but beware of its high voltage electric attacks once it's awake. You "
+"don't want me to get stung and feel the shock, do you?\n"
+"\n"
+"\n"
+"- Report by Black Lilith"
+
+#  Korean Text: '재퍼'
+#: Monster[MOB_MP_Zapper_N].Name
+msgid "ザッパー"
+msgstr "Zapper"
+
+#  Korean Text: '강화형 재퍼'
+#: Monster[MOB_MP_ZapperEX_EV1].Name
+msgid "強化型ザッパー"
+msgstr ""

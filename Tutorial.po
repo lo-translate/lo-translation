@@ -1,0 +1,158 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '지휘 콘솔 접속, 확인했습니다.&n그럼, 주인님 간략하게 설명을 드릴게요.'
+#: Tutorial[Tutorial_004].GuideUi_Dialog
+msgid "指揮コンソール接続、確認しました。&nでは、ご主人様、簡単に説明させていただきます。"
+msgstr ""
+
+#  Korean Text: '지휘 콘솔을 봐주세요.  지휘 콘솔에는 현재의 전투 상황에 대한 설명이 있답니다.&n일단은 제가 가장 먼저 공격 준비가 된 상태예요.'
+#: Tutorial[Tutorial_005].GuideUi_Dialog
+msgid ""
+"指揮コンソールを見てください。指揮コンソールには、現在の戦闘状況について表示されています。&nこの場合、私が一番先に攻撃の準備ができているという状態です。"
+msgstr ""
+
+#  Korean Text: '지휘 콘솔에 표시된 저희의 얼굴은 공격이 준비된 순서를 의미해요.&n현재의 전투 준비 상태는 AP라 부르고 준비가 완료된 상태가 10이에요. 기억해 주세요.'
+#: Tutorial[Tutorial_006].GuideUi_Dialog
+msgid ""
+"指揮コンソールに表示された私達の顔は、攻撃準備が完了した順番に並んでいます。&nラウンド開始時に戦闘員の行動力に応じて溜まるポイントをAPと呼び、APが10"
+"を超えると行動が可能になります。覚えてくださいね。"
+msgstr ""
+
+#  Korean Text: '이번엔 저 혼자 먼저 전투 준비가 되었으니&n적이 전투 준비를 마치기 전에 선공을 할 수 있을 거예요. '
+#: Tutorial[Tutorial_007].GuideUi_Dialog
+msgid "今回は私一人が先に戦闘の準備ができていますから、&n敵が戦闘の準備を完了させる前に攻撃することが出来るはずです。"
+msgstr ""
+
+#  Korean Text: '그럼 제가 할 수 있는 행동을 명령해 주세요.&n일단 적의 준비를 흩뜨려 행동을 늦출 수 있는 공격이 좋을 것 같아요.'
+#: Tutorial[Tutorial_008].GuideUi_Dialog
+msgid "では、私が取る行動を命令してください。&nここは敵の行動を遅らせる攻撃が良いと思います。"
+msgstr ""
+
+#  Korean Text: '공격이나 전투에서 취할 수 있는 행동은 한 가지 뿐이 아니에요. 그리고 전열을 이동&n하거나 대기를 통해 전투 준비 상태를 흩뜨리지 않는 것도 가능하니 기억해 주세요.'
+#: Tutorial[Tutorial_009].GuideUi_Dialog
+msgid "戦闘で取ることができる行動は、攻撃だけではありません。戦列の移動や&n待機によって、戦闘の準備状態を維持することもできるので覚えておきましょう。"
+msgstr ""
+
+#  Korean Text: '제가 취할 공격을 결정하셨으면 어떤 적을 공격할 지도 정해 주세요.&n일단 뒤의 적은 앞으로 오기 전엔 공격을 할 수 없으니 제일 앞의 적이 좋겠네요.'
+#: Tutorial[Tutorial_010].GuideUi_Dialog
+msgid ""
+"私に攻撃をご命令になったなら、どの敵を攻撃するかを決めてください。&nスキルの射程によっては後ろにいる敵に攻撃が届かないこともあります。今回は一番前の敵を狙"
+"うのが良いかもしれませんね。"
+msgstr ""
+
+#  Korean Text: '좋아요! 보리가 적의 발목을 묶는데 성공했어요.&n덕분에 제가 표적을 노리기 수월해 졌어요, 그럼 다음 전투 명령을…'
+#: Tutorial[Tutorial_013].GuideUi_Dialog
+msgid "よし！ボリが敵の足止めに成功しました。&nおかげで、私がターゲットを狙いやすくなりました。では、次の戦闘のご命令を..."
+msgstr ""
+
+#  Korean Text: '다음은 나야 나! 헤헷! 인간?! 이번엔 내가 먼저거든? '
+#: Tutorial[Tutorial_014].GuideUi_Dialog
+msgid "次は私だよ、私！ふふんっ！人間！今度は私の番だよ？"
+msgstr ""
+
+#  Korean Text: '있지, 나 괜찮은 생각이 났어.&n뒤쪽에 철충들이 엄청 모여 있는데, 저기에 미사일을 쏟아붓는 건 어때?'
+#: Tutorial[Tutorial_015].GuideUi_Dialog
+msgid "ねえ、私、いいこと思いついた。&n後ろに鉄虫が固まっているから、そこにミサイルを撃つのはどう？"
+msgstr ""
+
+#  Korean Text: '내게 미사일이랑, 폭격 좌표만 정해줘. 나머지는 내가 알아서 할 테니까. '
+#: Tutorial[Tutorial_016].GuideUi_Dialog
+msgid "人間は私にミサイルと、爆撃の座標だけ指定して。あとは私が何とかするから。"
+msgstr ""
+
+#  Korean Text: '좌표 확인!&n그리폰 공격 준비 완료!'
+#: Tutorial[Tutorial_019].GuideUi_Dialog
+msgid "座標確認！&nグリフォン、攻撃準備完了！"
+msgstr ""
+
+#  Korean Text: '주인님, 제 행동도 지정해 주세요. '
+#: Tutorial[Tutorial_020].GuideUi_Dialog
+msgid "ご主人様、私の行動も指定してください。"
+msgstr ""
+
+#  Korean Text: '철충 접근중! 저희와 거리를 좁힐 생각인 것 같아요.&n이제 얼마 남지 않았어요. 주인님? 저희에게 명령을 내려 주세요.'
+#: Tutorial[Tutorial_025].GuideUi_Dialog
+msgid "鉄虫接近中！私達と距離を縮めるつもりのようです。&nもう、すぐそこですね。ご主人様？私たちに命令を下してください。"
+msgstr ""
+
+#  Korean Text: '전방에 철충 4기 확인!&n인간? 전투 지휘를 부탁해!'
+#: Tutorial[Tutorial_301].GuideUi_Dialog
+msgid "前方に鉄虫4機確認！&n人間！戦闘の指揮をお願い！"
+msgstr ""
+
+#  Korean Text: '일단, 좀 더 빨리 준비되는 적을 해치워야&n아군의 피해를 줄일 수 있을 거예요.'
+#: Tutorial[Tutorial_302].GuideUi_Dialog
+msgid "味方の被害を減らすためにも、&n少しでも早く敵を倒しましょう！"
+msgstr ""
+
+#  Korean Text: '뭐, 별거 아닌 애들이니 빨리 해치워 버리고 등대로 가자고!'
+#: Tutorial[Tutorial_303].GuideUi_Dialog
+msgid "あんな小物、早くやっつけて灯台に行こうよ！"
+msgstr ""
+
+#  Korean Text: '요안나는 한 마디 안해?'
+#: Tutorial[Tutorial_304].GuideUi_Dialog
+msgid "ヨアンナはなんか言う事ないの?"
+msgstr ""
+
+#  Korean Text: '이렇게 믿음직한 주군과 동료들이 있는데 무슨 할 말이 있으리?&n짐은 그저 방패를 들어올릴 뿐….'
+#: Tutorial[Tutorial_305].GuideUi_Dialog
+msgid "このような頼れる殿と仲間たちがいれば何も言う事などない！&n余はただこの盾を持ち上げるだけだ...。"
+msgstr ""
+
+#  Korean Text: '휴… 요안나는 맨날 뻔한 이야기네?'
+#: Tutorial[Tutorial_306].GuideUi_Dialog
+msgid "はぁ...ヨアンナはいつも似たような事しか言わないね？"
+msgstr ""
+
+#  Korean Text: '후후. 모두 긴장이 풀렸나보네요. 주인님, 그럼 주인님만 믿을게요.&n전투 지휘를 부탁 드립니다.'
+#: Tutorial[Tutorial_307].GuideUi_Dialog
+msgid "ふふ…。みんな緊張が解けたみたいね。ご主人様？&n戦闘の指揮をお願いします。"
+msgstr ""
+
+#  Korean Text: '저흰 모두 주인님만 믿고 있으니까요.'
+#: Tutorial[Tutorial_308].GuideUi_Dialog
+msgid "私達はご主人様を信じていますからね。"
+msgstr ""
+
+#  Korean Text: '자, 긴장 풀지 말고… 내 레이더에 적이 또 감지 되거든?'
+#: Tutorial[Tutorial_311].GuideUi_Dialog
+msgid "さあ、油断禁物...私のレーダーがまた敵を感知したよ。"
+msgstr ""
+
+#  Korean Text: '실로 훌륭한 능력이군. 그리폰, 그럼 정찰 결과가 어떻게 되지?'
+#: Tutorial[Tutorial_312].GuideUi_Dialog
+msgid "実に素晴らしい能力だな。グリフォン。で、偵察の結果はどうだ？"
+msgstr ""
+
+#  Korean Text: '뭐가 어쩌긴 어째? 콘솔에 표시해 뒀으니 인간이 알아서 하겠지.&n그래도 거리는 좀 있어.'
+#: Tutorial[Tutorial_313].GuideUi_Dialog
+msgid "見ればわかるでしょ？コンソールに表示しているから、人間がなんとかするでしょ。&nでもまぁ、まだちょっと距離はあるわね。"
+msgstr ""
+
+#  Korean Text: '잠깐, 재정비 시간은 있다는 이야기구나.&n주인님, 잠깐 적의 진형에 맞춰 아군을 정비하는 게 어떨가요?'
+#: Tutorial[Tutorial_314].GuideUi_Dialog
+msgid "じゃあ、再整備の時間はあるってことね。&nご主人様、敵の陣形に合わせてこちらの陣形を調整したり整備するのはいかがですか？"
+msgstr ""
+
+#  Korean Text: '재정비는 전투 사이사이에 할 수 있어요.&n급한 응급처치 정도는 할 수 있고요. 물론 재료가 있어야 하겠지만…'
+#: Tutorial[Tutorial_315].GuideUi_Dialog
+msgid "再整備は戦闘の間にもできます。&nもちろん資源が必要ですけれど...応急処置程度なら可能です。"
+msgstr ""
+
+#  Korean Text: '다만, 지금은 자매들의 상태도 문제 없고 진형도 잘 잡혀 있으니&n바로 출발하는 게 좋을 것 같아요.'
+#: Tutorial[Tutorial_316].GuideUi_Dialog
+msgid "ですが、今は姉妹たちの状態も問題ないですし、陣形も整っているので、&nすぐに動いた方がいいと思います。"
+msgstr ""

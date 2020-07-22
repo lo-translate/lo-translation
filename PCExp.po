@@ -1,0 +1,1613 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#: "PCExp[2성 1레벨].Key"
+msgid "2성 1레벨"
+msgstr "2-Star Level 1"
+
+#: "PCExp[2성 2레벨].Key"
+msgid "2성 2레벨"
+msgstr "2-Star Level 2"
+
+#: "PCExp[2성 3레벨].Key"
+msgid "2성 3레벨"
+msgstr "2-Star Level 3"
+
+#: "PCExp[2성 4레벨].Key"
+msgid "2성 4레벨"
+msgstr "2-Star Level 4"
+
+#: "PCExp[2성 5레벨].Key"
+msgid "2성 5레벨"
+msgstr "2-Star Level 5"
+
+#: "PCExp[2성 6레벨].Key"
+msgid "2성 6레벨"
+msgstr "2-Star Level 6"
+
+#: "PCExp[2성 7레벨].Key"
+msgid "2성 7레벨"
+msgstr "2-Star Level 7"
+
+#: "PCExp[2성 8레벨].Key"
+msgid "2성 8레벨"
+msgstr "2-Star Level 8"
+
+#: "PCExp[2성 9레벨].Key"
+msgid "2성 9레벨"
+msgstr "2-Star Level 9"
+
+#: "PCExp[2성 10레벨].Key"
+msgid "2성 10레벨"
+msgstr "2-Star Level 10"
+
+#: "PCExp[2성 11레벨].Key"
+msgid "2성 11레벨"
+msgstr "2-Star Level 11"
+
+#: "PCExp[2성 12레벨].Key"
+msgid "2성 12레벨"
+msgstr "2-Star Level 12"
+
+#: "PCExp[2성 13레벨].Key"
+msgid "2성 13레벨"
+msgstr "2-Star Level 13"
+
+#: "PCExp[2성 14레벨].Key"
+msgid "2성 14레벨"
+msgstr "2-Star Level 14"
+
+#: "PCExp[2성 15레벨].Key"
+msgid "2성 15레벨"
+msgstr "2-Star Level 15"
+
+#: "PCExp[2성 16레벨].Key"
+msgid "2성 16레벨"
+msgstr "2-Star Level 16"
+
+#: "PCExp[2성 17레벨].Key"
+msgid "2성 17레벨"
+msgstr "2-Star Level 17"
+
+#: "PCExp[2성 18레벨].Key"
+msgid "2성 18레벨"
+msgstr "2-Star Level 18"
+
+#: "PCExp[2성 19레벨].Key"
+msgid "2성 19레벨"
+msgstr "2-Star Level 19"
+
+#: "PCExp[2성 20레벨].Key"
+msgid "2성 20레벨"
+msgstr "2-Star Level 20"
+
+#: "PCExp[2성 21레벨].Key"
+msgid "2성 21레벨"
+msgstr "2-Star Level 21"
+
+#: "PCExp[2성 22레벨].Key"
+msgid "2성 22레벨"
+msgstr "2-Star Level 22"
+
+#: "PCExp[2성 23레벨].Key"
+msgid "2성 23레벨"
+msgstr "2-Star Level 23"
+
+#: "PCExp[2성 24레벨].Key"
+msgid "2성 24레벨"
+msgstr "2-Star Level 24"
+
+#: "PCExp[2성 25레벨].Key"
+msgid "2성 25레벨"
+msgstr "2-Star Level 25"
+
+#: "PCExp[2성 26레벨].Key"
+msgid "2성 26레벨"
+msgstr "2-Star Level 26"
+
+#: "PCExp[2성 27레벨].Key"
+msgid "2성 27레벨"
+msgstr "2-Star Level 27"
+
+#: "PCExp[2성 28레벨].Key"
+msgid "2성 28레벨"
+msgstr "2-Star Level 28"
+
+#: "PCExp[2성 29레벨].Key"
+msgid "2성 29레벨"
+msgstr "2-Star Level 29"
+
+#: "PCExp[2성 30레벨].Key"
+msgid "2성 30레벨"
+msgstr "2-Star Level 30"
+
+#: "PCExp[2성 31레벨].Key"
+msgid "2성 31레벨"
+msgstr "2-Star Level 31"
+
+#: "PCExp[2성 32레벨].Key"
+msgid "2성 32레벨"
+msgstr "2-Star Level 32"
+
+#: "PCExp[2성 33레벨].Key"
+msgid "2성 33레벨"
+msgstr "2-Star Level 33"
+
+#: "PCExp[2성 34레벨].Key"
+msgid "2성 34레벨"
+msgstr "2-Star Level 34"
+
+#: "PCExp[2성 35레벨].Key"
+msgid "2성 35레벨"
+msgstr "2-Star Level 35"
+
+#: "PCExp[2성 36레벨].Key"
+msgid "2성 36레벨"
+msgstr "2-Star Level 36"
+
+#: "PCExp[2성 37레벨].Key"
+msgid "2성 37레벨"
+msgstr "2-Star Level 37"
+
+#: "PCExp[2성 38레벨].Key"
+msgid "2성 38레벨"
+msgstr "2-Star Level 38"
+
+#: "PCExp[2성 39레벨].Key"
+msgid "2성 39레벨"
+msgstr "2-Star Level 39"
+
+#: "PCExp[2성 40레벨].Key"
+msgid "2성 40레벨"
+msgstr "2-Star Level 40"
+
+#: "PCExp[2성 41레벨].Key"
+msgid "2성 41레벨"
+msgstr "2-Star Level 41"
+
+#: "PCExp[2성 42레벨].Key"
+msgid "2성 42레벨"
+msgstr "2-Star Level 42"
+
+#: "PCExp[2성 43레벨].Key"
+msgid "2성 43레벨"
+msgstr "2-Star Level 43"
+
+#: "PCExp[2성 44레벨].Key"
+msgid "2성 44레벨"
+msgstr "2-Star Level 44"
+
+#: "PCExp[2성 45레벨].Key"
+msgid "2성 45레벨"
+msgstr "2-Star Level 45"
+
+#: "PCExp[2성 46레벨].Key"
+msgid "2성 46레벨"
+msgstr "2-Star Level 46"
+
+#: "PCExp[2성 47레벨].Key"
+msgid "2성 47레벨"
+msgstr "2-Star Level 47"
+
+#: "PCExp[2성 48레벨].Key"
+msgid "2성 48레벨"
+msgstr "2-Star Level 48"
+
+#: "PCExp[2성 49레벨].Key"
+msgid "2성 49레벨"
+msgstr "2-Star Level 49"
+
+#: "PCExp[2성 50레벨].Key"
+msgid "2성 50레벨"
+msgstr "2-Star Level 50"
+
+#: "PCExp[2성 51레벨].Key"
+msgid "2성 51레벨"
+msgstr "2-Star Level 51"
+
+#: "PCExp[2성 52레벨].Key"
+msgid "2성 52레벨"
+msgstr "2-Star Level 52"
+
+#: "PCExp[2성 53레벨].Key"
+msgid "2성 53레벨"
+msgstr "2-Star Level 53"
+
+#: "PCExp[2성 54레벨].Key"
+msgid "2성 54레벨"
+msgstr "2-Star Level 54"
+
+#: "PCExp[2성 55레벨].Key"
+msgid "2성 55레벨"
+msgstr "2-Star Level 55"
+
+#: "PCExp[2성 56레벨].Key"
+msgid "2성 56레벨"
+msgstr "2-Star Level 56"
+
+#: "PCExp[2성 57레벨].Key"
+msgid "2성 57레벨"
+msgstr "2-Star Level 57"
+
+#: "PCExp[2성 58레벨].Key"
+msgid "2성 58레벨"
+msgstr "2-Star Level 58"
+
+#: "PCExp[2성 59레벨].Key"
+msgid "2성 59레벨"
+msgstr "2-Star Level 59"
+
+#: "PCExp[2성 60레벨].Key"
+msgid "2성 60레벨"
+msgstr "2-Star Level 60"
+
+#: "PCExp[2성 61레벨].Key"
+msgid "2성 61레벨"
+msgstr "2-Star Level 61"
+
+#: "PCExp[2성 62레벨].Key"
+msgid "2성 62레벨"
+msgstr "2-Star Level 62"
+
+#: "PCExp[2성 63레벨].Key"
+msgid "2성 63레벨"
+msgstr "2-Star Level 63"
+
+#: "PCExp[2성 64레벨].Key"
+msgid "2성 64레벨"
+msgstr "2-Star Level 64"
+
+#: "PCExp[2성 65레벨].Key"
+msgid "2성 65레벨"
+msgstr "2-Star Level 65"
+
+#: "PCExp[2성 66레벨].Key"
+msgid "2성 66레벨"
+msgstr "2-Star Level 66"
+
+#: "PCExp[2성 67레벨].Key"
+msgid "2성 67레벨"
+msgstr "2-Star Level 67"
+
+#: "PCExp[2성 68레벨].Key"
+msgid "2성 68레벨"
+msgstr "2-Star Level 68"
+
+#: "PCExp[2성 69레벨].Key"
+msgid "2성 69레벨"
+msgstr "2-Star Level 69"
+
+#: "PCExp[2성 70레벨].Key"
+msgid "2성 70레벨"
+msgstr "2-Star Level 70"
+
+#: "PCExp[2성 71레벨].Key"
+msgid "2성 71레벨"
+msgstr "2-Star Level 71"
+
+#: "PCExp[2성 72레벨].Key"
+msgid "2성 72레벨"
+msgstr "2-Star Level 72"
+
+#: "PCExp[2성 73레벨].Key"
+msgid "2성 73레벨"
+msgstr "2-Star Level 73"
+
+#: "PCExp[2성 74레벨].Key"
+msgid "2성 74레벨"
+msgstr "2-Star Level 74"
+
+#: "PCExp[2성 75레벨].Key"
+msgid "2성 75레벨"
+msgstr "2-Star Level 75"
+
+#: "PCExp[2성 76레벨].Key"
+msgid "2성 76레벨"
+msgstr "2-Star Level 76"
+
+#: "PCExp[2성 77레벨].Key"
+msgid "2성 77레벨"
+msgstr "2-Star Level 77"
+
+#: "PCExp[2성 78레벨].Key"
+msgid "2성 78레벨"
+msgstr "2-Star Level 78"
+
+#: "PCExp[2성 79레벨].Key"
+msgid "2성 79레벨"
+msgstr "2-Star Level 79"
+
+#: "PCExp[2성 80레벨].Key"
+msgid "2성 80레벨"
+msgstr "2-Star Level 80"
+
+#: "PCExp[2성 81레벨].Key"
+msgid "2성 81레벨"
+msgstr "2-Star Level 81"
+
+#: "PCExp[2성 82레벨].Key"
+msgid "2성 82레벨"
+msgstr "2-Star Level 82"
+
+#: "PCExp[2성 83레벨].Key"
+msgid "2성 83레벨"
+msgstr "2-Star Level 83"
+
+#: "PCExp[2성 84레벨].Key"
+msgid "2성 84레벨"
+msgstr "2-Star Level 84"
+
+#: "PCExp[2성 85레벨].Key"
+msgid "2성 85레벨"
+msgstr "2-Star Level 85"
+
+#: "PCExp[2성 86레벨].Key"
+msgid "2성 86레벨"
+msgstr "2-Star Level 86"
+
+#: "PCExp[2성 87레벨].Key"
+msgid "2성 87레벨"
+msgstr "2-Star Level 87"
+
+#: "PCExp[2성 88레벨].Key"
+msgid "2성 88레벨"
+msgstr "2-Star Level 88"
+
+#: "PCExp[2성 89레벨].Key"
+msgid "2성 89레벨"
+msgstr "2-Star Level 89"
+
+#: "PCExp[2성 90레벨].Key"
+msgid "2성 90레벨"
+msgstr "2-Star Level 90"
+
+#: "PCExp[2성 91레벨].Key"
+msgid "2성 91레벨"
+msgstr "2-Star Level 91"
+
+#: "PCExp[2성 92레벨].Key"
+msgid "2성 92레벨"
+msgstr "2-Star Level 92"
+
+#: "PCExp[2성 93레벨].Key"
+msgid "2성 93레벨"
+msgstr "2-Star Level 93"
+
+#: "PCExp[2성 94레벨].Key"
+msgid "2성 94레벨"
+msgstr "2-Star Level 94"
+
+#: "PCExp[2성 95레벨].Key"
+msgid "2성 95레벨"
+msgstr "2-Star Level 95"
+
+#: "PCExp[2성 96레벨].Key"
+msgid "2성 96레벨"
+msgstr "2-Star Level 96"
+
+#: "PCExp[2성 97레벨].Key"
+msgid "2성 97레벨"
+msgstr "2-Star Level 97"
+
+#: "PCExp[2성 98레벨].Key"
+msgid "2성 98레벨"
+msgstr "2-Star Level 98"
+
+#: "PCExp[2성 99레벨].Key"
+msgid "2성 99레벨"
+msgstr "2-Star Level 99"
+
+#: "PCExp[2성 100레벨].Key"
+msgid "2성 100레벨"
+msgstr "2-Star Level 100"
+
+#: "PCExp[3성 1레벨].Key"
+msgid "3성 1레벨"
+msgstr "3-Star Level 1"
+
+#: "PCExp[3성 2레벨].Key"
+msgid "3성 2레벨"
+msgstr "3-Star Level 2"
+
+#: "PCExp[3성 3레벨].Key"
+msgid "3성 3레벨"
+msgstr "3-Star Level 3"
+
+#: "PCExp[3성 4레벨].Key"
+msgid "3성 4레벨"
+msgstr "3-Star Level 4"
+
+#: "PCExp[3성 5레벨].Key"
+msgid "3성 5레벨"
+msgstr "3-Star Level 5"
+
+#: "PCExp[3성 6레벨].Key"
+msgid "3성 6레벨"
+msgstr "3-Star Level 6"
+
+#: "PCExp[3성 7레벨].Key"
+msgid "3성 7레벨"
+msgstr "3-Star Level 7"
+
+#: "PCExp[3성 8레벨].Key"
+msgid "3성 8레벨"
+msgstr "3-Star Level 8"
+
+#: "PCExp[3성 9레벨].Key"
+msgid "3성 9레벨"
+msgstr "3-Star Level 9"
+
+#: "PCExp[3성 10레벨].Key"
+msgid "3성 10레벨"
+msgstr "3-Star Level 10"
+
+#: "PCExp[3성 11레벨].Key"
+msgid "3성 11레벨"
+msgstr "3-Star Level 11"
+
+#: "PCExp[3성 12레벨].Key"
+msgid "3성 12레벨"
+msgstr "3-Star Level 12"
+
+#: "PCExp[3성 13레벨].Key"
+msgid "3성 13레벨"
+msgstr "3-Star Level 13"
+
+#: "PCExp[3성 14레벨].Key"
+msgid "3성 14레벨"
+msgstr "3-Star Level 14"
+
+#: "PCExp[3성 15레벨].Key"
+msgid "3성 15레벨"
+msgstr "3-Star Level 15"
+
+#: "PCExp[3성 16레벨].Key"
+msgid "3성 16레벨"
+msgstr "3-Star Level 16"
+
+#: "PCExp[3성 17레벨].Key"
+msgid "3성 17레벨"
+msgstr "3-Star Level 17"
+
+#: "PCExp[3성 18레벨].Key"
+msgid "3성 18레벨"
+msgstr "3-Star Level 18"
+
+#: "PCExp[3성 19레벨].Key"
+msgid "3성 19레벨"
+msgstr "3-Star Level 19"
+
+#: "PCExp[3성 20레벨].Key"
+msgid "3성 20레벨"
+msgstr "3-Star Level 20"
+
+#: "PCExp[3성 21레벨].Key"
+msgid "3성 21레벨"
+msgstr "3-Star Level 21"
+
+#: "PCExp[3성 22레벨].Key"
+msgid "3성 22레벨"
+msgstr "3-Star Level 22"
+
+#: "PCExp[3성 23레벨].Key"
+msgid "3성 23레벨"
+msgstr "3-Star Level 23"
+
+#: "PCExp[3성 24레벨].Key"
+msgid "3성 24레벨"
+msgstr "3-Star Level 24"
+
+#: "PCExp[3성 25레벨].Key"
+msgid "3성 25레벨"
+msgstr "3-Star Level 25"
+
+#: "PCExp[3성 26레벨].Key"
+msgid "3성 26레벨"
+msgstr "3-Star Level 26"
+
+#: "PCExp[3성 27레벨].Key"
+msgid "3성 27레벨"
+msgstr "3-Star Level 27"
+
+#: "PCExp[3성 28레벨].Key"
+msgid "3성 28레벨"
+msgstr "3-Star Level 28"
+
+#: "PCExp[3성 29레벨].Key"
+msgid "3성 29레벨"
+msgstr "3-Star Level 29"
+
+#: "PCExp[3성 30레벨].Key"
+msgid "3성 30레벨"
+msgstr "3-Star Level 30"
+
+#: "PCExp[3성 31레벨].Key"
+msgid "3성 31레벨"
+msgstr "3-Star Level 31"
+
+#: "PCExp[3성 32레벨].Key"
+msgid "3성 32레벨"
+msgstr "3-Star Level 32"
+
+#: "PCExp[3성 33레벨].Key"
+msgid "3성 33레벨"
+msgstr "3-Star Level 33"
+
+#: "PCExp[3성 34레벨].Key"
+msgid "3성 34레벨"
+msgstr "3-Star Level 34"
+
+#: "PCExp[3성 35레벨].Key"
+msgid "3성 35레벨"
+msgstr "3-Star Level 35"
+
+#: "PCExp[3성 36레벨].Key"
+msgid "3성 36레벨"
+msgstr "3-Star Level 36"
+
+#: "PCExp[3성 37레벨].Key"
+msgid "3성 37레벨"
+msgstr "3-Star Level 37"
+
+#: "PCExp[3성 38레벨].Key"
+msgid "3성 38레벨"
+msgstr "3-Star Level 38"
+
+#: "PCExp[3성 39레벨].Key"
+msgid "3성 39레벨"
+msgstr "3-Star Level 39"
+
+#: "PCExp[3성 40레벨].Key"
+msgid "3성 40레벨"
+msgstr "3-Star Level 40"
+
+#: "PCExp[3성 41레벨].Key"
+msgid "3성 41레벨"
+msgstr "3-Star Level 41"
+
+#: "PCExp[3성 42레벨].Key"
+msgid "3성 42레벨"
+msgstr "3-Star Level 42"
+
+#: "PCExp[3성 43레벨].Key"
+msgid "3성 43레벨"
+msgstr "3-Star Level 43"
+
+#: "PCExp[3성 44레벨].Key"
+msgid "3성 44레벨"
+msgstr "3-Star Level 44"
+
+#: "PCExp[3성 45레벨].Key"
+msgid "3성 45레벨"
+msgstr "3-Star Level 45"
+
+#: "PCExp[3성 46레벨].Key"
+msgid "3성 46레벨"
+msgstr "3-Star Level 46"
+
+#: "PCExp[3성 47레벨].Key"
+msgid "3성 47레벨"
+msgstr "3-Star Level 47"
+
+#: "PCExp[3성 48레벨].Key"
+msgid "3성 48레벨"
+msgstr "3-Star Level 48"
+
+#: "PCExp[3성 49레벨].Key"
+msgid "3성 49레벨"
+msgstr "3-Star Level 49"
+
+#: "PCExp[3성 50레벨].Key"
+msgid "3성 50레벨"
+msgstr "3-Star Level 50"
+
+#: "PCExp[3성 51레벨].Key"
+msgid "3성 51레벨"
+msgstr "3-Star Level 51"
+
+#: "PCExp[3성 52레벨].Key"
+msgid "3성 52레벨"
+msgstr "3-Star Level 52"
+
+#: "PCExp[3성 53레벨].Key"
+msgid "3성 53레벨"
+msgstr "3-Star Level 53"
+
+#: "PCExp[3성 54레벨].Key"
+msgid "3성 54레벨"
+msgstr "3-Star Level 54"
+
+#: "PCExp[3성 55레벨].Key"
+msgid "3성 55레벨"
+msgstr "3-Star Level 55"
+
+#: "PCExp[3성 56레벨].Key"
+msgid "3성 56레벨"
+msgstr "3-Star Level 56"
+
+#: "PCExp[3성 57레벨].Key"
+msgid "3성 57레벨"
+msgstr "3-Star Level 57"
+
+#: "PCExp[3성 58레벨].Key"
+msgid "3성 58레벨"
+msgstr "3-Star Level 58"
+
+#: "PCExp[3성 59레벨].Key"
+msgid "3성 59레벨"
+msgstr "3-Star Level 59"
+
+#: "PCExp[3성 60레벨].Key"
+msgid "3성 60레벨"
+msgstr "3-Star Level 60"
+
+#: "PCExp[3성 61레벨].Key"
+msgid "3성 61레벨"
+msgstr "3-Star Level 61"
+
+#: "PCExp[3성 62레벨].Key"
+msgid "3성 62레벨"
+msgstr "3-Star Level 62"
+
+#: "PCExp[3성 63레벨].Key"
+msgid "3성 63레벨"
+msgstr "3-Star Level 63"
+
+#: "PCExp[3성 64레벨].Key"
+msgid "3성 64레벨"
+msgstr "3-Star Level 64"
+
+#: "PCExp[3성 65레벨].Key"
+msgid "3성 65레벨"
+msgstr "3-Star Level 65"
+
+#: "PCExp[3성 66레벨].Key"
+msgid "3성 66레벨"
+msgstr "3-Star Level 66"
+
+#: "PCExp[3성 67레벨].Key"
+msgid "3성 67레벨"
+msgstr "3-Star Level 67"
+
+#: "PCExp[3성 68레벨].Key"
+msgid "3성 68레벨"
+msgstr "3-Star Level 68"
+
+#: "PCExp[3성 69레벨].Key"
+msgid "3성 69레벨"
+msgstr "3-Star Level 69"
+
+#: "PCExp[3성 70레벨].Key"
+msgid "3성 70레벨"
+msgstr "3-Star Level 70"
+
+#: "PCExp[3성 71레벨].Key"
+msgid "3성 71레벨"
+msgstr "3-Star Level 71"
+
+#: "PCExp[3성 72레벨].Key"
+msgid "3성 72레벨"
+msgstr "3-Star Level 72"
+
+#: "PCExp[3성 73레벨].Key"
+msgid "3성 73레벨"
+msgstr "3-Star Level 73"
+
+#: "PCExp[3성 74레벨].Key"
+msgid "3성 74레벨"
+msgstr "3-Star Level 74"
+
+#: "PCExp[3성 75레벨].Key"
+msgid "3성 75레벨"
+msgstr "3-Star Level 75"
+
+#: "PCExp[3성 76레벨].Key"
+msgid "3성 76레벨"
+msgstr "3-Star Level 76"
+
+#: "PCExp[3성 77레벨].Key"
+msgid "3성 77레벨"
+msgstr "3-Star Level 77"
+
+#: "PCExp[3성 78레벨].Key"
+msgid "3성 78레벨"
+msgstr "3-Star Level 78"
+
+#: "PCExp[3성 79레벨].Key"
+msgid "3성 79레벨"
+msgstr "3-Star Level 79"
+
+#: "PCExp[3성 80레벨].Key"
+msgid "3성 80레벨"
+msgstr "3-Star Level 80"
+
+#: "PCExp[3성 81레벨].Key"
+msgid "3성 81레벨"
+msgstr "3-Star Level 81"
+
+#: "PCExp[3성 82레벨].Key"
+msgid "3성 82레벨"
+msgstr "3-Star Level 82"
+
+#: "PCExp[3성 83레벨].Key"
+msgid "3성 83레벨"
+msgstr "3-Star Level 83"
+
+#: "PCExp[3성 84레벨].Key"
+msgid "3성 84레벨"
+msgstr "3-Star Level 84"
+
+#: "PCExp[3성 85레벨].Key"
+msgid "3성 85레벨"
+msgstr "3-Star Level 85"
+
+#: "PCExp[3성 86레벨].Key"
+msgid "3성 86레벨"
+msgstr "3-Star Level 86"
+
+#: "PCExp[3성 87레벨].Key"
+msgid "3성 87레벨"
+msgstr "3-Star Level 87"
+
+#: "PCExp[3성 88레벨].Key"
+msgid "3성 88레벨"
+msgstr "3-Star Level 88"
+
+#: "PCExp[3성 89레벨].Key"
+msgid "3성 89레벨"
+msgstr "3-Star Level 89"
+
+#: "PCExp[3성 90레벨].Key"
+msgid "3성 90레벨"
+msgstr "3-Star Level 90"
+
+#: "PCExp[3성 91레벨].Key"
+msgid "3성 91레벨"
+msgstr "3-Star Level 91"
+
+#: "PCExp[3성 92레벨].Key"
+msgid "3성 92레벨"
+msgstr "3-Star Level 92"
+
+#: "PCExp[3성 93레벨].Key"
+msgid "3성 93레벨"
+msgstr "3-Star Level 93"
+
+#: "PCExp[3성 94레벨].Key"
+msgid "3성 94레벨"
+msgstr "3-Star Level 94"
+
+#: "PCExp[3성 95레벨].Key"
+msgid "3성 95레벨"
+msgstr "3-Star Level 95"
+
+#: "PCExp[3성 96레벨].Key"
+msgid "3성 96레벨"
+msgstr "3-Star Level 96"
+
+#: "PCExp[3성 97레벨].Key"
+msgid "3성 97레벨"
+msgstr "3-Star Level 97"
+
+#: "PCExp[3성 98레벨].Key"
+msgid "3성 98레벨"
+msgstr "3-Star Level 98"
+
+#: "PCExp[3성 99레벨].Key"
+msgid "3성 99레벨"
+msgstr "3-Star Level 99"
+
+#: "PCExp[3성 100레벨].Key"
+msgid "3성 100레벨"
+msgstr "3-Star Level 100"
+
+#: "PCExp[4성 1레벨].Key"
+msgid "4성 1레벨"
+msgstr "4-Star Level 1"
+
+#: "PCExp[4성 2레벨].Key"
+msgid "4성 2레벨"
+msgstr "4-Star Level 2"
+
+#: "PCExp[4성 3레벨].Key"
+msgid "4성 3레벨"
+msgstr "4-Star Level 3"
+
+#: "PCExp[4성 4레벨].Key"
+msgid "4성 4레벨"
+msgstr "4-Star Level 4"
+
+#: "PCExp[4성 5레벨].Key"
+msgid "4성 5레벨"
+msgstr "4-Star Level 5"
+
+#: "PCExp[4성 6레벨].Key"
+msgid "4성 6레벨"
+msgstr "4-Star Level 6"
+
+#: "PCExp[4성 7레벨].Key"
+msgid "4성 7레벨"
+msgstr "4-Star Level 7"
+
+#: "PCExp[4성 8레벨].Key"
+msgid "4성 8레벨"
+msgstr "4-Star Level 8"
+
+#: "PCExp[4성 9레벨].Key"
+msgid "4성 9레벨"
+msgstr "4-Star Level 9"
+
+#: "PCExp[4성 10레벨].Key"
+msgid "4성 10레벨"
+msgstr "4-Star Level 10"
+
+#: "PCExp[4성 11레벨].Key"
+msgid "4성 11레벨"
+msgstr "4-Star Level 11"
+
+#: "PCExp[4성 12레벨].Key"
+msgid "4성 12레벨"
+msgstr "4-Star Level 12"
+
+#: "PCExp[4성 13레벨].Key"
+msgid "4성 13레벨"
+msgstr "4-Star Level 13"
+
+#: "PCExp[4성 14레벨].Key"
+msgid "4성 14레벨"
+msgstr "4-Star Level 14"
+
+#: "PCExp[4성 15레벨].Key"
+msgid "4성 15레벨"
+msgstr "4-Star Level 15"
+
+#: "PCExp[4성 16레벨].Key"
+msgid "4성 16레벨"
+msgstr "4-Star Level 16"
+
+#: "PCExp[4성 17레벨].Key"
+msgid "4성 17레벨"
+msgstr "4-Star Level 17"
+
+#: "PCExp[4성 18레벨].Key"
+msgid "4성 18레벨"
+msgstr "4-Star Level 18"
+
+#: "PCExp[4성 19레벨].Key"
+msgid "4성 19레벨"
+msgstr "4-Star Level 19"
+
+#: "PCExp[4성 20레벨].Key"
+msgid "4성 20레벨"
+msgstr "4-Star Level 20"
+
+#: "PCExp[4성 21레벨].Key"
+msgid "4성 21레벨"
+msgstr "4-Star Level 21"
+
+#: "PCExp[4성 22레벨].Key"
+msgid "4성 22레벨"
+msgstr "4-Star Level 22"
+
+#: "PCExp[4성 23레벨].Key"
+msgid "4성 23레벨"
+msgstr "4-Star Level 23"
+
+#: "PCExp[4성 24레벨].Key"
+msgid "4성 24레벨"
+msgstr "4-Star Level 24"
+
+#: "PCExp[4성 25레벨].Key"
+msgid "4성 25레벨"
+msgstr "4-Star Level 25"
+
+#: "PCExp[4성 26레벨].Key"
+msgid "4성 26레벨"
+msgstr "4-Star Level 26"
+
+#: "PCExp[4성 27레벨].Key"
+msgid "4성 27레벨"
+msgstr "4-Star Level 27"
+
+#: "PCExp[4성 28레벨].Key"
+msgid "4성 28레벨"
+msgstr "4-Star Level 28"
+
+#: "PCExp[4성 29레벨].Key"
+msgid "4성 29레벨"
+msgstr "4-Star Level 29"
+
+#: "PCExp[4성 30레벨].Key"
+msgid "4성 30레벨"
+msgstr "4-Star Level 30"
+
+#: "PCExp[4성 31레벨].Key"
+msgid "4성 31레벨"
+msgstr "4-Star Level 31"
+
+#: "PCExp[4성 32레벨].Key"
+msgid "4성 32레벨"
+msgstr "4-Star Level 32"
+
+#: "PCExp[4성 33레벨].Key"
+msgid "4성 33레벨"
+msgstr "4-Star Level 33"
+
+#: "PCExp[4성 34레벨].Key"
+msgid "4성 34레벨"
+msgstr "4-Star Level 34"
+
+#: "PCExp[4성 35레벨].Key"
+msgid "4성 35레벨"
+msgstr "4-Star Level 35"
+
+#: "PCExp[4성 36레벨].Key"
+msgid "4성 36레벨"
+msgstr "4-Star Level 36"
+
+#: "PCExp[4성 37레벨].Key"
+msgid "4성 37레벨"
+msgstr "4-Star Level 37"
+
+#: "PCExp[4성 38레벨].Key"
+msgid "4성 38레벨"
+msgstr "4-Star Level 38"
+
+#: "PCExp[4성 39레벨].Key"
+msgid "4성 39레벨"
+msgstr "4-Star Level 39"
+
+#: "PCExp[4성 40레벨].Key"
+msgid "4성 40레벨"
+msgstr "4-Star Level 40"
+
+#: "PCExp[4성 41레벨].Key"
+msgid "4성 41레벨"
+msgstr "4-Star Level 41"
+
+#: "PCExp[4성 42레벨].Key"
+msgid "4성 42레벨"
+msgstr "4-Star Level 42"
+
+#: "PCExp[4성 43레벨].Key"
+msgid "4성 43레벨"
+msgstr "4-Star Level 43"
+
+#: "PCExp[4성 44레벨].Key"
+msgid "4성 44레벨"
+msgstr "4-Star Level 44"
+
+#: "PCExp[4성 45레벨].Key"
+msgid "4성 45레벨"
+msgstr "4-Star Level 45"
+
+#: "PCExp[4성 46레벨].Key"
+msgid "4성 46레벨"
+msgstr "4-Star Level 46"
+
+#: "PCExp[4성 47레벨].Key"
+msgid "4성 47레벨"
+msgstr "4-Star Level 47"
+
+#: "PCExp[4성 48레벨].Key"
+msgid "4성 48레벨"
+msgstr "4-Star Level 48"
+
+#: "PCExp[4성 49레벨].Key"
+msgid "4성 49레벨"
+msgstr "4-Star Level 49"
+
+#: "PCExp[4성 50레벨].Key"
+msgid "4성 50레벨"
+msgstr "4-Star Level 50"
+
+#: "PCExp[4성 51레벨].Key"
+msgid "4성 51레벨"
+msgstr "4-Star Level 51"
+
+#: "PCExp[4성 52레벨].Key"
+msgid "4성 52레벨"
+msgstr "4-Star Level 52"
+
+#: "PCExp[4성 53레벨].Key"
+msgid "4성 53레벨"
+msgstr "4-Star Level 53"
+
+#: "PCExp[4성 54레벨].Key"
+msgid "4성 54레벨"
+msgstr "4-Star Level 54"
+
+#: "PCExp[4성 55레벨].Key"
+msgid "4성 55레벨"
+msgstr "4-Star Level 55"
+
+#: "PCExp[4성 56레벨].Key"
+msgid "4성 56레벨"
+msgstr "4-Star Level 56"
+
+#: "PCExp[4성 57레벨].Key"
+msgid "4성 57레벨"
+msgstr "4-Star Level 57"
+
+#: "PCExp[4성 58레벨].Key"
+msgid "4성 58레벨"
+msgstr "4-Star Level 58"
+
+#: "PCExp[4성 59레벨].Key"
+msgid "4성 59레벨"
+msgstr "4-Star Level 59"
+
+#: "PCExp[4성 60레벨].Key"
+msgid "4성 60레벨"
+msgstr "4-Star Level 60"
+
+#: "PCExp[4성 61레벨].Key"
+msgid "4성 61레벨"
+msgstr "4-Star Level 61"
+
+#: "PCExp[4성 62레벨].Key"
+msgid "4성 62레벨"
+msgstr "4-Star Level 62"
+
+#: "PCExp[4성 63레벨].Key"
+msgid "4성 63레벨"
+msgstr "4-Star Level 63"
+
+#: "PCExp[4성 64레벨].Key"
+msgid "4성 64레벨"
+msgstr "4-Star Level 64"
+
+#: "PCExp[4성 65레벨].Key"
+msgid "4성 65레벨"
+msgstr "4-Star Level 65"
+
+#: "PCExp[4성 66레벨].Key"
+msgid "4성 66레벨"
+msgstr "4-Star Level 66"
+
+#: "PCExp[4성 67레벨].Key"
+msgid "4성 67레벨"
+msgstr "4-Star Level 67"
+
+#: "PCExp[4성 68레벨].Key"
+msgid "4성 68레벨"
+msgstr "4-Star Level 68"
+
+#: "PCExp[4성 69레벨].Key"
+msgid "4성 69레벨"
+msgstr "4-Star Level 69"
+
+#: "PCExp[4성 70레벨].Key"
+msgid "4성 70레벨"
+msgstr "4-Star Level 70"
+
+#: "PCExp[4성 71레벨].Key"
+msgid "4성 71레벨"
+msgstr "4-Star Level 71"
+
+#: "PCExp[4성 72레벨].Key"
+msgid "4성 72레벨"
+msgstr "4-Star Level 72"
+
+#: "PCExp[4성 73레벨].Key"
+msgid "4성 73레벨"
+msgstr "4-Star Level 73"
+
+#: "PCExp[4성 74레벨].Key"
+msgid "4성 74레벨"
+msgstr "4-Star Level 74"
+
+#: "PCExp[4성 75레벨].Key"
+msgid "4성 75레벨"
+msgstr "4-Star Level 75"
+
+#: "PCExp[4성 76레벨].Key"
+msgid "4성 76레벨"
+msgstr "4-Star Level 76"
+
+#: "PCExp[4성 77레벨].Key"
+msgid "4성 77레벨"
+msgstr "4-Star Level 77"
+
+#: "PCExp[4성 78레벨].Key"
+msgid "4성 78레벨"
+msgstr "4-Star Level 78"
+
+#: "PCExp[4성 79레벨].Key"
+msgid "4성 79레벨"
+msgstr "4-Star Level 79"
+
+#: "PCExp[4성 80레벨].Key"
+msgid "4성 80레벨"
+msgstr "4-Star Level 80"
+
+#: "PCExp[4성 81레벨].Key"
+msgid "4성 81레벨"
+msgstr "4-Star Level 81"
+
+#: "PCExp[4성 82레벨].Key"
+msgid "4성 82레벨"
+msgstr "4-Star Level 82"
+
+#: "PCExp[4성 83레벨].Key"
+msgid "4성 83레벨"
+msgstr "4-Star Level 83"
+
+#: "PCExp[4성 84레벨].Key"
+msgid "4성 84레벨"
+msgstr "4-Star Level 84"
+
+#: "PCExp[4성 85레벨].Key"
+msgid "4성 85레벨"
+msgstr "4-Star Level 85"
+
+#: "PCExp[4성 86레벨].Key"
+msgid "4성 86레벨"
+msgstr "4-Star Level 86"
+
+#: "PCExp[4성 87레벨].Key"
+msgid "4성 87레벨"
+msgstr "4-Star Level 87"
+
+#: "PCExp[4성 88레벨].Key"
+msgid "4성 88레벨"
+msgstr "4-Star Level 88"
+
+#: "PCExp[4성 89레벨].Key"
+msgid "4성 89레벨"
+msgstr "4-Star Level 89"
+
+#: "PCExp[4성 90레벨].Key"
+msgid "4성 90레벨"
+msgstr "4-Star Level 90"
+
+#: "PCExp[4성 91레벨].Key"
+msgid "4성 91레벨"
+msgstr "4-Star Level 91"
+
+#: "PCExp[4성 92레벨].Key"
+msgid "4성 92레벨"
+msgstr "4-Star Level 92"
+
+#: "PCExp[4성 93레벨].Key"
+msgid "4성 93레벨"
+msgstr "4-Star Level 93"
+
+#: "PCExp[4성 94레벨].Key"
+msgid "4성 94레벨"
+msgstr "4-Star Level 94"
+
+#: "PCExp[4성 95레벨].Key"
+msgid "4성 95레벨"
+msgstr "4-Star Level 95"
+
+#: "PCExp[4성 96레벨].Key"
+msgid "4성 96레벨"
+msgstr "4-Star Level 96"
+
+#: "PCExp[4성 97레벨].Key"
+msgid "4성 97레벨"
+msgstr "4-Star Level 97"
+
+#: "PCExp[4성 98레벨].Key"
+msgid "4성 98레벨"
+msgstr "4-Star Level 98"
+
+#: "PCExp[4성 99레벨].Key"
+msgid "4성 99레벨"
+msgstr "4-Star Level 99"
+
+#: "PCExp[4성 100레벨].Key"
+msgid "4성 100레벨"
+msgstr "4-Star Level 100"
+
+#: "PCExp[5성 1레벨].Key"
+msgid "5성 1레벨"
+msgstr "5-Star Level 1"
+
+#: "PCExp[5성 2레벨].Key"
+msgid "5성 2레벨"
+msgstr "5-Star Level 2"
+
+#: "PCExp[5성 3레벨].Key"
+msgid "5성 3레벨"
+msgstr "5-Star Level 3"
+
+#: "PCExp[5성 4레벨].Key"
+msgid "5성 4레벨"
+msgstr "5-Star Level 4"
+
+#: "PCExp[5성 5레벨].Key"
+msgid "5성 5레벨"
+msgstr "5-Star Level 5"
+
+#: "PCExp[5성 6레벨].Key"
+msgid "5성 6레벨"
+msgstr "5-Star Level 6"
+
+#: "PCExp[5성 7레벨].Key"
+msgid "5성 7레벨"
+msgstr "5-Star Level 7"
+
+#: "PCExp[5성 8레벨].Key"
+msgid "5성 8레벨"
+msgstr "5-Star Level 8"
+
+#: "PCExp[5성 9레벨].Key"
+msgid "5성 9레벨"
+msgstr "5-Star Level 9"
+
+#: "PCExp[5성 10레벨].Key"
+msgid "5성 10레벨"
+msgstr "5-Star Level 10"
+
+#: "PCExp[5성 11레벨].Key"
+msgid "5성 11레벨"
+msgstr "5-Star Level 11"
+
+#: "PCExp[5성 12레벨].Key"
+msgid "5성 12레벨"
+msgstr "5-Star Level 12"
+
+#: "PCExp[5성 13레벨].Key"
+msgid "5성 13레벨"
+msgstr "5-Star Level 13"
+
+#: "PCExp[5성 14레벨].Key"
+msgid "5성 14레벨"
+msgstr "5-Star Level 14"
+
+#: "PCExp[5성 15레벨].Key"
+msgid "5성 15레벨"
+msgstr "5-Star Level 15"
+
+#: "PCExp[5성 16레벨].Key"
+msgid "5성 16레벨"
+msgstr "5-Star Level 16"
+
+#: "PCExp[5성 17레벨].Key"
+msgid "5성 17레벨"
+msgstr "5-Star Level 17"
+
+#: "PCExp[5성 18레벨].Key"
+msgid "5성 18레벨"
+msgstr "5-Star Level 18"
+
+#: "PCExp[5성 19레벨].Key"
+msgid "5성 19레벨"
+msgstr "5-Star Level 19"
+
+#: "PCExp[5성 20레벨].Key"
+msgid "5성 20레벨"
+msgstr "5-Star Level 20"
+
+#: "PCExp[5성 21레벨].Key"
+msgid "5성 21레벨"
+msgstr "5-Star Level 21"
+
+#: "PCExp[5성 22레벨].Key"
+msgid "5성 22레벨"
+msgstr "5-Star Level 22"
+
+#: "PCExp[5성 23레벨].Key"
+msgid "5성 23레벨"
+msgstr "5-Star Level 23"
+
+#: "PCExp[5성 24레벨].Key"
+msgid "5성 24레벨"
+msgstr "5-Star Level 24"
+
+#: "PCExp[5성 25레벨].Key"
+msgid "5성 25레벨"
+msgstr "5-Star Level 25"
+
+#: "PCExp[5성 26레벨].Key"
+msgid "5성 26레벨"
+msgstr "5-Star Level 26"
+
+#: "PCExp[5성 27레벨].Key"
+msgid "5성 27레벨"
+msgstr "5-Star Level 27"
+
+#: "PCExp[5성 28레벨].Key"
+msgid "5성 28레벨"
+msgstr "5-Star Level 28"
+
+#: "PCExp[5성 29레벨].Key"
+msgid "5성 29레벨"
+msgstr "5-Star Level 29"
+
+#: "PCExp[5성 30레벨].Key"
+msgid "5성 30레벨"
+msgstr "5-Star Level 30"
+
+#: "PCExp[5성 31레벨].Key"
+msgid "5성 31레벨"
+msgstr "5-Star Level 31"
+
+#: "PCExp[5성 32레벨].Key"
+msgid "5성 32레벨"
+msgstr "5-Star Level 32"
+
+#: "PCExp[5성 33레벨].Key"
+msgid "5성 33레벨"
+msgstr "5-Star Level 33"
+
+#: "PCExp[5성 34레벨].Key"
+msgid "5성 34레벨"
+msgstr "5-Star Level 34"
+
+#: "PCExp[5성 35레벨].Key"
+msgid "5성 35레벨"
+msgstr "5-Star Level 35"
+
+#: "PCExp[5성 36레벨].Key"
+msgid "5성 36레벨"
+msgstr "5-Star Level 36"
+
+#: "PCExp[5성 37레벨].Key"
+msgid "5성 37레벨"
+msgstr "5-Star Level 37"
+
+#: "PCExp[5성 38레벨].Key"
+msgid "5성 38레벨"
+msgstr "5-Star Level 38"
+
+#: "PCExp[5성 39레벨].Key"
+msgid "5성 39레벨"
+msgstr "5-Star Level 39"
+
+#: "PCExp[5성 40레벨].Key"
+msgid "5성 40레벨"
+msgstr "5-Star Level 40"
+
+#: "PCExp[5성 41레벨].Key"
+msgid "5성 41레벨"
+msgstr "5-Star Level 41"
+
+#: "PCExp[5성 42레벨].Key"
+msgid "5성 42레벨"
+msgstr "5-Star Level 42"
+
+#: "PCExp[5성 43레벨].Key"
+msgid "5성 43레벨"
+msgstr "5-Star Level 43"
+
+#: "PCExp[5성 44레벨].Key"
+msgid "5성 44레벨"
+msgstr "5-Star Level 44"
+
+#: "PCExp[5성 45레벨].Key"
+msgid "5성 45레벨"
+msgstr "5-Star Level 45"
+
+#: "PCExp[5성 46레벨].Key"
+msgid "5성 46레벨"
+msgstr "5-Star Level 46"
+
+#: "PCExp[5성 47레벨].Key"
+msgid "5성 47레벨"
+msgstr "5-Star Level 47"
+
+#: "PCExp[5성 48레벨].Key"
+msgid "5성 48레벨"
+msgstr "5-Star Level 48"
+
+#: "PCExp[5성 49레벨].Key"
+msgid "5성 49레벨"
+msgstr "5-Star Level 49"
+
+#: "PCExp[5성 50레벨].Key"
+msgid "5성 50레벨"
+msgstr "5-Star Level 50"
+
+#: "PCExp[5성 51레벨].Key"
+msgid "5성 51레벨"
+msgstr "5-Star Level 51"
+
+#: "PCExp[5성 52레벨].Key"
+msgid "5성 52레벨"
+msgstr "5-Star Level 52"
+
+#: "PCExp[5성 53레벨].Key"
+msgid "5성 53레벨"
+msgstr "5-Star Level 53"
+
+#: "PCExp[5성 54레벨].Key"
+msgid "5성 54레벨"
+msgstr "5-Star Level 54"
+
+#: "PCExp[5성 55레벨].Key"
+msgid "5성 55레벨"
+msgstr "5-Star Level 55"
+
+#: "PCExp[5성 56레벨].Key"
+msgid "5성 56레벨"
+msgstr "5-Star Level 56"
+
+#: "PCExp[5성 57레벨].Key"
+msgid "5성 57레벨"
+msgstr "5-Star Level 57"
+
+#: "PCExp[5성 58레벨].Key"
+msgid "5성 58레벨"
+msgstr "5-Star Level 58"
+
+#: "PCExp[5성 59레벨].Key"
+msgid "5성 59레벨"
+msgstr "5-Star Level 59"
+
+#: "PCExp[5성 60레벨].Key"
+msgid "5성 60레벨"
+msgstr "5-Star Level 60"
+
+#: "PCExp[5성 61레벨].Key"
+msgid "5성 61레벨"
+msgstr "5-Star Level 61"
+
+#: "PCExp[5성 62레벨].Key"
+msgid "5성 62레벨"
+msgstr "5-Star Level 62"
+
+#: "PCExp[5성 63레벨].Key"
+msgid "5성 63레벨"
+msgstr "5-Star Level 63"
+
+#: "PCExp[5성 64레벨].Key"
+msgid "5성 64레벨"
+msgstr "5-Star Level 64"
+
+#: "PCExp[5성 65레벨].Key"
+msgid "5성 65레벨"
+msgstr "5-Star Level 65"
+
+#: "PCExp[5성 66레벨].Key"
+msgid "5성 66레벨"
+msgstr "5-Star Level 66"
+
+#: "PCExp[5성 67레벨].Key"
+msgid "5성 67레벨"
+msgstr "5-Star Level 67"
+
+#: "PCExp[5성 68레벨].Key"
+msgid "5성 68레벨"
+msgstr "5-Star Level 68"
+
+#: "PCExp[5성 69레벨].Key"
+msgid "5성 69레벨"
+msgstr "5-Star Level 69"
+
+#: "PCExp[5성 70레벨].Key"
+msgid "5성 70레벨"
+msgstr "5-Star Level 70"
+
+#: "PCExp[5성 71레벨].Key"
+msgid "5성 71레벨"
+msgstr "5-Star Level 71"
+
+#: "PCExp[5성 72레벨].Key"
+msgid "5성 72레벨"
+msgstr "5-Star Level 72"
+
+#: "PCExp[5성 73레벨].Key"
+msgid "5성 73레벨"
+msgstr "5-Star Level 73"
+
+#: "PCExp[5성 74레벨].Key"
+msgid "5성 74레벨"
+msgstr "5-Star Level 74"
+
+#: "PCExp[5성 75레벨].Key"
+msgid "5성 75레벨"
+msgstr "5-Star Level 75"
+
+#: "PCExp[5성 76레벨].Key"
+msgid "5성 76레벨"
+msgstr "5-Star Level 76"
+
+#: "PCExp[5성 77레벨].Key"
+msgid "5성 77레벨"
+msgstr "5-Star Level 77"
+
+#: "PCExp[5성 78레벨].Key"
+msgid "5성 78레벨"
+msgstr "5-Star Level 78"
+
+#: "PCExp[5성 79레벨].Key"
+msgid "5성 79레벨"
+msgstr "5-Star Level 79"
+
+#: "PCExp[5성 80레벨].Key"
+msgid "5성 80레벨"
+msgstr "5-Star Level 80"
+
+#: "PCExp[5성 81레벨].Key"
+msgid "5성 81레벨"
+msgstr "5-Star Level 81"
+
+#: "PCExp[5성 82레벨].Key"
+msgid "5성 82레벨"
+msgstr "5-Star Level 82"
+
+#: "PCExp[5성 83레벨].Key"
+msgid "5성 83레벨"
+msgstr "5-Star Level 83"
+
+#: "PCExp[5성 84레벨].Key"
+msgid "5성 84레벨"
+msgstr "5-Star Level 84"
+
+#: "PCExp[5성 85레벨].Key"
+msgid "5성 85레벨"
+msgstr "5-Star Level 85"
+
+#: "PCExp[5성 86레벨].Key"
+msgid "5성 86레벨"
+msgstr "5-Star Level 86"
+
+#: "PCExp[5성 87레벨].Key"
+msgid "5성 87레벨"
+msgstr "5-Star Level 87"
+
+#: "PCExp[5성 88레벨].Key"
+msgid "5성 88레벨"
+msgstr "5-Star Level 88"
+
+#: "PCExp[5성 89레벨].Key"
+msgid "5성 89레벨"
+msgstr "5-Star Level 89"
+
+#: "PCExp[5성 90레벨].Key"
+msgid "5성 90레벨"
+msgstr "5-Star Level 90"
+
+#: "PCExp[5성 91레벨].Key"
+msgid "5성 91레벨"
+msgstr "5-Star Level 91"
+
+#: "PCExp[5성 92레벨].Key"
+msgid "5성 92레벨"
+msgstr "5-Star Level 92"
+
+#: "PCExp[5성 93레벨].Key"
+msgid "5성 93레벨"
+msgstr "5-Star Level 93"
+
+#: "PCExp[5성 94레벨].Key"
+msgid "5성 94레벨"
+msgstr "5-Star Level 94"
+
+#: "PCExp[5성 95레벨].Key"
+msgid "5성 95레벨"
+msgstr "5-Star Level 95"
+
+#: "PCExp[5성 96레벨].Key"
+msgid "5성 96레벨"
+msgstr "5-Star Level 96"
+
+#: "PCExp[5성 97레벨].Key"
+msgid "5성 97레벨"
+msgstr "5-Star Level 97"
+
+#: "PCExp[5성 98레벨].Key"
+msgid "5성 98레벨"
+msgstr "5-Star Level 98"
+
+#: "PCExp[5성 99레벨].Key"
+msgid "5성 99레벨"
+msgstr "5-Star Level 99"
+
+#: "PCExp[5성 100레벨].Key"
+msgid "5성 100레벨"
+msgstr "5-Star Level 100"

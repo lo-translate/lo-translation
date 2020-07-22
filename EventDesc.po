@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '지고의 저녁 식사'
+#: EventDesc[Open_Event01].Event_Title
+msgid "至高の晩餐"
+msgstr ""
+
+#  Korean Text: '리오보로스의 유산'
+#: EventDesc[Open_Event02].Event_Title
+msgid "リオボロスの遺産"
+msgstr ""
+
+#  Korean Text: '만월의 야상곡'
+#: EventDesc[Open_Event03].Event_Title
+msgid "満月の夜想曲"
+msgstr ""
