@@ -7098,47 +7098,47 @@ msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.1"
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.2'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_2].Name
 msgid "龍殺者の証：効果発動率増加LV.2"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.3"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.2"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.3'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_3].Name
 msgid "龍殺者の証：効果発動率増加LV.3"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.4"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.3"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.4'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_4].Name
 msgid "龍殺者の証：効果発動率増加LV.4"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.5"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.4"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.5'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_5].Name
 msgid "龍殺者の証：効果発動率増加LV.5"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.6"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.5"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.6'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_6].Name
 msgid "龍殺者の証：効果発動率増加LV.6"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.7"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.6"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.7'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_7].Name
 msgid "龍殺者の証：効果発動率増加LV.7"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.8"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.7"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.8'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_8].Name
 msgid "龍殺者の証：効果発動率増加LV.8"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.9"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.8"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.9'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_9].Name
 msgid "龍殺者の証：効果発動率増加LV.9"
-msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.10"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.9"
 
 #  Korean Text: '용살자의 징표 : 효과 발동률 증가 Lv.10'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_10].Name
 msgid "龍殺者の証：効果発動率増加LV.10"
-msgstr "Mark of the Dragonslayer: Effect Chance Up Lv.10"
+msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.10"
 
 #  Korean Text: '아쿠아 모듈 : 공격력+{0}% (침수 시)'
 #: BuffEffect[Effect_BUFF_AquaModule_N_1].BuffEffectType1_Desc
