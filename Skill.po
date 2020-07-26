@@ -6837,52 +6837,52 @@ msgstr "Telescoping Sights Buff Lv.20"
 #  Korean Text: '용살자의 징표 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_AncientRecord_N_1].SkillName
 msgid "竜殺しの証のダミーLv.1"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.1"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_AncientRecord_N_2].SkillName
 msgid "竜殺しの証のダミーLv.2"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.2"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_AncientRecord_N_3].SkillName
 msgid "竜殺しの証のダミーLv.3"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.3"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_AncientRecord_N_4].SkillName
 msgid "竜殺しの証のダミーLv.4"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.4"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_AncientRecord_N_5].SkillName
 msgid "竜殺しの証のダミーLv.5"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.5"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_AncientRecord_N_6].SkillName
 msgid "竜殺しの証のダミーLv.6"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.6"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_AncientRecord_N_7].SkillName
 msgid "竜殺しの証のダミーLv.7"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.7"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_AncientRecord_N_8].SkillName
 msgid "竜殺しの証のダミーLv.8"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.8"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_AncientRecord_N_9].SkillName
 msgid "竜殺しの証のダミーLv.9"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.9"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_AncientRecord_N_10].SkillName
 msgid "竜殺しの証のダミーLv.10"
-msgstr ""
+msgstr "Dragonslayer's Mark Buff Lv.10"
 
 #  Korean Text: '아쿠아 모듈 버프 Lv.1'
 #: Skill[Skill_BUFF_AquaModule_N_1].SkillName
@@ -9772,57 +9772,57 @@ msgstr "Combat Log Buff Lv.20"
 #  Korean Text: '수제 도시락 버프 Lv.1'
 #: Skill[Skill_BUFF_LunchboxT4_N_1].SkillName
 msgid "手作りお弁当バフLv.1"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.1"
 
 #  Korean Text: '수제 도시락 버프 Lv.2'
 #: Skill[Skill_BUFF_LunchboxT4_N_2].SkillName
 msgid "手作りお弁当バフLv.2"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.2"
 
 #  Korean Text: '수제 도시락 버프 Lv.3'
 #: Skill[Skill_BUFF_LunchboxT4_N_3].SkillName
 msgid "手作りお弁当バフLv.3"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.3"
 
 #  Korean Text: '수제 도시락 버프 Lv.4'
 #: Skill[Skill_BUFF_LunchboxT4_N_4].SkillName
 msgid "手作りお弁当バフLv.4"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.4"
 
 #  Korean Text: '수제 도시락 버프 Lv.5'
 #: Skill[Skill_BUFF_LunchboxT4_N_5].SkillName
 msgid "手作りお弁当バフLv.5"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.5"
 
 #  Korean Text: '수제 도시락 버프 Lv.6'
 #: Skill[Skill_BUFF_LunchboxT4_N_6].SkillName
 msgid "手作りお弁当バフLv.6"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.6"
 
 #  Korean Text: '수제 도시락 버프 Lv.7'
 #: Skill[Skill_BUFF_LunchboxT4_N_7].SkillName
 msgid "手作りお弁当バフLv.7"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.7"
 
 #  Korean Text: '수제 도시락 버프 Lv.8'
 #: Skill[Skill_BUFF_LunchboxT4_N_8].SkillName
 msgid "手作りお弁当バフLv.8"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.8"
 
 #  Korean Text: '수제 도시락 버프 Lv.9'
 #: Skill[Skill_BUFF_LunchboxT4_N_9].SkillName
 msgid "手作りお弁当バフLv.9"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.9"
 
 #  Korean Text: '수제 도시락 버프 Lv.10'
 #: Skill[Skill_BUFF_LunchboxT4_N_10].SkillName
 msgid "手作りお弁当バフLv.10"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.10"
 
 #  Korean Text: '수제 도시락 버프 Lv.11'
 #: Skill[Skill_BUFF_LunchboxT4_N_11].SkillName
 msgid "手作りお弁当バフLv.11"
-msgstr ""
+msgstr "Homemade Lunch Buff Lv.11"
 
 #  Korean Text: '고기동 메뉴버 버프 Lv.1'
 #: Skill[Skill_BUFF_Maneuver_N_1].SkillName
@@ -10137,7 +10137,7 @@ msgstr ""
 #  Korean Text: '미호 전장 버프 Lv.1'
 #: Skill[Skill_BUFF_SK14PCC_N_1].SkillName
 msgid "ミホ専装バフLv.1"
-msgstr ""
+msgstr "Miho Buff Lv.1"
 
 #  Korean Text: '콘스탄챠 전장 버프 Lv.1'
 #: Skill[Skill_BUFF_SPRifleBullet_N_1].SkillName
