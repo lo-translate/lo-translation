@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -5894,17 +5894,17 @@ msgstr ""
 #  Korean Text: '빔 사격으로 대상에게 {0} 피해를 줍니다. 2라운드 동안 대상을 도발하며, 혼란 상태로 만들어 적중 / 치명타 / 행동력을 낮춥니다.'
 #: Skill[Skill_BR_Sleipnir_N_1].SkillDescription
 msgid "ビーム射撃で対象に{0}のダメージを与えます。2ラウンドの間、対象を挑発し、混乱状態にして命中率/クリティカル率/行動力を減少させます。"
-msgstr ""
+msgstr "Deals {0} damage and inflict provoked/confused for 2 rounds."
 
 #  Korean Text: '단일 대상 {0} 피해. 도발 / 혼란 효과'
 #: Skill[Skill_BR_Sleipnir_N_1].SkillDescriptionSimple
 msgid "単一対象{0}ダメージ。 挑発/混乱効果"
-msgstr ""
+msgstr "Single target {0} damage. Provoke/confusion"
 
 #  Korean Text: '레이저 빔 사격'
 #: Skill[Skill_BR_Sleipnir_N_1].SkillName
 msgid "レーザービーム射撃"
-msgstr ""
+msgstr "Laser Beam"
 
 #  Korean Text: '목표 지점에 돌진해 보호 효과를 무시하고 {0} 피해를 줍니다. 스킬 사용 시, 아군 진영 뒤쪽일수록 해당 스킬의 공격력이 증가합니다. <어딜 보는거야?> 중첩 수가 3 이상인 경우, 피해량이 크게 증가합니다.'
 #: Skill[Skill_BR_Sleipnir_N_2].SkillDescription
@@ -5912,16 +5912,21 @@ msgid ""
 "目標地点に突進し保護効果を無視し{0}のダメージを与えます。スキル使用時、味方陣営の後方であるほど該当のスキルの攻撃力が増加します。<どこ見てるの?>が3回"
 "以上重ね掛けされている時、ダメージ量が大幅に増加します。"
 msgstr ""
+"Deals {0} damage in target area, ignoring protection. Deals more damage to "
+"further back enemies. If Sleipnir has more than 3 stacks of <Where are you "
+"looking at?>, damage is increased significantly."
 
 #  Korean Text: '지정 범위 보호 무시 {0} 피해. 뒷 열에서 공격할수록 공격력 증가'
 #: Skill[Skill_BR_Sleipnir_N_2].SkillDescriptionSimple
 msgid "指定範囲{0}保護無視ダメージ。後列から攻撃するほど攻撃力増加"
 msgstr ""
+"Deals {0} damage in target area, ignoring protection. Deals more damage to "
+"further back enemies"
 
 #  Korean Text: '한계돌파'
 #: Skill[Skill_BR_Sleipnir_N_2].SkillName
 msgid "限界突破"
-msgstr ""
+msgstr "Limit Break"
 
 #  Korean Text: '라운드 개시 시, 범위 내의 보호기 제외 기동형 아군을 보호합니다. <어딜 보는거야?> 중첩 수에 따라 범위 내 아군들을 도발해 행동력 / 공격력 / 치명타를 증가시키며, 행동력 / 회피 감소 효과를 해제합니다.'
 #: Skill[Skill_BR_Sleipnir_N_3].SkillDescription
@@ -5929,16 +5934,22 @@ msgid ""
 "ラウンド開始時、範囲内の保護機以外の機動型の味方を保護します。<どこ見てるの?>の重ね掛け回数に応じて範囲内の味方の行動力/攻撃力/クリティカル率を増加させ"
 "、行動力/回避率減少効果を解除します。"
 msgstr ""
+"At the start of each round, Target Protect all non-Defender Flying allies in "
+"Area of Effect. At the start of each round, grant Sleipnir and all allies in "
+"Area of Effect SPD/ATK/CRIT. When <Where are you looking At?> stack is at "
+"max, remove EVA/SPD debuff from affected allies."
 
 #  Korean Text: '보호기 제외 기동형 보호 / <어딜 보는거야?> 중첩에 따라 아군 능력치 증가'
 #: Skill[Skill_BR_Sleipnir_N_3].SkillDescriptionSimple
 msgid "保護機を除く機動型を保護/<どこ見てるの?>の重ね掛け回数に応じて味方の能力値が増加"
 msgstr ""
+"Protects non-Defender flyers / Buffs allies based on <Where are you looking "
+"At?> stacks"
 
 #  Korean Text: '속도 승부야!'
 #: Skill[Skill_BR_Sleipnir_N_3].SkillName
 msgid "スピード勝負よ!"
-msgstr ""
+msgstr "Let's Speed Race!"
 
 #  Korean Text: '적 공격 회피 시, 3라운드 동안 행동력이 증가합니다. 해당 효과는 5번까지 중첩되며 , 중첩 수 3 이상이면 공격력과 치명타가 증가합니다.'
 #: Skill[Skill_BR_Sleipnir_N_4].SkillDescription
@@ -5946,16 +5957,20 @@ msgid ""
 "敵の攻撃を回避した時、3ラウンドの間、行動力が増加します。この効果は5回まで重ね掛け可能で、3回以上重ね掛けされている時、攻撃力とクリティカル率が増加します"
 "。"
 msgstr ""
+"When Sleipnir evades an attack, grant Sleipnir SPD buff for 3 rounds. Buff "
+"stacks up to 5 times. If Sleipnir is affected by 3 or more <Where are you "
+"looking At?> stacks increase ATK/CRIT."
 
 #  Korean Text: '공격 회피 시, 행동력 증가 / 중첩 3 이상 시, 공격력 / 치명타 증가'
 #: Skill[Skill_BR_Sleipnir_N_4].SkillDescriptionSimple
 msgid "攻撃回避時、行動力増加/3回以上重ね掛けされている時、攻撃力/クリティカル率増加"
 msgstr ""
+"When evading attack, increase SPD / When 3 or more stacks increase ATK/CRIT"
 
 #  Korean Text: '어딜 보는거야?'
 #: Skill[Skill_BR_Sleipnir_N_4].SkillName
 msgid "どこ見てるの?"
-msgstr ""
+msgstr "Where are You Looking at?"
 
 #  Korean Text: '적 공격 시, 회피 / 행동력 감소 효과를 해제하며 2라운드 동안 회피가 증가합니다. 회피 증가 효과는 해당 효과가 발동한 라운드에 최대로 적용되었다가, 다음 라운드에 감소합니다.'
 #: Skill[Skill_BR_Sleipnir_N_5].SkillDescription
@@ -5963,16 +5978,18 @@ msgid ""
 "敵攻撃時、回避率/行動力減少効果を解除し2ラウンドの間、回避率が増加します。回避率増加効果は該当の効果が有効化したラウンドに最大で適用された後、次のラウンド"
 "で減少します。"
 msgstr ""
+"When Sleipnir attacks, remove EVA/SPD debuffs from Sleipnir, and increase EVA "
+"for 2 rounds."
 
 #  Korean Text: '적 공격 시, 회피 증가 / 행동력 감소 / 회피 감소 무효'
 #: Skill[Skill_BR_Sleipnir_N_5].SkillDescriptionSimple
 msgid "敵攻撃時、回避率増加/行動力減少/回避率減少無効"
-msgstr ""
+msgstr "When attacking remove EVA/SPD debuffs and increase EVA"
 
 #  Korean Text: '멈출 수 없는 질주'
 #: Skill[Skill_BR_Sleipnir_N_5].SkillName
 msgid "止められない疾走"
-msgstr ""
+msgstr "Unstoppable Gallop"
 
 #  Korean Text: '모두 비켜랏! (후열더미)'
 #: Skill[Skill_BR_Sleipnir_N_11].SkillName
