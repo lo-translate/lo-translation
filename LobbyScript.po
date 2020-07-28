@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-28 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -466,37 +466,52 @@ msgstr ""
 msgid "やはり… これは誘っているのでしょうか？"
 msgstr ""
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScript1[1]
 msgid "得意料理は野菜ケーキですわ。お味が気になります？"
-msgstr ""
+msgstr "Specialty's Vegetable Cake. Would you be interested in its taste?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScript1[2]
 msgid "わたくしの目標ですか？ふふ、秘密ですわ。"
-msgstr ""
+msgstr "This humble self's objective? Huhu, it is but a secret."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScript1[3]
 msgid "素早い包丁さばきと丈夫な足腰は、お料理の基本ですわ。"
-msgstr ""
+msgstr "Swift honing of knife and strong lower body is a must for a cook."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScript2[1]
 msgid "隠し味に…わたくしが何を入れたと思います？うふ…。"
 msgstr ""
+"What do you think... that this humble cook put in as secret ingredient? "
+"Huhuhu..."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScript3[3]
 msgid "わたくしの腕が、戦闘と快楽両方のお役に立てるので、とても嬉しいですわ。"
 msgstr ""
+"It is reassuring to know that this humble cook's technique in battle and "
+"pleasure had been of use."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScript4[2]
 msgid "どうでしょう、これでもうわたくし無しではダメな身体になったのでは？うふふ。これでご主人はわたくしの物ですわ。"
 msgstr ""
+"What do you think? Huhu, are you unable to live without this humble cook's "
+"food anymore? Huhuhu, now you are mine."
 
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScriptSp1[1]
 msgid "…まだですわ…。"
-msgstr ""
+msgstr "...Not yet..."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_3P_Sowan].LobbyScriptSp2[1]
 msgid "ご主人は…わたくしのお料理の腕だけに惚れたのではないようですわね。"
 msgstr ""
+"It seems like... This humble cook's food is not the only thing master has "
+"fallen into."
 
 #: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScript1[1]
 msgid "そんな目でわたくしを見ないでくださいませ。恥ずかしいですわ。"
@@ -1145,37 +1160,59 @@ msgstr ""
 msgid "昔の映画で男が女にヘッドフォンかけてあげるのを見たんだ。うーん…もうこれ自体をヘッドフォンに変えちゃおうか？"
 msgstr ""
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScript1[1]
 msgid "司令官…私まだ分からない事が沢山あって、色々学びたい。"
-msgstr ""
+msgstr "Commander... There's so much that I don't know, so I want to learn."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScript1[2]
 msgid "司令官、何かジョークを知ってる…？教えて…。他の仲間に言ってみたい…。"
 msgstr ""
+"Commander, do you know how to joke...? ...Please teach me. I want to tell "
+"sisters too."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScript1[3]
 msgid "この服…？あっ…正式モデルじゃないから…適当に合うのを着てて…。おかしい…？"
 msgstr ""
+"This cloth...? I wasn't official model... So I just wore whatever was "
+"there... Is it weird?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScript2[1]
 msgid "司令官のベッドの下から本を見つけた。コンスタンチャは私は見ちゃ駄目って言ってるけど、何でダメなの？"
 msgstr ""
+"I found books under commander's bed. Constantia told me that I shouldn't look "
+"at them. Why?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScript3[3]
 msgid "移動する時は私のジェノクスに乗ると楽よ…ハンターに見つかったら怒られるけど…。司令官も乗ってみる？"
 msgstr ""
+"It's comfortable when moving around on Zenox... Even though Beasthunter gets "
+"mad at me if she sees me do it... Do you want to ride too, commander?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScript4[2]
 msgid "司令官に教えてもらったジョーク…仲間たちがつまらないって…。私は面白いと思うけど…。"
 msgstr ""
+"Jokes I learned from commander... sisters say that it's not funny... Even "
+"though I think it is..."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScriptSp1[1]
 msgid "司令官がヘンな事したら…これ押してって言われた…よ。あ、コンスタンチャ…。"
 msgstr ""
+"...I was supposed to press this when commander did something I didn't "
+"understand... 'buzz sound'... Constantia gave me this... but why...?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Emily].LobbyScriptSp2[1]
 msgid "人間は…こんなのが好きなんだ…。私もしてあげるよ…これで…引き分けだね？"
 msgstr ""
+"So humans... like this kind of things... I'll do the same... then we'll be "
+"even?"
 
 #: LobbyScript[LobbyScript_BR_Gnome].LobbyScript1[1]
 msgid "心配しないでください。私がお守りします"
@@ -1397,71 +1434,110 @@ msgstr ""
 msgid "閣下、ブラウニーと同じ馬鹿ですか？このようなことは皆の前でやることではありません。"
 msgstr ""
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[1]
 msgid "普段ですか？主に訓練や瞑想を行っていますが？"
 msgstr ""
+"What do I usually do? Spare time goes to training and meditation. Is there "
+"something wrong with that?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[2]
 msgid "戦闘で一番重要なのは意志です。勝利するという意志だけあれば、状況がどうであれ勝機が見えてきます。"
 msgstr ""
+"The most important thing to have in battle is will. If there's will to take "
+"victory, all the battles can be won."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[3]
 msgid "好きな事ですか？もちろん訓練と軍事学です。コーヒーですか？まぁ眠気を覚ますために嗜む程度です。"
 msgstr ""
+"What do I like? It's obviously training and study of military tactics. "
+"Coffee? I only intake on coffee to fight off sleep."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript2[1]
 msgid "最近は訓練に力を入れています。どうにも…瞑想に雑念が多くなってしまって…。"
 msgstr ""
+"I focus more on training now. It's just... unnecessary thoughts disrupt me "
+"when I meditate..."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript3[3]
 msgid ""
 "コピルアク？エスメラルダゲイシャ？何を仰っているのか…私にはよく分かりませんが……。まさか本当にそれを探してきたわけじゃありませんよね？まさか…見つけたので"
 "すか！？"
 msgstr ""
+"Kopi Luwak? Esmeralda Geisha? What is it that you are trying to say... I "
+"don't know what you are talking about... don't tell me... you actually "
+"acquired them? Did you really get them?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript4[2]
 msgid "昔は、誰のために勝利しなければならないのか悩んでいましたが…。もうそのことで悩む必要はなくなりました。"
 msgstr ""
+"I've contemplated on who I must bring the victory to... but now that worry is "
+"no more."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScriptSp1[1]
 msgid "司令官閣下、どうかご自分の立場をお考え下さい。"
-msgstr ""
+msgstr "Excellency, please act with honor."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScriptSp2[1]
 msgid "もう少しご注意なさっては？その…姉妹たちが見たら困りますので。"
-msgstr ""
+msgstr "Please act discreetly... sisters may be watching."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript1[1]
 msgid "もう…閣下は人気もたくさんあるんですね。私はいつも不安です。"
-msgstr ""
+msgstr "Your excellency is popular as always. I... am always worried."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript1[2]
 msgid "閣下、体つきが大きい女性についてどうお考えですか？もしかして…お嫌いですか？"
 msgstr ""
+"Your excellency, what is your opinion on women of big stature? Maybe... you "
+"don't like them?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript1[3]
 msgid "この服を着た理由は…今は秘密です。"
-msgstr ""
+msgstr "The reason... for wearing this clothing? It's secret yet!"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript2[1]
 msgid "閣下の関心を引こうとする兵士はたくさんいます。でもこうして勇気を出したのは私しかいませんよね？"
 msgstr ""
+"There must be many soldiers interested in your excellency. But, I am the "
+"only... one who mustered up this kind of courage."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript3[3]
 msgid "この服を着ると…閣下をより近くに感じられると思いました。閣下はどうですか？"
 msgstr ""
+"I wore this thinking... that I may feel similarly things as your excellency. "
+"What does your excellency... think of it?"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScript4[2]
 msgid "…平均以上に大きい女性はお好きじゃないかと…内心心配しておりました。本当に…ほっとしました。"
 msgstr ""
+"The thought of your excellency disliking woman of big stature worried me "
+"greatly. I'm so glad!"
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScriptSp1[1]
 msgid "…立ち振る舞いを正しくすべきです。"
-msgstr ""
+msgstr "Behavior must be corrected."
 
+#  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie_NS1].LobbyScriptSp2[1]
 msgid "…この服を着た甲斐が…あ、何でもないです。その…もう少し静かな所へ行きましょうか？"
 msgstr ""
+"Haa... wearing this paid off...! It's, it's nothing! Um.. can we move to "
+"more.... quiet place?"
 
 #: LobbyScript[LobbyScript_BR_Marie_NS2].LobbyScript1[1]
 msgid "くっ、こんな姿は私の意志ではありません。"
