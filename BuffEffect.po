@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-28 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -790,15 +790,180 @@ msgstr "観察眼: Range +{0}"
 msgid "観察眼：自分射程距離増加"
 msgstr ""
 
+#  Generated Partial Match; Korean Text: '덤벼랏! : 대상 도발 (펜리르)'
+#: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType1_Desc
+msgid "かかってこい！：挑発(フェンリル)"
+msgstr "かかってこい！: Taunt (フェンリル)"
+
+#  Generated Partial Match; Korean Text: '숨지마! : 방어력 {0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType2_Desc
+msgid "隠れるな!：防御力{0}%"
+msgstr "隠れるな!: Defense {0}%"
+
+#  Generated Partial Match; Korean Text: '거기서! : 회피 {0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType3_Desc
+msgid "待て!：回避率{0}%"
+msgstr "待て!: Evasion {0}%"
+
 #  Generated Partial Match; Korean Text: '회심의 일격 : 피해량+{0}% (치명타 시)'
 #: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType4_Desc
 msgid "会心の一撃：ダメージ量+{0}%(クリティカル時)"
 msgstr "会心の一撃: Damage +{0}% (On critical)"
 
-#  Korean Text: '칩입자 물리쳤다! : AP+{0} (적 처치 시)'
-#: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType3_Desc
-msgid "번역 필요"
+#  Generated Partial Match; Korean Text: '침입자 추적 : 도발 / 방어력 / 회피 감소'
+#: BuffEffect[Effect_3P_Fenrir_N_1].Name
+msgid "侵入者追跡：挑発/防御力/回避率減少"
+msgstr "侵入者追跡: Taunt / Defense / Evasion Reduction"
+
+#  Korean Text: '야성의 일격 : 자신 HP% 낮을수록 피해량+{0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_2].BuffEffectType2_Desc
+msgid "野生の一撃：自分のHP%が低いほどダメージ+{0}%"
 msgstr ""
+
+#  Generated Partial Match; Korean Text: '글레이프닐 해제 : 치명타 시, 피해량 증가'
+#: BuffEffect[Effect_3P_Fenrir_N_2].Name
+msgid "グレイプニール解除：クリティカル時、ダメージ量増加"
+msgstr "グレイプニール解除: Increase Critical Damage"
+
+#  Korean Text: '영역 순찰 : 열 보호'
+#: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType1_Desc
+msgid "エリアパトロール：列保護"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '영역 순찰 : {0}HP로 전투 속행'
+#: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType2_Desc
+msgid "エリアパトロール：{0}HPで戦闘続行"
+msgstr "エリアパトロール: Continue Battle at {0} HP"
+
+#  Generated Partial Match; Korean Text: '칩입자 물리쳤다! : AP+{0} (적 처치 시)'
+#: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType3_Desc
+msgid "侵入者撃破! : AP+{0}(敵撃破時)"
+msgstr "侵入者撃破!: AP+{0} (On kill)"
+
+#  Korean Text: '영역 순찰 : 열 보호 / 전투 속행'
+#: BuffEffect[Effect_3P_Fenrir_N_3].Name
+msgid "エリアパトロール：列保護/戦闘続行"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '야성 본능 : 공격력+{0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_4].BuffEffectType1_Desc
+msgid "野生の本能：攻撃力+{0}%"
+msgstr "野生の本能: Attack +{0}%"
+
+#  Generated Partial Match; Korean Text: '야성 본능 : 받는 피해 {0}% 감소'
+#: BuffEffect[Effect_3P_Fenrir_N_4].BuffEffectType2_Desc
+msgid "野生の本能：受けるダメージ{0}%減少"
+msgstr "野生の本能: {0}% Damage Reduction"
+
+#  Generated Partial Match; Korean Text: '야성 본능 : 공격력 증가 / 받는 피해 감소'
+#: BuffEffect[Effect_3P_Fenrir_N_4].Name
+msgid "野生の本能：攻撃力増加/受けるダメージ減少"
+msgstr "野生の本能: Attack Up / Damage Reduction"
+
+#  Korean Text: '물어버린다? : AP+{0}'
+#: BuffEffect[Effect_3P_Fenrir_N_5].BuffEffectType1_Desc
+msgid "噛んじゃうよ! : AP+{0}"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '물어버린다! : {0}% 위력으로 반격'
+#: BuffEffect[Effect_3P_Fenrir_N_5].BuffEffectType2_Desc
+msgid "噛んじゃうよ!：{0}%の威力で反撃"
+msgstr "噛んじゃうよ!: Counterattack with {0}% power"
+
+#  Generated Partial Match; Korean Text: '화났어! : 회피+{0}% (전투 속행 시)'
+#: BuffEffect[Effect_3P_Fenrir_N_5].BuffEffectType3_Desc
+msgid "怒ったぞ!：回避率+{0}%(戦闘続行時)"
+msgstr "怒ったぞ!: Evasion +{0}% (戦闘続行時)"
+
+#  Generated Partial Match; Korean Text: '화났어! : 방어막/피해 감소 무시 (전투 속행 시)'
+#: BuffEffect[Effect_3P_Fenrir_N_5].BuffEffectType4_Desc
+msgid "怒ったぞ!：バリア/ダメージ減少無視(戦闘続行時)"
+msgstr "怒ったぞ!: Ignore Shields / Damage Reduction (戦闘続行時)"
+
+#  Generated Partial Match; Korean Text: '화났어! : 열 보호 해제 (전투 속행 시)'
+#: BuffEffect[Effect_3P_Fenrir_N_5].BuffEffectType5_Desc
+msgid "怒ったぞ!：列保護解除(戦闘続行時)"
+msgstr "怒ったぞ!: Remove Column Protection (戦闘続行時)"
+
+#  Generated Partial Match; Korean Text: '배로 갚아주기 : 피격 시, AP 증가 / 반격'
+#: BuffEffect[Effect_3P_Fenrir_N_5].Name
+msgid "倍返し：攻撃を受けた時、AP増加/反撃"
+msgstr "倍返し: 攻撃を受けた時、AP増加 / Counterattack"
+
+#  Korean Text: '글레이프닐 해제 : 자신 HP 낮을수력 위력 증가'
+#: BuffEffect[Effect_3P_Fenrir_N_11].Name
+msgid "グレイプニール解除：自分のHPが低いほど威力増加"
+msgstr ""
+
+#  Korean Text: '칩입자 물리쳤다! : AP+{0}'
+#: BuffEffect[Effect_3P_Fenrir_N_12].BuffEffectType1_Desc
+msgid "侵入者撃破! : AP+{0}"
+msgstr ""
+
+#  Korean Text: '영역 순찰 : 적 처치 시, AP 증가'
+#: BuffEffect[Effect_3P_Fenrir_N_12].Name
+msgid "エリアパトロール：敵撃破時、AP増加"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '맛있어! : 공격력+{0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_13].BuffEffectType1_Desc
+msgid "美味しい!：攻撃力+{0}%"
+msgstr "美味しい!: Attack +{0}%"
+
+#  Generated Partial Match; Korean Text: '맛있어! : 행동력+{0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_13].BuffEffectType2_Desc
+msgid "美味しい!：行動力+{0}%"
+msgstr "美味しい!: Action Speed +{0}%"
+
+#  Generated Partial Match; Korean Text: '영역 순찰 : 수제 도시락 소지 시, 공격력 / 행동력 증가'
+#: BuffEffect[Effect_3P_Fenrir_N_13].Name
+msgid "エリアパトロール：手作り弁当装備時、攻撃力/行動力増加"
+msgstr "エリアパトロール: 手作り弁当装備時、攻撃力 / Action Speed Up"
+
+#  Generated Partial Match; Korean Text: '원초적 본능 : 공격력+{0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_14].BuffEffectType1_Desc
+msgid "原初的本能：攻撃力+{0}%"
+msgstr "原初的本能: Attack +{0}%"
+
+#  Generated Partial Match; Korean Text: '원초적 본능 : 받는 피해 {0}% 감소'
+#: BuffEffect[Effect_3P_Fenrir_N_14].BuffEffectType2_Desc
+msgid "原初的本能：受けるダメージ{0}%減少"
+msgstr "原初的本能: {0}% Damage Reduction"
+
+#  Korean Text: '침입자 추적 : 치명타 시, 피해량 증가'
+#: BuffEffect[Effect_3P_Fenrir_N_15].Name
+msgid "侵入者追跡：クリティカル時、ダメージ増加"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '화났어! : 방어막 / 피해 감소 무시'
+#: BuffEffect[Effect_3P_Fenrir_N_16].BuffEffectType1_Desc
+msgid "怒ったぞ!：バリア/ダメージ減少無視"
+msgstr "怒ったぞ!: Ignore Shields / Damage Reduction"
+
+#  Generated Partial Match; Korean Text: '화났어! : 회피+{0}%'
+#: BuffEffect[Effect_3P_Fenrir_N_16].BuffEffectType2_Desc
+msgid "怒ったぞ!：回避率+{0}%"
+msgstr "怒ったぞ!: Evasion +{0}%"
+
+#  Generated Partial Match; Korean Text: '배로 갚아주기 : 전투 속행 시, 회피 증가 / 방어막 / 피해 감소 무시'
+#: BuffEffect[Effect_3P_Fenrir_N_16].Name
+msgid "倍返し：戦闘続行時、回避率増加/バリア/ダメージ減少無視"
+msgstr "倍返し: 戦闘続行時、回避率増加 / Ignore Shields / Damage Reduction"
+
+#  Korean Text: '배로 갚아주기 : 피격 시 반격'
+#: BuffEffect[Effect_3P_Fenrir_N_17].Name
+msgid "倍返し：攻撃を受けた時、反撃"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '화났어! : 열 보호 해제'
+#: BuffEffect[Effect_3P_Fenrir_N_18].BuffEffectType1_Desc
+msgid "怒ったぞ!：列保護解除"
+msgstr "怒ったぞ!: Remove Column Protection"
+
+#  Generated Partial Match; Korean Text: '배로 갚아주기 : 열 보호 해제'
+#: BuffEffect[Effect_3P_Fenrir_N_18].Name
+msgid "倍返し：列保護解除"
+msgstr "倍返し: Remove Column Protection"
 
 #  Korean Text: '점화 : 지속 화염 피해 {0}'
 #: BuffEffect[Effect_3P_Fotia_N_1].BuffEffectType1_Desc
@@ -5182,7 +5347,7 @@ msgstr "Improved Camo Suit: Optical Camoflage"
 
 #  Korean Text: '개량형 미채 슈트 : 중열 / 후열인 경우 광학 미채 발동'
 #: BuffEffect[Effect_BR_Phantom_N_5].Name
-msgid "改良型迷彩スーツ：中列/後列の場合光学迷彩発動"
+msgid "改良型迷彩スーツ：中列/後列列配置時、光学迷彩発動"
 msgstr "Improved Camo Suit: Optical Camoflage in middle or back row"
 
 #  Korean Text: '광학 미채 : 치명타 확정'
@@ -6959,141 +7124,141 @@ msgstr "Telescoping Sights: Crit Chance +{0}%"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.1'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_1].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.1"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.1"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.1"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.2'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_2].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.2"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.2"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.2"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.3'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_3].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.3"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.3"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.3"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.4'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_4].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.4"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.4"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.4"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.5'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_5].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.5"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.5"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.5"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.6'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_6].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.6"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.6"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.6"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.7'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_7].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.7"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.7"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.7"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.8'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_8].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.8"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.8"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.8"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.9'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_9].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.9"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.9"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.9"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.10'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_10].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.10"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.10"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.10"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.11'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_11].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.11"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.11"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.11"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.12'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_12].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.12"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.12"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.12"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.13'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_13].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.13"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.13"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.13"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.14'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_14].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.14"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.14"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.14"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.15'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_15].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.15"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.15"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.15"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.16'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_16].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.16"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.16"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.16"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.17'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_17].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.17"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.17"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.17"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.18'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_18].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.18"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.18"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.18"
 
 #  Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.19'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_19].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.19"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.19"
 msgstr ""
 "Telescoping Sights: When in back row, Increase Attack / Accuracy / Crit "
 "Chance Lv.19"
 
 #  Generated Partial Match; Korean Text: '망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.20'
 #: BuffEffect[Effect_BUFF_AdvRadar_N_20].Name
-msgid "望遠照準装置：後列の場合、攻撃力/命中率/クリティカル率増加Lv.20"
-msgstr "望遠照準装置: 後列の場合、攻撃力 / Accuracy / クリティカル率増加Lv.20"
+msgid "望遠照準装置：後列配置時、攻撃力/命中率/クリティカル率増加Lv.20"
+msgstr "望遠照準装置: 後列配置時、攻撃力 / Accuracy / クリティカル率増加Lv.20"
 
 #  Korean Text: '용살자의 징표 : 효과 발동+{0}%'
 #: BuffEffect[Effect_BUFF_AncientRecord_N_1].BuffEffectType1_Desc
@@ -10112,102 +10277,102 @@ msgstr "Energy Diverter: Disable Shield"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.1'
 #: BuffEffect[Effect_BUFF_EConvert_N_1].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.1"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.1"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.1"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.2'
 #: BuffEffect[Effect_BUFF_EConvert_N_2].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.2"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.2"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.2"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.3'
 #: BuffEffect[Effect_BUFF_EConvert_N_3].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.3"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.3"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.3"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.4'
 #: BuffEffect[Effect_BUFF_EConvert_N_4].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.4"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.4"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.4"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.5'
 #: BuffEffect[Effect_BUFF_EConvert_N_5].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.5"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.5"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.5"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.6'
 #: BuffEffect[Effect_BUFF_EConvert_N_6].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.6"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.6"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.6"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.7'
 #: BuffEffect[Effect_BUFF_EConvert_N_7].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.7"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.7"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.7"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.8'
 #: BuffEffect[Effect_BUFF_EConvert_N_8].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.8"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.8"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.8"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.9'
 #: BuffEffect[Effect_BUFF_EConvert_N_9].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.9"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.9"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.9"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.10'
 #: BuffEffect[Effect_BUFF_EConvert_N_10].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.10"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.10"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.10"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.11'
 #: BuffEffect[Effect_BUFF_EConvert_N_11].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.11"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.11"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.11"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.12'
 #: BuffEffect[Effect_BUFF_EConvert_N_12].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.12"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.12"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.12"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.13'
 #: BuffEffect[Effect_BUFF_EConvert_N_13].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.13"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.13"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.13"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.14'
 #: BuffEffect[Effect_BUFF_EConvert_N_14].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.14"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.14"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.14"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.15'
 #: BuffEffect[Effect_BUFF_EConvert_N_15].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.15"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.15"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.15"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.16'
 #: BuffEffect[Effect_BUFF_EConvert_N_16].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.16"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.16"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.16"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.17'
 #: BuffEffect[Effect_BUFF_EConvert_N_17].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.17"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.17"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.17"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.18'
 #: BuffEffect[Effect_BUFF_EConvert_N_18].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.18"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.18"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.18"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.19'
 #: BuffEffect[Effect_BUFF_EConvert_N_19].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.19"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.19"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.19"
 
 #  Korean Text: '에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.20'
 #: BuffEffect[Effect_BUFF_EConvert_N_20].Name
-msgid "エネルギー転換機：バリア解除/攻撃力/行動力増加Lv.20"
+msgid "エネルギー変換機：バリア解除/攻撃力/行動力増加Lv.20"
 msgstr "Energy Diverter: Disable Shield / Increase Attack / Action Speed Lv.20"
 
 #  Korean Text: '회피 감소 30%'
@@ -10862,126 +11027,126 @@ msgstr "お、この味は…!: Attack / 行動力増加LV.10"
 
 #  Korean Text: '고기동 메뉴버 : 받는 피해 {0}% 감소 (1회)'
 #: BuffEffect[Effect_BUFF_Maneuver_N_1].BuffEffectType1_Desc
-msgid "高機動マニューバー：受けるダメージ{0}%減少(1回)"
+msgid "高機動マニューバ：受けるダメージ{0}%減少(1回)"
 msgstr "High-Speed Maneuvers: Reduce Damage by {0}% (1 time)"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.1'
 #: BuffEffect[Effect_BUFF_Maneuver_N_1].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.1"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.1"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.1"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.2'
 #: BuffEffect[Effect_BUFF_Maneuver_N_2].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.2"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.2"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.2"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.3'
 #: BuffEffect[Effect_BUFF_Maneuver_N_3].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.3"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.3"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.3"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.4'
 #: BuffEffect[Effect_BUFF_Maneuver_N_4].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.4"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.4"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.4"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.5'
 #: BuffEffect[Effect_BUFF_Maneuver_N_5].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.5"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.5"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.5"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.6'
 #: BuffEffect[Effect_BUFF_Maneuver_N_6].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.6"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.6"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.6"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.7'
 #: BuffEffect[Effect_BUFF_Maneuver_N_7].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.7"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.7"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.7"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.8'
 #: BuffEffect[Effect_BUFF_Maneuver_N_8].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.8"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.8"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.8"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.9'
 #: BuffEffect[Effect_BUFF_Maneuver_N_9].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.9"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.9"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.9"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.10'
 #: BuffEffect[Effect_BUFF_Maneuver_N_10].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.10"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.10"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.10"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.11'
 #: BuffEffect[Effect_BUFF_Maneuver_N_11].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.11"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.11"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.11"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.12'
 #: BuffEffect[Effect_BUFF_Maneuver_N_12].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.12"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.12"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.12"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.13'
 #: BuffEffect[Effect_BUFF_Maneuver_N_13].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.13"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.13"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.13"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.14'
 #: BuffEffect[Effect_BUFF_Maneuver_N_14].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.14"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.14"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.14"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.15'
 #: BuffEffect[Effect_BUFF_Maneuver_N_15].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.15"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.15"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.15"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.16'
 #: BuffEffect[Effect_BUFF_Maneuver_N_16].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.16"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.16"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.16"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.17'
 #: BuffEffect[Effect_BUFF_Maneuver_N_17].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.17"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.17"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.17"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.18'
 #: BuffEffect[Effect_BUFF_Maneuver_N_18].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.18"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.18"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.18"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.19'
 #: BuffEffect[Effect_BUFF_Maneuver_N_19].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.19"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.19"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.19"
 
 #  Korean Text: '고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.20'
 #: BuffEffect[Effect_BUFF_Maneuver_N_20].Name
-msgid "高機動マニューバー：回避率増加状態の場合、受けるダメージ減少Lv.20"
+msgid "高機動マニューバ：回避率増加状態の場合、受けるダメージ減少Lv.20"
 msgstr ""
 "High-Speed Maneuvers: Decreases damage taken when evasion is increased Lv.20"
 
@@ -16232,7 +16397,7 @@ msgstr "連携砲撃: AP Up"
 
 #  Korean Text: '핀 포인트 포격 : 전열인 경우, 방어막 / 피해 감소 무시'
 #: BuffEffect[Effect_MP_ProgramMobAN_N_4].Name
-msgid "ピンポイント砲撃：前列の場合、バリア/ダメージ減少無視"
+msgid "ピンポイント砲撃：前列配置時、バリア/ダメージ減少無視"
 msgstr ""
 
 #  Korean Text: '감전 : 지속 전기 피해 {0}'
@@ -17920,7 +18085,7 @@ msgstr "遠距離狙撃: Ignore Shields / Damage Reduction"
 
 #  Korean Text: '영거리 저격 : 전열일 경우, 공격력 증가'
 #: BuffEffect[Effect_MP_Stalker_EV2_4].Name
-msgid "遠距離狙撃：前列の場合、バリア/ダメージ減少効果無視"
+msgid "遠距離狙撃：前列配置時、バリア/ダメージ減少効果無視"
 msgstr ""
 
 #  Korean Text: '리액터 대폭발 : 공격력 {0}% 고정 피해'
@@ -20563,10 +20728,10 @@ msgstr "水中用切断機: Defense {0}%"
 msgid "水中用切断機：防御力強化解除"
 msgstr ""
 
-#  Korean Text: '수중용 절단기 : 피해 감소 해제 (치명타 시)'
+#  Generated Partial Match; Korean Text: '수중용 절단기 : 피해 감소 해제 (치명타 시)'
 #: BuffEffect[Effect_PECS_Triaina_N_1].BuffEffectType3_Desc
-msgid "水中用切断機：ダメージ減少解除(クリティカル率時)"
-msgstr ""
+msgid "水中用切断機：ダメージ減少解除(クリティカル時)"
+msgstr "水中用切断機: ダメージ減少解除 (On critical)"
 
 #  Korean Text: '수중용 절단기 : 방어 감소 / 방어력 강화 해제'
 #: BuffEffect[Effect_PECS_Triaina_N_1].Name

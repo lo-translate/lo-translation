@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -30,6 +30,16 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 유혹하는 메이드'
 #: CharSkin[Skin_3P_BlackLilith_1].SkinName
 msgid "危険な家族：誘惑のメイド"
+msgstr ""
+
+#: CharSkin[Skin_3P_BlackLilith_2].SkinDesc
+msgid ""
+"ドリームウィーバーは自分のインスピレーションを蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました"
+"。"
+msgstr ""
+
+#: CharSkin[Skin_3P_BlackLilith_2].SkinName
+msgid "リリスの本目的から外れた水着"
 msgstr ""
 
 #  Korean Text: '자신의 메이드복을 자랑스러워하는 콘스탄챠지만 전투 성능 테스트를 위해서는 어쩔 수 없이 수트를 입습니다. 그래도 포기 못하는 게 있죠.'
@@ -64,6 +74,14 @@ msgstr ""
 msgid "牛乳泥棒ぺロ"
 msgstr ""
 
+#: CharSkin[Skin_3P_CSPerrault_2].SkinDesc
+msgid "私の胸に子猫が入ってきました。"
+msgstr "There's a kitty on my chest."
+
+#: CharSkin[Skin_3P_CSPerrault_2].SkinName
+msgid "装飾用水着ペロ"
+msgstr ""
+
 #  Korean Text: '정원 관리용 다프네는 소량이지만 간호용으로도 생산되었습니다. 식물이든 동물이든 돌본다는 점에서는 크게 다르지 않죠.'
 #: CharSkin[Skin_3P_Daphne_1].SkinDesc
 msgid "庭園管理用のダフネですが、少ない数量で看護用としても生産されました。植物であれ動物であれ世話をするという点では大きな違いはないですよね。"
@@ -74,6 +92,14 @@ msgstr ""
 #  Korean Text: '간호사 다프네'
 #: CharSkin[Skin_3P_Daphne_1].SkinName
 msgid "ナースダフネ"
+msgstr ""
+
+#: CharSkin[Skin_3P_Daphne_2].SkinDesc
+msgid "ダフネの休暇はいつでも平穏です。おそらく彼女の静かな情熱は主人の為だけに発揮されるようです。"
+msgstr ""
+
+#: CharSkin[Skin_3P_Daphne_2].SkinName
+msgid "ダフネの優雅な水着"
 msgstr ""
 
 #  Korean Text: '하치코는 아직도 이 가족의 위험성을 모릅니다.'
@@ -94,6 +120,22 @@ msgstr ""
 #  Korean Text: '간호사 리제'
 #: CharSkin[Skin_3P_ScissorsLise_1].SkinName
 msgid "ナースリーゼ"
+msgstr ""
+
+#: CharSkin[Skin_AGS_Gigantes_1].SkinDesc
+msgid ""
+"長い間、深い深海に住むダゴンはランパリオンの最大の敵でした。また、部下たちの失敗に憤怒したダゴンがついに深海から立ち上がりました。(- "
+"本製品はブラックリバーの所有でありD-"
+"エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの懲罰的損害賠償に則り損害賠償を請求することができます。)"
+msgstr ""
+"For a long time, Dagon of the Deepest Abyss has been Ramparion's greatest "
+"nemesis. Tired of his underlings' failures, Dagon finally rises from the "
+"depths. (- This product is owned by Black River and rented to D-"
+"Entertainment. In cases of malfunction or breakage, you may be asked to pay "
+"for the damage according to USA's compensation laws.)"
+
+#: CharSkin[Skin_AGS_Gigantes_1].SkinName
+msgid "深海の恐怖ダゴン"
 msgstr ""
 
 #  Korean Text: '어린이날을 맞이하여 행복한 추억을 만들어 주기 위해 경찰에서 특별히 커스텀된 램파트입니다.'
@@ -258,6 +300,16 @@ msgstr ""
 msgid "爆発する愛"
 msgstr ""
 
+#: CharSkin[Skin_BR_May_2].SkinDesc
+msgid "メイは自分の長所と短所をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
+msgstr ""
+"May is well aware of her strengths and weaknesses. It would be nice for this "
+"swimsuit to show May's explosive appeal."
+
+#: CharSkin[Skin_BR_May_2].SkinName
+msgid "アトミックセクシーメイ"
+msgstr ""
+
 #  Korean Text: '미호가 자신이 좋아하는 초콜릿을 녹여 선물을 만들고 있습니다. 누굴 주려고 하는 걸까요?'
 #: CharSkin[Skin_BR_Miho_1].SkinDesc
 msgid "ミホが自分の好きなチョコレートを溶かしてプレゼントを作っています。誰にあげようとしているのでしょう？"
@@ -275,6 +327,15 @@ msgstr ""
 #: CharSkin[Skin_BR_Neodym_2].SkinName
 msgid "特級機内サービス"
 msgstr "Premium in-flight service"
+
+#: CharSkin[Skin_BR_NightAngel_2].SkinDesc
+msgid ""
+"「ついに司令官に私の魅力を教える時が来ましたね!」いつものことですが木は森に隠さなければなりません。 特定の部位が他の部位を隠してくれるんですよ。"
+msgstr ""
+
+#: CharSkin[Skin_BR_NightAngel_2].SkinName
+msgid "選手水着ナイトエンジェル"
+msgstr ""
 
 #: CharSkin[Skin_BR_Nymph_1].SkinDesc
 msgid ""
@@ -353,6 +414,14 @@ msgstr ""
 msgid "スーパースタースレイプニール"
 msgstr ""
 
+#: CharSkin[Skin_BR_Sleipnir_2].SkinDesc
+msgid "飛行中に脱げたりしないか心配です。大丈夫でしょうか?"
+msgstr ""
+
+#: CharSkin[Skin_BR_Sleipnir_2].SkinName
+msgid "スレイプニールのストライプの水着"
+msgstr ""
+
 #  Korean Text: '토모는 특별 활동으로 체조부를 선택했습니다. 글쎄요. 체조의 규칙이 간단하긴 합니다만…'
 #: CharSkin[Skin_BR_Tomoe_1].SkinDesc
 msgid "トモは部活動に体操部を選びました。さあ、体操はルールが簡単ではありますが……"
@@ -375,6 +444,14 @@ msgstr ""
 msgid "都市暗殺者ヴァルキリー"
 msgstr ""
 
+#: CharSkin[Skin_BR_Valkyrie_2].SkinDesc
+msgid "久しぶりの休暇でヴァルキリーは喜んでいます。それでも小さなカバンは忘れていませんね。"
+msgstr ""
+
+#: CharSkin[Skin_BR_Valkyrie_2].SkinName
+msgid "ヴァルキリー水泳準備中"
+msgstr ""
+
 #  Korean Text: '퇴역 후, 영화 카리브의 버카니어에 데뷔한 워울프입니다. 흑색 화약 시대의 향취를 느껴보세요!'
 #: CharSkin[Skin_BR_WarWolf_1].SkinDesc
 msgid "退役後,映画「カリブ」のバッカニアでデビューしたウェアウルフです。 黒色火薬時代の香りを感じてみてください!"
@@ -393,6 +470,14 @@ msgstr ""
 
 #: CharSkin[Skin_DS_Atalanta_1].SkinName
 msgid "もう一つの運命のカリスト"
+msgstr ""
+
+#: CharSkin[Skin_DS_Charlotte_1].SkinDesc
+msgid "豪華な宝石で作られたこの水着はモデルを華やかに見せます。 唯一の短所は宝石が高すぎて小さく作るしかないという点ですね。"
+msgstr ""
+
+#: CharSkin[Skin_DS_Charlotte_1].SkinName
+msgid "フランス風宝石ビキニ"
 msgstr ""
 
 #  Korean Text: '의장에는 검, 실전에선 곤봉은 얼핏 보기에는 이상합니다. 하지만, 멋진 검이 의장에 어울린다는 건 확실합니다.'

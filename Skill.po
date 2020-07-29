@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-26 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -727,6 +727,129 @@ msgstr ""
 #  Korean Text: '민감한 눈 (자신 사거리 더미)'
 #: Skill[Skill_3P_Daphne_N_14].SkillName
 msgid "観察眼(自分射程距離ダミー)"
+msgstr ""
+
+#  Korean Text: '체인 블레이드로 {0} 피해를 줍니다. 공격 적중 시, 2라운드 동안 대상을 도발 / 방어력 / 회피 감소 상태로 만듭니다. 치명타 시, 피해량이 증가합니다.'
+#: Skill[Skill_3P_Fenrir_N_1].SkillDescription
+msgid ""
+"チェーンブレードで{0}ダメージを与えます。 攻撃命中時、2ラウンドの間、対象を挑発/防御力/回避率減少状態にします。クリティカル時、ダメージが増加します。"
+msgstr ""
+
+#  Korean Text: '지정 대상 {0} 피해. 도발 / 방어력 / 회피 감소. 치명타 시, 피해량 증가'
+#: Skill[Skill_3P_Fenrir_N_1].SkillDescriptionSimple
+msgid "指定保護{0}ダメージ/挑発/防御力/回避率減少。クリティカル時、ダメージ増加"
+msgstr ""
+
+#  Korean Text: '침입자 추적'
+#: Skill[Skill_3P_Fenrir_N_1].SkillName
+msgid "侵入者追跡"
+msgstr ""
+
+#  Korean Text: '구속구를 해제한 후, 지정 대상에게 {0} 피해를 주고 대상 뒤에 50% 피해를 줍니다. 치명타 시, 피해량이 증가하며 자신의 현재 HP%가 낮을수록 위력이 증가합니다.'
+#: Skill[Skill_3P_Fenrir_N_2].SkillDescription
+msgid ""
+"拘束を解き放ち、対象に1366ダメージを与え、対象の後ろに50%ダメージを与えます。クリティカル時、ダメージが増加し、自分のHPが低いほどダメージ量が増加し"
+"ます。"
+msgstr ""
+
+#  Korean Text: '지정 범위 {0} 피해. 치명타 시, 피해량 증가. 자신 HP 낮을수록 위력 증가'
+#: Skill[Skill_3P_Fenrir_N_2].SkillDescriptionSimple
+msgid "指定範囲{0} ダメージ。クリティカル時、ダメージ増加/ 自分HPが低いほどダメージ量増加"
+msgstr ""
+
+#  Korean Text: '글레이프닐 해제'
+#: Skill[Skill_3P_Fenrir_N_2].SkillName
+msgid "グレイプニール解除"
+msgstr ""
+
+#  Korean Text: '전투 개시 시, 열 보호와 전투 속행 효과가 활성화되며, 자신이 적 처치 시 AP가 증가합니다.'
+#: Skill[Skill_3P_Fenrir_N_3].SkillDescription
+msgid "戦闘開始時、列保護と戦闘続行効果が発動し、自分が敵を倒した時APが増加します。"
+msgstr ""
+
+#  Korean Text: '열 보호 / 전투 속행. 적 처치 시, AP 증가'
+#: Skill[Skill_3P_Fenrir_N_3].SkillDescriptionSimple
+msgid "列保護/戦闘続行。 敵撃破時。AP増加"
+msgstr ""
+
+#  Korean Text: '영역 순찰'
+#: Skill[Skill_3P_Fenrir_N_3].SkillName
+msgid "エリアパトロール"
+msgstr ""
+
+#  Korean Text: '공격력이 증가하며 받는 피해가 감소합니다. HP 50% 이하 시, 효과가 50% 증가합니다.'
+#: Skill[Skill_3P_Fenrir_N_4].SkillDescription
+msgid "戦闘開始時に攻撃力が増加し、受けるダメージが減少します。HPが50％以下の時、効果が50％増加します。"
+msgstr ""
+
+#  Korean Text: '공격력 / 받는 피해 감소. HP 50% 이하 시, 효과 증가'
+#: Skill[Skill_3P_Fenrir_N_4].SkillDescriptionSimple
+msgid "攻撃力/ 受けるダメージ減少/ HP50％以下の時、 効果増加"
+msgstr ""
+
+#  Korean Text: '야성 본능'
+#: Skill[Skill_3P_Fenrir_N_4].SkillName
+msgid "野生の本能"
+msgstr ""
+
+#  Korean Text: '피격 시, AP가 증가하며 반격합니다. 전투 속행 발동 시, 회피가 증가하며 방어막 / 피해 감소 효과를 무시하지만 열 보호가 해제됩니다.'
+#: Skill[Skill_3P_Fenrir_N_5].SkillDescription
+msgid "ダメージを受けた時、APが増加し反撃します。戦闘続行時、回避率が増加しバリア/ダメージ減少効果を無視しますが列保護が解除されます。"
+msgstr ""
+
+#  Korean Text: '피격 시, AP 증가 / 반격. 전투 속행 시, 방어막 / 피해 감소 무시 / 회피 증가'
+#: Skill[Skill_3P_Fenrir_N_5].SkillDescriptionSimple
+msgid "攻撃を受けた時、AP 増加/ 反撃。 敵撃破時の時、バリア/ダメージ減少無視/回避率増加"
+msgstr ""
+
+#  Korean Text: '배로 갚아주마!'
+#: Skill[Skill_3P_Fenrir_N_5].SkillName
+msgid "倍返し！"
+msgstr ""
+
+#  Korean Text: '글레이프닐 해제 (더미)'
+#: Skill[Skill_3P_Fenrir_N_11].SkillName
+msgid "グレイプニール解除(ダミー)"
+msgstr ""
+
+#  Korean Text: '영역 순찰 (AP 증가)'
+#: Skill[Skill_3P_Fenrir_N_12].SkillName
+msgid "エリアパトロール(AP増加)"
+msgstr ""
+
+#  Korean Text: '영역 순찰 (도시락)'
+#: Skill[Skill_3P_Fenrir_N_13].SkillName
+msgid "エリアパトロール(お弁当)"
+msgstr ""
+
+#  Korean Text: '야성 본능 (50% 이하)'
+#: Skill[Skill_3P_Fenrir_N_14].SkillName
+msgid "野生の本能(HP50％以下)"
+msgstr ""
+
+#  Korean Text: '침입자 추적 (크리)'
+#: Skill[Skill_3P_Fenrir_N_15].SkillName
+msgid "侵入者追跡(クリティカル)"
+msgstr ""
+
+#  Korean Text: '배로 갚아주기 (속행 효과)'
+#: Skill[Skill_3P_Fenrir_N_16].SkillName
+msgid "倍返し！(戦闘続行)"
+msgstr ""
+
+#  Korean Text: '배로 갚아주기 (반격)'
+#: Skill[Skill_3P_Fenrir_N_17].SkillName
+msgid "倍返し！(カウンター)"
+msgstr ""
+
+#  Korean Text: '배로 갚아주기 (열 보호 해제)'
+#: Skill[Skill_3P_Fenrir_N_18].SkillName
+msgid "倍返し！(列保護解除)"
+msgstr ""
+
+#  Korean Text: '영역 순찰 (열 보호)'
+#: Skill[Skill_3P_Fenrir_N_19].SkillName
+msgid "エリアパトロール(列保護)"
 msgstr ""
 
 #  Korean Text: '화염탄을 발사해 {0} 불 속성 피해를 주며, 2라운드 동안 대상의 화염 저항을 낮추며 3라운드 동안 점화 상태로 만들어 지속 화염 피해를 줍니다.'
@@ -2494,7 +2617,8 @@ msgstr "Commence Suppression"
 
 #  Korean Text: '라운드 개시 시, 전열의 기동형과 보호기 제외 아군을 지정 보호합니다. 자신이 전열인 경우, 해당 범위 내에 있는 대상들의 공격력 / 치명타 / 행동력을 증가시킵니다.'
 #: Skill[Skill_BR_AS12TurtleDragon_N_4].SkillDescription
-msgid "ラウンド開始時、前列の機動型と保護機以外の味方を保護します。自分が前列の場合、範囲内の対象の攻撃力/クリティカル率/行動力を増加させます。"
+msgid ""
+"ラウンド開始時、前列の機動型と保護機以外の味方を保護します。自分が前列に配置されている場合、範囲内の対象の攻撃力/クリティカル率/行動力を増加させます。"
 msgstr ""
 
 #  Korean Text: '전열 기동형 / 보호기 제외 아군 보호. 자신이 전열이면 공격력 / 치명타 / 행동력 증가'
@@ -2914,7 +3038,7 @@ msgstr ""
 
 #  Korean Text: '전열인 경우, 전열의 모든 아군 AP/공격력/치명타/받는 피해 증가'
 #: Skill[Skill_BR_Brownie_N_3].SkillDescriptionSimple
-msgid "前列の場合、前列の全味方AP/攻撃力/クリティカル率/受けるダメージ増加"
+msgid "前列配置時、前列の全味方AP/攻撃力/クリティカル率/受けるダメージ増加"
 msgstr ""
 
 #  Korean Text: '돌격이지말입니다!'
@@ -3655,12 +3779,12 @@ msgstr ""
 
 #  Korean Text: '중장형 적에게 주는 피해량이 증가합니다. 자신이 전열인 경우, 공격력 / 방어 관통이 증가합니다.'
 #: Skill[Skill_BR_Impet_N_3].SkillDescription
-msgid "重装型敵に与えるダメージ量が増加します。自分が前列の場合、攻撃力/防御貫通が増加します。"
+msgid "重装型敵に与えるダメージ量が増加します。自分が前列に配置されている場合、攻撃力/防御貫通が増加します。"
 msgstr ""
 
 #  Korean Text: '대 중장형 피해량 증가. 전열인 경우, 공격력 / 관통 증가'
 #: Skill[Skill_BR_Impet_N_3].SkillDescriptionSimple
-msgid "対重装型ダメージ量増加。前列の場合、攻撃力/貫通増加"
+msgid "対重装型ダメージ量増加。前列配置時、攻撃力/貫通増加"
 msgstr ""
 
 #  Korean Text: '시제 EFP탄'
@@ -4714,13 +4838,13 @@ msgstr ""
 #  Korean Text: '중열 또는 후열에 있는 경우, 레이더 드론으로 주변을 감지하며 스텔스 기능을 발동합니다. 해당 상태에선 회피 / 적중 / 사거리가 증가합니다. 회피 / 적중은 후열에 있을 때 최대 수치로 적용되며, 중열인 경우 50%만 적용됩니다.'
 #: Skill[Skill_BR_NightAngel_N_3].SkillDescription
 msgid ""
-"中列または後列にいる場合、レーダードローンで周辺を感知しステルス機能を有効化します。有効化中、回避率/命中率/射程距離が増加します。中列の場合、回避率/命中"
-"率の増加効果は50％だけ適用されます。"
+"中列または後列配置時、レーダードローンで周辺を感知しステルス機能を有効化します。有効化中、回避率/命中率/射程距離が増加します。中列の場合、回避率/命中率の"
+"増加効果は50％だけ適用されます。"
 msgstr ""
 
 #  Korean Text: '중열 또는 후열인 경우, 회피 / 적중 / 사거리 증가'
 #: Skill[Skill_BR_NightAngel_N_3].SkillDescriptionSimple
-msgid "中列または後列の場合、回避率/命中率/射程距離増加"
+msgid "中列または後列配置時、回避率/命中率/射程距離増加"
 msgstr ""
 
 #  Korean Text: '레이더 드론'
@@ -11130,7 +11254,7 @@ msgstr ""
 
 #  Korean Text: '사망 시, 2라운드 동안 인접 아군의 행동력이 감소하며 해당 라운드 동안에는 스킬을 사용할 수 없게 됩니다.'
 #: Skill[Skill_MP_AMG11AA_N_4].SkillDescription
-msgid "死亡時、2ラウンドの間、隣接した味方の行動力が減少し、該当のラウンドの間、にはスキルを使用できなくなります。"
+msgid "死亡時、2ラウンドの間、隣接した味方の行動力が減少し、該当のラウンドの間はスキルを使用できなくなります。"
 msgstr ""
 
 #  Korean Text: '목표 설정 오류'
@@ -11579,7 +11703,7 @@ msgstr ""
 
 #  Korean Text: '아군이 처치될 경우, 일정 라운드 동안 반격하며 주변 아군과 자신이 받는 피해가 감소하고 행동력이 증가합니다.'
 #: Skill[Skill_MP_CenturionG_N_4].SkillDescription
-msgid "味方が撃破された時、一定ラウンドの間、反撃を行い、周辺の味方と自分が受けるダメージが減少し行動力が増加します。"
+msgid "味方が撃破された時、2ラウンドの間、反撃を行い、周辺の味方と自分が受けるダメージが減少し行動力が増加します。"
 msgstr ""
 
 #  Korean Text: '현장 수습'
@@ -11635,7 +11759,7 @@ msgstr ""
 
 #  Korean Text: '화염 속성 공격을 맞는 경우, 공격력 / 방어력 / 회피 / 행동력이 크게 감소하며 피해 최소화 상태가 해제됩니다.'
 #: Skill[Skill_MP_Chiller_N_4].SkillDescription
-msgid "火炎属性攻撃を満たしている場合、攻撃力/防御力/回避率/行動力が大きく減少し、ダメージ最小化状態が解除されます。"
+msgid "火炎属性の攻撃を受けた際、攻撃力/防御力/回避率/行動力が大きく減少し、ダメージ最小化状態が解除されます。"
 msgstr ""
 
 #  Korean Text: '과열'
@@ -11722,7 +11846,7 @@ msgstr ""
 
 #  Korean Text: '자신이 전열일 경우, 방어막 / 피해 감소 효과를 무시하며 방어 관통이 크게 증가합니다.'
 #: Skill[Skill_MP_DroneM_N_4].SkillDescription
-msgid "自分が前列の場合、バリア/ダメージ減少効果を無視して防御貫通が大幅に増加します。"
+msgid "自分が前列に配置されている場合、バリア/ダメージ減少効果を無視して防御貫通が大幅に増加します。"
 msgstr ""
 
 #  Korean Text: '핀 포인트 폭격'
@@ -16079,7 +16203,7 @@ msgstr ""
 
 #  Korean Text: '샷건을 발사해 {0} 피해를 줍니다. 자신이 전열이면 피해량이 증가합니다.'
 #: Skill[Skill_MP_Tortoise_N_1].SkillDescription
-msgid "ショットガンを発射し{0}のダメージを与えます。自分が前列の場合、ダメージ量が増加します。"
+msgid "ショットガンを発射し{0}のダメージを与えます。自分が前列に配置されている場合、ダメージ量が増加します。"
 msgstr ""
 
 #  Korean Text: '프래그 샷건'
@@ -18217,7 +18341,7 @@ msgstr "Cyclone Stream"
 
 #  Korean Text: '전투 개시 시, 자신이 전열에 배치된 상태면 자신과 인접한 바이오로이드들의 행동력과 각종 저항을 올려줍니다.'
 #: Skill[Skill_PECS_Triaina_N_3].SkillDescription
-msgid "戦闘開始時、自分が前列に配置された状態の場合、自分と隣接したバイオロイドの行動力と各種耐性を増加させます。"
+msgid "戦闘開始時、自分が前列に配置されている場合、自分と隣接したバイオロイドの行動力と各種耐性を増加させます。"
 msgstr ""
 
 #  Korean Text: '전투 개시 시, 자신과 인접 바이오로이드 행동력 / 저항 증가'
@@ -18233,7 +18357,8 @@ msgstr ""
 #  Korean Text: '냉기 저항이 증가하며, 냉기 속성 공격을 맞으면 2라운드 동안 받는 피해 감소 효과가 발생합니다. 자신이 침수 상태인 경우, 공격력 / 치명타 / 행동력이 증가합니다.'
 #: Skill[Skill_PECS_Triaina_N_4].SkillDescription
 msgid ""
-"冷気耐性が増加し、冷気属性攻撃を受けると、2ラウンドの間、受けるダメージが減少します。自分が浸水状態の場合、攻撃力/クリティカル率/行動力が増加します。"
+"戦闘開始時、冷気耐性が増加します。冷気属性攻撃を受けると、2ラウンドの間、受けるダメージが減少します。自分が浸水状態の場合、攻撃力/クリティカル率/行動力が"
+"増加します。"
 msgstr ""
 
 #  Korean Text: '냉기 저항 증가 / 냉기 속성 피격 시, 피해 감소 효과. 침수 시, 능력치 증가'

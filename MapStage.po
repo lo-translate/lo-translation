@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -69,7 +69,7 @@ msgstr ""
 
 #  Korean Text: '성의를 표하는 법'
 #: MapStage[Ch01Ev2Stage05].StageName
-msgid "誠意を示す法"
+msgid "誠意を示す方法"
 msgstr ""
 
 #  Korean Text: '트리아이나와 호라이즌 대원들은 보물에 조금씩 다가간다.'
@@ -79,7 +79,7 @@ msgstr ""
 
 #  Korean Text: '들려주고 싶은 이야기'
 #: MapStage[Ch01Ev2Stage06].StageName
-msgid "聞かせてあげたい話"
+msgid "聞かせたい話"
 msgstr ""
 
 #  Korean Text: '흩어져 있던 오르카의 인원들이 한자리에 모여 금고로 향한다.'
@@ -99,7 +99,7 @@ msgstr ""
 
 #  Korean Text: '루가루'
 #: MapStage[Ch01Ev2Stage08].StageName
-msgid "ルガル"
+msgid "ルーガル"
 msgstr ""
 
 #  Korean Text: '워울프와 수영복 인원들은 식량이 부족해 사냥을 시작한다.'
@@ -124,22 +124,22 @@ msgstr ""
 
 #  Korean Text: '수영복 인원들은 내분을 겪고 결국 오르카로 복귀한다.'
 #: MapStage[Ch01Ev2Stage11].StageDesc
-msgid "水着姿の要員たちは内紛を経て結局オルカに復帰する。"
+msgid "水着姿の要員たちは内紛を経て結局オルカに帰還する。"
 msgstr ""
 
 #  Korean Text: '정글의 규칙'
 #: MapStage[Ch01Ev2Stage11].StageName
-msgid "ジャングルのルール"
+msgid "非常識なルール"
 msgstr ""
 
 #  Korean Text: '수영복 인원들은 복귀 도중 수상한 시설물을 발견한다.'
 #: MapStage[Ch01Ev2Stage12].StageDesc
-msgid "水着姿の要員たちは復帰途中、怪しい施設を発見する。"
+msgid "水着姿の要員たちは帰還途中、怪しい施設を発見する。"
 msgstr ""
 
 #  Korean Text: '세 자루의 칼'
 #: MapStage[Ch01Ev2Stage12].StageName
-msgid "三本の刀"
+msgid "三銃士"
 msgstr ""
 
 #  Korean Text: '성전'
@@ -554,7 +554,7 @@ msgstr ""
 
 #  Korean Text: '무덤의 망령과의 전투를 재현한 시뮬레이션입니다. 왠지 소문이 많이 부풀려진 느낌입니다...'
 #: MapStage[Ch02Ev2Stage11].StageDesc
-msgid "墓の亡霊との戦闘を再現したシミュレーションです。どうしたことか噂が誇張された感じです…。"
+msgid "墓の亡霊との戦闘を再現したシミュレーションです。ですが噂がかなり誇張されていたようです。"
 msgstr ""
 
 #  Korean Text: '오르카 챌린지 I'
@@ -730,146 +730,6 @@ msgstr ""
 #  Korean Text: '장군의 은신처'
 #: MapStage[Ch02Stage08].StageName
 msgid "将軍の隠れ場"
-msgstr ""
-
-#  Korean Text: '오르카의 인원들은 금고로 통하는 동굴에 진입한다.'
-#: MapStage[Ch03Ev2Stage01].StageDesc
-msgid "オルカの要員たちは金庫に続く洞窟に進入する。"
-msgstr ""
-
-#  Korean Text: '뉴 트리아이나'
-#: MapStage[Ch03Ev2Stage01].StageName
-msgid "ニュートリアイナ"
-msgstr ""
-
-#  Korean Text: '오르카의 전투원들은 길을 막아서는 AGS 들과 전투를 벌인다.'
-#: MapStage[Ch03Ev2Stage02].StageDesc
-msgid "オルカの戦闘員たちは道を塞ぐAGSたちと戦闘を開始する。"
-msgstr ""
-
-#  Korean Text: '세 개의 보석'
-#: MapStage[Ch03Ev2Stage02].StageName
-msgid "三つの宝石"
-msgstr ""
-
-#  Korean Text: '트레저 헌팅을 즐기던 오르카의 인원들에게 불길한 기운이 엄습한다.'
-#: MapStage[Ch03Ev2Stage03].StageDesc
-msgid "トレジャー狩りを楽しんでいたオルカの要員たちに不吉な勢力が急襲する。"
-msgstr ""
-
-#  Korean Text: '누군가의 로망'
-#: MapStage[Ch03Ev2Stage03].StageName
-msgid "誰かのロマン"
-msgstr ""
-
-#  Korean Text: '갑작스럽게 마주친 검은 AGS가 거래를 제안한다.'
-#: MapStage[Ch03Ev2Stage04].StageDesc
-msgid "突然出くわした黒いAGSが取引を提案する。"
-msgstr ""
-
-#  Korean Text: '거래 제안'
-#: MapStage[Ch03Ev2Stage04].StageName
-msgid "取引の提案"
-msgstr ""
-
-#  Korean Text: '트레저 헌팅을 즐기는 오르카의 인원들이 우정을 쌓는다.'
-#: MapStage[Ch03Ev2Stage05].StageDesc
-msgid "トレジャー狩りを楽しむオルカの要員たちが友情を深める。"
-msgstr ""
-
-#  Korean Text: '현명한 선택'
-#: MapStage[Ch03Ev2Stage05].StageName
-msgid "賢明な選択"
-msgstr ""
-
-#  Korean Text: '오르카의 인원들은 놀라운 소식을 접한다.'
-#: MapStage[Ch03Ev2Stage06].StageDesc
-msgid "オルカの要員たちは驚くべき知らせを聞く。"
-msgstr ""
-
-#  Korean Text: '포효'
-#: MapStage[Ch03Ev2Stage06].StageName
-msgid "咆哮"
-msgstr ""
-
-#  Korean Text: '오르카의 인원들은 보물을 얻기 위해 금고 내부로 향한다.'
-#: MapStage[Ch03Ev2Stage07].StageDesc
-msgid "オルカの要員たちは宝物を探すため金庫の内部に向かう。"
-msgstr ""
-
-#  Korean Text: '이해 불능'
-#: MapStage[Ch03Ev2Stage07].StageName
-msgid "理解不能"
-msgstr ""
-
-#  Korean Text: '금고에 도착한 오르카의 전투원들은 강력한 적과 마주친다.'
-#: MapStage[Ch03Ev2Stage08].StageDesc
-msgid "金庫に到着したオルカの戦闘員たちは強力な敵と遭遇する。"
-msgstr ""
-
-#  Korean Text: '망령'
-#: MapStage[Ch03Ev2Stage08].StageName
-msgid "亡霊"
-msgstr ""
-
-#  Korean Text: '둠 브링어 팀은 평화로운 휴가를 즐긴다.'
-#: MapStage[Ch03Ev2Stage09].StageDesc
-msgid "ドゥームブリンガーチームは平和な休暇を楽しむ。"
-msgstr ""
-
-#  Korean Text: '아토믹 러브'
-#: MapStage[Ch03Ev2Stage09].StageName
-msgid "アトミックラブ"
-msgstr ""
-
-#  Korean Text: '포츈은 다른 인원들이 휴가를 즐길 수 있도록 배려한다.'
-#: MapStage[Ch03Ev2Stage10].StageDesc
-msgid "フォーチュンは他の要員たちが休暇を楽しめるよう配慮する。"
-msgstr ""
-
-#  Korean Text: '연락 대기'
-#: MapStage[Ch03Ev2Stage10].StageName
-msgid "連絡待機"
-msgstr ""
-
-#  Korean Text: '갑작스러운 지원 요청을 받은 트레저 헌트 팀은 해변으로 복귀한다.'
-#: MapStage[Ch03Ev2Stage11].StageDesc
-msgid "突然の支援要請を受けたトレジャーハントチームは海岸に復帰する。"
-msgstr ""
-
-#  Korean Text: '평화 협정'
-#: MapStage[Ch03Ev2Stage11].StageName
-msgid "平和協定"
-msgstr ""
-
-#  Korean Text: '해변의 인원들은 동굴에서 구한 전리품으로 즐거움을 만끽한다.'
-#: MapStage[Ch03Ev2Stage12].StageDesc
-msgid "海岸の要員たちは洞窟で手に入れた戦利品で幸せを満喫する。"
-msgstr ""
-
-#  Korean Text: '선물의 행방'
-#: MapStage[Ch03Ev2Stage12].StageName
-msgid "プレゼントの行方"
-msgstr ""
-
-#  Korean Text: '휴가를 만끽하던 소완에게 블랙 리리스가 도움을 요청한다.'
-#: MapStage[Ch03Ev2Stage13].StageDesc
-msgid "休暇を満喫していたソワンにブラックリリスが支援を要請する。"
-msgstr ""
-
-#  Korean Text: '어두운 거래'
-#: MapStage[Ch03Ev2Stage13].StageName
-msgid "裏の取引"
-msgstr ""
-
-#  Korean Text: '신입기자 스프리건은 잔류한 인원들을 위한 취재 영상을 준비한다.'
-#: MapStage[Ch03Ev2Stage14].StageDesc
-msgid "新入り記者のスプリガンは残留した要員たちのための取材映像を準備する。"
-msgstr ""
-
-#  Korean Text: '오르카는 갈망한다'
-#: MapStage[Ch03Ev2Stage14].StageName
-msgid "オルカは切望している"
 msgstr ""
 
 #  Korean Text: '마리가 목격한 수상한 장소를 찾기 위해 바이오로이드는 헤맨다.'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-28 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -287,31 +287,35 @@ msgid "ご主人様さえよろしければ… 少しだけ…。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[1](Affection<100)
-msgid "トモさんは本当に... 本当に素晴らしい仲間です…。…色んな意味でです。"
+msgid "ここはうるさい子たちばかりだね…。ご主人様はなんで我慢してるの？命令をくれたら私が何とかしてあげるよ？え？だめ？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[2](Affection<100)
-msgid "この手帳には本当に色んな事が書かれています。少し読んでみましょうか？"
+msgid "今日は何も壊してないよ！？偉いでしょ！？じゃあ、いい子いい子してくれる？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[3](Affection<100)
-msgid "誰でも秘密の一つや二つ持っていますから、あまり心配なさらないでください。司令官。"
+msgid "ねぇねぇ…ご主人様でもないヤツをなんで私が護らなきゃいけないの？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript2[1](Affection>40)
-msgid "あの作戦の時、トモさんがスイッチを押したせいで！...あ、す、すみません、司令官。"
+msgid "ご主人様は他の子たちにも優しくしてるけど…？どうして？あの子たち、私よりも弱いのに…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript3[3](Affection>70)
-msgid "時々、平凡な女の子に生まれていたらどうなっていたんだろうと思う時があります。ふふ。"
+msgid "ご主人様と約束したから他の子たちもちゃんと護るよ？その代わり、ご主人様のお顔舐めてもいい？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript4[2](Affection=100)
-msgid "司令官？司令官とのあの事、隊員達には内緒にしておいてもらえますか？お願いします…。"
+msgid "他の子たちと仲良くしても気にならないよ？だって、ご主人様は私のものだから！一緒にいる時はぎゅっ～と抱き締めて絶対に離さないんだから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Fenrir].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "くすぐったい～！ご主人様、それなんかヤダ！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScriptSp2[1](Affection=100,SpecialTouch)
-msgid "私…これが好きだという事は…誰にも話さないでください。"
+msgid "あんっ！私のご主人様だもんね。いいよ！ずっと撫でて撫でて～？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fotia].LobbyScript1[1](Affection<100)
@@ -635,6 +639,18 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Rampart_NS1].LobbyScript1[3](Affection<100)
 msgid "君の勇気こそ、勇者の証。その先に光があらんことを。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Roc].LobbyScript1[1](Affection<100)
+msgid "生命にはそこまでの価値はありません。結局は遺伝子の命令に縛られて生存しようとする存在に過ぎません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Roc].LobbyScript1[2](Affection<100)
+msgid "高貴な主人の命令によって私はさらに完璧となるのです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Roc].LobbyScript1[3](Affection<100)
+msgid "生命が消えゆくのを見るのは常にいいものです。それが機械生命だとしても…です。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Seljuq].LobbyScript1[1](Affection<100)
@@ -2163,8 +2179,36 @@ msgstr ""
 msgid "あら、ハニー…心の準備ができたのね？うふふ。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScript1[1](Affection<100)
+msgid "トモさんは本当に... 本当に素晴らしい仲間です…。…色んな意味でです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScript1[2](Affection<100)
+msgid "この手帳には本当に色んな事が書かれています。少し読んでみましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScript1[3](Affection<100)
+msgid "誰でも秘密の一つや二つ持っていますから、あまり心配なさらないでください。司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScript2[1](Affection>40)
+msgid "あの作戦の時、トモさんがスイッチを押したせいで！...あ、す、すみません、司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScript3[3](Affection>70)
+msgid "時々、平凡な女の子に生まれていたらどうなっていたんだろうと思う時があります。ふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScript4[2](Affection=100)
+msgid "司令官？司令官とのあの事、隊員達には内緒にしておいてもらえますか？お願いします…。"
+msgstr ""
+
 #: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScriptSp1[1](Affection<100,SpecialTouch)
 msgid "な、何を考えていらっしゃるのですか？！ "
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Shirayuri].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "私…これが好きだという事は…誰にも話さないでください。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sirene].LobbyScript1[1](Affection<100)
@@ -2654,9 +2698,15 @@ msgid "陛下の視線は…我慢の限界に挑戦するような感じです�
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScript4[2](Affection=100)
-msgid ""
-"陛下？せっかくの休暇なんですよ…(ごねる) えいっ！この書類のせいだったんですね！これでもう大丈夫。もう私を見てくださいますね？ "
-"(主人公の仕事を勝手に片づけ、愛嬌を振りまく)"
+msgid "陛下？せっかくの休暇なんですよ…えいっ！この書類のせいだったんですね！これでもう大丈夫。もう私を見てくださいますね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "陛下？これは一体…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Charlotte_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "陛下らしいと申しましょうか…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Johanna].LobbyScript1[1](Affection<100)
@@ -3349,6 +3399,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_TommyWalker].LobbyScript1[3](Affection<100)
 msgid "トミーウォーカー。目的、通常輸送、破壊任務に特化している。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScript1[1](Affection<100)
+msgid "キャプテン、とっておきの情報を入手したんだけど…どう？聞いてみない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScript1[2](Affection<100)
+msgid "私はいつも本当の事しか言わないよ？私の言うことさえ聞いていればキャプテンも大金持ちになれるよ～？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScript1[3](Affection<100)
+msgid "海で道を探す方法？それならお魚ちゃんに聞けばいいのよ！あとウミガメちゃん…とか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScript2[1](Affection>40)
+msgid "あのね…キャプテンにだけ教えてあげるね。この近くに金塊を載せた船が沈んでいるらしいの。ねぇねぇ、キャプテンはどう思う？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScript3[3](Affection>70)
+msgid "え、えっと…正確に言うと…魚群探知機で魚を追いかけることなんだけど…。で、でも！…それも一種の会話なの！コミュニケーションよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScript4[2](Affection=100)
+msgid "やだ～、恥ずかしい～。もう大金持ちとかお宝とかよりもキャプテンとただ一緒にいることの方がずっといいよ～。キャプテンもそう思うよね？そう…だよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "えぇ～！！今何した！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Triaina].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ばか…言葉で言ってくれたらいいのに…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_ST_Lancer].LobbyScript1[1](Affection<100)

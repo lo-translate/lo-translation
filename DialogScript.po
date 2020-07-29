@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -19482,7 +19482,7 @@ msgstr ""
 
 #  Korean Text: '그건...'
 #: DialogScript[DG_Ch06Stage02b_1_10].Script
-msgid "ウッ…それは…"
+msgid "……それはね……"
 msgstr ""
 
 #  Korean Text: '그건, 메이 대장의 쓸 데 없는 자존심과, 일그러진 애정 때문이죠.&n특별해 보이고 싶고, 사랑받고 싶어 하는 한 외로운 소녀의...'
@@ -21398,7 +21398,7 @@ msgid "またお力を貸してもらいたいのですが…よろしいです�
 msgstr ""
 
 #: DialogScript[DG_Ch06Stage06_2_24].SelectionIndex[1]
-msgid "大丈夫だ。"
+msgid "何だ…。"
 msgstr ""
 
 #  Korean Text: '애덤 주… 존스 씨의 비밀 연구소 근처에 작은 은신처가 있어요.&n일단은 저만 아는 장소이긴 해요. 제가 오랫동안 지냈던 곳이기도 하고요.'

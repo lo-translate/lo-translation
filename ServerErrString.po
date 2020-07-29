@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2013,11 +2013,6 @@ msgstr ""
 
 #: ServerErrString[5810].Info
 msgid "원스토어 상품 구매 영수증 인증 실패"
-msgstr ""
-
-#  Korean Text: '원스토어 상품 구매 영수증 인증 실패'
-#: ServerErrString[5810].Msg
-msgid "2-エラーが発生しました。"
 msgstr ""
 
 #: ServerErrString[5810].Pos

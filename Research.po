@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -584,6 +584,21 @@ msgstr "Energy Condenser"
 msgid "エネルギー凝縮器技術解禁"
 msgstr "Unlock energy condenser technology"
 
+#  Korean Text: '외부 에너지를 동력으로 변환할 수 있는 장치를 연구합니다.'
+#: "Research[Robot_EnergyConverter ].Research_Desc"
+msgid "外部エネルギーを動力に変換できる装置を研究します。"
+msgstr "Research robotic boosters with high output."
+
+#  Korean Text: '에너지 컨버터'
+#: "Research[Robot_EnergyConverter ].Research_Name"
+msgid "エネルギーコンバーター"
+msgstr "High-Power Boosters"
+
+#  Korean Text: '에너지 컨버터 기술 해금'
+#: "Research[Robot_EnergyConverter ].Research_ResultDesc"
+msgid "エネルギーコンバーター技術解禁"
+msgstr "High-power booster technology unlocked"
+
 #  Korean Text: '적을 분석할 수 있는 시스템을 연구합니다.'
 #: Research[Robot_ExamSystem].Research_Desc
 msgid "敵を分析することが可能なシステムを研究します。"
@@ -661,17 +676,17 @@ msgstr "Unlock heavy weapons control system technology"
 
 #  Korean Text: '출력이 높은 로봇용 부스터를 연구합니다.'
 #: Research[Robot_HPBooster].Research_Desc
-msgid "外部エネルギーを動力に変換できる装置を研究します。"
+msgid "出力が高いロボット用ブースターを研究します。"
 msgstr "Research robotic boosters with high output."
 
 #  Korean Text: '고출력 부스터'
 #: Research[Robot_HPBooster].Research_Name
-msgid "エネルギーコンバーター"
+msgid "高出力ブースター"
 msgstr "High-Power Boosters"
 
 #  Korean Text: '고출력 부스터 기술 해금'
 #: Research[Robot_HPBooster].Research_ResultDesc
-msgid "エネルギーコンバーター技術解禁"
+msgid "高出力ブースター技術解禁"
 msgstr "High-power booster technology unlocked"
 
 #  Korean Text: '대형 로봇용 프레임을 연구합니다.'

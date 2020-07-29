@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -81,6 +81,11 @@ msgstr ""
 #: PC[Char_3P_Daphne_N].Name
 msgid "ダフネ"
 msgstr "Daphne"
+
+#  Korean Text: '난 컴패니언의 펜리르. 당신이 내 주인님이지?'
+#: PC[Char_3P_Fenrir_N].DialogJoin
+msgid "私はコンパニオンのフェンリル。あなたが私のご主人様なんでしょ？"
+msgstr ""
 
 #  Korean Text: '펜리르'
 #: PC[Char_3P_Fenrir_N].Name
@@ -249,12 +254,12 @@ msgstr "Rampart"
 
 #  Korean Text: '크크크. 새로운 주인이 오셨군요.'
 #: PC[Char_AGS_Roc_N].DialogJoin
-msgid "くくく。新しい主人が来ましたね。"
+msgid "ククク…。あなたが私の新たな主人か。"
 msgstr ""
 
 #  Korean Text: 'RF87 로크'
 #: PC[Char_AGS_Roc_N].Name
-msgid "RF87ローク"
+msgid "RF87ロク"
 msgstr "RF87 Roc"
 
 #  Korean Text: '셀주크, 합류했습니다.'
@@ -1290,7 +1295,7 @@ msgstr "Tommy Walker"
 
 #  Korean Text: '자! 여기, 진짜 탐험가가 찾아 왔어.'
 #: PC[Char_PECS_Triaina_N].DialogJoin
-msgid "ほら!ここ、本物の戦闘家が来たよ。"
+msgid "じゃっじゃっじゃ～ん！最高の冒険家が来たわよ！"
 msgstr ""
 
 #  Korean Text: '트리아이나'

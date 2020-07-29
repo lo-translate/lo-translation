@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -402,7 +402,7 @@ msgstr "Given RF87 Roc"
 
 #  Korean Text: 'RF87 로크'
 #: ItemConsumable[CharTicket_Char_AGS_Roc_N].ItemName
-msgid "RF87ローク"
+msgid "RF87ロク"
 msgstr "RF87 Roc"
 
 #  Korean Text: '셀주크을 지급합니다'
@@ -1844,12 +1844,12 @@ msgstr ""
 
 #  Korean Text: '지금 더 이상 구할 수 없는 구 시대의 유품입니다. 이벤트 교환소에서 귀한 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_Antiques].ItemDesc
-msgid "今はもう入手不可能な旧時代の遺品です。イベント交換所で貴重なものと交換できます。"
+msgid "今はもう入手不可能な滅亡前の遺品です。イベント交換所で貴重なものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 유품'
 #: ItemConsumable[Ev_Consumable_Antiques].ItemName
-msgid "旧時代の遺品"
+msgid "滅亡前の遺品"
 msgstr ""
 
 #  Korean Text: '멸망 전에 한 때 유행하던 뽀끄루 대마왕 스티커입니다. 다른 스티커들보다 희귀하며, 비교적 높은 연령대들 사이에 인기였다고 합니다.'
@@ -1949,32 +1949,32 @@ msgstr ""
 
 #  Korean Text: '구 시대에 사용되던 동화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_OldBronzeCoin].ItemDesc
-msgid "旧時代に使用されていた銅貨です。イベント交換所で他のものと交換できます。"
+msgid "滅亡前に使用されていた銅貨です。イベント交換所で他のものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 동화'
 #: ItemConsumable[Ev_Consumable_OldBronzeCoin].ItemName
-msgid "旧時代の銅貨"
+msgid "滅亡前の銅貨"
 msgstr ""
 
 #  Korean Text: '구 시대에 사용되던 금화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_OldGoldCoin].ItemDesc
-msgid "旧時代に使用されていた金貨です。イベント交換所で他のものと交換できます。"
+msgid "滅亡前に使用されていた金貨です。イベント交換所で他のものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 금화'
 #: ItemConsumable[Ev_Consumable_OldGoldCoin].ItemName
-msgid "旧時代の金貨"
+msgid "滅亡前の金貨"
 msgstr ""
 
 #  Korean Text: '구 시대에 사용되던 은화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_OldSilverCoin].ItemDesc
-msgid "旧時代に使用されていた銀貨です。イベント交換所で他のものと交換できます。"
+msgid "滅亡前に使用されていた銀貨です。イベント交換所で他のものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 은화'
 #: ItemConsumable[Ev_Consumable_OldSilverCoin].ItemName
-msgid "旧時代の銀貨"
+msgid "滅亡前の銀貨"
 msgstr ""
 
 #  Korean Text: '각 이벤트의 챌린지 스테이지 클리어 시 얻을 수 있습니다.'
@@ -2019,7 +2019,7 @@ msgstr ""
 
 #  Korean Text: '구 시대의 지도'
 #: ItemConsumable[Ev_Consumable_TreasureMap].ItemName
-msgid "旧時代の地図"
+msgid "滅亡前の地図"
 msgstr ""
 
 #  Korean Text: '열대 지역에서 구할 수 있는 과일입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
@@ -2060,11 +2060,6 @@ msgstr ""
 #  Korean Text: '단단히 봉인되어 열기 힘든 보물 상자입니다. 이벤트 교환소에서 개봉을 의뢰할 수 있습니다.'
 #: ItemConsumable[Event_TreasureBox_Closed].ItemDesc
 msgid "固く封印されていて開けるのが困難な宝箱です。イベント交換所で開封を依頼することができます。"
-msgstr ""
-
-#  Korean Text: '봉인된 보물 상자'
-#: ItemConsumable[Event_TreasureBox_Closed].ItemName
-msgid "封印された宝箱"
 msgstr ""
 
 #  Korean Text: '시작형 파츠가 10개 들어있습니다.'
@@ -2489,12 +2484,12 @@ msgstr ""
 
 #  Korean Text: '부품 50000개가 들어있습니다.'
 #: ItemConsumable[Metal_50000].ItemDesc
-msgid "(イベント)  部品50000個(内ボーナス35360個)が入っています。"
+msgid "部品 50000個(内ボーナス38000個)が入っています。"
 msgstr "Contains 50000 Parts."
 
 #  Korean Text: '부품 50000 컨테이너'
 #: ItemConsumable[Metal_50000].ItemName
-msgid "部品14640+35360個"
+msgid "部品 12000+38000個"
 msgstr "Container of 50000 Parts"
 
 #  Korean Text: '모든 일반 로봇 부품이 100개씩 들어있습니다.'
@@ -2705,12 +2700,12 @@ msgstr ""
 
 #  Korean Text: '영양 50000개가 들어있습니다.'
 #: ItemConsumable[Nutrient_50000].ItemDesc
-msgid "(イベント)  栄養50000個(内ボーナス35360個)が入っています。"
+msgid "栄養 50000個(内ボーナス38000個)が入っています。"
 msgstr "Contains 50000 Nutrients."
 
 #  Korean Text: '영양 50000 컨테이너'
 #: ItemConsumable[Nutrient_50000].ItemName
-msgid "栄養14640+35360個"
+msgid "栄養 12000+38000個"
 msgstr "Container of 50000 Nutrients"
 
 #  Korean Text: '오리진 더스트 250개를 지급합니다.'
@@ -2825,12 +2820,12 @@ msgstr ""
 
 #  Korean Text: '전력 50000개가 들어있습니다.'
 #: ItemConsumable[Power_50000].ItemDesc
-msgid "(イベント)  電力50000個(内ボーナス35360個)が入っています。"
+msgid "電力 50000個(内ボーナス38000個)が入っています。"
 msgstr "Contains 50000 Power."
 
 #  Korean Text: '전력 50000 컨테이너'
 #: ItemConsumable[Power_50000].ItemName
-msgid "電力14640+35360個"
+msgid "電力 12000+38000個"
 msgstr "Container of 50000 Power"
 
 #  Korean Text: '전투 모듈 초기화 장비 41개 / 코어 링크 해제기 41개가 들어있는 팩입니다.'
@@ -2845,7 +2840,7 @@ msgstr ""
 
 #  Korean Text: '모든 자원 30000개 / 전투 기록 5개 / 실전 교본 5개가 들어있는 컨테이너입니다.'
 #: ItemConsumable[ResourceExpPack_T1].ItemDesc
-msgid "すべての資源30000個/戦闘記録5個/実戦教本5個が入ったコンテナです。"
+msgid "すべての資源 30000個(内ボーナス27400個)/戦闘記録5個/実戦教本5個が入ったコンテナです。"
 msgstr ""
 
 #  Korean Text: '전투 보급 컨테이너 (중형)'
@@ -2855,7 +2850,7 @@ msgstr ""
 
 #  Korean Text: '모든 자원 50000개 / 전투 기록 10개 / 실전 교본 10개가 들어있는 컨테이너입니다.'
 #: ItemConsumable[ResourceExpPack_T2].ItemDesc
-msgid "すべての資源50000個/戦闘記録10個/実戦教本10個が入ったコンテナです。"
+msgid "すべての資源 50000個(内ボーナス48300個)/戦闘記録10個/実戦教本10個が入ったコンテナです。"
 msgstr ""
 
 #  Korean Text: '전투 보급 컨테이너 (대형)'
@@ -2865,7 +2860,7 @@ msgstr ""
 
 #  Korean Text: '모든 자원 100000개 / 멸망 전의 전쟁 기록 2개 / 멸망 전의 전술 교본 2개가 들어있는 컨테이너입니다.'
 #: ItemConsumable[ResourceExpPack_T3].ItemDesc
-msgid "すべての資源100000個/滅亡前の戦争記録2個/滅亡前の戦術教本2個が入ったコンテナです。"
+msgid "すべての資源 100000個(内ボーナス92900個)/滅亡前の戦争記録2個/滅亡前の戦術教本2個が入ったコンテナです。"
 msgstr ""
 
 #  Korean Text: '전투 보급 컨테이너 (초대형)'
@@ -2925,12 +2920,12 @@ msgstr "Pack of Resources"
 
 #  Korean Text: '모든 자원이 1500+750개 들어있습니다.'
 #: ItemConsumable[ResourcePack_1500_50per].ItemDesc
-msgid "全ての資源が1500+750個入っています。"
+msgid "全ての資源 2250個(内ボーナス1600個)が入っています。"
 msgstr "Contains 1500+750 of all resources."
 
 #  Korean Text: '자원 팩 (한정 세일)'
 #: ItemConsumable[ResourcePack_1500_50per].ItemName
-msgid "資源パック(限定セール)"
+msgid "資源 650+1600個"
 msgstr "Pack of Resources (Limited Sale)"
 
 #  Korean Text: '모든 자원이 3000개 들어있습니다.'
@@ -2945,12 +2940,12 @@ msgstr "Box of Resources"
 
 #  Korean Text: '모든 자원이 3000+1500개 들어있습니다.'
 #: ItemConsumable[ResourcePack_3000_50per].ItemDesc
-msgid "全ての資源が3000+1500個入っています。"
+msgid "全ての資源 4500個(内ボーナス3300個)が入っています。"
 msgstr "Contains 3000+1500 of all resources."
 
 #  Korean Text: '자원 박스 (한정 세일)'
 #: ItemConsumable[ResourcePack_3000_50per].ItemName
-msgid "資源ボックス(限定セール)"
+msgid "資源 1200+3300個"
 msgstr "Box of Resources (Limited Sale)"
 
 #  Korean Text: '모든 자원 3100개를 지급합니다.'
@@ -2985,12 +2980,12 @@ msgstr "Small Container of Resources"
 
 #  Korean Text: '모든 자원이 5000+2500개 들어있습니다.'
 #: ItemConsumable[ResourcePack_5000_50per].ItemDesc
-msgid "全ての資源が5000+2500個入っています。"
+msgid "全ての資源 7500個(内ボーナス5650個)が入っています。"
 msgstr "Contains 5000+2500 of all resources."
 
 #  Korean Text: '소형 자원 컨테이너 (한정 세일)'
 #: ItemConsumable[ResourcePack_5000_50per].ItemName
-msgid "小型資源コンテナ(限定セール)"
+msgid "資源 1850+5650個"
 msgstr "Small Container of Resources (Limited Sale)"
 
 #  Korean Text: '모든 자원이 10000개 들어있습니다.'
@@ -3005,12 +3000,12 @@ msgstr "Medium Container of Resources"
 
 #  Korean Text: '모든 자원이 10000+5000개 들어있습니다.'
 #: ItemConsumable[ResourcePack_10000_50per].ItemDesc
-msgid "全ての資源が10000+5000個入っています。"
+msgid "全ての資源 15000個(内ボーナス11400個)が入っています。"
 msgstr "Contains 10000+5000 of all resources."
 
 #  Korean Text: '중형 자원 컨테이너 (한정 세일)'
 #: ItemConsumable[ResourcePack_10000_50per].ItemName
-msgid "中型資源コンテナ(限定セール)"
+msgid "資源 3600+11400個"
 msgstr "Medium Container of Resources"
 
 #  Korean Text: '모든 자원이 30000개 들어있습니다.'
@@ -3025,12 +3020,12 @@ msgstr "Large Container of Resources"
 
 #  Korean Text: '모든 자원이 30000+15000개 들어있습니다.'
 #: ItemConsumable[ResourcePack_30000_50per].ItemDesc
-msgid "全ての資源が30000+15000個入っています。"
+msgid "全ての資源 45000個(内ボーナス35000個)が入っています。"
 msgstr "Contains 30000+15000 of all resources."
 
 #  Korean Text: '대형 자원 컨테이너 (한정 세일)'
 #: ItemConsumable[ResourcePack_30000_50per].ItemName
-msgid "大型資源コンテナ(限定セール)"
+msgid "資源 10000+35000個"
 msgstr "Large Container of Resources (Limited Sale)"
 
 #  Korean Text: '모든 자원이 41000개씩 들어있는 팩입니다.'
@@ -3055,12 +3050,12 @@ msgstr "Very Large Container of Resources"
 
 #  Korean Text: '모든 자원이 50000+25000개 들어있습니다.'
 #: ItemConsumable[ResourcePack_50000_50per].ItemDesc
-msgid "全ての資源が50000+25000個入っています。"
+msgid "全ての資源 75000個(内ボーナス60500個)が入っています。"
 msgstr "Contains 50000+25000 of all resources."
 
 #  Korean Text: '초대형 자원 컨테이너 (한정 세일)'
 #: ItemConsumable[ResourcePack_50000_50per].ItemName
-msgid "超大型資源コンテナ(限定セール)"
+msgid "資源 14500+60500個"
 msgstr "Very Large Container of Resources (Limited Sale)"
 
 #  Korean Text: '한가위 자원 컨테이너 50000'
@@ -3355,7 +3350,7 @@ msgstr "Midsummer Apocalypse"
 
 #  Korean Text: '나이트 앤젤용 경영 수영복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_BR_NightAngel_2].ItemDesc
-msgid "ナイトエンジェル用の競技水着と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgid "ナイトエンジェル用の競泳水着と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '한여름의 천사'
@@ -3951,7 +3946,9 @@ msgstr ""
 
 #  Korean Text: '드림위버는 자신의 영감을 되살려준 리리스에게 그녀의 소망을 들어주는 것으로 은혜를 갚았습니다. 그녀는 여름이 지나더라도 피부에 흔적이 남을 멋진 수영복을 원했죠.'
 #: ItemConsumable[Skin_3P_BlackLilith_2].ItemDesc
-msgid "ドリームウィーバーは自分の霊感を蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました。"
+msgid ""
+"ドリームウィーバーは自分のインスピレーションを蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました"
+"。"
 msgstr ""
 
 #  Korean Text: '본 목적을 벗어난 수영복 (리리스)'
@@ -4003,7 +4000,7 @@ msgstr "Shirt (Perrault)"
 
 #  Korean Text: '제 가슴에 야옹이가 들어왔어요.'
 #: ItemConsumable[Skin_3P_CSPerrault_2].ItemDesc
-msgid "私の胸にヤオイが入ってきました。"
+msgid "私の胸に子猫が入ってきました。"
 msgstr "There's a kitty on my chest."
 
 #  Korean Text: '장식용 수영복 (페로)'
@@ -4025,7 +4022,7 @@ msgstr "Nurse uniform (Daphne)"
 
 #  Korean Text: '다프네의 휴가는 언제나 평온합니다. 아마 그녀의 조용한 정열은 주인을 위해서만 발휘되겠죠.'
 #: ItemConsumable[Skin_3P_Daphne_2].ItemDesc
-msgid "ダフネの休暇はいつでも平穏です。たぶん彼女の静かな情熱は主人の為だけに発揮されるようです。"
+msgid "ダフネの休暇はいつでも平穏です。おそらく彼女の静かな情熱は主人の為だけに発揮されるようです。"
 msgstr ""
 
 #  Korean Text: '우아한 수영복 (다프네)'
@@ -4080,7 +4077,7 @@ msgstr ""
 msgid ""
 "長い間、深い深海に住むダゴンはランパリオンの最大の敵でした。また、部下たちの失敗に憤怒したダゴンがついに深海から立ち上がりました。(- "
 "本製品はブラックリバーの所有でありD-"
-"エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの損害賠償法に則り損害賠償を請求することができます。)"
+"エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの懲罰的損害賠償に則り損害賠償を請求することができます。)"
 msgstr ""
 "For a long time, Dagon of the Deepest Abyss has been Ramparion's greatest "
 "nemesis. Tired of his underlings' failures, Dagon finally rises from the "
@@ -4264,7 +4261,7 @@ msgstr "Sweater (May)"
 
 #  Korean Text: '메이는 자신의 장단점을 아주 잘 알고 있습니다. 이 수영복이 메이의 핵폭발하는 매력을 보여줄 수 있으면 좋겠군요.'
 #: ItemConsumable[Skin_BR_May_2].ItemDesc
-msgid "メイは自分の長所と弱点をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
+msgid "メイは自分の長所と短所をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
 msgstr ""
 "May is well aware of her strengths and weaknesses. It would be nice for this "
 "swimsuit to show May's explosive appeal."
@@ -4621,7 +4618,7 @@ msgstr ""
 
 #  Korean Text: '경기용 수영복 (서펀트)'
 #: ItemConsumable[Skin_PECS_Serpent_1].ItemName
-msgid "競技水着(フロストサーペント)"
+msgid "競泳水着(フロストサーペント)"
 msgstr ""
 
 #  Korean Text: '수련한 후, 휴식을 취하며 땀을 닦을 때 티에치엔은 태어난 보람을 느낍니다.'

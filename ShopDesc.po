@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-29 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1073,7 +1073,7 @@ msgstr "Miho's Apron Pack"
 
 #  Korean Text: '모든 자원이 1500+750개 들어있습니다.'
 #: ShopDesc[106].NPCDescription
-msgid "全ての資源が1500+750個入っています。"
+msgid "全ての資源 2250個(内ボーナス1600個)が入っています。"
 msgstr "Contains 1500+750 of all resources."
 
 #  Korean Text: '자원 1500+750개'
@@ -1083,7 +1083,7 @@ msgstr "1500+750 of all resources"
 
 #  Korean Text: '모든 자원이 3000+1500개 들어있습니다.'
 #: ShopDesc[107].NPCDescription
-msgid "全ての資源が3000+1500個入っています。"
+msgid "全ての資源 4500個(内ボーナス3300個)が入っています。"
 msgstr "Contains 3000+1500 of all resources."
 
 #  Korean Text: '자원 3000+1500개'
@@ -1093,7 +1093,7 @@ msgstr "3000+1500 of all resources"
 
 #  Korean Text: '모든 자원이 5000+2500개 들어있습니다.'
 #: ShopDesc[108].NPCDescription
-msgid "全ての資源が5000+2500個入っています。"
+msgid "全ての資源 7500個(内ボーナス5650個)が入っています。"
 msgstr "Contains 5000+2500 of all resources."
 
 #  Korean Text: '자원 5000+2500개'
@@ -1103,7 +1103,7 @@ msgstr "5000+2500 of all resources"
 
 #  Korean Text: '모든 자원이 10000+5000개 들어있습니다.'
 #: ShopDesc[109].NPCDescription
-msgid "全ての資源が10000+5000個入っています。"
+msgid "全ての資源 15000個(内ボーナス11400個)が入っています。"
 msgstr "Contains 10000+5000 of all resources."
 
 #  Korean Text: '자원 10000+5000개'
@@ -1113,7 +1113,7 @@ msgstr "10000+5000 of all resources"
 
 #  Korean Text: '모든 자원이 30000+15000개 들어있습니다.'
 #: ShopDesc[110].NPCDescription
-msgid "全ての資源が30000+15000個入っています。"
+msgid "全ての資源 45000個(内ボーナス35000個)が入っています。"
 msgstr "Contains 30000+15000 of all resources."
 
 #  Korean Text: '자원 30000+15000개'
@@ -1123,7 +1123,7 @@ msgstr "30000+15000 of all resources"
 
 #  Korean Text: '모든 자원이 50000+25000개 들어있습니다.'
 #: ShopDesc[111].NPCDescription
-msgid "全ての資源が50000+25000個入っています。"
+msgid "全ての資源 75000個(内ボーナス60500個)が入っています。"
 msgstr "Contains 50000+25000 of all resources."
 
 #  Korean Text: '자원 50000+25000개'
@@ -1493,7 +1493,7 @@ msgstr "Midsummer Perrault"
 
 #  Korean Text: '나이트 앤젤용 경영 수영복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[148].NPCDescription
-msgid "ナイトエンジェル用の競技水着と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgid "ナイトエンジェル用の競泳水着と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '한여름의 천사'
@@ -1555,37 +1555,37 @@ msgstr "Midsummer Fairy"
 
 #  Korean Text: '부품 50000개가 들어있습니다.'
 #: ShopDesc[154].NPCDescription
-msgid "(イベント)  部品50000個(内ボーナス35360個)が入っています。"
+msgid "部品 50000個(内ボーナス38000個)が入っています。"
 msgstr "Contains 50000 Parts."
 
 #  Korean Text: '부품 50000 컨테이너'
 #: ShopDesc[154].ProductName
-msgid "部品14640+35360個"
+msgid "部品 12000+38000個"
 msgstr "Container of 50000 Parts"
 
 #  Korean Text: '영양 50000개가 들어있습니다.'
 #: ShopDesc[155].NPCDescription
-msgid "(イベント)  栄養50000個(内ボーナス35360個)が入っています。"
+msgid "栄養 50000個(内ボーナス38000個)が入っています。"
 msgstr "Contains 50000 Nutrients."
 
 #  Korean Text: '영양 50000 컨테이너'
 #: ShopDesc[155].ProductName
-msgid "栄養14640+35360個"
+msgid "栄養 12000+38000個"
 msgstr "Container of 50000 Nutrients"
 
 #  Korean Text: '전력 50000개가 들어있습니다.'
 #: ShopDesc[156].NPCDescription
-msgid "(イベント)  電力50000個(内ボーナス35360個)が入っています。"
+msgid "電力 50000個(内ボーナス38000個)が入っています。"
 msgstr "Contains 50000 Power."
 
 #  Korean Text: '전력 50000 컨테이너'
 #: ShopDesc[156].ProductName
-msgid "電力14640+35360個"
+msgid "電力 12000+38000個"
 msgstr "Container of 50000 Power"
 
 #  Korean Text: '모든 자원 30000개 / 전투 기록 5개 / 실전 교본 5개가 들어있는 컨테이너입니다.'
 #: ShopDesc[157].NPCDescription
-msgid "すべての資源30000個/戦闘記録5個/実戦教本5個が入ったコンテナです。"
+msgid "すべての資源 30000個(内ボーナス27400個)/戦闘記録5個/実戦教本5個が入ったコンテナです。"
 msgstr ""
 
 #  Korean Text: '전투 보급 컨테이너 (중형)'
@@ -1595,7 +1595,7 @@ msgstr ""
 
 #  Korean Text: '모든 자원 50000개 / 전투 기록 10개 / 실전 교본 10개가 들어있는 컨테이너입니다.'
 #: ShopDesc[158].NPCDescription
-msgid "すべての資源50000個/戦闘記録10個/実戦教本10個が入ったコンテナです。"
+msgid "すべての資源 50000個(内ボーナス48300個)/戦闘記録10個/実戦教本10個が入ったコンテナです。"
 msgstr ""
 
 #  Korean Text: '전투 보급 컨테이너 (대형)'
@@ -1605,7 +1605,7 @@ msgstr ""
 
 #  Korean Text: '모든 자원 100000개 / 멸망 전의 전쟁 기록 2개 / 멸망 전의 전술 교본 2개가 들어있는 컨테이너입니다.'
 #: ShopDesc[159].NPCDescription
-msgid "すべての資源100000個/滅亡前の戦争記録2個/滅亡前の戦術教本2個が入ったコンテナです。"
+msgid "すべての資源 100000個(内ボーナス92900個)/滅亡前の戦争記録2個/滅亡前の戦術教本2個が入ったコンテナです。"
 msgstr ""
 
 #  Korean Text: '전투 보급 컨테이너 (초대형)'
@@ -2598,7 +2598,7 @@ msgstr ""
 
 #  Korean Text: '제 가슴에 야옹이가 들어왔어요.'
 #: ShopDesc[14020].NPCDescription
-msgid "私の胸にヤオイが入ってきました。"
+msgid "私の胸に子猫が入ってきました。"
 msgstr "There's a kitty on my chest."
 
 #  Korean Text: '장식용 수영복 (페로)'
@@ -3859,14 +3859,14 @@ msgstr "Anti-Armor Equipment EX"
 
 #  Korean Text: '라운드 개시 시, 방어막 효과가 적용된 상태면 해당 효과를 해제하고 공격력과 행동력이 증가합니다.'
 #: ShopDesc[16025].NPCDescription
-msgid "ラウンド開始時、バリア効果が適用された状態の場合、該当の効果が解除され攻撃力と行動力が増加します。"
+msgid "ラウンド開始時、バリア効果が適用された状態の場合、バリア効果が解除され攻撃力/行動力が増加します。"
 msgstr ""
 "As a round starts, if there is a shield effect present, it is removed, while "
 "increasing damage and action speed."
 
 #  Korean Text: '에너지 전환기 RE'
 #: ShopDesc[16025].ProductName
-msgid "エネルギー転換機ＥＸ"
+msgid "エネルギー変換機ＥＸ"
 msgstr "Energy Diverter EX"
 
 #  Korean Text: '매 라운드 일정 수치의 방어막을 얻습니다.'
@@ -3897,7 +3897,7 @@ msgstr ""
 
 #  Korean Text: '고기동 메뉴버 시스템 EX'
 #: ShopDesc[16028].ProductName
-msgid "高機動マニューバーシステムEX"
+msgid "高機動マニューバシステムEX"
 msgstr "High-Speed Maneuvering System EX"
 
 #  Korean Text: '공격기 전용 장비입니다. 자신이 후열에 배치된 경우, 공격력 / 적중 / 치명타가 증가합니다.'
@@ -4007,7 +4007,7 @@ msgstr "Sowan's Handmade Lunch Box EX"
 
 #  Korean Text: '각종 열기를 이겨내는데 큰 도움을 주는 장비입니다. 공격 보조에도 뛰어난 성능을 자랑합니다.'
 #: ShopDesc[16040].NPCDescription
-msgid "様々な熱気を克服する際に役立つ装置です。攻撃補助にも優れた性能を誇ります。"
+msgid "様々な熱気を克服する際に役立つ装置です。攻撃補助にも優れた性能を発揮します。"
 msgstr ""
 "This equipment is very helpful coping with heat and it also delivers superior "
 "attack performance assistance."
@@ -4019,7 +4019,7 @@ msgstr "Cooling Pack EX"
 
 #  Korean Text: '과거 인류가 여름에 사용하던 물품을 누군가 재현해냈습니다. 바이오로이드가 장착 시, 열기를 받으면 강해지는 기분이 들게됩니다.'
 #: ShopDesc[16041].NPCDescription
-msgid "過去の人類が夏に使っていた物品を誰かが再現しました。 バイオロイドが装着時、熱気を受けると強くなる気持ちになります。"
+msgid "過去の人類が夏に使っていた物品を誰かが再現しました。バイオロイドが装着時、熱気を受けると強くなります。"
 msgstr ""
 "Someone recreated a product mankind used to use in Summer. When a Bioroid "
 "equips it, she'll feel as if heat empowers her."
@@ -4254,7 +4254,7 @@ msgstr ""
 
 #  Korean Text: '경기용 수영복 (서펀트)'
 #: ShopDesc[17109].ProductName
-msgid "競技水着(フロストサーペント)"
+msgid "競泳水着(フロストサーペント)"
 msgstr ""
 
 #  Korean Text: '어린이날을 맞이하여 행복한 추억을 만들어 주기 위해 경찰에서 특별히 커스텀된 램파트입니다.'
@@ -4414,7 +4414,7 @@ msgstr "Cowgirl Bikini (Elven ForestMaker)"
 
 #  Korean Text: '메이는 자신의 장단점을 아주 잘 알고 있습니다. 이 수영복이 메이의 핵폭발하는 매력을 보여줄 수 있으면 좋겠군요.'
 #: ShopDesc[17141].NPCDescription
-msgid "メイは自分の長所と弱点をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
+msgid "メイは自分の長所と短所をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
 msgstr ""
 "May is well aware of her strengths and weaknesses. It would be nice for this "
 "swimsuit to show May's explosive appeal."
@@ -4436,7 +4436,7 @@ msgstr ""
 
 #  Korean Text: '다프네의 휴가는 언제나 평온합니다. 아마 그녀의 조용한 정열은 주인을 위해서만 발휘되겠죠.'
 #: ShopDesc[17143].NPCDescription
-msgid "ダフネの休暇はいつでも平穏です。たぶん彼女の静かな情熱は主人の為だけに発揮されるようです。"
+msgid "ダフネの休暇はいつでも平穏です。おそらく彼女の静かな情熱は主人の為だけに発揮されるようです。"
 msgstr ""
 
 #  Korean Text: '우아한 수영복 (다프네)'
@@ -4488,7 +4488,9 @@ msgstr ""
 
 #  Korean Text: '드림위버는 자신의 영감을 되살려준 리리스에게 그녀의 소망을 들어주는 것으로 은혜를 갚았습니다. 그녀는 여름이 지나더라도 피부에 흔적이 남을 멋진 수영복을 원했죠.'
 #: ShopDesc[17148].NPCDescription
-msgid "ドリームウィーバーは自分の霊感を蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました。"
+msgid ""
+"ドリームウィーバーは自分のインスピレーションを蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました"
+"。"
 msgstr ""
 
 #  Korean Text: '본 목적을 벗어난 수영복 (리리스)'
@@ -4501,7 +4503,7 @@ msgstr ""
 msgid ""
 "長い間、深い深海に住むダゴンはランパリオンの最大の敵でした。また、部下たちの失敗に憤怒したダゴンがついに深海から立ち上がりました。(- "
 "本製品はブラックリバーの所有でありD-"
-"エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの損害賠償法に則り損害賠償を請求することができます。)"
+"エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの懲罰的損害賠償に則り損害賠償を請求することができます。)"
 msgstr ""
 "For a long time, Dagon of the Deepest Abyss has been Ramparion's greatest "
 "nemesis. Tired of his underlings' failures, Dagon finally rises from the "
@@ -4654,42 +4656,42 @@ msgstr ""
 
 #  Korean Text: '구 시대에 사용되던 동화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21002].NPCDescription
-msgid "旧時代に使用されていた銅貨です。イベント交換所で他のものと交換できます。"
+msgid "滅亡前に使用されていた銅貨です。イベント交換所で他のものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 동화'
 #: ShopDesc[21002].ProductName
-msgid "旧時代の銅貨"
+msgid "滅亡前の銅貨"
 msgstr ""
 
 #  Korean Text: '구 시대에 사용되던 은화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21003].NPCDescription
-msgid "旧時代に使用されていた銀貨です。イベント交換所で他のものと交換できます。"
+msgid "滅亡前に使用されていた銀貨です。イベント交換所で他のものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 은화'
 #: ShopDesc[21003].ProductName
-msgid "旧時代の銀貨"
+msgid "滅亡前の銀貨"
 msgstr ""
 
 #  Korean Text: '구 시대에 사용되던 금화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21004].NPCDescription
-msgid "旧時代に使用されていた金貨です。イベント交換所で他のものと交換できます。"
+msgid "滅亡前に使用されていた金貨です。イベント交換所で他のものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 금화'
 #: ShopDesc[21004].ProductName
-msgid "旧時代の金貨"
+msgid "滅亡前の金貨"
 msgstr ""
 
 #  Korean Text: '지금 더 이상 구할 수 없는 구 시대의 유품입니다. 이벤트 교환소에서 귀한 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21005].NPCDescription
-msgid "今はもう入手不可能な旧時代の遺品です。イベント交換所で貴重なものと交換できます。"
+msgid "今はもう入手不可能な滅亡前の遺品です。イベント交換所で貴重なものと交換できます。"
 msgstr ""
 
 #  Korean Text: '구 시대의 유품'
 #: ShopDesc[21005].ProductName
-msgid "旧時代の遺品"
+msgid "滅亡前の遺品"
 msgstr ""
 
 #  Korean Text: '바다에서 구할 수 있는 식재료입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
@@ -4719,7 +4721,7 @@ msgstr ""
 
 #  Korean Text: '구 시대의 지도'
 #: ShopDesc[21008].ProductName
-msgid "旧時代の地図"
+msgid "滅亡前の地図"
 msgstr ""
 
 #  Korean Text: '단단히 봉인되어 열기 힘든 보물 상자입니다. 이벤트 교환소에서 개봉을 의뢰할 수 있습니다.'
@@ -4729,7 +4731,7 @@ msgstr ""
 
 #  Korean Text: '봉인된 보물 상자'
 #: ShopDesc[21009].ProductName
-msgid "封印された宝箱"
+msgid "宝箱"
 msgstr ""
 
 #  Korean Text: '멸망 전에 한 때 유행하던 매지컬 모모 스티커입니다.'
@@ -4764,12 +4766,12 @@ msgstr "Faucre Sticker"
 
 #  Korean Text: '보물 상자의 봉인을 해제합니다.'
 #: ShopDesc[22001].NPCDescription
-msgid "宝箱の封印を解除します。"
+msgid "宝箱の封印を解除します。滅亡前の銅貨/銀貨/金貨/遺品がそれぞれ一定の確率で獲得できます。"
 msgstr ""
 
 #  Korean Text: '보물 상자 해제 의뢰'
 #: ShopDesc[22001].ProductName
-msgid "宝箱の解禁依頼"
+msgid "宝箱の開錠依頼"
 msgstr ""
 
 #: ShopDesc[91101].NPCDescription
