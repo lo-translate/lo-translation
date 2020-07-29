@@ -1,6 +1,7 @@
 # Lo Translation
 
-Initial translations based on Korean translation by BeepedWhenIShouldaBooped.  Some lobby translations taken from spreadsheet by Maurex.
+Initial translations based on Korean translation patch by BeepedWhenIShouldaBooped.
+Some translations by Maurex found in Google Docs or the Discord.
 
 
 ## Editing
