@@ -111,7 +111,7 @@ msgstr ""
 #  Korean Text: '<이벤트 안내>'
 #: Announce[1].Announce_Title
 msgid "「ラストオリジン」リリースのお知らせ"
-msgstr "<Event Guide>"
+msgstr "Release of \"Last Origin\""
 
 #  Korean Text: '다음 상품의 가격이 다음 점검 후, 변경될 예정입니다.\n\n- 위험한 가족 : 신입생 에밀리 (136 -> 159) (로비 애니메이션 추가)'
 #: Announce[2].Announce_Desc
@@ -128,11 +128,26 @@ msgid ""
 "origin.com/news_view.html?no=55&pg=1]https://www.last-"
 "origin.com/news_view.html?no=55&pg=1[/url][/u]"
 msgstr ""
+"Following regular maintenance on Wednesday, July 29th, we have carried out "
+"the following updates. 《Event》 ▼ \"Lioboros Heritage\" start ▼ \"Supreme "
+"Supper\" end ▼ Experience gained & drop rate UP ▼ Discount pack "
+"added\n"
+"\n"
+"\n"
+"《Contents》 ▼ Add new bioroid ▼ Add new equipment ▼ Add new skin ▼ Add new "
+"research menu ▼ Update exchange place Please check the official website for "
+"details.\n"
+"[u][url=https://www.last-"
+"origin.com/news_view.html?no=54&pg=1]https://www.last-"
+"origin.com/news_view.html?no=54&pg=1[/url][/u]\n"
+"[u][url=https://www.last-"
+"origin.com/news_view.html?no=55&pg=1]https://www.last-"
+"origin.com/news_view.html?no=55&pg=1[/url][/u]"
 
 #  Korean Text: '<상점 관련 안내>'
 #: Announce[2].Announce_Title
 msgid "7月29日(水)アップデート情報 "
-msgstr "<Store Guide>"
+msgstr "7/29 Update Information"
 
 #  Korean Text: '다음 오류 현상이 수정되었습니다.\n\n* 코코의 역장 전개 스킬을 사용하여도 방어막이 갱신되지 않는 현상\n - 정상적으로 작동하도록 수정되었습니다.\n\n* 반격 OS를 장착하면 홀로그램 EX(10강)의 피해 최소화 횟수가 1회만 적용되는 현상\n - 정상적으로 작동하도록 수정되었습니다.\n\n* 간헐적으로 부식에 의해 사망할 경우 프리징이 발생하는 현상\n - 정상적으로 작동하도록 수정되었습니다.\n\n* 열보호와 반격을 가진 전투원이 반격을 제대로 실행하지 못하는 현상\n - 정상적으로 작동하도록 수정되었습니다.\n\n* 방어막 적용 상태에서 방어막이 피해를 입어도 피격 판정이 되지 않는 현상\n - 정상적으로 작동하도록 수정되었습니다.\n\n* 샬럿의 리포스트와 CS페로의 유연성(깨어난 본능)이 발동되어도 회피 증가 효과가 적용되지 않는 현상\n - 정상적으로 작동하도록 수정되었습니다.\n\n* 키르케가 수정구 장비 장착 시 아군에게 부여하는 AP수치가 소수점 3자리 이상으로 출력되는 현상\n - 정상적으로 표시되도록 수정되었습니다.\n\n* 보존 링크로 설정된 전투원을 부관으로 배치 후 영구링크로 변경하면 부관 이미지가 출력되지 않는 현상\n - 정상적으로 출력되도록 수정되었습니다.\n\n* 베로니카의 치마 부분이 과도하게 움직이는 현상 (해당 수정내용은 구글 버전에만 적용됩니다)\n - 치마 움직임의 범위가 감소합니다.\n\n* 다프네 간호사 스킨의 SD캐릭터 이동 애니메이션이 부자연스럽게 표현되는 현상\n - 정상적으로 표현되도록 수정되었습니다.\n\n* 다프네 수영복 스킨의 SD 캐릭터 머리카락 부분이 부자연스럽게 표현되는 현상\n - 정상적으로 표현되도록 수정되었습니다.'
 #: Announce[3].Announce_Desc
@@ -167,4 +182,4 @@ msgstr ""
 #  Korean Text: '<오류 수정 알림>'
 #: Announce[3].Announce_Title
 msgid "『CSペロのPeroPeroキャンペーン！』開催中！"
-msgstr "<Patch Notes>"
+msgstr "CS Perrault's PeroPero Campaign!"
