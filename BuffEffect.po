@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-07-30 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -783,17 +783,17 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '민감한 눈 : 사거리+{0}'
 #: BuffEffect[Effect_3P_Daphne_N_14].BuffEffectType1_Desc
 msgid "観察眼：射程距離+{0}"
-msgstr "観察眼: Range +{0}"
+msgstr "Keen Eyes: Range +{0}"
 
-#  Korean Text: '민감한 눈 : 자신 사거리 증가'
+#  Generated Partial Match; Korean Text: '민감한 눈 : 자신 사거리 증가'
 #: BuffEffect[Effect_3P_Daphne_N_14].Name
 msgid "観察眼：自分射程距離増加"
-msgstr ""
+msgstr "Keen Eyes: Increased Own Range"
 
 #  Generated Partial Match; Korean Text: '덤벼랏! : 대상 도발 (펜리르)'
 #: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType1_Desc
 msgid "かかってこい！：挑発(フェンリル)"
-msgstr "かかってこい！: Taunt (フェンリル)"
+msgstr "かかってこい！: Taunt (Fenrir)"
 
 #  Generated Partial Match; Korean Text: '숨지마! : 방어력 {0}%'
 #: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType2_Desc
@@ -825,25 +825,25 @@ msgstr ""
 msgid "グレイプニール解除：クリティカル時、ダメージ量増加"
 msgstr "グレイプニール解除: Increase Critical Damage"
 
-#  Korean Text: '영역 순찰 : 열 보호'
+#  Generated Partial Match; Korean Text: '영역 순찰 : 열 보호'
 #: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType1_Desc
 msgid "エリアパトロール：列保護"
-msgstr ""
+msgstr "Domain Patrol: Column Protection"
 
 #  Generated Partial Match; Korean Text: '영역 순찰 : {0}HP로 전투 속행'
 #: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType2_Desc
 msgid "エリアパトロール：{0}HPで戦闘続行"
-msgstr "エリアパトロール: Continue Battle at {0} HP"
+msgstr "Domain Patrol: Continue Battle at {0} HP"
 
 #  Generated Partial Match; Korean Text: '칩입자 물리쳤다! : AP+{0} (적 처치 시)'
 #: BuffEffect[Effect_3P_Fenrir_N_3].BuffEffectType3_Desc
 msgid "侵入者撃破! : AP+{0}(敵撃破時)"
 msgstr "侵入者撃破!: AP+{0} (On kill)"
 
-#  Korean Text: '영역 순찰 : 열 보호 / 전투 속행'
+#  Generated Partial Match; Korean Text: '영역 순찰 : 열 보호 / 전투 속행'
 #: BuffEffect[Effect_3P_Fenrir_N_3].Name
 msgid "エリアパトロール：列保護/戦闘続行"
-msgstr ""
+msgstr "Domain Patrol: Column Protection / Battle Continuation"
 
 #  Generated Partial Match; Korean Text: '야성 본능 : 공격력+{0}%'
 #: BuffEffect[Effect_3P_Fenrir_N_4].BuffEffectType1_Desc
@@ -900,10 +900,10 @@ msgstr ""
 msgid "侵入者撃破! : AP+{0}"
 msgstr ""
 
-#  Korean Text: '영역 순찰 : 적 처치 시, AP 증가'
+#  Generated Partial Match; Korean Text: '영역 순찰 : 적 처치 시, AP 증가'
 #: BuffEffect[Effect_3P_Fenrir_N_12].Name
 msgid "エリアパトロール：敵撃破時、AP増加"
-msgstr ""
+msgstr "Domain Patrol: On Kill, Increase AP"
 
 #  Generated Partial Match; Korean Text: '맛있어! : 공격력+{0}%'
 #: BuffEffect[Effect_3P_Fenrir_N_13].BuffEffectType1_Desc
@@ -918,7 +918,7 @@ msgstr "美味しい!: Action Speed +{0}%"
 #  Generated Partial Match; Korean Text: '영역 순찰 : 수제 도시락 소지 시, 공격력 / 행동력 증가'
 #: BuffEffect[Effect_3P_Fenrir_N_13].Name
 msgid "エリアパトロール：手作り弁当装備時、攻撃力/行動力増加"
-msgstr "エリアパトロール: 手作り弁当装備時、攻撃力 / Action Speed Up"
+msgstr "Domain Patrol: When Lunch Box is Equipped Attack and Action Speed Up"
 
 #  Generated Partial Match; Korean Text: '원초적 본능 : 공격력+{0}%'
 #: BuffEffect[Effect_3P_Fenrir_N_14].BuffEffectType1_Desc
@@ -1226,10 +1226,10 @@ msgstr "Reliable Big Sis: Accuracy +{0}% (Bioroid)"
 msgid "頼もしい長女：味方バイオロイド攻撃力/クリティカル率/命中率増加"
 msgstr "Reliable Big Sis: Attack / Crit Chance / Accuracy Up for Bioroids"
 
-#  Korean Text: '강화 근력 : HP 50% 이하 시, 받는 피해 감소'
+#  Generated Partial Match; Korean Text: '강화 근력 : HP 50% 이하 시, 받는 피해 감소'
 #: BuffEffect[Effect_3P_Labiata_N_11].Name
 msgid "強化筋力：HP50%以下の時、受けるダメージ減少"
-msgstr ""
+msgstr "Enhanced Muscles: Reduce Damage Taken at 50% HP or less"
 
 #  Generated Partial Match; Korean Text: '기능 오류 : 적중 / 회피 {0}% (치명타 시)'
 #: BuffEffect[Effect_3P_Rhea_N_1].BuffEffectType4_Desc
@@ -1463,30 +1463,30 @@ msgstr ""
 "Hidden True Nature: Attack / Critical Rate / Damage Received Increase / "
 "Defense Penetration"
 
-#  Korean Text: '해충 처리 : 적 HP% 낮을수록 피해량+{0}%'
+#  Generated Partial Match; Korean Text: '해충 처리 : 적 HP% 낮을수록 피해량+{0}%'
 #: BuffEffect[Effect_3P_ScissorsLise_N_4].BuffEffectType1_Desc
 msgid "害虫駆除：敵のHP%が低いほどダメージ量+{0}%"
-msgstr ""
+msgstr "Pest Extermination: Damage increases +{0}% as enemy HP decreases"
 
 #  Generated Partial Match; Korean Text: '해충…!! : 행동력+{0}%'
 #: BuffEffect[Effect_3P_ScissorsLise_N_4].BuffEffectType2_Desc
 msgid "害虫…!!：行動力+{0}%"
 msgstr "害虫…!!: Action Speed +{0}%"
 
-#  Korean Text: '해충 처리 : 공격 대상의 HP%가 낮을수록 피해량 증가'
+#  Generated Partial Match; Korean Text: '해충 처리 : 공격 대상의 HP%가 낮을수록 피해량 증가'
 #: BuffEffect[Effect_3P_ScissorsLise_N_4].Name
 msgid "害虫駆除：攻撃対象のHP%が低いほどダメージ量アップ"
-msgstr ""
+msgstr "Pest Extermination: Damage increases as enemy HP decreases"
 
 #  Generated Partial Match; Korean Text: '정원사의 본성 : 방어 관통+{0}%'
 #: BuffEffect[Effect_3P_ScissorsLise_N_13].BuffEffectType1_Desc
 msgid "庭師の本性：防御貫通+{0}%"
-msgstr "庭師の本性: Defense Penetration +{0}%"
+msgstr "Gardener's True Nature: Defense Penetration +{0}%"
 
-#  Korean Text: '해충 처리 : 스쿼드 내에 리리스가 있는 경우 행동력 증가'
+#  Generated Partial Match; Korean Text: '해충 처리 : 스쿼드 내에 리리스가 있는 경우 행동력 증가'
 #: BuffEffect[Effect_3P_ScissorsLise_N_14].Name
 msgid "害虫駆除：分隊内にリリスが居る場合、行動力増加"
-msgstr ""
+msgstr "Pest Extermination: Increase Speed when Lilith is in Squad"
 
 #  Generated Partial Match; Korean Text: '재료 손질 : 방어력 {0}%'
 #: BuffEffect[Effect_3P_Sowan_N_1].BuffEffectType1_Desc
@@ -1730,7 +1730,7 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '고고도 스캐닝 : 방어 관통'
 #: BuffEffect[Effect_AGS_Aeda_N_11].Name
 msgid "高高度スキャン：防御貫通"
-msgstr "高高度スキャン: Defense Penetration"
+msgstr "High-Altitude Scanning: Defense Penetration"
 
 #  Korean Text: '집속 입자포 : 도발 / 공격력 / 적중 감소'
 #: BuffEffect[Effect_AGS_Albatross_N_1].Name
@@ -1750,7 +1750,7 @@ msgstr "Taunt Target"
 #  Generated Partial Match; Korean Text: '라이트닝 태클 : 행동 불가'
 #: BuffEffect[Effect_AGS_Albatross_N_2].Name
 msgid "ライトニングタックル：行動不可/挑発/回避率減少"
-msgstr "ライトニングタックル: 行動不可 / Taunt / Evasion Reduction"
+msgstr "ライトニングタックル: Stunned / Taunt / Evasion Reduction"
 
 #  Generated Partial Match; Korean Text: '전술지휘 : 공격력+{0}%'
 #: BuffEffect[Effect_AGS_Albatross_N_3].BuffEffectType1_Desc
@@ -1817,10 +1817,10 @@ msgstr ""
 msgid "エネルギーフィールド：ダメージ無効化力場展開"
 msgstr ""
 
-#  Korean Text: '고압 전류 : 행동 불가'
+#  Generated Partial Match; Korean Text: '고압 전류 : 행동 불가'
 #: BuffEffect[Effect_AGS_Albatross_N_12].Name
 msgid "高圧電流：行動不可"
-msgstr ""
+msgstr "高圧電流: Stunned"
 
 #  Generated Partial Match; Korean Text: '현장 지휘 : 회피 증가 (자신)'
 #: BuffEffect[Effect_AGS_Albatross_N_14].Name
@@ -2169,10 +2169,10 @@ msgstr "Mobile Stronghold: Change to Stationary Mode"
 msgid "移動型陣地：固定型に変形"
 msgstr "Mobile Stronghold: Change to Stationary Mode"
 
-#  Korean Text: '로켓 배쉬 : 행동 불능'
+#  Generated Partial Match; Korean Text: '로켓 배쉬 : 행동 불능'
 #: BuffEffect[Effect_AGS_Gigantes_N_1].BuffEffectType1_Desc
 msgid "ロケットバッシュ：行動不可"
-msgstr ""
+msgstr "ロケットバッシュ: Stunned"
 
 #  Generated Partial Match; Korean Text: '로켓 배쉬 : 일정 확률로 행동 불가'
 #: BuffEffect[Effect_AGS_Gigantes_N_1].Name
@@ -2552,7 +2552,7 @@ msgstr "攻撃牽制: Damage Taken +{0}%"
 #  Generated Partial Match; Korean Text: '견제 사격 : 공격력 / 치명타 감소 / 받는 피해 증가'
 #: BuffEffect[Effect_AGS_SpartanA_N_1].Name
 msgid "牽制射撃：攻撃力/クリティカル率減少/受けるダメージ増加"
-msgstr "牽制射撃: Attack / Reduced Crit Rate / 受けるダメージ増加"
+msgstr "Diversion Shot: Attack / Reduced Crit Rate / 受けるダメージ増加"
 
 #  Korean Text: '섬광탄 : AP {0}'
 #: BuffEffect[Effect_AGS_SpartanA_N_2].BuffEffectType1_Desc
@@ -2807,7 +2807,7 @@ msgstr "Commence Suppression: AP +{0}"
 #  Generated Partial Match; Korean Text: '전원 돌격! : 공격력 / 치명타 증가'
 #: BuffEffect[Effect_BR_AS12TurtleDragon_N_13].Name
 msgid "全員突撃!：攻撃力/クリティカル率増加"
-msgstr "全員突撃!: Attack / Critical Hit Rate"
+msgstr "Everyone Charge!: Attack / Critical Hit Rate"
 
 #  Korean Text: '피해량+{0}% (보호기)'
 #: BuffEffect[Effect_BR_BeastHunter_N_1].BuffEffectType1_Desc
@@ -2904,7 +2904,7 @@ msgstr "標的共有: Critical Hit Rate +{0}%"
 #  Generated Partial Match; Korean Text: '감적 공유 : AP / 사거리 / 공격력 / 적중 / 치명타 증가'
 #: BuffEffect[Effect_BR_Bheur_N_2].Name
 msgid "標的共有：AP/射程距離/攻撃力/命中率/クリティカル率増加"
-msgstr "標的共有: AP / 射程距離 / Attack / Accuracy / Critical Hit Rate"
+msgstr "標的共有: AP / Range / Attack / Accuracy / Critical Hit Rate"
 
 #  Generated Partial Match; Korean Text: '안전 과민증 : 공격력+{0}%'
 #: BuffEffect[Effect_BR_Bheur_N_3].BuffEffectType1_Desc
@@ -2934,12 +2934,12 @@ msgstr "心配性: HP75%以下の味方の攻撃力 / Defense / Action Speed Up 
 #  Generated Partial Match; Korean Text: '감적 공유 : 사거리 / 공격력 / 적중 / 치명타 증가'
 #: BuffEffect[Effect_BR_Bheur_N_11].Name
 msgid "標的共有：射程距離/攻撃力/命中率/クリティカル率増加"
-msgstr "標的共有: 射程距離 / Attack / Accuracy / Critical Hit Rate"
+msgstr "標的共有: Range / Attack / Accuracy / Critical Hit Rate"
 
 #  Generated Partial Match; Korean Text: '감적 공유 : 사거리 / 공격력 / 적중 / 치명타 증가 (공격기)'
 #: BuffEffect[Effect_BR_Bheur_N_12].Name
 msgid "標的共有：射程距離/攻撃力/命中率/クリティカル率増加(攻撃機)"
-msgstr "標的共有: 射程距離 / Attack / Accuracy / Critical Hit Rate (Attacker)"
+msgstr "標的共有: Range / Attack / Accuracy / Critical Hit Rate (Attacker)"
 
 #  Generated Partial Match; Korean Text: '기총 점사 : 적중 {0}%'
 #: BuffEffect[Effect_BR_Blackhound_N_1].BuffEffectType2_Desc
@@ -3129,10 +3129,10 @@ msgstr "機関砲けん制: Critical Hit Rate {0}%"
 msgid "機関砲射撃：攻撃力/クリティカル率減少/防御減少対象ダメージ量増加"
 msgstr "機関砲射撃: Attack / Reduced Crit Rate / 防御減少対象ダメージ量増加"
 
-#  Korean Text: '주포 발사 : 방어 관통 {0}%'
+#  Generated Partial Match; Korean Text: '주포 발사 : 방어 관통 {0}%'
 #: BuffEffect[Effect_BR_BloodyPanther_N_2].BuffEffectType1_Desc
 msgid "主砲発射：防御貫通 {0}%"
-msgstr ""
+msgstr "主砲発射: Defense Penetration {0}%"
 
 #  Generated Partial Match; Korean Text: '주포 발사 : 대 경장 피해량+{0}%'
 #: BuffEffect[Effect_BR_BloodyPanther_N_2].BuffEffectType2_Desc
@@ -3609,7 +3609,7 @@ msgstr "テスト不合格: Push Back / Defense Reduction"
 #  Generated Partial Match; Korean Text: '실험 대상 모집! : 앞으로 {0}칸 이동'
 #: BuffEffect[Effect_BR_DrM_N_2].BuffEffectType1_Desc
 msgid "実験対象募集!：前に{0}マス移動"
-msgstr "Recruiting Test Subjects!: 前に{0}マス移動"
+msgstr "Recruiting Test Subjects!: Move Forward {0} Spaces"
 
 #  Generated Partial Match; Korean Text: '실험 대상 모집! : 이동 불가'
 #: BuffEffect[Effect_BR_DrM_N_2].BuffEffectType2_Desc
@@ -3686,20 +3686,20 @@ msgstr ""
 msgid "分析しました!：次の敵情報獲得時、次の戦闘AP増加"
 msgstr ""
 
-#  Korean Text: '테스트 완료! : 행동 불가'
+#  Generated Partial Match; Korean Text: '테스트 완료! : 행동 불가'
 #: BuffEffect[Effect_BR_DrM_N_11].BuffEffectType1_Desc
 msgid "テスト完了!：行動不可"
-msgstr ""
+msgstr "テスト完了!: Stunned"
 
 #  Generated Partial Match; Korean Text: '테스트 완료! : 받는 피해+{0}%'
 #: BuffEffect[Effect_BR_DrM_N_11].BuffEffectType2_Desc
 msgid "テスト完了!：受けるダメージ+{0}%"
 msgstr "テスト完了!: Damage Taken +{0}%"
 
-#  Korean Text: '테스트 불합격 : 행동 불가'
+#  Generated Partial Match; Korean Text: '테스트 불합격 : 행동 불가'
 #: BuffEffect[Effect_BR_DrM_N_11].Name
 msgid "テスト不合格：行動不可"
-msgstr ""
+msgstr "テスト不合格: Stunned"
 
 #  Generated Partial Match; Korean Text: '실험 준비 : AP 감소'
 #: BuffEffect[Effect_BR_DrM_N_12].Name
@@ -3973,7 +3973,7 @@ msgstr "試作EFP弾: Attack +{0}%"
 #  Generated Partial Match; Korean Text: '시제 EFP탄 : 공격력 / 방어 관통 증가'
 #: BuffEffect[Effect_BR_Impet_N_11].Name
 msgid "試作EFP弾：攻撃力/防御貫通増加"
-msgstr "試作EFP弾: Attack / 防御貫通増加"
+msgstr "試作EFP弾: Attack / Increased Defense Penetration"
 
 #  Korean Text: '중 기관포 : 대 경장형 피해량+{0}%'
 #: BuffEffect[Effect_BR_Io_N_1].BuffEffectType2_Desc
@@ -4886,7 +4886,9 @@ msgstr "どんどんどんどんかかってこい!: {0}% Damage Reduction"
 #  Generated Partial Match; Korean Text: '전투 과몰입 : 전투 속행 시, 공격력 / 치명타 / 행동력 증가'
 #: BuffEffect[Effect_BR_Nereid_N_16].Name
 msgid "バトルジャンキー：戦闘続行時、攻撃力/クリティカル率/行動力増加"
-msgstr "バトルジャンキー: 戦闘続行時、攻撃力 / Critical Chance / Action Speed Up"
+msgstr ""
+"Battle Overcommitment: For the Wave, Attack Up / Critical Chance / Action "
+"Speed Up"
 
 #  Generated Partial Match; Korean Text: '피해량+{0}% (경장/중장)'
 #: BuffEffect[Effect_BR_NightAngel_N_1].BuffEffectType1_Desc
@@ -4956,52 +4958,52 @@ msgstr "レーダードローン: Accuracy +{0}%"
 #  Generated Partial Match; Korean Text: '극도의 불편함 (다이카) : 공격력+{0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_12].BuffEffectType1_Desc
 msgid "極度の不快感(ダイカ)：攻撃力+{0}%"
-msgstr "極度の不快感(ダイカ): Attack +{0}%"
+msgstr "Extreme Discomfort (ダイカ): Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (다이카) : 치명타+{0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_12].BuffEffectType2_Desc
 msgid "極度の不快感(ダイカ)：クリティカル率+{0}%"
-msgstr "極度の不快感(ダイカ): Critical Hit Rate +{0}%"
+msgstr "Extreme Discomfort (ダイカ): Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (다이카) : 행동력 {0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_12].BuffEffectType3_Desc
 msgid "極度の不快感(ダイカ)：行動力{0}%"
-msgstr "極度の不快感(ダイカ): Action Speed {0}%"
+msgstr "Extreme Discomfort (ダイカ): Action Speed {0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 : 공격력 /치명타 증가 / 행동력 감소'
 #: BuffEffect[Effect_BR_NightAngel_N_12].Name
 msgid "極度の不快感：攻撃力/クリティカル率増加/行動力減少"
-msgstr "極度の不快感: Attack / Critical Hit Rate / Reduced Action Speed"
+msgstr "Extreme Discomfort: Attack / Critical Hit Rate / Reduced Action Speed"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (실피드) : 공격력+{0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_13].BuffEffectType1_Desc
 msgid "極度の不快感(シルフィード)：攻撃力+{0}%"
-msgstr "極度の不快感(シルフィード): Attack +{0}%"
+msgstr "Extreme Discomfort (シルフィード): Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (실피드) : 치명타+{0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_13].BuffEffectType2_Desc
 msgid "極度の不快感(シルフィード)：クリティカル率+{0}%"
-msgstr "極度の不快感(シルフィード): Critical Hit Rate +{0}%"
+msgstr "Extreme Discomfort (シルフィード): Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (실피드) : 행동력 {0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_13].BuffEffectType3_Desc
 msgid "極度の不快感(シルフィード)：行動力{0}%"
-msgstr "極度の不快感(シルフィード): Action Speed {0}%"
+msgstr "Extreme Discomfort (シルフィード): Action Speed {0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (지니야) : 공격력+{0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_14].BuffEffectType1_Desc
 msgid "極度の不快感(ジニヤー)：攻撃力+{0}%"
-msgstr "極度の不快感(ジニヤー): Attack +{0}%"
+msgstr "Extreme Discomfort (ジニヤー): Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (지니야) : 치명타+{0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_14].BuffEffectType2_Desc
 msgid "極度の不快感(ジニヤー)：クリティカル率+{0}%"
-msgstr "極度の不快感(ジニヤー): Critical Hit Rate +{0}%"
+msgstr "Extreme Discomfort (ジニヤー): Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '극도의 불편함 (지니야) : 행동력 {0}%'
 #: BuffEffect[Effect_BR_NightAngel_N_14].BuffEffectType3_Desc
 msgid "極度の不快感(ジニヤー)：行動力{0}%"
-msgstr "極度の不快感(ジニヤー): Action Speed {0}%"
+msgstr "Extreme Discomfort (ジニヤー): Action Speed {0}%"
 
 #  Korean Text: '집중 공격 : 추가 피해'
 #: BuffEffect[Effect_BR_Nymph_N_1].Name
@@ -5138,10 +5140,10 @@ msgstr "Coordinated Bombardment: Crit Rate +{0}% (Self)"
 msgid "連携爆撃：攻撃力/クリティカル率増加"
 msgstr "Coordinated Bombardment: Attack / Critical Hit Rate Up"
 
-#  Korean Text: '연계 폭격 : 공격 후, 아군 기동형 공격 지원'
+#  Generated Partial Match; Korean Text: '연계 폭격 : 공격 후, 아군 기동형 공격 지원'
 #: BuffEffect[Effect_BR_PA00EL_N_7].Name
 msgid "連携爆撃：攻撃後、味方機動型攻撃支援"
-msgstr ""
+msgstr "Coordinated Bombardment: 攻撃後、味方機動型攻撃支援"
 
 #  Korean Text: '정찰 비행 : 적중 / 회피 증가'
 #: BuffEffect[Effect_BR_PA00EL_N_11].Name
@@ -5403,7 +5405,7 @@ msgstr "熟練の照準: Critical Hit Rate +{0}%"
 #  Generated Partial Match; Korean Text: '숙련된 조준 : 치명타 / 적중 / 방어 관통 증가'
 #: BuffEffect[Effect_BR_Phoenix_N_4].Name
 msgid "熟練の照準：クリティカル率/命中率/防御貫通増加"
-msgstr "熟練の照準: Critical Chance / Accuracy / 防御貫通増加"
+msgstr "熟練の照準: Critical Chance / Accuracy / Increased Defense Penetration"
 
 #  Korean Text: '포격 난사 : 회피 감소 대상 추가 피해'
 #: BuffEffect[Effect_BR_Phoenix_N_11].Name
@@ -5443,7 +5445,7 @@ msgstr "Warning Shot: Taunt Target (Pinto)"
 #  Generated Partial Match; Korean Text: '위협 사격 : 치명타 {0}%'
 #: BuffEffect[Effect_BR_PoniesAnger_N_1].BuffEffectType2_Desc
 msgid "威嚇射撃：命中率{0}%"
-msgstr "威嚇射撃: Accuracy {0}%"
+msgstr "Warning Shot: Accuracy {0}%"
 
 #  Korean Text: '주의 끌기 : 대상 도발, 치명타 / 적중 감소'
 #: BuffEffect[Effect_BR_PoniesAnger_N_1].Name
@@ -5453,7 +5455,7 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '곡예 비행 : {0}% 위력으로 반격'
 #: BuffEffect[Effect_BR_PoniesAnger_N_2].BuffEffectType1_Desc
 msgid "曲芸飛行：回避率+{0}%(自分)"
-msgstr "曲芸飛行: Evasion +{0}% (Self)"
+msgstr "Acrobatic Flight: Evasion +{0}% (Self)"
 
 #  Korean Text: '곡예 비행 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_BR_PoniesAnger_N_2].BuffEffectType2_Desc
@@ -5473,7 +5475,7 @@ msgstr "Acrobatic Flight: Target Protection"
 #  Generated Partial Match; Korean Text: '곡예 비행 : 표식 설정 / 받는 피해 감소 / 반격'
 #: BuffEffect[Effect_BR_PoniesAnger_N_2].Name
 msgid "曲芸飛行：回避率増加/受けるダメージ減少/反撃"
-msgstr "曲芸飛行: Evasion Up / Damage Reduction / Counterattack"
+msgstr "Acrobatic Flight: Evasion Up / Damage Reduction / Counterattack"
 
 #  Korean Text: '편대 호위: 회피+{0}% (기동)'
 #: BuffEffect[Effect_BR_PoniesAnger_N_3].BuffEffectType1_Desc
@@ -5498,7 +5500,7 @@ msgstr "Escort Squadron: Protect (Flying)"
 #  Generated Partial Match; Korean Text: '편대 호위 : 인접 기동형 적중 / 회피 / AP 증가'
 #: BuffEffect[Effect_BR_PoniesAnger_N_3].Name
 msgid "編隊護衛：自分の前方を除く隣接した機動型の味方を保護。保護対象は命中率/回避率/AP増加"
-msgstr "編隊護衛: 自分の前方を除く隣接した機動型の味方を保護。保護対象は命中率 / Evasion / AP Up"
+msgstr "Escort Squadron: 自分の前方を除く隣接した機動型の味方を保護。保護対象は命中率 / Evasion / AP Up"
 
 #  Generated Partial Match; Korean Text: '돌입 준비 : 공격력+{0}%'
 #: BuffEffect[Effect_BR_PoniesAnger_N_4].BuffEffectType1_Desc
@@ -5528,7 +5530,7 @@ msgstr "Acrobatic Flight: Evasion +{0}%"
 #  Generated Partial Match; Korean Text: '곡예 비행 개시 : 회피 증가'
 #: BuffEffect[Effect_BR_PoniesAnger_N_11].Name
 msgid "曲芸飛行：回避率増加"
-msgstr "曲芸飛行: Evasion Up"
+msgstr "Acrobatic Flight: Evasion Up"
 
 #  Korean Text: '곡예 비행 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_BR_PoniesAnger_N_12].BuffEffectType1_Desc
@@ -5558,17 +5560,17 @@ msgstr "Cohesive Bullet: Evasion {0}%"
 #  Generated Partial Match; Korean Text: '점착탄 : 받는 피해+{0}%'
 #: BuffEffect[Effect_BR_PXSilky_N_1].BuffEffectType2_Desc
 msgid "粘着弾：受けるダメージ+{0}%"
-msgstr "粘着弾: Damage Taken +{0}%"
+msgstr "Cohesive Bullet: Damage Taken +{0}%"
 
 #  Generated Partial Match; Korean Text: '점착탄 : 이동 불가'
 #: BuffEffect[Effect_BR_PXSilky_N_1].BuffEffectType3_Desc
 msgid "粘着弾：移動不可"
-msgstr "粘着弾: Rooted"
+msgstr "Cohesive Bullet: Rooted"
 
 #  Generated Partial Match; Korean Text: '점착탄 : 회피 감소 / 이동 불가 / 받는 피해 증가'
 #: BuffEffect[Effect_BR_PXSilky_N_1].Name
 msgid "粘着弾：回避率減少/移動不可/受けるダメージ増加"
-msgstr "粘着弾: Evasion Reduction / Rooted / 受けるダメージ増加"
+msgstr "Cohesive Bullet: Evasion Reduction / Rooted / 受けるダメージ増加"
 
 #  Generated Partial Match; Korean Text: '공격력+{0}% (공격기)'
 #: BuffEffect[Effect_BR_PXSilky_N_2].BuffEffectType3_Desc
@@ -6011,7 +6013,7 @@ msgstr "見守っています…: Action Speed +{0}%"
 #  Generated Partial Match; Korean Text: '첩보망 공유 : 행동력 증가 (대기 시)'
 #: BuffEffect[Effect_BR_Shirayuri_N_18].Name
 msgid "諜報共有：行動力増加(待機時)"
-msgstr "諜報共有: Action Speed Up (待機時)"
+msgstr "諜報共有: Action Speed Up (On idle)"
 
 #  Korean Text: '정보 공유 : 회피 효과 분석'
 #: BuffEffect[Effect_BR_Shirayuri_N_19].Name
@@ -6063,10 +6065,10 @@ msgstr "Accurate Bombardment: Mark / 移動不可対象ダメージ量増加"
 msgid "焦土化砲撃：ダメージ量+{0}%(軽装/重装)"
 msgstr "焦土化砲撃: Damage +{0}% (Light / Heavy)"
 
-#  Korean Text: '포탄 재장전 : 행동 불가 (자신 / 해제 불가)'
+#  Generated Partial Match; Korean Text: '포탄 재장전 : 행동 불가 (자신 / 해제 불가)'
 #: BuffEffect[Effect_BR_Sirene_CH_2].BuffEffectType2_Desc
 msgid "砲弾再装填：行動不可(自分/解除不可)"
-msgstr ""
+msgstr "砲弾再装填: Stunned (自分 / 解除不可)"
 
 #  Korean Text: '초토화 포격 : 경장 / 중장형 피해량 증가'
 #: BuffEffect[Effect_BR_Sirene_CH_2].Name
@@ -6086,17 +6088,17 @@ msgstr "砲撃モード: Defense Penetration +{0}%"
 #  Generated Partial Match; Korean Text: '포격 모드 : 공격력 / 방어 관통 증가'
 #: BuffEffect[Effect_BR_Sirene_CH_4].Name
 msgid "砲撃モード：攻撃力/防御貫通増加"
-msgstr "砲撃モード: Attack / 防御貫通増加"
+msgstr "砲撃モード: Attack / Increased Defense Penetration"
 
 #  Generated Partial Match; Korean Text: '포탄 재장전 : 행동 불가 (해제 불가)'
 #: BuffEffect[Effect_BR_Sirene_CH_11].BuffEffectType1_Desc
 msgid "砲弾再装填：行動不可(解除不可)"
-msgstr "砲弾再装填: 行動不可 (Cannot be released)"
+msgstr "砲弾再装填: Stunned (Cannot be released)"
 
-#  Korean Text: '초토화 포격 : 행동 불가'
+#  Generated Partial Match; Korean Text: '초토화 포격 : 행동 불가'
 #: BuffEffect[Effect_BR_Sirene_CH_11].Name
 msgid "焦土化砲撃：行動不可"
-msgstr ""
+msgstr "焦土化砲撃: Stunned"
 
 #  Generated Partial Match; Korean Text: '요격 모드 : 적중+{0}%'
 #: BuffEffect[Effect_BR_Sirene_CH_12].BuffEffectType1_Desc
@@ -6231,7 +6233,7 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '요격 모드 : 포격 모드 변환 / 공격력 / 방어 관통 증가'
 #: BuffEffect[Effect_BR_Sirene_N_14].Name
 msgid "迎撃モード：砲撃モード変換/攻撃力/防御貫通増加"
-msgstr "迎撃モード: 砲撃モード変換 / Attack / 防御貫通増加"
+msgstr "迎撃モード: 砲撃モード変換 / Attack / Increased Defense Penetration"
 
 #  Generated Partial Match; Korean Text: '관측 포격 : 방어막 / 피해 감소 무시'
 #: BuffEffect[Effect_BR_Sirene_N_15].BuffEffectType1_Desc
@@ -6266,12 +6268,12 @@ msgstr "Rush: Increase damage dealt to further enemies"
 #  Generated Partial Match; Korean Text: '속도 승부야! : 지정 대상 보호 (기동)'
 #: BuffEffect[Effect_BR_Sleipnir_N_3].BuffEffectType1_Desc
 msgid "スピード勝負よ!：指定対象保護(機動)"
-msgstr "スピード勝負よ!: Protect Target (Flying)"
+msgstr "Let's Speed Race!: Protect Target (Flying)"
 
 #  Generated Partial Match; Korean Text: '속도 승부야! : 행동력+{0}%'
 #: BuffEffect[Effect_BR_Sleipnir_N_3].BuffEffectType2_Desc
 msgid "スピード勝負よ!：行動力+{0}%"
-msgstr "スピード勝負よ!: Action Speed +{0}%"
+msgstr "Let's Speed Race!: Action Speed +{0}%"
 
 #  Generated Partial Match; Korean Text: '좀 더 힘내봐! : 공격력+{0}% (3중첩)'
 #: BuffEffect[Effect_BR_Sleipnir_N_3].BuffEffectType3_Desc
@@ -6288,10 +6290,10 @@ msgstr "もっと頑張れ!: Critical Hit Rate +{0}% (3段階)"
 msgid "置いてくよ?：回避率/行動力減少解除(5重複)"
 msgstr "置いてくよ?: Evasion / Remove Action Speed Reduction (5 stacks)"
 
-#  Korean Text: '속도 승부야! : 보호기 제외 기동형 아군 보호'
+#  Generated Partial Match; Korean Text: '속도 승부야! : 보호기 제외 기동형 아군 보호'
 #: BuffEffect[Effect_BR_Sleipnir_N_3].Name
 msgid "スピード勝負よ!：機動型の味方を保護(保護機を除く)"
-msgstr ""
+msgstr "Let's Speed Race!: Target Protect Flying Allies (Except Defender)"
 
 #  Generated Partial Match; Korean Text: '어딜 보는거야? : 행동력+{0}%'
 #: BuffEffect[Effect_BR_Sleipnir_N_4].BuffEffectType1_Desc
@@ -6316,32 +6318,32 @@ msgstr "どこ見てるの?: 回避率時、行動力増加 / 3回重複時、�
 #  Generated Partial Match; Korean Text: '멈출 수 없는 질주 : 회피 감소 무효'
 #: BuffEffect[Effect_BR_Sleipnir_N_5].BuffEffectType1_Desc
 msgid "止められない疾走：回避率減少解除"
-msgstr "止められない疾走: Remove Evasion Reduction"
+msgstr "Unstoppable Gallop: Remove Evasion Reduction"
 
 #  Generated Partial Match; Korean Text: '멈출 수 없는 질주 : 행동력 감소 무효'
 #: BuffEffect[Effect_BR_Sleipnir_N_5].BuffEffectType2_Desc
 msgid "止められない疾走：行動力減少解除"
-msgstr "止められない疾走: Remove Action Speed Reduction"
+msgstr "Unstoppable Gallop: Remove Action Speed Reduction"
 
 #  Generated Partial Match; Korean Text: '멈출 수 없는 질주 : 회피+{0}% (최대)'
 #: BuffEffect[Effect_BR_Sleipnir_N_5].BuffEffectType3_Desc
 msgid "止められない疾走：回避率+{0}%(最大)"
-msgstr "止められない疾走: Evasion +{0}% (Max)"
+msgstr "Unstoppable Gallop: Evasion +{0}% (Max)"
 
 #  Generated Partial Match; Korean Text: '멈출 수 없는 질주 : 행동력 / 회피 감소 효과 해제, 회피 증가'
 #: BuffEffect[Effect_BR_Sleipnir_N_5].Name
 msgid "止められない疾走：行動力/回避率減少効果解除、回避率増加"
-msgstr "止められない疾走: Action Speed / 回避率減少効果解除、回避率増加"
+msgstr "Unstoppable Gallop: Action Speed / 回避率減少効果解除、回避率増加"
 
 #  Generated Partial Match; Korean Text: '돌진 : 공격력+{0}%'
 #: BuffEffect[Effect_BR_Sleipnir_N_11].BuffEffectType1_Desc
 msgid "突進：攻撃力+{0}%"
 msgstr "Rush: Attack +{0}%"
 
-#  Korean Text: '속도 승부야! : 인접 아군 행동력 증가'
+#  Generated Partial Match; Korean Text: '속도 승부야! : 인접 아군 행동력 증가'
 #: BuffEffect[Effect_BR_Sleipnir_N_12].Name
 msgid "スピード勝負よ!：隣接した味方の行動力増加"
-msgstr ""
+msgstr "Let's Speed Race!: 隣接した味方の行動力増加"
 
 #  Korean Text: '멈출 수 없는 질주 : 회피+{0}%'
 #: BuffEffect[Effect_BR_Sleipnir_N_13].BuffEffectType1_Desc
@@ -6377,7 +6379,7 @@ msgstr "もっと頑張れ!: Critical Hit Rate +{0}%"
 #  Generated Partial Match; Korean Text: '속도 승부야! : 아군 공격력 / 치명타 증가'
 #: BuffEffect[Effect_BR_Sleipnir_N_17].Name
 msgid "スピード勝負よ!：味方攻撃力/クリティカル率増加"
-msgstr "スピード勝負よ!: 味方攻撃力 / Critical Hit Rate"
+msgstr "Let's Speed Race!: 味方攻撃力 / Critical Hit Rate"
 
 #  Generated Partial Match; Korean Text: '두고 간다? : 회피 감소 해제'
 #: BuffEffect[Effect_BR_Sleipnir_N_18].BuffEffectType1_Desc
@@ -6392,7 +6394,7 @@ msgstr "置いてくよ?: Remove Action Speed Reduction"
 #  Generated Partial Match; Korean Text: '속도 승부야! : 회피 / 행동력 감소 해제'
 #: BuffEffect[Effect_BR_Sleipnir_N_18].Name
 msgid "スピード勝負よ!：回避率/行動力減少解除"
-msgstr "スピード勝負よ!: Evasion / Remove Action Speed Reduction"
+msgstr "Let's Speed Race!: Evasion / Remove Action Speed Reduction"
 
 #  Generated Partial Match; Korean Text: '대 장갑 미사일 : 피해량+{0}% (중장)'
 #: BuffEffect[Effect_BR_Spriggan_N_1].BuffEffectType1_Desc
@@ -6434,10 +6436,10 @@ msgstr "ルーマーコレクター: Action Speed +{0}%"
 msgid "ルーマーコレクター：攻撃力/クリティカル率/行動力増加"
 msgstr "ルーマーコレクター: Attack / Crit Chance / Action Speed Up"
 
-#  Korean Text: '대 장갑 미사일 : 방어 관통 증가'
+#  Generated Partial Match; Korean Text: '대 장갑 미사일 : 방어 관통 증가'
 #: BuffEffect[Effect_BR_Spriggan_N_11].Name
 msgid "対装甲ミサイル：防御貫通増加"
-msgstr ""
+msgstr "対装甲ミサイル: Increased Defense Penetration"
 
 #  Generated Partial Match; Korean Text: '60형 LMG : 회피 {0}%'
 #: BuffEffect[Effect_BR_Sylphid_N_1].BuffEffectType1_Desc
@@ -6880,7 +6882,7 @@ msgstr "メインアクター: Defense Penetration +{0}%"
 #  Generated Partial Match; Korean Text: '주연 본능 : 공격력 / 치명타 / 방어 관통 증가'
 #: BuffEffect[Effect_BR_WarWolf_N_3].Name
 msgid "メインアクター：攻撃力/クリティカル率/防御貫通増加"
-msgstr "メインアクター: Attack / Critical Chance / 防御貫通増加"
+msgstr "メインアクター: Attack / Critical Chance / Increased Defense Penetration"
 
 #  Generated Partial Match; Korean Text: '급가속 : 적중+{0}%'
 #: BuffEffect[Effect_BR_WarWolf_N_4].BuffEffectType1_Desc
@@ -11824,52 +11826,52 @@ msgstr "審判: Mark / Increase Damage / Attack / Reduced Crit Rate"
 #  Generated Partial Match; Korean Text: '수호 천사 : 방어막+{0}'
 #: BuffEffect[Effect_DS_Azazel_N_2].BuffEffectType1_Desc
 msgid "守護天使：バリア+{0}"
-msgstr "守護天使: Shield +{0}"
+msgstr "Guardian Angel: Shield +{0}"
 
 #  Generated Partial Match; Korean Text: '수호 천사 : 공격력+{0}%'
 #: BuffEffect[Effect_DS_Azazel_N_2].BuffEffectType2_Desc
 msgid "守護天使：攻撃力+{0}%"
-msgstr "守護天使: Attack +{0}%"
+msgstr "Guardian Angel: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '수호 천사 : 방어력+{0}%'
 #: BuffEffect[Effect_DS_Azazel_N_2].BuffEffectType3_Desc
 msgid "守護天使：防御力+{0}%"
-msgstr "守護天使: Defense +{0}%"
+msgstr "Guardian Angel: Defense +{0}%"
 
 #  Generated Partial Match; Korean Text: '수호 천사 : 적중+{0}%'
 #: BuffEffect[Effect_DS_Azazel_N_2].BuffEffectType4_Desc
 msgid "守護天使：命中率+{0}%"
-msgstr "守護天使: Accuracy +{0}%"
+msgstr "Guardian Angel: Accuracy +{0}%"
 
 #  Generated Partial Match; Korean Text: '수호 천사 : 회피+{0}%'
 #: BuffEffect[Effect_DS_Azazel_N_2].BuffEffectType5_Desc
 msgid "守護天使：回避率+{0}%"
-msgstr "守護天使: Evasion +{0}%"
+msgstr "Guardian Angel: Evasion +{0}%"
 
 #  Generated Partial Match; Korean Text: '수호 천사 : 방어막 / 공격력 / 방어력 / 적중 / 회피 증가'
 #: BuffEffect[Effect_DS_Azazel_N_2].Name
 msgid "守護天使：バリア/攻撃力/防御力/命中率/回避率増加"
-msgstr "守護天使: バリア / Attack / Defense / Accuracy / Evasion Up"
+msgstr "Guardian Angel: Shield / Attack / Defense / Accuracy / Evasion Up"
 
 #  Generated Partial Match; Korean Text: '신의 가호 : 방어막+{0}'
 #: BuffEffect[Effect_DS_Azazel_N_3].BuffEffectType1_Desc
 msgid "神の加護：バリア+{0}"
-msgstr "神の加護: Shield +{0}"
+msgstr "Divine Protection: Shield +{0}"
 
 #  Generated Partial Match; Korean Text: '신의 가호 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_DS_Azazel_N_3].BuffEffectType2_Desc
 msgid "神の加護：受けるダメージ{0}%減少"
-msgstr "神の加護: {0}% Damage Reduction"
+msgstr "Divine Protection: {0}% Damage Reduction"
 
-#  Korean Text: '신의 가호 : 열 보호'
+#  Generated Partial Match; Korean Text: '신의 가호 : 열 보호'
 #: BuffEffect[Effect_DS_Azazel_N_3].BuffEffectType3_Desc
 msgid "神の加護：列保護"
-msgstr ""
+msgstr "Divine Protection: Column Protection"
 
 #  Generated Partial Match; Korean Text: '신의 가호 : 방어막 / 받는 피해 감소 / 열 보호 효과'
 #: BuffEffect[Effect_DS_Azazel_N_3].Name
 msgid "神の加護：バリア/受けるダメージ減少/列保護効果"
-msgstr "神の加護: バリア / Damage Reduction / 列保護効果"
+msgstr "Divine Protection: Shield / Damage Reduction / Column Protection"
 
 #  Generated Partial Match; Korean Text: '재림 : {0} HP 전투 속행 (1회/해제 불가)'
 #: BuffEffect[Effect_DS_Azazel_N_4].BuffEffectType1_Desc
@@ -11934,17 +11936,17 @@ msgstr "審判: Increase Damage / Attack / Reduced Crit Rate / ダメージ量�
 #  Generated Partial Match; Korean Text: '신의 가호 (재림) : 방어막+{0}'
 #: BuffEffect[Effect_DS_Azazel_N_12].BuffEffectType1_Desc
 msgid "神の加護(再臨)：バリア+{0}"
-msgstr "神の加護 (Second Coming): Shield +{0}"
+msgstr "Divine Protection (Second Coming): Shield +{0}"
 
 #  Generated Partial Match; Korean Text: '신의 가호 (재림) : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_DS_Azazel_N_12].BuffEffectType2_Desc
 msgid "神の加護(再臨)：受けるダメージ{0}%減少"
-msgstr "神の加護 (Second Coming): {0}% Damage Reduction"
+msgstr "Divine Protection (Second Coming): {0}% Damage Reduction"
 
 #  Generated Partial Match; Korean Text: '신의 가호 : 방어막 / 받는 피해 감소 (재림)'
 #: BuffEffect[Effect_DS_Azazel_N_12].Name
 msgid "神の加護：バリア/受けるダメージ減少(再臨)"
-msgstr "神の加護: バリア / Damage Reduction (Second Coming)"
+msgstr "Divine Protection: Shield / Damage Reduction (Second Coming)"
 
 #  Generated Partial Match; Korean Text: '재림 : 피해 최소화'
 #: BuffEffect[Effect_DS_Azazel_N_13].BuffEffectType1_Desc
@@ -12279,7 +12281,9 @@ msgstr "デュエリスト: Defense Penetration +{0}%"
 #  Generated Partial Match; Korean Text: '듀얼리스트 : 적 공격 시, 공격력 / 치명타 / 행동력 / 방어 관통 증가'
 #: BuffEffect[Effect_DS_Charlotte_N_19].Name
 msgid "デュエリスト：敵攻撃時、攻撃力/クリティカル率/行動力/防御貫通増加"
-msgstr "デュエリスト: 敵攻撃時、攻撃力 / Critical Chance / Action Speed / 防御貫通増加"
+msgstr ""
+"デュエリスト: 敵攻撃時、攻撃力 / Critical Chance / Action Speed / Increased Defense "
+"Penetration"
 
 #  Generated Partial Match; Korean Text: '듀얼리스트! : 행동력+{0}%'
 #: BuffEffect[Effect_DS_Charlotte_N_20].BuffEffectType1_Desc
@@ -12366,15 +12370,17 @@ msgstr "洗脳の波動: Critical Hit Rate +{0}%"
 msgid "洗脳の波動：防御貫通+{0}%"
 msgstr "洗脳の波動: Defense Penetration +{0}%"
 
-#  Korean Text: '세뇌의 파동 : {0} 지속 피해 (대기 시)'
+#  Generated Partial Match; Korean Text: '세뇌의 파동 : {0} 지속 피해 (대기 시)'
 #: BuffEffect[Effect_DS_Faucre_N_3].BuffEffectType5_Desc
 msgid "洗脳の波動：{0}持続ダメージ(待機時)"
-msgstr ""
+msgstr "洗脳の波動: {0}持続ダメージ (On idle)"
 
 #  Generated Partial Match; Korean Text: '세뇌의 파동 : 공격력 / 적중 / 치명타 / 방어 관통 증가 (바이오)'
 #: BuffEffect[Effect_DS_Faucre_N_3].Name
 msgid "洗脳の波動：攻撃力/命中率/クリティカル率/防御貫通増加(バイオ)"
-msgstr "洗脳の波動: Attack / Accuracy / Critical Chance / 防御貫通増加 (Bio)"
+msgstr ""
+"洗脳の波動: Attack / Accuracy / Critical Chance / Increased Defense Penetration "
+"(Bio)"
 
 #  Generated Partial Match; Korean Text: '대마왕 강림! : 공격력+{0}%'
 #: BuffEffect[Effect_DS_Faucre_N_4].BuffEffectType1_Desc
@@ -12459,7 +12465,9 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '세뇌의 파동! : 공격력 / 적중 / 치명타 / 방어 관통 증가 (바이오)'
 #: BuffEffect[Effect_DS_Faucre_N_13].Name
 msgid "洗脳の波動!：攻撃力/命中率/クリティカル率/防御貫通増加(バイオ)"
-msgstr "洗脳の波動!: Attack / Accuracy / Critical Chance / 防御貫通増加 (Bio)"
+msgstr ""
+"洗脳の波動!: Attack / Accuracy / Critical Chance / Increased Defense Penetration "
+"(Bio)"
 
 #  Korean Text: '헬 인페르노 : 점화 효과'
 #: BuffEffect[Effect_DS_Faucre_N_14].Name
@@ -12706,15 +12714,15 @@ msgstr ""
 msgid "目標設定エラー：行動力{0}%"
 msgstr "目標設定エラー: Action Speed {0}%"
 
-#  Korean Text: '목표 설정 오류 : 스킬 사용 불가'
+#  Generated Partial Match; Korean Text: '목표 설정 오류 : 스킬 사용 불가'
 #: BuffEffect[Effect_MP_AMG11AA_N_4].BuffEffectType2_Desc
 msgid "目標設定エラー：スキル使用不可"
-msgstr ""
+msgstr "目標設定エラー: Cannot use Skill"
 
 #  Generated Partial Match; Korean Text: '목표 설정 오류 : 행동력 감소 / 스킬 사용 불가'
 #: BuffEffect[Effect_MP_AMG11AA_N_4].Name
 msgid "目標設定エラー：行動力減少/スキル使用不可"
-msgstr "目標設定エラー: Reduced Action Speed / スキル使用不可"
+msgstr "目標設定エラー: Reduced Action Speed / Cannot use Skill"
 
 #  Generated Partial Match; Korean Text: '회피 견제 사격 : 회피 {0}%'
 #: BuffEffect[Effect_MP_AMG11AA_N_11].BuffEffectType1_Desc
@@ -12836,10 +12844,10 @@ msgstr "MOP弾頭: Defense Penetration +{0}%"
 msgid "MOP弾頭：バリア/ダメージ減少無視"
 msgstr "MOP弾頭: Ignore Shields / Damage Reduction"
 
-#  Korean Text: 'MOP 탄두 : 방어 관통 증가 / 방어막&피해 감소 무시'
+#  Generated Partial Match; Korean Text: 'MOP 탄두 : 방어 관통 증가 / 방어막&피해 감소 무시'
 #: BuffEffect[Effect_MP_BigChickMG_N_4].Name
 msgid "MOP弾頭：防御貫通増加/バリア&ダメージ減少無視"
-msgstr ""
+msgstr "MOP弾頭: Increased Defense Penetration / バリア&ダメージ減少無視"
 
 #  Generated Partial Match; Korean Text: '레이더 오류 : 적중 {0}%'
 #: BuffEffect[Effect_MP_BigChickMG_N_5].BuffEffectType1_Desc
@@ -12856,15 +12864,15 @@ msgstr ""
 msgid "シールドラッシュ：ダメージ量+{0}%"
 msgstr "シールドラッシュ: Damage +{0}%"
 
-#  Korean Text: '방패 연타 : 행동 불가'
+#  Generated Partial Match; Korean Text: '방패 연타 : 행동 불가'
 #: BuffEffect[Effect_MP_BigChickS_N_1].BuffEffectType2_Desc
 msgid "シールドラッシュ：行動不可"
-msgstr ""
+msgstr "シールドラッシュ: Stunned"
 
-#  Korean Text: '방패 연타 : 이동 불가 대상 피해량 증가 / 행동 불가'
+#  Generated Partial Match; Korean Text: '방패 연타 : 이동 불가 대상 피해량 증가 / 행동 불가'
 #: BuffEffect[Effect_MP_BigChickS_N_1].Name
 msgid "シールドラッシュ：移動不可対象ダメージ量増加/行動不可"
-msgstr ""
+msgstr "シールドラッシュ: 移動不可対象ダメージ量増加 / Stunned"
 
 #  Korean Text: '칙 블로킹 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_MP_BigChickS_N_2].BuffEffectType1_Desc
@@ -12941,10 +12949,10 @@ msgstr "チッククレンチ: Action Speed Up"
 msgid "チッククレンチ：{0}HPで戦闘続行(1回)"
 msgstr "チッククレンチ: Continue Battle at {0} HP (1回)"
 
-#  Korean Text: '칙 근성 발동 : 전투 속행'
+#  Generated Partial Match; Korean Text: '칙 근성 발동 : 전투 속행'
 #: BuffEffect[Effect_MP_BigChickS_N_13].Name
 msgid "チッククレンチ：戦闘続行"
-msgstr ""
+msgstr "チッククレンチ: Battle Continuation"
 
 #  Generated Partial Match; Korean Text: '최후의 근성 : 피해 최소화 (해제 불가)'
 #: BuffEffect[Effect_MP_BigChickS_N_14].BuffEffectType1_Desc
@@ -13242,10 +13250,10 @@ msgstr "戦況収め: Counterattack with {0}% power"
 msgid "現場実習：反撃"
 msgstr "現場実習: Counterattack"
 
-#  Korean Text: '빙결 : 행동 불가'
+#  Generated Partial Match; Korean Text: '빙결 : 행동 불가'
 #: BuffEffect[Effect_MP_Chiller_N_1].BuffEffectType1_Desc
 msgid "氷結：行動不可"
-msgstr ""
+msgstr "氷結: Stunned"
 
 #  Generated Partial Match; Korean Text: '빙결 : 받는 피해+{0}%'
 #: BuffEffect[Effect_MP_Chiller_N_1].BuffEffectType2_Desc
@@ -13434,10 +13442,10 @@ msgstr "ピンポイント砲撃: Defense Penetration +{0}%"
 msgid "ピンポイント砲撃：バリア/ダメージ減少無視"
 msgstr "ピンポイント砲撃: Ignore Shields / Damage Reduction"
 
-#  Korean Text: '핀 포인트 폭격 : 방어 관통 증가 / 방어막&피해 감소 무시'
+#  Generated Partial Match; Korean Text: '핀 포인트 폭격 : 방어 관통 증가 / 방어막&피해 감소 무시'
 #: BuffEffect[Effect_MP_DroneM_N_4].Name
 msgid "ピンポイント砲撃：防御貫通増加/バリア&ダメージ減少無視"
-msgstr ""
+msgstr "ピンポイント砲撃: Increased Defense Penetration / バリア&ダメージ減少無視"
 
 #  Generated Partial Match; Korean Text: '분석 완료 : 행동력+{0}%'
 #: BuffEffect[Effect_MP_DroneM_N_11].BuffEffectType1_Desc
@@ -13524,20 +13532,20 @@ msgstr "ラッシュ: Attack +{0}%"
 msgid "ラッシュ：攻撃力/命中率/クリティカル率/行動力増加&バリア/ダメージ減少無視"
 msgstr "ラッシュ: Attack / Accuracy / Critical Chance / 行動力増加&バリア / ダメージ減少無視"
 
-#  Korean Text: '치명적 오류 : 행동 불가'
+#  Generated Partial Match; Korean Text: '치명적 오류 : 행동 불가'
 #: BuffEffect[Effect_MP_EmperorChick_N_11].BuffEffectType1_Desc
 msgid "致命的エラー：行動不可"
-msgstr ""
+msgstr "致命的エラー: Stunned"
 
 #  Generated Partial Match; Korean Text: '치명적 오류 : 받는 피해+{0}%'
 #: BuffEffect[Effect_MP_EmperorChick_N_11].BuffEffectType2_Desc
 msgid "致命的エラー：受けるダメージ+{0}%"
 msgstr "致命的エラー: Damage Taken +{0}%"
 
-#  Korean Text: '치명적 OS 오류 : 행동 불가 / 받는 피해 증가'
+#  Generated Partial Match; Korean Text: '치명적 OS 오류 : 행동 불가 / 받는 피해 증가'
 #: BuffEffect[Effect_MP_EmperorChick_N_11].Name
 msgid "致命的OSエラー：行動不可/受けるダメージ増加"
-msgstr ""
+msgstr "致命的OSエラー: Stunned / 受けるダメージ増加"
 
 #  Generated Partial Match; Korean Text: '앵그리 칙 : 공격력+{0}%'
 #: BuffEffect[Effect_MP_EmperorChick_N_12].BuffEffectType1_Desc
@@ -13614,10 +13622,10 @@ msgstr ""
 msgid "処刑開始：ダメージ量+{0}%"
 msgstr "処刑開始: Damage +{0}%"
 
-#  Korean Text: '처형 개시 : 행동 불가'
+#  Generated Partial Match; Korean Text: '처형 개시 : 행동 불가'
 #: BuffEffect[Effect_MP_Executioner_EW_1].BuffEffectType2_Desc
 msgid "処刑開始：行動不可"
-msgstr ""
+msgstr "処刑開始: Stunned"
 
 #  Korean Text: '처형 개시 : 행동 불가 상태면 피해량 대폭 증가'
 #: BuffEffect[Effect_MP_Executioner_EW_1].Name
@@ -13849,15 +13857,15 @@ msgstr "外装装甲解除: Action Speed +{0}%"
 msgid "多重装甲構造：防御力/ダメージ減少低下-回避率/行動力増加"
 msgstr "多重装甲構造: Defense / ダメージ減少低下-回避率 / Action Speed Up"
 
-#  Korean Text: '장갑 해제 : 행동 불가'
+#  Generated Partial Match; Korean Text: '장갑 해제 : 행동 불가'
 #: BuffEffect[Effect_MP_ExecutionerRB_EW_12].BuffEffectType1_Desc
 msgid "装甲解除：行動不可"
-msgstr ""
+msgstr "装甲解除: Stunned"
 
-#  Korean Text: '무장 해제 : 행동 불가'
+#  Generated Partial Match; Korean Text: '무장 해제 : 행동 불가'
 #: BuffEffect[Effect_MP_ExecutionerRB_EW_13].BuffEffectType1_Desc
 msgid "武装解除：行動不可"
-msgstr ""
+msgstr "武装解除: Stunned"
 
 #  Generated Partial Match; Korean Text: '오버플로우 : 공격력+{0}%'
 #: BuffEffect[Effect_MP_ExecutionerRB_EW_14].BuffEffectType1_Desc
@@ -13869,10 +13877,10 @@ msgstr "オーバーフロー: Attack +{0}%"
 msgid "自動防衛システム：オーバーフロー"
 msgstr ""
 
-#  Korean Text: '오버플로우 : 행동 불가'
+#  Generated Partial Match; Korean Text: '오버플로우 : 행동 불가'
 #: BuffEffect[Effect_MP_ExecutionerRB_EW_15].BuffEffectType1_Desc
 msgid "オーバーフロー：行動不可"
-msgstr ""
+msgstr "オーバーフロー: Stunned"
 
 #  Korean Text: '오버플로우 : 강화 효과 해제'
 #: BuffEffect[Effect_MP_ExecutionerRB_EW_15].BuffEffectType2_Desc
@@ -13884,10 +13892,10 @@ msgstr ""
 msgid "オーバーフロー：受けるダメージ+{0}%"
 msgstr "オーバーフロー: Damage Taken +{0}%"
 
-#  Korean Text: '자동 방어 시스템 : 방어 시스템 해제 / 행동 불가'
+#  Generated Partial Match; Korean Text: '자동 방어 시스템 : 방어 시스템 해제 / 행동 불가'
 #: BuffEffect[Effect_MP_ExecutionerRB_EW_15].Name
 msgid "自動防衛システム：防衛システム解除/行動不可"
-msgstr ""
+msgstr "自動防衛システム: 防衛システム解除 / Stunned"
 
 #  Generated Partial Match; Korean Text: '외피 장갑 : 피해 무효 {0}회'
 #: BuffEffect[Effect_MP_ExpGenerator_N_1].BuffEffectType1_Desc
@@ -13997,17 +14005,17 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '출력 제한 해제 : 해로운 효과 해제'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_1].BuffEffectType1_Desc
 msgid "リミッター解除：有害な効果解除"
-msgstr "リミッター解除: Remove Harmful Effects"
+msgstr "Limiter Release: Remove Harmful Effects"
 
 #  Generated Partial Match; Korean Text: '출력 제한 해제 : 적중 {0}%'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_1].BuffEffectType3_Desc
 msgid "リミッター解除：命中率{0}%"
-msgstr "リミッター解除: Accuracy {0}%"
+msgstr "Limiter Release: Accuracy {0}%"
 
 #  Generated Partial Match; Korean Text: '출력 제한 해제 : 공격력 증가 / 적중 감소'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_1].Name
 msgid "リミッター解除：攻撃力増加/命中率減少"
-msgstr "リミッター解除: Attack Up / Accuracy Down"
+msgstr "Limiter Release: Attack Up / Accuracy Down"
 
 #  Korean Text: '외피 강화 : AP+{0}'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_2].BuffEffectType1_Desc
@@ -14027,7 +14035,7 @@ msgstr "外皮強化: Continue Battle at {0} HP"
 #  Generated Partial Match; Korean Text: '외피 강화 : 받는 피해 감소 / 전투 속행'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_2].Name
 msgid "外皮強化：受けるダメージ減少/戦闘続行"
-msgstr "外皮強化: Damage Reduction / 戦闘続行"
+msgstr "外皮強化: Damage Reduction / Battle Continuation"
 
 #  Generated Partial Match; Korean Text: '고출력 방어막 : 방어막+{0}'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_3].BuffEffectType1_Desc
@@ -14049,20 +14057,20 @@ msgstr "出力上昇: {0}% Damage Reduction"
 msgid "バリア出力上昇：ダメージ減少効果"
 msgstr ""
 
-#  Korean Text: '에너지 역류 : 행동 불가'
+#  Generated Partial Match; Korean Text: '에너지 역류 : 행동 불가'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_5].BuffEffectType1_Desc
 msgid "エネルギー逆流：行動不可"
-msgstr ""
+msgstr "エネルギー逆流: Stunned"
 
 #  Korean Text: '에너지 역류 : 강화 효과 해제'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_5].BuffEffectType2_Desc
 msgid "エネルギー逆流：強化効果解除"
 msgstr ""
 
-#  Korean Text: '에너지 역류 : 강화 해제 / 행동 불가'
+#  Generated Partial Match; Korean Text: '에너지 역류 : 강화 해제 / 행동 불가'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_5].Name
 msgid "エネルギー逆流：強化解除/行動不可"
-msgstr ""
+msgstr "エネルギー逆流: 強化解除 / Stunned"
 
 #  Korean Text: '에너지 역류 : HP 감소'
 #: BuffEffect[Effect_MP_ExpGenerator2_N_12].BuffEffectType1_Desc
@@ -14209,10 +14217,10 @@ msgstr "激怒: AP / Attack / Critical Hit Rate / Defense Reduction"
 msgid "再生機能：{0}HPで戦闘続行"
 msgstr "再生機能: Continue Battle at {0} HP"
 
-#  Korean Text: '재생 기능 : 전투 속행'
+#  Generated Partial Match; Korean Text: '재생 기능 : 전투 속행'
 #: BuffEffect[Effect_MP_ExpGoblinT_N_4].Name
 msgid "再生機能：戦闘続行"
-msgstr ""
+msgstr "再生機能: Battle Continuation"
 
 #  Korean Text: '장갑 관통 : 방어력 관통'
 #: BuffEffect[Effect_MP_FABigChick_N_1].Name
@@ -14474,15 +14482,15 @@ msgstr "タイダルアサルト: Push Back {0} Spaces"
 msgid "タイダルアサルト：強化解除"
 msgstr ""
 
-#  Korean Text: '타이달 어썰트 : 행동 불가'
+#  Generated Partial Match; Korean Text: '타이달 어썰트 : 행동 불가'
 #: BuffEffect[Effect_MP_GigantesDagon_N_2].BuffEffectType3_Desc
 msgid "タイダルアサルト：行動不可"
-msgstr ""
+msgstr "タイダルアサルト: Stunned"
 
-#  Korean Text: '타이달 어썰트 : 표식 상태면 강화 해제 / 행동 불가'
+#  Generated Partial Match; Korean Text: '타이달 어썰트 : 표식 상태면 강화 해제 / 행동 불가'
 #: BuffEffect[Effect_MP_GigantesDagon_N_2].Name
 msgid "タイダルアサルト：標的状態なら強化解除/行動不可"
-msgstr ""
+msgstr "タイダルアサルト: 標的状態なら強化解除 / Stunned"
 
 #  Generated Partial Match; Korean Text: '심해의 거신 : 방어력+{0}%'
 #: BuffEffect[Effect_MP_GigantesDagon_N_3].BuffEffectType1_Desc
@@ -14647,7 +14655,7 @@ msgstr "空襲準備: Defense Penetration +{0}%"
 #  Generated Partial Match; Korean Text: '공격 포메이션 : 인접 공격기 AP / 치명타 / 사거리 / 관통 증가'
 #: BuffEffect[Effect_MP_HeavyScout_N_3].Name
 msgid "攻撃フォーメーション：隣接した攻撃機のAP/クリティカル率/射程距離/貫通増加"
-msgstr "攻撃フォーメーション: 隣接した攻撃機のAP / Critical Chance / 射程距離 / 貫通増加"
+msgstr "攻撃フォーメーション: 隣接した攻撃機のAP / Critical Chance / Range / 貫通増加"
 
 #  Korean Text: '스턴 펀치 : 일정 확률로 행동 불가'
 #: BuffEffect[Effect_MP_Juggernaut_N_1].Name
@@ -14714,15 +14722,15 @@ msgstr "防壁破壊: Push Back / Remove Damage Reduction"
 msgid "護衛警報：行保護"
 msgstr "護衛警報: Row Protection"
 
-#  Korean Text: '호위 경보 : 열 보호'
+#  Generated Partial Match; Korean Text: '호위 경보 : 열 보호'
 #: BuffEffect[Effect_MP_JuggernautP_N_3].BuffEffectType2_Desc
 msgid "護衛警報：列保護"
-msgstr ""
+msgstr "護衛警報: Column Protection"
 
 #  Generated Partial Match; Korean Text: '호위 경보 : 행 보호 / 열 보호'
 #: BuffEffect[Effect_MP_JuggernautP_N_3].Name
 msgid "護衛警報：行保護/列保護"
-msgstr "護衛警報: Row Protection / 列保護"
+msgstr "護衛警報: Row Protection / Column Protection"
 
 #  Generated Partial Match; Korean Text: '고밀도 장갑 : 방어력+{0}%'
 #: BuffEffect[Effect_MP_JuggernautP_N_4].BuffEffectType1_Desc
@@ -14744,10 +14752,10 @@ msgstr "防御固め技: Defense +{0}%"
 msgid "敵のHPが低いほどダメージ量+{0}%"
 msgstr ""
 
-#  Korean Text: '방어막 / 피해 경감 효과 무시'
+#  Generated Partial Match; Korean Text: '방어막 / 피해 경감 효과 무시'
 #: BuffEffect[Effect_MP_Kidnapper_CH_2].BuffEffectType2_Desc
 msgid "バリア/ダメージ軽減効果無視"
-msgstr ""
+msgstr "Ignore Shields / Damage Reduction Effect"
 
 #  Korean Text: '광란의 학살 : 대상의 HP%가 낮을수록 피해량 증가'
 #: BuffEffect[Effect_MP_Kidnapper_CH_2].Name
@@ -14964,17 +14972,17 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '점착탄 : 이동 불가 / 회피 감소'
 #: BuffEffect[Effect_MP_LegionEX_N_2].Name
 msgid "粘着弾：移動不可/回避率減少"
-msgstr "粘着弾: Rooted / Evasion Reduction"
+msgstr "Cohesive Bullet: Rooted / Evasion Reduction"
 
 #  Generated Partial Match; Korean Text: '경계 태세 : 행동력+{0}%'
 #: BuffEffect[Effect_MP_LegionEX_N_3].BuffEffectType1_Desc
 msgid "警戒態勢：行動力+{0}%"
-msgstr "警戒態勢: Action Speed +{0}%"
+msgstr "Alert Stance: Action Speed +{0}%"
 
 #  Generated Partial Match; Korean Text: '경계 태세 : 행동 속도 증가 / 공격 지원'
 #: BuffEffect[Effect_MP_LegionEX_N_3].Name
 msgid "警戒態勢：行動速度増加/攻撃支援"
-msgstr "警戒態勢: 行動速度増加 / Follow-up Attack"
+msgstr "Alert Stance: 行動速度増加 / Follow-up Attack"
 
 #  Generated Partial Match; Korean Text: '대 장갑 탄 : 방어력 감소'
 #: BuffEffect[Effect_MP_LegionMine_N_1].Name
@@ -14996,15 +15004,15 @@ msgstr "Follow-up on adjacent units' attacks"
 msgid "支援射撃：隣接した攻撃機攻撃支援"
 msgstr "Fire Support: Follow-up on adjacent units' attacks"
 
-#  Korean Text: '점착탄 : 회피 강화 해제'
+#  Generated Partial Match; Korean Text: '점착탄 : 회피 강화 해제'
 #: BuffEffect[Effect_MP_LegionSP_N_1].BuffEffectType3_Desc
 msgid "粘着弾：回避率強化解除"
-msgstr ""
+msgstr "Cohesive Bullet: 回避率強化解除"
 
 #  Generated Partial Match; Korean Text: '점착탄 : 회피 감소 / 이동 불가 / 회피 강화 해제'
 #: BuffEffect[Effect_MP_LegionSP_N_1].Name
 msgid "粘着弾：回避率減少/移動不可/回避率強化解除"
-msgstr "粘着弾: Evasion Reduction / Rooted / 回避率強化解除"
+msgstr "Cohesive Bullet: Evasion Reduction / Rooted / 回避率強化解除"
 
 #  Generated Partial Match; Korean Text: '대 장갑탄 : 피해량+{0}% (중장)'
 #: BuffEffect[Effect_MP_LegionSP_N_2].BuffEffectType1_Desc
@@ -15149,12 +15157,12 @@ msgstr "どんどんどんどんかかってこい！: Resist Effects +{0}%"
 #  Generated Partial Match; Korean Text: '전투 과몰입 : {0}HP로 전투 속행'
 #: BuffEffect[Effect_MP_Nereid_EV1_4].BuffEffectType1_Desc
 msgid "バトルジャンキー：{0}HPで戦闘続行"
-msgstr "バトルジャンキー: Continue Battle at {0} HP"
+msgstr "Battle Overcommitment: Continue Battle at {0} HP"
 
-#  Korean Text: '전투 과몰입 : 전투 개시 시, 전투 속행'
+#  Generated Partial Match; Korean Text: '전투 과몰입 : 전투 개시 시, 전투 속행'
 #: BuffEffect[Effect_MP_Nereid_EV1_4].Name
 msgid "バトルジャンキー：戦闘開始時、戦闘続行"
-msgstr ""
+msgstr "Battle Overcommitment: At start of wave, grant Battle Continuation"
 
 #  Generated Partial Match; Korean Text: '어서 공격해! : 공격력+{0}%'
 #: BuffEffect[Effect_MP_Nereid_EV1_5].BuffEffectType1_Desc
@@ -15214,7 +15222,9 @@ msgstr "スーパーネリネリだ！: Action Speed +{0}%"
 #  Generated Partial Match; Korean Text: '전투 과몰입 : 전투 속행 시, 공격력 / 적중 / 치명타 / 방어 관통 증가'
 #: BuffEffect[Effect_MP_Nereid_EV1_13].Name
 msgid "バトルジャンキー：戦闘続行時、攻撃力/命中率/クリティカル率/防御貫通増加"
-msgstr "バトルジャンキー: 戦闘続行時、攻撃力 / Accuracy / Critical Chance / 防御貫通増加"
+msgstr ""
+"Battle Overcommitment: For the Wave, Attack Up / Accuracy / Critical Chance / "
+"Increased Defense Penetration"
 
 #  Generated Partial Match; Korean Text: '똑바로 맞추라고! : 적중+{0}%'
 #: BuffEffect[Effect_MP_Nereid_EV1_14].BuffEffectType1_Desc
@@ -15269,12 +15279,14 @@ msgstr "Bring It On!: Attack Up ({0}% Max)"
 #  Generated Partial Match; Korean Text: '전투 과몰입 : {0}HP로 전투 속행 (1회/해제 불가)'
 #: BuffEffect[Effect_MP_Nereid_EV2_4].BuffEffectType1_Desc
 msgid "バトルジャンキー：{0}HPで戦闘続行(1回/解除不可)"
-msgstr "バトルジャンキー: Continue Battle at {0} HP (1回 / 解除不可)"
+msgstr "Battle Overcommitment: Continue Battle at {0} HP (1回 / 解除不可)"
 
-#  Korean Text: '전투 과몰입 : 전투 속행 / 전투 속행 시, 방어막&피해 감소 무시'
+#  Generated Partial Match; Korean Text: '전투 과몰입 : 전투 속행 / 전투 속행 시, 방어막&피해 감소 무시'
 #: BuffEffect[Effect_MP_Nereid_EV2_4].Name
 msgid "バトルジャンキー：戦闘続行/戦闘続行時、バリア&ダメージ減少無視"
 msgstr ""
+"Battle Overcommitment: Battle Continuation / On Revive, Ignore Shields and "
+"Damage Reduction"
 
 #  Generated Partial Match; Korean Text: '전투 과!몰!입! : 방어막 / 피해 감소 무시'
 #: BuffEffect[Effect_MP_Nereid_EV2_11].BuffEffectType1_Desc
@@ -15289,7 +15301,9 @@ msgstr "バトル!ジャン!キー!: Attack +{0}%"
 #  Generated Partial Match; Korean Text: '전투 과몰입 : 전투 속행 시, 방어막&피해 감소 무시 / 공격력 증가'
 #: BuffEffect[Effect_MP_Nereid_EV2_11].Name
 msgid "バトルジャンキー：戦闘続行時、バリア&ダメージ減少無視/攻撃力増加"
-msgstr "バトルジャンキー: 戦闘続行時、バリア&ダメージ減少無視 / Attack Up"
+msgstr ""
+"Battle Overcommitment: On Revive, Ignore Shields and Damage Reduction / "
+"Attack Up"
 
 #  Korean Text: '견제 : 회피 감소'
 #: BuffEffect[Effect_MP_NightChick_EW2_1].Name
@@ -15820,7 +15834,7 @@ msgstr "Crit Chance +{0}%"
 #  Generated Partial Match; Korean Text: '정조준 : 적중 / 사거리 / 치명타 증가'
 #: BuffEffect[Effect_MP_NightChickEX_EW_3].Name
 msgid "正照準：命中率/射程距離/クリティカル率増加"
-msgstr "正照準: Accuracy / 射程距離 / Critical Hit Rate"
+msgstr "正照準: Accuracy / Range / Critical Hit Rate"
 
 #  Korean Text: '미사일 직격 : 추가 피해'
 #: BuffEffect[Effect_MP_NightChickM_N_1].Name
@@ -16102,10 +16116,10 @@ msgstr "委縮: Evasion {0}%"
 msgid "萎縮：防御力/回避率減少"
 msgstr "萎縮: Defense / Evasion Reduction"
 
-#  Korean Text: '헤드샷: 행동 불가'
+#  Generated Partial Match; Korean Text: '헤드샷: 행동 불가'
 #: BuffEffect[Effect_MP_NightChickSP_EW_1].Name
 msgid "標的排除：標的対象ダメージ増加/行動不可"
-msgstr ""
+msgstr "標的排除: 標的対象ダメージ増加 / Stunned"
 
 #  Korean Text: '회피+{0}%'
 #: BuffEffect[Effect_MP_NightChickSP_EW_2].BuffEffectType1_Desc
@@ -16187,10 +16201,10 @@ msgstr ""
 msgid "高圧電流：ダメージ量+{0}%"
 msgstr "高圧電流: Damage +{0}%"
 
-#  Korean Text: '스턴 샷 : 행동 불가 / 피해량 증가'
+#  Generated Partial Match; Korean Text: '스턴 샷 : 행동 불가 / 피해량 증가'
 #: BuffEffect[Effect_MP_NightChickTD_EW_11].Name
 msgid "スタンショット：行動不可/ダメージ量増加"
-msgstr ""
+msgstr "スタンショット: Stunned / ダメージ量増加"
 
 #  Korean Text: '고압 전류 : 받는 피해 감소 해제'
 #: BuffEffect[Effect_MP_NightChickTD_EW_12].BuffEffectType2_Desc
@@ -16212,10 +16226,10 @@ msgstr ""
 msgid "放電：浸水状態で死亡時、電気ダメージ"
 msgstr ""
 
-#  Korean Text: '방전 : 행동 불가'
+#  Generated Partial Match; Korean Text: '방전 : 행동 불가'
 #: BuffEffect[Effect_MP_NightChickTD_EW_14].BuffEffectType1_Desc
 msgid "放電：行動不可"
-msgstr ""
+msgstr "放電: Stunned"
 
 #  Korean Text: '방전 : 침수 상태로 방전 효과 적용 시, 행동 불가'
 #: BuffEffect[Effect_MP_NightChickTD_EW_14].Name
@@ -16230,7 +16244,7 @@ msgstr "Column Protection"
 #  Generated Partial Match; Korean Text: '대열 방어 : 열 보호 / 피해 감소'
 #: BuffEffect[Effect_MP_Phalangites_N_2].Name
 msgid "隊列防衛：列保護/ダメージ減少"
-msgstr "隊列防衛: 列保護 / Damage Reduction"
+msgstr "隊列防衛: Column Protection / Damage Reduction"
 
 #  Generated Partial Match; Korean Text: '밀집 대형 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_MP_Phalangites_N_3].BuffEffectType1_Desc
@@ -16447,10 +16461,10 @@ msgstr "戦列突破: Follow Up Attack {0}%"
 msgid "戦列突破：隣接する味方の攻撃支援"
 msgstr ""
 
-#  Korean Text: '포착 : 행동 불가'
+#  Generated Partial Match; Korean Text: '포착 : 행동 불가'
 #: BuffEffect[Effect_MP_ProgramMobAT_EW_1].BuffEffectType1_Desc
 msgid "捕獲：行動不可"
-msgstr ""
+msgstr "捕獲: Stunned"
 
 #  Korean Text: '포착 : 표식 대상 일정 확률 행동 불가'
 #: BuffEffect[Effect_MP_ProgramMobAT_EW_1].Name
@@ -16502,15 +16516,15 @@ msgstr "耐性処理: 全ての耐性 / Effect Resist Up"
 msgid "攻撃隊列保護：受けるダメージ{0}%減少"
 msgstr "攻撃隊列保護: {0}% Damage Reduction"
 
-#  Korean Text: '공격 대열 보호 : 열 보호 / 피해 감소 효과'
+#  Generated Partial Match; Korean Text: '공격 대열 보호 : 열 보호 / 피해 감소 효과'
 #: BuffEffect[Effect_MP_ProgramMobAT_EW_5].Name
 msgid "攻撃隊列保護：列保護/ダメージ減少効果"
-msgstr ""
+msgstr "攻撃隊列保護: Column Protection / ダメージ減少効果"
 
-#  Korean Text: '공격 대열 보호 : 열 보호'
+#  Generated Partial Match; Korean Text: '공격 대열 보호 : 열 보호'
 #: BuffEffect[Effect_MP_ProgramMobAT_EW_11].BuffEffectType1_Desc
 msgid "攻撃隊列保護：列保護"
-msgstr ""
+msgstr "攻撃隊列保護: Column Protection"
 
 #  Generated Partial Match; Korean Text: '특수 반응 장갑 : 방어력+{0}%'
 #: BuffEffect[Effect_MP_ProgramMobAT_N_4].BuffEffectType1_Desc
@@ -16878,10 +16892,10 @@ msgstr "高電圧スタンガン: Action Speed {0}%"
 msgid "高電圧スタンガン：AP/回避率/行動力減少"
 msgstr "高電圧スタンガン: AP / Evasion / Reduced Action Speed"
 
-#  Korean Text: '칩입자 포획 : 앞으로 {0}칸 당기기'
+#  Generated Partial Match; Korean Text: '칩입자 포획 : 앞으로 {0}칸 당기기'
 #: BuffEffect[Effect_MP_PuppHeadC_N_2].BuffEffectType1_Desc
 msgid "侵入者捕獲：前に{0}マス引き寄せ"
-msgstr ""
+msgstr "侵入者捕獲: Pull Forward {0} Spaces"
 
 #  Generated Partial Match; Korean Text: '칩입자 포획 : 이동 불가'
 #: BuffEffect[Effect_MP_PuppHeadC_N_2].BuffEffectType2_Desc
@@ -16926,7 +16940,7 @@ msgstr "ネットワークエラー: Accuracy / Reduced Range"
 #  Generated Partial Match; Korean Text: '고전압 스턴건 : 행동 불가 (경장/중장)'
 #: BuffEffect[Effect_MP_PuppHeadC_N_11].BuffEffectType1_Desc
 msgid "高電圧スタンガン：行動不可(軽装/重装)"
-msgstr "高電圧スタンガン: 行動不可 (Light / Heavy)"
+msgstr "高電圧スタンガン: Stunned (Light / Heavy)"
 
 #  Generated Partial Match; Korean Text: '칩입자 발견 : 행동력+{0}%'
 #: BuffEffect[Effect_MP_PuppHeadC_N_12].BuffEffectType1_Desc
@@ -17128,10 +17142,10 @@ msgstr "迎撃態勢: {0}% Damage Reduction"
 msgid "迎撃態勢：{0}%の威力で反撃"
 msgstr "迎撃態勢: Counterattack with {0}% power"
 
-#  Korean Text: '요격 태세 : 열 보호'
+#  Generated Partial Match; Korean Text: '요격 태세 : 열 보호'
 #: BuffEffect[Effect_MP_RampartC_N_2].BuffEffectType4_Desc
 msgid "迎撃態勢：列保護"
-msgstr ""
+msgstr "迎撃態勢: Column Protection"
 
 #  Generated Partial Match; Korean Text: '요격 태세 : 방어력 증가 / 받는 피해 감소 / 반격'
 #: BuffEffect[Effect_MP_RampartC_N_2].Name
@@ -17191,7 +17205,7 @@ msgstr ""
 #  Generated Partial Match; Korean Text: 'H. 유피텔 스트라이크 : 행동 불가 / 강화 해제 / 치명타 시, 피해량 증가'
 #: BuffEffect[Effect_MP_RocC_EV2_2].Name
 msgid "H.ユピテルストライク：行動不可/強化解除/クリティカル時、ダメージ量増加"
-msgstr "H.ユピテルストライク: 行動不可 / 強化解除 / Increase Critical Damage"
+msgstr "H.ユピテルストライク: Stunned / 強化解除 / Increase Critical Damage"
 
 #  Generated Partial Match; Korean Text: '전자기파 파장 : 회피+{0}% (1단계)'
 #: BuffEffect[Effect_MP_RocC_EV2_3].BuffEffectType1_Desc
@@ -17283,10 +17297,10 @@ msgstr "電磁気波波長: Counterattack with {0}% power"
 msgid "電磁気波波長：回避時、反撃"
 msgstr ""
 
-#  Korean Text: '전하 역류 : 행동 불가'
+#  Generated Partial Match; Korean Text: '전하 역류 : 행동 불가'
 #: BuffEffect[Effect_MP_RocC_EV2_17].BuffEffectType1_Desc
 msgid "電荷逆流：行動不可"
-msgstr ""
+msgstr "電荷逆流: Stunned"
 
 #  Generated Partial Match; Korean Text: '전하 역류 : 받는 피해+{0}%'
 #: BuffEffect[Effect_MP_RocC_EV2_17].BuffEffectType2_Desc
@@ -17298,10 +17312,10 @@ msgstr "電荷逆流: Damage Taken +{0}%"
 msgid "電荷逆流：強化効果解除"
 msgstr ""
 
-#  Korean Text: '전하 최대 충전 : 냉기 속성 피격 시, 강화 해제 / 행동 불가'
+#  Generated Partial Match; Korean Text: '전하 최대 충전 : 냉기 속성 피격 시, 강화 해제 / 행동 불가'
 #: BuffEffect[Effect_MP_RocC_EV2_17].Name
 msgid "電荷最大充電：冷気属性被撃時、強化解除/行動不可"
-msgstr ""
+msgstr "電荷最大充電: 冷気属性被撃時、強化解除 / Stunned"
 
 #  Korean Text: '파장 해제 : 회피 증가 해제'
 #: BuffEffect[Effect_MP_RocC_EV2_18].BuffEffectType1_Desc
@@ -17358,10 +17372,10 @@ msgstr "復元システム: Continue Battle at {0} HP"
 msgid "復元システム：戦闘続行効果"
 msgstr ""
 
-#  Korean Text: '복원 대기 : 행동 불가'
+#  Generated Partial Match; Korean Text: '복원 대기 : 행동 불가'
 #: BuffEffect[Effect_MP_RocCGenerator_EW_4].BuffEffectType1_Desc
 msgid "復元待機：行動不可"
-msgstr ""
+msgstr "復元待機: Stunned"
 
 #  Korean Text: '복원 대기 : 전투 속행 시, 행동 불가'
 #: BuffEffect[Effect_MP_RocCGenerator_EW_4].Name
@@ -17401,7 +17415,7 @@ msgstr "復元システム: Continue Battle at {0} HP (Cannot be released)"
 #  Generated Partial Match; Korean Text: '복원 대기 : 행동 불가 (해제 불가)'
 #: BuffEffect[Effect_MP_RocCGeneratorA_N_4].BuffEffectType1_Desc
 msgid "復元待機：行動不可(解除不可)"
-msgstr "復元待機: 行動不可 (Cannot be released)"
+msgstr "復元待機: Stunned (Cannot be released)"
 
 #  Generated Partial Match; Korean Text: '복원 대기 : 피해 최소화 (해제 불가)'
 #: BuffEffect[Effect_MP_RocCGeneratorA_N_4].BuffEffectType2_Desc
@@ -17586,7 +17600,7 @@ msgstr "警報発令: Range +{0}"
 #  Generated Partial Match; Korean Text: '경보 발령 : AP / 사거리 / 치명타 증가'
 #: BuffEffect[Effect_MP_ScoutSP_N_2].Name
 msgid "警報発令：AP/射程距離/クリティカル率増加"
-msgstr "警報発令: AP / 射程距離 / Critical Hit Rate"
+msgstr "警報発令: AP / Range / Critical Hit Rate"
 
 #  Generated Partial Match; Korean Text: '기습 편제 : 공격 지원'
 #: BuffEffect[Effect_MP_ScoutSP_N_3].BuffEffectType1_Desc
@@ -17801,17 +17815,17 @@ msgstr "夾叉射撃(キャノン): Defense Penetration +{0}%"
 #  Generated Partial Match; Korean Text: '협차 사격 : 적중 / 치명타 / 방어 관통 증가'
 #: BuffEffect[Effect_MP_Sirene_EV2_3].Name
 msgid "夾叉射撃：命中率/クリティカル率/防御貫通増加"
-msgstr "夾叉射撃: Accuracy / Critical Chance / 防御貫通増加"
+msgstr "夾叉射撃: Accuracy / Critical Chance / Increased Defense Penetration"
 
 #  Generated Partial Match; Korean Text: '관측 포격 : 적중 / 치명타 증가 / 방어막&피해 감소 무시'
 #: BuffEffect[Effect_MP_Sirene_EV2_5].Name
 msgid "観測砲撃：命中率/クリティカル率増加/シールド&ダメージ減少無視"
 msgstr "観測砲撃: Accuracy / Critical Hit Rate / シールド&ダメージ減少無視"
 
-#  Korean Text: '포탄 재장전 : 행동 불가'
+#  Generated Partial Match; Korean Text: '포탄 재장전 : 행동 불가'
 #: BuffEffect[Effect_MP_Sirene_EV2_11].BuffEffectType1_Desc
 msgid "砲弾再装填：行動不可"
-msgstr ""
+msgstr "砲弾再装填: Stunned"
 
 #  Korean Text: '경직 : 행동력 감소 효과'
 #: BuffEffect[Effect_MP_Sparrow_N_1].Name
@@ -18158,10 +18172,10 @@ msgstr "予熱開始: Evasion +{0}%"
 msgid "予熱開始：移動時、攻撃力/行動力/回避率増加"
 msgstr "予熱開始: 移動時、攻撃力 / Action Speed / Evasion Up"
 
-#  Korean Text: '빙결 : 행동 불가 / 받는 피해 증가 / 강화 해제'
+#  Generated Partial Match; Korean Text: '빙결 : 행동 불가 / 받는 피해 증가 / 강화 해제'
 #: BuffEffect[Effect_MP_StingerC_N_1].Name
 msgid "氷結：行動不可/受けるダメージ増加/強化解除"
-msgstr ""
+msgstr "氷結: Stunned / 受けるダメージ増加 / 強化解除"
 
 #  Generated Partial Match; Korean Text: '일점 돌파 : 피해량+{0}%'
 #: BuffEffect[Effect_MP_StingerC_N_2].BuffEffectType1_Desc
@@ -18258,15 +18272,15 @@ msgstr "Maintain Formation: Row Protection"
 msgid "陣形死守：バリア/受けるダメージ減少/反撃/行保護"
 msgstr "Maintain Formation: Barrier / Damage Reduction / Counter / Row Protect"
 
-#  Korean Text: '방진 전개 : 열 보호'
+#  Generated Partial Match; Korean Text: '방진 전개 : 열 보호'
 #: BuffEffect[Effect_MP_Testudo_N_3].BuffEffectType1_Desc
 msgid "方陣展開：列保護"
-msgstr ""
+msgstr "方陣展開: Column Protection"
 
 #  Generated Partial Match; Korean Text: '방진 전개 : 열 보호 / 받는 피해 감소'
 #: BuffEffect[Effect_MP_Testudo_N_3].Name
 msgid "方陣展開：列保護/受けるダメージ減少"
-msgstr "方陣展開: 列保護 / Damage Reduction"
+msgstr "方陣展開: Column Protection / Damage Reduction"
 
 #  Generated Partial Match; Korean Text: '출력 오버로드 : 공격력+{0}%'
 #: BuffEffect[Effect_MP_Testudo_N_4].BuffEffectType1_Desc
@@ -18431,7 +18445,7 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '초기화 : 해로운 효과 해제'
 #: BuffEffect[Effect_MP_TrainingDummy_N_3].Name
 msgid "初期化：有害な効果解除"
-msgstr "初期化: Remove Harmful Effects"
+msgstr "Initialization: Remove Harmful Effects"
 
 #  Generated Partial Match; Korean Text: '해킹 (스카디)  : 공격력 {0}%'
 #: BuffEffect[Effect_MP_UnderWatcher_B05_6].BuffEffectType1_Desc
@@ -18588,10 +18602,10 @@ msgstr "エネルギーシールド: Shield +{0}"
 msgid "エネルギーシールド：有害な効果除去"
 msgstr ""
 
-#  Korean Text: '에너지 실드 : 방어막 / 상태 이상 해제'
+#  Generated Partial Match; Korean Text: '에너지 실드 : 방어막 / 상태 이상 해제'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_2].Name
 msgid "エネルギーシールド：バリア/状態異常解除"
-msgstr ""
+msgstr "エネルギーシールド: Shield / 状態異常解除"
 
 #  Generated Partial Match; Korean Text: '에너지 코팅 : 피해 무효 {0}회'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_3].BuffEffectType1_Desc
@@ -18618,30 +18632,30 @@ msgstr "エネルギーコーティング: Damage Reduction / Effect Resist Up /
 msgid "ジェネレータショート：AP{0}"
 msgstr ""
 
-#  Korean Text: '제네레이터 쇼트 : 피격 시, 일정 확률로 AP 감소 / 행동 불능'
+#  Generated Partial Match; Korean Text: '제네레이터 쇼트 : 피격 시, 일정 확률로 AP 감소 / 행동 불능'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_4].Name
 msgid "ジェネレータショート：被撃時、一定確率でAP減少/行動不可"
-msgstr ""
+msgstr "ジェネレータショート: 被撃時、一定確率でAP減少 / Stunned"
 
 #  Korean Text: '제네레이터 파괴 : 강화 효과 해제'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_5].BuffEffectType1_Desc
 msgid "ジェネレータ破壊：強化効果解除"
 msgstr ""
 
-#  Korean Text: '제네레이터 파괴 : 행동 불가'
+#  Generated Partial Match; Korean Text: '제네레이터 파괴 : 행동 불가'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_5].BuffEffectType2_Desc
 msgid "ジェネレータ破壊：行動不可"
-msgstr ""
+msgstr "ジェネレータ破壊: Stunned"
 
 #  Korean Text: '제네레이터 파괴 : 모든 강화 효과 해제'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_5].Name
 msgid "ジェネレータ破壊：全ての強化効果解除"
 msgstr ""
 
-#  Korean Text: '제네레이터 쇼트 : 행동 불능'
+#  Generated Partial Match; Korean Text: '제네레이터 쇼트 : 행동 불능'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_11].BuffEffectType1_Desc
 msgid "ジェネレータショート：行動不可"
-msgstr ""
+msgstr "ジェネレータショート: Stunned"
 
 #  Korean Text: '제네레이터 쇼트 : 피격 시, 일정 확률로 행동 불능'
 #: BuffEffect[Effect_MP_UnderWatcherGenerator_EW_11].Name
@@ -19095,10 +19109,10 @@ msgstr "Evasive Maneuvers: Increase Evasion on friendly death"
 msgid "回避機動：行動力{0}%"
 msgstr "Evasive Maneuvers: Action Speed {0}%"
 
-#  Korean Text: '자폭 돌진 : 자폭 공격'
+#  Generated Partial Match; Korean Text: '자폭 돌진 : 자폭 공격'
 #: BuffEffect[Effect_MP_WaspEX_N_2].Name
 msgid "自爆突進：自爆攻撃"
-msgstr ""
+msgstr "自爆突進: Suicide Attack"
 
 #  Generated Partial Match; Korean Text: '고속 기동 : 회피+{0}%'
 #: BuffEffect[Effect_MP_WaspEX_N_3].BuffEffectType1_Desc
@@ -19143,7 +19157,7 @@ msgstr "Alert Mode: Damage Received / Action Speed Down"
 #  Generated Partial Match; Korean Text: '마비 : 행동 불가 / 회피 감소'
 #: BuffEffect[Effect_MP_ZapperEX_N_2].Name
 msgid "麻痺：行動不可/回避率減少"
-msgstr "麻痺: 行動不可 / Evasion Reduction"
+msgstr "麻痺: Stunned / Evasion Reduction"
 
 #  Generated Partial Match; Korean Text: '사주 경계 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_MP_ZapperEX_N_3].BuffEffectType1_Desc
@@ -19363,7 +19377,7 @@ msgstr "衣装製作: Defense Up / Damage Reduction"
 #  Generated Partial Match; Korean Text: '치명적 매력 : 공격력+{0}%'
 #: BuffEffect[Effect_PECS_Audrey_N_16].BuffEffectType1_Desc
 msgid "致命的な魅力：攻撃力+{0}%"
-msgstr "致命的な魅力: Attack +{0}%"
+msgstr "Critical Charm: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '치명적 매력 : 치명타+{0}%'
 #: BuffEffect[Effect_PECS_Audrey_N_16].BuffEffectType2_Desc
@@ -19495,22 +19509,22 @@ msgstr "B.バスター: Attack / Critical Chance / Accuracy Down"
 #  Generated Partial Match; Korean Text: '치어 업! : 공격력+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_2].BuffEffectType1_Desc
 msgid "チアアップ!：攻撃力+{0}%"
-msgstr "チアアップ!: Attack +{0}%"
+msgstr "Cheer Up!: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '치어 업! : 방어력+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_2].BuffEffectType2_Desc
 msgid "チアアップ!：防御力+{0}%"
-msgstr "チアアップ!: Defense +{0}%"
+msgstr "Cheer Up!: Defense +{0}%"
 
 #  Generated Partial Match; Korean Text: '치어 업! : 적중+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_2].BuffEffectType3_Desc
 msgid "チアアップ!：命中率+{0}%"
-msgstr "チアアップ!: Accuracy +{0}%"
+msgstr "Cheer Up!: Accuracy +{0}%"
 
 #  Generated Partial Match; Korean Text: '치어 업! : 회피+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_2].BuffEffectType4_Desc
 msgid "チアアップ!：回避率+{0}%"
-msgstr "チアアップ!: Evasion +{0}%"
+msgstr "Cheer Up!: Evasion +{0}%"
 
 #  Generated Partial Match; Korean Text: 'Lv.3 치어 업! : 해로운 효과 해제'
 #: BuffEffect[Effect_PECS_Carolina_N_2].BuffEffectType5_Desc
@@ -19520,7 +19534,7 @@ msgstr "LV.3チアアップ!: Remove Harmful Effects"
 #  Generated Partial Match; Korean Text: '치어 업! : 공격력 / 방어력 / 적중 / 회피 증가'
 #: BuffEffect[Effect_PECS_Carolina_N_2].Name
 msgid "チアアップ!：攻撃力/防御力/命中率/回避率増加"
-msgstr "チアアップ!: Attack / Defense / Accuracy / Evasion Up"
+msgstr "Cheer Up!: Attack / Defense / Accuracy / Evasion Up"
 
 #  Generated Partial Match; Korean Text: 'RB 스피커 : 공격력+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_3].BuffEffectType1_Desc
@@ -19545,17 +19559,17 @@ msgstr "LBスピーカー: Action Speed +{0}%"
 #  Generated Partial Match; Korean Text: 'LBRB 스피커 : RB - 공격력/치명타 증가 : LB - 행동력/AP 증가 '
 #: BuffEffect[Effect_PECS_Carolina_N_3].Name
 msgid "LBRBスピーカー：RB-攻撃力/クリティカル率増加：LB-行動力/AP増加"
-msgstr "LBRBスピーカー: RB-攻撃力 / Critical Hit Rate: LB-行動力 / AP Up"
+msgstr "LBRB Speakers: RB-攻撃力 / Critical Hit Rate: LB-行動力 / AP Up"
 
 #  Generated Partial Match; Korean Text: '치어 리더 : 행동력+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_4].BuffEffectType1_Desc
 msgid "チアリーダー：行動力+{0}%"
-msgstr "チアリーダー: Action Speed +{0}%"
+msgstr "Cheerleader: Action Speed +{0}%"
 
 #  Generated Partial Match; Korean Text: '치어 리더 : 행동력 증가 / 스킬 효과 강화'
 #: BuffEffect[Effect_PECS_Carolina_N_4].Name
 msgid "チアリーダー：行動力増加/スキル効果強化"
-msgstr "チアリーダー: Action Speed Up / スキル効果強化"
+msgstr "Cheerleader: Action Speed Up / スキル効果強化"
 
 #  Generated Partial Match; Korean Text: 'Lv.2 B. 버스터 : 공격력 {0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_11].BuffEffectType1_Desc
@@ -19590,7 +19604,7 @@ msgstr "Lv.3B.バスター: Accuracy {0}%"
 #  Generated Partial Match; Korean Text: 'LBRB 스피커 : RB - 공격 능력 강화 / LB - 행동력 / 회피 증가 '
 #: BuffEffect[Effect_PECS_Carolina_N_13].Name
 msgid "LBRBスピーカー：RB-攻撃能力強化/LB-行動力/回避率増加"
-msgstr "LBRBスピーカー: RB-攻撃能力強化 / LB-行動力 / Evasion Up"
+msgstr "LBRB Speakers: RB-攻撃能力強化 / LB-行動力 / Evasion Up"
 
 #  Generated Partial Match; Korean Text: 'Lv.2 치어 업! : 공격력+{0}%'
 #: BuffEffect[Effect_PECS_Carolina_N_14].BuffEffectType1_Desc
@@ -19635,7 +19649,7 @@ msgstr "LV.3チアアップ!: Evasion +{0}%"
 #  Generated Partial Match; Korean Text: '고압 전류 : 행동 불가 / 회피 감소'
 #: BuffEffect[Effect_PECS_Cerberus_N_1].Name
 msgid "高圧電流：行動不可/回避率減少"
-msgstr "高圧電流: 行動不可 / Evasion Reduction"
+msgstr "高圧電流: Stunned / Evasion Reduction"
 
 #  Generated Partial Match; Korean Text: '지옥의 파수꾼 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_PECS_Cerberus_N_2].BuffEffectType1_Desc
@@ -19790,10 +19804,10 @@ msgstr "Emergency Escape"
 msgid "保護力場：味方保護"
 msgstr "Protective Force Field: Protect Ally"
 
-#  Korean Text: '아군 엄폐 : 열 보호'
+#  Generated Partial Match; Korean Text: '아군 엄폐 : 열 보호'
 #: BuffEffect[Effect_PECS_CoCoWhiteShell_N_12].BuffEffectType1_Desc
 msgid "エクリプス：列保護"
-msgstr ""
+msgstr "エクリプス: Column Protection"
 
 #  Generated Partial Match; Korean Text: '더블배럴 샷건 : 대 경장형 피해량+{0}%'
 #: BuffEffect[Effect_PECS_DarkElf_N_1].BuffEffectType1_Desc
@@ -19913,7 +19927,7 @@ msgstr "熟練された採掘: Defense Penetration +{0}%"
 #  Generated Partial Match; Korean Text: '숙련된 채굴 : 공격력 / 치명타 / 방어 관통 증가'
 #: BuffEffect[Effect_PECS_DutchGirl_N_3].Name
 msgid "熟練された採掘：攻撃力/クリティカル率/防御貫通増加"
-msgstr "熟練された採掘: Attack / Critical Chance / 防御貫通増加"
+msgstr "熟練された採掘: Attack / Critical Chance / Increased Defense Penetration"
 
 #  Korean Text: '강화 연쇄 폭파 : 피해 감소 해제'
 #: BuffEffect[Effect_PECS_DutchGirl_N_11].BuffEffectType1_Desc
@@ -19955,15 +19969,15 @@ msgstr "苗木植え付け: Damage Taken +{0}%"
 msgid "苗木植え付け：火炎耐性{0}%"
 msgstr "苗木植え付け: Resist Fire {0}%"
 
-#  Korean Text: '묘목 심기 : 행동 불가'
+#  Generated Partial Match; Korean Text: '묘목 심기 : 행동 불가'
 #: BuffEffect[Effect_PECS_ElvenForestmaker_N_2].BuffEffectType3_Desc
 msgid "苗木植え付け：行動不可"
-msgstr ""
+msgstr "苗木植え付け: Stunned"
 
-#  Korean Text: '묘목 심기 : 화염 저항 감소 / 방어력 감소 대상 피해 증폭 / 행동 불가'
+#  Generated Partial Match; Korean Text: '묘목 심기 : 화염 저항 감소 / 방어력 감소 대상 피해 증폭 / 행동 불가'
 #: BuffEffect[Effect_PECS_ElvenForestmaker_N_2].Name
 msgid "苗木植え付け：火炎耐性減少/防御力減少対象ダメージ増幅/行動不可"
-msgstr ""
+msgstr "苗木植え付け: 火炎耐性減少 / 防御力減少対象ダメージ増幅 / Stunned"
 
 #  Generated Partial Match; Korean Text: '수풀 매복 : 공격력+{0}%'
 #: BuffEffect[Effect_PECS_ElvenForestmaker_N_3].BuffEffectType1_Desc
@@ -19995,10 +20009,10 @@ msgstr "アイスエイジ: Resist Ice {0}%"
 msgid "アイスエイジ：行動力{0}%"
 msgstr "アイスエイジ: Action Speed {0}%"
 
-#  Korean Text: '빙결 : 행동 불가 (확률)'
+#  Generated Partial Match; Korean Text: '빙결 : 행동 불가 (확률)'
 #: BuffEffect[Effect_PECS_Empress_N_1].BuffEffectType3_Desc
 msgid "氷結：行動不可(確率)"
-msgstr ""
+msgstr "氷結: Stunned (確率)"
 
 #  Generated Partial Match; Korean Text: '아이스 에이지 : 냉기 저항 / 행동력 감소 / 빙결 효과'
 #: BuffEffect[Effect_PECS_Empress_N_1].Name
@@ -20334,22 +20348,24 @@ msgstr "適応型防護服: 全耐性 / Defense Up"
 #  Generated Partial Match; Korean Text: '요원 엄폐 : 지정 대상 보호 (공격기/지원기)'
 #: BuffEffect[Effect_PECS_Ignis_N_4].BuffEffectType1_Desc
 msgid "要員掩蔽：指定対象保護(攻撃機/支援機)"
-msgstr "要員掩蔽: Protect Target (Attacker / Supporter)"
+msgstr "Covering Important Personnel: Protect Target (Attacker / Supporter)"
 
 #  Generated Partial Match; Korean Text: '요원 엄폐 : 열 보호 (자신)'
 #: BuffEffect[Effect_PECS_Ignis_N_4].BuffEffectType2_Desc
 msgid "要員掩蔽：列保護(自分)"
-msgstr "要員掩蔽: 列保護 (Self)"
+msgstr "Covering Important Personnel: Column Protection (Self)"
 
 #  Generated Partial Match; Korean Text: '요원 엄폐 : 받는 피해 {0}% 감소 (대기 시)'
 #: BuffEffect[Effect_PECS_Ignis_N_4].BuffEffectType3_Desc
 msgid "要員掩蔽：受けるダメージ{0}%減少(待機時)"
-msgstr "要員掩蔽: {0}% Damage Reduction (待機時)"
+msgstr "Covering Important Personnel: {0}% Damage Reduction (On idle)"
 
-#  Korean Text: '요원 엄폐 : 바로 뒤의 대상 보호 (보호기 제외) / 열 보호'
+#  Generated Partial Match; Korean Text: '요원 엄폐 : 바로 뒤의 대상 보호 (보호기 제외) / 열 보호'
 #: BuffEffect[Effect_PECS_Ignis_N_4].Name
 msgid "要員掩蔽：真後ろの対象保護(保護機を除く)/列保護"
 msgstr ""
+"Covering Important Personnel: Target Protect Behind (Except Defender) / "
+"Column Protection"
 
 #  Korean Text: '인화물 폭발 : 공격력 {0}% 고정 피해'
 #: BuffEffect[Effect_PECS_Ignis_N_11].BuffEffectType1_Desc
@@ -20391,20 +20407,20 @@ msgstr "環境適応: Resist Electric +{0}%"
 msgid "適応型防護服：電気属性被撃時、電気耐性増加"
 msgstr ""
 
-#  Korean Text: '요원 엄폐 : 열 보호'
+#  Generated Partial Match; Korean Text: '요원 엄폐 : 열 보호'
 #: BuffEffect[Effect_PECS_Ignis_N_15].BuffEffectType1_Desc
 msgid "要員掩蔽：列保護"
-msgstr ""
+msgstr "Covering Important Personnel: Column Protection"
 
 #  Generated Partial Match; Korean Text: '요원 엄폐 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_PECS_Ignis_N_16].BuffEffectType1_Desc
 msgid "要員掩蔽：受けるダメージ{0}%ダウン"
-msgstr "要員掩蔽: {0}% Damage Reduction"
+msgstr "Covering Important Personnel: {0}% Damage Reduction"
 
-#  Korean Text: '요원 엄폐 : 받는 피해 감소'
+#  Generated Partial Match; Korean Text: '요원 엄폐 : 받는 피해 감소'
 #: BuffEffect[Effect_PECS_Ignis_N_16].Name
 msgid "要員掩蔽：受けるダメージダウン"
-msgstr ""
+msgstr "Covering Important Personnel: 受けるダメージダウン"
 
 #  Korean Text: '럭키 히트! : 피해량+{0}%'
 #: BuffEffect[Effect_PECS_LRL_N_1].BuffEffectType1_Desc
@@ -20576,12 +20592,12 @@ msgstr ""
 #  Generated Partial Match; Korean Text: '검거 완료! : 공격력 / 치명타 / 적중 증가'
 #: BuffEffect[Effect_PECS_PuppHead_N_12].Name
 msgid "検挙完了!：攻撃力/クリティカル率/命中率増加"
-msgstr "検挙完了!: Attack / Critical Chance / Accuracy Up"
+msgstr "Arrest Complete!: Attack / Critical Chance / Accuracy Up"
 
-#  Korean Text: '빙결 : 행동 불능 (피격 시 해제) / 받는 피해 증가'
+#  Generated Partial Match; Korean Text: '빙결 : 행동 불능 (피격 시 해제) / 받는 피해 증가'
 #: BuffEffect[Effect_PECS_Serpent_N_2].Name
 msgid "氷結：行動不可(被撃時解除)/受けるダメージ増加"
-msgstr ""
+msgstr "氷結: Stunned (被撃時解除) / 受けるダメージ増加"
 
 #  Generated Partial Match; Korean Text: '긴급 구조 : 지정 대상 보호'
 #: BuffEffect[Effect_PECS_Serpent_N_3].BuffEffectType1_Desc
@@ -20698,10 +20714,10 @@ msgstr "Martial Arts Expert: AP Up (when attacked)"
 msgid "百歩神拳：移動不可/回避率減少対象ダメージ量増加"
 msgstr "百歩神拳: Rooted / 回避率減少対象ダメージ量増加"
 
-#  Korean Text: '분쇄 강타 : 피해 감소 해제'
+#  Generated Partial Match; Korean Text: '분쇄 강타 : 피해 감소 해제'
 #: BuffEffect[Effect_PECS_TommyWalker_N_1].Name
 msgid "粉砕強打：行動不可"
-msgstr ""
+msgstr "粉砕強打: Stunned"
 
 #  Korean Text: '작업용 앵커 : 당겨오기 / 행동력 감소 / 이동 불가'
 #: BuffEffect[Effect_PECS_TommyWalker_N_2].Name
@@ -20833,15 +20849,15 @@ msgstr ""
 msgid "水中用切断機：クリティカル時、ダメージダウン解除"
 msgstr ""
 
-#  Korean Text: '사이클론 스트림 : 빙결 (행동 불가)'
+#  Generated Partial Match; Korean Text: '사이클론 스트림 : 빙결 (행동 불가)'
 #: BuffEffect[Effect_PECS_Triaina_N_12].Name
 msgid "サイクロンストリーム：氷結(行動不可)"
-msgstr ""
+msgstr "Cyclone Stream: 氷結(行動不可)"
 
-#  Korean Text: '사이클론 스트림 : 빙결 (받는 피해 증가)'
+#  Generated Partial Match; Korean Text: '사이클론 스트림 : 빙결 (받는 피해 증가)'
 #: BuffEffect[Effect_PECS_Triaina_N_13].Name
 msgid "サイクロンストリーム：氷結(受けるダメージ増加)"
-msgstr ""
+msgstr "Cyclone Stream: 氷結(受けるダメージ増加)"
 
 #  Generated Partial Match; Korean Text: '어비스 워커 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_PECS_Triaina_N_14].BuffEffectType1_Desc
@@ -20896,7 +20912,7 @@ msgstr "ランスチャージ: Evasion +{0}% (敵撃破)"
 #  Generated Partial Match; Korean Text: '랜스 차지 : 방어력 감소 / 자신 회피 증가'
 #: BuffEffect[Effect_ST_Lancer_N_1].Name
 msgid "ランスチャージ：防御力減少/自分の回避率増加"
-msgstr "ランスチャージ: Defense Reduction / 自分の回避率増加"
+msgstr "ランスチャージ: Defense Reduction / Self Evasion Up"
 
 #  Generated Partial Match; Korean Text: '대열 방어 : 지정 대상 보호'
 #: BuffEffect[Effect_ST_Lancer_N_2].BuffEffectType1_Desc
@@ -21078,10 +21094,10 @@ msgstr "Active Defense Mechanism: Cast Barrier on Self"
 msgid "シェルター機能：受けるダメージ減少"
 msgstr "Shelter Function: Damage Reduction Up"
 
-#  Korean Text: '콘크리트 경화 : 방어력+{0}'
+#  Generated Partial Match; Korean Text: '콘크리트 경화 : 방어력+{0}'
 #: BuffEffect[Effect_SU_TrenchBomb_N_1].BuffEffectType1_Desc
 msgid "コンクリート硬化：防御力+{0}"
-msgstr ""
+msgstr "コンクリート硬化: Defense +{0}"
 
 #  Generated Partial Match; Korean Text: '콘크리트 경화 : 방어력 증가'
 #: BuffEffect[Effect_SU_TrenchBomb_N_1].Name
