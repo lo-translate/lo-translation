@@ -1667,7 +1667,7 @@ msgstr "Gifting one will increase a unit's experience by 3000."
 #  Korean Text: '전투 일지'
 #: ItemConsumable[Consumable_TacticRecord].ItemName
 msgid "戦闘日誌"
-msgstr "Battle Logs"
+msgstr "Battle Log"
 
 #  Korean Text: '전투 일지가 30권 들어있습니다.'
 #: ItemConsumable[Consumable_TacticRecord_M].ItemDesc
@@ -1697,7 +1697,7 @@ msgstr "Gifting one will increase a unit's experience by 100,000."
 #  Korean Text: '전투 기록'
 #: ItemConsumable[Consumable_TacticRecord_T2].ItemName
 msgid "戦闘記録"
-msgstr ""
+msgstr "Battle Record"
 
 #  Korean Text: '선물 시, 전투원의 경험치가 1,000,000 증가합니다.'
 #: ItemConsumable[Consumable_TacticRecord_T3].ItemDesc
@@ -1707,7 +1707,7 @@ msgstr "Gifting one will increase a unit's experience by 1,000,000."
 #  Korean Text: '멸망 전의 전쟁 기록'
 #: ItemConsumable[Consumable_TacticRecord_T3].ItemName
 msgid "滅亡前の戦争記録"
-msgstr ""
+msgstr "War Record"
 
 #  Korean Text: '선물 시, 전투원의 모든 스킬 경험치가 1000 증가합니다.'
 #: ItemConsumable[Consumable_TrainingManual].ItemDesc
@@ -1718,7 +1718,7 @@ msgstr ""
 #  Korean Text: '훈련 교본'
 #: ItemConsumable[Consumable_TrainingManual].ItemName
 msgid "訓練教本"
-msgstr "Training Manuals"
+msgstr "Training Manual"
 
 #  Korean Text: '훈련 교본 묶음'
 #: ItemConsumable[Consumable_TrainingManual_S].ItemName
@@ -1734,7 +1734,7 @@ msgstr ""
 #  Korean Text: '실전 교본'
 #: ItemConsumable[Consumable_TrainingManual_T2].ItemName
 msgid "実戦教本"
-msgstr "Military Report"
+msgstr "Practice Manual"
 
 #  Korean Text: '선물 시, 전투원의 모든 스킬 경험치가 100,000 증가합니다.'
 #: ItemConsumable[Consumable_TrainingManual_T3].ItemDesc
@@ -1745,7 +1745,7 @@ msgstr ""
 #  Korean Text: '멸망 전의 전술 교본'
 #: ItemConsumable[Consumable_TrainingManual_T3].ItemName
 msgid "滅亡前の戦争教本"
-msgstr ""
+msgstr "Tactics Manual"
 
 #  Korean Text: '링크 해제기 5개를 획득합니다.'
 #: ItemConsumable[CoreLink_Clear_5].ItemDesc
