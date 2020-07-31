@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-30 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -6863,7 +6863,7 @@ msgstr ""
 #  Korean Text: '장착중'
 #: LocalizationPatch:1000025
 msgid "装着中"
-msgstr ""
+msgstr "Equip"
 
 #: LocalizationPatch:1000026
 msgid "제 {0}구역"
