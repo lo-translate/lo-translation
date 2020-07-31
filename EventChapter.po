@@ -20,7 +20,9 @@ msgstr "Supreme Dinner"
 #  Korean Text: '리오보로스의 유산'
 #: EventChapter[Event_Chapter_02].Event_CategoryName
 msgid "リオボロスの遺産"
-msgstr "Legacy of Rioboros"
+msgstr ""
+"Legacy of\n"
+"  Rioboros"
 
 #  Korean Text: '만월의 야상곡'
 #: EventChapter[Event_Chapter_05].Event_CategoryName
