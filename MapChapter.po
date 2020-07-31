@@ -23,7 +23,7 @@ msgstr "Legacy of Rioboros Part 1"
 #  Korean Text: '지구의 마지막 인간'
 #: MapChapter[Chapter_01N].ChapterName
 msgid "地球上最後の人間"
-msgstr ""
+msgstr "The Last Human on Earth"
 
 #: MapChapter[Chapter_02Ev2].ChapterName
 msgid "リオボロスの遺産探査"
