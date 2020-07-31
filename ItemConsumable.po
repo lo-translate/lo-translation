@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-07-30 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1850,7 +1850,7 @@ msgstr ""
 #  Korean Text: '구 시대의 유품'
 #: ItemConsumable[Ev_Consumable_Antiques].ItemName
 msgid "滅亡前の遺品"
-msgstr ""
+msgstr "Relics"
 
 #  Korean Text: '멸망 전에 한 때 유행하던 뽀끄루 대마왕 스티커입니다. 다른 스티커들보다 희귀하며, 비교적 높은 연령대들 사이에 인기였다고 합니다.'
 #: ItemConsumable[Ev_Consumable_BADKSticker].ItemDesc
@@ -1885,7 +1885,7 @@ msgstr ""
 #  Korean Text: '식자재 (곡류가공품)'
 #: ItemConsumable[Ev_Consumable_CMFlour].ItemName
 msgid "食材(穀類加工品)"
-msgstr ""
+msgstr "Food (Flour)"
 
 #  Korean Text: '육류 계통 보존 식품입니다. 맛은 크게 기대하기 힘듭니다.'
 #: ItemConsumable[Ev_Consumable_CMMeat].ItemDesc
@@ -1895,7 +1895,7 @@ msgstr ""
 #  Korean Text: '식자재 (육류)'
 #: ItemConsumable[Ev_Consumable_CMMeat].ItemName
 msgid "食材(肉類)"
-msgstr ""
+msgstr "Food (Meat)"
 
 #  Korean Text: '보존 기간이 긴 조미료. 요리에는 빠질 수 없습니다.'
 #: ItemConsumable[Ev_Consumable_CMSeasoning].ItemDesc
@@ -1905,7 +1905,7 @@ msgstr ""
 #  Korean Text: '식자재 (조미료)'
 #: ItemConsumable[Ev_Consumable_CMSeasoning].ItemName
 msgid "食材(調味料)"
-msgstr ""
+msgstr "Food (Salt)"
 
 #  Korean Text: '야채 계통 보존 식품입니다. 흐물흐물한 식감이 일품입니다…'
 #: ItemConsumable[Ev_Consumable_CMVegetable].ItemDesc
@@ -1915,7 +1915,7 @@ msgstr ""
 #  Korean Text: '식자재 (야채류)'
 #: ItemConsumable[Ev_Consumable_CMVegetable].ItemName
 msgid "食材(野菜類)"
-msgstr ""
+msgstr "Food (Vegetables)"
 
 #  Korean Text: '<지고의 저녁 식사> 이벤트에서 획득 가능합니다.'
 #: ItemConsumable[Ev_Consumable_Cuisine].DropDesc
@@ -1930,7 +1930,7 @@ msgstr ""
 #  Korean Text: '걸작 요리'
 #: ItemConsumable[Ev_Consumable_Cuisine].ItemName
 msgid "傑作料理"
-msgstr ""
+msgstr "Meal"
 
 #  Korean Text: '멸망 전에 한 때 유행하던 매지컬 모모 스티커입니다.'
 #: ItemConsumable[Ev_Consumable_MMSticker].ItemDesc
@@ -1955,7 +1955,7 @@ msgstr ""
 #  Korean Text: '구 시대의 동화'
 #: ItemConsumable[Ev_Consumable_OldBronzeCoin].ItemName
 msgid "滅亡前の銅貨"
-msgstr ""
+msgstr "Copper Coin"
 
 #  Korean Text: '구 시대에 사용되던 금화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_OldGoldCoin].ItemDesc
@@ -1965,7 +1965,7 @@ msgstr ""
 #  Korean Text: '구 시대의 금화'
 #: ItemConsumable[Ev_Consumable_OldGoldCoin].ItemName
 msgid "滅亡前の金貨"
-msgstr ""
+msgstr "Gold Coin"
 
 #  Korean Text: '구 시대에 사용되던 은화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_OldSilverCoin].ItemDesc
@@ -1975,7 +1975,7 @@ msgstr ""
 #  Korean Text: '구 시대의 은화'
 #: ItemConsumable[Ev_Consumable_OldSilverCoin].ItemName
 msgid "滅亡前の銀貨"
-msgstr ""
+msgstr "Silver Coin"
 
 #  Korean Text: '각 이벤트의 챌린지 스테이지 클리어 시 얻을 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_OrcaMedal].DropDesc
@@ -1990,7 +1990,7 @@ msgstr ""
 #  Korean Text: '오르카 기념 훈장'
 #: ItemConsumable[Ev_Consumable_OrcaMedal].ItemName
 msgid "オルカ記念勲章"
-msgstr ""
+msgstr "Orca Memorial Medal"
 
 #  Korean Text: '리오보로스의 유산 이벤트 스테이지에서 획득할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_Seafood].DropDesc
@@ -2005,7 +2005,7 @@ msgstr ""
 #  Korean Text: '해산물'
 #: ItemConsumable[Ev_Consumable_Seafood].ItemName
 msgid "海産物"
-msgstr ""
+msgstr "Seafood"
 
 #  Korean Text: '리오보로스의 유산 이벤트 스테이지 보상으로 획득할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_TreasureMap].DropDesc
@@ -2020,7 +2020,7 @@ msgstr ""
 #  Korean Text: '구 시대의 지도'
 #: ItemConsumable[Ev_Consumable_TreasureMap].ItemName
 msgid "滅亡前の地図"
-msgstr ""
+msgstr "Treasure Map"
 
 #  Korean Text: '열대 지역에서 구할 수 있는 과일입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ItemConsumable[Ev_Consumable_TropicalFruit].ItemDesc
@@ -2030,7 +2030,7 @@ msgstr ""
 #  Korean Text: '열대 과일'
 #: ItemConsumable[Ev_Consumable_TropicalFruit].ItemName
 msgid "トロピカルフルーツ"
-msgstr ""
+msgstr "Tropical Fruit"
 
 #  Korean Text: '뭔가 들어있는 보물 상자입니다. 개봉을 의뢰하면 내용물을 확인할 수 있습니다.'
 #: ItemConsumable[Event_TreasureBox].ItemDesc
@@ -2040,7 +2040,7 @@ msgstr ""
 #  Korean Text: '보물 상자'
 #: ItemConsumable[Event_TreasureBox].ItemName
 msgid "宝箱"
-msgstr ""
+msgstr "Treasure Box"
 
 #  Korean Text: '봉인된 보물 상자를 50개 지급합니다.'
 #: ItemConsumable[Event_TreasureBox_50].ItemDesc
@@ -2050,7 +2050,7 @@ msgstr ""
 #  Korean Text: '봉인된 보물 상자 50개'
 #: ItemConsumable[Event_TreasureBox_50].ItemName
 msgid "封印された宝箱50個"
-msgstr ""
+msgstr "50 Treasure Boxes"
 
 #  Korean Text: '리오보로스의 유산 이벤트 스테이지 보상 또는 탐색으로 획득할 수 있습니다.'
 #: ItemConsumable[Event_TreasureBox_Closed].DropDesc

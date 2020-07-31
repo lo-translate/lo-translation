@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-07-30 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -15,14 +15,14 @@ msgstr ""
 #  Korean Text: '지고의 저녁 식사'
 #: EventChapter[Event_Chapter_01].Event_CategoryName
 msgid "至高の晩餐"
-msgstr ""
+msgstr "Supreme Dinner"
 
 #  Korean Text: '리오보로스의 유산'
 #: EventChapter[Event_Chapter_02].Event_CategoryName
 msgid "リオボロスの遺産"
-msgstr ""
+msgstr "Legacy of Rioboros"
 
 #  Korean Text: '만월의 야상곡'
 #: EventChapter[Event_Chapter_05].Event_CategoryName
 msgid "満月の夜想曲"
-msgstr ""
+msgstr "Full Moon Nocturne"

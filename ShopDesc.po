@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-07-30 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -4652,7 +4652,7 @@ msgstr ""
 #  Korean Text: '걸작 요리'
 #: ShopDesc[21001].ProductName
 msgid "傑作料理"
-msgstr ""
+msgstr "Meal"
 
 #  Korean Text: '구 시대에 사용되던 동화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21002].NPCDescription
@@ -4662,7 +4662,7 @@ msgstr ""
 #  Korean Text: '구 시대의 동화'
 #: ShopDesc[21002].ProductName
 msgid "滅亡前の銅貨"
-msgstr ""
+msgstr "Copper Coin"
 
 #  Korean Text: '구 시대에 사용되던 은화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21003].NPCDescription
@@ -4672,7 +4672,7 @@ msgstr ""
 #  Korean Text: '구 시대의 은화'
 #: ShopDesc[21003].ProductName
 msgid "滅亡前の銀貨"
-msgstr ""
+msgstr "Silver Coin"
 
 #  Korean Text: '구 시대에 사용되던 금화입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21004].NPCDescription
@@ -4682,7 +4682,7 @@ msgstr ""
 #  Korean Text: '구 시대의 금화'
 #: ShopDesc[21004].ProductName
 msgid "滅亡前の金貨"
-msgstr ""
+msgstr "Gold Coin"
 
 #  Korean Text: '지금 더 이상 구할 수 없는 구 시대의 유품입니다. 이벤트 교환소에서 귀한 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21005].NPCDescription
@@ -4692,7 +4692,7 @@ msgstr ""
 #  Korean Text: '구 시대의 유품'
 #: ShopDesc[21005].ProductName
 msgid "滅亡前の遺品"
-msgstr ""
+msgstr "Relics"
 
 #  Korean Text: '바다에서 구할 수 있는 식재료입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21006].NPCDescription
@@ -4702,7 +4702,7 @@ msgstr ""
 #  Korean Text: '해산물'
 #: ShopDesc[21006].ProductName
 msgid "海産物"
-msgstr ""
+msgstr "Seafood"
 
 #  Korean Text: '열대 지역에서 구할 수 있는 과일입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
 #: ShopDesc[21007].NPCDescription
@@ -4712,7 +4712,7 @@ msgstr ""
 #  Korean Text: '열대 과일'
 #: ShopDesc[21007].ProductName
 msgid "トロピカルフルーツ"
-msgstr ""
+msgstr "Tropical Fruit"
 
 #  Korean Text: '보물의 위치가 기록된 지도입니다. 믿을 수 있는 정보인지는 알 수 없습니다…'
 #: ShopDesc[21008].NPCDescription
@@ -4722,7 +4722,7 @@ msgstr ""
 #  Korean Text: '구 시대의 지도'
 #: ShopDesc[21008].ProductName
 msgid "滅亡前の地図"
-msgstr ""
+msgstr "Treasure Map"
 
 #  Korean Text: '단단히 봉인되어 열기 힘든 보물 상자입니다. 이벤트 교환소에서 개봉을 의뢰할 수 있습니다.'
 #: ShopDesc[21009].NPCDescription
@@ -4732,7 +4732,7 @@ msgstr ""
 #  Korean Text: '봉인된 보물 상자'
 #: ShopDesc[21009].ProductName
 msgid "宝箱"
-msgstr ""
+msgstr "Treasure Box"
 
 #  Korean Text: '멸망 전에 한 때 유행하던 매지컬 모모 스티커입니다.'
 #: ShopDesc[21010].NPCDescription
@@ -4768,11 +4768,13 @@ msgstr "Faucre Sticker"
 #: ShopDesc[22001].NPCDescription
 msgid "宝箱の封印を解除します。滅亡前の銅貨/銀貨/金貨/遺品がそれぞれ一定の確率で獲得できます。"
 msgstr ""
+"Unlock the box, randomly receiving Copper Coins, Silver Coins, Gold Coins or "
+"a relic."
 
 #  Korean Text: '보물 상자 해제 의뢰'
 #: ShopDesc[22001].ProductName
 msgid "宝箱の開錠依頼"
-msgstr ""
+msgstr "Unlocked Treasure Box"
 
 #: ShopDesc[91101].NPCDescription
 msgid "(イベント)  部品5000個(内ボーナス3160個)が入っています。"
