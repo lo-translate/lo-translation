@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-30 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -7249,4 +7249,68 @@ msgstr ""
 
 #: LocalizationPatch:1000120
 msgid "장비 분해실"
+msgstr ""
+
+#: LocalizationPatch:1000121
+msgid "미구현 시설 입니다."
+msgstr ""
+
+#: LocalizationPatch:1000122
+msgid "부품 생산 지원실"
+msgstr ""
+
+#: LocalizationPatch:1000123
+msgid "영양 생산 지원실"
+msgstr ""
+
+#: LocalizationPatch:1000124
+msgid "전력 생산 지원실"
+msgstr ""
+
+#: LocalizationPatch:1000125
+msgid "건설 소모 시간"
+msgstr ""
+
+#: LocalizationPatch:1000126
+msgid "다음 레벨"
+msgstr ""
+
+#: LocalizationPatch:1000127
+msgid "시스템 가이드"
+msgstr ""
+
+#: LocalizationPatch:1000128
+msgid "아주 좋습니다! 그런 쓸모없는 것들은 가져가시고 제게 고철을 가져다주세요!"
+msgstr ""
+
+#: LocalizationPatch:1000130
+msgid "마음에 드신다니 다행이군요. 계속 진행하시지요!"
+msgstr ""
+
+#: LocalizationPatch:1000132
+msgid "쿠후후, 나름 쓸만하지 않습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000133
+msgid "축하드립니다! 엄청난 걸 찾으셨군요! 그야말로 초. 대. 박!"
+msgstr ""
+
+#: LocalizationPatch:1000134
+msgid "어이쿠, 안녕하십니까! 이번에도 화물을 탐색해보시지요! 그리고 제게 고철을 가져오시면… 쿠후후..."
+msgstr ""
+
+#: LocalizationPatch:1000135
+msgid "회차 보상"
+msgstr ""
+
+#: LocalizationPatch:1000136
+msgid "보상 획득!"
+msgstr ""
+
+#: LocalizationPatch:1000137
+msgid "탐색 연출 건너뛰기"
+msgstr ""
+
+#: LocalizationPatch:1000138
+msgid "회차 특수 보상"
 msgstr ""

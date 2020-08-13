@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-30 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -454,6 +454,11 @@ msgstr "Given Spartan Captain"
 #: ItemConsumable[CharTicket_Char_AGS_SpartanC_N].ItemName
 msgid "S25スパルタンキャプテン"
 msgstr "Spartan Captain"
+
+#  Korean Text: 'T-13 알비스'
+#: ItemConsumable[CharTicket_Char_BR_Alvis_N].ItemName
+msgid "T-13アルビス"
+msgstr "T-13 Alvis"
 
 #  Korean Text: '에이미 레이저을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Amy_N].ItemDesc
@@ -1121,7 +1126,7 @@ msgstr "Flying Attacker Module EX"
 
 #  Korean Text: '전투원 강화용 모듈입니다. 치명타 강화치+(중) / 적중 강화치+(중)'
 #: ItemConsumable[CharTicket_Char_Module_MC_A_N].ItemDesc
-msgid "戦闘員強化用モジュールです。攻撃力強化値+(中)/命中強化値+(中)"
+msgid "戦闘員強化用モジュールです。クリティカル強化値+(中)/命中強化値+(中)"
 msgstr ""
 "Module for unit enhancement. Crit Chance Enhacement+(Medium) / Accuracy "
 "Enhancement+(Medium)"
@@ -3260,6 +3265,16 @@ msgstr "Receive 3 cans of tuna every day for 30 days."
 msgid "ツナ缶供給発注"
 msgstr "Order tuna can supply"
 
+#  Korean Text: '마법소녀?! 매지컬 뽀끄루'
+#: ItemConsumable[Shop_Package__DS_Faucre_1].ItemName
+msgid "魔法少女！？マジカルポックル"
+msgstr "Magical Girl?! Magical Faucre"
+
+#  Korean Text: '밤의 여왕의 초대'
+#: ItemConsumable[Shop_Package_3P_Alice_1].ItemName
+msgid "夜の女王の招待"
+msgstr ""
+
 #  Korean Text: '리리스용 수영복?과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_3P_BlackLilith_2].ItemDesc
 msgid "リリス用の水着(?)と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
@@ -3297,7 +3312,7 @@ msgstr ""
 
 #  Korean Text: '한여름의 특급 셰프'
 #: ItemConsumable[Shop_Package_3P_Sowan_1].ItemName
-msgid "真夏の特急シェフ"
+msgid "真夏の特級シェフ"
 msgstr "Midsummer Top Chef"
 
 #  Korean Text: '유전자 씨앗/급속 완성 회로 10개와 부품/영양/전력이 5000개씩 들어있는 팩입니다.'
@@ -3319,6 +3334,11 @@ msgstr ""
 #: ItemConsumable[Shop_Package_BioMaking_02].ItemName
 msgid "バイオロイド大量生産パック"
 msgstr ""
+
+#  Korean Text: '알비스 백작의 습격'
+#: ItemConsumable[Shop_Package_BR_Alvis_1].ItemName
+msgid "アルビス伯爵の襲撃"
+msgstr "Count Alvis"
 
 #  Korean Text: '스틸 드라코용 기동타격대 제복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_BR_AS12TurtleDragon_1].ItemDesc
@@ -3388,6 +3408,11 @@ msgstr ""
 msgid "真夏のヴァルキリー"
 msgstr "Midsummer Valkyrie"
 
+#  Korean Text: '백토, 더 비스트 슬레이어'
+#: ItemConsumable[Shop_Package_DS_Baekto_1].ItemName
+msgid "白兎、ザビーストスレイヤー"
+msgstr ""
+
 #  Korean Text: '샬럿용 보석 비키니와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_DS_Charlotte_1].ItemDesc
 msgid "シャーロット用の宝石ビキニと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
@@ -3430,7 +3455,7 @@ msgstr "Midsummer Lifeguard"
 
 #  Korean Text: '익스프레스 76용 아르바이트 유니폼과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_PECS_Express76_1].ItemDesc
-msgid "エクスプレス76用のアルバイトの制服と手作りケーキ１個、チョコレート２個、合成ローリーポップ３個が入ったパックです。"
+msgid "エクスプレス76用のアルバイトの制服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '한여름의 아르바이트'
@@ -3934,6 +3959,11 @@ msgstr ""
 msgid "調教服(アレクサンドラ)"
 msgstr ""
 
+#  Korean Text: '밤의 여왕의 초대에 응해 함께 달콤한 꿈을 꾸러 가보시겠어요? 영원히 깰 수 없을지도 모르지만......'
+#: ItemConsumable[Skin_3P_Alice_1].ItemDesc
+msgid "夜の女王の招待に応じて共に甘い夢を見に行きませんか？永遠に眠りから覚めないかもしれませんが…"
+msgstr ""
+
 #  Korean Text: '너무 위험한 메이드를 들이고 말았군요.'
 #: ItemConsumable[Skin_3P_BlackLilith_1].ItemDesc
 msgid "とても危険なメイドを入れちゃいましたね。"
@@ -4110,6 +4140,12 @@ msgstr ""
 msgid "戦闘用カラー(ランパート)"
 msgstr ""
 
+#  Korean Text: '알비스 백작은 발키리 언니에게 받은 가방이 가득 찰 정도의 초콜릿을 원하십니다. 초콜릿으로 퇴치하지 않으면 무서운 일을 겪을지도 모릅니다!'
+#: ItemConsumable[Skin_BR_Alvis_1].ItemDesc
+msgid ""
+"アルビス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
+msgstr ""
+
 #  Korean Text: '유혹보다 실용성이 필요할 때 에이미는 이 옷을 입지요. 뭐, 보는 사람에 따라서는 이 수트가 더욱 매혹적이라고 하더라도요.'
 #: ItemConsumable[Skin_BR_Amy_1].ItemDesc
 msgid "誘惑より実用性が必要な時、エイミーはこの服を着ます。もっとも、人によってはこのスーツの方がより魅惑的に感じるでしょうが。"
@@ -4280,6 +4316,12 @@ msgstr ""
 #: ItemConsumable[Skin_BR_Miho_1].ItemName
 msgid "エプロン(ミホ)"
 msgstr "Kitchen Apron (Miho)"
+
+#  Korean Text: '브라우니들에게 과거 할로윈 풍습에 대해서 들은 네오딤은 다른 이들보다 조금 더 먼저 행동할 마음을 먹었습니다. 유령이 된 그녀는 어떤 장난을 칠까요?'
+#: ItemConsumable[Skin_BR_Neodym_1].ItemDesc
+msgid ""
+"ブラウニーから過去のハロウィンの風習について聞いたネオディムは誰よりも早く行動しようと決心しました。幽霊に仮想した彼女はどんなイタズラをするのでしょうか？"
+msgstr ""
 
 #: ItemConsumable[Skin_BR_Neodym_2].ItemDesc
 msgid "本機のだった一人のお客様であるあなたにすべてのサービスが無料で提供されます。まずは担当乗務員ネオディムとシャンパンでもいかがでしょう？"
@@ -4492,6 +4534,11 @@ msgstr ""
 msgid "ラブリーベアコスチューム (アタランテ)"
 msgstr ""
 
+#  Korean Text: '만월의 힘이 충만한 빨간 망토 백토가 나타났습니다! 할로윈에 날뛰는 마물들은 각오하는 게 좋을 겁니다!'
+#: ItemConsumable[Skin_DS_Baekto_1].ItemDesc
+msgid "満月の力がみなぎる赤いマントの白兎が登場しました！ハロウィンの日に暴れ回る魔物たちは覚悟した方がよさそうです！"
+msgstr ""
+
 #  Korean Text: '호화로운 보석으로 만들어진 이 수영복은 모델을 화려하게 보이게 합니다. 유일한 단점은 보석이 너무 비싸 작게 만들 수 밖에 없단 점이죠.'
 #: ItemConsumable[Skin_DS_Charlotte_1].ItemDesc
 msgid "豪華な宝石で作られたこの水着はモデルを華やかに見せます。 唯一の短所は宝石が高すぎて小さく作るしかないという点ですね。"
@@ -4500,6 +4547,11 @@ msgstr ""
 #  Korean Text: '프랑스 풍 보석 비키니 (샬럿)'
 #: ItemConsumable[Skin_DS_Charlotte_1].ItemName
 msgid "フランス風宝石ビキニ(シャーロット)"
+msgstr ""
+
+#  Korean Text: '어느 친구의 강요로 전직한 뽀끄루 (전) 대마왕입니다. 크기야 어쨌든 보는 이들에게 꿈과 희망만 줄 수 있으면 아무래도 좋지 않을까요?'
+#: ItemConsumable[Skin_DS_Faucre_1].ItemDesc
+msgid "とある仲間の強要で転職したポックル(前)大魔王です。大きさはさておき見る者をして夢と希望を与えることができればそれだけで十分じゃないでしょうか？"
 msgstr ""
 
 #  Korean Text: '마법소녀 매지컬 모모의 시즌 2에 사용했던 매지컬 문 변신 코스튬입니다. 달토끼의 힘을 완벽하게 흡수해 한층 강한 마법의 힘을 보여줄 수 있습니다.'

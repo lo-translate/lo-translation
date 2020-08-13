@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-30 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -25,6 +25,14 @@ msgstr "Legacy of Rioboros Part 1"
 msgid "地球上最後の人間"
 msgstr "The Last Human on Earth"
 
+#: MapChapter[Chapter_01S].ChapterName
+msgid "外伝１"
+msgstr ""
+
+#: MapChapter[Chapter_01S].ChapterString
+msgid "외전01"
+msgstr ""
+
 #: MapChapter[Chapter_02Ev2].ChapterName
 msgid "リオボロスの遺産探査"
 msgstr "Legacy of Rioboros Exploration"
@@ -32,6 +40,10 @@ msgstr "Legacy of Rioboros Exploration"
 #  Korean Text: '즐거운 나의 집'
 #: MapChapter[Chapter_02N].ChapterName
 msgid "楽しい我が家"
+msgstr ""
+
+#: MapChapter[Chapter_03Ev2].ChapterName
+msgid "リオボロスの遺産2部"
 msgstr ""
 
 #  Korean Text: '호문쿨루스'

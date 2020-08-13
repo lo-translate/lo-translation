@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -295,4 +295,8 @@ msgstr "Sisters of Walhalla"
 
 #: TroopCategory[Squad_Walhalla_2].Squad_Name
 msgid "シスターズオブヴァルハラII"
+msgstr ""
+
+#: TroopCategory[Squad_WatcherOfNature].Squad_Name
+msgid "ウォッチャーオブネイチャー"
 msgstr ""

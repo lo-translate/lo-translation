@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -62,6 +62,14 @@ msgstr ""
 #  Korean Text: '나이트 드레스 콘스탄챠'
 #: CharSkin[Skin_3P_ConstantiaS2_2].SkinName
 msgid "ナイトドレスコンスタンツァ"
+msgstr ""
+
+#: CharSkin[Skin_3P_ConstantiaS2_S1].SkinDesc
+msgid "眼鏡を外したコンスタンツァです。"
+msgstr ""
+
+#: CharSkin[Skin_3P_ConstantiaS2_S1].SkinName
+msgid "眼鏡を外したコンスタンツァ"
 msgstr ""
 
 #  Korean Text: '우유를 너무 사랑하는 페로는 자기도 모르게 주인님의 우유를 훔쳐 먹고 말았습니다. 그런데 흘리고 말았군요. 이 일을 어쩌면 좋죠?'
@@ -122,6 +130,14 @@ msgstr ""
 msgid "ナースリーゼ"
 msgstr ""
 
+#: CharSkin[Skin_3P_Sowan_1].SkinDesc
+msgid "「くそっ!下がって!これはソワンの罠だ!」 多くの競争者を罠に陥れて作った水着です。ソワンは果たして目的を達成できるでしょうか?"
+msgstr ""
+
+#: CharSkin[Skin_3P_Sowan_1].SkinName
+msgid "ソワンの罠"
+msgstr ""
+
 #: CharSkin[Skin_AGS_Gigantes_1].SkinDesc
 msgid ""
 "長い間、深い深海に住むダゴンはランパリオンの最大の敵でした。また、部下たちの失敗に憤怒したダゴンがついに深海から立ち上がりました。(- "
@@ -146,6 +162,14 @@ msgstr ""
 #  Korean Text: '강철의 수호자 램파리온'
 #: CharSkin[Skin_AGS_Rampart_1].SkinName
 msgid "鋼の守護者ランパリオン"
+msgstr ""
+
+#: CharSkin[Skin_AGS_Rampart_S1].SkinDesc
+msgid "戦争用にチューニングされたランパートです。"
+msgstr ""
+
+#: CharSkin[Skin_AGS_Rampart_S1].SkinName
+msgid "戦争兵器ランパート"
 msgstr ""
 
 #  Korean Text: '유혹보다 실용성이 필요할 때 에이미는 이 옷을 입지요. 뭐, 보는 사람에 따라서는 이 수트가 더욱 매혹적이라고 하더라도요.'
@@ -357,6 +381,14 @@ msgstr ""
 msgid "礼装服グリフォン"
 msgstr ""
 
+#: CharSkin[Skin_BR_PA00EL_S1].SkinDesc
+msgid "偵察用のステルススーツを着たグリフォンです。"
+msgstr ""
+
+#: CharSkin[Skin_BR_PA00EL_S1].SkinName
+msgid "ステルス用グリフォン"
+msgstr ""
+
 #: CharSkin[Skin_BR_Phoenix_1].SkinDesc
 msgid ""
 "フェニックスは大事な装備を自分で整備したりします。ちゃんとした整備服があるはずなのに、あえて夏季戦闘服姿であなたの前で整備をするのには理由がありそうですね。"
@@ -422,6 +454,16 @@ msgstr ""
 msgid "スレイプニールのストライプの水着"
 msgstr ""
 
+#: CharSkin[Skin_BR_Spriggan_1].SkinDesc
+msgid ""
+"海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官様の私生活を…少しだけ覗いてみましょうか"
+"?心配要りません!極秘放送ですので!"
+msgstr ""
+
+#: CharSkin[Skin_BR_Spriggan_1].SkinName
+msgid "ビーチリポータースプリガン"
+msgstr ""
+
 #  Korean Text: '토모는 특별 활동으로 체조부를 선택했습니다. 글쎄요. 체조의 규칙이 간단하긴 합니다만…'
 #: CharSkin[Skin_BR_Tomoe_1].SkinDesc
 msgid "トモは部活動に体操部を選びました。さあ、体操はルールが簡単ではありますが……"
@@ -432,6 +474,14 @@ msgstr ""
 #  Korean Text: '체조부 토모'
 #: CharSkin[Skin_BR_Tomoe_1].SkinName
 msgid "体操部トモ"
+msgstr ""
+
+#: CharSkin[Skin_BR_Tomoe_S1].SkinDesc
+msgid "教育を通じて知識が増えたトモです。 有用な知識かはわかりませんが。"
+msgstr ""
+
+#: CharSkin[Skin_BR_Tomoe_S1].SkinName
+msgid "模範生トモ"
 msgstr ""
 
 #  Korean Text: '야전을 위한 제복은 도시에선 너무 눈에 띄죠. 도시에 있는 적의 제거를 위해 발키리는 좀 더 도시에 어울리는 옷을 선택했습니다.'
@@ -490,6 +540,14 @@ msgstr ""
 msgid "儀仗隊ケルベロス"
 msgstr ""
 
+#: CharSkin[Skin_PECS_Cerberus_2].SkinDesc
+msgid "ケルベロスは海でも自分の立場を忘れません。彼女は皆のために自ら番犬役を買って出ています。"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Cerberus_2].SkinName
+msgid "ビーチの見張り役"
+msgstr ""
+
 #  Korean Text: '상공회의소의 행사장은 더치걸이 햇빛을 보는 얼마 안 되는 날입니다. 이날 만은 노동에서 벗어난 더치걸이 마음놓고 쉴 수 있죠.'
 #: CharSkin[Skin_PECS_DutchGirl_1].SkinDesc
 msgid "商工会議所のイベントホールはダッチガールが日の目を見る数少ない日です。この日だけは労働から離れてダッチガールが心置きなく休めます。"
@@ -498,6 +556,14 @@ msgstr ""
 #  Korean Text: '행사장 더치걸'
 #: CharSkin[Skin_PECS_DutchGirl_1].SkinName
 msgid "イベントダッチガール"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Express76_1].SkinDesc
+msgid "ワークホリックのエクスプレス76は休養地でも仕事の事を忘れません。ツナ缶を集めて誰かにあげようとしているんでしょうか?"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Express76_1].SkinName
+msgid "76アルバイトユニフォーム"
 msgstr ""
 
 #  Korean Text: '심해에도 포츈이 수리할 수많은 설비가 있습니다. 이 신소재는 몸을 가리는 기능 외에 모든 것이 가능합니다.'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -850,7 +850,9 @@ msgstr "Crit Chance +{0} / Evasion {1} / Attack / Increase Defense Penetration"
 
 #  Korean Text: '기동형 전용 전략 폭격용 보조 장비입니다.\n공격력 / 치명타 / 방어 관통이 증가하지만 회피가 감소합니다.'
 #: ItemEquip[Equip_Sub_Bombard_T4].ItemDesc_Detail
-msgid "機動型専用の戦略爆撃装置です。＆n攻撃力/クリティカル/防御貫通は増加しますが、回避が減少します。"
+msgid ""
+"機動型専用の戦略爆撃装置です。\n"
+"攻撃力/クリティカル/防御貫通は増加しますが、回避が減少します。"
 msgstr ""
 "A strategic bombing aid for flying units.\n"
 "Attack / Crit Chance / Defense Penetration are increased but evasion "
@@ -1020,7 +1022,7 @@ msgstr "Dummy Hologram EX"
 
 #  Korean Text: '능력 증가 / 낮은 확률로 행동 불가'
 #: ItemEquip[Equip_Sub_HornOfBADK_T4].ItemDesc
-msgid "能力増加 / 低確率で行動不可"
+msgid "能力増加/低確率で行動不可"
 msgstr "Stats Up / Low chance to be Stunned"
 
 #  Korean Text: '뽀끄루 대마왕의 힘으로 본 능력 이상으로 강해지지만, 가끔 아무 행동을 하지 않고 멍하니 있게 됩니다. 바이오로이드에게만 효과가 있습니다.'
@@ -1260,7 +1262,7 @@ msgstr "Spaced Armor RE"
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.2'
 #: ItemEquip[Equip_Sub_SpaceArmor_T2].ItemDesc
-msgid "HP+{0} / 受けるダメージ減少 Lv.２"
+msgid "HP+{0}/受けるダメージ減少 Lv.２"
 msgstr "HP +{0} / Reduced damage received for a fixed number of attacks Lv.2"
 
 #  Korean Text: '공간 장갑 MP'
@@ -1270,7 +1272,7 @@ msgstr "Spaced Armor MP"
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.3'
 #: ItemEquip[Equip_Sub_SpaceArmor_T3].ItemDesc
-msgid "HP+{0} / 受けるダメージ減少 Lv.３"
+msgid "HP+{0}/受けるダメージ減少 Lv.３"
 msgstr "HP +{0} / Reduced damage received for a fixed number of attacks Lv.3"
 
 #  Korean Text: '공간 장갑 SP'
@@ -1280,7 +1282,7 @@ msgstr "Spaced Armor SP"
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.4'
 #: ItemEquip[Equip_Sub_SpaceArmor_T4].ItemDesc
-msgid "HP+{0} / 受けるダメージ減少 Lv.４"
+msgid "HP+{0}/受けるダメージ減少 Lv.４"
 msgstr "HP +{0} / Reduced damage received for a fixed number of attacks Lv.4"
 
 #  Korean Text: '공간 장갑 EX'
@@ -1422,7 +1424,9 @@ msgstr "ACT +{0} / Range Up / DMG Reduction Up"
 
 #  Korean Text: '스카디 전용 수상한 보조 식품입니다.\n대부분의 바이오로이드들이 기피하는 식품입니다.'
 #: ItemEquip[Equip_Sub_STEROID_T4].ItemDesc_Detail
-msgid "スカディー専用あやしげな補助食品です。＆nほとんどのバイオロイドたちが忌避する食品です。"
+msgid ""
+"スカディー専用あやしげな補助食品です。\n"
+"ほとんどのバイオロイドたちが忌避する食品です。"
 msgstr ""
 "A suspicious food supplement for Scathy.\n"
 "Most Bioroids will refuse to eat this product."
@@ -1555,7 +1559,9 @@ msgstr "HP +{0} / Defense +{1} / Increased Defense Capabilities"
 
 #  Korean Text: 'T-60 불가사리 전용 신소재 테러 진압용 외장 아머입니다.\n속성 저항과 받는 피해가 감소합니다.'
 #: ItemEquip[Equip_Sub_T60ExtArmor_T4].ItemDesc_Detail
-msgid "T-60のヒトデ専用の新素材テロ鎮圧用外装アーマーです。＆n属性抵抗がアップします。"
+msgid ""
+"T-60のヒトデ専用の新素材テロ鎮圧用外装アーマーです。\n"
+"属性抵抗がアップします。"
 msgstr ""
 "This is a T-60 Bulgasari-only armor plating for suppressing "
 "terrorism.\n"

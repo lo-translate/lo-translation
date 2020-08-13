@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-28 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2161,6 +2161,26 @@ msgstr ""
 #: Quest[Achievement_216].QuestTitle
 msgid "処刑された処刑者"
 msgstr "Execute the Executioner"
+
+#  Korean Text: '토모가 주인공인 이야기 파일 완료'
+#: Quest[Achievement_351].QuestDesc
+msgid "トモが主人公の物語ファイルを完了"
+msgstr ""
+
+#  Korean Text: '언어 모듈 업그레이드!'
+#: Quest[Achievement_351].QuestTitle
+msgid "言語モジュールアップグレード！"
+msgstr "Language Module Upgraded!"
+
+#  Korean Text: '그리폰이 주인공인 이야기 파일 완료'
+#: Quest[Achievement_352].QuestDesc
+msgid "グリフォンが主人公の物語ファイルを完了"
+msgstr ""
+
+#  Korean Text: '은근히 친한 사이?'
+#: Quest[Achievement_352].QuestTitle
+msgid "意外と親しい仲？"
+msgstr "Friendlier than You Expect?"
 
 #  Korean Text: '메인 스테이지 10회 클리어'
 #: Quest[DailyQuest_Fix_001].QuestDesc

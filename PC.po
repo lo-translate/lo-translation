@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -124,7 +124,7 @@ msgstr "Labiata"
 
 #  Korean Text: '레아가 왔어요. 자, 제 자매들은 어디 있나요?'
 #: PC[Char_3P_Rhea_N].DialogJoin
-msgid "レアが来ました。し、姉妹たちはどこに居ますか?"
+msgid "レア、参りました。ええと…姉妹たちはどこですか？"
 msgstr ""
 
 #  Korean Text: '레아'
@@ -301,6 +301,11 @@ msgstr "Spartan Boomer"
 #: PC[Char_AGS_SpartanC_N].Name
 msgid "S25スパルタンキャプテン"
 msgstr "Spartan Captain"
+
+#  Korean Text: 'T-13 알비스'
+#: PC[Char_BR_Alvis_N].Name
+msgid "T-13アルビス"
+msgstr "T-13 Alvis"
 
 #  Korean Text: '어머나 자기, 날 기다리고 있었나요?'
 #: PC[Char_BR_Amy_N].DialogJoin
@@ -517,6 +522,11 @@ msgstr "T-3 Leprechaun"
 #: PC[Char_BR_Lindwurm_N].DialogJoin
 msgid "はい～!一番可愛いバイオロイドをお探しですか?"
 msgstr ""
+
+#  Korean Text: 'P-29 린트블룸'
+#: PC[Char_BR_Lindwurm_N].Name
+msgid "P-29リントヴルム"
+msgstr "P-29 Lindwurm"
 
 #  Korean Text: '반갑습니다. 사령관 각하. 오늘 만남이 역사적인 순간이 되었으면 좋겠군요.'
 #: PC[Char_BR_Marie_N].DialogJoin
@@ -1185,7 +1195,7 @@ msgstr "Elven ForestMaker"
 
 #  Korean Text: '반가워. 사령관, 내가 지켜야 할 곳은 어디야?'
 #: PC[Char_PECS_Empress_N].DialogJoin
-msgid "こんにちは。司令官。私が守るべき場所はどこ?"
+msgid "こんにちはなの、司令官。どこを守ればいいの？"
 msgstr ""
 
 #  Korean Text: '엠프리스'
@@ -1215,7 +1225,7 @@ msgstr "Fortune"
 
 #  Korean Text: '안녕하세요. 잘 부탁 드리겠습니다.'
 #: PC[Char_PECS_Ignis_N].DialogJoin
-msgid "こんにちは。よろしくお願いいたします。"
+msgid "こんにちは。よろしくお願いします。"
 msgstr ""
 
 #  Korean Text: '이그니스'

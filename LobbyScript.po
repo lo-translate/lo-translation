@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -165,6 +165,14 @@ msgstr ""
 msgid "分かっています。私もご主人様に惹かれていますから。うふふ、何をして遊びましょうか。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "こんな早い時間に、いくら私でも恥ずかしいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_BlackLilith_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "私も待っていました。早く行きましょう。静かな所へ。それとも開放的な所が好きですか？"
+msgstr ""
+
 #: LobbyScript[LobbyScript_3P_ConstantiaS2].LobbyScript1[1](Affection<100)
 msgid "今日はどんなお茶がいいですか？"
 msgstr ""
@@ -254,6 +262,14 @@ msgstr ""
 msgid "ひょっとしたらオイルが水を防いでくれるかもしれないですね。ご主人様、お願いします。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "にゃん！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_CSPerrault_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ここは開放された場所です。少なくとも時と場所はわきまえてください。"
+msgstr ""
+
 #: LobbyScript[LobbyScript_3P_Daphne].LobbyScript1[1](Affection<100)
 msgid "おだやかな日ですね。こんな日には森の中を歩きたいです。"
 msgstr ""
@@ -284,6 +300,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Daphne].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "ご主人様さえよろしければ… 少しだけ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScript1[1](Affection<100)
+msgid "うふふ、アクアもご主人様と一緒に海に来たがっていたのに…私が先に来てしまいましたね。 "
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScript1[2](Affection<100)
+msgid "うふふ、涼しい日陰にいると寝転びたくなりませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScript1[3](Affection<100)
+msgid "今日こうして二人だけでいることは秘密ですよ。知られたら困る姉妹たちがいますので… "
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScript2[1](Affection>40)
+msgid "ご主人様といると… つい姉妹たちのことを忘れてしまいます。いけませんね…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScript3[3](Affection>70)
+msgid "リーゼお姉さまのことならもう大丈夫です。ご主人様の迷惑にならないようにします…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScript4[2](Affection=100)
+msgid "膝をお貸ししますので一休みしてください。もし眠ってしまったら…私がご主人様をお護りします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "きゃ！ご主人様、そんなことされると…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Daphne_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ほんとうにもう…膝の上で寝ていらっしゃるだけだと思ったら…少しだけですよ。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Fenrir].LobbyScript1[1](Affection<100)
@@ -436,6 +484,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Labiata].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "もう、そんなに気になりますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScript1[1](Affection<100)
+msgid "家事をもう少し習っておくべきだったわ… "
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScript1[2](Affection<100)
+msgid "ご主人様…外出の時には一言お願いします…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScript1[3](Affection<100)
+msgid "雨が降る日は…お好きですか？必要なら…いつでもお申し付けください。 "
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScript2[1](Affection>40)
+msgid "私は…料理よりも凄いことができます……。それに…練習すればいいじゃないですかぁ…。…少しだけ時間をください？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScript3[3](Affection>70)
+msgid "雨が降る春の日に…ご主人様と一緒にお散歩してみたいです…二人きりで…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScript4[2](Affection=100)
+msgid "ふふ、ご主人様も私をお姉さんのように思ってくれていいんですよ…。そう、「ように」…ですよ？本当のお姉さんじゃないですから………"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "まあ！悪い子はお仕置きしますよ～！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Rhea].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "だめです…そんな突然…ずるいです…。少し暗くしましょうか…少々お待ちください。いいですね？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_ScissorsLise].LobbyScript1[1](Affection<100)
@@ -603,6 +683,14 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Fallen].LobbyScript1[2](Affection<100)
 msgid "何かお探しですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Fortress].LobbyScript1[1](Affection<100)
+msgid "私は味方の防壁となるべく設計されました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Fortress].LobbyScript1[3](Affection<100)
+msgid "女性型バイオロイドが危険な行動をとる時は私の後ろに避難してください。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Gigantes].LobbyScript1[1](Affection<100)
@@ -1450,6 +1538,38 @@ msgstr ""
 msgid "閣下、ブラウニーと同じ馬鹿ですか？このようなことは皆の前でやることではありません。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript1[1](Affection<100)
+msgid "戦いだけじゃリンティがもったいないと思います。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript1[2](Affection<100)
+msgid "はぁーリンティはこんなに可愛いのにどうして軍人に生まれちゃったんでしょうね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript1[3](Affection<100)
+msgid "「リントヴルム」じゃなくて「リンティ」って呼んでくれますか？そっちの方がずっと可愛いじゃないですか～！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript2[1](Affection>40)
+msgid "はいは～い！最高に可愛いリンティに会いに来てくれたんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript3[3](Affection>70)
+msgid "うふふ！恥ずかしがることありません。ボクの後に続いて言ってみましょう。ほら、リンティ、リンティ。その調子。リンティ♪"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript4[2](Affection=100)
+msgid "そういうわけでリンティは世界一可愛い軍人になるって決めたんです。司令官もリンティに協力してくださいね？わかりました？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ひぃ？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "可愛いだけじゃ…満足できないんですか？！"
+msgstr ""
+
 #  From Affection Doc
 #: LobbyScript[LobbyScript_BR_Marie].LobbyScript1[1](Affection<100)
 msgid "普段ですか？主に訓練や瞑想を行っていますが？"
@@ -1643,6 +1763,14 @@ msgstr ""
 msgid "私がこんな水着を着た理由は分かってるよね？鼻息ばっか荒くしてないで、自信もって行動しなよ。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "勇気あるね。司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_May_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "良識のある行動をとってよね。ついてきて、静かな場所で教育してあげるから。"
+msgstr ""
+
 #: LobbyScript[LobbyScript_BR_Miho].LobbyScript1[1](Affection<100)
 msgid "ん？私の服に何か付いてる？取ってちょうだい。"
 msgstr ""
@@ -1825,6 +1953,14 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScript4[2](Affection=100)
 msgid "どうです？司令官、仰ってください。カーン隊長やマリー隊長より私の方がいいですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "この変態！あ、一度言ってみたかったんです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_NightAngel_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "やっぱり司令官は下半身派だったんですね。分かりました。今日は長い脚がどう使われるのか教えて差し上げます。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Nymph].LobbyScript1[1](Affection<100)
@@ -2307,6 +2443,38 @@ msgstr ""
 msgid "か、感謝しなさい…このトップアイドルにこんなスキンシップ…司令官だから許してるんだから。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScript1[1](Affection<100)
+msgid "これだけは忘れないで。空の上では私が一番だけど…水の中ではそうじゃないから…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScript1[2](Affection<100)
+msgid "この流線形の体形が水泳に有利って？そもそも私、泳ぎは得意じゃないんだけど？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScript1[3](Affection<100)
+msgid "司令官？どう？これなら水着コンテストでも私が一番じゃないかしら？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScript2[1](Affection>40)
+msgid "司令官…水に入ったら絶対に私のこと離さないでよ？もし離したらただじゃおかないからね…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScript3[3](Affection>70)
+msgid "ねぇ…この水着、可愛いから気に入ったし…なにより司令官が選んでくれたってことが一番嬉しいわ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScript4[2](Affection=100)
+msgid "な、何でそんなにジロジロ見るの…？うぅ…目つきがやらしい…。いや、見ていいんだけど…。司令官に見てもらうために着てるんだし…。でも、やらしい…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ヒャッ！ひ、ひ、秘密のデートなのよ！？バレたらどうするのよー！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Sleipnir_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "しー！バレちゃうじゃない！ちゃんと言ってくれたら、いくらでも大丈夫なのに... 。もう... ！ハイ。いいわよ。どうぞ。"
+msgstr ""
+
 #: LobbyScript[LobbyScript_BR_Spriggan].LobbyScript1[1](Affection<100)
 msgid "私のファッションセンスを見せてあげたいけど、軍服だとこれが精一杯だわ。 何かいいアイデアない？"
 msgstr ""
@@ -2515,6 +2683,14 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScript4[2](Affection=100)
 msgid "昔は男女がバカンスに出掛ける時、必ず持って行くものがあったと聞きました。それが何か知っていますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "まだお昼ですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "これは、、何の合図ですか？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript1[1](Affection<100)
@@ -2985,6 +3161,10 @@ msgstr ""
 msgid "…"
 msgstr ""
 
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript1[1](Affection<100)
+msgid "ちょっと…ここばっかり見つめられると…気になっちゃうんだけど？"
+msgstr ""
+
 #: LobbyScript[LobbyScript_PECS_Drone].LobbyScript1[1](Affection<100)
 msgid "何かお困りでしょうか？"
 msgstr ""
@@ -3075,6 +3255,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_ElvenForestmaker].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "もう！何を考えてるんですか…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScript1[1](Affection<100)
+msgid "どう？少しは環境保護の重要性について理解したの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScript1[2](Affection<100)
+msgid "鉄虫たちは他の動物には興味がないみたいなの。彼らの生態をもう少し調べてみなきゃなの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScript1[3](Affection<100)
+msgid "た、卵は産まないの！南極や北極で活動しているとこれくらいの脂肪は当たり前なの！わかったの！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScript2[1](Affection>40)
+msgid "司令官、人間様が増えたら環境保護にもっと気をつけなくちゃいけないの…。その時は…協力してくれる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScript3[3](Affection>70)
+msgid "もう！太ってるわけじゃないの！なんなら今見せるの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScript4[2](Affection=100)
+msgid "人間様たちが滅亡したのは悲しいけど、司令官が生き残ってくれて嬉しいの。司令官、死んじゃダメなの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ひっ！凍らせちゃうの！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Empress].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "もう…本気なの？…仕方ないの…。ちょっと待つの…。イグルーを作ってくるの。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Express76].LobbyScript1[1](Affection<100)
@@ -3195,6 +3407,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Fortune_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "お姉さんは別に気にしないから…司令官に任せるわ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScript1[1](Affection<100)
+msgid "何を燃やしたかですか…？色々と…邪魔になるものだったり不要なものを燃やしました…。 "
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScript1[2](Affection<100)
+msgid "すみません…。待ってください…さっきまで作業していたもので…汗をかいてしまってます…。 "
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScript1[3](Affection<100)
+msgid "エルブンは私を毛嫌いしています…私は木を燃やしたりはしないのですが…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScript2[1](Affection>40)
+msgid "え？な、何を燃やそう…ですって？いきなり何なんですか？よ、よくわかりません…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScript3[3](Affection>70)
+msgid "あの…機会があればエルブンと仲直りさせてくれませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScript4[2](Affection=100)
+msgid "今こうして汗が出るのは…作業のせいなのか…司令官のせいなのか、よくわかりません。とにかく顔が熱いです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "た、体温測定ですか？そうですよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "そんなことされたら…体温が上がってしまいます…熱を下げないと…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_LRL].LobbyScript1[1](Affection<100)

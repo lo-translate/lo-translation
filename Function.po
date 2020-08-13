@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -727,6 +727,10 @@ msgstr "Given Express76"
 #: Function[CharTicket_Char_PECS_Fortune_N].Desc
 msgid "포츈을 지급합니다"
 msgstr "Given Fortune"
+
+#: Function[CharTicket_Char_PECS_HighElven_N].Desc
+msgid "생명의 세레스티아을 지급합니다"
+msgstr ""
 
 #: Function[CharTicket_Char_PECS_Ignis_N].Desc
 msgid "이그니스을 지급합니다"
@@ -1692,8 +1696,16 @@ msgstr ""
 msgid "블랙 하운드 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_BR_BloodyPanther_1].Desc
+msgid "블러디 팬서용 씨스루 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_BR_Bulgasari_1].Desc
 msgid "불가사리 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_BR_Calista_1].Desc
+msgid "칼리스타용 비키니…? 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_BR_Daika_1].Desc
@@ -1876,6 +1888,10 @@ msgstr ""
 msgid "바바리아나용 무서운 누나 교복과 초콜릿 5개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_PECS_BS_1].Desc
+msgid "유미용 프릴 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_PECS_Cerberus_1].Desc
 msgid "켈베로스용 의장복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
@@ -1918,6 +1934,10 @@ msgstr ""
 
 #: Function[Shop_Package_Skin_PECS_Serpent_1].Desc
 msgid "서펀트용 수영복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_PECS_Sunny_1].Desc
+msgid "써니용 요가 슈트 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_PECS_Tiequan_1].Desc
@@ -2068,8 +2088,19 @@ msgstr ""
 msgid "블랙 하운드 크리스마스 스킨 활성화"
 msgstr ""
 
+#: Function[Skin_BR_BloodyPanther_1].Desc
+msgid ""
+"작년엔 준비가 너무 늦었었죠. 블러디 팬서는 이번 여름만은 놓치지 않겠다고 단단히 마음 먹었습니다. 준비한 비키니를 당당히 입고 찾아온 "
+"그녀는 당신이 이 의상을 좋아할거라 믿어 의심치 않고 있습니다."
+msgstr ""
+
 #: Function[Skin_BR_Bulgasari_1].Desc
 msgid "뚱이 스킨 설명"
+msgstr ""
+
+#: Function[Skin_BR_Calista_1].Desc
+msgid ""
+"이런… 칼리스타는 여름 휴가가 다가온다는 것을 깜빡하고 말았습니다. 일단 급한대로 수영복 비슷한 것을 입고 나온 모양인데, 괜찮을까요…?"
 msgstr ""
 
 #: Function[Skin_BR_Daika_1].Desc
@@ -2314,6 +2345,12 @@ msgstr ""
 msgid "무서운 누나 교복 (바바리아나) 활성화"
 msgstr ""
 
+#: Function[Skin_PECS_BS_1].Desc
+msgid ""
+"마침내 당신과 데이트를 하고 싶다는 유미의 소박한 꿈이 이루어졌습니다. 오랜만에 예쁘게 꾸미고 나온 유미가 조심스럽게 내민 ‘사령관과 하고 "
+"싶은 일’ 리스트도 한 번 확인해보세요."
+msgstr ""
+
 #: Function[Skin_PECS_Carolina_1].Desc
 msgid "오드리 문 컬렉션 <치어 래빗> 활성화"
 msgstr ""
@@ -2374,6 +2411,12 @@ msgstr ""
 
 #: Function[Skin_PECS_Serpent_1].Desc
 msgid "수영복 (서펀트) 활성화"
+msgstr ""
+
+#: Function[Skin_PECS_Sunny_1].Desc
+msgid ""
+"항상 긍정적인 써니는 자신의 유연성을 이용해 당신에게 신선한 즐거움을 줄 수 있는 방법을 떠올렸습니다. 그래도 그녀가 모든 자세를 마스터 "
+"하려면 당신이 좀 도와줘야 할 것 같네요."
 msgstr ""
 
 #: Function[Skin_PECS_Tiequan_1].Desc

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1087,8 +1087,8 @@ msgstr ""
 #  Korean Text: '지정 범위에 있는 대상들을 침수 상태로 만들며 {0} 보호 무시 전기 피해를 줍니다. 선택 지점 주변에는 25% 피해만 적용됩니다. 치명타 시, 2라운드 동안 적중 / 회피가 감소하며, 부식 상태면 피해량이 증가합니다.'
 #: Skill[Skill_3P_Rhea_N_1].SkillDescription
 msgid ""
-"指定範囲の対象を浸水状態にして、{0}の保護無視電気属性ダメージを与えます。指定地点の周辺には25％のダメージのみ適用されます。クリティカル時、2ラウンドの"
-"間、命中率/回避率が減少し、腐食状態の場合、ダメージ量が増加します。"
+"指定範囲の対象を浸水状態にして、{0}の保護無視電気属性ダメージを与えます。指定地点の周辺には25％のダメージを与えます。クリティカル時、2ラウンドの間、命"
+"中率/回避率が減少し、腐食状態の場合、ダメージ量が増加します。"
 msgstr ""
 
 #  Korean Text: '지정 범위 {0} 보호 무시 전기 피해. 대상 침수. 치명타 시, 적중 / 회피 감소'
@@ -1150,7 +1150,7 @@ msgstr ""
 
 #  Korean Text: '공격할 때 가끔 공격력이 대폭 증가하며, 공격 받을 땐 드물게 최소 피해만 받습니다. 스킬 레벨이 오를수록 발동 확률이 증가합니다.'
 #: Skill[Skill_3P_Rhea_N_5].SkillDescription
-msgid "攻撃時、時々攻撃力が大幅に増加し、攻撃される時、まれにダメージを最小化します。スキルレベルが上がるほど有効化確率が増加します。"
+msgid "攻撃時、一定確率で攻撃力が大幅に増加し、攻撃を受けた時、一定確率でダメージを最小化します。スキルレベルが上がるほど発動確率が増加します。"
 msgstr ""
 
 #  Korean Text: '공격 시, 일정 확률로 공격력 증가 / 공격 받을 시, 일정 확률로 최소 피해'
@@ -11792,6 +11792,66 @@ msgstr ""
 msgid "氷結コーティング(味方ダミー)"
 msgstr ""
 
+#  Korean Text: '에너지 추출'
+#: Skill[Skill_MP_DoomEater_N_EW2_1].SkillName
+msgid "エネルギー抽出"
+msgstr ""
+
+#  Korean Text: '죽음의 에너지'
+#: Skill[Skill_MP_DoomEater_N_EW2_2].SkillName
+msgid "死のエネルギー"
+msgstr ""
+
+#  Korean Text: '에너지 고갈'
+#: Skill[Skill_MP_DoomEater_N_EW2_3].SkillName
+msgid "エネルギー枯渇"
+msgstr ""
+
+#  Korean Text: '폭주'
+#: Skill[Skill_MP_DoomEater_N_EW2_5].SkillName
+msgid "暴走"
+msgstr ""
+
+#  Korean Text: '에너지 추출(행동 동결)'
+#: Skill[Skill_MP_DoomEater_N_EW2_12].SkillName
+msgid "エネルギー抽出(行動凍結)"
+msgstr ""
+
+#  Korean Text: '에너지 추출(받는 피해)'
+#: Skill[Skill_MP_DoomEater_N_EW2_13].SkillName
+msgid "エネルギー抽出(受けるダメージ)"
+msgstr ""
+
+#  Korean Text: '에너지 추출(방어력 감소)'
+#: Skill[Skill_MP_DoomEater_N_EW2_14].SkillName
+msgid "エネルギー抽出(防御力減少)"
+msgstr ""
+
+#  Korean Text: '에너지 추출(저항력 감소)'
+#: Skill[Skill_MP_DoomEater_N_EW2_15].SkillName
+msgid "エネルギー抽出(耐性力減少)"
+msgstr ""
+
+#  Korean Text: '죽음의 에너지(에너지 고갈 진짜)'
+#: Skill[Skill_MP_DoomEater_N_EW2_21].SkillName
+msgid "死のエネルギー(エネルギー枯渇)"
+msgstr ""
+
+#  Korean Text: '에너지 완충(보호막)'
+#: Skill[Skill_MP_DoomEater_N_EW2_31].SkillName
+msgid "エネルギーフル充電(バリア)"
+msgstr ""
+
+#  Korean Text: '에너지 완충(해로운 효과 해제 버프)'
+#: Skill[Skill_MP_DoomEater_N_EW2_32].SkillName
+msgid "エネルギーフル充電(有害な効果解除バフ)"
+msgstr ""
+
+#  Korean Text: '폭주2단계'
+#: Skill[Skill_MP_DoomEater_N_EW2_51].SkillName
+msgid "暴走2段階"
+msgstr ""
+
 #  Korean Text: '충격파 미사일을 발사해 {0} 피해를 주고, 대상을 뒤로 1칸 밀어내며 AP를 감소시킵니다.'
 #: Skill[Skill_MP_Drone_N_1].SkillDescription
 msgid "衝撃波ミサイルを発射し{0}のダメージを与え、対象を後方に1マス突き飛ばし、APを減少させます。"
@@ -11986,9 +12046,64 @@ msgstr ""
 msgid "虐殺"
 msgstr ""
 
+#  Korean Text: '처형 낙인'
+#: Skill[Skill_MP_Executioner_BEW_EW2_4].SkillName
+msgid "処刑烙印"
+msgstr ""
+
 #  Korean Text: '공포'
 #: Skill[Skill_MP_Executioner_BEW_EW2_5].SkillName
 msgid "恐怖"
+msgstr ""
+
+#  Korean Text: '사라져가는 불멸의 힘'
+#: Skill[Skill_MP_Executioner_BEW_EW2_32].SkillName
+msgid "消えていく不滅の力"
+msgstr ""
+
+#  Korean Text: '최후의 힘'
+#: Skill[Skill_MP_Executioner_BEW_EW2_33].SkillName
+msgid "最期の力"
+msgstr ""
+
+#  Korean Text: '최후의 힘(일시 무적)'
+#: Skill[Skill_MP_Executioner_BEW_EW2_34].SkillName
+msgid "最期の力(一時無敵)"
+msgstr ""
+
+#  Korean Text: '최후의 힘(공)'
+#: Skill[Skill_MP_Executioner_BEW_EW2_35].SkillName
+msgid "最期の力(攻)"
+msgstr ""
+
+#  Korean Text: '최후의 힘(방)'
+#: Skill[Skill_MP_Executioner_BEW_EW2_36].SkillName
+msgid "最期の力(防)"
+msgstr ""
+
+#  Korean Text: '최후의 힘(적중)'
+#: Skill[Skill_MP_Executioner_BEW_EW2_37].SkillName
+msgid "最期の力(命中率)"
+msgstr ""
+
+#  Korean Text: '최후의 힘(관통)'
+#: Skill[Skill_MP_Executioner_BEW_EW2_38].SkillName
+msgid "最期の力(貫通)"
+msgstr ""
+
+#  Korean Text: '불멸의 대가'
+#: Skill[Skill_MP_Executioner_BEW_EW2_39].SkillName
+msgid "不滅の代価"
+msgstr ""
+
+#  Korean Text: '불멸 삭제'
+#: Skill[Skill_MP_Executioner_BEW_EW2_40].SkillName
+msgid "不滅削除"
+msgstr ""
+
+#  Korean Text: '최후의 힘(디버프 삭제)'
+#: Skill[Skill_MP_Executioner_BEW_EW2_46].SkillName
+msgid "最期の力(デバフ削除)"
 msgstr ""
 
 #  Korean Text: '지정 범위에 {0} 보호 무시 피해를 줍니다. 처형자 중첩이 5 이상이면 추가 화염 피해를 주며, 대상에게 걸려있는 강화 효과를 해제합니다. 처형자 중첩을 5 소모합니다.'
@@ -17561,8 +17676,8 @@ msgstr ""
 #  Korean Text: '지정 범위에 {0} 냉기 속성 피해를 주고, 2라운드 동안 냉기 저항과 행동력을 낮춥니다. 대상이 침수 상태일 경우, 일정 확률로 행동 불가 / 받는 피해가 증가하는 빙결 상태로 만듭니다.'
 #: Skill[Skill_PECS_Empress_N_1].SkillDescription
 msgid ""
-"指定範囲に{0}の冷気属性ダメージを与え、2ラウンドの間、冷気耐性と行動力を減少させます。対象が浸水状態だった場合、一定確率で行動不可/受けるダメージが増加"
-"する氷結状態にします。"
+"指定範囲に{0}の冷気属性ダメージを与え、2ラウンドの間、冷気耐性と行動力を減少させます。対象が浸水状態だった場合、一定確率で行動不可になり受けるダメージが"
+"増加する氷結状態にします。"
 msgstr ""
 
 #  Korean Text: '지정 범위 {0} 냉기 피해. 행동력 / 냉기 저항 감소'
@@ -17612,8 +17727,8 @@ msgstr ""
 #  Korean Text: '자신과 주변 아군의 냉기 저항이 증가하며, 대상들이 지정 보호를 받는 상태면 AP를 증가시킵니다. 자신은 냉기 저항 효과가 2배로 적용됩니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_PECS_Empress_N_4].SkillDescription
 msgid ""
-"自分と周辺の味方の冷気耐性が増加し、対象が指定保護を受ける状態の場合、APを増加させます。自分は冷気耐性効果が2倍に適用されます。スキルレベル10で範囲が増"
-"加します。"
+"自分と周辺の味方の冷気耐性が増加し、対象が指定保護を受けた場合、APを増加させます。自分は冷気耐性効果が2倍に適用されます。スキルレベル10で範囲が増加しま"
+"す。"
 msgstr ""
 
 #  Korean Text: '주변 아군 냉기 저항 증가. 지정 보호 받는 상태면 AP 증가'
@@ -17818,7 +17933,7 @@ msgstr "Mechanical Engineering"
 #  Korean Text: '지정 대상에게 {0} 화염 피해를 주고, 2라운드 동안 화염 속성 저항 / 방어력 / 회피를 낮춥니다. 목표 지점 뒤의 대상일수록 피해량이 50%씩 줄어듭니다.'
 #: Skill[Skill_PECS_Ignis_N_1].SkillDescription
 msgid ""
-"指定対象に{0}の火炎属性ダメージを与え、2ラウンドの間、火炎属性耐性/防御力/回避率を減少させます。目標地点から後方に離れるほど、ダメージが50%ずつ減少"
+"指定対象に{0}の火炎属性ダメージを与え、2ラウンドの間、火炎属性耐性/防御力/回避率を減少させます。指定地点から後方に離れるほど、ダメージが50％ずつ減少"
 "します。"
 msgstr ""
 
@@ -17835,8 +17950,8 @@ msgstr ""
 #  Korean Text: '지정 범위에 {0} 화염 피해를 주고, 2라운드 동안 인화물을 부착해 회피를 감소시킵니다. 인화물 부착 상태인 대상은 화염 속성 액티브 스킬 피격 시, 공격자 공격력 50%의 고정 피해를 입습니다.'
 #: Skill[Skill_PECS_Ignis_N_2].SkillDescription
 msgid ""
-"指定範囲に{0}の火炎属性ダメージを与え、2ラウンドの間、引火物を付着させて回避率を減少させます。引火物付着状態である対象は火炎属性のアクティブスキル攻撃を"
-"受けた時、攻撃者の攻撃力の50%の固定ダメージを受けます。"
+"指定範囲に{0}の火炎属性ダメージを与え、2ラウンドの間、引火物を付着させて回避率を減少させます。引火物付着状態である対象が火炎属性の攻撃を受けた時、攻撃者"
+"の攻撃力の50％の固定ダメージを受けます。"
 msgstr ""
 
 #  Korean Text: '지정 범위 {0} 화염 피해. 인화물 부착 효과 적용'

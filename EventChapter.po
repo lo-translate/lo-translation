@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-30 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -16,6 +16,11 @@ msgstr ""
 #: EventChapter[Event_Chapter_01].Event_CategoryName
 msgid "至高の晩餐"
 msgstr "Supreme Dinner"
+
+#  Korean Text: '리오보로스의 유산을 찾아 떠나는 모험!'
+#: EventChapter[Event_Chapter_02].Event_CategoryDesc
+msgid "リオボロスの遺産を探して冒険に出発！"
+msgstr ""
 
 #  Korean Text: '리오보로스의 유산'
 #: EventChapter[Event_Chapter_02].Event_CategoryName

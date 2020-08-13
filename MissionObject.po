@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -24,7 +24,7 @@ msgstr "Clear after eliminating the Full-Armored Big Chick with Fallen"
 
 #  Korean Text: '램파트로 풀아머 빅 칙을 처치 후 클리어'
 #: MissionObject[Mission_Kill_FABigChicnk_By_Rampart].Mission_ObjectString
-msgid "ラムパートでフルアーマービックチックを退治してクリア"
+msgid "ランパートでフルアーマービックチックを退治してクリア"
 msgstr "Clear after eliminating Full Armor Big Chick with Rampart"
 
 #  Korean Text: 'CS페로로 트릭스터를 처치 후 클리어'
@@ -164,7 +164,7 @@ msgstr "Clear while defeating 4 enemies within 3 rounds"
 
 #  Korean Text: '소완으로 한 웨이브에 적을 5기 이상 처치 후 클리어'
 #: MissionObject[Mission_StageClear_Kill5_Char_3P_Sowan_N].Mission_ObjectString
-msgid "ソワンで敵を5基以上処置した後クリア"
+msgid "ソワンで敵を5機以上撃破してクリア"
 msgstr "Clear after eliminating 5 or more enemies in 1 wave with Sowan"
 
 #  Korean Text: '3 라운드 내에 적을 5기 이상 처치한 상태로 클리어'
@@ -224,77 +224,77 @@ msgstr "Clear while defeating Big Chick within 7 rounds"
 
 #  Korean Text: '그리폰이 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_BR_PA00EL].Mission_ObjectString
-msgid "グリフォンが生存したままクリア"
+msgid "グリフォンを編成し大破させずにクリア"
 msgstr "Clear with Griffon alive"
 
 #  Korean Text: '공진의 알렉산드라를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_3P_Alexandra_N].Mission_ObjectString
-msgid "共鳴のアレクサンドラを編成後、彼女が生存したままクリア"
+msgid "共鳴のアレクサンドラを編成し大破させずにクリア"
 msgstr "Clear using Resonant Alexandra and having her survive"
 
 #  Korean Text: '블랙 리리스를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_3P_BlackLilith_N].Mission_ObjectString
-msgid "ブラックリリスを編成後、彼女が生存したままでクリア"
+msgid "ブラックリリスを編成し大破させずにクリア"
 msgstr "Clear using BlackLillith and having her survive"
 
 #  Korean Text: '콘스탄챠 S2를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_3P_ConstantiaS2_N].Mission_ObjectString
-msgid "コンスタンツァS2を編成後、彼女が生きているままでクリア"
+msgid "コンスタンツァS2を編成し大破させずにクリア"
 msgstr "Clear using Constantia S2 and having her survive"
 
 #  Korean Text: '다프네를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_3P_Daphne_N].Mission_ObjectString
-msgid "ダフネを編成後、彼女が生存したままクリア"
+msgid "ダフネを編成し大破させずにクリア"
 msgstr "Clear using Daphne and having her survive"
 
 #  Korean Text: '시저스 리제를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_3P_ScissorsLise_N].Mission_ObjectString
-msgid "シザーズリーゼを編成後、彼女が生存したままクリア"
+msgid "シザーズリーゼを編成し大破させずにクリア"
 msgstr "Clear using Scissors Lise and having her survive"
 
 #  Korean Text: '소완을 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_3P_Sowan_N].Mission_ObjectString
-msgid "ソワンを編成後、彼女がせいぞんしたままでクリア"
+msgid "ソワンを編成し大破させずにクリア"
 msgstr "Clear using Sowan and having her survive"
 
 #  Korean Text: '램파트를 편성 후, 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_AGS_Rampart_N].Mission_ObjectString
-msgid "ラムパートを編成後、生存したままでクリア"
+msgid "ランパートを編成し大破させずにクリア"
 msgstr "Clear using Rampart and having her survive"
 
 #  Korean Text: '에이미 레이저를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_BR_Amy_N].Mission_ObjectString
-msgid "エイミーレイザを編成後、彼女が正ぞしている状態でクリア"
+msgid "エイミーレイザーを編成し大破させずにクリア"
 msgstr "Clear using Amy the Razor and having her survive"
 
 #  Korean Text: 'T-2 브라우니를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_BR_Brownie_N].Mission_ObjectString
-msgid "Ｔ２ブラウニーを編成後、彼女が生存したままクリア"
+msgid "Ｔ２ブラウニーを編成し大破させずにクリア"
 msgstr "Clear using T-2 Brownie and having her survive"
 
 #  Korean Text: 'M-5 이프리트를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_BR_Efreeti_N].Mission_ObjectString
-msgid "M-5イフリートを編成後、彼女が生存したままクリア"
+msgid "M-5イフリートを編成し大破させずにクリア"
 msgstr "Clear using M-5 Efreeti and having her survive"
 
 #  Korean Text: 'T-3 레프리콘을 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_BR_Leprechaun_N].Mission_ObjectString
-msgid "T-3レプリコンを編成後、彼女が生存したままクリア"
+msgid "T-3レプリコンを編成し大破させずにクリア"
 msgstr "Clear using T-3 Leprechaun and having her survive"
 
 #  Korean Text: '불굴의 마리를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_BR_Marie_N].Mission_ObjectString
-msgid "不屈のマリーを編成後、彼女が生存したままクリア"
+msgid "不屈のマリーを編成し大破させずにクリア"
 msgstr "Clear using Indomitable Marie and having her survive"
 
 #  Korean Text: '토모를 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_BR_Tomoe_N].Mission_ObjectString
-msgid "トモを編成後、彼女が生存したままクリア"
+msgid "トモを編成し大破させずにクリア"
 msgstr "Clear using Tomo and having her survive"
 
 #  Korean Text: 'LRL을 편성 후, 그녀가 생존한 채로 클리어'
 #: MissionObject[Mission_StageClear_Live_Char_PECS_LRL_N].Mission_ObjectString
-msgid "ＬＲＬを編成後、彼女が生存したままクリア"
+msgid "ＬＲＬを編成し大破させずにクリア"
 msgstr "Clear using LRL and having her survive"
 
 #  Korean Text: '기동형을 편성하지 않고 클리어'
@@ -510,5 +510,5 @@ msgstr "Clear with Griffon in the squad"
 
 #  Korean Text: '램파트를 스쿼드에 포함해 클리어'
 #: MissionObject[Mission_StageClear_With_Char_AGS_Rampart_N].Mission_ObjectString
-msgid "ラムパートを分隊に含めてクリア"
+msgid "ランパートを編成してクリア"
 msgstr "Clear with Rampart in the squad"

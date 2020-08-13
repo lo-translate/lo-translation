@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-30 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1620,7 +1620,7 @@ msgstr ""
 
 #  Korean Text: '한여름의 특급 셰프'
 #: ShopDesc[160].ProductName
-msgid "真夏の特急シェフ"
+msgid "真夏の特級シェフ"
 msgstr "Midsummer Top Chef"
 
 #  Korean Text: '스프리건용 수영복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -1665,7 +1665,7 @@ msgstr "Midsummer Abyssal Horror"
 
 #  Korean Text: '익스프레스 76용 아르바이트 유니폼과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[165].NPCDescription
-msgid "エクスプレス76用のアルバイトの制服と手作りケーキ１個、チョコレート２個、合成ローリーポップ３個が入ったパックです。"
+msgid "エクスプレス76用のアルバイトの制服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '한여름의 아르바이트'
@@ -1753,12 +1753,64 @@ msgstr ""
 msgid "機動打撃隊制服(スチールドラコ)"
 msgstr "Strike Force Uniform (Steel Draco)"
 
+#  Korean Text: '마법소녀?! 매지컬 뽀끄루'
+#: ShopDesc[175].ProductName
+msgid "魔法少女！？マジカルポックル"
+msgstr "Magical Girl?! Magical Faucre"
+
+#  Korean Text: '알비스 백작의 습격'
+#: ShopDesc[176].ProductName
+msgid "アルビス伯爵の襲撃"
+msgstr "Count Alvis"
+
+#  Korean Text: '밤의 여왕의 초대'
+#: ShopDesc[177].ProductName
+msgid "夜の女王の招待"
+msgstr ""
+
+#  Korean Text: '백토, 더 비스트 슬레이어'
+#: ShopDesc[178].ProductName
+msgid "白兎、ザビーストスレイヤー"
+msgstr ""
+
 #: ShopDesc[179].NPCDescription
 msgid "ドクター用怪しい薬 (ドクター)と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入っているパックです。"
 msgstr ""
 
 #: ShopDesc[179].ProductName
 msgid "OPPAだけど愛があれば…!"
+msgstr ""
+
+#: ShopDesc[180].ProductName
+msgid "真冬の女神オードリー"
+msgstr ""
+
+#: ShopDesc[181].ProductName
+msgid "真冬の晩餐ラビアタ"
+msgstr ""
+
+#: ShopDesc[182].ProductName
+msgid "真冬のソリ引きトナカイポルティーヤ"
+msgstr ""
+
+#: ShopDesc[183].ProductName
+msgid "真冬のプレゼント箱エキドナ"
+msgstr ""
+
+#: ShopDesc[184].ProductName
+msgid "真冬のチーズケーキウンディーネ"
+msgstr ""
+
+#: ShopDesc[185].ProductName
+msgid "真冬の精霊セルジューク"
+msgstr ""
+
+#: ShopDesc[186].ProductName
+msgid "一足遅いサンタ"
+msgstr ""
+
+#: ShopDesc[187].ProductName
+msgid "真冬の天国"
 msgstr ""
 
 #: ShopDesc[188].NPCDescription
@@ -1769,12 +1821,20 @@ msgstr ""
 msgid "もう一つの運命のカリスト"
 msgstr ""
 
+#: ShopDesc[189].ProductName
+msgid "枢機卿様は先導したい"
+msgstr ""
+
 #: ShopDesc[190].NPCDescription
 msgid "シルキー用夏季戦闘服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #: ShopDesc[190].ProductName
 msgid "夏季戦闘服シルキー"
+msgstr ""
+
+#: ShopDesc[191].ProductName
+msgid "不良少女なんかじゃない！"
 msgstr ""
 
 #: ShopDesc[198].NPCDescription
@@ -2133,7 +2193,7 @@ msgstr "Flying Defender Module EX"
 
 #  Korean Text: '전투원 강화용 모듈입니다. 치명타 강화치+(중) / 적중 강화치+(중)'
 #: ShopDesc[11021].NPCDescription
-msgid "戦闘員強化用モジュールです。攻撃力強化値+(中)/命中強化値+(中)"
+msgid "戦闘員強化用モジュールです。クリティカル強化値+(中)/命中強化値+(中)"
 msgstr ""
 "Module for unit enhancement. Crit Chance Enhacement+(Medium) / Accuracy "
 "Enhancement+(Medium)"
@@ -3622,6 +3682,11 @@ msgstr "T-12 Bheur"
 msgid "ダークエルブン･フォレストレンジャー"
 msgstr "DarkElven ForestRanger"
 
+#  Korean Text: 'T-13 알비스'
+#: ShopDesc[15102].ProductName
+msgid "T-13アルビス"
+msgstr "T-13 Alvis"
+
 #  Korean Text: 'AO-2 레이븐'
 #: ShopDesc[15103].ProductName
 msgid "AO-2レイヴン"
@@ -3646,6 +3711,50 @@ msgstr "Circe"
 #: ShopDesc[15107].ProductName
 msgid "ヴェロニカ"
 msgstr "Veronica"
+
+#: ShopDesc[15108].ProductName
+msgid "X-00ティアマト"
+msgstr ""
+
+#: ShopDesc[15109].ProductName
+msgid "エキドナ"
+msgstr ""
+
+#: ShopDesc[15110].ProductName
+msgid "E-16タロンフェザー"
+msgstr ""
+
+#: ShopDesc[15111].ProductName
+msgid "C-77レッドフード"
+msgstr ""
+
+#: ShopDesc[15112].ProductName
+msgid "金襴S7"
+msgstr ""
+
+#: ShopDesc[15113].ProductName
+msgid "補贖のマリア"
+msgstr ""
+
+#: ShopDesc[15114].ProductName
+msgid "P-22ハルフェイア"
+msgstr ""
+
+#: ShopDesc[15115].ProductName
+msgid "スパトイア"
+msgstr ""
+
+#: ShopDesc[15116].ProductName
+msgid "アイアンアニー"
+msgstr ""
+
+#: ShopDesc[15117].ProductName
+msgid "ババリアナ"
+msgstr ""
+
+#: ShopDesc[15118].ProductName
+msgid "ロイヤルアスナル"
+msgstr ""
 
 #  Korean Text: '출력을 강화해 공격력을 높입니다.'
 #: ShopDesc[16001].NPCDescription
@@ -3748,6 +3857,12 @@ msgstr "Combat OS focused solely on defense."
 #: ShopDesc[16011].ProductName
 msgid "防御型戦闘システムＥＸ"
 msgstr "Defensive Combat System EX"
+
+#  Korean Text: '지원기 전용 시스템으로, 피격 시 일정 확률로 반격합니다.'
+#: ShopDesc[16012].NPCDescription
+msgid "支援機専用システムで、攻撃されると一定の確率で反撃します。"
+msgstr ""
+"Support-only system. When attacked, counterattack with a fixed probability."
 
 #  Korean Text: '대응형 전투 시스템 EX'
 #: ShopDesc[16012].ProductName
@@ -3902,7 +4017,7 @@ msgstr "High-Speed Maneuvering System EX"
 
 #  Korean Text: '공격기 전용 장비입니다. 자신이 후열에 배치된 경우, 공격력 / 적중 / 치명타가 증가합니다.'
 #: ShopDesc[16029].NPCDescription
-msgid "攻撃機専用装備です。 自分が後列に配置された場合、攻撃力 / 命中 / クリティカルが増加します。"
+msgid "攻撃機専用装備です。 自分が後列に配置された場合、攻撃力/命中/クリティカルが増加します。"
 msgstr ""
 
 #  Korean Text: '망원 조준장치 EX'
@@ -4031,7 +4146,9 @@ msgstr "Sunscreen EX"
 
 #  Korean Text: '자신이 적 공격 시, 전투 종료 후 획득하는 경험치가 증가합니다. 동일 효과는 최대 5회까지만 중첩됩니다.'
 #: ShopDesc[16042].NPCDescription
-msgid "自分が敵攻撃時,戦闘終了後獲得する経験値が増加します。 同一の効果は最大5回まで重ね合うことができます。"
+msgid ""
+"自分が敵を攻撃するとき、戦闘終了後獲得する経験値が増加します。\n"
+"同じ効果は最大3回まで重複可能です。"
 msgstr ""
 
 #  Korean Text: '전투 기록 회로 EX'
@@ -4568,11 +4685,38 @@ msgstr "Audrey's Moon Collection <Frontier Rabbit>"
 msgid "オードリー ムーン コレクション<チアラビット>"
 msgstr "Audrey's Moon Collection <Cheer Rabbit>"
 
+#  Korean Text: '브라우니들에게 과거 할로윈 풍습에 대해서 들은 네오딤은 다른 이들보다 조금 더 먼저 행동할 마음을 먹었습니다. 유령이 된 그녀는 어떤 장난을 칠까요?'
+#: ShopDesc[17156].NPCDescription
+msgid ""
+"ブラウニーから過去のハロウィンの風習について聞いたネオディムは誰よりも早く行動しようと決心しました。幽霊に仮想した彼女はどんなイタズラをするのでしょうか？"
+msgstr ""
+
 #  Korean Text: '몽구스 팀이라고 실내 근무가 없는 건 아닙니다. 실내 근무엔 당연히 제복을 입고 근무해야겠죠? 스틸 드라코는 자신의 지적인 면을 강조할 수 있는 것에 만족하고 있습니다.'
 #: ShopDesc[17157].NPCDescription
 msgid ""
 "マングースチームだからと言って屋内勤務がないわけではありません。屋内勤務では当然制服を着て勤務しなければいけませんよね？スチールドラコは自身の知的な一面を強"
 "調できるという点に満足しています。"
+msgstr ""
+
+#  Korean Text: '어느 친구의 강요로 전직한 뽀끄루 (전) 대마왕입니다. 크기야 어쨌든 보는 이들에게 꿈과 희망만 줄 수 있으면 아무래도 좋지 않을까요?'
+#: ShopDesc[17158].NPCDescription
+msgid "とある仲間の強要で転職したポックル(前)大魔王です。大きさはさておき見る者をして夢と希望を与えることができればそれだけで十分じゃないでしょうか？"
+msgstr ""
+
+#  Korean Text: '알비스 백작은 발키리 언니에게 받은 가방이 가득 찰 정도의 초콜릿을 원하십니다. 초콜릿으로 퇴치하지 않으면 무서운 일을 겪을지도 모릅니다!'
+#: ShopDesc[17159].NPCDescription
+msgid ""
+"アルビス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
+msgstr ""
+
+#  Korean Text: '밤의 여왕의 초대에 응해 함께 달콤한 꿈을 꾸러 가보시겠어요? 영원히 깰 수 없을지도 모르지만......'
+#: ShopDesc[17160].NPCDescription
+msgid "夜の女王の招待に応じて共に甘い夢を見に行きませんか？永遠に眠りから覚めないかもしれませんが…"
+msgstr ""
+
+#  Korean Text: '만월의 힘이 충만한 빨간 망토 백토가 나타났습니다! 할로윈에 날뛰는 마물들은 각오하는 게 좋을 겁니다!'
+#: ShopDesc[17161].NPCDescription
+msgid "満月の力がみなぎる赤いマントの白兎が登場しました！ハロウィンの日に暴れ回る魔物たちは覚悟した方がよさそうです！"
 msgstr ""
 
 #: ShopDesc[17162].NPCDescription
@@ -4583,6 +4727,42 @@ msgstr ""
 msgid "怪しい薬 (ドクター)"
 msgstr ""
 
+#: ShopDesc[17163].NPCDescription
+msgid "パーティー会場に究極の美が降臨しました！心置きなくご堪能ください。あなたのためだけにオードリーが心血を捧げ製作した衣装です。"
+msgstr ""
+
+#: ShopDesc[17164].NPCDescription
+msgid "初々しいお嫁さんのラビアタが特別な晩餐を準備しました。ラビアタ特製スペシャルデザートもありますので、思う存分ご堪能ください…"
+msgstr ""
+
+#: ShopDesc[17165].NPCDescription
+msgid "アレクサンドラから「教育」を受け、新たに生まれ変わったポルティーヤの衣装です。ところで…まぁ…問題ありませんよね…？"
+msgstr ""
+
+#: ShopDesc[17166].NPCDescription
+msgid "一年にたった一度だけ、エキドナが彼女を自由に扱っていいという機会をくれました。早速リボンを引っ張ってみましょう！"
+msgstr ""
+
+#: ShopDesc[17167].NPCDescription
+msgid ""
+"あなたにだけ味わってもらいたいと作った秘蔵のチーズケーキは崩れてしまいましたが、ウンディーネは最善を尽くしています。真っ赤になった顔と冷や汗は見てみぬふりを"
+"してあげましょう。"
+msgstr ""
+
+#: ShopDesc[17168].NPCDescription
+msgid ""
+"AIを改善し別途のアップグレードを実行した独立戦闘型モデル、K 180 "
+"Eセルジュークです。感情モジュールとホログラムモジュールも搭載されているそうですが、その理由が気になりますね。그"
+msgstr ""
+
+#: ShopDesc[17169].NPCDescription
+msgid "ブラックハウンドが一人で一生懸命準備したサンタの衣装です。一足遅くなってしまいましたが、可愛いので許してくれますよね？"
+msgstr ""
+
+#: ShopDesc[17170].NPCDescription
+msgid "真冬に雪原を眺めながら露天風呂に浸かることこそこの世の天国です。タロンフェザーにとっては別の意味で天国でしょうね。"
+msgstr ""
+
 #: ShopDesc[17171].NPCDescription
 msgid "普段は凛々しいアタランテですが、こんな格好ではさすがにそうはいかないようです…"
 msgstr ""
@@ -4591,12 +4771,20 @@ msgstr ""
 msgid "ラブリーベアコスチューム (アタランテ)"
 msgstr ""
 
+#: ShopDesc[17172].NPCDescription
+msgid "オルカの風紀紊乱を見かねたアルマンが立ち上がりました。そこ！服装が乱れています！"
+msgstr ""
+
 #: ShopDesc[17173].NPCDescription
 msgid "ブラウニーは疑問の褒章休暇をもらったそうです。よくやった、ブラウニー！"
 msgstr ""
 
 #: ShopDesc[17173].ProductName
 msgid "夏季戦闘服（シルキー）"
+msgstr ""
+
+#: ShopDesc[17174].NPCDescription
+msgid "幸いにも悪事を常に働くことはありませんが、先生を誘惑しようとするリントヴルムを前にしてアルマンの心配は日に日に増していきます…"
 msgstr ""
 
 #: ShopDesc[17182].NPCDescription
@@ -4846,4 +5034,9 @@ msgstr ""
 
 #: ShopDesc[91111].ProductName
 msgid "電力10000+20000個"
+msgstr ""
+
+#  Korean Text: '영양 3600개 + 6400개'
+#: ShopDesc[92006].ProductName
+msgid "穏やかな艦長室"
 msgstr ""

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-08-13 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -19709,7 +19709,7 @@ msgstr ""
 
 #  Korean Text: '… …'
 #: DialogScript[DG_Ch06Stage03_2_15].Script
-msgid "！！……"
+msgid "……！！"
 msgstr ""
 
 #  Korean Text: '- 어떤 바이오로이드들도 눈 앞의 끔찍한 광경에&n아무런 말을 하지 못하고 있었다.'
@@ -21023,7 +21023,7 @@ msgstr ""
 
 #  Korean Text: '스카디양이 어느 정도의 설명은 추가해 두었지만, 혹시나 궁금한 게 있으면&n제가 바로 연락을 해볼게요.'
 #: DialogScript[DG_Ch06Stage05e_2_2].Script
-msgid "スカディーさんがある程度の説明は追記してくれていますが、＆nもしご不明な点がございましたら私がすぐに確認いたします。"
+msgid "スカディーさんがある程度の説明は追記してくれていますが、&nもしご不明な点がございましたら私がすぐに確認いたします。"
 msgstr ""
 
 #: DialogScript[DG_Ch06Stage05e_2_2].SelectionIndex[1]
@@ -21071,7 +21071,7 @@ msgstr ""
 
 #  Korean Text: '- 그래. 내가 이해하지 못한 내용들이 많아서 조금 피로해졌을 뿐이겠지.'
 #: DialogScript[DG_Ch06Stage05e_2_10].Script
-msgid " - そ、そうだ。これは俺には理解できない内容が多くて＆n少し疲れただけだろう…。"
+msgid " - そ、そうだ。これは俺には理解できない内容が多くて&n少し疲れただけだろう…。"
 msgstr ""
 
 #: DialogScript[DG_Ch06Stage05e_2_10].SelectionIndex[1]
@@ -21080,7 +21080,7 @@ msgstr ""
 
 #  Korean Text: '네, 주인님. 그러면, 이쪽으로 저를 따라오시겠어요?'
 #: DialogScript[DG_Ch06Stage05e_2_11].Script
-msgid "はい、ご主人様。＆nそれではこちらへ…私の後について来ていただけますか？"
+msgid "はい、ご主人様。&nそれではこちらへ…私の後について来ていただけますか？"
 msgstr ""
 
 #  Korean Text: '스카디 양, 말씀하신 지점에 도착했어요. 여기가… 마지막 기억인가요?'
@@ -22645,12 +22645,12 @@ msgstr ""
 
 #  Korean Text: '언니? 휩노스인가요?! 주인님께 무슨 일이 벌어진 거죠?'
 #: DialogScript[DG_Ch06Stage08e_2_4].Script
-msgid "ラビアタお姉さま！ご主人様はヒュプノス病なんですか？！＆nご主人様に一体何が起こってるんですか！？"
+msgid "ラビアタお姉さま！ご主人様はヒュプノス病なんですか？！&nご主人様に一体何が起こってるんですか！？"
 msgstr ""
 
 #  Korean Text: '후후... 이야기를 계속하다가는, 콘스탄챠양이 먼저 쓰러지겠어요.'
 #: DialogScript[DG_Ch06Stage08e_2_5].Script
-msgid "ふふ…＆nこのままだとコンスタンツァさんの方が先に倒れてしまいそうですね。"
+msgid "ふふ…&nこのままだとコンスタンツァさんの方が先に倒れてしまいそうですね。"
 msgstr ""
 
 #  Korean Text: '콘스탄챠? 주인님은 지금 질병에 무척 취약하신 상태셔.&n지금, 주인님의 새로운 몸은...'
