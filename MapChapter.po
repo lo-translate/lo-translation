@@ -44,7 +44,7 @@ msgstr ""
 
 #: MapChapter[Chapter_03Ev2].ChapterName
 msgid "リオボロスの遺産2部"
-msgstr ""
+msgstr "Legacy of Rioboros Part 2"
 
 #  Korean Text: '호문쿨루스'
 #: MapChapter[Chapter_03N].ChapterName
