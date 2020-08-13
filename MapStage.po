@@ -1450,7 +1450,7 @@ msgstr ""
 #  Korean Text: 'BD 모듈 제 22 공장'
 #: MapStage[ChCS-01Stage02].StageName
 msgid "BDモジュール第22工場"
-msgstr ""
+msgstr "BD Module 22nd Factory"
 
 #  Korean Text: '소완은 소풍을 방해하는 벌레들을 처리하기 위해 나선다.'
 #: MapStage[ChCS-02Stage01].StageDesc
