@@ -838,7 +838,7 @@ msgstr ""
 #  Korean Text: '참치캔 공급 발주(30일)-일'
 #: ShopDesc[82].ProductName
 msgid "ツナ缶定期発注(30日)"
-msgstr ""
+msgstr "Tuna Can Order (30 days)"
 
 #  Korean Text: '첫 날  참치캔 150개와 보너스 참치캔 5개를 즉시 지급하며, 29일간 매일 보너스 참치캔 5개를 획득합니다.'
 #: ShopDesc[83].NPCDescription
@@ -849,7 +849,7 @@ msgstr ""
 #  Korean Text: '참치캔 추가 공급 발주(30일)-일'
 #: ShopDesc[83].ProductName
 msgid "ツナ缶定期発注(大･30日)"
-msgstr ""
+msgstr "Tuna Can Large Order (30 days)"
 
 #  Korean Text: '브라우니용 하계 전투복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[84].NPCDescription
