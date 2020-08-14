@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -16,43 +16,48 @@ msgstr ""
 #: CharSkin[Skin_3P_Alexandra_1].SkinDesc
 msgid "人間らしいご主人様には教師がお似合いです。ですがご主人様によってはまず先にちゃんとした人になる必要がある……方もいます。"
 msgstr ""
+"Only humans need teachers. However, some masters will learn how to behave "
+"like a human first."
 
 #  Korean Text: '조련사 알렉산드라'
 #: CharSkin[Skin_3P_Alexandra_1].SkinName
 msgid "調教師アレクサンドラ"
-msgstr ""
+msgstr "Trainer Alexandra"
 
 #  Korean Text: '너무 위험한 메이드를 들이고 말았군요.'
 #: CharSkin[Skin_3P_BlackLilith_1].SkinDesc
 msgid "とても危険なメイドを入れちゃいましたね。"
-msgstr ""
+msgstr "It seems that you hired a maid that shouldn't be hired."
 
 #  Korean Text: '위험한 가족 : 유혹하는 메이드'
 #: CharSkin[Skin_3P_BlackLilith_1].SkinName
 msgid "危険な家族：誘惑のメイド"
-msgstr ""
+msgstr "Dangerous Family: Seducing Maid"
 
 #: CharSkin[Skin_3P_BlackLilith_2].SkinDesc
 msgid ""
 "ドリームウィーバーは自分のインスピレーションを蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました"
 "。"
 msgstr ""
+"To thank Lilith who made Audrey's inspiration revived again, she made this as "
+"a token of appreciation in return to make Lilith's dream come true. What "
+"Lilith wanted was a swimsuit to leave some trace on her once summer ends."
 
 #: CharSkin[Skin_3P_BlackLilith_2].SkinName
 msgid "リリスの本目的から外れた水着"
-msgstr ""
+msgstr "Midsummer's Lilith"
 
 #  Korean Text: '자신의 메이드복을 자랑스러워하는 콘스탄챠지만 전투 성능 테스트를 위해서는 어쩔 수 없이 수트를 입습니다. 그래도 포기 못하는 게 있죠.'
 #: CharSkin[Skin_3P_ConstantiaS2_1].SkinDesc
 msgid "自分のメイド服を自慢するコンスタンツァですが、戦闘性能テストのためには仕方なくスーツを着ます。それでも諦められないとこがありますよね。"
 msgstr ""
-"Constantia is proud of her maid clothes, but she is forced to wear a suit for "
-"combat performance tests. But there are some things I can't give up."
+"Although Constantia is proud of her maid suit, she still dresses this for "
+"testing purposes. Even then there are things that she can't give up."
 
 #  Korean Text: '전투수트 콘스탄챠'
 #: CharSkin[Skin_3P_ConstantiaS2_1].SkinName
 msgid "戦闘スーツコンスタンツァ"
-msgstr ""
+msgstr "Battlesuit Constantia"
 
 #  Korean Text: '평소와는 다른 그녀의 모습을 둘만의 시간을 통해 확인해 보세요!'
 #: CharSkin[Skin_3P_ConstantiaS2_2].SkinDesc
@@ -62,7 +67,7 @@ msgstr ""
 #  Korean Text: '나이트 드레스 콘스탄챠'
 #: CharSkin[Skin_3P_ConstantiaS2_2].SkinName
 msgid "ナイトドレスコンスタンツァ"
-msgstr ""
+msgstr "Night Dress Constantia"
 
 #: CharSkin[Skin_3P_ConstantiaS2_S1].SkinDesc
 msgid "眼鏡を外したコンスタンツァです。"
@@ -76,11 +81,14 @@ msgstr ""
 #: CharSkin[Skin_3P_CSPerrault_1].SkinDesc
 msgid "牛乳がとても大好きなペロは、夢中でご主人様の牛乳を盗み飲みしたうえに、ベチャベチャとこぼしてしまいました。どうしたものでしょう……"
 msgstr ""
+"Perrault loves milk so much that she drank her master's milk without "
+"realizing that. But it's dripping everywhere. Maybe she needs to be punished "
+"for this?"
 
 #  Korean Text: '우유 도둑 페로'
 #: CharSkin[Skin_3P_CSPerrault_1].SkinName
 msgid "牛乳泥棒ぺロ"
-msgstr ""
+msgstr "Milk Thief Perrault"
 
 #: CharSkin[Skin_3P_CSPerrault_2].SkinDesc
 msgid "私の胸に子猫が入ってきました。"
@@ -88,55 +96,63 @@ msgstr "There's a kitty on my chest."
 
 #: CharSkin[Skin_3P_CSPerrault_2].SkinName
 msgid "装飾用水着ペロ"
-msgstr ""
+msgstr "Midsummer's Perrault"
 
 #  Korean Text: '정원 관리용 다프네는 소량이지만 간호용으로도 생산되었습니다. 식물이든 동물이든 돌본다는 점에서는 크게 다르지 않죠.'
 #: CharSkin[Skin_3P_Daphne_1].SkinDesc
 msgid "庭園管理用のダフネですが、少ない数量で看護用としても生産されました。植物であれ動物であれ世話をするという点では大きな違いはないですよね。"
 msgstr ""
-"There are a small amount of gardening Daphne, but they are also made for "
-"health care. Whether it's a plant or an animal, it's not much different."
+"The original Daphne model is designed as a gardener, however there were "
+"records of care-taking units being built. Plants, living creatures have no "
+"difference as long as they needed to be taken care of... right?"
 
 #  Korean Text: '간호사 다프네'
 #: CharSkin[Skin_3P_Daphne_1].SkinName
 msgid "ナースダフネ"
-msgstr ""
+msgstr "Nurse Daphne"
 
 #: CharSkin[Skin_3P_Daphne_2].SkinDesc
 msgid "ダフネの休暇はいつでも平穏です。おそらく彼女の静かな情熱は主人の為だけに発揮されるようです。"
 msgstr ""
+"Daphne's summer vacation is always peaceful. Her hot affection of the summer "
+"only belongs to her master."
 
 #: CharSkin[Skin_3P_Daphne_2].SkinName
 msgid "ダフネの優雅な水着"
-msgstr ""
+msgstr "Daphne's Elegant Swimsuit"
 
 #  Korean Text: '하치코는 아직도 이 가족의 위험성을 모릅니다.'
 #: CharSkin[Skin_3P_Hachiko_1].SkinDesc
 msgid "ハチコはまだこの家族の危険性を知りません。"
-msgstr "Hachiko still doesn't realize the danger this family holds."
+msgstr "Hachiko still can't tell if there's anything wrong within this family."
 
 #  Korean Text: '위험한 가족 : 견습 메이드'
 #: CharSkin[Skin_3P_Hachiko_1].SkinName
 msgid "危険な家族：見習いメイド"
-msgstr ""
+msgstr "Dangerous Family: Apprentice Maid"
 
 #  Korean Text: '자신의 자매 덕분에 리제도 간호사 복을 입을 수 있었죠. 어쩌면 그녀는 자신의 주인이 중환자가 되길 바라고 있을 수도 있겠군요.'
 #: CharSkin[Skin_3P_ScissorsLise_1].SkinDesc
 msgid "自分の姉妹のおかげでリーゼもナース服を着る事ができました。ひょっとすると彼女は自分の主人が重症になるのを願っているのかも……？"
 msgstr ""
+"Thanks to her sisters, Lise now gets to wear the nurse outfit as well. Maybe "
+"she hopes that the commander needs intensive caring..."
 
 #  Korean Text: '간호사 리제'
 #: CharSkin[Skin_3P_ScissorsLise_1].SkinName
 msgid "ナースリーゼ"
-msgstr ""
+msgstr "Nurse Lise"
 
 #: CharSkin[Skin_3P_Sowan_1].SkinDesc
 msgid "「くそっ!下がって!これはソワンの罠だ!」 多くの競争者を罠に陥れて作った水着です。ソワンは果たして目的を達成できるでしょうか?"
 msgstr ""
+"\"Wait, don't panic, that's Sowan's trap!\" This is the swimsuit that she got "
+"after making so many enemies falling in her trap. But can Sowan achieve her "
+"goals though?"
 
 #: CharSkin[Skin_3P_Sowan_1].SkinName
 msgid "ソワンの罠"
-msgstr ""
+msgstr "Sowan's Trap"
 
 #: CharSkin[Skin_AGS_Gigantes_1].SkinDesc
 msgid ""
@@ -144,25 +160,27 @@ msgid ""
 "本製品はブラックリバーの所有でありD-"
 "エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの懲罰的損害賠償に則り損害賠償を請求することができます。)"
 msgstr ""
-"For a long time, Dagon of the Deepest Abyss has been Ramparion's greatest "
-"nemesis. Tired of his underlings' failures, Dagon finally rises from the "
-"depths. (- This product is owned by Black River and rented to D-"
-"Entertainment. In cases of malfunction or breakage, you may be asked to pay "
-"for the damage according to USA's compensation laws.)"
+"The eternal rival of Ramparion, Deep Sea Dagon is angered by the failure of "
+"his subordinates and decided to raise up from the deep sea. (This product is "
+"rentaled by D-Entertainment from Black River. In case of damage and "
+"malfunctioning, all compensation must be made following America's "
+"Compensation Law.)"
 
 #: CharSkin[Skin_AGS_Gigantes_1].SkinName
 msgid "深海の恐怖ダゴン"
-msgstr ""
+msgstr "Deep Sea Terror, Dagon"
 
 #  Korean Text: '어린이날을 맞이하여 행복한 추억을 만들어 주기 위해 경찰에서 특별히 커스텀된 램파트입니다.'
 #: CharSkin[Skin_AGS_Rampart_1].SkinDesc
 msgid "子供の日を迎えて幸せな思い出を作るために警察で特別にカスタムされたランパートです。"
 msgstr ""
+"To celebrate the Child's Day and make a perfect present, the police "
+"department customized this Rampart for it."
 
 #  Korean Text: '강철의 수호자 램파리온'
 #: CharSkin[Skin_AGS_Rampart_1].SkinName
 msgid "鋼の守護者ランパリオン"
-msgstr ""
+msgstr "Iron Protector Ramparion"
 
 #: CharSkin[Skin_AGS_Rampart_S1].SkinDesc
 msgid "戦争用にチューニングされたランパートです。"
@@ -170,17 +188,19 @@ msgstr ""
 
 #: CharSkin[Skin_AGS_Rampart_S1].SkinName
 msgid "戦争兵器ランパート"
-msgstr ""
+msgstr "War Weapon Rampart"
 
 #  Korean Text: '유혹보다 실용성이 필요할 때 에이미는 이 옷을 입지요. 뭐, 보는 사람에 따라서는 이 수트가 더욱 매혹적이라고 하더라도요.'
 #: CharSkin[Skin_BR_Amy_1].SkinDesc
 msgid "誘惑より実用性が必要な時、エイミーはこの服を着ます。もっとも、人によってはこのスーツの方がより魅惑的に感じるでしょうが。"
 msgstr ""
+"The suit Amy wears when things escalate quickly. But some people say that "
+"this suit is more seducing..."
 
 #  Korean Text: '전투복 에이미'
 #: CharSkin[Skin_BR_Amy_1].SkinName
 msgid "戦闘服エイミー"
-msgstr ""
+msgstr "Combat Uniform Amy"
 
 #  Korean Text: '몽구스 팀이라고 실내 근무가 없는 건 아닙니다. 실내 근무엔 당연히 제복을 입고 근무해야겠죠? 스틸 드라코는 자신의 지적인 면을 강조할 수 있는 것에 만족하고 있습니다.'
 #: CharSkin[Skin_BR_AS12TurtleDragon_1].SkinDesc
@@ -188,89 +208,105 @@ msgid ""
 "マングースチームだからと言って屋内勤務がないわけではありません。屋内勤務では当然制服を着て勤務しなければいけませんよね？スチールドラコは自身の知的な一面を強"
 "調できるという点に満足しています。"
 msgstr ""
+"Even for Mongoose team, there are still indoor duties waiting for them. Of "
+"course, since it's a duty, so uniforms are required. Steel Draco seems to be "
+"happy about this dress that can appeal her intelegent side..."
 
 #  Korean Text: '생각하는 드라코?'
 #: CharSkin[Skin_BR_AS12TurtleDragon_1].SkinName
 msgid "考えるドラコ？"
-msgstr ""
+msgstr "Thinking Draco?"
 
 #  Korean Text: '호라이즌 역시 비스트 헌터를 열렬하게 원한 군대였습니다. 일부 비스트 헌터는 이 소망을 받아 들여 잠항한 적을 처치하는 임무를 맡았습니다.'
 #: CharSkin[Skin_BR_BeastHunter_1].SkinDesc
 msgid "ホライゾンもビーストハンターの加入を強く希望していました。一部のビーストハンターはその望みに応え、潜航している敵を排除する任務にあたりました。"
 msgstr ""
+"Beast Hunter is also wanted in the Horizon faction. Some of the Beast Hunters "
+"responded to this request, and worked with them to eliminate the enemies who "
+"can dive."
 
 #  Korean Text: '바다사냥꾼 비스트 헌터'
 #: CharSkin[Skin_BR_BeastHunter_1].SkinName
 msgid "海のハンタービーストハンター"
-msgstr ""
+msgstr "Sea Hunter Beast Hunter"
 
 #  Korean Text: '출동 시간이 들쭉날쭉한 몽구스 팀에게는 쉴 수 있는 시간을 최대한 보장합니다. 그땐 모두 편한 옷을 입고 쉬게 되죠.'
 #: CharSkin[Skin_BR_Bulgasari_1].SkinDesc
 msgid "出動時間がまちまちなマングースチームには休憩時間を最大限保障します。その時は皆が楽な格好で休憩します。"
 msgstr ""
+"For Mongoose team, since they don't have a fixed schedule for duty so they "
+"focus on resting whenever possible. When they do so, everyone just wears "
+"super casual clothing."
 
 #  Korean Text: '불가사리의 오픈백 스웨터'
 #: CharSkin[Skin_BR_Bulgasari_1].SkinName
 msgid "ブルカサリのオープンバックセーター"
-msgstr ""
+msgstr "Bulgasari: Inexperienced Killer"
 
 #  Korean Text: '결혼식 후에는 항상 행복한 시간이 기다리고 있습니다.'
 #: CharSkin[Skin_BR_Daika_1].SkinDesc
 msgid "結婚式の後にはいつも幸せな時間が待っています。"
-msgstr ""
+msgstr "She's always waiting for the sweet first night after the wedding."
 
 #  Korean Text: '위험한 가족 : 다이카의 신혼여행'
 #: CharSkin[Skin_BR_Daika_1].SkinName
 msgid "危険な家族：ダイカの新婚旅行"
-msgstr ""
+msgstr "Dangerous Family: Daika's Honeymoon"
 
 #: CharSkin[Skin_BR_DrM_1].SkinDesc
 msgid "もっと大きく、もっとセクシーに、もっと強くなりました！果たしてドクターは目的を達成できるでしょうか？"
 msgstr ""
+"After drinking the suspicious potion, Doctor became bigger, sexier, stronger. "
+"Can Doctor achieve her goal?"
 
 #: CharSkin[Skin_BR_DrM_1].SkinName
 msgid "OPPAだけど愛があれば…!"
-msgstr ""
+msgstr "As Long as There's Love, Even if He's My Brother...!"
 
 #  Korean Text: '그녀가 등교한 사이에 집에서는 많은 일들이 일어나고 있습니다…'
 #: CharSkin[Skin_BR_Emily_1].SkinDesc
 msgid "彼女が登校している間に家ではたくさんのことが起きています…"
-msgstr ""
+msgstr "When she's gone for school, many things happened back in home..."
 
 #  Korean Text: '위험한 가족 : 신입생 에밀리'
 #: CharSkin[Skin_BR_Emily_1].SkinName
 msgid "危険な家族：新入生エミリー"
-msgstr ""
+msgstr "Dangerous Family: Freshman Emily"
 
 #  Korean Text: '오늘 그녀가 새로운 가족 구성원이 되었습니다.'
 #: CharSkin[Skin_BR_Gnome_1].SkinDesc
 msgid "彼女は今日、新しい家族になりました。"
-msgstr "Today, she became the newest member of the family."
+msgstr "Today, she becomes part of the family."
 
 #  Korean Text: '위험한 가족 : 가족의 탄생'
 #: CharSkin[Skin_BR_Gnome_1].SkinName
 msgid "危険な家族：家族の誕生"
-msgstr ""
+msgstr "Dangerous Family: Birth of a Family"
 
 #  Korean Text: '몇몇 국가 또는 회사에서는 전쟁의 승리를 여러 전쟁 영웅들로 퍼레이드를 열었습니다. 물론, 최대한 주목을 받을 수 있는 제복을 입혀서요.'
 #: CharSkin[Skin_BR_Khan_1].SkinDesc
 msgid "いくつかの国家や会社では戦争で勝利を勝ち取った英雄たちでパレードをして祝いました。もちろん、最大限注目を浴びるコスチュームを着てです。"
 msgstr ""
+"In some countries or companies, a parade is often held to celebrate the "
+"victory of a war. Of course, this is the time to wear the dress that gets the "
+"most attention."
 
 #  Korean Text: '칸의 퍼레이드 제복'
 #: CharSkin[Skin_BR_Khan_1].SkinName
 msgid "カーンのパレード制服"
-msgstr ""
+msgstr "Honor Guard Khan"
 
 #  Korean Text: '언제나 고고하고 위엄이 넘치는 레오나지만 어쩌면 잠을 잘 때는 다를 지도 모르겠군요. 레오나의 진짜 취향을 알아보는 시간을 가져봅시다.'
 #: CharSkin[Skin_BR_Leona_1].SkinDesc
 msgid "いつも孤高で威厳あふれるレオナですが、寝ている時は少し違うかもしれませんね。レオナの本当の趣向を知る機会を設けてみましょう。"
 msgstr ""
+"Leona is always arrogant and elegant, but it seems to be not the case when "
+"it's bedtime. Probably it's about time to learn about her true interests."
 
 #  Korean Text: '잠자는 레오나'
 #: CharSkin[Skin_BR_Leona_1].SkinName
 msgid "眠るレオナ"
-msgstr ""
+msgstr "Sleeping Leona"
 
 #: CharSkin[Skin_BR_Leona_2].SkinDesc
 msgid "ブラックリバーグランプリが間もなく開幕します！参加者の皆さんはスタートラインで待機してください！"
@@ -278,29 +314,29 @@ msgstr ""
 
 #: CharSkin[Skin_BR_Leona_2].SkinName
 msgid "レースクイーンレオナ"
-msgstr ""
+msgstr "Racing Queen Leona"
 
 #  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 레프리콘이 그것을 원하지 않는다고 하더라도요.'
 #: CharSkin[Skin_BR_Leprechaun_1].SkinDesc
 msgid "夏にはもう少し涼しい戦闘服が必要ですよね。レプリコンはそれを望まないらしいです。"
 msgstr ""
-"In summer you need cooler combat suits. Even if the Leprechaun doesn't want "
-"it."
+"It's summer time, and a new uniform is needed to cope with the weather. "
+"Apparently Leprechaun doesn't want such things..."
 
 #  Korean Text: '하계 전투복 레프리콘'
 #: CharSkin[Skin_BR_Leprechaun_1].SkinName
 msgid "夏季戦闘服レプリコン"
-msgstr ""
+msgstr "Summer Combat Uniform Leprechaun"
 
 #  Korean Text: '학생회장 마리의 수줍은 고백을 받아 주세요!'
 #: CharSkin[Skin_BR_Marie_1].SkinDesc
 msgid "生徒会長マリーの照れくさい告白をどうぞ!"
-msgstr ""
+msgstr "Please respond to the council leader, Marie's confession!"
 
 #  Korean Text: '수줍은 고백'
 #: CharSkin[Skin_BR_Marie_1].SkinName
 msgid "照れくさい告白"
-msgstr ""
+msgstr "Shy Confession"
 
 #  Korean Text: '"마리 대장님의 행복을 기원합니다. -레프리콘" "10개월만이라도 행복하고 싶어요. -브라우니" "대장 동무, 새로운 경험을 축하. -임펫" "대장님, 성공을 빌어요. -이프리트"'
 #: CharSkin[Skin_BR_Marie_2].SkinDesc
@@ -308,78 +344,96 @@ msgid ""
 "「マリー隊長の幸せを祈ります。 -レプリコン」「10か月だけでも幸せに過ごしてください。 -ブラウニー」「隊長同士、新しい経験を祝う。 -"
 "インペット」「隊長、成功を祈ります。 -イフリート」"
 msgstr ""
+"「I hope Captain Marie can be happy」- Leprechaun\n"
+"「Finally the training will be paused for about 10 months」- Brownie\n"
+"「Cheers to Captain's new life journey」- Impet\n"
+"「She can probably one shot this~」 - Efreeti"
 
 #  Korean Text: '마리의 란제리 선물'
 #: CharSkin[Skin_BR_Marie_2].SkinName
 msgid "ランジェリープレゼント(マリー)"
-msgstr ""
+msgstr "Lingerie Gift (Marie)"
 
 #  Korean Text: '메이가 당신에게 뜨거운 사랑을 보냅니다. 그녀의 뜨거운 사랑을 받아주실 건가요?'
 #: CharSkin[Skin_BR_May_1].SkinDesc
 msgid "メイがあなたに熱烈な愛を向けています。彼女の愛を受け入れますか？"
 msgstr ""
+"May's sending you her passionate love. Will you accept her passionate love?"
 
 #  Korean Text: '폭발하는 사랑'
 #: CharSkin[Skin_BR_May_1].SkinName
 msgid "爆発する愛"
-msgstr ""
+msgstr "Exploding Love"
 
 #: CharSkin[Skin_BR_May_2].SkinDesc
 msgid "メイは自分の長所と短所をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
 msgstr ""
-"May is well aware of her strengths and weaknesses. It would be nice for this "
-"swimsuit to show May's explosive appeal."
+"May knows how to utilize her \"weapons\". Can she appeal her nuclear-fusion "
+"level of Charisma with this swimsuit?"
 
 #: CharSkin[Skin_BR_May_2].SkinName
 msgid "アトミックセクシーメイ"
-msgstr ""
+msgstr "Atomic Sexy May"
 
 #  Korean Text: '미호가 자신이 좋아하는 초콜릿을 녹여 선물을 만들고 있습니다. 누굴 주려고 하는 걸까요?'
 #: CharSkin[Skin_BR_Miho_1].SkinDesc
 msgid "ミホが自分の好きなチョコレートを溶かしてプレゼントを作っています。誰にあげようとしているのでしょう？"
 msgstr ""
+"Miho is melting her favourite chocolate to make a present. Who will she send "
+"her true-love chocolate to?"
 
 #  Korean Text: '미호의 초콜릿 공장'
 #: CharSkin[Skin_BR_Miho_1].SkinName
 msgid "ミホのチョコレート工場"
-msgstr ""
+msgstr "Miho's Chocolate Factory"
 
 #: CharSkin[Skin_BR_Neodym_2].SkinDesc
 msgid "本機のだった一人のお客様であるあなたにすべてのサービスが無料で提供されます。まずは担当乗務員ネオディムとシャンパンでもいかがでしょう？"
 msgstr ""
+"As the only passenger on this flight, all of the service provided will be "
+"complementary. So how about a glass of champagne with our flight attendant "
+"Neodym?"
 
 #: CharSkin[Skin_BR_Neodym_2].SkinName
 msgid "特級機内サービス"
-msgstr "Premium in-flight service"
+msgstr "Stewardess Neodym"
 
 #: CharSkin[Skin_BR_NightAngel_2].SkinDesc
 msgid ""
 "「ついに司令官に私の魅力を教える時が来ましたね!」いつものことですが木は森に隠さなければなりません。 特定の部位が他の部位を隠してくれるんですよ。"
 msgstr ""
+"「Commander will finally understand my beauty!」-- Talking about having a blind "
+"spot. The perfect example of how to hide something in plain daylight."
 
 #: CharSkin[Skin_BR_NightAngel_2].SkinName
 msgid "選手水着ナイトエンジェル"
-msgstr ""
+msgstr "Night Angel's Racing Swimsuit"
 
 #: CharSkin[Skin_BR_Nymph_1].SkinDesc
 msgid ""
 "ここだけの話ですが、コンプレックスがある部分は隠し、自信がある部分を強調する最高のポーズをとるため、ニンフはレオナの冷徹な分析と指導の下、何日も研究を重ねた"
 "とか。"
 msgstr ""
+"This is a secret but... To learn the perfect pose to hide her concerns and "
+"only show the parts she's confident in, Nymph was under Leona's analysis and "
+"guidance for some days..."
 
 #: CharSkin[Skin_BR_Nymph_1].SkinName
 msgid "湖の妖精"
-msgstr ""
+msgstr "Lake's Fairy"
 
 #  Korean Text: '그리폰의 원래 생산지의 예장복입니다. 그리폰이 그 나라의 군인과 임무 교대식을 할 때 입었던 옷이죠. 때론 정치적 배려가 필요하니까요.'
 #: CharSkin[Skin_BR_PA00EL_1].SkinDesc
 msgid "グリフォンの生産国の儀礼服で、グリフォンがその国の軍人と任務交代式をした時着ていた服です。時には政治的配慮が必要ですからね。"
 msgstr ""
+"The formal uniform of Griffon's producing country. Griffon wears this uniform "
+"when she needs to change the guard with the soldiers. Sometimes, political "
+"concerns are necessary."
 
 #  Korean Text: '예장복 그리폰'
 #: CharSkin[Skin_BR_PA00EL_1].SkinName
 msgid "礼装服グリフォン"
-msgstr ""
+msgstr "Griffon's Anniversary Wear"
 
 #: CharSkin[Skin_BR_PA00EL_S1].SkinDesc
 msgid "偵察用のステルススーツを着たグリフォンです。"
@@ -393,88 +447,100 @@ msgstr ""
 msgid ""
 "フェニックスは大事な装備を自分で整備したりします。ちゃんとした整備服があるはずなのに、あえて夏季戦闘服姿であなたの前で整備をするのには理由がありそうですね。"
 msgstr ""
+"Phoenix always maintains her precious equipment herself. The reason why she "
+"wears the summer uniform but not a mechanic's uniform? She wants you to see "
+"her maintaining it with your own eyes."
 
 #: CharSkin[Skin_BR_Phoenix_1].SkinName
 msgid "夏季戦闘服フェニックス"
-msgstr ""
+msgstr "Summer Combat Uniform Phoenix"
 
 #  Korean Text: '파란 하늘을 수놓는 완벽한 비행단! 의상까지 완벽합니다!'
 #: CharSkin[Skin_BR_PoniesAnger_1].SkinDesc
 msgid "青い空を彩る完璧な飛行団! 衣装まで完璧です!"
-msgstr ""
+msgstr "Blue sky! Colorful Aerobatics! And the clothing is perfect!"
 
 #  Korean Text: '공중곡예기 핀토'
 #: CharSkin[Skin_BR_PoniesAnger_1].SkinName
 msgid "空中曲芸機ピント"
-msgstr ""
+msgstr "Pinto's Aerial Uniform"
 
 #: CharSkin[Skin_BR_PXSilky_1].SkinDesc
 msgid "ブラウニーは疑問の褒章休暇をもらったそうです。よくやった、ブラウニー！"
-msgstr ""
+msgstr "Brownie somehow got a paid vacation. Goodjob Brownie!"
 
 #: CharSkin[Skin_BR_PXSilky_1].SkinName
 msgid "夏季戦闘服シルキー"
-msgstr ""
+msgstr "Summer Combat Uniform Silky"
 
 #  Korean Text: '오늘 그녀는 새로운 가족이 탄생하길 기다리고 있습니다.'
 #: CharSkin[Skin_BR_Scathy_1].SkinDesc
 msgid "今日彼女は新しい家族が誕生するのを待っています。"
-msgstr ""
+msgstr "Another day, another wish for the birth of a new family member."
 
 #  Korean Text: '위험한 가족 : 또 하나의 가족을 위해'
 #: CharSkin[Skin_BR_Scathy_1].SkinName
 msgid "危険な家族：もう一つの家族のために"
-msgstr ""
+msgstr "Dangerous Family: For Another Family Member"
 
 #: CharSkin[Skin_BR_Sirene_1].SkinDesc
 msgid ""
 "ホライゾンの副艦長という重責を担っているセイレーンですが、あなたの前では恋に落ちたただの少女に過ぎません。そんなセイレーンと一緒に一生忘れられない思い出を作"
 "ってみましょう。"
 msgstr ""
+"As the Executive officer of Horizon, her responsibilities are huge. However, "
+"when she's with you, she's just a little girl who's fallen in love with "
+"someone. Please create some unforgettable memories for Sirene."
 
 #: CharSkin[Skin_BR_Sirene_1].SkinName
 msgid "夏、海辺と少女"
-msgstr ""
+msgstr "Spring, Beach and Girl"
 
 #  Korean Text: '티켓 매진 임박! 마하 100의 충격파를 느껴보세요!'
 #: CharSkin[Skin_BR_Sleipnir_1].SkinDesc
 msgid "チケットが売り切れ直前!マッハ100の衝撃波を感じてみましょう!"
 msgstr ""
+"Tickets will sold-out any moment! The 100 Mach shockwave will shock you!"
 
 #  Korean Text: '슈퍼스타 슬레이프니르'
 #: CharSkin[Skin_BR_Sleipnir_1].SkinName
 msgid "スーパースタースレイプニール"
-msgstr ""
+msgstr "Superstar Sleipnir"
 
 #: CharSkin[Skin_BR_Sleipnir_2].SkinDesc
 msgid "飛行中に脱げたりしないか心配です。大丈夫でしょうか?"
 msgstr ""
+"As long as the swimsuit doesn't fall off when she's flying it's ok... It "
+"should be ok?"
 
 #: CharSkin[Skin_BR_Sleipnir_2].SkinName
 msgid "スレイプニールのストライプの水着"
-msgstr ""
+msgstr "Striped Swimsuit"
 
 #: CharSkin[Skin_BR_Spriggan_1].SkinDesc
 msgid ""
 "海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官様の私生活を…少しだけ覗いてみましょうか"
 "?心配要りません!極秘放送ですので!"
 msgstr ""
+"This is reporter Spriggan, I'm currently at the scene of seaside vacation! It "
+"is much hotter than I expected. And let's take a sneaky peek at commander's "
+"private... Don't worry, this is a secret broadcast!"
 
 #: CharSkin[Skin_BR_Spriggan_1].SkinName
 msgid "ビーチリポータースプリガン"
-msgstr ""
+msgstr "Beach Reporter Spriggan"
 
 #  Korean Text: '토모는 특별 활동으로 체조부를 선택했습니다. 글쎄요. 체조의 규칙이 간단하긴 합니다만…'
 #: CharSkin[Skin_BR_Tomoe_1].SkinDesc
 msgid "トモは部活動に体操部を選びました。さあ、体操はルールが簡単ではありますが……"
 msgstr ""
-"Tomo chose gymnastics as a special activity. I don't know, the rules of "
-"gymnastics are simple, but..."
+"Tomo chose Rhythmic gymnastics for her club activities. Well you know, the "
+"rules themselves are not that hard..."
 
 #  Korean Text: '체조부 토모'
 #: CharSkin[Skin_BR_Tomoe_1].SkinName
 msgid "体操部トモ"
-msgstr ""
+msgstr "Gymnastics Club Tomo"
 
 #: CharSkin[Skin_BR_Tomoe_S1].SkinDesc
 msgid "教育を通じて知識が増えたトモです。 有用な知識かはわかりませんが。"
@@ -482,128 +548,153 @@ msgstr ""
 
 #: CharSkin[Skin_BR_Tomoe_S1].SkinName
 msgid "模範生トモ"
-msgstr ""
+msgstr "Model Student Tomo"
 
 #  Korean Text: '야전을 위한 제복은 도시에선 너무 눈에 띄죠. 도시에 있는 적의 제거를 위해 발키리는 좀 더 도시에 어울리는 옷을 선택했습니다.'
 #: CharSkin[Skin_BR_Valkyrie_1].SkinDesc
 msgid "野戦のための制服は都市ではとても目立ちます。都市にいる敵を始末するためヴァルキリーはもう少し都市に適応した服を選びました。"
 msgstr ""
+"The field uniform stands out too much in the city. To get rid of the enemies "
+"in the city, Valkyrie chose a more fitting outfit for herself."
 
 #  Korean Text: '도시암살자 발키리'
 #: CharSkin[Skin_BR_Valkyrie_1].SkinName
 msgid "都市暗殺者ヴァルキリー"
-msgstr ""
+msgstr "City Assassin Valkyrie"
 
 #: CharSkin[Skin_BR_Valkyrie_2].SkinDesc
 msgid "久しぶりの休暇でヴァルキリーは喜んでいます。それでも小さなカバンは忘れていませんね。"
 msgstr ""
+"Valkyrie is excited about the overdue vacation. But don't forget about that "
+"small bag."
 
 #: CharSkin[Skin_BR_Valkyrie_2].SkinName
 msgid "ヴァルキリー水泳準備中"
-msgstr ""
+msgstr "Midsummer's Valkyrie"
 
 #  Korean Text: '퇴역 후, 영화 카리브의 버카니어에 데뷔한 워울프입니다. 흑색 화약 시대의 향취를 느껴보세요!'
 #: CharSkin[Skin_BR_WarWolf_1].SkinDesc
 msgid "退役後,映画「カリブ」のバッカニアでデビューしたウェアウルフです。 黒色火薬時代の香りを感じてみてください!"
 msgstr ""
-"Werewolf debuts in the film \"Buccaneers of the Caribbean\" after retiring "
-"from the military. Feel the fragrance of black gunpowder!"
+"After she retires, War Wolf debuts as a actress in the movie 「Caribbean's "
+"Buccaneer」. Time to feel the middle ages now!"
 
 #  Korean Text: '버카니어 시울프'
 #: CharSkin[Skin_BR_WarWolf_1].SkinName
 msgid "バッカニア・シーウルフ"
-msgstr ""
+msgstr "Buccaneer Sea Wolf"
 
 #: CharSkin[Skin_DS_Atalanta_1].SkinDesc
 msgid "普段は凛々しいアタランテですが、こんな格好ではさすがにそうはいかないようです…"
 msgstr ""
+"Apparently the always cool-looking Atalanta can't strike a pose in this "
+"clothing..."
 
 #: CharSkin[Skin_DS_Atalanta_1].SkinName
 msgid "もう一つの運命のカリスト"
-msgstr ""
+msgstr "Callisto of Different Fate"
 
 #: CharSkin[Skin_DS_Charlotte_1].SkinDesc
 msgid "豪華な宝石で作られたこの水着はモデルを華やかに見せます。 唯一の短所は宝石が高すぎて小さく作るしかないという点ですね。"
 msgstr ""
+"The swimsuit was made using lusury jewels, thus making the model wearing it "
+"even more beautiful. The only problem is the cost of the jewels are so high, "
+"they can only cover a very small area."
 
 #: CharSkin[Skin_DS_Charlotte_1].SkinName
 msgid "フランス風宝石ビキニ"
-msgstr ""
+msgstr "French Jewelry Bikini"
 
 #  Korean Text: '의장에는 검, 실전에선 곤봉은 얼핏 보기에는 이상합니다. 하지만, 멋진 검이 의장에 어울린다는 건 확실합니다.'
 #: CharSkin[Skin_PECS_Cerberus_1].SkinDesc
 msgid "儀礼に剣、実戦に鈍器を携えるというのはちょっとちぐはぐです。しかし、無骨な鈍器より綺麗な剣の方が儀礼用には相応しいでしょう。"
 msgstr ""
+"For ceremony, it's sword, but for real combat she uses a stick. Sounds weird, "
+"but works. But you do need a cool-looking sword for the ceremony, that's for "
+"sure."
 
 #  Korean Text: '의장대 켈베로스'
 #: CharSkin[Skin_PECS_Cerberus_1].SkinName
 msgid "儀仗隊ケルベロス"
-msgstr ""
+msgstr "Honor Guard Cerberus"
 
 #: CharSkin[Skin_PECS_Cerberus_2].SkinDesc
 msgid "ケルベロスは海でも自分の立場を忘れません。彼女は皆のために自ら番犬役を買って出ています。"
 msgstr ""
+"Even at the beach, Cerbrus still doesn't forget about her duty. She bought "
+"all this gear just to be the guard dog for everyone."
 
 #: CharSkin[Skin_PECS_Cerberus_2].SkinName
 msgid "ビーチの見張り役"
-msgstr ""
+msgstr "Beach Lifeguard"
 
 #  Korean Text: '상공회의소의 행사장은 더치걸이 햇빛을 보는 얼마 안 되는 날입니다. 이날 만은 노동에서 벗어난 더치걸이 마음놓고 쉴 수 있죠.'
 #: CharSkin[Skin_PECS_DutchGirl_1].SkinDesc
 msgid "商工会議所のイベントホールはダッチガールが日の目を見る数少ない日です。この日だけは労働から離れてダッチガールが心置きなく休めます。"
 msgstr ""
+"The day that they need to go to the Chamber of Commerce for promotion is one "
+"of the few days Dutch Girl can say hi to the sun. Dutch Girl is free from "
+"mining on that day only, and she can rest without worrying about anything."
 
 #  Korean Text: '행사장 더치걸'
 #: CharSkin[Skin_PECS_DutchGirl_1].SkinName
 msgid "イベントダッチガール"
-msgstr ""
+msgstr "Ceremony Dutch Girl"
 
 #: CharSkin[Skin_PECS_Express76_1].SkinDesc
 msgid "ワークホリックのエクスプレス76は休養地でも仕事の事を忘れません。ツナ缶を集めて誰かにあげようとしているんでしょうか?"
 msgstr ""
+"For a workholic like Express 76, she still only thinks about her work even "
+"she's on vacation. She collected so many tuna cans, probably a gift to "
+"someone?"
 
 #: CharSkin[Skin_PECS_Express76_1].SkinName
 msgid "76アルバイトユニフォーム"
-msgstr ""
+msgstr "76 Part-time Job"
 
 #  Korean Text: '심해에도 포츈이 수리할 수많은 설비가 있습니다. 이 신소재는 몸을 가리는 기능 외에 모든 것이 가능합니다.'
 #: CharSkin[Skin_PECS_Fortune_1].SkinDesc
 msgid "深海にもフォーチュンが修理するべき数多くの設備があります。この新素材は、体を覆う機能以外にも、すべてのことが可能なんです。"
 msgstr ""
+"There's equipment that needs to be maintenanced by Fortune in the deeper sea. "
+"This diving suit is made of new materials, and can handle everything thrown "
+"at it except hiding Fortune's body."
 
 #  Korean Text: '심해정비공 포츈'
 #: CharSkin[Skin_PECS_Fortune_1].SkinName
 msgid "深海整備員フォーチュン"
-msgstr ""
+msgstr "Deep Sea Mechanic Fortune"
 
 #  Korean Text: '새로운 힘, 피에 눈을 뜬 진조 뱀파이어 LRL. 검과 검은 드레스는 고귀한 진조에 더욱 어울립니다.'
 #: CharSkin[Skin_PECS_LRL_1].SkinDesc
 msgid "新たな力、血に目覚めた真祖バンパイアＬＲＬ。剣と黒いドレスは高貴な真祖にはより似合います。"
 msgstr ""
-"A new power emerges in Vampire Lady LRL, awakened by blood. The sword and her "
-"black dress suits her noble blood."
+"The Vampire master LRL who awakened new blood powers. The sword and dress is "
+"a perfect fit for the true Vampire master."
 
 #  Korean Text: '고스로리 LRL'
 #: CharSkin[Skin_PECS_LRL_1].SkinName
 msgid "ゴスロリLRL"
-msgstr ""
+msgstr "Gothic LRL"
 
 #  Korean Text: '물의 위험성을 누구보다도 잘 알려줄 수 있는 교사.'
 #: CharSkin[Skin_PECS_Serpent_1].SkinDesc
 msgid "水の危険性を誰よりもよく教えてくれる教師。"
-msgstr ""
+msgstr "The teacher that knows the danger of water better than anyone."
 
 #  Korean Text: '위험한 가족 : 수영부 고문교사'
 #: CharSkin[Skin_PECS_Serpent_1].SkinName
 msgid "危険な家族：水泳部顧問教師"
-msgstr ""
+msgstr "Dangerous Family: Swimming Club Adviser"
 
 #  Korean Text: '수련한 후, 휴식을 취하며 땀을 닦을 때 티에치엔은 태어난 보람을 느낍니다.'
 #: CharSkin[Skin_PECS_Tiequan_1].SkinDesc
 msgid "トレーニングの後、汗を拭うとティエ･チュァンは生き甲斐を感じます。"
 msgstr ""
+"After the training is finished, the moment she takes a break and feel all the "
+"sweat coming out of her is the moment Tiequan feels the most alive."
 
 #  Korean Text: '수련 후의 티에치엔'
 #: CharSkin[Skin_PECS_Tiequan_1].SkinName
 msgid "トレーニング後のティエ･チュァン"
-msgstr ""
+msgstr "After Training Tiequan"

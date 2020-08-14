@@ -3348,7 +3348,7 @@ msgstr ""
 #  Korean Text: '기동타격대 제복 드라코'
 #: ItemConsumable[Shop_Package_BR_AS12TurtleDragon_1].ItemName
 msgid "機動打撃隊制服(スチールドラコ)"
-msgstr "Strike Force Uniform (Steel Draco)"
+msgstr "Mobile Strike Force Uniform (Draco)"
 
 #: ItemConsumable[Shop_Package_BR_DrM_1].ItemDesc
 msgid "ドクター用怪しい薬 (ドクター)と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入っているパックです。"
@@ -3356,7 +3356,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_BR_DrM_1].ItemName
 msgid "OPPAだけど愛があれば…!"
-msgstr ""
+msgstr "As Long as There's Love, Even if He's My Brother...!"
 
 #  Korean Text: '메이용 아토믹 섹시 수영복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_BR_May_2].ItemDesc
@@ -3521,7 +3521,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 유혹하는 메이드'
 #: ItemConsumable[Shop_Package_Skin_3P_BlackLilith_1].ItemName
 msgid "危険な家族：誘惑のメイド"
-msgstr ""
+msgstr "Dangerous Family: Seducing Maid"
 
 #  Korean Text: '콘스탄챠용 나이트 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_3P_ConstantiaS2_2].ItemDesc
@@ -3573,7 +3573,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 견습 메이드'
 #: ItemConsumable[Shop_Package_Skin_3P_Hachiko_1].ItemName
 msgid "危険な家族：見習いメイド"
-msgstr ""
+msgstr "Dangerous Family: Apprentice Maid"
 
 #  Korean Text: '리제용 간호사복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_3P_ScissorsLise_1].ItemDesc
@@ -3623,7 +3623,7 @@ msgstr ""
 #  Korean Text: '비스트 헌터용 심해 사냥복 팩'
 #: ItemConsumable[Shop_Package_Skin_BR_BeastHunter_1].ItemName
 msgid "ビーストハンター用深海ハンティングスーツパック"
-msgstr ""
+msgstr "Deep Sea Hunting Suit (Beast Hunter)"
 
 #  Korean Text: '불가사리용 오븐백 스웨터와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Bulgasari_1].ItemDesc
@@ -3633,7 +3633,7 @@ msgstr ""
 #  Korean Text: '불가사리: 무경험자의 살인자'
 #: ItemConsumable[Shop_Package_Skin_BR_Bulgasari_1].ItemName
 msgid "ブルガサリのオープンバックセーター"
-msgstr ""
+msgstr "Open Back Sweater (Bulgasari)"
 
 #  Korean Text: '다이카용 침소용 웨딩 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Daika_1].ItemDesc
@@ -3643,7 +3643,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 다이카의 신혼여행'
 #: ItemConsumable[Shop_Package_Skin_BR_Daika_1].ItemName
 msgid "危険な家族：ダイカの新婚旅行"
-msgstr ""
+msgstr "Dangerous Family: Daika's Honeymoon"
 
 #  Korean Text: '에밀리용 신입생 교복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Emily_1].ItemDesc
@@ -3653,7 +3653,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 신입생 에밀리'
 #: ItemConsumable[Shop_Package_Skin_BR_Emily_1].ItemName
 msgid "危険な家族：新入生エミリー"
-msgstr ""
+msgstr "Dangerous Family: Freshman Emily"
 
 #  Korean Text: '노움용 침소용 웨딩 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Gnome_1].ItemDesc
@@ -3663,7 +3663,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 가족의 탄생'
 #: ItemConsumable[Shop_Package_Skin_BR_Gnome_1].ItemName
 msgid "危険な家族：家族の誕生"
-msgstr ""
+msgstr "Dangerous Family: Birth of a Family"
 
 #  Korean Text: '칸용 퍼레이드 제복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Khan_1].ItemDesc
@@ -3673,7 +3673,7 @@ msgstr ""
 #  Korean Text: '의장대 칸 팩'
 #: ItemConsumable[Shop_Package_Skin_BR_Khan_1].ItemName
 msgid "儀仗隊カーンパック"
-msgstr ""
+msgstr "Khan's Honor Guard Pack"
 
 #  Korean Text: '레오나용 베이비돌과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Leona_1].ItemDesc
@@ -3687,7 +3687,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_BR_Leona_2].ItemDesc
 msgid "レースクイーンレオナ"
-msgstr ""
+msgstr "Racing Queen Leona"
 
 #  Korean Text: '레프리콘용 하계 전투복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Leprechaun_1].ItemDesc
@@ -3717,7 +3717,7 @@ msgstr ""
 #  Korean Text: '스틸라인의 염원'
 #: ItemConsumable[Shop_Package_Skin_BR_Marie_2].ItemName
 msgid "スチールラインの願い"
-msgstr ""
+msgstr "Steel Line's Aspiration"
 
 #  Korean Text: '메이용 스웨터와 초콜릿 5개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_May_1].ItemDesc
@@ -3747,7 +3747,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_BR_Neodym_2].ItemName
 msgid "特級機内サービス"
-msgstr "Premium in-flight service"
+msgstr "Stewardess Neodym"
 
 #  Korean Text: '나이트 앤젤의 꿈과 시작형 파츠 2개가 들어있는 팩입니다. 누구나 꿈은 자유롭게 꿀 수 있겠지요.'
 #: ItemConsumable[Shop_Package_Skin_BR_NightAngel_1].ItemDesc
@@ -3765,7 +3765,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_BR_Nymph_1].ItemName
 msgid "湖の妖精"
-msgstr ""
+msgstr "Lake's Fairy"
 
 #  Korean Text: '그리폰용 예장복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_PA00EL_1].ItemDesc
@@ -3783,7 +3783,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_BR_Phoenix_1].ItemName
 msgid "夏季戦闘服フェニックス"
-msgstr ""
+msgstr "Summer Combat Uniform Phoenix"
 
 #  Korean Text: '핀토용 공중 곡예단 제복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_PoniesAnger_1].ItemDesc
@@ -3801,7 +3801,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_BR_PXSilky_1].ItemName
 msgid "夏季戦闘服シルキー"
-msgstr ""
+msgstr "Summer Combat Uniform Silky"
 
 #  Korean Text: '스카디용 요가팬츠와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Scathy_1].ItemDesc
@@ -3811,7 +3811,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 또 하나의 가족을 위해'
 #: ItemConsumable[Shop_Package_Skin_BR_Scathy_1].ItemName
 msgid "危険な家族：もう一つの家族のために"
-msgstr ""
+msgstr "Dangerous Family: For Another Family Member"
 
 #: ItemConsumable[Shop_Package_Skin_BR_Sirene_1].ItemDesc
 msgid "セイレーン用かわいいワンピースと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
@@ -3819,7 +3819,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_BR_Sirene_1].ItemName
 msgid "夏、海辺と少女"
-msgstr ""
+msgstr "Spring, Beach and Girl"
 
 #  Korean Text: '슬레이프니르용 콘서트복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Sleipnir_1].ItemDesc
@@ -3877,7 +3877,7 @@ msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_DS_Atalanta_1].ItemName
 msgid "もう一つの運命のカリスト"
-msgstr ""
+msgstr "Callisto of Different Fate"
 
 #  Korean Text: '켈베로스용 의장복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_PECS_Cerberus_1].ItemDesc
@@ -3937,7 +3937,7 @@ msgstr ""
 #  Korean Text: '위험한 가족 : 수영부 고문교사'
 #: ItemConsumable[Shop_Package_Skin_PECS_Serpent_1].ItemName
 msgid "危険な家族：水泳部顧問教師"
-msgstr ""
+msgstr "Dangerous Family: Swimming Club Adviser"
 
 #  Korean Text: '티에치엔용 수련복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_PECS_Tiequan_1].ItemDesc
@@ -3953,11 +3953,13 @@ msgstr "Tiequan's Training Suit Pack"
 #: ItemConsumable[Skin_3P_Alexandra_1].ItemDesc
 msgid "人間らしいご主人様には教師がお似合いです。ですがご主人様によってはまず先にちゃんとした人になる必要がある……方もいます。"
 msgstr ""
+"Only humans need teachers. However, some masters will learn how to behave "
+"like a human first."
 
 #  Korean Text: '조련사 복장 (알렉산드라)'
 #: ItemConsumable[Skin_3P_Alexandra_1].ItemName
 msgid "調教服(アレクサンドラ)"
-msgstr ""
+msgstr "Training Suit (Alexandra)"
 
 #  Korean Text: '밤의 여왕의 초대에 응해 함께 달콤한 꿈을 꾸러 가보시겠어요? 영원히 깰 수 없을지도 모르지만......'
 #: ItemConsumable[Skin_3P_Alice_1].ItemDesc
@@ -3967,12 +3969,12 @@ msgstr ""
 #  Korean Text: '너무 위험한 메이드를 들이고 말았군요.'
 #: ItemConsumable[Skin_3P_BlackLilith_1].ItemDesc
 msgid "とても危険なメイドを入れちゃいましたね。"
-msgstr ""
+msgstr "It seems that you hired a maid that shouldn't be hired."
 
 #  Korean Text: '가정용 메이드복 (블랙 리리스)'
 #: ItemConsumable[Skin_3P_BlackLilith_1].ItemName
 msgid "家庭用メイド服(ブラックリリス)"
-msgstr ""
+msgstr "Homemade Maid Uniform (Lilith)"
 
 #  Korean Text: '드림위버는 자신의 영감을 되살려준 리리스에게 그녀의 소망을 들어주는 것으로 은혜를 갚았습니다. 그녀는 여름이 지나더라도 피부에 흔적이 남을 멋진 수영복을 원했죠.'
 #: ItemConsumable[Skin_3P_BlackLilith_2].ItemDesc
@@ -3980,18 +3982,21 @@ msgid ""
 "ドリームウィーバーは自分のインスピレーションを蘇らせてくれたリリスの願いを叶えることで恩を返しました。彼女は夏が終わっても肌に跡が残る素敵な水着を望みました"
 "。"
 msgstr ""
+"To thank Lilith who made Audrey's inspiration revived again, she made this as "
+"a token of appreciation in return to make Lilith's dream come true. What "
+"Lilith wanted was a swimsuit to leave some trace on her once summer ends."
 
 #  Korean Text: '본 목적을 벗어난 수영복 (리리스)'
 #: ItemConsumable[Skin_3P_BlackLilith_2].ItemName
 msgid "目的の外れた水着(リリス)"
-msgstr ""
+msgstr "Beyond it's purpose Swimwear (Lilith)"
 
 #  Korean Text: '자신의 메이드복을 자랑스러워하는 콘스탄챠지만 전투 성능 테스트를 위해서는 어쩔 수 없이 수트를 입습니다. 그래도 포기 못하는 게 있죠.'
 #: ItemConsumable[Skin_3P_ConstantiaS2_1].ItemDesc
 msgid "自分のメイド服を自慢するコンスタンツァですが、戦闘性能テストのためには仕方なくスーツを着ます。それでも諦められないとこがありますよね。"
 msgstr ""
-"Constantia is proud of her maid clothes, but she is forced to wear a suit for "
-"combat performance tests. But there are some things I can't give up."
+"Although Constantia is proud of her maid suit, she still dresses this for "
+"testing purposes. Even then there are things that she can't give up."
 
 #  Korean Text: '전투수트 (콘스탄챠)'
 #: ItemConsumable[Skin_3P_ConstantiaS2_1].ItemName
@@ -4006,7 +4011,7 @@ msgstr ""
 #  Korean Text: '나이트 드레스 (콘스탄챠)'
 #: ItemConsumable[Skin_3P_ConstantiaS2_2].ItemName
 msgid "ナイトドレス(コンスタンツァ)"
-msgstr ""
+msgstr "Night Dress (Constantia)"
 
 #  Korean Text: '콘스탄챠의 안경을 보관하는 케이스입니다. 안경을 벗은 콘스탄챠를 볼 수 있습니다.'
 #: ItemConsumable[Skin_3P_ConstantiaS2_S1].ItemDesc
@@ -4022,11 +4027,14 @@ msgstr ""
 #: ItemConsumable[Skin_3P_CSPerrault_1].ItemDesc
 msgid "牛乳がとても大好きなペロは、夢中でご主人様の牛乳を盗み飲みしたうえに、ベチャベチャとこぼしてしまいました。どうしたものでしょう……"
 msgstr ""
+"Perrault loves milk so much that she drank her master's milk without "
+"realizing that. But it's dripping everywhere. Maybe she needs to be punished "
+"for this?"
 
 #  Korean Text: '와이셔츠 (페로)'
 #: ItemConsumable[Skin_3P_CSPerrault_1].ItemName
 msgid "ワイシャツ(ペロ)"
-msgstr "Shirt (Perrault)"
+msgstr "Wet Shirt (Perrault)"
 
 #  Korean Text: '제 가슴에 야옹이가 들어왔어요.'
 #: ItemConsumable[Skin_3P_CSPerrault_2].ItemDesc
@@ -4042,33 +4050,36 @@ msgstr "Decorative Swimsuit (Perrault)"
 #: ItemConsumable[Skin_3P_Daphne_1].ItemDesc
 msgid "庭園管理用のダフネですが、少ない数量で看護用としても生産されました。植物であれ動物であれ世話をするという点では大きな違いはないですよね。"
 msgstr ""
-"There are a small amount of gardening Daphne, but they are also made for "
-"health care. Whether it's a plant or an animal, it's not much different."
+"The original Daphne model is designed as a gardener, however there were "
+"records of care-taking units being built. Plants, living creatures have no "
+"difference as long as they needed to be taken care of... right?"
 
 #  Korean Text: '간호사복 (다프네)'
 #: ItemConsumable[Skin_3P_Daphne_1].ItemName
 msgid "ナース服(ダフネ)"
-msgstr "Nurse uniform (Daphne)"
+msgstr "Nurse Wear (Daphne)"
 
 #  Korean Text: '다프네의 휴가는 언제나 평온합니다. 아마 그녀의 조용한 정열은 주인을 위해서만 발휘되겠죠.'
 #: ItemConsumable[Skin_3P_Daphne_2].ItemDesc
 msgid "ダフネの休暇はいつでも平穏です。おそらく彼女の静かな情熱は主人の為だけに発揮されるようです。"
 msgstr ""
+"Daphne's summer vacation is always peaceful. Her hot affection of the summer "
+"only belongs to her master."
 
 #  Korean Text: '우아한 수영복 (다프네)'
 #: ItemConsumable[Skin_3P_Daphne_2].ItemName
 msgid "優雅な水着(ダフネ)"
-msgstr ""
+msgstr "Elegant Swimsuit (Daphne)"
 
 #  Korean Text: '하치코는 아직도 이 가족의 위험성을 모릅니다.'
 #: ItemConsumable[Skin_3P_Hachiko_1].ItemDesc
 msgid "ハチコはまだこの家族の危険性を知りません。"
-msgstr "Hachiko still doesn't realize the danger this family holds."
+msgstr "Hachiko still can't tell if there's anything wrong within this family."
 
 #  Korean Text: '어린이용 메이드복 (하치코)'
 #: ItemConsumable[Skin_3P_Hachiko_1].ItemName
 msgid "子供用メイド服(ハチコ)"
-msgstr "Children's Maid Attire (Hachiko)"
+msgstr "Children's Maid Clothes (Hachiko)"
 
 #  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 아마 달토끼와 관계된 것 같다고 하니 아마 이 복장이 맞을 겁니다. 아마도요... 수많은 잡지에서도 이 복장이 널리 입혀졌다는 것이 증명되고 있고요.'
 #: ItemConsumable[Skin_3P_Rhea_1].ItemDesc
@@ -4076,31 +4087,40 @@ msgid ""
 "オードリーが復元した過去の祭日、<8月の満月>の伝統の服です。 おそらく、月兎と関係しているようだというので、おそらくこの服装が正しいと思います。 "
 "たぶんね... 数多くの雑誌でも、この服装が広く着用されていることが証明しています。"
 msgstr ""
+"The traditional dress for the old festival 「The end of August」 that is "
+"restored by Audrey. Rumours are saying that the festival has something to do "
+"with Moon Rabbits. Also, a lot of females were featured on magazines wearing "
+"this..."
 
 #  Korean Text: '오드리 문 컬렉션 <어덜트 래빗>'
 #: ItemConsumable[Skin_3P_Rhea_1].ItemName
 msgid "オードリームーンコレクション<アダルトラビット>"
-msgstr "Audrey's Moon Collection <Adult Rabbit>"
+msgstr "Audrey Moon Collection: Adult Rabbit"
 
 #  Korean Text: '자신의 자매 덕분에 리제도 간호사 복을 입을 수 있었죠. 어쩌면 그녀는 자신의 주인이 중환자가 되길 바라고 있을 수도 있겠군요.'
 #: ItemConsumable[Skin_3P_ScissorsLise_1].ItemDesc
 msgid "自分の姉妹のおかげでリーゼもナース服を着る事ができました。ひょっとすると彼女は自分の主人が重症になるのを願っているのかも……？"
 msgstr ""
+"Thanks to her sisters, Lise now gets to wear the nurse outfit as well. Maybe "
+"she hopes that the commander needs intensive caring..."
 
 #  Korean Text: '간호사복 (리제)'
 #: ItemConsumable[Skin_3P_ScissorsLise_1].ItemName
 msgid "ナース服(シザーズリーゼ)"
-msgstr ""
+msgstr "Nurse Outfit (Lise)"
 
 #  Korean Text: '“젠장! 물러나라! 이건 소완의 함정이다!” 수많은 경쟁자들을 함정에 빠뜨리며 만든 수영복입니다. 소완은 과연 목적을 이룰 수 있을까요?'
 #: ItemConsumable[Skin_3P_Sowan_1].ItemDesc
 msgid "「くそっ!下がって!これはソワンの罠だ!」 多くの競争者を罠に陥れて作った水着です。ソワンは果たして目的を達成できるでしょうか?"
 msgstr ""
+"\"Wait, don't panic, that's Sowan's trap!\" This is the swimsuit that she got "
+"after making so many enemies falling in her trap. But can Sowan achieve her "
+"goals though?"
 
 #  Korean Text: '셰프의 수영복 (소완)'
 #: ItemConsumable[Skin_3P_Sowan_1].ItemName
 msgid "シェフの水着(ソワン)"
-msgstr ""
+msgstr "Chef's Swimsuit (Sowan)"
 
 #  Korean Text: '오랫동안 깊고 깊은 심해의 다곤은 램파리온의 가장 큰 적이었습니다. 그리고, 부하들의 실패에 분노한 다곤이 이제 드디어 심해에서 몸을 일으켰습니다. (- 본 제품은 블랙리버의 소유로 D-엔터테인먼트에 대여된 재산입니다. 고장, 파괴가 있을 시, 미국의 손해 배상법에 따라 손해 배상이 청구될 수 있습니다.)'
 #: ItemConsumable[Skin_AGS_Gigantes_1].ItemDesc
@@ -4109,26 +4129,28 @@ msgid ""
 "本製品はブラックリバーの所有でありD-"
 "エンターテインメントに貸与した財産です。故障、破壊が発生した場合、アメリカの懲罰的損害賠償に則り損害賠償を請求することができます。)"
 msgstr ""
-"For a long time, Dagon of the Deepest Abyss has been Ramparion's greatest "
-"nemesis. Tired of his underlings' failures, Dagon finally rises from the "
-"depths. (- This product is owned by Black River and rented to D-"
-"Entertainment. In cases of malfunction or breakage, you may be asked to pay "
-"for the damage according to USA's compensation laws.)"
+"The eternal rival of Ramparion, Deep Sea Dagon is angered by the failure of "
+"his subordinates and decided to raise up from the deep sea. (This product is "
+"rentaled by D-Entertainment from Black River. In case of damage and "
+"malfunctioning, all compensation must be made following America's "
+"Compensation Law.)"
 
 #  Korean Text: '다곤 커스텀 팩 (기간테스)'
 #: ItemConsumable[Skin_AGS_Gigantes_1].ItemName
 msgid "ダゴンカスタムパック(ギガンテス)"
-msgstr ""
+msgstr "Dagon Custom Pack (Gigantes)"
 
 #  Korean Text: '어린이날을 맞이하여 행복한 추억을 만들어 주기 위해 경찰에서 특별히 커스텀된 램파트입니다.'
 #: ItemConsumable[Skin_AGS_Rampart_1].ItemDesc
 msgid "子供の日を迎えて幸せな思い出を作るために警察で特別にカスタムされたランパートです。"
 msgstr ""
+"To celebrate the Child's Day and make a perfect present, the police "
+"department customized this Rampart for it."
 
 #  Korean Text: '램파리온 커스텀 팩 (램파트)'
 #: ItemConsumable[Skin_AGS_Rampart_1].ItemName
 msgid "ランパリオンカスタムパック(ランパート)"
-msgstr ""
+msgstr "Ramparion Custom Pack (Rampart)"
 
 #  Korean Text: '전투용으로 도색된 램파트입니다.'
 #: ItemConsumable[Skin_AGS_Rampart_S1].ItemDesc
@@ -4138,7 +4160,7 @@ msgstr ""
 #  Korean Text: '전투용 도장 (램파트)'
 #: ItemConsumable[Skin_AGS_Rampart_S1].ItemName
 msgid "戦闘用カラー(ランパート)"
-msgstr ""
+msgstr "War Arm (Rampart)"
 
 #  Korean Text: '알비스 백작은 발키리 언니에게 받은 가방이 가득 찰 정도의 초콜릿을 원하십니다. 초콜릿으로 퇴치하지 않으면 무서운 일을 겪을지도 모릅니다!'
 #: ItemConsumable[Skin_BR_Alvis_1].ItemDesc
@@ -4150,11 +4172,13 @@ msgstr ""
 #: ItemConsumable[Skin_BR_Amy_1].ItemDesc
 msgid "誘惑より実用性が必要な時、エイミーはこの服を着ます。もっとも、人によってはこのスーツの方がより魅惑的に感じるでしょうが。"
 msgstr ""
+"The suit Amy wears when things escalate quickly. But some people say that "
+"this suit is more seducing..."
 
 #  Korean Text: '전투수트 (에이미)'
 #: ItemConsumable[Skin_BR_Amy_1].ItemName
 msgid "戦闘スーツ(エイミー)"
-msgstr ""
+msgstr "Battle Suit (Amy)"
 
 #  Korean Text: '몽구스 팀이라고 실내 근무가 없는 건 아닙니다. 실내 근무엔 당연히 제복을 입고 근무해야겠죠? 스틸 드라코는 자신의 지적인 면을 강조할 수 있는 것에 만족하고 있습니다.'
 #: ItemConsumable[Skin_BR_AS12TurtleDragon_1].ItemDesc
@@ -4162,11 +4186,17 @@ msgid ""
 "マングースチームだからと言って屋内勤務がないわけではありません。屋内勤務では当然制服を着て勤務しなければいけませんよね？スチールドラコは自身の知的な一面を強"
 "調できるという点に満足しています。"
 msgstr ""
+"Even for Mongoose team, there are still indoor duties waiting for them. Of "
+"course, since it's a duty, so uniforms are required. Steel Draco seems to be "
+"happy about this dress that can appeal her intelegent side..."
 
 #  Korean Text: '호라이즌 역시 비스트 헌터를 열렬하게 원한 군대였습니다. 일부 비스트 헌터는 이 소망을 받아 들여 잠항한 적을 처치하는 임무를 맡았습니다.'
 #: ItemConsumable[Skin_BR_BeastHunter_1].ItemDesc
 msgid "ホライゾンもビーストハンターの加入を強く希望していました。一部のビーストハンターはその望みに応え、潜航している敵を排除する任務にあたりました。"
 msgstr ""
+"Beast Hunter is also wanted in the Horizon faction. Some of the Beast Hunters "
+"responded to this request, and worked with them to eliminate the enemies who "
+"can dive."
 
 #  Korean Text: '심해 사냥복 (비스트 헌터)'
 #: ItemConsumable[Skin_BR_BeastHunter_1].ItemName
@@ -4177,6 +4207,9 @@ msgstr ""
 #: ItemConsumable[Skin_BR_Bulgasari_1].ItemDesc
 msgid "出動時間がまちまちなマングースチームには休憩時間を最大限保障します。その時は皆が楽な格好で休憩します。"
 msgstr ""
+"For Mongoose team, since they don't have a fixed schedule for duty so they "
+"focus on resting whenever possible. When they do so, everyone just wears "
+"super casual clothing."
 
 #  Korean Text: '오픈백 스웨터 (불가사리)'
 #: ItemConsumable[Skin_BR_Bulgasari_1].ItemName
@@ -4186,7 +4219,7 @@ msgstr ""
 #  Korean Text: '결혼식 후에는 항상 행복한 시간이 기다리고 있습니다.'
 #: ItemConsumable[Skin_BR_Daika_1].ItemDesc
 msgid "結婚式の後にはいつも幸せな時間が待っています。"
-msgstr ""
+msgstr "She's always waiting for the sweet first night after the wedding."
 
 #  Korean Text: '침소용 웨딩 드레스 (다이카)'
 #: ItemConsumable[Skin_BR_Daika_1].ItemName
@@ -4196,50 +4229,57 @@ msgstr ""
 #: ItemConsumable[Skin_BR_DrM_1].ItemDesc
 msgid "もっと大きく、もっとセクシーに、もっと強くなりました！果たしてドクターは目的を達成できるでしょうか？"
 msgstr ""
+"After drinking the suspicious potion, Doctor became bigger, sexier, stronger. "
+"Can Doctor achieve her goal?"
 
 #: ItemConsumable[Skin_BR_DrM_1].ItemName
 msgid "怪しい薬 (ドクター)"
-msgstr ""
+msgstr "Suspicious Potion (Doctor)"
 
 #  Korean Text: '그녀가 등교한 사이에 집에서는 많은 일들이 일어나고 있습니다…'
 #: ItemConsumable[Skin_BR_Emily_1].ItemDesc
 msgid "彼女が登校している間に家ではたくさんのことが起きています…"
-msgstr ""
+msgstr "When she's gone for school, many things happened back in home..."
 
 #  Korean Text: '신입생 교복 (에밀리)'
 #: ItemConsumable[Skin_BR_Emily_1].ItemName
 msgid "新入生制服(エミリー)"
-msgstr ""
+msgstr "New Student School Uniform (Emily)"
 
 #  Korean Text: '오늘 그녀가 새로운 가족 구성원이 되었습니다.'
 #: ItemConsumable[Skin_BR_Gnome_1].ItemDesc
 msgid "彼女は今日、新しい家族になりました。"
-msgstr "Today, she became the newest member of the family."
+msgstr "Today, she becomes part of the family."
 
 #  Korean Text: '침소용 웨딩 드레스 (노움)'
 #: ItemConsumable[Skin_BR_Gnome_1].ItemName
 msgid "寝室用ウェディングドレス(ノーム)"
-msgstr "Bedroom Wedding Dress (Gnome)"
+msgstr "Wedding Dress (Gnome)"
 
 #  Korean Text: '몇몇 국가 또는 회사에서는 전쟁의 승리를 여러 전쟁 영웅들로 퍼레이드를 열었습니다. 물론, 최대한 주목을 받을 수 있는 제복을 입혀서요.'
 #: ItemConsumable[Skin_BR_Khan_1].ItemDesc
 msgid "いくつかの国家や会社では戦争で勝利を勝ち取った英雄たちでパレードをして祝いました。もちろん、最大限注目を浴びるコスチュームを着てです。"
 msgstr ""
+"In some countries or companies, a parade is often held to celebrate the "
+"victory of a war. Of course, this is the time to wear the dress that gets the "
+"most attention."
 
 #  Korean Text: '퍼레이드 제복 (칸)'
 #: ItemConsumable[Skin_BR_Khan_1].ItemName
 msgid "パレード制服(カーン)"
-msgstr ""
+msgstr "Parade Uniform (Khan)"
 
 #  Korean Text: '언제나 고고하고 위엄이 넘치는 레오나지만 어쩌면 잠을 잘 때는 다를 지도 모르겠군요. 레오나의 진짜 취향을 알아보는 시간을 가져봅시다.'
 #: ItemConsumable[Skin_BR_Leona_1].ItemDesc
 msgid "いつも孤高で威厳あふれるレオナですが、寝ている時は少し違うかもしれませんね。レオナの本当の趣向を知る機会を設けてみましょう。"
 msgstr ""
+"Leona is always arrogant and elegant, but it seems to be not the case when "
+"it's bedtime. Probably it's about time to learn about her true interests."
 
 #  Korean Text: '베이비돌 (레오나)'
 #: ItemConsumable[Skin_BR_Leona_1].ItemName
 msgid "ベビードール(レオナ)"
-msgstr ""
+msgstr "Lingerie (Leona)"
 
 #  Korean Text: '블랙 리버 그랑프리가 곧 시작됩니다! 참가자들은 출발선에서 준비해 주세요!'
 #: ItemConsumable[Skin_BR_Leona_2].ItemDesc
@@ -4249,29 +4289,29 @@ msgstr ""
 #  Korean Text: '레이싱 퀸 복장 (레오나)'
 #: ItemConsumable[Skin_BR_Leona_2].ItemName
 msgid "レースクイーン衣装（レオナ）"
-msgstr ""
+msgstr "Race Queen Cosplay (Leona)"
 
 #  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 레프리콘이 그것을 원하지 않는다고 하더라도요.'
 #: ItemConsumable[Skin_BR_Leprechaun_1].ItemDesc
 msgid "夏にはもう少し涼しい戦闘服が必要ですよね。レプリコンはそれを望まないらしいです。"
 msgstr ""
-"In summer you need cooler combat suits. Even if the Leprechaun doesn't want "
-"it."
+"It's summer time, and a new uniform is needed to cope with the weather. "
+"Apparently Leprechaun doesn't want such things..."
 
 #  Korean Text: '하계 전투복 (레프리콘)'
 #: ItemConsumable[Skin_BR_Leprechaun_1].ItemName
 msgid "夏季戦闘服(レプリコン)"
-msgstr "Summer Combat Suit (Leprechaun)"
+msgstr "Summer Combat Uniform (Leprechaun)"
 
 #  Korean Text: '학생회장 마리의 수줍은 고백을 받아 주세요!'
 #: ItemConsumable[Skin_BR_Marie_1].ItemDesc
 msgid "生徒会長マリーの照れくさい告白をどうぞ!"
-msgstr ""
+msgstr "Please respond to the council leader, Marie's confession!"
 
 #  Korean Text: '학생회장 교복 (마리)'
 #: ItemConsumable[Skin_BR_Marie_1].ItemName
 msgid "生徒会長服(マリー)"
-msgstr "Student Council President Uniform (Marie)"
+msgstr "Student Council President's Uniform (Marie)"
 
 #  Korean Text: '"마리 대장님의 행복을 기원합니다. -레프리콘" "10개월만이라도 행복하고 싶어요. -브라우니" "대장 동무, 새로운 경험을 축하. -임펫" "대장님, 성공을 빌어요. -이프리트"'
 #: ItemConsumable[Skin_BR_Marie_2].ItemDesc
@@ -4279,16 +4319,21 @@ msgid ""
 "「マリー隊長の幸せを祈ります。 -レプリコン」「10か月だけでも幸せに過ごしてください。 -ブラウニー」「隊長同士、新しい経験を祝う。 -"
 "インペット」「隊長、成功を祈ります。 -イフリート」"
 msgstr ""
+"「I hope Captain Marie can be happy」- Leprechaun\n"
+"「Finally the training will be paused for about 10 months」- Brownie\n"
+"「Cheers to Captain's new life journey」- Impet\n"
+"「She can probably one shot this~」 - Efreeti"
 
 #  Korean Text: '마리의 란제리 선물'
 #: ItemConsumable[Skin_BR_Marie_2].ItemName
 msgid "ランジェリープレゼント(マリー)"
-msgstr ""
+msgstr "Lingerie Gift (Marie)"
 
 #  Korean Text: '메이가 당신에게 뜨거운 사랑을 보냅니다. 그녀의 뜨거운 사랑을 받아주실 건가요?'
 #: ItemConsumable[Skin_BR_May_1].ItemDesc
 msgid "メイがあなたに熱烈な愛を向けています。彼女の愛を受け入れますか？"
 msgstr ""
+"May's sending you her passionate love. Will you accept her passionate love?"
 
 #  Korean Text: '스웨터 (메이)'
 #: ItemConsumable[Skin_BR_May_1].ItemName
@@ -4299,8 +4344,8 @@ msgstr "Sweater (May)"
 #: ItemConsumable[Skin_BR_May_2].ItemDesc
 msgid "メイは自分の長所と短所をよく分かっています。この水着がメイの核爆発級の魅力を引き立ててくれるといいですね。"
 msgstr ""
-"May is well aware of her strengths and weaknesses. It would be nice for this "
-"swimsuit to show May's explosive appeal."
+"May knows how to utilize her \"weapons\". Can she appeal her nuclear-fusion "
+"level of Charisma with this swimsuit?"
 
 #  Korean Text: '아토믹 섹시 수영복 (메이)'
 #: ItemConsumable[Skin_BR_May_2].ItemName
@@ -4311,11 +4356,13 @@ msgstr "Atomic Sexy Swimsuit (May)"
 #: ItemConsumable[Skin_BR_Miho_1].ItemDesc
 msgid "ミホが自分の好きなチョコレートを溶かしてプレゼントを作っています。誰にあげようとしているのでしょう？"
 msgstr ""
+"Miho is melting her favourite chocolate to make a present. Who will she send "
+"her true-love chocolate to?"
 
 #  Korean Text: '에이프런 (미호)'
 #: ItemConsumable[Skin_BR_Miho_1].ItemName
 msgid "エプロン(ミホ)"
-msgstr "Kitchen Apron (Miho)"
+msgstr "Apron (Miho)"
 
 #  Korean Text: '브라우니들에게 과거 할로윈 풍습에 대해서 들은 네오딤은 다른 이들보다 조금 더 먼저 행동할 마음을 먹었습니다. 유령이 된 그녀는 어떤 장난을 칠까요?'
 #: ItemConsumable[Skin_BR_Neodym_1].ItemDesc
@@ -4326,10 +4373,13 @@ msgstr ""
 #: ItemConsumable[Skin_BR_Neodym_2].ItemDesc
 msgid "本機のだった一人のお客様であるあなたにすべてのサービスが無料で提供されます。まずは担当乗務員ネオディムとシャンパンでもいかがでしょう？"
 msgstr ""
+"As the only passenger on this flight, all of the service provided will be "
+"complementary. So how about a glass of champagne with our flight attendant "
+"Neodym?"
 
 #: ItemConsumable[Skin_BR_Neodym_2].ItemName
 msgid "乗務員制服(ネオディム)"
-msgstr "Crew uniform (Neodym)"
+msgstr "Crew Uniform (Neodym)"
 
 #  Korean Text: '누구나 꿈은 자유롭게 꿀 수 있겠지요.'
 #: ItemConsumable[Skin_BR_NightAngel_1].ItemDesc
@@ -4346,31 +4396,39 @@ msgstr ""
 msgid ""
 "「ついに司令官に私の魅力を教える時が来ましたね!」いつものことですが木は森に隠さなければなりません。 特定の部位が他の部位を隠してくれるんですよ。"
 msgstr ""
+"「Commander will finally understand my beauty!」-- Talking about having a blind "
+"spot. The perfect example of how to hide something in plain daylight."
 
 #  Korean Text: '경영 수영복 (나이트 앤젤)'
 #: ItemConsumable[Skin_BR_NightAngel_2].ItemName
 msgid "選手水着(ナイトエンジェル)"
-msgstr ""
+msgstr "Racing Swimsuit (Night Angel)"
 
 #: ItemConsumable[Skin_BR_Nymph_1].ItemDesc
 msgid ""
 "ここだけの話ですが、コンプレックスがある部分は隠し、自信がある部分を強調する最高のポーズをとるため、ニンフはレオナの冷徹な分析と指導の下、何日も研究を重ねた"
 "とか。"
 msgstr ""
+"This is a secret but... To learn the perfect pose to hide her concerns and "
+"only show the parts she's confident in, Nymph was under Leona's analysis and "
+"guidance for some days..."
 
 #: ItemConsumable[Skin_BR_Nymph_1].ItemName
 msgid "妖精ドレス (ニンフ)"
-msgstr ""
+msgstr "Fairy Dress (Nymph)"
 
 #  Korean Text: '그리폰의 원래 생산지의 예장복입니다. 그리폰이 그 나라의 군인과 임무 교대식을 할 때 입었던 옷이죠. 때론 정치적 배려가 필요하니까요.'
 #: ItemConsumable[Skin_BR_PA00EL_1].ItemDesc
 msgid "グリフォンの生産国の儀礼服で、グリフォンがその国の軍人と任務交代式をした時着ていた服です。時には政治的配慮が必要ですからね。"
 msgstr ""
+"The formal uniform of Griffon's producing country. Griffon wears this uniform "
+"when she needs to change the guard with the soldiers. Sometimes, political "
+"concerns are necessary."
 
 #  Korean Text: '예장복 (그리폰)'
 #: ItemConsumable[Skin_BR_PA00EL_1].ItemName
 msgid "儀礼服(グリフォン)"
-msgstr ""
+msgstr "Anniversary Uniform (Griffon)"
 
 #  Korean Text: '그리폰의 정찰용 스텔스 슈트입니다.'
 #: ItemConsumable[Skin_BR_PA00EL_S1].ItemDesc
@@ -4386,68 +4444,77 @@ msgstr ""
 msgid ""
 "フェニックスは大事な装備を自分で整備したりします。ちゃんとした整備服があるはずなのに、あえて夏季戦闘服姿であなたの前で整備をするのには理由がありそうですね。"
 msgstr ""
+"Phoenix always maintains her precious equipment herself. The reason why she "
+"wears the summer uniform but not a mechanic's uniform? She wants you to see "
+"her maintaining it with your own eyes."
 
 #: ItemConsumable[Skin_BR_Phoenix_1].ItemName
 msgid "夏季戦闘服（フェニックス）"
-msgstr ""
+msgstr "Summer Combat Uniform (Phoenix)"
 
 #  Korean Text: '파란 하늘을 수놓는 완벽한 비행단! 의상까지 완벽합니다!'
 #: ItemConsumable[Skin_BR_PoniesAnger_1].ItemDesc
 msgid "青い空を彩る完璧な飛行団! 衣装まで完璧です!"
-msgstr ""
+msgstr "Blue sky! Colorful Aerobatics! And the clothing is perfect!"
 
 #  Korean Text: '공중 곡예단 제복 (핀토)'
 #: ItemConsumable[Skin_BR_PoniesAnger_1].ItemName
 msgid "空中曲芸団衣装(ピント)"
-msgstr "Aerial Acrobatic Troupe Clothing (Pinto)"
+msgstr "Aerial Uniform (Pinto)"
 
 #: ItemConsumable[Skin_BR_PXSilky_1].ItemDesc
 msgid "ブラウニーは疑問の褒章休暇をもらったそうです。よくやった、ブラウニー！"
-msgstr ""
+msgstr "Brownie somehow got a paid vacation. Goodjob Brownie!"
 
 #: ItemConsumable[Skin_BR_PXSilky_1].ItemName
 msgid "夏季戦闘服（シルキー）"
-msgstr ""
+msgstr "Summer Combat Suit (Silky)"
 
 #  Korean Text: '오늘 그녀는 새로운 가족이 탄생하길 기다리고 있습니다.'
 #: ItemConsumable[Skin_BR_Scathy_1].ItemDesc
 msgid "今日彼女は新しい家族が誕生するのを待っています。"
-msgstr ""
+msgstr "Another day, another wish for the birth of a new family member."
 
 #  Korean Text: '요염한 요가팬츠 (스카디)'
 #: ItemConsumable[Skin_BR_Scathy_1].ItemName
 msgid "色っぽいヨガパンツ(スカディー)"
-msgstr ""
+msgstr "Yoga Pants (Scathy)"
 
 #: ItemConsumable[Skin_BR_Sirene_1].ItemDesc
 msgid ""
 "ホライゾンの副艦長という重責を担っているセイレーンですが、あなたの前では恋に落ちたただの少女に過ぎません。そんなセイレーンと一緒に一生忘れられない思い出を作"
 "ってみましょう。"
 msgstr ""
+"As the Executive officer of Horizon, her responsibilities are huge. However, "
+"when she's with you, she's just a little girl who's fallen in love with "
+"someone. Please create some unforgettable memories for Sirene."
 
 #: ItemConsumable[Skin_BR_Sirene_1].ItemName
 msgid "かわいいワンピース（セイレーン）"
-msgstr ""
+msgstr "Cute Dress (Sirene)"
 
 #  Korean Text: '티켓 매진 임박! 마하 100의 충격파를 느껴보세요!'
 #: ItemConsumable[Skin_BR_Sleipnir_1].ItemDesc
 msgid "チケットが売り切れ直前!マッハ100の衝撃波を感じてみましょう!"
 msgstr ""
+"Tickets will sold-out any moment! The 100 Mach shockwave will shock you!"
 
 #  Korean Text: '콘서트복 (슬레이프니르)'
 #: ItemConsumable[Skin_BR_Sleipnir_1].ItemName
 msgid "コンサート衣装(スレイプニール)"
-msgstr ""
+msgstr "Concert Outfit (Sleipnir)"
 
 #  Korean Text: '비행 중에 벗겨지지 않아야 하는데 큰일입니다. 안전할까요?'
 #: ItemConsumable[Skin_BR_Sleipnir_2].ItemDesc
 msgid "飛行中に脱げたりしないか心配です。大丈夫でしょうか?"
 msgstr ""
+"As long as the swimsuit doesn't fall off when she's flying it's ok... It "
+"should be ok?"
 
 #  Korean Text: '줄무늬 수영복 (슬레이프니르)'
 #: ItemConsumable[Skin_BR_Sleipnir_2].ItemName
 msgid "ストライプの水着(スレイプニール)"
-msgstr ""
+msgstr "Striped Swimsuit (Sleipnir)"
 
 #  Korean Text: '여긴 해변 바캉스 현장의 리포터 스프리건입니다! 정말 이곳의 열기는 뜨겁군요. 자, 이제 사령관님의 사생활을… 조금만 들여다 볼까요? 걱정마세요! 비밀 방송이니까!'
 #: ItemConsumable[Skin_BR_Spriggan_1].ItemDesc
@@ -4455,23 +4522,26 @@ msgid ""
 "海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官様の私生活を…少しだけ覗いてみましょうか"
 "?心配要りません!極秘放送ですので!"
 msgstr ""
+"This is reporter Spriggan, I'm currently at the scene of seaside vacation! It "
+"is much hotter than I expected. And let's take a sneaky peek at commander's "
+"private... Don't worry, this is a secret broadcast!"
 
 #  Korean Text: '리포터용 수영복 (스프리건)'
 #: ItemConsumable[Skin_BR_Spriggan_1].ItemName
 msgid "リポーター用水着(スプリガン)"
-msgstr ""
+msgstr "Reporter's Swimsuit (Spriggan)"
 
 #  Korean Text: '토모는 특별 활동으로 체조부를 선택했습니다. 글쎄요. 체조의 규칙이 간단하긴 합니다만…'
 #: ItemConsumable[Skin_BR_Tomoe_1].ItemDesc
 msgid "トモは部活動に体操部を選びました。さあ、体操はルールが簡単ではありますが……"
 msgstr ""
-"Tomo chose gymnastics as a special activity. I don't know, the rules of "
-"gymnastics are simple, but..."
+"Tomo chose Rhythmic gymnastics for her club activities. Well you know, the "
+"rules themselves are not that hard..."
 
 #  Korean Text: '체조복 (토모)'
 #: ItemConsumable[Skin_BR_Tomoe_1].ItemName
 msgid "レオタード(トモ)"
-msgstr "Gym Clothes (Tomo)"
+msgstr "Gymnastics Suit (Tomo)"
 
 #  Korean Text: '교칙에 위반되지 않는 학생용 양말입니다.'
 #: ItemConsumable[Skin_BR_Tomoe_S1].ItemDesc
@@ -4487,33 +4557,37 @@ msgstr ""
 #: ItemConsumable[Skin_BR_Valkyrie_1].ItemDesc
 msgid "野戦のための制服は都市ではとても目立ちます。都市にいる敵を始末するためヴァルキリーはもう少し都市に適応した服を選びました。"
 msgstr ""
+"The field uniform stands out too much in the city. To get rid of the enemies "
+"in the city, Valkyrie chose a more fitting outfit for herself."
 
 #  Korean Text: '음악회 드레스 (발키리)'
 #: ItemConsumable[Skin_BR_Valkyrie_1].ItemName
 msgid "音楽会ドレス(ヴァルキリー)"
-msgstr ""
+msgstr "Concert Dress (Valkyrie)"
 
 #  Korean Text: '오랜만에 맞은 휴가에 발키리는 기뻐합니다. 그래도 작은 가방은 잊지 않는군요.'
 #: ItemConsumable[Skin_BR_Valkyrie_2].ItemDesc
 msgid "久しぶりの休暇でヴァルキリーは喜んでいます。それでも小さなカバンは忘れていませんね。"
 msgstr ""
+"Valkyrie is excited about the overdue vacation. But don't forget about that "
+"small bag."
 
 #  Korean Text: '휴가용 수영복 (발키리)'
 #: ItemConsumable[Skin_BR_Valkyrie_2].ItemName
 msgid "バカンス水着(ヴァルキリー)"
-msgstr ""
+msgstr "Vacation Swimsuit (Valkyrie)"
 
 #  Korean Text: '퇴역 후, 영화 카리브의 버카니어에 데뷔한 워울프입니다. 흑색 화약 시대의 향취를 느껴보세요!'
 #: ItemConsumable[Skin_BR_WarWolf_1].ItemDesc
 msgid "退役後,映画「カリブ」のバッカニアでデビューしたウェアウルフです。 黒色火薬時代の香りを感じてみてください!"
 msgstr ""
-"Werewolf debuts in the film \"Buccaneers of the Caribbean\" after retiring "
-"from the military. Feel the fragrance of black gunpowder!"
+"After she retires, War Wolf debuts as a actress in the movie 「Caribbean's "
+"Buccaneer」. Time to feel the middle ages now!"
 
 #  Korean Text: '근대풍 선장 코스튬 (워울프)'
 #: ItemConsumable[Skin_BR_WarWolf_1].ItemName
 msgid "近代風船長コスチューム(ウェアウルフ)"
-msgstr ""
+msgstr "Modern Captain Costume (War Wolf)"
 
 #  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 특히 열정적인 브라우니에겐 더욱.'
 #: ItemConsumable[Skin_Brownie_01].ItemDesc
@@ -4529,10 +4603,12 @@ msgstr "Summer Combat Suit (Brownie)"
 #: ItemConsumable[Skin_DS_Atalanta_1].ItemDesc
 msgid "普段は凛々しいアタランテですが、こんな格好ではさすがにそうはいかないようです…"
 msgstr ""
+"Apparently the always cool-looking Atalanta can't strike a pose in this "
+"clothing..."
 
 #: ItemConsumable[Skin_DS_Atalanta_1].ItemName
 msgid "ラブリーベアコスチューム (アタランテ)"
-msgstr ""
+msgstr "Cute Bear Costume (Atalanta)"
 
 #  Korean Text: '만월의 힘이 충만한 빨간 망토 백토가 나타났습니다! 할로윈에 날뛰는 마물들은 각오하는 게 좋을 겁니다!'
 #: ItemConsumable[Skin_DS_Baekto_1].ItemDesc
@@ -4543,11 +4619,14 @@ msgstr ""
 #: ItemConsumable[Skin_DS_Charlotte_1].ItemDesc
 msgid "豪華な宝石で作られたこの水着はモデルを華やかに見せます。 唯一の短所は宝石が高すぎて小さく作るしかないという点ですね。"
 msgstr ""
+"The swimsuit was made using lusury jewels, thus making the model wearing it "
+"even more beautiful. The only problem is the cost of the jewels are so high, "
+"they can only cover a very small area."
 
 #  Korean Text: '프랑스 풍 보석 비키니 (샬럿)'
 #: ItemConsumable[Skin_DS_Charlotte_1].ItemName
 msgid "フランス風宝石ビキニ(シャーロット)"
-msgstr ""
+msgstr "French Jewelry Bikini (Charlotte)"
 
 #  Korean Text: '어느 친구의 강요로 전직한 뽀끄루 (전) 대마왕입니다. 크기야 어쨌든 보는 이들에게 꿈과 희망만 줄 수 있으면 아무래도 좋지 않을까요?'
 #: ItemConsumable[Skin_DS_Faucre_1].ItemDesc
@@ -4583,31 +4662,39 @@ msgstr "Audrey's Moon Collection <Cheer Rabbit>"
 #: ItemConsumable[Skin_PECS_Cerberus_1].ItemDesc
 msgid "儀礼に剣、実戦に鈍器を携えるというのはちょっとちぐはぐです。しかし、無骨な鈍器より綺麗な剣の方が儀礼用には相応しいでしょう。"
 msgstr ""
+"For ceremony, it's sword, but for real combat she uses a stick. Sounds weird, "
+"but works. But you do need a cool-looking sword for the ceremony, that's for "
+"sure."
 
 #  Korean Text: '의장복 (켈베로스)'
 #: ItemConsumable[Skin_PECS_Cerberus_1].ItemName
 msgid "儀仗服(ケルベロス)"
-msgstr ""
+msgstr "Chairman Uniform (Cerberus)"
 
 #  Korean Text: '켈베로스는 바다에서도 자신의 본분을 잊지 않습니다. 그녀는 모두를 위해 스스로 번견을 자처하고 있습니다.'
 #: ItemConsumable[Skin_PECS_Cerberus_2].ItemDesc
 msgid "ケルベロスは海でも自分の立場を忘れません。彼女は皆のために自ら番犬役を買って出ています。"
 msgstr ""
+"Even at the beach, Cerbrus still doesn't forget about her duty. She bought "
+"all this gear just to be the guard dog for everyone."
 
 #  Korean Text: '구조요원용 수영복 (켈베로스)'
 #: ItemConsumable[Skin_PECS_Cerberus_2].ItemName
 msgid "救助要員用水着(ケルベロス)"
-msgstr ""
+msgstr "Lifeguard Swimsuit (Cerberus)"
 
 #  Korean Text: '상공회의소의 행사장은 더치걸이 햇빛을 보는 얼마 안 되는 날입니다. 이날 만은 노동에서 벗어난 더치걸이 마음놓고 쉴 수 있죠.'
 #: ItemConsumable[Skin_PECS_DutchGirl_1].ItemDesc
 msgid "商工会議所のイベントホールはダッチガールが日の目を見る数少ない日です。この日だけは労働から離れてダッチガールが心置きなく休めます。"
 msgstr ""
+"The day that they need to go to the Chamber of Commerce for promotion is one "
+"of the few days Dutch Girl can say hi to the sun. Dutch Girl is free from "
+"mining on that day only, and she can rest without worrying about anything."
 
 #  Korean Text: '행사용 복장 (더치걸)'
 #: ItemConsumable[Skin_PECS_DutchGirl_1].ItemName
 msgid "イベント用衣装(ダッチガール)"
-msgstr ""
+msgstr "Event Costume (Dutch Girl)"
 
 #  Korean Text: '건강한 신체를 위해서는 하루 한 잔의 우유가 큰 도움이 됩니다. 엘븐 포레스트메이커의 건강한 신체가 바로 그 증거죠.'
 #: ItemConsumable[Skin_PECS_ElvenForestmaker_1].ItemDesc
@@ -4625,21 +4712,27 @@ msgstr "Cowgirl Bikini (Elven ForestMaker)"
 #: ItemConsumable[Skin_PECS_Express76_1].ItemDesc
 msgid "ワークホリックのエクスプレス76は休養地でも仕事の事を忘れません。ツナ缶を集めて誰かにあげようとしているんでしょうか?"
 msgstr ""
+"For a workholic like Express 76, she still only thinks about her work even "
+"she's on vacation. She collected so many tuna cans, probably a gift to "
+"someone?"
 
 #  Korean Text: '아르바이트 유니폼 (익스프레스 76)'
 #: ItemConsumable[Skin_PECS_Express76_1].ItemName
 msgid "アルバイトユニフォーム(エクスプレス76)"
-msgstr ""
+msgstr "Part-time Job Uniform (Express 76)"
 
 #  Korean Text: '심해에도 포츈이 수리할 수많은 설비가 있습니다. 이 신소재는 몸을 가리는 기능 외에 모든 것이 가능합니다.'
 #: ItemConsumable[Skin_PECS_Fortune_1].ItemDesc
 msgid "深海にもフォーチュンが修理するべき数多くの設備があります。この新素材は、体を覆う機能以外にも、すべてのことが可能なんです。"
 msgstr ""
+"There's equipment that needs to be maintenanced by Fortune in the deeper sea. "
+"This diving suit is made of new materials, and can handle everything thrown "
+"at it except hiding Fortune's body."
 
 #  Korean Text: '심해 정비복 (포츈)'
 #: ItemConsumable[Skin_PECS_Fortune_1].ItemName
 msgid "深海装備(フォーチュン)"
-msgstr ""
+msgstr "Deep Sea Maintenance Suit (Fortune)"
 
 #  Korean Text: '포츈의 초기형 모델입니다.'
 #: ItemConsumable[Skin_PECS_Fortune_99].ItemDesc
@@ -4655,8 +4748,8 @@ msgstr ""
 #: ItemConsumable[Skin_PECS_LRL_1].ItemDesc
 msgid "新たな力、血に目覚めた真祖バンパイアＬＲＬ。剣と黒いドレスは高貴な真祖にはより似合います。"
 msgstr ""
-"A new power emerges in Vampire Lady LRL, awakened by blood. The sword and her "
-"black dress suits her noble blood."
+"The Vampire master LRL who awakened new blood powers. The sword and dress is "
+"a perfect fit for the true Vampire master."
 
 #  Korean Text: '고딕 드레스 (LRL)'
 #: ItemConsumable[Skin_PECS_LRL_1].ItemName
@@ -4666,22 +4759,24 @@ msgstr "Gothic Dress (LRL)"
 #  Korean Text: '물의 위험성을 누구보다도 잘 알려줄 수 있는 교사.'
 #: ItemConsumable[Skin_PECS_Serpent_1].ItemDesc
 msgid "水の危険性を誰よりもよく教えてくれる教師。"
-msgstr ""
+msgstr "The teacher that knows the danger of water better than anyone."
 
 #  Korean Text: '경기용 수영복 (서펀트)'
 #: ItemConsumable[Skin_PECS_Serpent_1].ItemName
 msgid "競泳水着(フロストサーペント)"
-msgstr ""
+msgstr "Swimsuit (Frost Serpent)"
 
 #  Korean Text: '수련한 후, 휴식을 취하며 땀을 닦을 때 티에치엔은 태어난 보람을 느낍니다.'
 #: ItemConsumable[Skin_PECS_Tiequan_1].ItemDesc
 msgid "トレーニングの後、汗を拭うとティエ･チュァンは生き甲斐を感じます。"
 msgstr ""
+"After the training is finished, the moment she takes a break and feel all the "
+"sweat coming out of her is the moment Tiequan feels the most alive."
 
 #  Korean Text: '수련복 (티에치엔)'
 #: ItemConsumable[Skin_PECS_Tiequan_1].ItemName
 msgid "修練服(ティエ･チュァン)"
-msgstr ""
+msgstr "Training Suit (Tiequan)"
 
 #  Korean Text: '오드리 문 컬렉션 <프론티어 래빗>'
 #: ItemConsumable[Skin_PECS_Triaina_1].ItemName
