@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -180,7 +180,7 @@ msgstr ""
 #  Korean Text: '알바트로스'
 #: PC[Char_AGS_Albatross_N].Name
 msgid "HQ1アルバトロス"
-msgstr "Albatross"
+msgstr "HQ1 Albatross"
 
 #  Korean Text: '21번 행동지침, 생존자에 합류'
 #: PC[Char_AGS_Fallen_N].DialogJoin
@@ -190,7 +190,7 @@ msgstr ""
 #  Korean Text: '폴른'
 #: PC[Char_AGS_Fallen_N].Name
 msgid "CT2199Wフォールン"
-msgstr "Fallen"
+msgstr "CT2199W Fallen"
 
 #  Korean Text: '테스트용 폴른.'
 #: PC[Char_AGS_FallenTT_N].DialogJoin
@@ -240,7 +240,7 @@ msgstr ""
 #  Korean Text: '기간테스'
 #: PC[Char_AGS_Gigantes_N].Name
 msgid "S5ギガンテス"
-msgstr "Gigantes"
+msgstr "S5 Gigantes"
 
 #  Korean Text: '건전한 시민과 바이오로이드 여러분께 언제나 함께하는 경찰 서비스를 제공합니다. 무엇을 도와드릴까요?'
 #: PC[Char_AGS_Rampart_N].DialogJoin
@@ -250,7 +250,7 @@ msgstr ""
 #  Korean Text: '램파트'
 #: PC[Char_AGS_Rampart_N].Name
 msgid "CT66ランパート"
-msgstr "Rampart"
+msgstr "CT66 Rampart"
 
 #  Korean Text: '크크크. 새로운 주인이 오셨군요.'
 #: PC[Char_AGS_Roc_N].DialogJoin
@@ -270,7 +270,7 @@ msgstr ""
 #  Korean Text: '셀주크'
 #: PC[Char_AGS_Seljuq_N].Name
 msgid "K180セルジューク"
-msgstr "Seljuq"
+msgstr "K180 Seljuq"
 
 #  Korean Text: 'S12 쉐이드, 비밀 임무 수행 시작.'
 #: PC[Char_AGS_Shade_N].DialogJoin
@@ -280,7 +280,7 @@ msgstr ""
 #  Korean Text: '쉐이드'
 #: PC[Char_AGS_Shade_N].Name
 msgid "S12シェード"
-msgstr "Shade"
+msgstr "S12 Shade"
 
 #  Korean Text: '안심하십시오. 사령관. 스파르탄이 합류합니다.'
 #: PC[Char_AGS_SpartanA_N].DialogJoin
@@ -290,17 +290,17 @@ msgstr ""
 #  Korean Text: '스파르탄 어썰트'
 #: PC[Char_AGS_SpartanA_N].Name
 msgid "S25Aスパルタンアサルト"
-msgstr "Spartan Assault"
+msgstr "S25A Spartan Assault"
 
 #  Korean Text: '스파르탄 부머'
 #: PC[Char_AGS_SpartanB_N].Name
 msgid "S25Bスパルタンブーマー"
-msgstr "Spartan Boomer"
+msgstr "S25B Spartan Boomer"
 
 #  Korean Text: '스파르탄 캡틴'
 #: PC[Char_AGS_SpartanC_N].Name
 msgid "S25スパルタンキャプテン"
-msgstr "Spartan Captain"
+msgstr "S25 Spartan Captain"
 
 #  Korean Text: 'T-13 알비스'
 #: PC[Char_BR_Alvis_N].Name
@@ -1171,7 +1171,7 @@ msgstr ""
 #  Korean Text: '드론'
 #: PC[Char_PECS_Drone_N].Name
 msgid "ドローン08"
-msgstr "Drone"
+msgstr "Drone 08"
 
 #  Korean Text: '… 이번 근무는 지상이면 좋겠는데…'
 #: PC[Char_PECS_DutchGirl_N].DialogJoin
@@ -1261,7 +1261,7 @@ msgstr ""
 #  Korean Text: '펍 헤드'
 #: PC[Char_PECS_PuppHead_N].Name
 msgid "SD3Mポップヘッド"
-msgstr "Pupp Head"
+msgstr "SD3M Pupp Head"
 
 #  Korean Text: '엽! 반가워. 사령관. 이제 사령관의 명령을 수행하면 되는 거지?'
 #: PC[Char_PECS_Serpent_N].DialogJoin
@@ -1281,7 +1281,7 @@ msgstr ""
 #  Korean Text: '스팅어'
 #: PC[Char_PECS_Stinger_N].Name
 msgid "CM67スティンガー"
-msgstr "Stinger"
+msgstr "CM67 Stinger"
 
 #  Korean Text: '반가워! 이름은 들어봤겠지? 못들어 봤어도 상관 없어. 곧 듣게 될 테니.'
 #: PC[Char_PECS_Tiequan_N].DialogJoin

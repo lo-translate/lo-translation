@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1309,7 +1309,7 @@ msgstr ""
 #  Korean Text: '슬레이프니르용 콘서트복 팩'
 #: ShopDesc[129].ProductName
 msgid "P-49スレイプニール用コンサート衣装パック"
-msgstr "Sleipnir's Concert Clothing Pack"
+msgstr "P-49 Sleipnir's Concert Clothing Pack"
 
 #  Korean Text: '설정한 닉네임을 변경할 때 소모됩니다. 중복 닉네임은 설정할 수 없습니다.'
 #: ShopDesc[130].NPCDescription
@@ -2735,7 +2735,7 @@ msgstr "Recruit PuppHead"
 #  Korean Text: '펍 헤드'
 #: ShopDesc[15005].ProductName
 msgid "SD3Mポップヘッド"
-msgstr "Pupp Head"
+msgstr "SD3M Pupp Head"
 
 #  Korean Text: '폴른을 영입합니다'
 #: ShopDesc[15006].NPCDescription
@@ -2745,7 +2745,7 @@ msgstr "Recruit Fallen"
 #  Korean Text: '폴른'
 #: ShopDesc[15006].ProductName
 msgid "CT2199Wフォールン"
-msgstr "Fallen"
+msgstr "CT2199W Fallen"
 
 #  Korean Text: '에이미 레이저를 영입합니다'
 #: ShopDesc[15007].NPCDescription
@@ -2785,7 +2785,7 @@ msgstr "Recruit Drone"
 #  Korean Text: '드론'
 #: ShopDesc[15010].ProductName
 msgid "ドローン08"
-msgstr "Drone"
+msgstr "Drone 08"
 
 #  Korean Text: 'LRL을 영입합니다'
 #: ShopDesc[15011].NPCDescription
@@ -2845,7 +2845,7 @@ msgstr "Recruit Albatross"
 #  Korean Text: '알바트로스'
 #: ShopDesc[15017].ProductName
 msgid "HQ1アルバトロス"
-msgstr "Albatross"
+msgstr "HQ1 Albatross"
 
 #  Korean Text: '토미 워커를 영입합니다'
 #: ShopDesc[15018].NPCDescription
@@ -3065,7 +3065,7 @@ msgstr "Recruit Rampart"
 #  Korean Text: '램파트'
 #: ShopDesc[15039].ProductName
 msgid "CT66ランパート"
-msgstr "Rampart"
+msgstr "CT66 Rampart"
 
 #  Korean Text: '멸망의 메이를 영입합니다'
 #: ShopDesc[15040].NPCDescription
@@ -3285,7 +3285,7 @@ msgstr "Recruit Stinger"
 #  Korean Text: '스팅어'
 #: ShopDesc[15061].ProductName
 msgid "CM67スティンガー"
-msgstr "Stinger"
+msgstr "CM67 Stinger"
 
 #  Korean Text: 'T-14 미호를 영입합니다'
 #: ShopDesc[15062].NPCDescription
@@ -3315,7 +3315,7 @@ msgstr "Recruit Gigantes"
 #  Korean Text: '기간테스'
 #: ShopDesc[15064].ProductName
 msgid "S5ギガンテス"
-msgstr "Gigantes"
+msgstr "S5 Gigantes"
 
 #  Korean Text: '셀주크을 영입합니다'
 #: ShopDesc[15065].NPCDescription
@@ -3325,7 +3325,7 @@ msgstr "Recruit Seljuq"
 #  Korean Text: '셀주크'
 #: ShopDesc[15065].ProductName
 msgid "K180セルジューク"
-msgstr "Seljuq"
+msgstr "K180 Seljuq"
 
 #  Korean Text: '37식 다이카를 영입합니다'
 #: ShopDesc[15066].NPCDescription
@@ -3395,7 +3395,7 @@ msgstr "Recruit Shade"
 #  Korean Text: '쉐이드'
 #: ShopDesc[15072].ProductName
 msgid "S12シェード"
-msgstr "Shade"
+msgstr "S12 Shade"
 
 #  Korean Text: '매지컬 모모를 영입합니다'
 #: ShopDesc[15073].NPCDescription
@@ -3490,32 +3490,32 @@ msgstr "Sowan"
 #  Korean Text: '스파르탄 어썰트를 지급합니다'
 #: ShopDesc[15082].NPCDescription
 msgid "S25Aスパルタンアサルトを支給します。"
-msgstr "Given Spartan Assault"
+msgstr "Given S25A Spartan Assault"
 
 #  Korean Text: '스파르탄 어썰트'
 #: ShopDesc[15082].ProductName
 msgid "S25Aスパルタンアサルト"
-msgstr "Spartan Assault"
+msgstr "S25A Spartan Assault"
 
 #  Korean Text: '스파르탄 부머를 지급합니다'
 #: ShopDesc[15083].NPCDescription
 msgid "S25Bスパルタンブーマーを支給します。"
-msgstr "Given Spartan Boomer"
+msgstr "Given S25B Spartan Boomer"
 
 #  Korean Text: '스파르탄 부머'
 #: ShopDesc[15083].ProductName
 msgid "S25Bスパルタンブーマー"
-msgstr "Spartan Boomer"
+msgstr "S25B Spartan Boomer"
 
 #  Korean Text: '스파르탄 캡틴을 지급합니다'
 #: ShopDesc[15084].NPCDescription
 msgid "S25スパルタンキャプテンを支給します。"
-msgstr "Given Spartan Captain"
+msgstr "Given S25 Spartan Captain"
 
 #  Korean Text: '스파르탄 캡틴'
 #: ShopDesc[15084].ProductName
 msgid "S25スパルタンキャプテン"
-msgstr "Spartan Captain"
+msgstr "S25 Spartan Captain"
 
 #  Korean Text: '엘븐 포레스트메이커를 영입합니다'
 #: ShopDesc[15085].NPCDescription

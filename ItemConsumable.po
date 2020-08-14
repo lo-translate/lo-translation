@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -358,42 +358,42 @@ msgstr "Aeda Type-G"
 #  Korean Text: '알바트로스을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Albatross_N].ItemDesc
 msgid "HQ1アルバトロスを支給します。"
-msgstr "Given Albatross"
+msgstr "Given HQ1 Albatross"
 
 #  Korean Text: '알바트로스'
 #: ItemConsumable[CharTicket_Char_AGS_Albatross_N].ItemName
 msgid "HQ1アルバトロス"
-msgstr "Albatross"
+msgstr "HQ1 Albatross"
 
 #  Korean Text: '폴른을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Fallen_N].ItemDesc
 msgid "CT2199Wフォールンを支給します。"
-msgstr "Given Fallen"
+msgstr "Given CT2199W Fallen"
 
 #  Korean Text: '폴른'
 #: ItemConsumable[CharTicket_Char_AGS_Fallen_N].ItemName
 msgid "CT2199Wフォールン"
-msgstr "Fallen"
+msgstr "CT2199W Fallen"
 
 #  Korean Text: '기간테스을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Gigantes_N].ItemDesc
 msgid "S5ギガンテスを支給します。"
-msgstr "Given Gigantes"
+msgstr "Given S5 Gigantes"
 
 #  Korean Text: '기간테스'
 #: ItemConsumable[CharTicket_Char_AGS_Gigantes_N].ItemName
 msgid "S5ギガンテス"
-msgstr "Gigantes"
+msgstr "S5 Gigantes"
 
 #  Korean Text: '램파트을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Rampart_N].ItemDesc
 msgid "CT66ランパートを支給します。"
-msgstr "Given Rampart"
+msgstr "Given CT66 Rampart"
 
 #  Korean Text: '램파트'
 #: ItemConsumable[CharTicket_Char_AGS_Rampart_N].ItemName
 msgid "CT66ランパート"
-msgstr "Rampart"
+msgstr "CT66 Rampart"
 
 #  Korean Text: 'RF87 로크을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Roc_N].ItemDesc
@@ -408,52 +408,52 @@ msgstr "RF87 Roc"
 #  Korean Text: '셀주크을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Seljuq_N].ItemDesc
 msgid "K180セルジュークを支給します。"
-msgstr "Given Seljuq"
+msgstr "Given K180 Seljuq"
 
 #  Korean Text: '셀주크'
 #: ItemConsumable[CharTicket_Char_AGS_Seljuq_N].ItemName
 msgid "K180セルジューク"
-msgstr "Seljuq"
+msgstr "K180 Seljuq"
 
 #  Korean Text: '쉐이드를 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Shade_N].ItemDesc
 msgid "S12シェードを支給します。"
-msgstr "Given Shade"
+msgstr "Given S12 Shade"
 
 #  Korean Text: '쉐이드'
 #: ItemConsumable[CharTicket_Char_AGS_Shade_N].ItemName
 msgid "S12シェード"
-msgstr "Shade"
+msgstr "S12 Shade"
 
 #  Korean Text: '스파르탄 어썰트를 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_SpartanA_N].ItemDesc
 msgid "S25Aスパルタンアサルトを支給します。"
-msgstr "Given Spartan Assault"
+msgstr "Given S25A Spartan Assault"
 
 #  Korean Text: '스파르탄 어썰트'
 #: ItemConsumable[CharTicket_Char_AGS_SpartanA_N].ItemName
 msgid "S25Aスパルタンアサルト"
-msgstr "Spartan Assault"
+msgstr "S25A Spartan Assault"
 
 #  Korean Text: '스파르탄 부머를 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_SpartanB_N].ItemDesc
 msgid "S25Bスパルタンブーマーを支給します。"
-msgstr "Given Spartan Boomer"
+msgstr "Given S25B Spartan Boomer"
 
 #  Korean Text: '스파르탄 부머'
 #: ItemConsumable[CharTicket_Char_AGS_SpartanB_N].ItemName
 msgid "S25Bスパルタンブーマー"
-msgstr "Spartan Boomer"
+msgstr "S25B Spartan Boomer"
 
 #  Korean Text: '스파르탄 캡틴을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_SpartanC_N].ItemDesc
 msgid "S25スパルタンキャプテンを支給します。"
-msgstr "Given Spartan Captain"
+msgstr "Given S25 Spartan Captain"
 
 #  Korean Text: '스파르탄 캡틴'
 #: ItemConsumable[CharTicket_Char_AGS_SpartanC_N].ItemName
 msgid "S25スパルタンキャプテン"
-msgstr "Spartan Captain"
+msgstr "S25 Spartan Captain"
 
 #  Korean Text: 'T-13 알비스'
 #: ItemConsumable[CharTicket_Char_BR_Alvis_N].ItemName
@@ -1320,12 +1320,12 @@ msgstr "DarkElven ForestRanger"
 #  Korean Text: '드론을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_Drone_N].ItemDesc
 msgid "ドローン08を支給します。"
-msgstr "Given Drone"
+msgstr "Given Drone 08"
 
 #  Korean Text: '드론'
 #: ItemConsumable[CharTicket_Char_PECS_Drone_N].ItemName
 msgid "ドローン08"
-msgstr "Drone"
+msgstr "Drone 08"
 
 #  Korean Text: '더치걸을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_DutchGirl_N].ItemDesc
@@ -1410,12 +1410,12 @@ msgstr "Given Miss Safety"
 #  Korean Text: '펍 헤드을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_PuppHead_N].ItemDesc
 msgid "SD3Mポップヘッドを支給します。"
-msgstr "Given Pupp Head"
+msgstr "Given SD3M Pupp Head"
 
 #  Korean Text: '펍 헤드'
 #: ItemConsumable[CharTicket_Char_PECS_PuppHead_N].ItemName
 msgid "SD3Mポップヘッド"
-msgstr "Pupp Head"
+msgstr "SD3M Pupp Head"
 
 #  Korean Text: '프로스트 서펀트을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_Serpent_N].ItemDesc
@@ -1430,12 +1430,12 @@ msgstr "Frost Serpent"
 #  Korean Text: '스팅어을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_Stinger_N].ItemDesc
 msgid "CM67スティンガーを支給します。"
-msgstr "Given Stinger"
+msgstr "Given CM67 Stinger"
 
 #  Korean Text: '스팅어'
 #: ItemConsumable[CharTicket_Char_PECS_Stinger_N].ItemName
 msgid "CM67スティンガー"
-msgstr "Stinger"
+msgstr "CM67 Stinger"
 
 #  Korean Text: '티에치엔을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_Tiequan_N].ItemDesc
@@ -3829,7 +3829,7 @@ msgstr ""
 #  Korean Text: '슬레이프니르용 콘서트복 팩'
 #: ItemConsumable[Shop_Package_Skin_BR_Sleipnir_1].ItemName
 msgid "P-49スレイプニール用コンサート衣装パック"
-msgstr "Sleipnir's Concert Clothing Pack"
+msgstr "P-49 Sleipnir's Concert Clothing Pack"
 
 #  Korean Text: '토모용 체조복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_BR_Tomoe_1].ItemDesc

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -425,7 +425,7 @@ msgstr ""
 #  Korean Text: 'HQ1 알바트로스'
 #: CharCollection[Char_AGS_Albatross_N].Char_Name
 msgid "HQ1アルバトロス"
-msgstr "Albatross"
+msgstr "HQ1 Albatross"
 
 #  Korean Text: '폴른, 대기중. \n수직화된 도시를 자유자재로 다닐 수 있는 보행 병기를 목표로 폴른 개발 시작.\n2067년 시험 기동 시작. 2068년 시험적인 AGS 시스템에 포함됨.\n폴른, 전투에서 압도적인 교환비를 보임. 폴른 대량 생산 결정.\n폴른, 21세기에 가장 많이 생산된 군사용 로봇으로 선정되었음.\n하지만, 대다수의 폴른은 감염되어 전장에서 사라짐.\n폴른 여전히 대량 생산 가능. 전투에 투입되고 있음.\n'
 #: CharCollection[Char_AGS_Fallen_N].Char_Desc
@@ -448,7 +448,7 @@ msgstr ""
 #  Korean Text: 'CT2199W 폴른'
 #: CharCollection[Char_AGS_Fallen_N].Char_Name
 msgid "CT2199Wフォールン"
-msgstr "Fallen"
+msgstr "CT2199W Fallen"
 
 #  Korean Text: '기간테스 준비됨. \n\n중갑 돌파형 전쟁 기계 기간테스, 2105년에 제조됨.\n\n기간테스, 어떤 진형이든 뚫음. \n\n기간테스, 철충의 집중 표적이 됨. 기간테스, 많은 피해 입음.\n\n기간테스, 전선에서 물러남. 기간테스, 현재 본부 수비용 병력으로만 활용됨.\n\n기간테스, 코어 감염 문제만 해결되면 언제든지 전투에 나설 수 있음. 기간테스는 빠른 문제 해결 요구함.\n'
 #: CharCollection[Char_AGS_Gigantes_N].Char_Desc
@@ -467,7 +467,7 @@ msgstr ""
 #  Korean Text: 'S5 기간테스'
 #: CharCollection[Char_AGS_Gigantes_N].Char_Name
 msgid "S5ギガンテス"
-msgstr "Gigantes"
+msgstr "S5 Gigantes"
 
 #  Korean Text: '건전한 시민과 바이오로이드 여러분께 언제나 함께하는 경찰 서비스를 제공합니다. 무엇을 도와드릴까요?\n\n전 시민들의 성벽, 부드러운 신사같은 로봇 램파트입니다. 전 세계 최고의 로봇 공업사인 오메가 산업에서 태어났습니다. 가끔씩은 살상용 로봇이나 만드는 BR 산업과 명품 제조사인 오메가 산업을 비교하는 분들이 있는데 조금 더 시야를 넓히시라고 말씀 드리고 싶군요.\n\n어쨌든, 전 본래 치안 유지에 필요한 모든 조치를 수행할 수 잇는 로봇이었습니다만 인류 멸망 전쟁의 단계에서는 모든 조치 중 단 하나의 조치만이 취해졌죠. 바로 말살. 하지만 덕분에 우리 자랑스러운 램파트 분대는 수많은 철충을 물리칠 수 있었습니다. 안타깝게도 철충들이 비열한 감염 행위를 사용하지 않았다면 우리 램파트 분대에서 인류 멸망 따윈 일어나지 않았을 겁니다.\n\n하지만, 일은 벌어졌고 지금은 그 일을 수습하기 위해 노력을 하고 있지요. 언젠가는 우리 램파트 로봇들의 손으로 지구의 평화를 되찾을 수 있을 겁니다.'
 #: CharCollection[Char_AGS_Rampart_N].Char_Desc
@@ -487,7 +487,7 @@ msgstr ""
 #  Korean Text: 'CT66 램파트'
 #: CharCollection[Char_AGS_Rampart_N].Char_Name
 msgid "CT66ランパート"
-msgstr "Rampart"
+msgstr "CT66 Rampart"
 
 #: CharCollection[Char_AGS_Roc_N].Char_Desc
 msgid ""
@@ -526,7 +526,7 @@ msgstr ""
 #  Korean Text: 'K180 셀주크'
 #: CharCollection[Char_AGS_Seljuq_N].Char_Name
 msgid "K180セルジューク"
-msgstr "Seljuq"
+msgstr "K180 Seljuq"
 
 #  Korean Text: '당신은 1급 기밀 정보에 접근하고 있습니다.\n\n정체성 광왜곡형 AI 쉐이드.\n \n임무, 비밀 파괴 임무.\n\n민간 생산 제한되어 있음.\n\n전투에 투입된 정보… 삭제됨.\n\n철충과의 교전에서 통상 연결체 파괴 임무 수행 중.'
 #: CharCollection[Char_AGS_Shade_N].Char_Desc
@@ -558,7 +558,7 @@ msgstr ""
 #  Korean Text: 'S12 쉐이드'
 #: CharCollection[Char_AGS_Shade_N].Char_Name
 msgid "S12シェード"
-msgstr "Shade"
+msgstr "S12 Shade"
 
 #: CharCollection[Char_AGS_SpartanA_N].Char_Desc
 msgid ""
@@ -575,15 +575,15 @@ msgstr ""
 
 #: CharCollection[Char_AGS_SpartanA_N].Char_Name
 msgid "S25Aスパルタンアサルト"
-msgstr "Spartan Assault"
+msgstr "S25A Spartan Assault"
 
 #: CharCollection[Char_AGS_SpartanB_N].Char_Name
 msgid "S25Bスパルタンブーマー"
-msgstr "Spartan Boomer"
+msgstr "S25B Spartan Boomer"
 
 #: CharCollection[Char_AGS_SpartanC_N].Char_Name
 msgid "S25スパルタンキャプテン"
-msgstr "Spartan Captain"
+msgstr "S25 Spartan Captain"
 
 #  Korean Text: '언제나 남자들은 그렇죠. 단순하고 쉽게 속아 넘어가죠. 그 부분은 절대 변하지 않아요. 그리고 그 남자의 본성이 제가 활동하는 근원이 되죠.\n\n제 이름은 에이미 레이저. 보통은 그냥 에이미라고 불러요. 전 첩보를 위해 태어난 바이오로이드. 080 기관이 인간으로 구성되어 있을 때부터 활동한 첫 번째 바이오로이드이기도 해요. 저격, 파괴, 정보 수집 모든 게 가능했죠. 제게 불가능은 없었어요.\n \n인간이 멸망한 다음은 어떠냐구요? 후후… 설마 문제가 있을까봐요? 물론, 철충들은 유혹에는 넘어가지 않지만 여전히 제겐 많은 무기가 있답니다. 제 권총은 남자가 상대가 아니라도 잘 나가고 닥터가 만들어준 BSI 라이플도 적을 가리지 않죠. 이전보다 재미있진 않지만… 뭐 이런 원초적인 싸움도 나쁘진 않네요.'
 #: CharCollection[Char_BR_Amy_N].Char_Desc
@@ -1843,7 +1843,7 @@ msgstr ""
 #  Korean Text: '드론 08'
 #: CharCollection[Char_PECS_Drone_N].Char_Name
 msgid "ドローン08"
-msgstr "Drone"
+msgstr "Drone 08"
 
 #  Translation of Korean by Maurex; Korean Text: '안녕. 내 이름은 더치. 광산에서는 더치 걸이라 불리는데 익숙해.\n\n난 골든 워커즈에 소속되어 있던 광부야. 내가 생각이라는 걸 할 수 있을 때 쯤. 이미 내 일터는 땅굴이었고, 내 집도 땅굴이었지. 자~ 해줄 이야기는 다 했네. 이제 그만 네가 살던 지상으로 올라가는게 어때?\n\n하아… 너도 참 고집이 세구나. 왜 골든 워커즈는 중장비들을 놔두고, 연약한 바이오로이드로 땅을 파고 있냐고? 넌 참 마음이 따뜻한 사람이구나. 고마워…\n\n너도 어렴풋하게 알고 있겠지? 나는 저기 처박혀 있는 토미워커 구형 모델보다 싸게 먹혀. 구체적인 가격은 언급 안할게, 어차피 재미없는 이야기니까.\n뭐, 어쨌든 내 굴착 작업은 철충들이 문명과 PECS를 먼지로 만들어 버린 시점에서 끝났지만. 앞으로 어떻게 해야 할 지는 나도  모르겠어. 철충한테 내 드릴과 다이너마이트가 제법 잘 먹히긴 하겠지만, 당장 저 괴물들을 어떻게 해 볼생각도 없고 말이지.\n \n어차피 이렇게 된 거. 나랑 앉아서 조금 쉴래? 불타버린 세상 이야기나 하면서 말이야.'
 #: CharCollection[Char_PECS_DutchGirl_N].Char_Desc
@@ -2065,7 +2065,7 @@ msgstr ""
 #  Korean Text: 'SD3M 펍 헤드'
 #: CharCollection[Char_PECS_PuppHead_N].Char_Name
 msgid "SD3Mポップヘッド"
-msgstr "Pupp Head"
+msgstr "SD3M Pupp Head"
 
 #  Korean Text: '여어! 위급 시엔 999로 전화를 하라구. 그럼 언제든지 준비된 이 프로스트 서펀트가 날아갈 테니까.\n\n난 화재, 테러 같은 재난 사태에서 시민들을 구하기 위해 만들어진 바이오로이드 프로스트 서펀트야. 아, 그리고 내 말투가 좀 프리해도 이해를 하라구. 우리처럼 힘든 일을 하다보면 예의 같은 거 차릴 시간이 없어지거든. 어쨌든 난 화재 진압과 테러범을 냉동시켜 체포하는 두 가지 일을 맡고 있었지. 뭐, 세상이 이렇게 망하기 전엔 말이야.\n\n세상이 망하고 나선 어땠냐고? 뭘 어쩌긴 어째. 어디에나 불은 나는 법이야. 특히 화약과 폭발물이 날아다니는 전쟁통엔 더 그렇지. 난 여전히 불을 끄고 바이오로이드 자매들을 구하고 있어. 바뀐건… 음. 얼리는 게 테러범이 아니라 철충이라는 것 정도랄까?'
 #: CharCollection[Char_PECS_Serpent_N].Char_Desc
@@ -2101,7 +2101,7 @@ msgstr ""
 #  Korean Text: 'CM67 스팅어'
 #: CharCollection[Char_PECS_Stinger_N].Char_Name
 msgid "CM67スティンガー"
-msgstr "Stinger"
+msgstr "CM67 Stinger"
 
 #  Korean Text: '안녕. 주인? 내 이름은 ‘티에치엔’이라고 해. 만나서 반가워.\n\n난 세상이 멸망하기 전까지는, 유명한 체육관의 무술 사범이었어. 꽤 많은 사람들에게 가르침을 줬었지. 하지만 지금은 방랑 무사정도 되려나? 후훗! 물론 내가 떠돌이긴 해도, 목적도 없이 헤메는 다른 친구들이랑은 격이 다르다구.\n그리고… 이건 주인에게만 알려주는 비밀인데, 사실 나는 ‘기’를 다룰 수 있어. 어때? 놀랐지?\n\n… 뭐야 그 표정은? 이 티에치엔의 말을 못믿는 눈치인데, 잘 봐. 이 ‘톤파’에 내 ‘기’를 불어 넣고 때리면. 철충이고 뭐고…\n\n어어?! 잠깐! 그렇게 들여다 볼 필요는 없잖아! 어서~ 돌려줘~. 내꺼란 말이야~.\n\n... ...유탄같은거 아니거든? … ...부대에서 훔친거 아니거든…?\n\n아무튼, 이건 ‘기’야. 확인했지? 그럼 나 먼저 간다~!'
 #: CharCollection[Char_PECS_Tiequan_N].Char_Desc
