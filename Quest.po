@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2150,7 +2150,7 @@ msgstr "Clear stage 6-8"
 #  Korean Text: '여섯 번째 이야기'
 #: Quest[Achievement_215].QuestTitle
 msgid "６番目のストーリー"
-msgstr "The Sixth Story"
+msgstr "The 6th Story"
 
 #  Korean Text: '익스큐셔너를 처치'
 #: Quest[Achievement_216].QuestDesc
@@ -2485,7 +2485,7 @@ msgstr "This Month's Electricity Bill is..."
 #  Korean Text: '함내 사령실 활성화'
 #: Quest[Research_Fac_Quest_001].QuestDesc
 msgid "1-3クリアにより艦内指令室アクティブ化"
-msgstr "Activate Command Room"
+msgstr "Clear 1-3 to Activate Command Room"
 
 #  Korean Text: '(연구) 함내 기반 시설_1-3클리어'
 #: Quest[Research_Fac_Quest_001].QuestTitle

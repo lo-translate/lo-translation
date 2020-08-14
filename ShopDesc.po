@@ -25,7 +25,7 @@ msgstr "7 Tuna Cans"
 #  Korean Text: '참치캔 17개와 보너스 참치캔 3개가 들어있습니다.'
 #: ShopDesc[2].NPCDescription
 msgid "ツナ缶20個(有償17個+無償3個)が入っています。"
-msgstr "17 Tuna Cans"
+msgstr "20 Tuna Cans (17+3 bonus)"
 
 #  Korean Text: '참치캔 17+3개'
 #: ShopDesc[2].ProductName
@@ -35,7 +35,7 @@ msgstr "17+3 Tuna Cans"
 #  Korean Text: '참치캔 40개와 보너스 참치캔 8개가 들어있습니다.'
 #: ShopDesc[3].NPCDescription
 msgid "ツナ缶48個(有償40個+無償8個)が入っています。"
-msgstr "40 Tuna Cans"
+msgstr "48 Tuna Cans (40+8 bonus)"
 
 #  Korean Text: '참치캔 40+8개'
 #: ShopDesc[3].ProductName
@@ -45,7 +45,7 @@ msgstr "40+8 Tuna Cans"
 #  Korean Text: '참치캔 80개와 보너스 참치캔 16개가 들어있습니다.'
 #: ShopDesc[4].NPCDescription
 msgid "ツナ缶96個(有償80個+無償16個)が入っています。"
-msgstr "80 Tuna Cans"
+msgstr "96 Tuna Cans (80+16 bonus)"
 
 #  Korean Text: '참치캔 80+16개'
 #: ShopDesc[4].ProductName
@@ -55,7 +55,7 @@ msgstr "80+16 Tuna Cans"
 #  Korean Text: '참치캔 165개와 보너스 참치캔 33개가 들어있습니다.'
 #: ShopDesc[5].NPCDescription
 msgid "ツナ缶198個(有償165個+無償33個)が入っています。"
-msgstr "165 Tuna Cans"
+msgstr "198 Tuna Cans (165+33 bonus)"
 
 #  Korean Text: '참치캔 165+33개'
 #: ShopDesc[5].ProductName
@@ -65,7 +65,7 @@ msgstr "165+33 Tuna Cans"
 #  Korean Text: '참치캔 350개와 보너스 참치캔 70개가 들어있습니다.'
 #: ShopDesc[6].NPCDescription
 msgid "ツナ缶420個(有償350個+無償70個)が入っています。"
-msgstr "350 Tuna Cans"
+msgstr "420 Tuna Cans (350+70 bonus)"
 
 #  Korean Text: '참치캔 350+70개'
 #: ShopDesc[6].ProductName
@@ -95,7 +95,7 @@ msgstr "5 Gene Seeds"
 #  Korean Text: '바이오로이드 제작에 필요한 유전자 씨앗 10개와 보너스 1개입니다.'
 #: ShopDesc[9].NPCDescription
 msgid "バイオロイド製作に必要な遺伝子の種11個(内ボーナス1個)です。"
-msgstr "10 Gene Seeds"
+msgstr "11 Gene Seeds (1 bonus)"
 
 #  Korean Text: '유전자 씨앗 10+1개'
 #: ShopDesc[9].ProductName
@@ -105,7 +105,7 @@ msgstr "10+1 Gene Seeds"
 #  Korean Text: '바이오로이드 제작에 필요한 유전자 씨앗 20개와 보너스 4개입니다.'
 #: ShopDesc[10].NPCDescription
 msgid "バイオロイド製作に必要な遺伝子の種24個(内ボーナス4個)です。"
-msgstr "20 Gene Seeds"
+msgstr "24 Gene Seeds (4 bonus)"
 
 #  Korean Text: '유전자 씨앗 20+4개'
 #: ShopDesc[10].ProductName
@@ -115,7 +115,7 @@ msgstr "20+4 Gene Seeds"
 #  Korean Text: '바이오로이드 제작에 필요한 유전자 씨앗 40개와 보너스 12개입니다.'
 #: ShopDesc[11].NPCDescription
 msgid "バイオロイド製作に必要な遺伝子の種52個(内ボーナス12個)です。"
-msgstr "40 Gene Seeds"
+msgstr "52 Gene Seeds (12 bonus)"
 
 #  Korean Text: '유전자 씨앗 40+12개'
 #: ShopDesc[11].ProductName
@@ -145,7 +145,7 @@ msgstr "5 Battle Gear Cores"
 #  Korean Text: '전투 장비 제작에 필요한 장비 코어 10개와 보너스 1개입니다.'
 #: ShopDesc[14].NPCDescription
 msgid "戦闘装備の製作に必要な装備コア11個(内ボーナス1個)です。"
-msgstr "10 Machine Cores"
+msgstr "11 Machine Cores (1 bonus)"
 
 #  Korean Text: '장비 코어 10+1개'
 #: ShopDesc[14].ProductName
@@ -155,7 +155,7 @@ msgstr "10+1 Machine Cores"
 #  Korean Text: '전투 장비 제작에 필요한 장비 코어 20개 입니다.'
 #: ShopDesc[15].NPCDescription
 msgid "戦闘装備の製作に必要な装備コア24個(内ボーナス4個)です。"
-msgstr "20 Battle Gear Core(s), needed to build equipment."
+msgstr "24 Battle Gear Cores, needed to build equipment (4 bonus)."
 
 #  Korean Text: '장비 코어 20+4개'
 #: ShopDesc[15].ProductName
@@ -165,7 +165,7 @@ msgstr "20+4 Machine Cores"
 #  Korean Text: '전투 장비 제작에 필요한 장비 코어 50개 입니다.'
 #: ShopDesc[16].NPCDescription
 msgid "戦闘装備の製作に必要な装備コア52個(内ボーナス12個)です。"
-msgstr "50 Battle Gear Core(s), needed to build equipment."
+msgstr "52 Battle Gear Cores, needed to build equipment (12 bonus)."
 
 #  Korean Text: '장비 코어 40+12개'
 #: ShopDesc[16].ProductName
@@ -185,17 +185,17 @@ msgstr "100 Battle Gear Cores"
 #  Korean Text: '로봇 제작에 필요한 메인 AI 코어 1개 입니다.'
 #: ShopDesc[18].NPCDescription
 msgid "ロボット製作に必要なメインAIコア1個です。"
-msgstr "1 AI Core(s), need to build robots."
+msgstr "1 AI Core, need to build robots."
 
 #  Korean Text: 'AI 코어 1개'
 #: ShopDesc[18].ProductName
 msgid "AIコア 1個"
-msgstr "1 AI Cores"
+msgstr "1 AI Core"
 
 #  Korean Text: '로봇 제작에 필요한 메인 AI 코어 5개와 보너스 1개입니다.'
 #: ShopDesc[19].NPCDescription
 msgid "ロボットの製作に必要なメインAIコア6個(内ボーナス1個)です。"
-msgstr "5 AI Cores"
+msgstr "6 AI Cores (1 bonus)"
 
 #  Korean Text: 'AI 코어 5+1개'
 #: ShopDesc[19].ProductName
@@ -205,7 +205,7 @@ msgstr "5+1 AI Cores"
 #  Korean Text: '로봇 제작에 필요한 메인 AI 코어 8개와 보너스 2개입니다.'
 #: ShopDesc[20].NPCDescription
 msgid "ロボットの製作に必要なメインAIコア10個(内ボーナス2個)です。"
-msgstr "8 AI Cores"
+msgstr "10 AI Cores (2 bonus)"
 
 #  Korean Text: 'AI 코어 8+2개'
 #: ShopDesc[20].ProductName
@@ -215,7 +215,7 @@ msgstr "8+2 AI Cores"
 #  Korean Text: '로봇 제작에 필요한 메인 AI 코어 10개와 보너스 3개입니다.'
 #: ShopDesc[21].NPCDescription
 msgid "ロボットの製作に必要なメインAIコア13個(内ボーナス3個)です。"
-msgstr "10 AI Cores"
+msgstr "13 AI Cores (3 bonus)"
 
 #  Korean Text: 'AI 코어 10+3개'
 #: ShopDesc[21].ProductName
@@ -340,7 +340,7 @@ msgstr ""
 #  Korean Text: '부품 2200개'
 #: ShopDesc[35].ProductName
 msgid "部品2000+200個"
-msgstr "2200 Parts"
+msgstr "2000+200 Parts"
 
 #  Korean Text: '부품이 4000개 보너스 부품이 800 증가합니다.'
 #: ShopDesc[36].NPCDescription
@@ -350,7 +350,7 @@ msgstr ""
 #  Korean Text: '부품 4800개'
 #: ShopDesc[36].ProductName
 msgid "部品4000+800個"
-msgstr "4800 Parts"
+msgstr "4000+800 Parts"
 
 #  Korean Text: '부품이 8000개 보너스 부품이 2400 증가합니다.'
 #: ShopDesc[37].NPCDescription
@@ -360,7 +360,7 @@ msgstr ""
 #  Korean Text: '부품 10400개'
 #: ShopDesc[37].ProductName
 msgid "部品8000+2400個"
-msgstr "10400 Parts"
+msgstr "8000+2400 Parts"
 
 #  Korean Text: '영양 자원이 400 증가합니다.'
 #: ShopDesc[38].NPCDescription
@@ -380,7 +380,7 @@ msgstr ""
 #  Korean Text: '영양 2200개'
 #: ShopDesc[39].ProductName
 msgid "栄養2000+200個"
-msgstr "2200 Nutrients"
+msgstr "2000+200 Nutrients"
 
 #  Korean Text: '영양이 4000개 보너스 영양이 800 증가합니다.'
 #: ShopDesc[40].NPCDescription
@@ -390,7 +390,7 @@ msgstr ""
 #  Korean Text: '영양 4800개'
 #: ShopDesc[40].ProductName
 msgid "栄養4000+800個"
-msgstr "4800 Nutrients"
+msgstr "4000+800 Nutrients"
 
 #  Korean Text: '영양이 8000개 보너스 영양이 2400 증가합니다.'
 #: ShopDesc[41].NPCDescription
@@ -400,7 +400,7 @@ msgstr ""
 #  Korean Text: '영양 10400개'
 #: ShopDesc[41].ProductName
 msgid "栄養8000+2400個"
-msgstr "10400 Nutrients"
+msgstr "8000+2400 Nutrients"
 
 #  Korean Text: '전력 자원이 400 증가합니다.'
 #: ShopDesc[42].NPCDescription
@@ -420,7 +420,7 @@ msgstr ""
 #  Korean Text: '전력 2200개'
 #: ShopDesc[43].ProductName
 msgid "電力2000+200個"
-msgstr "2200 Power"
+msgstr "2000+200 Power"
 
 #  Korean Text: '전력이 4000개 보너스 전력이 800 증가합니다.'
 #: ShopDesc[44].NPCDescription
@@ -430,7 +430,7 @@ msgstr ""
 #  Korean Text: '전력 4800개'
 #: ShopDesc[44].ProductName
 msgid "電力4000+800個"
-msgstr "4800 Power"
+msgstr "4000+800 Power"
 
 #  Korean Text: '전력이 8000개 보너스 전력이 2400 증가합니다.'
 #: ShopDesc[45].NPCDescription
@@ -440,7 +440,7 @@ msgstr ""
 #  Korean Text: '전력 10400개'
 #: ShopDesc[45].ProductName
 msgid "電力8000+2400個"
-msgstr "10400 Power"
+msgstr "8000+2400 Power"
 
 #  Korean Text: '부품/영양/전력이 1500 증가합니다.'
 #: ShopDesc[46].NPCDescription
@@ -518,13 +518,13 @@ msgstr "1 Quick-Complete Circuits"
 #: ShopDesc[53].NPCDescription
 msgid "製作中の戦闘員又は装備を即製作完了できる回路5個です。"
 msgstr ""
-"6 Quick-Complete Circuit(s), needed to instantly complete a unit or gear "
+"5 Quick-Complete Circuit(s), needed to instantly complete a unit or gear "
 "build."
 
 #  Korean Text: '급속 완성 회로 5+1개'
 #: ShopDesc[53].ProductName
 msgid "急速完成回路5個"
-msgstr "5+1 Quick-Complete Circuits"
+msgstr "5 Quick-Complete Circuits"
 
 #  Korean Text: '제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 10개와 보너스 3개입니다.'
 #: ShopDesc[54].NPCDescription
@@ -540,25 +540,25 @@ msgstr "10+3 Quick-Complete Circuits"
 #: ShopDesc[55].NPCDescription
 msgid "製作中の戦闘員又は装備を即製作完了できる回路20個です。"
 msgstr ""
-"24 Quick-Complete Circuit(s), needed to instantly complete a unit or gear "
+"20 Quick-Complete Circuit(s), needed to instantly complete a unit or gear "
 "build."
 
 #  Korean Text: '급속 완성 회로 20+4개'
 #: ShopDesc[55].ProductName
 msgid "急速完成回路20個"
-msgstr "20+4 Quick-Complete Circuits"
+msgstr "20 Quick-Complete Circuits"
 
 #  Korean Text: '제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 52개 입니다.'
 #: ShopDesc[56].NPCDescription
 msgid "製作中の戦闘員又は装備を即製作完了できる回路50個です。"
 msgstr ""
-"52 Quick-Complete Circuit(s), needed to instantly complete a unit or gear "
+"50 Quick-Complete Circuit(s), needed to instantly complete a unit or gear "
 "build."
 
 #  Korean Text: '급속 완성 회로 40+12개'
 #: ShopDesc[56].ProductName
 msgid "急速完成回路50個"
-msgstr "40+12 Quick-Complete Circuits"
+msgstr "50 Quick-Complete Circuits"
 
 #  Korean Text: '제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 100개 입니다.'
 #: ShopDesc[57].NPCDescription
@@ -821,7 +821,7 @@ msgstr "Pre-Disaster Legacy"
 #: ShopDesc[81].NPCDescription
 msgid "人類が滅亡する前に使用していた合金の箱11個です。何が入っているのかは分かりません。"
 msgstr ""
-"A pile of alloy crates used by mankind before destruction. I don't know "
+"A pile of 11 alloy crates used by mankind before destruction. I don't know "
 "what's in there, but I think there might be something more valuable."
 
 #  Korean Text: '멸망 전의 유산 10+1'
@@ -832,7 +832,8 @@ msgstr "Pre-Disaster Legacy 10+1"
 #  Korean Text: '첫 날  참치캔 45개와 보너스 참치캔 16개를 즉시 지급하며, 29일간 매일 보너스 참치캔 1개를 획득합니다.'
 #: ShopDesc[82].NPCDescription
 msgid "初日にツナ缶61個(有償45個+無償16個)が即時支給され、29日間毎日ツナ缶1個(無償)が貰えます。"
-msgstr "Obtain 1 Tuna Cans."
+msgstr ""
+"Obtain 61 Tuna Cans (45+16 bonus), then 1 Tuna Can each day for 29 days."
 
 #  Korean Text: '참치캔 공급 발주(30일)-일'
 #: ShopDesc[82].ProductName
@@ -842,7 +843,8 @@ msgstr ""
 #  Korean Text: '첫 날  참치캔 150개와 보너스 참치캔 5개를 즉시 지급하며, 29일간 매일 보너스 참치캔 5개를 획득합니다.'
 #: ShopDesc[83].NPCDescription
 msgid "初日にツナ缶155個(有償150個+無償5個)が即時支給され、29日間毎日ツナ缶5個(無償)が貰えます。"
-msgstr "Obtain 5 Tuna Cans."
+msgstr ""
+"Obtain 155 Tuna Cans (150+5 bonus), then 5 Tuna Cans each day for 29 days."
 
 #  Korean Text: '참치캔 추가 공급 발주(30일)-일'
 #: ShopDesc[83].ProductName
@@ -1074,7 +1076,7 @@ msgstr "Miho's Apron Pack"
 #  Korean Text: '모든 자원이 1500+750개 들어있습니다.'
 #: ShopDesc[106].NPCDescription
 msgid "全ての資源 2250個(内ボーナス1600個)が入っています。"
-msgstr "Contains 1500+750 of all resources."
+msgstr "Contains 2250 of all resources (1600 are bonus)."
 
 #  Korean Text: '자원 1500+750개'
 #: ShopDesc[106].ProductName
@@ -1084,7 +1086,7 @@ msgstr "1500+750 of all resources"
 #  Korean Text: '모든 자원이 3000+1500개 들어있습니다.'
 #: ShopDesc[107].NPCDescription
 msgid "全ての資源 4500個(内ボーナス3300個)が入っています。"
-msgstr "Contains 3000+1500 of all resources."
+msgstr "Contains 4500 of all resources (3300 are bonus)."
 
 #  Korean Text: '자원 3000+1500개'
 #: ShopDesc[107].ProductName
@@ -1094,7 +1096,7 @@ msgstr "3000+1500 of all resources"
 #  Korean Text: '모든 자원이 5000+2500개 들어있습니다.'
 #: ShopDesc[108].NPCDescription
 msgid "全ての資源 7500個(内ボーナス5650個)が入っています。"
-msgstr "Contains 5000+2500 of all resources."
+msgstr "Contains 7500 of all resources (5650 are bonus)."
 
 #  Korean Text: '자원 5000+2500개'
 #: ShopDesc[108].ProductName
@@ -1104,7 +1106,7 @@ msgstr "5000+2500 of all resources"
 #  Korean Text: '모든 자원이 10000+5000개 들어있습니다.'
 #: ShopDesc[109].NPCDescription
 msgid "全ての資源 15000個(内ボーナス11400個)が入っています。"
-msgstr "Contains 10000+5000 of all resources."
+msgstr "Contains 15000 of all resources (11400 are bonus)."
 
 #  Korean Text: '자원 10000+5000개'
 #: ShopDesc[109].ProductName
@@ -1114,7 +1116,7 @@ msgstr "10000+5000 of all resources"
 #  Korean Text: '모든 자원이 30000+15000개 들어있습니다.'
 #: ShopDesc[110].NPCDescription
 msgid "全ての資源 45000個(内ボーナス35000個)が入っています。"
-msgstr "Contains 30000+15000 of all resources."
+msgstr "Contains 45000 of all resources (35000 are bonus)."
 
 #  Korean Text: '자원 30000+15000개'
 #: ShopDesc[110].ProductName
@@ -1124,7 +1126,7 @@ msgstr "30000+15000 of all resources"
 #  Korean Text: '모든 자원이 50000+25000개 들어있습니다.'
 #: ShopDesc[111].NPCDescription
 msgid "全ての資源 75000個(内ボーナス60500個)が入っています。"
-msgstr "Contains 50000+25000 of all resources."
+msgstr "Contains 75000 of all resources (60500 are bonus)."
 
 #  Korean Text: '자원 50000+25000개'
 #: ShopDesc[111].ProductName
@@ -1515,7 +1517,7 @@ msgstr "Midsummer Royal"
 #: ShopDesc[150].NPCDescription
 msgid "様々な物品を購入できる貨幣18個です。 契約取り消しは購入日から7日以内に可能です。 但し、アイテムを使用した場合、申し込みの撤回はできません。"
 msgstr ""
-"Six units of currency to purchase various items. You can refund this within 7 "
+"18 units of currency to purchase various items. You can refund this within 7 "
 "days of the purchase date. However, you can no longer refund it if used."
 
 #  Korean Text: '참치캔 15+3개'
@@ -1556,32 +1558,32 @@ msgstr "Midsummer Fairy"
 #  Korean Text: '부품 50000개가 들어있습니다.'
 #: ShopDesc[154].NPCDescription
 msgid "部品 50000個(内ボーナス38000個)が入っています。"
-msgstr "Contains 50000 Parts."
+msgstr "Contains 50000 Parts (38000 are bonus)."
 
 #  Korean Text: '부품 50000 컨테이너'
 #: ShopDesc[154].ProductName
 msgid "部品 12000+38000個"
-msgstr "Container of 50000 Parts"
+msgstr "Container of 12000+38000 Parts"
 
 #  Korean Text: '영양 50000개가 들어있습니다.'
 #: ShopDesc[155].NPCDescription
 msgid "栄養 50000個(内ボーナス38000個)が入っています。"
-msgstr "Contains 50000 Nutrients."
+msgstr "Contains 50000 Nutrients (38000 are bonus)."
 
 #  Korean Text: '영양 50000 컨테이너'
 #: ShopDesc[155].ProductName
 msgid "栄養 12000+38000個"
-msgstr "Container of 50000 Nutrients"
+msgstr "Container of 12000+38000 Nutrients"
 
 #  Korean Text: '전력 50000개가 들어있습니다.'
 #: ShopDesc[156].NPCDescription
 msgid "電力 50000個(内ボーナス38000個)が入っています。"
-msgstr "Contains 50000 Power."
+msgstr "Contains 50000 Power (38000 are bonus)."
 
 #  Korean Text: '전력 50000 컨테이너'
 #: ShopDesc[156].ProductName
 msgid "電力 12000+38000個"
-msgstr "Container of 50000 Power"
+msgstr "Container of 12000+38000 Power"
 
 #  Korean Text: '모든 자원 30000개 / 전투 기록 5개 / 실전 교본 5개가 들어있는 컨테이너입니다.'
 #: ShopDesc[157].NPCDescription
@@ -1711,7 +1713,7 @@ msgstr "Contains 50000 of all resources."
 #  Korean Text: '한가위 자원 컨테이너 50000'
 #: ShopDesc[169].ProductName
 msgid "中秋資源コンテナ50000"
-msgstr "Hangawi Resource Container 50000"
+msgstr "Mid-autumn Resource Container 50000"
 
 #  Korean Text: '오리진 더스트 2019개를 지급합니다.'
 #: ShopDesc[170].NPCDescription

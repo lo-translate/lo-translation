@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -48,7 +48,7 @@ msgstr "You can't sortie because there are no squad members."
 #  Korean Text: '스쿼드는 하나라도 있어야 합니다.'
 #: LocalizationPatch:35
 msgid "分隊が選択されていません。"
-msgstr "You must have at least 1 squad."
+msgstr "No squad selected."
 
 #  Korean Text: '전투력 -'
 #: LocalizationPatch:36
@@ -281,7 +281,7 @@ msgstr ""
 #  Korean Text: '스쿼드의 1열에'
 #: LocalizationPatch:81
 msgid "分隊の前列に"
-msgstr "1st squad column"
+msgstr "Front of the squad"
 
 #  Korean Text: '스쿼드의 후열에'
 #: LocalizationPatch:82
@@ -2484,7 +2484,7 @@ msgid ""
 "[c][FFBA29FF]不思議な演算回路[-][/c]1個が消費されます。"
 msgstr ""
 "Complete researching [c][FFBA29FF]{0}[-][/c] immediately.\n"
-"One [c][FFBA29FF]Strange Circuit[-][/c] will be used."
+"1 [c][FFBA29FF]Strange Circuit[-][/c] will be used."
 
 #  Korean Text: '추가 자원 획득 비율'
 #: LocalizationPatch:503
@@ -2645,12 +2645,12 @@ msgstr "Notice"
 #  Korean Text: '[c][FFCC00FF]{0}[-][/c] 에게 [c][FFCC00FF]{1}[-][/c] 아이템을 선물하시겠습니까?'
 #: LocalizationPatch:536
 msgid "[c][FFCC00FF]{0}[-][/c]に[c][FFCC00FF]{1}[-][/c]をプレゼントしますか?"
-msgstr "Give [[c][FFBA29FF]{1}[-][/c] to [c][FFBA29FF]{0}[-][/c]?"
+msgstr "Give [[c][FFCC00FF]{1}[-][/c] to [c][FFCC00FF]{0}[-][/c]?"
 
 #  Korean Text: '[c][FFCC00FF]{0}[-][/c] 에게 [c][FFCC00FF]{1}[-][/c] 아이템을 선물했습니다.'
 #: LocalizationPatch:537
 msgid "[c][FFCC00FF]{0}[-][/c]に[c][FFCC00FF]{1}[-][/c]をプレゼントしました。"
-msgstr "Gave [c][FFBA29FF]{1}[-][/c] to [c][FFBA29FF]{0}[-][/c]."
+msgstr "Gave [c][FFCC00FF]{1}[-][/c] to [c][FFCC00FF]{0}[-][/c]."
 
 #  Korean Text: '호감도가 맥스입니다.'
 #: LocalizationPatch:538
@@ -4201,7 +4201,7 @@ msgstr "Change Name"
 #  Korean Text: '{0}이 1개 필요합니다.'
 #: LocalizationPatch:864
 msgid "{0}が1個必要です。"
-msgstr "One {0} is required."
+msgstr "1 {0} is required."
 
 #  Korean Text: '변경할 닉네임을 입력해 주세요.\n변경 시 {0}이 1개 소모 됩니다.'
 #: LocalizationPatch:865
@@ -4210,7 +4210,7 @@ msgid ""
 " 変更時、{0}が1個消費されます。"
 msgstr ""
 "Please enter a new name.\n"
-"A {0} will be consumed for each name change."
+"1 {0} will be consumed for each name change."
 
 #  Korean Text: '닉네임 변경이 완료 되었습니다.'
 #: LocalizationPatch:867

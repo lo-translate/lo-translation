@@ -542,7 +542,7 @@ msgstr "Telescoping Sights EX"
 #  Korean Text: '공격력+{0} / 적중+{1} / 치명타+{2}'
 #: ItemEquip[Equip_Sub_AMRAAMPod_T4].ItemDesc
 msgid "攻撃力+{0}/命中+{1}/対機動攻撃"
-msgstr "ATK +{0} / ACC + {1} / CRIT +{2}"
+msgstr "ATK +{0} / ACC + {1} / Anti-Air Attack"
 
 #  Korean Text: '그리폰 전용 확장 미사일 포드입니다.\n대 기동형 피해량과 방어 관통이 증가하며, 강화 레벨 10에서 사거리가 증가합니다.'
 #: ItemEquip[Equip_Sub_AMRAAMPod_T4].ItemDesc_Detail
@@ -1240,7 +1240,7 @@ msgid ""
 "T-14ミホ専用SK-14 Pinky改良型の改良型です。\n"
 "火力が大幅に改善されたモデルです。"
 msgstr ""
-"This is an improved version of SK-12 Pinky for T-14 Miho.\n"
+"This is an improved version of SK-14 Pinky for T-14 Miho.\n"
 "Its firepower is significantly improved."
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.1'

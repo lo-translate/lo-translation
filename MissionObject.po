@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-14 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -165,7 +165,7 @@ msgstr "Clear while defeating 4 enemies within 3 rounds"
 #  Korean Text: '소완으로 한 웨이브에 적을 5기 이상 처치 후 클리어'
 #: MissionObject[Mission_StageClear_Kill5_Char_3P_Sowan_N].Mission_ObjectString
 msgid "ソワンで敵を5機以上撃破してクリア"
-msgstr "Clear after eliminating 5 or more enemies in 1 wave with Sowan"
+msgstr "Clear after eliminating 5 or more enemies in one wave with Sowan"
 
 #  Korean Text: '3 라운드 내에 적을 5기 이상 처치한 상태로 클리어'
 #: MissionObject[Mission_StageClear_Kill5_In3Round].Mission_ObjectString
