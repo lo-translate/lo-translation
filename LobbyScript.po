@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1037,7 +1037,7 @@ msgid "ふんふんふんふん……♪え？えっヘヘ。やっぱり軍人�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Brownie].LobbyScript1[3](Affection<100)
-msgid "ところでＭＲＥは改善しないでありますか？スパムが不足してるっす。"
+msgid "ところでＭREは改善しないでありますか？スパムが不足してるっす。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Brownie].LobbyScript2[1](Affection>40)

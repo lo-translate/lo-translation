@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-08-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -853,7 +853,7 @@ msgstr "Tuna Can Large Order (30 days)"
 
 #  Korean Text: '브라우니용 하계 전투복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[84].NPCDescription
-msgid "ブラウニー用夏季戦闘服と手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "ブラウニー用夏季戦闘服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '브라우니용 하계 전투복 팩'
@@ -1687,7 +1687,7 @@ msgstr "Midsummer Shooting Star"
 
 #  Korean Text: '달의 모모 변신 코스튬과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[167].NPCDescription
-msgid "月のモモ変身コスチュームと手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "月のモモ変身コスチュームと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 모모'
@@ -1697,7 +1697,7 @@ msgstr "Magical Rabbit Momo"
 
 #  Korean Text: '레아용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[168].NPCDescription
-msgid "レア用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "レア用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 레아'
@@ -1727,7 +1727,7 @@ msgstr "2019 Hangawi Origin Dust Container"
 
 #  Korean Text: '트리아이나용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[171].NPCDescription
-msgid "ニュートリアイナ用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "ニュートリアイナ用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 트리아이나'
@@ -1737,7 +1737,7 @@ msgstr "Magical Rabbit Triaina"
 
 #  Korean Text: '캐럴용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[172].NPCDescription
-msgid "キャロル用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "キャロル用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 캐럴'
@@ -1856,22 +1856,24 @@ msgid "夏季戦闘服フェニックス"
 msgstr "Summer Combat Uniform Phoenix"
 
 #: ShopDesc[202].NPCDescription
-msgid "レオナ用レースクイーン衣装と手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "レオナ用レースクイーン衣装と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #: ShopDesc[202].ProductName
 msgid "レースクイーンレオナ"
 msgstr "Racing Queen Leona"
 
+#: ShopDesc[205].NPCDescription
+msgid "ニンフ用妖精ドレスと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
 #: ShopDesc[205].ProductName
 msgid "湖の妖精"
 msgstr "Lake's Fairy"
 
 #: ShopDesc[207].NPCDescription
-msgid "ネオディム用の乗務員制服と手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "ネオディム用の乗務員制服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
-"A pack containing a crew uniform for Neodim, 1 handmade cake, 2 chocolates "
-"and 3 synthetic lollipops."
 
 #: ShopDesc[207].ProductName
 msgid "特級機内サービス"
@@ -3804,7 +3806,7 @@ msgstr "Increase attack by enhancing output."
 
 #  Korean Text: '출력 강화 회로 EX'
 #: ShopDesc[16001].ProductName
-msgid "出力強化回路ＥＸ"
+msgid "出力強化回路EX"
 msgstr "Output Enhancement Circuit EX"
 
 #  Korean Text: '연산 성능을 강화해 적중을 높입니다.'
@@ -3814,7 +3816,7 @@ msgstr "Increase accuracy by enhancing computational performance."
 
 #  Korean Text: '연산 강화 회로 EX'
 #: ShopDesc[16002].ProductName
-msgid "演算強化回路ＥＸ"
+msgid "演算強化回路EX"
 msgstr "CPU Enhancement Circuit EX"
 
 #  Korean Text: '내 충격 성능을 강화해 방어를 높입니다.'
@@ -3824,7 +3826,7 @@ msgstr "Increases defense by enhancing impact resistance."
 
 #  Korean Text: '내 충격 회로 EX'
 #: ShopDesc[16003].ProductName
-msgid "耐衝撃回路ＥＸ"
+msgid "耐衝撃回路EX"
 msgstr "Anti-Impact Enhancement Circuit EX"
 
 #  Korean Text: '반응 속도를 향상시켜 회피를 높입니다.'
@@ -3834,7 +3836,7 @@ msgstr "Increase evasion by enhancing response speed."
 
 #  Korean Text: '반응 강화 회로 EX'
 #: ShopDesc[16004].ProductName
-msgid "反応強化回路ＥＸ"
+msgid "反応強化回路EX"
 msgstr "Reaction Enhancement Circuit EX"
 
 #  Korean Text: '적의 약점을 분석해 치명타를 높입니다.'
@@ -3844,7 +3846,7 @@ msgstr "Analyze the enemy weaknesses to increase critical hit chance."
 
 #  Korean Text: '분석 회로 EX'
 #: ShopDesc[16005].ProductName
-msgid "分析回路ＥＸ"
+msgid "分析回路EX"
 msgstr "Analysis Circuit EX"
 
 #  Korean Text: '회로 내구도를 높여 HP가 증가합니다.'
@@ -3854,12 +3856,12 @@ msgstr "Increase HP by enhancing circuit durability."
 
 #  Korean Text: '회로 내구 강화 EX'
 #: ShopDesc[16006].ProductName
-msgid "回路耐久強化ＥＸ"
+msgid "回路耐久強化EX"
 msgstr "Durability Enhancement Circuit EX"
 
 #  Korean Text: '백신 처리 EX'
 #: ShopDesc[16007].ProductName
-msgid "ワクチン処理ＥＸ"
+msgid "ワクチン処理EX"
 msgstr "Vaccine Treatment EX"
 
 #  Korean Text: '각 처리 성능을 향상시켜 행동력이 증가합니다.'
@@ -3869,7 +3871,7 @@ msgstr "Enhances processing power thereby increasing action speed."
 
 #  Korean Text: '회로 최적화 EX'
 #: ShopDesc[16008].ProductName
-msgid "回路最適化ＥＸ"
+msgid "回路最適化EX"
 msgstr "Optimization Circuit EX"
 
 #  Korean Text: '공격, 방어, 적중, 회피를 올려주는 표준형 전투 OS입니다. 해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다.'
@@ -3881,12 +3883,12 @@ msgstr ""
 
 #  Korean Text: '표준형 전투 시스템 EX'
 #: ShopDesc[16009].ProductName
-msgid "標準型戦闘システムＥＸ"
+msgid "標準型戦闘システムEX"
 msgstr "Standard Combat System EX"
 
 #  Korean Text: '돌격형 전투 시스템 EX'
 #: ShopDesc[16010].ProductName
-msgid "突撃型戦闘システムＥＸ"
+msgid "突撃型戦闘システムEX"
 msgstr "Rushing Combat System EX"
 
 #  Korean Text: '방어에 집중하는 전투 OS 입니다.'
@@ -3896,7 +3898,7 @@ msgstr "Combat OS focused solely on defense."
 
 #  Korean Text: '방어형 전투 시스템 EX'
 #: ShopDesc[16011].ProductName
-msgid "防御型戦闘システムＥＸ"
+msgid "防御型戦闘システムEX"
 msgstr "Defensive Combat System EX"
 
 #  Korean Text: '지원기 전용 시스템으로, 피격 시 일정 확률로 반격합니다.'
@@ -3907,7 +3909,7 @@ msgstr ""
 
 #  Korean Text: '대응형 전투 시스템 EX'
 #: ShopDesc[16012].ProductName
-msgid "対応型戦闘システムＥＸ"
+msgid "対応型戦闘システムEX"
 msgstr "Reactive Combat System EX"
 
 #  Korean Text: '강력한 공격을 위한 전투 OS로, 공격력이 증가하지만 행동력이 감소합니다.'
@@ -3918,7 +3920,7 @@ msgstr ""
 
 #  Korean Text: '강습형 전투 시스템 EX'
 #: ShopDesc[16013].ProductName
-msgid "強襲型戦闘システムＥＸ"
+msgid "強襲型戦闘システムEX"
 msgstr "Assault Combat System"
 
 #  Korean Text: '정찰 기능이 활성화 된 상태로 라운드 개시 시, 전황을 분석해 능력이 증가합니다.'
@@ -3940,7 +3942,7 @@ msgstr "A battle OS to respond to flying-types."
 
 #  Korean Text: '대 기동 전투 시스템 EX'
 #: ShopDesc[16015].ProductName
-msgid "対機動戦闘システムＥＸ"
+msgid "対機動戦闘システムEX"
 msgstr "Anti-Air Combat System EX"
 
 #  Korean Text: '경장형에 대응하기 위한 전투 OS 입니다.'
@@ -3950,7 +3952,7 @@ msgstr "A battle OS to respond to light types."
 
 #  Korean Text: '대 경장 전투 시스템 EX'
 #: ShopDesc[16016].ProductName
-msgid "対軽装戦闘システムＥＸ"
+msgid "対軽装戦闘システムEX"
 msgstr "Anti-Light Combat System EX"
 
 #  Korean Text: '중장형에 대응하기 위한 전투 OS 입니다.'
@@ -3960,7 +3962,7 @@ msgstr "A battle OS to respond to heavy types."
 
 #  Korean Text: '대 중장 전투 시스템 EX'
 #: ShopDesc[16017].ProductName
-msgid "対重装戦闘システムＥＸ"
+msgid "対重装戦闘システムEX"
 msgstr "Anti-Heavy Combat System EX"
 
 #  Korean Text: '학습형 OS로 인해 전투 승리 시, 획득 경험치가 증가합니다.'
@@ -3970,7 +3972,7 @@ msgstr "A learning OS that increases experience gained in battle."
 
 #  Korean Text: '고속 학습 시스템 EX'
 #: ShopDesc[16018].ProductName
-msgid "高速学習システムＥＸ"
+msgid "高速学習システムEX"
 msgstr "Fast-Learning System EX"
 
 #  Korean Text: '에너지 팩의 보조로, 매 라운드 AP가 증가합니다.'
@@ -3980,7 +3982,7 @@ msgstr "An energy pack aid that increases AP every round."
 
 #  Korean Text: '보조 에너지 팩 EX'
 #: ShopDesc[16019].ProductName
-msgid "補助エネルギーパックＥＸ"
+msgid "補助エネルギーパックEX"
 msgstr "Auxiliary Energy Pack EX"
 
 #  Korean Text: '공격기 전용 관측 장비입니다. 사거리와 적중이 증가합니다.'
@@ -3990,27 +3992,27 @@ msgstr ""
 
 #  Korean Text: '관측 장비 EX'
 #: ShopDesc[16020].ProductName
-msgid "観測装備ＥＸ"
+msgid "観測装備EX"
 msgstr "Observation Equipment EX"
 
 #  Korean Text: '공간 장갑 EX'
 #: ShopDesc[16021].ProductName
-msgid "空間装甲ＥＸ"
+msgid "空間装甲EX"
 msgstr "Spaced Armor EX"
 
 #  Korean Text: '보조 부스터 유닛 EX'
 #: ShopDesc[16022].ProductName
-msgid "補助ブースターユニットＥＸ"
+msgid "補助ブースターユニットEX"
 msgstr "Auxiliary Booster EX"
 
 #  Korean Text: '초정밀 조준기 EX'
 #: ShopDesc[16023].ProductName
-msgid "超精密照準器ＥＸ"
+msgid "超精密照準器EX"
 msgstr "Precision Sights EX"
 
 #  Korean Text: '대 장갑 장비 EX'
 #: ShopDesc[16024].ProductName
-msgid "対装甲装備ＥＸ"
+msgid "対装甲装備EX"
 msgstr "Anti-Armor Equipment EX"
 
 #  Korean Text: '라운드 개시 시, 방어막 효과가 적용된 상태면 해당 효과를 해제하고 공격력과 행동력이 증가합니다.'
@@ -4022,8 +4024,8 @@ msgstr ""
 
 #  Korean Text: '에너지 전환기 RE'
 #: ShopDesc[16025].ProductName
-msgid "エネルギー変換機ＥＸ"
-msgstr "Energy Diverter EX"
+msgid "エネルギー変換機EX"
+msgstr "Energy Diverter RE"
 
 #  Korean Text: '매 라운드 일정 수치의 방어막을 얻습니다.'
 #: ShopDesc[16026].NPCDescription
@@ -4032,7 +4034,7 @@ msgstr ""
 
 #  Korean Text: '방어 역장 EX'
 #: ShopDesc[16026].ProductName
-msgid "防御力場ＥＸ"
+msgid "防御力場EX"
 msgstr "Defensive Force Field EX"
 
 #  Korean Text: '소형 정찰 드론을 띄워 다음에 출현하는 적의 정보를 얻습니다.'
@@ -4043,7 +4045,7 @@ msgstr ""
 
 #  Korean Text: '소형 정찰 드론 EX'
 #: ShopDesc[16027].ProductName
-msgid "小型偵察ドローンＥＸ"
+msgid "小型偵察ドローンEX"
 msgstr "Small Recon Drone EX"
 
 #  Korean Text: '기동형 보호기 전용 OS입니다. 라운드 개시 시, 회피 증가 효과가 적용된 상태면 1회 피격에 한해 받는 피해가 감소합니다.'
@@ -4063,7 +4065,7 @@ msgstr ""
 
 #  Korean Text: '망원 조준장치 EX'
 #: ShopDesc[16029].ProductName
-msgid "望遠照準装置ＥＸ"
+msgid "望遠照準装置EX"
 msgstr "Telescoping Sights EX"
 
 #  Korean Text: '전투 시작 시, 행동력이 증가합니다. 행동 불능 시, 1회에 한해 일정 HP를 가지고 전투를 속행합니다.'
@@ -4073,12 +4075,12 @@ msgstr ""
 
 #  Korean Text: '전투 자극제 EX'
 #: ShopDesc[16030].ProductName
-msgid "戦闘刺激剤ＥＸ"
+msgid "戦闘刺激剤EX"
 msgstr "Combat Stimulant EX"
 
 #  Korean Text: '더미 홀로그램 EX'
 #: ShopDesc[16031].ProductName
-msgid "ダミーホログラムＥＸ"
+msgid "ダミーホログラムEX"
 msgstr "Dummy Hologram EX"
 
 #  Korean Text: '콘스탄챠의 윈체스터 라이플 전용 특수 탄환입니다.'
@@ -4128,7 +4130,7 @@ msgstr "Reduces the force of fire attacks with heat-resistant coating."
 
 #  Korean Text: '내열 코팅 EX'
 #: ShopDesc[16036].ProductName
-msgid "耐熱コーティングＥＸ"
+msgid "耐熱コーティングEX"
 msgstr "Heat-Resistant Coating EX"
 
 #  Korean Text: '내한 코팅으로 냉기 속성 공격의 위력을 낮춥니다.'
@@ -4138,7 +4140,7 @@ msgstr "Reduces the power of cold-induced attacks with an airtight coating."
 
 #  Korean Text: '내한 코팅 EX'
 #: ShopDesc[16037].ProductName
-msgid "耐寒コーティングＥＸ"
+msgid "耐寒コーティングEX"
 msgstr "Cold-Resistant Coating EX"
 
 #  Korean Text: '내전 코팅으로 전기 속성 공격의 위력을 낮춥니다.'
@@ -4148,7 +4150,7 @@ msgstr "Reduces the power of electrical attacks with a shock-resistant coating."
 
 #  Korean Text: '내전 코팅 EX'
 #: ShopDesc[16038].ProductName
-msgid "耐電コーティングＥＸ"
+msgid "耐電コーティングEX"
 msgstr "Shock-Resistant Coating EX"
 
 #  Korean Text: '소완이 만든 맛이 뛰어난 휴대용 도시락 팩입니다. 바이오로이드가 장착 시, 이로운 효과를 얻습니다.'
@@ -4259,7 +4261,7 @@ msgstr ""
 
 #  Korean Text: '장비 개량용 칩셋 MP'
 #: ShopDesc[16902].ProductName
-msgid "装備改良用チップセットＭＰ"
+msgid "装備改良用チップセットMP"
 msgstr "Gear Enhancement Chip MP"
 
 #  Korean Text: '장비 강화에 사용 시 높은 강화 포인트를 제공하는 칩셋입니다.'
@@ -4270,7 +4272,7 @@ msgstr ""
 
 #  Korean Text: '장비 개량용 칩셋 SP'
 #: ShopDesc[16903].ProductName
-msgid "装備改良用チップセットＳＰ"
+msgid "装備改良用チップセットSP"
 msgstr "Gear Enhancement Chip SP"
 
 #  Korean Text: '장비 강화에 사용 시 매우 높은 강화 포인트를 제공하는 칩셋입니다.'
@@ -4282,7 +4284,7 @@ msgstr ""
 
 #  Korean Text: '장비 개량용 칩셋 EX'
 #: ShopDesc[16904].ProductName
-msgid "装備改良用チップセットＥＸ"
+msgid "装備改良用チップセットEX"
 msgstr "Gear Enhancement Chip EX"
 
 #  Korean Text: '교환소에서 사용할 수 있는 특수 티켓입니다.'

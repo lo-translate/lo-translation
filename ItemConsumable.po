@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-08-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -3297,7 +3297,7 @@ msgstr "Midsummer Fairy"
 
 #  Korean Text: '레아용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_3P_Rhea_1].ItemDesc
-msgid "レア用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "レア用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 레아'
@@ -3425,7 +3425,7 @@ msgstr "Midsummer Royal"
 
 #  Korean Text: '달의 모모 변신 코스튬과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_DS_MoMo_1].ItemDesc
-msgid "月のモモ変身コスチュームと手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "月のモモ変身コスチュームと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 모모'
@@ -3435,7 +3435,7 @@ msgstr "Magical Rabbit Momo"
 
 #  Korean Text: '캐럴용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_PECS_Carolina_1].ItemDesc
-msgid "キャロル用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "キャロル用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 캐럴'
@@ -3465,7 +3465,7 @@ msgstr "Midsummer Part-timer"
 
 #  Korean Text: '트리아이나용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_PECS_Triaina_1].ItemDesc
-msgid "ニュートリアイナ用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "ニュートリアイナ用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 트리아이나'
@@ -3740,10 +3740,8 @@ msgid "ミホのチョコレート工場パック"
 msgstr "Miho's Apron Pack"
 
 #: ItemConsumable[Shop_Package_Skin_BR_Neodym_2].ItemDesc
-msgid "ネオディム用の乗務員制服と手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "ネオディム用の乗務員制服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
-"A pack containing a crew uniform for Neodim, 1 handmade cake, 2 chocolates "
-"and 3 synthetic lollipops."
 
 #: ItemConsumable[Shop_Package_Skin_BR_Neodym_2].ItemName
 msgid "特級機内サービス"
@@ -3863,7 +3861,7 @@ msgstr "Werewolf's Modern Captain Costume Pack"
 
 #  Korean Text: '브라우니용 하계 전투복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_Brownie_01].ItemDesc
-msgid "ブラウニー用夏季戦闘服と手作りケーキ1個、チョコレート2個、合成ロリポップ3個が入ったパックです。"
+msgid "ブラウニー用夏季戦闘服と手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '브라우니용 하계 전투복 팩'
