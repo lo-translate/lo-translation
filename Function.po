@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -359,6 +359,10 @@ msgstr "Given Bloodstained Leona"
 #: Function[CharTicket_Char_BR_Leprechaun_N].Desc
 msgid "T-3 레프리콘을 지급합니다"
 msgstr "Given T-3 Leprechaun"
+
+#: Function[CharTicket_Char_BR_Lindwurm_N].Desc
+msgid "P-29 린트블룸을 지급합니다"
+msgstr "Given P-29 Lindwurm"
 
 #: Function[CharTicket_Char_BR_Marie_N].Desc
 msgid "불굴의 마리을 지급합니다"

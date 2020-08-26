@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-18 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1075,7 +1075,7 @@ msgstr "Miho's Apron Pack"
 
 #  Korean Text: '모든 자원이 1500+750개 들어있습니다.'
 #: ShopDesc[106].NPCDescription
-msgid "全ての資源 2250個(内ボーナス1600個)が入っています。"
+msgid "全ての資源2250個(内ボーナス1600個)が入っています。"
 msgstr "Contains 2250 of all resources (1600 are bonus)."
 
 #  Korean Text: '자원 1500+750개'
@@ -1085,7 +1085,7 @@ msgstr "1500+750 of all resources"
 
 #  Korean Text: '모든 자원이 3000+1500개 들어있습니다.'
 #: ShopDesc[107].NPCDescription
-msgid "全ての資源 4500個(内ボーナス3300個)が入っています。"
+msgid "全ての資源4500個(内ボーナス3300個)が入っています。"
 msgstr "Contains 4500 of all resources (3300 are bonus)."
 
 #  Korean Text: '자원 3000+1500개'
@@ -1095,7 +1095,7 @@ msgstr "3000+1500 of all resources"
 
 #  Korean Text: '모든 자원이 5000+2500개 들어있습니다.'
 #: ShopDesc[108].NPCDescription
-msgid "全ての資源 7500個(内ボーナス5650個)が入っています。"
+msgid "全ての資源7500個(内ボーナス5650個)が入っています。"
 msgstr "Contains 7500 of all resources (5650 are bonus)."
 
 #  Korean Text: '자원 5000+2500개'
@@ -1105,7 +1105,7 @@ msgstr "5000+2500 of all resources"
 
 #  Korean Text: '모든 자원이 10000+5000개 들어있습니다.'
 #: ShopDesc[109].NPCDescription
-msgid "全ての資源 15000個(内ボーナス11400個)が入っています。"
+msgid "全ての資源15000個(内ボーナス11400個)が入っています。"
 msgstr "Contains 15000 of all resources (11400 are bonus)."
 
 #  Korean Text: '자원 10000+5000개'
@@ -1115,7 +1115,7 @@ msgstr "10000+5000 of all resources"
 
 #  Korean Text: '모든 자원이 30000+15000개 들어있습니다.'
 #: ShopDesc[110].NPCDescription
-msgid "全ての資源 45000個(内ボーナス35000個)が入っています。"
+msgid "全ての資源45000個(内ボーナス35000個)が入っています。"
 msgstr "Contains 45000 of all resources (35000 are bonus)."
 
 #  Korean Text: '자원 30000+15000개'
@@ -1125,7 +1125,7 @@ msgstr "30000+15000 of all resources"
 
 #  Korean Text: '모든 자원이 50000+25000개 들어있습니다.'
 #: ShopDesc[111].NPCDescription
-msgid "全ての資源 75000個(内ボーナス60500個)が入っています。"
+msgid "全ての資源75000個(内ボーナス60500個)が入っています。"
 msgstr "Contains 75000 of all resources (60500 are bonus)."
 
 #  Korean Text: '자원 50000+25000개'
@@ -3757,47 +3757,47 @@ msgstr "Veronica"
 
 #: ShopDesc[15108].ProductName
 msgid "X-00ティアマト"
-msgstr ""
+msgstr "X-00 Tiamat"
 
 #: ShopDesc[15109].ProductName
 msgid "エキドナ"
-msgstr ""
+msgstr "Echidna"
 
 #: ShopDesc[15110].ProductName
 msgid "E-16タロンフェザー"
-msgstr ""
+msgstr "E-16 Talon Feather"
 
 #: ShopDesc[15111].ProductName
 msgid "C-77レッドフード"
-msgstr ""
+msgstr "C-77 Red Hood"
 
 #: ShopDesc[15112].ProductName
 msgid "金襴S7"
-msgstr ""
+msgstr "KeumRan S7"
 
 #: ShopDesc[15113].ProductName
 msgid "補贖のマリア"
-msgstr ""
+msgstr "Maria of Redemption"
 
 #: ShopDesc[15114].ProductName
 msgid "P-22ハルフェイア"
-msgstr ""
+msgstr "P-22 Harpyia"
 
 #: ShopDesc[15115].ProductName
 msgid "スパトイア"
-msgstr ""
+msgstr "Spartoia"
 
 #: ShopDesc[15116].ProductName
 msgid "アイアンアニー"
-msgstr ""
+msgstr "Iron Annie"
 
 #: ShopDesc[15117].ProductName
 msgid "ババリアナ"
-msgstr ""
+msgstr "Babariana"
 
 #: ShopDesc[15118].ProductName
 msgid "ロイヤルアスナル"
-msgstr ""
+msgstr "Royal Arsenal"
 
 #  Korean Text: '출력을 강화해 공격력을 높입니다.'
 #: ShopDesc[16001].NPCDescription
@@ -3876,7 +3876,7 @@ msgstr "Optimization Circuit EX"
 
 #  Korean Text: '공격, 방어, 적중, 회피를 올려주는 표준형 전투 OS입니다. 해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다.'
 #: ShopDesc[16009].NPCDescription
-msgid "攻撃、防御、的中、回避を上昇させる標準型戦闘OSです。該当のOSの効果はスキル不可効果発動に必要な条件を満足させます。"
+msgid "攻撃、防御、的中、回避を上昇させる標準型戦闘OSです。該当のOSの効果はスキル付加効果発動に必要な条件を満足させます。"
 msgstr ""
 "Standard battle OS for attack, defense, accuracy, and evasion. The effects of "
 "the OS can satisfy the conditions required to activate skill add-on effects."
@@ -4025,7 +4025,7 @@ msgstr ""
 #  Korean Text: '에너지 전환기 RE'
 #: ShopDesc[16025].ProductName
 msgid "エネルギー変換機EX"
-msgstr "Energy Diverter RE"
+msgstr "Energy Diverter EX"
 
 #  Korean Text: '매 라운드 일정 수치의 방어막을 얻습니다.'
 #: ShopDesc[16026].NPCDescription
@@ -4548,7 +4548,7 @@ msgstr "Battle Suit (Constantia)"
 
 #  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 특히 열정적인 브라우니에겐 더욱.'
 #: ShopDesc[17135].NPCDescription
-msgid "夏にはもう少し涼しい戦闘服がいいでしょう。特に熱情のブラウニーならもっと。"
+msgid "夏にはもう少し涼しい戦闘服がいいでしょう。いつもより元気いっぱいのブラウニーなら特に。"
 msgstr ""
 "In summer you need cooler combat suits. Especially for passionate Brownies."
 

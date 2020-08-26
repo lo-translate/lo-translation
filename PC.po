@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -31,6 +31,10 @@ msgstr ""
 #: PC[Char_3P_Alice_N].Name
 msgid "セラピアス･アリス"
 msgstr "Alice"
+
+#: PC[Char_3P_Annie_N].Name
+msgid "アイアンアニー"
+msgstr "Iron Annie"
 
 #  Korean Text: '안녕? 주인님? 아쿠아가 해충들을 없애버리러 왔어!'
 #: PC[Char_3P_Aqua_N].DialogJoin
@@ -121,6 +125,14 @@ msgstr ""
 #: PC[Char_3P_Labiata_N].Name
 msgid "ラビアタプロトタイプ"
 msgstr "Labiata"
+
+#: PC[Char_3P_Maria_N].Name
+msgid "補贖のマリア"
+msgstr "Maria of Redemption"
+
+#: PC[Char_3P_Ran_N].Name
+msgid "金襴S7"
+msgstr "KeumRan S7"
 
 #  Korean Text: '레아가 왔어요. 자, 제 자매들은 어디 있나요?'
 #: PC[Char_3P_Rhea_N].DialogJoin
@@ -224,13 +236,13 @@ msgstr "Variable Fallen"
 
 #  Korean Text: '포트리스 합류합니다.'
 #: PC[Char_AGS_Fortress_N].DialogJoin
-msgid "フォトリス合流します。"
+msgid "フォトレス合流します。"
 msgstr ""
 
 #  Korean Text: '포트리스'
 #: PC[Char_AGS_Fortress_N].Name
-msgid "フォートレス"
-msgstr "Fortress"
+msgid "CT103フォトレス"
+msgstr "CT-103 Fortress"
 
 #  Korean Text: '기간테스. 합류.'
 #: PC[Char_AGS_Gigantes_N].DialogJoin
@@ -427,6 +439,11 @@ msgstr ""
 msgid "ドクター"
 msgstr "Doctor"
 
+#  Korean Text: '에키드나'
+#: PC[Char_BR_Echidna_N].Name
+msgid "エキドナ"
+msgstr "Echidna"
+
 #  Korean Text: '하아암… 응? 누구… 아! 이제 아군될 친구들이구나…'
 #: PC[Char_BR_Efreeti_N].DialogJoin
 msgid "ふあ～。…ん？誰…？あ、新しい仲間だね。"
@@ -466,6 +483,10 @@ msgstr ""
 #: PC[Char_BR_Gremlin_N].Name
 msgid "T-9グレムリン"
 msgstr "T-9 Gremlin"
+
+#: PC[Char_BR_Harpy_N].Name
+msgid "P-22ハルフェイア"
+msgstr "P-22 Harpyia"
 
 #  Korean Text: '아, 동지가 왔네? 모두 화려하게 터지는 거 좋아해?'
 #: PC[Char_BR_Impet_N].DialogJoin
@@ -520,7 +541,7 @@ msgstr "T-3 Leprechaun"
 
 #  Korean Text: '네~! 가장 귀여운 바이오로이드를 찾으셨어요?'
 #: PC[Char_BR_Lindwurm_N].DialogJoin
-msgid "はい～!一番可愛いバイオロイドをお探しですか?"
+msgid "お待たせ～！一番可愛いバイオロイドをお探しですか？"
 msgstr ""
 
 #  Korean Text: 'P-29 린트블룸'
@@ -673,6 +694,14 @@ msgstr "Quick Camel"
 msgid "AO-2レイヴン"
 msgstr "AO-2 Raven"
 
+#: PC[Char_BR_RedHood_N].Name
+msgid "C-77レッドフード"
+msgstr "C-77 Red Hood"
+
+#: PC[Char_BR_RoyalArsenal_N].Name
+msgid "ロイヤルアスナル"
+msgstr "Royal Arsenal"
+
 #  Korean Text: '여기에 모여 있었군요. GS-10 생존 신고합니다.'
 #: PC[Char_BR_SandMan_N].DialogJoin
 msgid "ここに集まっていたんですね。 GS10、生存申告いたします。"
@@ -743,6 +772,10 @@ msgstr ""
 msgid "P-18シルフィード"
 msgstr "P-18 Sylphid"
 
+#: PC[Char_BR_TalonFeather_N].Name
+msgid "E-16タロンフェザー"
+msgstr "E-16 Talon Feather"
+
 #  Korean Text: '자, 친구 토모가 왔어! 완전 좋지?'
 #: PC[Char_BR_Tomoe_N].DialogJoin
 msgid "やほ～！みんなの友達、トモちゃん参上っ！マジヤバでしょ？"
@@ -812,6 +845,11 @@ msgstr ""
 #: PC[Char_Core_Special_N].Name
 msgid "特殊代用コア"
 msgstr "Special Proxy Core"
+
+#  Korean Text: '폐하를 모시게되어 영광입니다.'
+#: PC[Char_DS_Arman_N].DialogJoin
+msgid "陛下にお仕えできて光栄です。"
+msgstr "It is an honor to serve you, Your Majesty."
 
 #  Korean Text: '아르망'
 #: PC[Char_DS_Arman_N].Name
@@ -1113,6 +1151,10 @@ msgstr ""
 msgid "オードリードリームウィーバー"
 msgstr "Audrey"
 
+#: PC[Char_PECS_Babariana_N].Name
+msgid "ババリアナ"
+msgstr "Babariana"
+
 #  Korean Text: '신호가 약한곳이 여기군요?'
 #: PC[Char_PECS_BS_N].DialogJoin
 msgid "ここは通信が安定しませんね…。"
@@ -1273,6 +1315,10 @@ msgstr ""
 msgid "フロストサーペント"
 msgstr "Frost Serpent"
 
+#: PC[Char_PECS_Spartoia_N].Name
+msgid "スパトイア"
+msgstr "Spartoia"
+
 #  Korean Text: '파괴, 돌파 임무 가능합니다.'
 #: PC[Char_PECS_Stinger_N].DialogJoin
 msgid "破壊、突破任務可能です。"
@@ -1327,3 +1373,8 @@ msgstr ""
 #: PC[Char_ST_Lancer_N].Name
 msgid "ランサーミナ"
 msgstr "Lancer Mina"
+
+#  Korean Text: 'X-00 티아맷'
+#: PC[Char_ST_Tiamat_N].Name
+msgid "X-00ティアマト"
+msgstr "X-00 Tiamat"

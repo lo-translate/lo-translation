@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -583,6 +583,17 @@ msgstr ""
 #: CharSkin[Skin_BR_WarWolf_1].SkinName
 msgid "バッカニア・シーウルフ"
 msgstr "Buccaneer Sea Wolf"
+
+#  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 특히 열정적인 브라우니에겐 더욱.'
+#: CharSkin[Skin_Brownie_01].SkinDesc
+msgid "夏にはもう少し涼しい戦闘服がいいでしょう。いつもより元気いっぱいのブラウニーなら特に。"
+msgstr ""
+"In summer you need cooler combat suits. Especially for passionate Brownies."
+
+#  Korean Text: '하계 전투복 브라우니'
+#: CharSkin[Skin_Brownie_01].SkinName
+msgid "夏季戦闘服ブラウニー"
+msgstr "Summer Combat Uniform Brownie"
 
 #: CharSkin[Skin_DS_Atalanta_1].SkinDesc
 msgid "普段は凛々しいアタランテですが、こんな格好ではさすがにそうはいかないようです…"

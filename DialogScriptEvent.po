@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -5811,6 +5811,11 @@ msgstr "Hachiko of Castling"
 #  Korean Text: '… …'
 #: DialogScript[DG_Ch01Ev4Stage04_2_1].Script
 msgid "……！！"
+msgstr ""
+
+#  Korean Text: '폐하!'
+#: DialogScript[DG_Ch01Ev4Stage05_1_18].Script
+msgid "陛下!!"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev4Stage07_1_1].BG_Name

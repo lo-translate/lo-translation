@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -24,7 +24,7 @@ msgstr "Attack +{0}%"
 
 #  Korean Text: '버프/디버프 효과 Lv+{0}'
 #: CoreLinkBonus[Core_Bonus_Buff_2].CoreLink_Bonus_String
-msgid "バフ／デバフ効果Lv+{0}"
+msgid "バフ/デバフ効果Lv+{0}"
 msgstr "Buff / Debuff Effect Lv +{0}"
 
 #  Korean Text: '출격 비용-{0}%'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -406,7 +406,7 @@ msgstr ""
 
 #  Korean Text: '요인 경호 (자버프 더미)'
 #: Skill[Skill_3P_BlackLilith_N_11].SkillName
-msgid "要人警護(ジャバフのダミー)"
+msgid "要人警護(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '요인 경호 (공격력 더미)'
@@ -421,7 +421,7 @@ msgstr ""
 
 #  Korean Text: '피학성향 (뎀감 더미)'
 #: Skill[Skill_3P_BlackLilith_N_14].SkillName
-msgid "マゾヒズム(デムガムのダミー)"
+msgid "マゾヒズム(デムガムダミー)"
 msgstr ""
 
 #  Korean Text: '듀얼 버스트 (피해량 더미)'
@@ -457,6 +457,11 @@ msgstr ""
 #  Korean Text: '요인 경호 (아군 적중 더미)'
 #: Skill[Skill_3P_BlackLilith_N_21].SkillName
 msgid "要人警護(味方命中ダミー)"
+msgstr ""
+
+#  Korean Text: '스토킹 (적중 감소 더미)'
+#: Skill[Skill_3P_BlackLilith_N_22].SkillName
+msgid "ストーキング(命中減少ダミー)"
 msgstr ""
 
 #  Korean Text: '라이플을 발사해 {0} 피해를 줍니다. 이동 불가 대상인 경우, 정밀 사격으로 피해량이 증가합니다.'
@@ -620,7 +625,7 @@ msgstr ""
 
 #  Korean Text: '손 빌려주기'
 #: Skill[Skill_3P_CSPerrault_N_5].SkillName
-msgid "猫の手を貸す"
+msgid "救いの手"
 msgstr ""
 
 #  Korean Text: '단분자 클로 (추가 피해 더미)'
@@ -630,7 +635,7 @@ msgstr ""
 
 #  Korean Text: '호위 지정 (AP 증가 더미)'
 #: Skill[Skill_3P_CSPerrault_N_12].SkillName
-msgid "護衛指定(APアップダミー)"
+msgid "護衛指定(AP増加ダミー)"
 msgstr ""
 
 #  Korean Text: '유연성 (HP 25% 이하 더미)'
@@ -645,7 +650,7 @@ msgstr ""
 
 #  Korean Text: '손 빌려주기 (더미)'
 #: Skill[Skill_3P_CSPerrault_N_15].SkillName
-msgid "猫の手を貸す(ダミー)"
+msgid "救いの手(ダミー)"
 msgstr ""
 
 #  Korean Text: '마이크로 페어리로 대상을 부식시켜 {0} 피해를 주고, 3라운드 동안 방어력 / 행동력 감소 / 지속 고정 피해를 입는 상태로 만듭니다 (최대 3 중첩). 해당 효과 중첩 적용 시, 기본 공격력에 비례한 고정 피해를 입으며 받는 피해가 증가합니다.'
@@ -754,7 +759,7 @@ msgstr ""
 
 #  Korean Text: '지정 범위 {0} 피해. 치명타 시, 피해량 증가. 자신 HP 낮을수록 위력 증가'
 #: Skill[Skill_3P_Fenrir_N_2].SkillDescriptionSimple
-msgid "指定範囲{0} ダメージ。クリティカル時、ダメージ増加/ 自分HPが低いほどダメージ量増加"
+msgid "指定範囲{0}ダメージ。クリティカル時、ダメージ増加/自分HPが低いほどダメージ量増加"
 msgstr ""
 
 #  Korean Text: '글레이프닐 해제'
@@ -764,7 +769,7 @@ msgstr ""
 
 #  Korean Text: '전투 개시 시, 열 보호와 전투 속행 효과가 활성화되며, 자신이 적 처치 시 AP가 증가합니다.'
 #: Skill[Skill_3P_Fenrir_N_3].SkillDescription
-msgid "戦闘開始時、列保護と戦闘続行効果が発動し、自分が敵を倒した時APが増加します。"
+msgid "戦闘開始時、列保護と戦闘続行効果が発動し、自分が敵撃破時、APが増加します。"
 msgstr ""
 
 #  Korean Text: '열 보호 / 전투 속행. 적 처치 시, AP 증가'
@@ -784,7 +789,7 @@ msgstr ""
 
 #  Korean Text: '공격력 / 받는 피해 감소. HP 50% 이하 시, 효과 증가'
 #: Skill[Skill_3P_Fenrir_N_4].SkillDescriptionSimple
-msgid "攻撃力/ 受けるダメージ減少/ HP50％以下の時、 効果増加"
+msgid "攻撃力/受けるダメージ減少/HP50％以下の時、 効果増加"
 msgstr ""
 
 #  Korean Text: '야성 본능'
@@ -794,12 +799,12 @@ msgstr ""
 
 #  Korean Text: '피격 시, AP가 증가하며 반격합니다. 전투 속행 발동 시, 회피가 증가하며 방어막 / 피해 감소 효과를 무시하지만 열 보호가 해제됩니다.'
 #: Skill[Skill_3P_Fenrir_N_5].SkillDescription
-msgid "ダメージを受けた時、APが増加し反撃します。戦闘続行時、回避率が増加しバリア/ダメージ減少効果を無視しますが列保護が解除されます。"
+msgid "被撃時、APが増加し反撃します。戦闘続行時、回避率が増加しバリア/ダメージ減少効果を無視しますが列保護が解除されます。"
 msgstr ""
 
 #  Korean Text: '피격 시, AP 증가 / 반격. 전투 속행 시, 방어막 / 피해 감소 무시 / 회피 증가'
 #: Skill[Skill_3P_Fenrir_N_5].SkillDescriptionSimple
-msgid "攻撃を受けた時、AP 増加/ 反撃。 敵撃破時の時、バリア/ダメージ減少無視/回避率増加"
+msgid "被撃時、AP 増加/反撃。 敵撃破時の時、バリア/ダメージ減少無視/回避率増加"
 msgstr ""
 
 #  Korean Text: '배로 갚아주마!'
@@ -978,7 +983,7 @@ msgstr ""
 
 #  Korean Text: '은혜 갚기 (받는 피해 감소)'
 #: Skill[Skill_3P_Hachiko_N_11].SkillName
-msgid "恩返し(受ける被害ダウン)"
+msgid "恩返し(受ける被害減少)"
 msgstr ""
 
 #  Korean Text: '경비 모드! (반격)'
@@ -988,7 +993,7 @@ msgstr ""
 
 #  Korean Text: '불굴의 의지 (방어력 증가)'
 #: Skill[Skill_3P_Hachiko_N_13].SkillName
-msgid "不屈の意志(防御力アップ)"
+msgid "不屈の意志(防御力増加)"
 msgstr ""
 
 #  Korean Text: '리볼버 캐논 (도발 더미)'
@@ -998,7 +1003,7 @@ msgstr ""
 
 #  Korean Text: '경비 모드! (행동력 증가)'
 #: Skill[Skill_3P_Hachiko_N_15].SkillName
-msgid "警備モード!(行動力アップ)"
+msgid "警備モード!(行動力増加)"
 msgstr ""
 
 #  Korean Text: '대검을 휘둘러 {0} 피해를 줍니다. 플라즈마 제네레이터가 1 충전됩니다. 충전 당 공격력이 증가하며, 최대 3개 까지 충전됩니다.'
@@ -1150,7 +1155,7 @@ msgstr ""
 
 #  Korean Text: '공격할 때 가끔 공격력이 대폭 증가하며, 공격 받을 땐 드물게 최소 피해만 받습니다. 스킬 레벨이 오를수록 발동 확률이 증가합니다.'
 #: Skill[Skill_3P_Rhea_N_5].SkillDescription
-msgid "攻撃時、一定確率で攻撃力が大幅に増加し、攻撃を受けた時、一定確率でダメージを最小化します。スキルレベルが上がるほど発動確率が増加します。"
+msgid "攻撃時、一定確率で攻撃力が大幅に増加し、被撃時、一定確率でダメージを最小化します。スキルレベルが上がるほど発動確率が増加します。"
 msgstr ""
 
 #  Korean Text: '공격 시, 일정 확률로 공격력 증가 / 공격 받을 시, 일정 확률로 최소 피해'
@@ -1604,7 +1609,7 @@ msgstr ""
 
 #  Korean Text: '라이트닝 태클 (침수용 더미)'
 #: Skill[Skill_AGS_Albatross_N_12].SkillName
-msgid "ライトニングタックル(浸水用のダミー)"
+msgid "ライトニングタックル(浸水用ダミー)"
 msgstr ""
 
 #  Korean Text: '0'
@@ -1619,7 +1624,7 @@ msgstr ""
 
 #  Korean Text: '레이더 관제 (회피 증가 더미)'
 #: Skill[Skill_AGS_Albatross_N_14].SkillName
-msgid "レーダー管制(回避のアップダミー)"
+msgid "レーダー管制(回避増加ダミー)"
 msgstr ""
 
 #  Korean Text: '레이더 관제 (보호 더미)'
@@ -1666,7 +1671,7 @@ msgstr ""
 
 #  Korean Text: '대 장갑 진동탄 (피해 감소 무효)'
 #: Skill[Skill_AGS_Fallen_N_11].SkillName
-msgid "対装甲振動弾(被害ダウン無効)"
+msgid "対装甲振動弾(被害減少無効)"
 msgstr ""
 
 #  Korean Text: '대 장갑 진동탄 (10렙)'
@@ -1701,107 +1706,107 @@ msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.1)'
 #: Skill[Skill_AGS_FallenTT_N_11].SkillName
-msgid "ワクチン処理用のダミー(Lv.1)"
+msgid "ワクチン処理用ダミー(Lv.1)"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.2)'
 #: Skill[Skill_AGS_FallenTT_N_12].SkillName
-msgid "ワクチン処理用のダミー（Lv.2）"
+msgid "ワクチン処理用ダミー（Lv.2）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.3)'
 #: Skill[Skill_AGS_FallenTT_N_13].SkillName
-msgid "ワクチン処理用のダミー（Lv.3）"
+msgid "ワクチン処理用ダミー（Lv.3）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.4)'
 #: Skill[Skill_AGS_FallenTT_N_14].SkillName
-msgid "ワクチン処理用のダミー（Lv.4）"
+msgid "ワクチン処理用ダミー（Lv.4）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.5)'
 #: Skill[Skill_AGS_FallenTT_N_15].SkillName
-msgid "ワクチン処理用のダミー（Lv.5）"
+msgid "ワクチン処理用ダミー（Lv.5）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.6)'
 #: Skill[Skill_AGS_FallenTT_N_16].SkillName
-msgid "ワクチン処理用のダミー（Lv.6）"
+msgid "ワクチン処理用ダミー（Lv.6）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.7)'
 #: Skill[Skill_AGS_FallenTT_N_17].SkillName
-msgid "ワクチン処理用のダミー（Lv.7）"
+msgid "ワクチン処理用ダミー（Lv.7）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.8)'
 #: Skill[Skill_AGS_FallenTT_N_18].SkillName
-msgid "ワクチン処理用のダミー（Lv.8）"
+msgid "ワクチン処理用ダミー（Lv.8）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.9)'
 #: Skill[Skill_AGS_FallenTT_N_19].SkillName
-msgid "ワクチン処理用のダミー（Lv.9）"
+msgid "ワクチン処理用ダミー（Lv.9）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.10)'
 #: Skill[Skill_AGS_FallenTT_N_20].SkillName
-msgid "ワクチン処理用のダミー（Lv.10）"
+msgid "ワクチン処理用ダミー（Lv.10）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.11)'
 #: Skill[Skill_AGS_FallenTT_N_21].SkillName
-msgid "ワクチン処理用のダミー（Lv.11）"
+msgid "ワクチン処理用ダミー（Lv.11）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.12)'
 #: Skill[Skill_AGS_FallenTT_N_22].SkillName
-msgid "ワクチン処理用のダミー（Lv.12）"
+msgid "ワクチン処理用ダミー（Lv.12）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.13)'
 #: Skill[Skill_AGS_FallenTT_N_23].SkillName
-msgid "ワクチン処理用のダミー（Lv.13）"
+msgid "ワクチン処理用ダミー（Lv.13）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.14)'
 #: Skill[Skill_AGS_FallenTT_N_24].SkillName
-msgid "ワクチン処理用のダミー（Lv.14）"
+msgid "ワクチン処理用ダミー（Lv.14）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.15)'
 #: Skill[Skill_AGS_FallenTT_N_25].SkillName
-msgid "ワクチン処理用のダミー（Lv.15）"
+msgid "ワクチン処理用ダミー（Lv.15）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.16)'
 #: Skill[Skill_AGS_FallenTT_N_26].SkillName
-msgid "ワクチン処理用のダミー（Lv.16）"
+msgid "ワクチン処理用ダミー（Lv.16）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.17)'
 #: Skill[Skill_AGS_FallenTT_N_27].SkillName
-msgid "ワクチン処理用のダミー（Lv.17）"
+msgid "ワクチン処理用ダミー（Lv.17）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.18)'
 #: Skill[Skill_AGS_FallenTT_N_28].SkillName
-msgid "ワクチン処理用のダミー（Lv.18）"
+msgid "ワクチン処理用ダミー（Lv.18）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.19)'
 #: Skill[Skill_AGS_FallenTT_N_29].SkillName
-msgid "ワクチン処理用のダミー（Lv.19）"
+msgid "ワクチン処理用ダミー（Lv.19）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.20)'
 #: Skill[Skill_AGS_FallenTT_N_30].SkillName
-msgid "ワクチン処理用のダミー（Lv.20）"
+msgid "ワクチン処理用ダミー（Lv.20）"
 msgstr ""
 
 #  Korean Text: '백신 처리용 더미 (Lv.21)'
 #: Skill[Skill_AGS_FallenTT_N_31].SkillName
-msgid "ワクチン処理用のダミー（Lv.21）"
+msgid "ワクチン処理用ダミー（Lv.21）"
 msgstr ""
 
 #  Korean Text: '기관총을 발사해 {0} 피해를 주고 이동 불가 상태로 만듭니다.'
@@ -1896,7 +1901,7 @@ msgstr ""
 
 #  Korean Text: '방어력이 증가하며, 받는 피해가 감소하고 행 보호가 활성화됩니다. 해당 상태에서는 이동할 수 없습니다. 대기 시, 이동형 모드로 변형합니다.'
 #: Skill[Skill_AGS_Fortress_CH_3].SkillDescription
-msgid "防御力が増加し、受けるダメージが減少し行保護が有効になります。該当の状態では移動できません。待機時、持ち運びに便利なモードに変形します。"
+msgid "防御力が増加し、受けるダメージが減少し行保護が有効になります。該当の状態では移動できません。待機時、移動可能モードへと変形します。"
 msgstr ""
 
 #  Korean Text: '행 보호 / 방어력 증가 / 받는 피해 감소 / 대기 시 이동형 모드 변형'
@@ -1952,8 +1957,8 @@ msgstr ""
 #  Korean Text: '자신과 같은 행 뒤쪽에 배치된 아군을 지정 보호하며, 자신은 방어력이 증가합니다. 대기 시, 고정형 모드로 변형해 스킬이 변경되어 받는 피해가 감소하며 행 보호가 활성화됩니다.'
 #: Skill[Skill_AGS_Fortress_N_3].SkillDescription
 msgid ""
-"自分と同じ行の後方に配置された味方を指定保護し、自分は防御力が増加します。待機時、固定モードに変形してスキルが変更されて受けるダメージが減少し、行保護が有効"
-"になります。"
+"自分と同じ行の後方に配置された味方を指定保護し、自分は防御力が増加します。待機時、固定モードに変形してスキルが変化し受けるダメージが減少します。\n"
+"また、行保護が有効になりますが、移動不可状態となります。"
 msgstr ""
 
 #  Korean Text: '범위 내 아군 지정 보호 / 방어력 증가 / 대기 시 고정형 모드 변형'
@@ -1968,7 +1973,7 @@ msgstr ""
 
 #  Korean Text: '이동형 참호 (방어력 증가)'
 #: Skill[Skill_AGS_Fortress_N_11].SkillName
-msgid "移動型塹壕(防御力アップ)"
+msgid "移動型塹壕(防御力増加)"
 msgstr ""
 
 #  Korean Text: '이동형 참호 (변신 더미)'
@@ -2043,7 +2048,7 @@ msgstr ""
 
 #  Korean Text: '거점 방어 모드 (피해 감소)'
 #: Skill[Skill_AGS_Gigantes_N_12].SkillName
-msgid "拠点防御モード(ダメージダウン)"
+msgid "拠点防御モード(ダメージ減少)"
 msgstr ""
 
 #  Korean Text: '거점 방어 모드 (효과 저항)'
@@ -2058,7 +2063,7 @@ msgstr ""
 
 #  Korean Text: '거점 방어 모드 (AP 감소)'
 #: Skill[Skill_AGS_Gigantes_N_15].SkillName
-msgid "拠点防御モード(APダウン)"
+msgid "拠点防御モード(AP減少)"
 msgstr ""
 
 #  Korean Text: '위협 사격으로 {0} 피해를 주고, 2라운드 동안 대상의 공격력과 적중을 낮춥니다.'
@@ -2113,7 +2118,7 @@ msgstr ""
 
 #  Korean Text: '목표 호위 (피해 감소 더미)'
 #: Skill[Skill_AGS_Rampart_N_11].SkillName
-msgid "目標護衛(被害ダウンのダミー)"
+msgid "目標護衛(被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '시민 호위 (AP 더미)'
@@ -2241,7 +2246,7 @@ msgstr ""
 
 #  Korean Text: '전자기 유도 (회피 감소 더미)'
 #: Skill[Skill_AGS_Roc_N_19].SkillName
-msgid "電磁気誘導(回避ダウンダミー)"
+msgid "電磁気誘導(回避減少ダミー)"
 msgstr ""
 
 #  Korean Text: '직사 포격으로 목표 대상이 있는 열에 {0} 피해를 줍니다. 대상이 이동 불가 상태인 경우, 직격해 피해량이 증가합니다.'
@@ -2497,7 +2502,7 @@ msgstr ""
 
 #  Korean Text: '스파르탄 포메이션 (피해 감소 더미)'
 #: Skill[Skill_AGS_SpartanC_N_13].SkillName
-msgid "スパルタンフォーメーション(被害ダウンダミー)"
+msgid "スパルタンフォーメーション(被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '스파르탄 포메이션 (행동력 더미)'
@@ -2638,7 +2643,7 @@ msgstr "Deploy Large Shield (Counterattack)"
 
 #  Korean Text: '진압 개시 (Ap 증가)'
 #: Skill[Skill_BR_AS12TurtleDragon_N_12].SkillName
-msgid "鎮圧開始(Apアップ)"
+msgid "鎮圧開始(AP増加)"
 msgstr ""
 
 #  Korean Text: '전원 돌격! (공 버프)'
@@ -2846,7 +2851,7 @@ msgstr ""
 
 #  Korean Text: '기총 점사 (적중 감소 더미)'
 #: Skill[Skill_BR_Blackhound_N_14].SkillName
-msgid "機銃バースト射撃(命中ダウンダミー)"
+msgid "機銃バースト射撃(命中減少ダミー)"
 msgstr ""
 
 #  Korean Text: '주포 조준 사격으로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 경장형이거나 중장형인 경우 피해량이 증가합니다. 스킬 레벨 당 +6%의 추가 적중이 적용됩니다.'
@@ -3953,7 +3958,7 @@ msgstr ""
 
 #  Korean Text: '데저트 스톰 (버프 더미)'
 #: Skill[Skill_BR_Khan_N_14].SkillName
-msgid "デザートストーム(バフのダミー)"
+msgid "デザートストーム(バフダミー)"
 msgstr ""
 
 #  Korean Text: '전투 개시 시, 자신이 맨 앞열에 배치된 상태면 경장형 아군의 AP가 증가하며 2라운드 동안 적중과 치명타가 증가합니다.'
@@ -3968,7 +3973,7 @@ msgstr ""
 
 #  Korean Text: '굶주린 늑대 (자버프 더미)'
 #: Skill[Skill_BR_Khan_N_15].SkillName
-msgid "餓狼(ジャバフダミー)"
+msgid "餓狼(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '전투 개시 시, 자신이 맨 앞열에 배치된 상태면 경장형 아군의 AP가 증가하며 3라운드 동안 적중과 치명타가 증가합니다.'
@@ -3983,7 +3988,7 @@ msgstr ""
 
 #  Korean Text: '굶주린 늑대 (자버프 더미 10렙)'
 #: Skill[Skill_BR_Khan_N_17].SkillName
-msgid "餓狼(ジャバフダミー10レベル)"
+msgid "餓狼(自分バフダミー10レベル)"
 msgstr ""
 
 #  Korean Text: '라운드 개시 시, 범위 내 아군들의 방어력 / 행동력이 증가하며 받는 피해가 감소합니다. 공격 지휘로 전환 시, 효과가 50% 감소합니다.'
@@ -4168,12 +4173,12 @@ msgstr ""
 
 #  Korean Text: '경기관총 난사 (기동 효과 더미)'
 #: Skill[Skill_BR_Leprechaun_N_11].SkillName
-msgid "軽機関銃乱射(機動効果のダミー)"
+msgid "軽機関銃乱射(機動効果ダミー)"
 msgstr ""
 
 #  Korean Text: '전열 재정비 (자버프 더미)'
 #: Skill[Skill_BR_Leprechaun_N_12].SkillName
-msgid "隊列再整備(ジャバフダミー)"
+msgid "隊列再整備(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '대공 기관포를 발사해 {0} 피해를 줍니다. 대상이 기동형이거나 표식 / 회피 감소 상태인 경우, 피해량이 증가합니다.'
@@ -4208,7 +4213,8 @@ msgstr ""
 
 #  Korean Text: '적 진영과 가까울수록 적중 / 회피가 증가합니다. 회피 시, 반격하며 공격력이 증가합니다. 공격력 증가는 최대 3회까지 중첩되며, 피격 시 해제됩니다.'
 #: Skill[Skill_BR_Lindwurm_N_3].SkillDescription
-msgid "敵陣営と近いほど命中率/回避率が増加します。回避時、反撃し攻撃力が増加します。攻撃力増加は最大3回まで重ね掛け可能で、攻撃時に解除されます。"
+msgid ""
+"敵陣営と近いほど命中率/回避率が増加します。回避時、反撃し攻撃力が増加します。攻撃力増加は最大3回まで重ね掛け可能で、攻撃を受けた時に解除されます。"
 msgstr ""
 
 #  Korean Text: '적 진영과 가까울수록 회피 / 적중 증가. 회피 시 반격 / 공격력 증가'
@@ -4287,8 +4293,8 @@ msgstr ""
 #  Korean Text: '공격 적중 시, 공격력이 증가하며 피격 시에는 방어력이 증가합니다. 각 효과는 3회까지 중첩되며, 방어력 중첩이 최대일 땐 방어력 감소와 고정 피해 효과를 해제합니다.'
 #: Skill[Skill_BR_Marie_N_3].SkillDescription
 msgid ""
-"攻撃命中時に攻撃力が増加し、攻撃を受けた時に防御力が増加します。各効果は3回まで重ね掛け可能で、防御力増加効果を3回重ね掛けした場合は防御力減少と持続固定ダ"
-"メージ効果を解除します。"
+"攻撃命中時に攻撃力が増加し、被撃時に防御力が増加します。各効果は3回まで重ね掛け可能で、防御力増加効果を3回重ね掛けした場合は防御力減少と持続固定ダメージ効"
+"果を解除します。"
 msgstr ""
 
 #  Korean Text: '공격 시, 공격력 / 피격 시, 방어력 증가. 방어력 중첩 최대 시, 추가 효과'
@@ -4584,8 +4590,8 @@ msgstr ""
 #  Korean Text: '금속 잔해를 투척해 {0} 피해를 줍니다. <잔해 수집> 수에 따라 다음 추가 효과가 발생합니다. <1개 : AP 감소> <2개 : 받는 피해 증가> <3개 : 강화 효과 해제>'
 #: Skill[Skill_BR_Neodym_N_1].SkillDescription
 msgid ""
-"金属の残骸を投擲し{0}のダメージを与えます。<残骸収集>数に応じて次の追加効果が発生します。<1個 :AP 減少> <2個 :受けるダメージ増加> "
-"<3個 : 強化効果解除>"
+"金属の残骸を投擲し{0}のダメージを与えます。<残骸収集>数に応じて次の追加効果が発生します。<1個：AP 減少> <2個：受けるダメージ増加> "
+"<3個：強化効果解除>"
 msgstr ""
 
 #  Korean Text: '단일 대상 {0} 피해. 수집한 잔해 수에 따라 방해 효과 적용'
@@ -4757,7 +4763,7 @@ msgstr ""
 
 #  Korean Text: '덤벼덤벼!'
 #: Skill[Skill_BR_Nereid_N_3].SkillName
-msgid "どんどんかかってこい!"
+msgid "かかってこい!"
 msgstr "Bring it on!"
 
 #  Korean Text: '전투 불능이 될 경우, 1회에 한해 HP를 회복하고 전투를 속행합니다. 전투 속행 효과 발동 시, 해당 전투 동안 공격력 / 치명타 / 행동력이 증가합니다.'
@@ -5270,7 +5276,7 @@ msgstr ""
 
 #  Korean Text: '포격을 난사해 지정 범위에 {0} 피해를 줍니다. 대상이 이동 불가 또는 회피 감소 상태면 피해량이 증가합니다.'
 #: Skill[Skill_BR_Phoenix_N_2].SkillDescription
-msgid "砲撃を乱射し指定の範囲に{0}のダメージを与えます。対象が移動不可または回避率減少状態の場合、ダメージ量が増加します。"
+msgid "砲撃を乱射し指定の範囲に{0}のダメージを与えます。対象が移動不可/回避率減少状態の場合、ダメージ量が増加します。"
 msgstr ""
 
 #  Korean Text: '지정 범위 {0} 피해. 이동 불가 / 회피 감소 대상 피해량 증가'
@@ -5286,8 +5292,8 @@ msgstr ""
 #  Korean Text: '공격 후, 앞 열의 범위 내에 있는 경장 / 중장형 아군의 공격을 지원 합니다. 경장형은 1라운드 / 중장형은 2라운드 동안 유지됩니다. 라운드 개시 시, 지정 대상 보호를 받는 상태인 경우 AP가 증가합니다.'
 #: Skill[Skill_BR_Phoenix_N_3].SkillDescription
 msgid ""
-"攻撃後、前の列の範囲内にいる軽装/重装型の味方の攻撃を支援します。軽装型は1ラウンド/重装型は2ラウンドの間維持されます。ラウンド開始時、保護対象として指定"
-"されている状態の場合、APが増加します。"
+"攻撃後、該当のラウンドの間、前の列の範囲内にいる軽装/重装型の味方の攻撃を支援します。ラウンド開始時、保護対象として指定されている状態の場合APが増加します"
+"。"
 msgstr ""
 
 #  Korean Text: '공격 시, 경장 / 중장형 아군 공격 지원. 지정 보호 상태면 AP 증가'
@@ -5416,7 +5422,7 @@ msgstr ""
 
 #  Korean Text: '곡예 비행 (피해 감소 더미)'
 #: Skill[Skill_BR_PoniesAnger_N_12].SkillName
-msgid "曲芸飛行(被害ダウンダミー)"
+msgid "曲芸飛行(被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '편대 호위 (지정 보호)'
@@ -5591,12 +5597,12 @@ msgstr ""
 
 #  Korean Text: '180mm 로켓포 (중장 피해 증가)'
 #: Skill[Skill_BR_QuickCamel_N_11].SkillName
-msgid "180mmロケット砲(重装被害アップ)"
+msgid "180mmロケット砲(重装被害増加)"
 msgstr ""
 
 #  Korean Text: '보병 지원 (중장 더미)'
 #: Skill[Skill_BR_QuickCamel_N_12].SkillName
-msgid "歩兵支援(重装のダミー)"
+msgid "歩兵支援(重装ダミー)"
 msgstr ""
 
 #  Korean Text: '기동간 사격 (더미)'
@@ -5648,7 +5654,7 @@ msgstr ""
 
 #  Korean Text: 'AT 미사일 (중장 더미)'
 #: Skill[Skill_BR_SandMan_N_11].SkillName
-msgid "ATミサイル(重装のダミー)"
+msgid "ATミサイル(重装ダミー)"
 msgstr ""
 
 #  Korean Text: '지상군 호위 (자버프 방어)'
@@ -5718,7 +5724,7 @@ msgstr ""
 
 #  Korean Text: '최후의 해킹 (연계 더미)'
 #: Skill[Skill_BR_Scathy_N_11].SkillName
-msgid "最後のハッキング(連携のダミー)"
+msgid "最後のハッキング(連携ダミー)"
 msgstr ""
 
 #  Korean Text: '전투 종료 시, 정보를 분석해 다음에 출현할 적의 정보를 입수합니다. 정보를 입수한 상태면 적을 물리적으로 해킹하기 좀 더 쉬워져, 공격력이 증가합니다. '
@@ -5734,7 +5740,7 @@ msgstr ""
 #  Korean Text: '대상에게 {0} 화염 속성 피해를 주고, 2라운드 동안 화염 저항 / 방어력 감소 효과를 줍니다. 대상이 표식 / 이동 불가 상태면 추가 물리 피해를 줍니다.'
 #: Skill[Skill_BR_Shirayuri_N_1].SkillDescription
 msgid ""
-"対象に{0}の火炎属性ダメージを与え、2ラウンドの間、火炎耐性/防御力ダウン効果を与えます。対象が標的/移動不可状態なら追加物理ダメージを与えます。"
+"対象に{0}の火炎属性ダメージを与え、2ラウンドの間、火炎耐性/防御力減少効果を与えます。対象が標的/移動不可状態なら追加物理ダメージを与えます。"
 msgstr ""
 
 #  Korean Text: '화시'
@@ -6117,12 +6123,12 @@ msgstr "Unstoppable Gallop"
 
 #  Korean Text: '모두 비켜랏! (후열더미)'
 #: Skill[Skill_BR_Sleipnir_N_11].SkillName
-msgid "道を開けて!(後列のダミー)"
+msgid "道を開けて!(後列ダミー)"
 msgstr ""
 
 #  Korean Text: '속도 승부야! (자버프)'
 #: Skill[Skill_BR_Sleipnir_N_12].SkillName
-msgid "スピード勝負よ!(ジャバフ)"
+msgid "スピード勝負よ!(自分バフ)"
 msgstr ""
 
 #  Korean Text: '라운드 개시 시, 일정 확률로 행동력 감소 / 회피 감소 무효'
@@ -6132,12 +6138,12 @@ msgstr ""
 
 #  Korean Text: '멈출 수 없는 질주 (회피 증가1r)'
 #: Skill[Skill_BR_Sleipnir_N_13].SkillName
-msgid "止められない疾走(回避のアップ1r)"
+msgid "止められない疾走(回避の増加1r)"
 msgstr ""
 
 #  Korean Text: '멈출 수 없는 질주 (회피 증가2r)'
 #: Skill[Skill_BR_Sleipnir_N_14].SkillName
-msgid "止められない疾走(回避のアップ2r)"
+msgid "止められない疾走(回避の増加2r)"
 msgstr ""
 
 #  Korean Text: '지정 범위 {0} 피해. 뒷 열에서 공격할수록 공격력 증가'
@@ -6276,7 +6282,7 @@ msgstr ""
 
 #  Korean Text: 'M61A2 머신건 (회피 감소 더미)'
 #: Skill[Skill_BR_Sylphid_N_11].SkillName
-msgid "M61A2マシンガン(回避のダウンのダミー)"
+msgid "M61A2マシンガン(回避の減少ダミー)"
 msgstr ""
 
 #  Korean Text: '열 추적 미사일 (회피 더미)'
@@ -6506,37 +6512,37 @@ msgstr ""
 
 #  Korean Text: '우향선회 (중장 지원)'
 #: Skill[Skill_BR_Undine_N_13].SkillName
-msgid "右方旋回(回避ダミー3)"
+msgid "右方旋回(重装支援)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (추가 킬 자버프)'
 #: Skill[Skill_BR_Undine_N_14].SkillName
-msgid "傲慢と憤怒(追加キルバフ)"
+msgid "傲慢と憤怒(追加キル自分バフ)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (자버프 공격 더미)'
 #: Skill[Skill_BR_Undine_N_15].SkillName
-msgid "傲慢と憤怒(ジャバフ攻撃ダミー)"
+msgid "傲慢と憤怒(自分バフ攻撃ダミー)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (자버프 치명 더미)'
 #: Skill[Skill_BR_Undine_N_16].SkillName
-msgid "傲慢と憤怒(ジャバフ致命ダミー)"
+msgid "傲慢と憤怒(自分バフ致命ダミー)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (자버프 적중 더미)'
 #: Skill[Skill_BR_Undine_N_17].SkillName
-msgid "傲慢と憤怒(ジャバフ命中ダミー)"
+msgid "傲慢と憤怒(自分バフ命中ダミー)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (자버프 회피 더미)'
 #: Skill[Skill_BR_Undine_N_18].SkillName
-msgid "傲慢と憤怒(ジャバフ回避ダミー)"
+msgid "傲慢と憤怒(自分バフ回避ダミー)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (자버프 행력 더미)'
 #: Skill[Skill_BR_Undine_N_19].SkillName
-msgid "傲慢と憤怒(ジャバフ幸力ダミー)"
+msgid "傲慢と憤怒(自分バフ幸力ダミー)"
 msgstr ""
 
 #  Korean Text: '2연장 리볼버 캐논 (피해량 더미)'
@@ -6561,7 +6567,7 @@ msgstr ""
 
 #  Korean Text: '오만과 분노 (아군 행력 더미)'
 #: Skill[Skill_BR_Undine_N_24].SkillName
-msgid "傲慢と憤怒(味方行力ダミー)"
+msgid "傲慢と憤怒(味方行動力ダミー)"
 msgstr ""
 
 #  Korean Text: 'F.F. 미사일 (관통 더미)'
@@ -6857,12 +6863,12 @@ msgstr "Nereid Unique Buff Lv.10"
 
 #  Korean Text: '목표 지점 대상 도발 / 적중 감소. 적중 강화 효과 해제'
 #: Skill[Skill_BUFF_AccDown20_N_1].SkillDescriptionSimple
-msgid "目標地点の対象を挑発/命中率減少、命中率強化効果を解除"
+msgid "目標地点の対象を挑発/命中減少、命中強化効果を解除"
 msgstr ""
 
 #  Korean Text: '적중 20 디버프 더미'
 #: Skill[Skill_BUFF_AccDown20_N_1].SkillName
-msgid "命中20デバフのダミー"
+msgid "命中20デバフダミー"
 msgstr ""
 
 #  Korean Text: '적중 30 디버프 더미'
@@ -6872,7 +6878,7 @@ msgstr ""
 
 #  Korean Text: '적중 강화 해제 디버프 더미'
 #: Skill[Skill_BUFF_AccOff_N_1].SkillName
-msgid "命中強化の解除デバフのダミー"
+msgid "命中強化の解除デバフダミー"
 msgstr ""
 
 #  Korean Text: '망원 조준장치 버프 Lv.1'
@@ -6977,53 +6983,53 @@ msgstr "Telescoping Sights Buff Lv.20"
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_AncientRecord_N_1].SkillName
-msgid "竜殺しの証のダミーLv.1"
-msgstr "Dragonslayer's Mark Buff Lv.1"
+msgid "竜殺しの証ダミーLv.1"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_AncientRecord_N_2].SkillName
-msgid "竜殺しの証のダミーLv.2"
-msgstr "Dragonslayer's Mark Buff Lv.2"
+msgid "竜殺しの証ダミーLv.2"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_AncientRecord_N_3].SkillName
-msgid "竜殺しの証のダミーLv.3"
-msgstr "Dragonslayer's Mark Buff Lv.3"
+msgid "竜殺しの証ダミーLv.3"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_AncientRecord_N_4].SkillName
-msgid "竜殺しの証のダミーLv.4"
-msgstr "Dragonslayer's Mark Buff Lv.4"
+msgid "竜殺しの証ダミーLv.4"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_AncientRecord_N_5].SkillName
-msgid "竜殺しの証のダミーLv.5"
-msgstr "Dragonslayer's Mark Buff Lv.5"
+msgid "竜殺しの証ダミーLv.5"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_AncientRecord_N_6].SkillName
-msgid "竜殺しの証のダミーLv.6"
-msgstr "Dragonslayer's Mark Buff Lv.6"
+msgid "竜殺しの証ダミーLv.6"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_AncientRecord_N_7].SkillName
-msgid "竜殺しの証のダミーLv.7"
-msgstr "Dragonslayer's Mark Buff Lv.7"
+msgid "竜殺しの証ダミーLv.7"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_AncientRecord_N_8].SkillName
-msgid "竜殺しの証のダミーLv.8"
-msgstr "Dragonslayer's Mark Buff Lv.8"
+msgid "竜殺しの証ダミーLv.8"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_AncientRecord_N_9].SkillName
-msgid "竜殺しの証のダミーLv.9"
-msgstr "Dragonslayer's Mark Buff Lv.9"
+msgid "竜殺しの証ダミーLv.9"
+msgstr ""
 
 #  Korean Text: '용살자의 징표 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_AncientRecord_N_10].SkillName
-msgid "竜殺しの証のダミーLv.10"
-msgstr "Dragonslayer's Mark Buff Lv.10"
+msgid "竜殺しの証ダミーLv.10"
+msgstr ""
 
 #  Korean Text: '아쿠아 모듈 버프 Lv.1'
 #: Skill[Skill_BUFF_AquaModule_N_1].SkillName
@@ -7287,7 +7293,7 @@ msgstr ""
 
 #  Korean Text: '피해 감소 20 탱커용 더미'
 #: Skill[Skill_BUFF_DamDown20_N_1].SkillName
-msgid "被害ダウン20タンカー用ダミー"
+msgid "被害減少20タンカー用ダミー"
 msgstr ""
 
 #  Korean Text: '방어력 60 탱커용 더미'
@@ -7312,902 +7318,902 @@ msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyAAS_N_1].SkillName
-msgid "対重装バフのダミーLv.1"
+msgid "対重装バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyAAS_N_2].SkillName
-msgid "対重装バフのダミーLv.2"
+msgid "対重装バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyAAS_N_3].SkillName
-msgid "対重装バフのダミーLv.3"
+msgid "対重装バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyAAS_N_4].SkillName
-msgid "対重装バフのダミーLv.4"
+msgid "対重装バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyAAS_N_5].SkillName
-msgid "対重装バフのダミーLv.5"
+msgid "対重装バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyAAS_N_6].SkillName
-msgid "対重装バフのダミーLv.6"
+msgid "対重装バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyAAS_N_7].SkillName
-msgid "対重装バフのダミーLv.7"
+msgid "対重装バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyAAS_N_8].SkillName
-msgid "対重装バフのダミーLv.8"
+msgid "対重装バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyAAS_N_9].SkillName
-msgid "対重装バフのダミーLv.9"
+msgid "対重装バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyAAS_N_10].SkillName
-msgid "対重装バフのダミーLv.10"
+msgid "対重装バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyAAS_N_11].SkillName
-msgid "対重装バフのダミーLv.11"
+msgid "対重装バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyAAS_N_12].SkillName
-msgid "対重装バフのダミーLv.12"
+msgid "対重装バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyAAS_N_13].SkillName
-msgid "対重装バフのダミーLv.13"
+msgid "対重装バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyAAS_N_14].SkillName
-msgid "対重装バフのダミーLv.14"
+msgid "対重装バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyAAS_N_15].SkillName
-msgid "対重装バフのダミーLv.15"
+msgid "対重装バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyAAS_N_16].SkillName
-msgid "対重装バフのダミーLv.16"
+msgid "対重装バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyAAS_N_17].SkillName
-msgid "対重装バフのダミーLv.17"
+msgid "対重装バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyAAS_N_18].SkillName
-msgid "対重装バフのダミーLv.18"
+msgid "対重装バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyAAS_N_19].SkillName
-msgid "対重装バフのダミーLv.19"
+msgid "対重装バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '대 중장 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyAAS_N_20].SkillName
-msgid "対重装バフのダミーLv.20"
+msgid "対重装バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyAMS_N_1].SkillName
-msgid "対機動バフのダミーLv.1"
+msgid "対機動バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyAMS_N_2].SkillName
-msgid "対機動バフのダミーLv.2"
+msgid "対機動バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyAMS_N_3].SkillName
-msgid "対機動バフのダミーLv.3"
+msgid "対機動バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyAMS_N_4].SkillName
-msgid "対機動バフのダミーLv.4"
+msgid "対機動バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyAMS_N_5].SkillName
-msgid "対機動バフのダミーLv.5"
+msgid "対機動バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyAMS_N_6].SkillName
-msgid "対機動バフのダミーLv.6"
+msgid "対機動バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyAMS_N_7].SkillName
-msgid "対機動バフのダミーLv.7"
+msgid "対機動バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyAMS_N_8].SkillName
-msgid "対機動バフのダミーLv.8"
+msgid "対機動バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyAMS_N_9].SkillName
-msgid "対機動バフのダミーLv.9"
+msgid "対機動バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyAMS_N_10].SkillName
-msgid "対機動バフのダミーLv.10"
+msgid "対機動バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyAMS_N_11].SkillName
-msgid "対機動バフのダミーLv.11"
+msgid "対機動バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyAMS_N_12].SkillName
-msgid "対機動バフのダミーLv.12"
+msgid "対機動バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyAMS_N_13].SkillName
-msgid "対機動バフのダミーLv.13"
+msgid "対機動バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyAMS_N_14].SkillName
-msgid "対機動バフのダミーLv.14"
+msgid "対機動バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyAMS_N_15].SkillName
-msgid "対機動バフのダミーLv.15"
+msgid "対機動バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyAMS_N_16].SkillName
-msgid "対機動バフのダミーLv.16"
+msgid "対機動バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyAMS_N_17].SkillName
-msgid "対機動バフのダミーLv.17"
+msgid "対機動バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyAMS_N_18].SkillName
-msgid "対機動バフのダミーLv.18"
+msgid "対機動バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyAMS_N_19].SkillName
-msgid "対機動バフのダミーLv.19"
+msgid "対機動バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '대 기동 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyAMS_N_20].SkillName
-msgid "対機動バフのダミーLv.20"
+msgid "対機動バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyAntiBr_N_1].SkillName
-msgid "力場中和バフのダミーLv.1"
+msgid "力場中和バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyAntiBr_N_2].SkillName
-msgid "力場中和バフのダミーLv.2"
+msgid "力場中和バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyAntiBr_N_3].SkillName
-msgid "力場中和バフのダミーLv.3"
+msgid "力場中和バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyAntiBr_N_4].SkillName
-msgid "力場中和バフのダミーLv.4"
+msgid "力場中和バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyAntiBr_N_5].SkillName
-msgid "力場中和バフのダミーLv.5"
+msgid "力場中和バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyAntiBr_N_6].SkillName
-msgid "力場中和バフのダミーLv.6"
+msgid "力場中和バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyAntiBr_N_7].SkillName
-msgid "力場中和バフのダミーLv.7"
+msgid "力場中和バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyAntiBr_N_8].SkillName
-msgid "力場中和バフのダミーLv.8"
+msgid "力場中和バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyAntiBr_N_9].SkillName
-msgid "力場中和バフのダミーLv.9"
+msgid "力場中和バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyAntiBr_N_10].SkillName
-msgid "力場中和バフのダミーLv.10"
+msgid "力場中和バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyAntiBr_N_11].SkillName
-msgid "力場中和バフのダミーLv.11"
+msgid "力場中和バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyAntiBr_N_12].SkillName
-msgid "力場中和バフのダミーLv.12"
+msgid "力場中和バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyAntiBr_N_13].SkillName
-msgid "力場中和バフのダミーLv.13"
+msgid "力場中和バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyAntiBr_N_14].SkillName
-msgid "力場中和バフのダミーLv.14"
+msgid "力場中和バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyAntiBr_N_15].SkillName
-msgid "力場中和バフのダミーLv.15"
+msgid "力場中和バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyAntiBr_N_16].SkillName
-msgid "力場中和バフのダミーLv.16"
+msgid "力場中和バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyAntiBr_N_17].SkillName
-msgid "力場中和バフのダミーLv.17"
+msgid "力場中和バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyAntiBr_N_18].SkillName
-msgid "力場中和バフのダミーLv.18"
+msgid "力場中和バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyAntiBr_N_19].SkillName
-msgid "力場中和バフのダミーLv.19"
+msgid "力場中和バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '역장 중화 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyAntiBr_N_20].SkillName
-msgid "力場中和バフのダミーLv.20"
+msgid "力場中和バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyAPEq_N_1].SkillName
-msgid "対装甲バフのダミーLv.1"
+msgid "対装甲バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyAPEq_N_2].SkillName
-msgid "対装甲バフのダミーLv.2"
+msgid "対装甲バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyAPEq_N_3].SkillName
-msgid "対装甲バフのダミーLv.3"
+msgid "対装甲バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyAPEq_N_4].SkillName
-msgid "対装甲バフのダミーLv.4"
+msgid "対装甲バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyAPEq_N_5].SkillName
-msgid "対装甲バフのダミーLv.5"
+msgid "対装甲バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyAPEq_N_6].SkillName
-msgid "対装甲バフのダミーLv.6"
+msgid "対装甲バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyAPEq_N_7].SkillName
-msgid "対装甲バフのダミーLv.7"
+msgid "対装甲バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyAPEq_N_8].SkillName
-msgid "対装甲バフのダミーLv.8"
+msgid "対装甲バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyAPEq_N_9].SkillName
-msgid "対装甲バフのダミーLv.9"
+msgid "対装甲バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyAPEq_N_10].SkillName
-msgid "対装甲バフのダミーLv.10"
+msgid "対装甲バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyAPEq_N_11].SkillName
-msgid "対装甲バフのダミーLv.11"
+msgid "対装甲バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyAPEq_N_12].SkillName
-msgid "対装甲バフのダミーLv.12"
+msgid "対装甲バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyAPEq_N_13].SkillName
-msgid "対装甲バフのダミーLv.13"
+msgid "対装甲バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyAPEq_N_14].SkillName
-msgid "対装甲バフのダミーLv.14"
+msgid "対装甲バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyAPEq_N_15].SkillName
-msgid "対装甲バフのダミーLv.15"
+msgid "対装甲バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyAPEq_N_16].SkillName
-msgid "対装甲バフのダミーLv.16"
+msgid "対装甲バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyAPEq_N_17].SkillName
-msgid "対装甲バフのダミーLv.17"
+msgid "対装甲バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyAPEq_N_18].SkillName
-msgid "対装甲バフのダミーLv.18"
+msgid "対装甲バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyAPEq_N_19].SkillName
-msgid "対装甲バフのダミーLv.19"
+msgid "対装甲バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '대 장갑 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyAPEq_N_20].SkillName
-msgid "対装甲バフのダミーLv.20"
+msgid "対装甲バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyAssS_N_1].SkillName
-msgid "突撃SバフのダミーLv.1"
+msgid "突撃SバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyAssS_N_2].SkillName
-msgid "突撃SバフのダミーLv.2"
+msgid "突撃SバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyAssS_N_3].SkillName
-msgid "突撃SバフのダミーLv.3"
+msgid "突撃SバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyAssS_N_4].SkillName
-msgid "突撃SバフのダミーLv.4"
+msgid "突撃SバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyAssS_N_5].SkillName
-msgid "突撃SバフのダミーLv.5"
+msgid "突撃SバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyAssS_N_6].SkillName
-msgid "突撃SバフのダミーLv.6"
+msgid "突撃SバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyAssS_N_7].SkillName
-msgid "突撃SバフのダミーLv.7"
+msgid "突撃SバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyAssS_N_8].SkillName
-msgid "突撃SバフのダミーLv.8"
+msgid "突撃SバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyAssS_N_9].SkillName
-msgid "突撃SバフのダミーLv.9"
+msgid "突撃SバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyAssS_N_10].SkillName
-msgid "突撃SバフのダミーLv.10"
+msgid "突撃SバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyAssS_N_11].SkillName
-msgid "突撃SバフのダミーLv.11"
+msgid "突撃SバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyAssS_N_12].SkillName
-msgid "突撃SバフのダミーLv.12"
+msgid "突撃SバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyAssS_N_13].SkillName
-msgid "突撃SバフのダミーLv.13"
+msgid "突撃SバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyAssS_N_14].SkillName
-msgid "突撃SバフのダミーLv.14"
+msgid "突撃SバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyAssS_N_15].SkillName
-msgid "突撃SバフのダミーLv.15"
+msgid "突撃SバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyAssS_N_16].SkillName
-msgid "突撃SバフのダミーLv.16"
+msgid "突撃SバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyAssS_N_17].SkillName
-msgid "突撃SバフのダミーLv.17"
+msgid "突撃SバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyAssS_N_18].SkillName
-msgid "突撃SバフのダミーLv.18"
+msgid "突撃SバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyAssS_N_19].SkillName
-msgid "突撃SバフのダミーLv.19"
+msgid "突撃SバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '돌격S 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyAssS_N_20].SkillName
-msgid "突撃SバフのダミーLv.20"
+msgid "突撃SバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyATS_N_1].SkillName
-msgid "対軽装バフのダミーLv.1"
+msgid "対軽装バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyATS_N_2].SkillName
-msgid "対軽装バフのダミーLv.2"
+msgid "対軽装バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyATS_N_3].SkillName
-msgid "対軽装バフのダミーLv.3"
+msgid "対軽装バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyATS_N_4].SkillName
-msgid "対軽装バフのダミーLv.4"
+msgid "対軽装バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyATS_N_5].SkillName
-msgid "対軽装バフのダミーLv.5"
+msgid "対軽装バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyATS_N_6].SkillName
-msgid "対軽装バフのダミーLv.6"
+msgid "対軽装バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyATS_N_7].SkillName
-msgid "対軽装バフのダミーLv.7"
+msgid "対軽装バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyATS_N_8].SkillName
-msgid "対軽装バフのダミーLv.8"
+msgid "対軽装バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyATS_N_9].SkillName
-msgid "対軽装バフのダミーLv.9"
+msgid "対軽装バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyATS_N_10].SkillName
-msgid "対軽装バフのダミーLv.10"
+msgid "対軽装バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyATS_N_11].SkillName
-msgid "対軽装バフのダミーLv.11"
+msgid "対軽装バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyATS_N_12].SkillName
-msgid "対軽装バフのダミーLv.12"
+msgid "対軽装バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyATS_N_13].SkillName
-msgid "対軽装バフのダミーLv.13"
+msgid "対軽装バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyATS_N_14].SkillName
-msgid "対軽装バフのダミーLv.14"
+msgid "対軽装バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyATS_N_15].SkillName
-msgid "対軽装バフのダミーLv.15"
+msgid "対軽装バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyATS_N_16].SkillName
-msgid "対軽装バフのダミーLv.16"
+msgid "対軽装バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyATS_N_17].SkillName
-msgid "対軽装バフのダミーLv.17"
+msgid "対軽装バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyATS_N_18].SkillName
-msgid "対軽装バフのダミーLv.18"
+msgid "対軽装バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyATS_N_19].SkillName
-msgid "対軽装バフのダミーLv.19"
+msgid "対軽装バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '대 경장 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyATS_N_20].SkillName
-msgid "対軽装バフのダミーLv.20"
+msgid "対軽装バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyBarrier_N_1].SkillName
-msgid "防御力場バフのダミーLv.1"
+msgid "防御力場バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyBarrier_N_2].SkillName
-msgid "防御力場バフのダミーLv.2"
+msgid "防御力場バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyBarrier_N_3].SkillName
-msgid "防御力場バフのダミーLv.3"
+msgid "防御力場バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyBarrier_N_4].SkillName
-msgid "防御力場バフのダミーLv.4"
+msgid "防御力場バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyBarrier_N_5].SkillName
-msgid "防御力場バフのダミーLv.5"
+msgid "防御力場バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyBarrier_N_6].SkillName
-msgid "防御力場バフのダミーLv.6"
+msgid "防御力場バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyBarrier_N_7].SkillName
-msgid "防御力場バフのダミーLv.7"
+msgid "防御力場バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyBarrier_N_8].SkillName
-msgid "防御力場バフのダミーLv.8"
+msgid "防御力場バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyBarrier_N_9].SkillName
-msgid "防御力場バフのダミーLv.9"
+msgid "防御力場バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyBarrier_N_10].SkillName
-msgid "防御力場バフのダミーLv.10"
+msgid "防御力場バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyBarrier_N_11].SkillName
-msgid "防御力場バフのダミーLv.11"
+msgid "防御力場バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyBarrier_N_12].SkillName
-msgid "防御力場バフのダミーLv.12"
+msgid "防御力場バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyBarrier_N_13].SkillName
-msgid "防御力場バフのダミーLv.13"
+msgid "防御力場バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyBarrier_N_14].SkillName
-msgid "防御力場バフのダミーLv.14"
+msgid "防御力場バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyBarrier_N_15].SkillName
-msgid "防御力場バフのダミーLv.15"
+msgid "防御力場バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyBarrier_N_16].SkillName
-msgid "防御力場バフのダミーLv.16"
+msgid "防御力場バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyBarrier_N_17].SkillName
-msgid "防御力場バフのダミーLv.17"
+msgid "防御力場バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyBarrier_N_18].SkillName
-msgid "防御力場バフのダミーLv.18"
+msgid "防御力場バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyBarrier_N_19].SkillName
-msgid "防御力場バフのダミーLv.19"
+msgid "防御力場バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '방어 역장 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyBarrier_N_20].SkillName
-msgid "防御力場バフのダミーLv.20"
+msgid "防御力場バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyChS_N_1].SkillName
-msgid "強襲SバフのダミーLv.1"
+msgid "強襲SバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyChS_N_2].SkillName
-msgid "強襲SバフのダミーLv.2"
+msgid "強襲SバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyChS_N_3].SkillName
-msgid "強襲SバフのダミーLv.3"
+msgid "強襲SバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyChS_N_4].SkillName
-msgid "強襲SバフのダミーLv.4"
+msgid "強襲SバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyChS_N_5].SkillName
-msgid "強襲SバフのダミーLv.5"
+msgid "強襲SバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyChS_N_6].SkillName
-msgid "強襲SバフのダミーLv.6"
+msgid "強襲SバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyChS_N_7].SkillName
-msgid "強襲SバフのダミーLv.7"
+msgid "強襲SバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyChS_N_8].SkillName
-msgid "強襲SバフのダミーLv.8"
+msgid "強襲SバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyChS_N_9].SkillName
-msgid "強襲SバフのダミーLv.9"
+msgid "強襲SバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyChS_N_10].SkillName
-msgid "強襲SバフのダミーLv.10"
+msgid "強襲SバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyChS_N_11].SkillName
-msgid "強襲SバフのダミーLv.11"
+msgid "強襲SバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyChS_N_12].SkillName
-msgid "強襲SバフのダミーLv.12"
+msgid "強襲SバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyChS_N_13].SkillName
-msgid "強襲SバフのダミーLv.13"
+msgid "強襲SバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyChS_N_14].SkillName
-msgid "強襲SバフのダミーLv.14"
+msgid "強襲SバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyChS_N_15].SkillName
-msgid "強襲SバフのダミーLv.15"
+msgid "強襲SバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyChS_N_16].SkillName
-msgid "強襲SバフのダミーLv.16"
+msgid "強襲SバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyChS_N_17].SkillName
-msgid "強襲SバフのダミーLv.17"
+msgid "強襲SバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyChS_N_18].SkillName
-msgid "強襲SバフのダミーLv.18"
+msgid "強襲SバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyChS_N_19].SkillName
-msgid "強襲SバフのダミーLv.19"
+msgid "強襲SバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '강습S 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyChS_N_20].SkillName
-msgid "強襲SバフのダミーLv.20"
+msgid "強襲SバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyCntS_N_1].SkillName
-msgid "対応SバフのダミーLv.1"
+msgid "対応SバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyCntS_N_2].SkillName
-msgid "対応SバフのダミーLv.2"
+msgid "対応SバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyCntS_N_3].SkillName
-msgid "対応SバフのダミーLv.3"
+msgid "対応SバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyCntS_N_4].SkillName
-msgid "対応SバフのダミーLv.4"
+msgid "対応SバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyCntS_N_5].SkillName
-msgid "対応SバフのダミーLv.5"
+msgid "対応SバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyCntS_N_6].SkillName
-msgid "対応SバフのダミーLv.6"
+msgid "対応SバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyCntS_N_7].SkillName
-msgid "対応SバフのダミーLv.7"
+msgid "対応SバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyCntS_N_8].SkillName
-msgid "対応SバフのダミーLv.8"
+msgid "対応SバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyCntS_N_9].SkillName
-msgid "対応SバフのダミーLv.9"
+msgid "対応SバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyCntS_N_10].SkillName
-msgid "対応SバフのダミーLv.10"
+msgid "対応SバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyCntS_N_11].SkillName
-msgid "対応SバフのダミーLv.11"
+msgid "対応SバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyCntS_N_12].SkillName
-msgid "対応SバフのダミーLv.12"
+msgid "対応SバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyCntS_N_13].SkillName
-msgid "対応SバフのダミーLv.13"
+msgid "対応SバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyCntS_N_14].SkillName
-msgid "対応SバフのダミーLv.14"
+msgid "対応SバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyCntS_N_15].SkillName
-msgid "対応SバフのダミーLv.15"
+msgid "対応SバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyCntS_N_16].SkillName
-msgid "対応SバフのダミーLv.16"
+msgid "対応SバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyCntS_N_17].SkillName
-msgid "対応SバフのダミーLv.17"
+msgid "対応SバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyCntS_N_18].SkillName
-msgid "対応SバフのダミーLv.18"
+msgid "対応SバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyCntS_N_19].SkillName
-msgid "対応SバフのダミーLv.19"
+msgid "対応SバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '대응S 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyCntS_N_20].SkillName
-msgid "対応SバフのダミーLv.20"
+msgid "対応SバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '방어력 감소 10%'
@@ -8217,512 +8223,512 @@ msgstr ""
 
 #  Korean Text: '방어 감소 10% 디버프 더미'
 #: Skill[Skill_BUFF_DummyDefDown_N_1].SkillName
-msgid "防御のダウン10%デバフダミー"
+msgid "防御減少10%デバフダミー"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyDefS_N_1].SkillName
-msgid "防御SバフのダミーLv.1"
+msgid "防御SバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyDefS_N_2].SkillName
-msgid "防御SバフのダミーLv.2"
+msgid "防御SバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyDefS_N_3].SkillName
-msgid "防御SバフのダミーLv.3"
+msgid "防御SバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyDefS_N_4].SkillName
-msgid "防御SバフのダミーLv.4"
+msgid "防御SバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyDefS_N_5].SkillName
-msgid "防御SバフのダミーLv.5"
+msgid "防御SバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyDefS_N_6].SkillName
-msgid "防御SバフのダミーLv.6"
+msgid "防御SバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyDefS_N_7].SkillName
-msgid "防御SバフのダミーLv.7"
+msgid "防御SバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyDefS_N_8].SkillName
-msgid "防御SバフのダミーLv.8"
+msgid "防御SバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyDefS_N_9].SkillName
-msgid "防御SバフのダミーLv.9"
+msgid "防御SバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyDefS_N_10].SkillName
-msgid "防御SバフのダミーLv.10"
+msgid "防御SバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyDefS_N_11].SkillName
-msgid "防御SバフのダミーLv.11"
+msgid "防御SバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyDefS_N_12].SkillName
-msgid "防御SバフのダミーLv.12"
+msgid "防御SバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyDefS_N_13].SkillName
-msgid "防御SバフのダミーLv.13"
+msgid "防御SバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyDefS_N_14].SkillName
-msgid "防御SバフのダミーLv.14"
+msgid "防御SバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyDefS_N_15].SkillName
-msgid "防御SバフのダミーLv.15"
+msgid "防御SバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyDefS_N_16].SkillName
-msgid "防御SバフのダミーLv.16"
+msgid "防御SバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyDefS_N_17].SkillName
-msgid "防御SバフのダミーLv.17"
+msgid "防御SバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyDefS_N_18].SkillName
-msgid "防御SバフのダミーLv.18"
+msgid "防御SバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyDefS_N_19].SkillName
-msgid "防御SバフのダミーLv.19"
+msgid "防御SバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '방어S 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyDefS_N_20].SkillName
-msgid "防御SバフのダミーLv.20"
+msgid "防御SバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyEmS_N_1].SkillName
-msgid "緊急SバフのダミーLv.1"
+msgid "緊急SバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyEmS_N_2].SkillName
-msgid "緊急SバフのダミーLv.2"
+msgid "緊急SバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyEmS_N_3].SkillName
-msgid "緊急SバフのダミーLv.3"
+msgid "緊急SバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyEmS_N_4].SkillName
-msgid "緊急SバフのダミーLv.4"
+msgid "緊急SバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyEmS_N_5].SkillName
-msgid "緊急SバフのダミーLv.5"
+msgid "緊急SバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyEmS_N_6].SkillName
-msgid "緊急SバフのダミーLv.6"
+msgid "緊急SバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyEmS_N_7].SkillName
-msgid "緊急SバフのダミーLv.7"
+msgid "緊急SバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyEmS_N_8].SkillName
-msgid "緊急SバフのダミーLv.8"
+msgid "緊急SバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyEmS_N_9].SkillName
-msgid "緊急SバフのダミーLv.9"
+msgid "緊急SバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyEmS_N_10].SkillName
-msgid "緊急SバフのダミーLv.10"
+msgid "緊急SバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyEmS_N_11].SkillName
-msgid "緊急SバフのダミーLv.11"
+msgid "緊急SバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyEmS_N_12].SkillName
-msgid "緊急SバフのダミーLv.12"
+msgid "緊急SバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyEmS_N_13].SkillName
-msgid "緊急SバフのダミーLv.13"
+msgid "緊急SバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyEmS_N_14].SkillName
-msgid "緊急SバフのダミーLv.14"
+msgid "緊急SバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyEmS_N_15].SkillName
-msgid "緊急SバフのダミーLv.15"
+msgid "緊急SバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyEmS_N_16].SkillName
-msgid "緊急SバフのダミーLv.16"
+msgid "緊急SバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyEmS_N_17].SkillName
-msgid "緊急SバフのダミーLv.17"
+msgid "緊急SバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyEmS_N_18].SkillName
-msgid "緊急SバフのダミーLv.18"
+msgid "緊急SバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyEmS_N_19].SkillName
-msgid "緊急SバフのダミーLv.19"
+msgid "緊急SバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '긴급S 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyEmS_N_20].SkillName
-msgid "緊急SバフのダミーLv.20"
+msgid "緊急SバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyHologram_N_1].SkillName
-msgid "ダミーホロバフのダミーLv.1"
+msgid "ダミーホロバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyHologram_N_2].SkillName
-msgid "ダミーホロバフのダミーLv.2"
+msgid "ダミーホロバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyHologram_N_3].SkillName
-msgid "ダミーホロバフのダミーLv.3"
+msgid "ダミーホロバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyHologram_N_4].SkillName
-msgid "ダミーホロバフのダミーLv.4"
+msgid "ダミーホロバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyHologram_N_5].SkillName
-msgid "ダミーホロバフのダミーLv.5"
+msgid "ダミーホロバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyHologram_N_6].SkillName
-msgid "ダミーホロバフのダミーLv.6"
+msgid "ダミーホロバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyHologram_N_7].SkillName
-msgid "ダミーホロバフのダミーLv.7"
+msgid "ダミーホロバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyHologram_N_8].SkillName
-msgid "ダミーホロバフのダミーLv.8"
+msgid "ダミーホロバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyHologram_N_9].SkillName
-msgid "ダミーホロバフのダミーLv.9"
+msgid "ダミーホロバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyHologram_N_10].SkillName
-msgid "ダミーホロバフのダミーLv.10"
+msgid "ダミーホロバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyHologram_N_11].SkillName
-msgid "ダミーホロバフのダミーLv.11"
+msgid "ダミーホロバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyHologram_N_12].SkillName
-msgid "ダミーホロバフのダミーLv.12"
+msgid "ダミーホロバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyHologram_N_13].SkillName
-msgid "ダミーホロバフのダミーLv.13"
+msgid "ダミーホロバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyHologram_N_14].SkillName
-msgid "ダミーホロバフのダミーLv.14"
+msgid "ダミーホロバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyHologram_N_15].SkillName
-msgid "ダミーホロバフのダミーLv.15"
+msgid "ダミーホロバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyHologram_N_16].SkillName
-msgid "ダミーホロバフのダミーLv.16"
+msgid "ダミーホロバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyHologram_N_17].SkillName
-msgid "ダミーホロバフのダミーLv.17"
+msgid "ダミーホロバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyHologram_N_18].SkillName
-msgid "ダミーホロバフのダミーLv.18"
+msgid "ダミーホロバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyHologram_N_19].SkillName
-msgid "ダミーホロバフのダミーLv.19"
+msgid "ダミーホロバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '더미 홀로 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyHologram_N_20].SkillName
-msgid "ダミーホロバフのダミーLv.20"
+msgid "ダミーホロバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyNormalS_N_1].SkillName
-msgid "標準SバフのダミーLv.1"
+msgid "標準SバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyNormalS_N_2].SkillName
-msgid "標準SバフのダミーLv.2"
+msgid "標準SバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyNormalS_N_3].SkillName
-msgid "標準SバフのダミーLv.3"
+msgid "標準SバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyNormalS_N_4].SkillName
-msgid "標準SバフのダミーLv.4"
+msgid "標準SバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyNormalS_N_5].SkillName
-msgid "標準SバフのダミーLv.5"
+msgid "標準SバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyNormalS_N_6].SkillName
-msgid "標準SバフのダミーLv.6"
+msgid "標準SバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyNormalS_N_7].SkillName
-msgid "標準SバフのダミーLv.7"
+msgid "標準SバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyNormalS_N_8].SkillName
-msgid "標準SバフのダミーLv.8"
+msgid "標準SバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyNormalS_N_9].SkillName
-msgid "標準SバフのダミーLv.9"
+msgid "標準SバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyNormalS_N_10].SkillName
-msgid "標準SバフのダミーLv.10"
+msgid "標準SバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyNormalS_N_11].SkillName
-msgid "標準SバフのダミーLv.11"
+msgid "標準SバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyNormalS_N_12].SkillName
-msgid "標準SバフのダミーLv.12"
+msgid "標準SバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyNormalS_N_13].SkillName
-msgid "標準SバフのダミーLv.13"
+msgid "標準SバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyNormalS_N_14].SkillName
-msgid "標準SバフのダミーLv.14"
+msgid "標準SバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyNormalS_N_15].SkillName
-msgid "標準SバフのダミーLv.15"
+msgid "標準SバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyNormalS_N_16].SkillName
-msgid "標準SバフのダミーLv.16"
+msgid "標準SバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyNormalS_N_17].SkillName
-msgid "標準SバフのダミーLv.17"
+msgid "標準SバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyNormalS_N_18].SkillName
-msgid "標準SバフのダミーLv.18"
+msgid "標準SバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyNormalS_N_19].SkillName
-msgid "標準SバフのダミーLv.19"
+msgid "標準SバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '표준S 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyNormalS_N_20].SkillName
-msgid "標準SバフのダミーLv.20"
+msgid "標準SバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyObs_N_1].SkillName
-msgid "観測装備バフのダミーLv.1"
+msgid "観測装備バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyObs_N_2].SkillName
-msgid "観測装備バフのダミーLv.2"
+msgid "観測装備バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyObs_N_3].SkillName
-msgid "観測装備バフのダミーLv.3"
+msgid "観測装備バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyObs_N_4].SkillName
-msgid "観測装備バフのダミーLv.4"
+msgid "観測装備バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyObs_N_5].SkillName
-msgid "観測装備バフのダミーLv.5"
+msgid "観測装備バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyObs_N_6].SkillName
-msgid "観測装備バフのダミーLv.6"
+msgid "観測装備バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyObs_N_7].SkillName
-msgid "観測装備バフのダミーLv.7"
+msgid "観測装備バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyObs_N_8].SkillName
-msgid "観測装備バフのダミーLv.8"
+msgid "観測装備バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyObs_N_9].SkillName
-msgid "観測装備バフのダミーLv.9"
+msgid "観測装備バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyObs_N_10].SkillName
-msgid "観測装備バフのダミーLv.10"
+msgid "観測装備バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyObs_N_11].SkillName
-msgid "観測装備バフのダミーLv.11"
+msgid "観測装備バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyObs_N_12].SkillName
-msgid "観測装備バフのダミーLv.12"
+msgid "観測装備バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyObs_N_13].SkillName
-msgid "観測装備バフのダミーLv.13"
+msgid "観測装備バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyObs_N_14].SkillName
-msgid "観測装備バフのダミーLv.14"
+msgid "観測装備バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyObs_N_15].SkillName
-msgid "観測装備バフのダミーLv.15"
+msgid "観測装備バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyObs_N_16].SkillName
-msgid "観測装備バフのダミーLv.16"
+msgid "観測装備バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyObs_N_17].SkillName
-msgid "観測装備バフのダミーLv.17"
+msgid "観測装備バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyObs_N_18].SkillName
-msgid "観測装備バフのダミーLv.18"
+msgid "観測装備バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyObs_N_19].SkillName
-msgid "観測装備バフのダミーLv.19"
+msgid "観測装備バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '관측 장비 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyObs_N_20].SkillName
-msgid "観測装備バフのダミーLv.20"
+msgid "観測装備バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '관통 50% 버프 더미'
 #: Skill[Skill_BUFF_DummyPierce_N_1].SkillName
-msgid "貫通50%バフのダミー"
+msgid "貫通50%バフダミー"
 msgstr ""
 
 #  Korean Text: '관통 75% 버프 더미'
@@ -8732,607 +8738,607 @@ msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummySPArmor_N_1].SkillName
-msgid "空間装甲バフのダミーLv.1"
+msgid "空間装甲バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummySPArmor_N_2].SkillName
-msgid "空間装甲バフのダミーLv.2"
+msgid "空間装甲バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummySPArmor_N_3].SkillName
-msgid "空間装甲バフのダミーLv.3"
+msgid "空間装甲バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummySPArmor_N_4].SkillName
-msgid "空間装甲バフのダミーLv.4"
+msgid "空間装甲バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummySPArmor_N_5].SkillName
-msgid "空間装甲バフのダミーLv.5"
+msgid "空間装甲バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummySPArmor_N_6].SkillName
-msgid "空間装甲バフのダミーLv.6"
+msgid "空間装甲バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummySPArmor_N_7].SkillName
-msgid "空間装甲バフのダミーLv.7"
+msgid "空間装甲バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummySPArmor_N_8].SkillName
-msgid "空間装甲バフのダミーLv.8"
+msgid "空間装甲バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummySPArmor_N_9].SkillName
-msgid "空間装甲バフのダミーLv.9"
+msgid "空間装甲バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummySPArmor_N_10].SkillName
-msgid "空間装甲バフのダミーLv.10"
+msgid "空間装甲バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummySPArmor_N_11].SkillName
-msgid "空間装甲バフのダミーLv.11"
+msgid "空間装甲バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummySPArmor_N_12].SkillName
-msgid "空間装甲バフのダミーLv.12"
+msgid "空間装甲バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummySPArmor_N_13].SkillName
-msgid "空間装甲バフのダミーLv.13"
+msgid "空間装甲バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummySPArmor_N_14].SkillName
-msgid "空間装甲バフのダミーLv.14"
+msgid "空間装甲バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummySPArmor_N_15].SkillName
-msgid "空間装甲バフのダミーLv.15"
+msgid "空間装甲バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummySPArmor_N_16].SkillName
-msgid "空間装甲バフのダミーLv.16"
+msgid "空間装甲バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummySPArmor_N_17].SkillName
-msgid "空間装甲バフのダミーLv.17"
+msgid "空間装甲バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummySPArmor_N_18].SkillName
-msgid "空間装甲バフのダミーLv.18"
+msgid "空間装甲バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummySPArmor_N_19].SkillName
-msgid "空間装甲バフのダミーLv.19"
+msgid "空間装甲バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '공간 장갑 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummySPArmor_N_20].SkillName
-msgid "空間装甲バフのダミーLv.20"
+msgid "空間装甲バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '정찰 드론 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummySpDrone_N_1].SkillName
-msgid "偵察ドローンバフのダミーLv.1"
+msgid "偵察ドローンバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummySpSight_N_1].SkillName
-msgid "超精密照準バフのダミーLv.1"
+msgid "超精密照準バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummySpSight_N_2].SkillName
-msgid "超精密照準バフのダミーLv.2"
+msgid "超精密照準バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummySpSight_N_3].SkillName
-msgid "超精密照準バフのダミーLv.3"
+msgid "超精密照準バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummySpSight_N_4].SkillName
-msgid "超精密照準バフのダミーLv.4"
+msgid "超精密照準バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummySpSight_N_5].SkillName
-msgid "超精密照準バフのダミーLv.5"
+msgid "超精密照準バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummySpSight_N_6].SkillName
-msgid "超精密照準バフのダミーLv.6"
+msgid "超精密照準バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummySpSight_N_7].SkillName
-msgid "超精密照準バフのダミーLv.7"
+msgid "超精密照準バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummySpSight_N_8].SkillName
-msgid "超精密照準バフのダミーLv.8"
+msgid "超精密照準バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummySpSight_N_9].SkillName
-msgid "超精密照準バフのダミーLv.9"
+msgid "超精密照準バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummySpSight_N_10].SkillName
-msgid "超精密照準バフのダミーLv.10"
+msgid "超精密照準バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummySpSight_N_11].SkillName
-msgid "超精密照準バフのダミーLv.11"
+msgid "超精密照準バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummySpSight_N_12].SkillName
-msgid "超精密照準バフのダミーLv.12"
+msgid "超精密照準バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummySpSight_N_13].SkillName
-msgid "超精密照準バフのダミーLv.13"
+msgid "超精密照準バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummySpSight_N_14].SkillName
-msgid "超精密照準バフのダミーLv.14"
+msgid "超精密照準バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummySpSight_N_15].SkillName
-msgid "超精密照準バフのダミーLv.15"
+msgid "超精密照準バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummySpSight_N_16].SkillName
-msgid "超精密照準バフのダミーLv.16"
+msgid "超精密照準バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummySpSight_N_17].SkillName
-msgid "超精密照準バフのダミーLv.17"
+msgid "超精密照準バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummySpSight_N_18].SkillName
-msgid "超精密照準バフのダミーLv.18"
+msgid "超精密照準バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummySpSight_N_19].SkillName
-msgid "超精密照準バフのダミーLv.19"
+msgid "超精密照準バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '초정밀 조준 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummySpSight_N_20].SkillName
-msgid "超精密照準バフのダミーLv.20"
+msgid "超精密照準バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyStimulant_N_1].SkillName
-msgid "戦闘刺激バフのダミーLv.1"
+msgid "戦闘刺激バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyStimulant_N_2].SkillName
-msgid "戦闘刺激バフのダミーLv.2"
+msgid "戦闘刺激バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyStimulant_N_3].SkillName
-msgid "戦闘刺激バフのダミーLv.3"
+msgid "戦闘刺激バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyStimulant_N_4].SkillName
-msgid "戦闘刺激バフのダミーLv.4"
+msgid "戦闘刺激バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyStimulant_N_5].SkillName
-msgid "戦闘刺激バフのダミーLv.5"
+msgid "戦闘刺激バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyStimulant_N_6].SkillName
-msgid "戦闘刺激バフのダミーLv.6"
+msgid "戦闘刺激バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyStimulant_N_7].SkillName
-msgid "戦闘刺激バフのダミーLv.7"
+msgid "戦闘刺激バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyStimulant_N_8].SkillName
-msgid "戦闘刺激バフのダミーLv.8"
+msgid "戦闘刺激バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyStimulant_N_9].SkillName
-msgid "戦闘刺激バフのダミーLv.9"
+msgid "戦闘刺激バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyStimulant_N_10].SkillName
-msgid "戦闘刺激バフのダミーLv.10"
+msgid "戦闘刺激バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyStimulant_N_11].SkillName
-msgid "戦闘刺激バフのダミーLv.11"
+msgid "戦闘刺激バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyStimulant_N_12].SkillName
-msgid "戦闘刺激バフのダミーLv.12"
+msgid "戦闘刺激バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyStimulant_N_13].SkillName
-msgid "戦闘刺激バフのダミーLv.13"
+msgid "戦闘刺激バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyStimulant_N_14].SkillName
-msgid "戦闘刺激バフのダミーLv.14"
+msgid "戦闘刺激バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyStimulant_N_15].SkillName
-msgid "戦闘刺激バフのダミーLv.15"
+msgid "戦闘刺激バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyStimulant_N_16].SkillName
-msgid "戦闘刺激バフのダミーLv.16"
+msgid "戦闘刺激バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyStimulant_N_17].SkillName
-msgid "戦闘刺激バフのダミーLv.17"
+msgid "戦闘刺激バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyStimulant_N_18].SkillName
-msgid "戦闘刺激バフのダミーLv.18"
+msgid "戦闘刺激バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyStimulant_N_19].SkillName
-msgid "戦闘刺激バフのダミーLv.19"
+msgid "戦闘刺激バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '전투 자극 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyStimulant_N_20].SkillName
-msgid "戦闘刺激バフのダミーLv.20"
+msgid "戦闘刺激バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummyStudy_N_1].SkillName
-msgid "高速学習バフのダミーLv.1"
+msgid "高速学習バフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummyStudy_N_2].SkillName
-msgid "高速学習バフのダミーLv.2"
+msgid "高速学習バフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummyStudy_N_3].SkillName
-msgid "高速学習バフのダミーLv.3"
+msgid "高速学習バフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummyStudy_N_4].SkillName
-msgid "高速学習バフのダミーLv.4"
+msgid "高速学習バフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummyStudy_N_5].SkillName
-msgid "高速学習バフのダミーLv.5"
+msgid "高速学習バフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummyStudy_N_6].SkillName
-msgid "高速学習バフのダミーLv.6"
+msgid "高速学習バフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummyStudy_N_7].SkillName
-msgid "高速学習バフのダミーLv.7"
+msgid "高速学習バフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummyStudy_N_8].SkillName
-msgid "高速学習バフのダミーLv.8"
+msgid "高速学習バフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummyStudy_N_9].SkillName
-msgid "高速学習バフのダミーLv.9"
+msgid "高速学習バフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummyStudy_N_10].SkillName
-msgid "高速学習バフのダミーLv.10"
+msgid "高速学習バフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummyStudy_N_11].SkillName
-msgid "高速学習バフのダミーLv.11"
+msgid "高速学習バフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummyStudy_N_12].SkillName
-msgid "高速学習バフのダミーLv.12"
+msgid "高速学習バフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummyStudy_N_13].SkillName
-msgid "高速学習バフのダミーLv.13"
+msgid "高速学習バフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummyStudy_N_14].SkillName
-msgid "高速学習バフのダミーLv.14"
+msgid "高速学習バフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummyStudy_N_15].SkillName
-msgid "高速学習バフのダミーLv.15"
+msgid "高速学習バフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummyStudy_N_16].SkillName
-msgid "高速学習バフのダミーLv.16"
+msgid "高速学習バフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummyStudy_N_17].SkillName
-msgid "高速学習バフのダミーLv.17"
+msgid "高速学習バフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummyStudy_N_18].SkillName
-msgid "高速学習バフのダミーLv.18"
+msgid "高速学習バフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummyStudy_N_19].SkillName
-msgid "高速学習バフのダミーLv.19"
+msgid "高速学習バフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '고속 학습 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummyStudy_N_20].SkillName
-msgid "高速学習バフのダミーLv.20"
+msgid "高速学習バフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummySubBoost_N_1].SkillName
-msgid "補助ブースターバフのダミーLv.1"
+msgid "補助ブースターバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummySubBoost_N_2].SkillName
-msgid "補助ブースターバフのダミーLv.2"
+msgid "補助ブースターバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummySubBoost_N_3].SkillName
-msgid "補助ブースターバフのダミーLv.3"
+msgid "補助ブースターバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummySubBoost_N_4].SkillName
-msgid "補助ブースターバフのダミーLv.4"
+msgid "補助ブースターバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummySubBoost_N_5].SkillName
-msgid "補助ブースターバフのダミーLv.5"
+msgid "補助ブースターバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummySubBoost_N_6].SkillName
-msgid "補助ブースターバフのダミーLv.6"
+msgid "補助ブースターバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummySubBoost_N_7].SkillName
-msgid "補助ブースターバフのダミーLv.7"
+msgid "補助ブースターバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummySubBoost_N_8].SkillName
-msgid "補助ブースターバフのダミーLv.8"
+msgid "補助ブースターバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummySubBoost_N_9].SkillName
-msgid "補助ブースターバフのダミーLv.9"
+msgid "補助ブースターバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummySubBoost_N_10].SkillName
-msgid "補助ブースターバフのダミーLv.10"
+msgid "補助ブースターバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummySubBoost_N_11].SkillName
-msgid "補助ブースターバフのダミーLv.11"
+msgid "補助ブースターバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummySubBoost_N_12].SkillName
-msgid "補助ブースターバフのダミーLv.12"
+msgid "補助ブースターバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummySubBoost_N_13].SkillName
-msgid "補助ブースターバフのダミーLv.13"
+msgid "補助ブースターバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummySubBoost_N_14].SkillName
-msgid "補助ブースターバフのダミーLv.14"
+msgid "補助ブースターバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummySubBoost_N_15].SkillName
-msgid "補助ブースターバフのダミーLv.15"
+msgid "補助ブースターバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummySubBoost_N_16].SkillName
-msgid "補助ブースターバフのダミーLv.16"
+msgid "補助ブースターバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummySubBoost_N_17].SkillName
-msgid "補助ブースターバフのダミーLv.17"
+msgid "補助ブースターバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummySubBoost_N_18].SkillName
-msgid "補助ブースターバフのダミーLv.18"
+msgid "補助ブースターバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummySubBoost_N_19].SkillName
-msgid "補助ブースターバフのダミーLv.19"
+msgid "補助ブースターバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '보조 부스터 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummySubBoost_N_20].SkillName
-msgid "補助ブースターバフのダミーLv.20"
+msgid "補助ブースターバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_DummySubE_N_1].SkillName
-msgid "補助エネルギーパックバフのダミーLv.1"
+msgid "補助エネルギーパックバフダミーLv.1"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_DummySubE_N_2].SkillName
-msgid "補助エネルギーパックバフのダミーLv.2"
+msgid "補助エネルギーパックバフダミーLv.2"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_DummySubE_N_3].SkillName
-msgid "補助エネルギーパックバフのダミーLv.3"
+msgid "補助エネルギーパックバフダミーLv.3"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_DummySubE_N_4].SkillName
-msgid "補助エネルギーパックバフのダミーLv.4"
+msgid "補助エネルギーパックバフダミーLv.4"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_DummySubE_N_5].SkillName
-msgid "補助エネルギーパックバフのダミーLv.5"
+msgid "補助エネルギーパックバフダミーLv.5"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_DummySubE_N_6].SkillName
-msgid "補助エネルギーパックバフのダミーLv.6"
+msgid "補助エネルギーパックバフダミーLv.6"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_DummySubE_N_7].SkillName
-msgid "補助エネルギーパックバフのダミーLv.7"
+msgid "補助エネルギーパックバフダミーLv.7"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_DummySubE_N_8].SkillName
-msgid "補助エネルギーパックバフのダミーLv.8"
+msgid "補助エネルギーパックバフダミーLv.8"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_DummySubE_N_9].SkillName
-msgid "補助エネルギーパックバフのダミーLv.9"
+msgid "補助エネルギーパックバフダミーLv.9"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_DummySubE_N_10].SkillName
-msgid "補助エネルギーパックバフのダミーLv.10"
+msgid "補助エネルギーパックバフダミーLv.10"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_DummySubE_N_11].SkillName
-msgid "補助エネルギーパックバフのダミーLv.11"
+msgid "補助エネルギーパックバフダミーLv.11"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.12'
 #: Skill[Skill_BUFF_DummySubE_N_12].SkillName
-msgid "補助エネルギーパックバフのダミーLv.12"
+msgid "補助エネルギーパックバフダミーLv.12"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.13'
 #: Skill[Skill_BUFF_DummySubE_N_13].SkillName
-msgid "補助エネルギーパックバフのダミーLv.13"
+msgid "補助エネルギーパックバフダミーLv.13"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.14'
 #: Skill[Skill_BUFF_DummySubE_N_14].SkillName
-msgid "補助エネルギーパックバフのダミーLv.14"
+msgid "補助エネルギーパックバフダミーLv.14"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.15'
 #: Skill[Skill_BUFF_DummySubE_N_15].SkillName
-msgid "補助エネルギーパックバフのダミーLv.15"
+msgid "補助エネルギーパックバフダミーLv.15"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.16'
 #: Skill[Skill_BUFF_DummySubE_N_16].SkillName
-msgid "補助エネルギーパックバフのダミーLv.16"
+msgid "補助エネルギーパックバフダミーLv.16"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.17'
 #: Skill[Skill_BUFF_DummySubE_N_17].SkillName
-msgid "補助エネルギーパックバフのダミーLv.17"
+msgid "補助エネルギーパックバフダミーLv.17"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.18'
 #: Skill[Skill_BUFF_DummySubE_N_18].SkillName
-msgid "補助エネルギーパックバフのダミーLv.18"
+msgid "補助エネルギーパックバフダミーLv.18"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.19'
 #: Skill[Skill_BUFF_DummySubE_N_19].SkillName
-msgid "補助エネルギーパックバフのダミーLv.19"
+msgid "補助エネルギーパックバフダミーLv.19"
 msgstr ""
 
 #  Korean Text: '보조 에너지 팩 버프 더미 Lv.20'
 #: Skill[Skill_BUFF_DummySubE_N_20].SkillName
-msgid "補助エネルギーパックバフのダミーLv.20"
+msgid "補助エネルギーパックバフダミーLv.20"
 msgstr ""
 
 #  Korean Text: '에너지 전환기 버프 Lv.1'
@@ -9442,12 +9448,12 @@ msgstr "Evasion Down"
 
 #  Korean Text: '회피 30 디버프 더미'
 #: Skill[Skill_BUFF_EvDown30_N_1].SkillName
-msgid "回避30デバフのダミー"
+msgid "回避30デバフダミー"
 msgstr ""
 
 #  Korean Text: '회피 20 디버프 더미'
 #: Skill[Skill_BUFF_EvDown30_N_2].SkillName
-msgid "回避20デバフのダミー"
+msgid "回避20デバフダミー"
 msgstr ""
 
 #  Korean Text: '전황 분석 OS 버프 Lv.1'
@@ -10272,7 +10278,7 @@ msgstr "Release Output Limit Buff Lv.20"
 
 #  Korean Text: '도발 디버프 더미'
 #: Skill[Skill_BUFF_Provoke_N_1].SkillName
-msgid "挑発デバフのダミー"
+msgid "挑発デバフダミー"
 msgstr ""
 
 #  Korean Text: '미호 전장 버프 Lv.1'
@@ -10484,6 +10490,144 @@ msgstr "Bulgasari Unique Buff Lv.9"
 #: Skill[Skill_BUFF_T60ExtArmor_N_10].SkillName
 msgid "ブルガサリ専装バフLv.10"
 msgstr "Bulgasari Unique Buff Lv.10"
+
+#  Korean Text: '지정 대상에게 {0} 보호 무시 피해를 주고, 2라운드 동안 대상을 표식 / 받는 피해 증가 / 효과 저항 감소 상태로 만듭니다. 치명타 시, 피해량이 증가하며 대상의 강화 효과를 해제합니다.'
+#: Skill[Skill_DS_Arman_N_1].SkillDescription
+msgid ""
+"指定対象に{0}の保護無視ダメージを与え、2ラウンドの間、対象を標的に設定し、受けるダメージ増加/状態異常耐性減少状態にします。クリティカル時、ダメージが増"
+"加し対象の強化効果を解除します。"
+msgstr ""
+
+#  Korean Text: '지정 대상 {0} 보호 무시 피해. 표식 / 피해 증폭 / 효과 저항 감소. 치명타 시, 피해량 증가 / 강화 해제'
+#: Skill[Skill_DS_Arman_N_1].SkillDescriptionSimple
+msgid "指定対象に{0}保護無視ダメージ。標的/ダメージ増幅/状態異常耐性減少、クリティカル時、ダメージが増加/強化解除"
+msgstr ""
+
+#  Korean Text: '징벌'
+#: Skill[Skill_DS_Arman_N_1].SkillName
+msgid "懲罰"
+msgstr ""
+
+#  Korean Text: '아군에게 적용 중인 해로운 효과를 해제하고, 2라운드 동안 효과 저항을 올려줍니다. 자신의 지휘 효과를 받는 아군은 AP가 증가합니다. 스킬 레벨 10에서 자신의 위치와 무관하게 아군 영역 전체에 적용됩니다.'
+#: Skill[Skill_DS_Arman_N_2].SkillDescription
+msgid ""
+"味方に適用された有害な効果を解除し、2ラウンドの間、状態異常耐性を増加させます。自分の指揮効果を受けている味方はAPが増加します。スキルレベル10で、自分の"
+"位置とは関係無く味方エリア全体に適用されます。"
+msgstr ""
+
+#  Korean Text: '해로운 효과 해제 / 효과 저항 증가. 자신의 지휘를 받는 아군은 AP 증가'
+#: Skill[Skill_DS_Arman_N_2].SkillDescriptionSimple
+msgid "有害な効果解除/状態異常耐性増加。自分の指揮を受けた味方はAP増加。"
+msgstr ""
+
+#  Korean Text: '기원'
+#: Skill[Skill_DS_Arman_N_2].SkillName
+msgid "起源"
+msgstr ""
+
+#  Korean Text: '범위 내 공격기에게 공격력 증가 효과를 주며, 자신이 장착한 대 타입 피해량 증가 장비에 따라 대 타입 피해량을 올려줍니다. 스킬 레벨 10에서 범위가 증가합니다.'
+#: Skill[Skill_DS_Arman_N_3].SkillDescription
+msgid ""
+"範囲内の攻撃機に攻撃力増加効果を与え、自分が装着した対タイプダメージ量増加装備に応じて対タイプダメージ量を増加させます。スキルレベル10で範囲が増加します。"
+msgstr ""
+
+#  Korean Text: '공격기 공격력 증가. 자신이 장비한 대 특정 타입 효과를 부여'
+#: Skill[Skill_DS_Arman_N_3].SkillDescriptionSimple
+msgid "攻撃機の攻撃力増加。自分が装備した対特定タイプ効果を与える。"
+msgstr ""
+
+#  Korean Text: '공격대 지휘'
+#: Skill[Skill_DS_Arman_N_3].SkillName
+msgid "攻撃体指揮"
+msgstr ""
+
+#  Korean Text: '범위 내 보호기에게 받는 피해 감소 / 회피 증가 효과를 주며, 자신에게 적용된 속성 저항 강화 효과에 맞춰 대상들의 속성 저항력을 올려줍니다. 스킬 레벨 10에서 범위가 증가합니다.'
+#: Skill[Skill_DS_Arman_N_4].SkillDescription
+msgid ""
+"範囲内の保護機に受けるダメージ減少/回避率増加効果を与え、自分に適用された属性耐性強化に応じて対象の属性耐性を増加させます。スキルレベル10で範囲が増加しま"
+"す。"
+msgstr ""
+
+#  Korean Text: '보호기 받는 피해 감소 / 회피 증가. 자신에게 적용된 속성 저항 효과를 부여'
+#: Skill[Skill_DS_Arman_N_4].SkillDescriptionSimple
+msgid "保護機の受けるダメージ減少/回避率増加。自分に適用された属性耐効果を与える。"
+msgstr ""
+
+#  Korean Text: '경호대 지휘'
+#: Skill[Skill_DS_Arman_N_4].SkillName
+msgid "警護隊指揮"
+msgstr ""
+
+#  Korean Text: '다음 출현하는 적을 확인할 수 있으며, 모든 적의 방어력 / 적중 / 회피 / 행동력이 감소합니다. 정찰 활성화 상태인 경우, 대상들에게 받는 피해 증가 효과가 추가로 적용됩니다.'
+#: Skill[Skill_DS_Arman_N_5].SkillDescription
+msgid ""
+"次の出現敵情報を獲得でき、全ての敵の防御力/命中/回避/行動力が減少します。偵察活性化状態の場合、対象に受けるダメージ増加効果が追加で適用されます。"
+msgstr ""
+
+#  Korean Text: '정찰 기능. 모든 적의 방어력 / 회피 / 적중 / 행동력 감소'
+#: Skill[Skill_DS_Arman_N_5].SkillDescriptionSimple
+msgid "偵察機能。全ての敵の防御力/回避/命中/行動力減少。"
+msgstr ""
+
+#  Korean Text: '예지'
+#: Skill[Skill_DS_Arman_N_5].SkillName
+msgid "予知"
+msgstr ""
+
+#  Korean Text: '징벌 (치명타 더미)'
+#: Skill[Skill_DS_Arman_N_11].SkillName
+msgid "懲罰(クリティカルダミー)"
+msgstr ""
+
+#  Korean Text: '계시 (효과 해제)'
+#: Skill[Skill_DS_Arman_N_12].SkillName
+msgid "啓示(効果解除)"
+msgstr ""
+
+#  Korean Text: '공격대 지휘 (경장)'
+#: Skill[Skill_DS_Arman_N_13].SkillName
+msgid "攻撃体指揮(軽装)"
+msgstr ""
+
+#  Korean Text: '공격대 지휘 (기동)'
+#: Skill[Skill_DS_Arman_N_14].SkillName
+msgid "攻撃体指揮(機動)"
+msgstr ""
+
+#  Korean Text: '공격대 지휘 (중장)'
+#: Skill[Skill_DS_Arman_N_15].SkillName
+msgid "攻撃体指揮(重装)"
+msgstr ""
+
+#  Korean Text: '경호대 지휘 (화염)'
+#: Skill[Skill_DS_Arman_N_16].SkillName
+msgid "警護隊指揮(火炎)"
+msgstr ""
+
+#  Korean Text: '경호대 지휘 (냉기)'
+#: Skill[Skill_DS_Arman_N_17].SkillName
+msgid "警護隊指揮(冷気)"
+msgstr ""
+
+#  Korean Text: '경호대 지휘 (전기)'
+#: Skill[Skill_DS_Arman_N_18].SkillName
+msgid "警護隊指揮(電気)"
+msgstr ""
+
+#  Korean Text: '예지 (정찰)'
+#: Skill[Skill_DS_Arman_N_19].SkillName
+msgid "予知(偵察)"
+msgstr ""
+
+#  Korean Text: '징벌 (효과 저항 더미)'
+#: Skill[Skill_DS_Arman_N_20].SkillName
+msgid "懲罰(状態異常耐性ダミー)"
+msgstr ""
+
+#  Korean Text: '예지 (강화)'
+#: Skill[Skill_DS_Arman_N_21].SkillName
+msgid "予知(強化)"
+msgstr ""
 
 #  Korean Text: '투창으로 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 행동력을 감소시킵니다. 행동력 감소 효과는 중첩됩니다.'
 #: Skill[Skill_DS_Atalanta_N_1].SkillDescription
@@ -11264,7 +11408,7 @@ msgstr ""
 
 #  Korean Text: '회피 견제 사격 (회피 감소 더미)'
 #: Skill[Skill_MP_AMG11AA_N_11].SkillName
-msgid "回避牽制射撃(回避ダウンダミー)"
+msgid "回避牽制射撃(回避減少ダミー)"
 msgstr ""
 
 #  Korean Text: '중 기관총으로 {0} 피해를 줍니다. 대상이 방어력 감소 상태인 경우, 피해량이 증가합니다.'
@@ -11433,7 +11577,7 @@ msgstr ""
 
 #  Korean Text: '전기 속성 피격 시, 2라운드 동안 적중이 대폭 감소합니다.'
 #: Skill[Skill_MP_BigChickMG_N_5].SkillDescription
-msgid "電気属性攻撃を受けた時、2ラウンドの間、命中率が大幅に減少します。"
+msgid "電気属性被撃時、2ラウンドの間、命中率が大幅に減少します。"
 msgstr ""
 
 #  Korean Text: '레이더 오류'
@@ -11480,8 +11624,8 @@ msgstr ""
 #  Korean Text: '피격 시, 2라운드 동안 방어력 / 행동력이 증가합니다. 라운드 개시 시, <칙 근성 발동> 방어 증가 효과가 5회 이상이면 전투 속행 효과가 추가됩니다. 전투 속행 발동 시, 2라운드 동안 최소 피해만 받지만 지속 고정 피해를 입으며 방어막과 피해 감소 효과를 무시합니다.'
 #: Skill[Skill_MP_BigChickS_N_4].SkillDescription
 msgid ""
-"攻撃を受けた時、2ラウンドの間、防御力/行動力が増加します。ラウンド開始時、<チッククレンチ>防御増加効果が5回以上の場合、戦闘続行効果が追加されます。戦闘"
-"続行有効化時、2ラウンドの間、最小ダメージのみ受けるが持続固定ダメージを着てバリアとダメージ減少効果を無視します。"
+"被撃時、2ラウンドの間、防御力/行動力が増加します。ラウンド開始時、<チッククレンチ>防御増加効果が5回以上の場合、戦闘続行効果が追加されます。戦闘続行有効"
+"化時、2ラウンドの間、最小ダメージのみ受けるが持続固定ダメージを着てバリアとダメージ減少効果を無視します。"
 msgstr ""
 
 #  Korean Text: '칙 근성 발동'
@@ -11631,7 +11775,7 @@ msgstr ""
 
 #  Korean Text: '멀티 록 온 (자버프 더미)'
 #: Skill[Skill_MP_CenturionCF_N_11].SkillName
-msgid "マルチロックオン(ジャボプダミー)"
+msgid "マルチロックオン(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '유탄을 발사해 목표 대상들에게 {0} 피해를 줍니다. 대상이 이동 불가 상태인 경우, 직격해 피해량이 증가합니다.'
@@ -11693,7 +11837,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 모든 아군의 AP가 증가하며 2라운드 동안 효과 저항이 대폭 증가합니다.'
 #: Skill[Skill_MP_CenturionG_N_3].SkillDescription
-msgid "攻撃を受けた時、すべての味方のAPが増加し、2ラウンドの間、状態異常耐性が大幅に増加します。"
+msgid "被撃時、すべての味方のAPが増加し、2ラウンドの間、状態異常耐性が大幅に増加します。"
 msgstr ""
 
 #  Korean Text: '전황 분석'
@@ -12115,7 +12259,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 공격력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시합니다.'
 #: Skill[Skill_MP_Executioner_EW_3].SkillDescription
-msgid "攻撃を受けた時、攻撃力が永久的に増加します。自分が<攻撃連携>効果を受ける状態の場合、攻撃対象のバリアとダメージ減少効果を無視します。"
+msgid "被撃時、攻撃力が永久的に増加します。自分が<攻撃連携>効果を受ける状態の場合、攻撃対象のバリアとダメージ減少効果を無視します。"
 msgstr ""
 
 #  Korean Text: '처형자'
@@ -12126,8 +12270,8 @@ msgstr ""
 #  Korean Text: '모든 피해를 최소 피해만 받습니다. 처형자 중첩이 5이상인 상태로 피격 시, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.'
 #: Skill[Skill_MP_Executioner_EW_4].SkillDescription
 msgid ""
-"すべてのダメージを最小ダメージだけ受けます。執行者が5回以上重ね掛けされている時に攻撃を受けた時、オーバーフローに起因する固定物理ダメージを受けすべての強化"
-"効果が解除されます。"
+"すべてのダメージを最小ダメージだけ受けます。執行者が5回以上重ね掛けされている時に被撃時、オーバーフローに起因する固定物理ダメージを受けすべての強化効果が解"
+"除されます。"
 msgstr ""
 
 #  Korean Text: '왜곡장'
@@ -12137,7 +12281,7 @@ msgstr ""
 
 #  Korean Text: '처형자 (피해 감소 무시 더미)'
 #: Skill[Skill_MP_Executioner_EW_11].SkillName
-msgid "執行者(被害ダウン無視ダミー)"
+msgid "執行者(被害減少無視ダミー)"
 msgstr ""
 
 #  Korean Text: '왜곡장 (오버플로우 더미)'
@@ -12214,7 +12358,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 다음 공격을 받기 전까지 회피가 크게 증가하며 적중이 감소합니다.'
 #: Skill[Skill_MP_ExecutionerLB_EW_5].SkillDescription
-msgid "攻撃を受けた時、次の攻撃を受けるまで回避率が大幅に増加し命中率が減少します。"
+msgid "被撃時、次の攻撃を受けるまで回避率が大幅に増加し命中率が減少します。"
 msgstr ""
 
 #  Korean Text: '경계 모드 전환'
@@ -12267,8 +12411,8 @@ msgstr ""
 #  Korean Text: 'HP가 50% 이상이면 모든 피해를 최소화하며 효과 저항이 증가합니다. 활성화 된 상태에서 피격 시, 오버플로우 중첩이 쌓입니다. 중첩 4 이상 상태로 라운드 개시 시, 해당 상태가 해제되며 행동 불능이 됩니다.'
 #: Skill[Skill_MP_ExecutionerRB_EW_4].SkillDescription
 msgid ""
-"HPが50％以上の場合、すべてのダメージを最小限に抑え、状態異常耐性が増加します。有効な状態で攻撃を受けた時、オーバーフローが蓄積されます。蓄積数4以上の状"
-"態でラウンド開始時、該当の状態が解除され行動不能になります。"
+"HPが50％以上の場合、すべてのダメージを最小限に抑え、状態異常耐性が増加します。有効な状態で被撃時、オーバーフローが蓄積されます。蓄積数4以上の状態でラウ"
+"ンド開始時、該当の状態が解除され行動不能になります。"
 msgstr ""
 
 #  Korean Text: '자동 방어 시스템'
@@ -12403,7 +12547,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 방어막 출력을 올려 자신과 인접 아군이 받는 피해를 감소시킵니다.'
 #: Skill[Skill_MP_ExpGenerator2_N_4].SkillDescription
-msgid "攻撃を受けた時、バリアの出力を上げて自分と隣接した味方が受けるダメージを減少させます。"
+msgid "被撃時、バリアの出力を上げて自分と隣接した味方が受けるダメージを減少させます。"
 msgstr ""
 
 #  Korean Text: '방어막 출력 상승'
@@ -12493,7 +12637,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, AP / 공격력 / 치명타가 증가하며 방어력이 감소합니다.'
 #: Skill[Skill_MP_ExpGoblinT_N_3].SkillDescription
-msgid "攻撃を受けた時、AP/攻撃力/クリティカル率が増加し防御力が減少します。"
+msgid "被撃時、AP/攻撃力/クリティカル率が増加し防御力が減少します。"
 msgstr ""
 
 #  Korean Text: '격분'
@@ -12634,7 +12778,7 @@ msgstr ""
 
 #  Korean Text: '출력 한계 해제 (적중 감소 더미)'
 #: Skill[Skill_MP_FallenC_N_11].SkillName
-msgid "出力限界解除(命中ダウンダミー)"
+msgid "出力限界解除(命中減少ダミー)"
 msgstr ""
 
 #  Korean Text: '출력 한계 해제 (지속 피해 더미)'
@@ -12917,7 +13061,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 일정 확률로 방어력이 대폭 증가합니다.'
 #: Skill[Skill_MP_Juggernaut_N_4].SkillDescription
-msgid "攻撃を受けた時、一定の確率で防御力が大幅に増加します。"
+msgid "被撃時、一定の確率で防御力が大幅に増加します。"
 msgstr ""
 
 #  Korean Text: '방어 프로토콜'
@@ -12998,7 +13142,7 @@ msgstr ""
 
 #  Korean Text: '도발 상태일 때 공격 적중 시, 5라운드 동안 공격력이 증가합니다. 해당 효과는 5번까지 중첩됩니다.'
 #: Skill[Skill_MP_Kidnapper_N_3].SkillDescription
-msgid "挑発状態になっている間、攻撃命中時、5ラウンド攻撃力が増加します。効果は5回まで重ね掛け可能です。"
+msgid "挑発状態で攻撃命中時、5ラウンドの間攻撃力が増加します。効果は5回まで重ね掛け可能です。"
 msgstr ""
 
 #  Korean Text: '살육 쾌감'
@@ -13008,7 +13152,7 @@ msgstr "Killing Ecstasy"
 
 #  Korean Text: '피격 시, 위협을 감지해 해당 라운드 동안 회피가 증가하며 공격력이 감소합니다. 해당 효과는 중첩됩니다.'
 #: Skill[Skill_MP_Kidnapper_N_4].SkillDescription
-msgid "攻撃を受けた時、脅威を感知し該当のラウンドの間、回避率が増加し、攻撃力が減少します。該当の効果は重ね掛け可能です。"
+msgid "被撃時、脅威を感知し該当のラウンドの間、回避率が増加し、攻撃力が減少します。該当の効果は重ね掛け可能です。"
 msgstr ""
 
 #  Korean Text: '위협 감지'
@@ -13214,12 +13358,12 @@ msgstr ""
 
 #  Korean Text: '위장 홀로그램 발산 (중열 더미)'
 #: Skill[Skill_MP_LegionSP_N_12].SkillName
-msgid "偽装ホログラム発散(ジュンヨルダミー)"
+msgid "偽装ホログラム発散(中列ダミー)"
 msgstr ""
 
 #  Korean Text: '점착탄 난사 (자버프 더미)'
 #: Skill[Skill_MP_LegionSP_N_13].SkillName
-msgid "粘着弾乱射(ジュンヨルダミー)"
+msgid "粘着弾乱射(中列ダミー)"
 msgstr ""
 
 #  Korean Text: '대장갑 정밀 저격 (방관 더미)'
@@ -13261,7 +13405,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 재빠르게 대응해 행동력이 증가하며 반격합니다. 행동력 증가 효과는 3회까지 중첩됩니다.'
 #: Skill[Skill_MP_LegionSPEX_N_4].SkillDescription
-msgid "攻撃を受けた時、素早く対応して行動力が増加し反撃します。行動力増加効果は3回まで重ね掛け可能です。"
+msgid "被撃時、素早く対応して行動力が増加し反撃します。行動力増加効果は3回まで重ね掛け可能です。"
 msgstr ""
 
 #  Korean Text: '저격 대응'
@@ -13281,7 +13425,7 @@ msgstr ""
 
 #  Korean Text: '점착탄 연사 (자버프 적중 더미)'
 #: Skill[Skill_MP_LegionSPEX_N_13].SkillName
-msgid "粘着弾連射(ジャバフ命中ダミー)"
+msgid "粘着弾連射(自分バフ命中ダミー)"
 msgstr ""
 
 #  Korean Text: '정밀 선도 사격 (방관 더미)'
@@ -13296,7 +13440,7 @@ msgstr ""
 
 #  Korean Text: '점착탄 연사 (자버프 사거리 더미)'
 #: Skill[Skill_MP_LegionSPEX_N_16].SkillName
-msgid "粘着弾連射(ジャバフ射距離ダミー)"
+msgid "粘着弾連射(自分バフ射程距離ダミー)"
 msgstr ""
 
 #  Korean Text: '1라운드 뒤에 착탄하는 곡사 포격으로 목표 지점에 {0} 피해를 줍니다. 목표 지점 주변에는 피해가 50% 감소합니다. 대상이 이동 불가 상태인 경우, 직격해 피해량이 증가합니다.'
@@ -13349,8 +13493,7 @@ msgstr ""
 #  Korean Text: '자신의 남은 HP 비율이 적을수록 적에게 주는 피해가 증가하며, 받는 피해가 감소합니다. 효과 저항이 증가하며, HP 10% 이하 상태로 피격 시 반격합니다.'
 #: Skill[Skill_MP_Nereid_EV1_3].SkillDescription
 msgid ""
-"自分の残りHPの割合が少ないほど敵に与えるダメージが増加し、受けるダメージが減少します。状態異常耐性が増加し、HP10％以下状態で攻撃を受けた時、反撃します"
-"。"
+"自分の残りHPの割合が少ないほど敵に与えるダメージが増加し、受けるダメージが減少します。状態異常耐性が増加し、HP10％以下状態で被撃時、反撃します。"
 msgstr ""
 
 #  Korean Text: '전투 불능이 될 경우, HP를 회복하고 전투를 속행합니다. 전투 속행 효과 발동 시, 공격력 / 적중 / 치명타 / 행동력이 증가하며 방어막과 피해 감소 효과를 무시합니다.'
@@ -13696,7 +13839,7 @@ msgstr ""
 
 #  Korean Text: '공격 당할 경우, 상대의 스킬이 최소 피해로 적용됩니다. 라운드 개시 시, 자신과 인접한 아군에게 걸린 방해 효과를 해제합니다.'
 #: Skill[Skill_MP_NightChickCMP_EV2_4].SkillDescription
-msgid "攻撃を受けた時、相手のスキルによるダメージが最小化されます。ラウンド開始時、自分と隣接した味方にかかった妨害効果を解除します。"
+msgid "被撃時、相手のスキルによるダメージが最小化されます。ラウンド開始時、自分と隣接した味方にかかった妨害効果を解除します。"
 msgstr ""
 
 #  Korean Text: '내성 장갑'
@@ -13707,8 +13850,7 @@ msgstr ""
 #  Korean Text: '화염 속성 액티브 스킬 공격 피격 시, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.'
 #: Skill[Skill_MP_NightChickCMP_EV2_5].SkillDescription
 msgid ""
-"火炎属性のアクティブスキル攻撃を受けた時、腐食液に火が付き点火状態になります。点火状態で撃破されると、腐食液が爆発して範囲内の味方に壊滅的な固定ダメージを与"
-"えます。"
+"火炎属性のアクティブスキル被撃時、腐食液に火が付き点火状態になります。点火状態で撃破されると、腐食液が爆発して範囲内の味方に壊滅的な固定ダメージを与えます。"
 msgstr ""
 
 #  Korean Text: '부식액 폭발'
@@ -13827,8 +13969,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 일정 확률로 인접한 아군에게 경보를 울리며 전황을 공유합니다. 레이더를 공유 받은 경우, AP가 증가하며 2라운드 동안 사거리와 적중률이 증가합니다.'
 #: Skill[Skill_MP_NightChickDE_N_3].SkillDescription
-msgid ""
-"攻撃を受けた時、一定確率で隣接した味方に警報を発令し戦況を共有します。警報を共有した場合、APが増加し2ラウンドの間、射程距離と命中率が増加します。"
+msgid "被撃時、一定確率で隣接した味方に警報を発令し戦況を共有します。警報を共有した場合、APが増加し2ラウンドの間、射程距離と命中率が増加します。"
 msgstr ""
 
 #  Korean Text: '레이더 공유'
@@ -13898,6 +14039,46 @@ msgstr ""
 #  Korean Text: '지면 교란 파장 (회피 더미)'
 #: Skill[Skill_MP_NightChickDEG_N_11].SkillName
 msgid "地面かく乱波長(回避ダミー)"
+msgstr ""
+
+#  Korean Text: '약점 스캔'
+#: Skill[Skill_MP_NightChickDEX_N_1].SkillName
+msgid "弱点スキャン"
+msgstr ""
+
+#  Korean Text: '강화 섬광탄'
+#: Skill[Skill_MP_NightChickDEX_N_2].SkillName
+msgid "強化閃光弾"
+msgstr ""
+
+#  Korean Text: '경보 레이더'
+#: Skill[Skill_MP_NightChickDEX_N_3].SkillName
+msgid "警報レーダー"
+msgstr ""
+
+#  Korean Text: '레이더 교란'
+#: Skill[Skill_MP_NightChickDEX_N_4].SkillName
+msgid "レーダー撹乱"
+msgstr ""
+
+#  Korean Text: '약점 스캔 (회피 증가)'
+#: Skill[Skill_MP_NightChickDEX_N_11].SkillName
+msgid "弱点スキャン(回避増加)"
+msgstr ""
+
+#  Korean Text: '강화 섬광탄 (AP 감소)'
+#: Skill[Skill_MP_NightChickDEX_N_12].SkillName
+msgid "強化閃光弾(AP減少)"
+msgstr ""
+
+#  Korean Text: '경보 레이더 (냉기 피격)'
+#: Skill[Skill_MP_NightChickDEX_N_13].SkillName
+msgid "警報レーダー(冷気被撃)"
+msgstr ""
+
+#  Korean Text: '레이더 교란 (냉기 피격)'
+#: Skill[Skill_MP_NightChickDEX_N_14].SkillName
+msgid "レーダー撹乱(冷気被撃)"
 msgstr ""
 
 #  Korean Text: '머신건 사격으로 {0} 피해를 줍니다. 2라운드 동안 대상의 회피를 낮츱니다.'
@@ -14032,7 +14213,7 @@ msgstr ""
 
 #  Korean Text: '사망 시, 모든 아군의 행동력 / 공격력이 감소합니다.'
 #: Skill[Skill_MP_NightChickQM_N_5].SkillDescription
-msgid "死亡時、すべての味方の行動力 /攻撃力が減少します。"
+msgid "死亡時、すべての味方の行動力/攻撃力が減少します。"
 msgstr ""
 
 #  Korean Text: '과전류 방출'
@@ -14042,7 +14223,7 @@ msgstr ""
 
 #  Korean Text: '무장 보급 (자버프 더미)'
 #: Skill[Skill_MP_NightChickQM_N_11].SkillName
-msgid "武装補給(ジャボプダミー)"
+msgid "武装補給(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '대상에게 {0} 피해를 주며, 2라운드 동안 대상의 공격력 / 적중 / 치명타를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.'
@@ -14067,7 +14248,7 @@ msgstr ""
 
 #  Korean Text: '라운드 개시 시, 일정 확률로 무장 보급을 받은 아군의 공격을 지원하며, 피격 시 회피율이 증가합니다. 회피율 증가 효과는 최대 2회 중첩됩니다.'
 #: Skill[Skill_MP_NightChickQMEX_N_3].SkillDescription
-msgid "ラウンド開始時、一定の確率で武装供給を受けた味方の攻撃を支援し、攻撃を受けた時回避率が増加します。回避率増加効果は最大2回まで重ね掛け可能です。"
+msgid "ラウンド開始時、一定の確率で武装供給を受けた味方の攻撃を支援し、被撃時回避率が増加します。回避率増加効果は最大2回まで重ね掛け可能です。"
 msgstr ""
 
 #  Korean Text: '칙 약진하기'
@@ -14099,7 +14280,7 @@ msgstr ""
 
 #  Korean Text: '공격 훼방(자버프 더미)'
 #: Skill[Skill_MP_NightChickQMEX_N_11].SkillName
-msgid "攻撃妨害(ジャボプダミー)"
+msgid "攻撃妨害(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '칙 약진하기(회피 더미)'
@@ -14170,6 +14351,21 @@ msgstr ""
 #  Korean Text: '칙 커버링'
 #: Skill[Skill_MP_NightChickS_N_3].SkillName
 msgid "チックカバーリング"
+msgstr ""
+
+#  Korean Text: '칙 방패 강타'
+#: Skill[Skill_MP_NightChickShEx_N_1].SkillName
+msgid "チックシールド強打"
+msgstr ""
+
+#  Korean Text: '칙 보호 개시'
+#: Skill[Skill_MP_NightChickShEx_N_2].SkillName
+msgid "チック保護開始"
+msgstr ""
+
+#  Korean Text: '칙 방어 대형'
+#: Skill[Skill_MP_NightChickShEx_N_3].SkillName
+msgid "チック防御隊形 "
 msgstr ""
 
 #  Korean Text: '방패로 강타해 {0} 피해를 줍니다. 대상이 회피 감소 상태면 일정 확률로 행동 불가로 만듭니다.'
@@ -14454,7 +14650,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 일정 확률로 이동 불가 / 행동 불가 / 행동력 감소 효과를 해제합니다.'
 #: Skill[Skill_MP_Predator_B0208_5].SkillDescription
-msgid "攻撃を受けた時、一定の確率で移動不可/行動不可/行動力減少効果を解除します。"
+msgid "被撃時、一定の確率で移動不可/行動不可/行動力減少効果を解除します。"
 msgstr ""
 
 #  Korean Text: '멈출 수 없는 본능'
@@ -14464,17 +14660,17 @@ msgstr ""
 
 #  Korean Text: '생존 본능 (피해 감소)'
 #: Skill[Skill_MP_Predator_EV1_11].SkillName
-msgid "生存本能(被害ダウン)"
+msgid "生存本能(被害減少)"
 msgstr ""
 
 #  Korean Text: '생존 본능 (효과 저항)'
 #: Skill[Skill_MP_Predator_EV1_12].SkillName
-msgid "生存本能(効果抵抗)"
+msgid "生存本能(状態異常耐性)"
 msgstr ""
 
 #  Korean Text: '생존 본능 (적중 증가)'
 #: Skill[Skill_MP_Predator_EV1_13].SkillName
-msgid "生存本能(命中アップ)"
+msgid "生存本能(命中増加)"
 msgstr ""
 
 #  Korean Text: '포격으로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 공격기인 경우 피해량이 증가합니다.'
@@ -14554,6 +14750,11 @@ msgstr ""
 
 #  Korean Text: '122mm APFSDS (관통 더미)'
 #: Skill[Skill_MP_ProgramMobAN_N_11].SkillName
+msgid "122mm APFSDS(貫通ダミー)"
+msgstr ""
+
+#  Korean Text: '연계 포격 (AP 더미)'
+#: Skill[Skill_MP_ProgramMobAN_N_12].SkillName
 msgid "連携砲撃(APダミー)"
 msgstr ""
 
@@ -14665,7 +14866,7 @@ msgstr ""
 
 #  Korean Text: '공격 대열 보호 (자버프 더미)-테스트'
 #: Skill[Skill_MP_ProgramMobAT_EW_11].SkillName
-msgid "攻撃隊列保護(ジャバフダミー)‐テスト"
+msgid "攻撃隊列保護(自分バフダミー)‐テスト"
 msgstr ""
 
 #  Korean Text: '2연장 속사포'
@@ -14700,7 +14901,7 @@ msgstr ""
 
 #  Korean Text: '공격 대열 보호 (자버프 더미)'
 #: Skill[Skill_MP_ProgramMobAT_N_11].SkillName
-msgid "攻撃隊列保護(ジャボプダミー)"
+msgid "攻撃隊列保護(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '미사일로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 대상이 화염 저항 감소 상태면 일정 확률로 점화 상태로 만듭니다.'
@@ -14852,7 +15053,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 공격을 분석해 해당 라운드 동안 회피가 증가합니다.'
 #: Skill[Skill_MP_ProgramMobMS_N_4].SkillDescription
-msgid "攻撃を受けた時、攻撃を分析該当のラウンドの間、回避率が増加します。"
+msgid "被撃時、攻撃を分析該当のラウンドの間、回避率が増加します。"
 msgstr ""
 
 #  Korean Text: '공격 분석'
@@ -14892,7 +15093,7 @@ msgstr ""
 
 #  Korean Text: '적에게 공격을 받을 시 반격을 하고 아군이 사망시 행동력이 증가합니다.'
 #: Skill[Skill_MP_ProgramMobMT_EW_4].SkillDescription
-msgid "攻撃を受けた時、反撃し味方が死亡時、行動力が増加します。"
+msgid "被撃時、反撃し味方が死亡時、行動力が増加します。"
 msgstr ""
 
 #  Korean Text: '냉각탄 사격'
@@ -15057,7 +15258,7 @@ msgstr ""
 
 #  Korean Text: '밀착 호위 (피해 감소 더미)-테스트'
 #: Skill[Skill_MP_ProgramMobTT_EW_11].SkillName
-msgid "密着護衛(被害ダウンダミー)‐テスト"
+msgid "密着護衛(被害減少ダミー)‐テスト"
 msgstr ""
 
 #  Korean Text: '밀착 호위'
@@ -15072,7 +15273,7 @@ msgstr ""
 
 #  Korean Text: '밀착 호위 (피해 감소 더미)'
 #: Skill[Skill_MP_ProgramMobTT_N_11].SkillName
-msgid "密着護衛(被害ダウンダミー)"
+msgid "密着護衛(被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '목표 적을 감전시켜 {0}의 전기 속성 피해를 주고 AP와 회피를 감소시킵니다.'
@@ -15152,7 +15353,7 @@ msgstr ""
 
 #  Korean Text: '칩입자 포획 (자신 행력 증가)'
 #: Skill[Skill_MP_PuppHeadC_N_12].SkillName
-msgid "侵入者捕獲(自分の行力アップ)"
+msgid "侵入者捕獲(自分の行動力増加)"
 msgstr ""
 
 #  Korean Text: '연산 병렬처리 (적중 더미)'
@@ -15162,7 +15363,7 @@ msgstr ""
 
 #  Korean Text: '연산 병렬처리 (행력 더미)'
 #: Skill[Skill_MP_PuppHeadC_N_14].SkillName
-msgid "演算並列処理(行力ダミー)"
+msgid "演算並列処理(行動力ダミー)"
 msgstr ""
 
 #  Korean Text: '연산 병렬처리 (저항 더미)'
@@ -15245,7 +15446,7 @@ msgstr ""
 
 #  Korean Text: '목표 호위 (몹 피해 감소 더미)'
 #: Skill[Skill_MP_Rampart_N_11].SkillName
-msgid "対象護衛(モンスターの被害ダウンダミー)"
+msgid "対象護衛(モンスターの被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '견제 사격으로 대상에게 {0} 피해를 주고, 2라운드 동안 공격력 / 치명타 / 적중 / 행동력을 낮춥니다.'
@@ -15313,8 +15514,8 @@ msgstr ""
 #  Korean Text: '<전하 충전> 중첩 수에 비례해 회피가 증가하며, 회피 시 반격합니다. 자신의 HP가 25% 이하인 상태로 적을 공격할 때, 회피가 추가로 증가합니다. 냉기 속성 공격 피격 시, 회피 강화 효과가 해제됩니다.'
 #: Skill[Skill_MP_RocC_EV2_3].SkillDescription
 msgid ""
-"<電荷チャージ>重ね掛け回数に比例して回避率が増加し、回避時反撃します。自分のHPが25％以下である状態で敵を攻撃時、回避率が追加で増加します。冷気属性攻撃"
-"を受けた時、回避率強化効果が解除されます。"
+"<電荷チャージ>重ね掛け回数に比例して回避率が増加し、回避時反撃します。自分のHPが25％以下である状態で敵を攻撃時、回避率が追加で増加します。冷気属性被撃"
+"時、回避率強化効果が解除されます。"
 msgstr ""
 
 #  Korean Text: '전자기파 파장'
@@ -15391,7 +15592,7 @@ msgstr ""
 
 #  Korean Text: 'S. 블리츠 스톰 (AP 감소)'
 #: Skill[Skill_MP_RocC_EV2_20].SkillName
-msgid "S. ブリッツストーム(APダウン)"
+msgid "S. ブリッツストーム(AP減少)"
 msgstr ""
 
 #  Korean Text: '지정 범위에 {0} 보호 무시 전기 속성 피해를 주고 AP / 회피 / 행동력 / 전기 저항을 낮춥니다. 목표 지점 주변은 피해량이 50% 감소합니다. <전하 충전> 중첩을 2 사용합니다.'
@@ -15978,12 +16179,12 @@ msgstr ""
 
 #  Korean Text: '전자기장 미사일 난사(사거리 더미)'
 #: Skill[Skill_MP_SpectorBS_N_12].SkillName
-msgid "電磁場ミサイル乱射(射程ダミー)"
+msgid "電磁場ミサイル乱射(射程距離ダミー)"
 msgstr ""
 
 #  Korean Text: '강화 역장 전개(자버프 효과 저항 더미)'
 #: Skill[Skill_MP_SpectorBS_N_13].SkillName
-msgid "強化力場展開(自バフ状態異常耐性ダミー)"
+msgid "強化力場展開(自分バフ状態異常耐性ダミー)"
 msgstr ""
 
 #  Korean Text: '강화 역장 전개(효과 저항 더미)'
@@ -16023,7 +16224,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 주변 아군에게 전투 패턴 분석 결과를 발신해 적중 / 치명타 / 효과 저항을 올려줍니다. 해당 효과는 3회까지 중첩됩니다.'
 #: Skill[Skill_MP_SpectorMS_N_4].SkillDescription
-msgid "攻撃を受けた時、周辺の味方に戦闘パターン分析結果を発信して命中率/クリティカル率/状態異常耐性を増加させます。効果は3回まで重ね掛け可能です。"
+msgid "被撃時、周辺の味方に戦闘パターン分析結果を発信して命中率/クリティカル率/状態異常耐性を増加させます。効果は3回まで重ね掛け可能です。"
 msgstr ""
 
 #  Korean Text: '전투 패턴 분석'
@@ -16038,12 +16239,12 @@ msgstr ""
 
 #  Korean Text: '이동형 반물질 역장(자버프 더미)'
 #: Skill[Skill_MP_SpectorMS_N_11].SkillName
-msgid "移動型反物質力場(ジャボプダミー)"
+msgid "移動型反物質力場(自分バフダミー)"
 msgstr ""
 
 #  Korean Text: '교란용 전자기장 미사일(사거리 감소 더미)'
 #: Skill[Skill_MP_SpectorMS_N_12].SkillName
-msgid "かく乱用電磁場ミサイル(射程距離のダウンダミー)"
+msgid "かく乱用電磁場ミサイル(射程距離減少ダミー)"
 msgstr ""
 
 #  Korean Text: '전투 패턴 분석(치명타 더미)'
@@ -16054,6 +16255,11 @@ msgstr ""
 #  Korean Text: '전투 패턴 분석(효과 저항 더미)'
 #: Skill[Skill_MP_SpectorMS_N_14].SkillName
 msgid "戦闘パターン分析(状態異常耐性ダミー)"
+msgstr ""
+
+#  Korean Text: '이동형 반물질 역장 (해제)'
+#: Skill[Skill_MP_SpectorMS_N_15].SkillName
+msgid "移動型反物質力場(解除)"
 msgstr ""
 
 #  Korean Text: '레일건 저격으로 {0} 보호 / 방어막 / 피해 감소 무시 피해를 줍니다.'
@@ -16236,17 +16442,47 @@ msgstr ""
 
 #  Korean Text: '냉동 가스 분사 (냉기 저항 감소)'
 #: Skill[Skill_MP_StingerC_N_11].SkillName
-msgid "冷凍ガス噴射(冷気耐性ダウン)"
+msgid "冷凍ガス噴射(冷気耐性減少)"
 msgstr ""
 
 #  Korean Text: '냉동 가스 분사 (전기 저항 감소)'
 #: Skill[Skill_MP_StingerC_N_12].SkillName
-msgid "冷凍ガス噴射(電気耐性ダウン)"
+msgid "冷凍ガス噴射(電気耐性減少)"
 msgstr ""
 
 #  Korean Text: '침입자 경계 (적중 감소 더미)'
 #: Skill[Skill_MP_StingerC_N_13].SkillName
-msgid "侵入者警戒(命中ダウンダミー)"
+msgid "侵入者警戒(命中減少ダミー)"
+msgstr ""
+
+#  Korean Text: '히트 머신건'
+#: Skill[Skill_MP_Tarantula_N_1].SkillName
+msgid "ヒットマシンガン"
+msgstr ""
+
+#  Korean Text: '자폭 개시'
+#: Skill[Skill_MP_Tarantula_N_2].SkillName
+msgid "自爆開始"
+msgstr ""
+
+#  Korean Text: '내부 과열'
+#: Skill[Skill_MP_Tarantula_N_3].SkillName
+msgid "内部過熱"
+msgstr ""
+
+#  Korean Text: '과열 폭발'
+#: Skill[Skill_MP_Tarantula_N_4].SkillName
+msgid "過熱爆発"
+msgstr ""
+
+#  Korean Text: '히트 머신건 (크리)'
+#: Skill[Skill_MP_Tarantula_N_11].SkillName
+msgid "ヒットマシンガン(クリ)"
+msgstr ""
+
+#  Korean Text: '자폭 개시 (자폭)'
+#: Skill[Skill_MP_Tarantula_N_12].SkillName
+msgid "自爆開始(自爆)"
 msgstr ""
 
 #  Korean Text: '대상에게 {0} 피해를 주고, 일정 확률로 3라운드 동안 공격력 / 치명타 / 적중을 낮춥니다.'
@@ -16358,7 +16594,7 @@ msgstr ""
 
 #  Korean Text: '외장형 반응 장갑 (효과 저항 더미)'
 #: Skill[Skill_MP_Tortoise_N_11].SkillName
-msgid "外装型反応装甲(属性耐性ダミー)"
+msgid "外装型反応装甲(状態異常耐性ダミー)"
 msgstr ""
 
 #  Korean Text: '2라운드 동안 방어력이 대폭 증가합니다.'
@@ -16548,7 +16784,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 높은 확률로 AP가 감소하며 낮은 확률로 쇼트가 생겨 행동 불능이 됩니다.'
 #: Skill[Skill_MP_UnderWatcherGenerator_EW_4].SkillDescription
-msgid "攻撃を受けた時、高い確率でAPが減少し低い確率でショートが発生し行動不可になります。"
+msgid "被撃時、高い確率でAPが減少し低い確率でショートが発生し行動不可になります。"
 msgstr ""
 
 #  Korean Text: '제네레이터 쇼트'
@@ -16568,7 +16804,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 일정 확률로 쇼트가 생겨 행동 불능이 됩니다.'
 #: Skill[Skill_MP_UnderWatcherGenerator_EW_11].SkillDescription
-msgid "攻撃を受けた時、一定確率でショートが発生し行動不可"
+msgid "被撃時、一定確率でショートが発生し行動不可"
 msgstr ""
 
 #  Korean Text: '제네레이터 쇼트 (더미)'
@@ -16593,7 +16829,7 @@ msgstr ""
 
 #  Korean Text: '피격 시, 일정 확률로 쇼트가 생겨 2라운드 동안 행동 불능이 됩니다.'
 #: Skill[Skill_MP_UnderWatcherGenerator_N_4].SkillDescription
-msgid "攻撃を受けた時、一定確率でショートが発生し2ラウンドの間、行動不可"
+msgid "被撃時、一定確率でショートが発生し2ラウンドの間、行動不可"
 msgstr ""
 
 #  Korean Text: '에너지 코팅'
@@ -16698,7 +16934,7 @@ msgstr ""
 
 #  Korean Text: '록 온 센서 (티어 2 AP 감소)'
 #: Skill[Skill_MP_UnderWatcherSensor_TU2_13].SkillName
-msgid "ロックオンセンサー(ティア2APダウン)"
+msgid "ロックオンセンサー(ティア2AP減少)"
 msgstr ""
 
 #  Korean Text: '리볼버 캐논으로 단일 대상에게 {0} 피해를 주고, 대상을 도발하며 적중을 감소시킵니다. 대상이 방어력 감소 상태면 피해량이 증가합니다.'
@@ -16738,22 +16974,22 @@ msgstr ""
 
 #  Korean Text: '오만과 분노 (공 자버프)'
 #: Skill[Skill_MP_Undine_EV1_14].SkillName
-msgid "傲慢と憤怒(攻ジャバフ)"
+msgid "傲慢と憤怒(攻自分バフ)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (치 자버프)'
 #: Skill[Skill_MP_Undine_EV1_15].SkillName
-msgid "傲慢と憤怒(クリジャバフ)"
+msgid "傲慢と憤怒(クリ自分バフ)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (적 자버프)'
 #: Skill[Skill_MP_Undine_EV1_16].SkillName
-msgid "傲慢と憤怒(的ジャバフ)"
+msgid "傲慢と憤怒(的自分バフ)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (행 자버프)'
 #: Skill[Skill_MP_Undine_EV1_17].SkillName
-msgid "傲慢と憤怒(行ジャバフ)"
+msgid "傲慢と憤怒(行自分バフ)"
 msgstr ""
 
 #  Korean Text: '오만과 분노 (아군 피증 회감)'
@@ -16822,7 +17058,7 @@ msgstr ""
 
 #  Korean Text: 'F.F 미사일 (회피 증가 해제)'
 #: Skill[Skill_MP_Undine_EV3_13].SkillName
-msgid "F.Fミサイル(回避アップ解除)"
+msgid "F.Fミサイル(回避増加解除)"
 msgstr ""
 
 #  Korean Text: '우향선회 (개시효과)'
@@ -16916,17 +17152,17 @@ msgstr ""
 
 #  Korean Text: '아군이 사망한 경우, 2라운드 동안 회피가 증가하며 공격력과 적중이 감소합니다.'
 #: Skill[Skill_MP_Wasp_N_11].SkillDescription
-msgid "味方死亡時、2ラウンドの間、回避率が増加し攻撃力と命中率が減少します。"
+msgid "味方死亡時、2ラウンドの間、回避が増加し攻撃力と命中が減少します。"
 msgstr ""
 
 #  Korean Text: '회피 기동 (적중 감소)'
 #: Skill[Skill_MP_Wasp_N_11].SkillName
-msgid "回避機動(命中ダウン)"
+msgid "回避機動(命中減少)"
 msgstr ""
 
 #  Korean Text: '회피 기동 (행동력 감소)'
 #: Skill[Skill_MP_Wasp_N_12].SkillName
-msgid "回避機動(行動力ダウン)"
+msgid "回避機動(行動力減少)"
 msgstr ""
 
 #  Korean Text: '화염 방사로 대상에게 {0} 피해를 주고, 대상 뒤에 50% 감소한 피해를 줍니다. 대상을 점화 상태로 만들어 2라운드 동안 지속 화염 피해를 줍니다.'
@@ -17191,7 +17427,7 @@ msgstr ""
 
 #  Korean Text: '자가 발전 (AP 감소 더미)'
 #: Skill[Skill_PECS_BS_N_11].SkillName
-msgid "自家発電(APダウンダミー)"
+msgid "自家発電(AP減少ダミー)"
 msgstr ""
 
 #  Korean Text: '전파 발신 (효과 더미)'
@@ -17206,17 +17442,17 @@ msgstr ""
 
 #  Korean Text: '경보 발신 (피해 감소 더미)'
 #: Skill[Skill_PECS_BS_N_14].SkillName
-msgid "警報発信(被害ダウンダミー)"
+msgid "警報発信(被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '자가 발전 (적중 감소 더미)'
 #: Skill[Skill_PECS_BS_N_15].SkillName
-msgid "自家発電(命中ダウンダミー)"
+msgid "自家発電(命中減少ダミー)"
 msgstr ""
 
 #  Korean Text: '자가 발전 (사거리 감소 더미)'
 #: Skill[Skill_PECS_BS_N_16].SkillName
-msgid "自家発電(射程距離のダウンダミー)"
+msgid "自家発電(射程距離の減少ダミー)"
 msgstr ""
 
 #  Korean Text: '음파를 발사해 보호 효과를 무시하고 {0} 피해를 줍니다. 대상의 공격력/치명타/적중이 감소하며, <치어 리더> 중첩에 따라 효과가 최대 2배까지 증폭됩니다. 중첩이 3인 경우, 대상이 받는 피해가 증가합니다. <치어 리더> 중첩을 모두 소모합니다.'
@@ -17314,7 +17550,7 @@ msgstr ""
 
 #  Korean Text: 'LBRB 스피커 (좌측 행력)'
 #: Skill[Skill_PECS_Carolina_N_16].SkillName
-msgid "LBRBスピーカー(左側行力)"
+msgid "LBRBスピーカー(左側行動力)"
 msgstr ""
 
 #  Korean Text: '스턴 롯드로 {0} 전기 속성 피해를 주고 회피를 낮춥니다. 2라운드 동안 대상을 도발하며, 일정 확률로 행동 불능 상태로 만듭니다. 대상이 침수 상태면 행동 불능 확률이 3배로 적용됩니다.'
@@ -17388,7 +17624,7 @@ msgstr ""
 
 #  Korean Text: '스턴 롯드 (침수 더미)'
 #: Skill[Skill_PECS_Cerberus_N_11].SkillName
-msgid "スタンロッド(浸水のダミー)"
+msgid "スタンロッド(浸水ダミー)"
 msgstr ""
 
 #  Korean Text: '방어 태세를 취해 2라운드 동안 받는 피해가 감소하며 반격합니다.'
@@ -17398,7 +17634,7 @@ msgstr ""
 
 #  Korean Text: '지옥의 파수꾼 (피해 감소 더미)'
 #: Skill[Skill_PECS_Cerberus_N_12].SkillName
-msgid "地獄の番人(被害ダウンダミー)"
+msgid "地獄の番人(被害減少ダミー)"
 msgstr ""
 
 #  Korean Text: '지옥의 파수꾼 (아군 보호 더미)'
@@ -17763,7 +17999,7 @@ msgstr ""
 
 #  Korean Text: '극지 대비책 (AP 증가)'
 #: Skill[Skill_PECS_Empress_N_15].SkillName
-msgid "極地対策(APアップ)"
+msgid "極地対策(AP増加)"
 msgstr ""
 
 #  Korean Text: '펭귄 은신술 (5렙)'
@@ -17847,7 +18083,7 @@ msgstr ""
 
 #  Korean Text: '워커 홀릭 (피해 감소)'
 #: Skill[Skill_PECS_Express76_N_11].SkillName
-msgid "ワーカホリック(被害ダウン)"
+msgid "ワーカホリック(被害減少)"
 msgstr ""
 
 #  Korean Text: '택배 왔어요! (AP)'
@@ -17872,7 +18108,7 @@ msgstr ""
 
 #  Korean Text: '화물 배송 (AP 감소 더미)'
 #: Skill[Skill_PECS_Express76_N_16].SkillName
-msgid "荷物配送(APダウンダミー)"
+msgid "荷物配送(AP減少ダミー)"
 msgstr ""
 
 #  Korean Text: '택배 왔어요! (2단계)'
@@ -17950,8 +18186,8 @@ msgstr ""
 #  Korean Text: '지정 범위에 {0} 화염 피해를 주고, 2라운드 동안 인화물을 부착해 회피를 감소시킵니다. 인화물 부착 상태인 대상은 화염 속성 액티브 스킬 피격 시, 공격자 공격력 50%의 고정 피해를 입습니다.'
 #: Skill[Skill_PECS_Ignis_N_2].SkillDescription
 msgid ""
-"指定範囲に{0}の火炎属性ダメージを与え、2ラウンドの間、引火物を付着させて回避率を減少させます。引火物付着状態である対象が火炎属性の攻撃を受けた時、攻撃者"
-"の攻撃力の50％の固定ダメージを受けます。"
+"指定範囲に{0}の火炎属性ダメージを与え、2ラウンドの間、引火物を付着させて回避率を減少させます。引火物付着状態である対象が火炎属性の被撃時、攻撃者の攻撃力"
+"の50％の固定ダメージを受けます。"
 msgstr ""
 
 #  Korean Text: '지정 범위 {0} 화염 피해. 인화물 부착 효과 적용'
@@ -17967,7 +18203,7 @@ msgstr ""
 #  Korean Text: '라운드 개시 시, 화염 저항 / 효과 저항 / 방어력이 증가합니다. 각 속성 공격 피격 시, 2라운드 동안 해당 속성 저항이 저항 증가 수치만큼 추가로 적용됩니다.'
 #: Skill[Skill_PECS_Ignis_N_3].SkillDescription
 msgid ""
-"ラウンド開始時、火炎耐性/状態異常耐性/防御力が増加します。各属性攻撃を受けた時、2ラウンドの間、その属性への耐性が状態異常耐性の値だけ追加で適用されます。"
+"ラウンド開始時、火炎耐性/状態異常耐性/防御力が増加します。各属性被撃時、2ラウンドの間、その属性への耐性が状態異常耐性の値だけ追加で適用されます。"
 msgstr ""
 
 #  Korean Text: '화염 저항 / 속성 저항 / 방어력 증가. 속성 공격 피격 시, 해당 속성 저항 추가 증가'
@@ -18287,7 +18523,7 @@ msgstr ""
 
 #  Korean Text: '액화 질소 분사 (이동 불능 더미)'
 #: Skill[Skill_PECS_Serpent_N_11].SkillName
-msgid "液化窒素噴射(移動不能のダミー)"
+msgid "液化窒素噴射(移動不能ダミー)"
 msgstr ""
 
 #  Korean Text: '불굴의 소방관 (회피 더미)'
@@ -18297,7 +18533,7 @@ msgstr ""
 
 #  Korean Text: '불굴의 소방관 (행동력 증가 더미)'
 #: Skill[Skill_PECS_Serpent_N_13].SkillName
-msgid "不屈の消防官(行動力アップダミー)"
+msgid "不屈の消防官(行動力増加ダミー)"
 msgstr ""
 
 #  Korean Text: '단일 대상 {0} 피해. 점화 효과'

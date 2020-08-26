@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-18 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -669,6 +669,10 @@ msgstr "Given T-3 Leprechaun"
 #: ItemConsumable[CharTicket_Char_BR_Leprechaun_N].ItemName
 msgid "T-3レプリコン"
 msgstr "T-3 Leprechaun"
+
+#: ItemConsumable[CharTicket_Char_BR_Lindwurm_N].ItemName
+msgid "P-29リントヴルム"
+msgstr "P-29 Lindwurm"
 
 #  Korean Text: '불굴의 마리을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Marie_N].ItemDesc
@@ -2925,7 +2929,7 @@ msgstr "Pack of Resources"
 
 #  Korean Text: '모든 자원이 1500+750개 들어있습니다.'
 #: ItemConsumable[ResourcePack_1500_50per].ItemDesc
-msgid "全ての資源 2250個(内ボーナス1600個)が入っています。"
+msgid "全ての資源2250個(内ボーナス1600個)が入っています。"
 msgstr "Contains 2250 of all resources (1600 are bonus)."
 
 #  Korean Text: '자원 팩 (한정 세일)'
@@ -2945,7 +2949,7 @@ msgstr "Box of Resources"
 
 #  Korean Text: '모든 자원이 3000+1500개 들어있습니다.'
 #: ItemConsumable[ResourcePack_3000_50per].ItemDesc
-msgid "全ての資源 4500個(内ボーナス3300個)が入っています。"
+msgid "全ての資源4500個(内ボーナス3300個)が入っています。"
 msgstr "Contains 4500 of all resources (3300 are bonus)."
 
 #  Korean Text: '자원 박스 (한정 세일)'
@@ -2985,7 +2989,7 @@ msgstr "Small Container of Resources"
 
 #  Korean Text: '모든 자원이 5000+2500개 들어있습니다.'
 #: ItemConsumable[ResourcePack_5000_50per].ItemDesc
-msgid "全ての資源 7500個(内ボーナス5650個)が入っています。"
+msgid "全ての資源7500個(内ボーナス5650個)が入っています。"
 msgstr "Contains 7500 of all resources (5650 are bonus)."
 
 #  Korean Text: '소형 자원 컨테이너 (한정 세일)'
@@ -3005,7 +3009,7 @@ msgstr "Medium Container of Resources"
 
 #  Korean Text: '모든 자원이 10000+5000개 들어있습니다.'
 #: ItemConsumable[ResourcePack_10000_50per].ItemDesc
-msgid "全ての資源 15000個(内ボーナス11400個)が入っています。"
+msgid "全ての資源15000個(内ボーナス11400個)が入っています。"
 msgstr "Contains 15000 of all resources (11400 are bonus)."
 
 #  Korean Text: '중형 자원 컨테이너 (한정 세일)'
@@ -3025,7 +3029,7 @@ msgstr "Large Container of Resources"
 
 #  Korean Text: '모든 자원이 30000+15000개 들어있습니다.'
 #: ItemConsumable[ResourcePack_30000_50per].ItemDesc
-msgid "全ての資源 45000個(内ボーナス35000個)が入っています。"
+msgid "全ての資源45000個(内ボーナス35000個)が入っています。"
 msgstr "Contains 45000 of all resources (35000 are bonus)."
 
 #  Korean Text: '대형 자원 컨테이너 (한정 세일)'
@@ -3055,7 +3059,7 @@ msgstr "Very Large Container of Resources"
 
 #  Korean Text: '모든 자원이 50000+25000개 들어있습니다.'
 #: ItemConsumable[ResourcePack_50000_50per].ItemDesc
-msgid "全ての資源 75000個(内ボーナス60500個)が入っています。"
+msgid "全ての資源75000個(内ボーナス60500個)が入っています。"
 msgstr "Contains 75000 of all resources (60500 are bonus)."
 
 #  Korean Text: '초대형 자원 컨테이너 (한정 세일)'
@@ -4589,7 +4593,7 @@ msgstr "Modern Captain Costume (War Wolf)"
 
 #  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 특히 열정적인 브라우니에겐 더욱.'
 #: ItemConsumable[Skin_Brownie_01].ItemDesc
-msgid "夏にはもう少し涼しい戦闘服がいいでしょう。特に熱情のブラウニーならもっと。"
+msgid "夏にはもう少し涼しい戦闘服がいいでしょう。いつもより元気いっぱいのブラウニーなら特に。"
 msgstr ""
 "In summer you need cooler combat suits. Especially for passionate Brownies."
 

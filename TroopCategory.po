@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -65,6 +65,10 @@ msgstr "AGS Robotech"
 
 #: TroopCategory[Squad_AGSRoboTech_2].Squad_Name
 msgid "AGSスパルタンズ"
+msgstr ""
+
+#: TroopCategory[Squad_AGSRoboTech_3].Squad_Name
+msgid "AGSロボテックII"
 msgstr ""
 
 #  Korean Text: '0'
@@ -172,6 +176,10 @@ msgstr "Companion Series"
 #: TroopCategory[Squad_Dentertainment_1].Squad_Name
 msgid "D-エンターテインメント"
 msgstr "D-Entertainment"
+
+#: TroopCategory[Squad_Dentertainment_3].Squad_Name
+msgid "D-エンターヴィランズ"
+msgstr ""
 
 #  Korean Text: '인류의 멸망에도 불구하고 여전히 가장 무장을 잘 갖춘 군대를 꼽자면 둠 브링어를 예로 들 수 있다. 회사들의 세계 지배에 따라 창설된 이 군대는 4군 중에서 가장 뒤늦게 만들어졌지만 가장 ㅋ악명 높은 명성을 얻기도 했다. 번개같이 날아와 퍼붓는 기동 타격과 성층권을 넘나들며 벌인 전략 폭격은 둠 브링어에게 자신의 이름에 걸맞는 명성을 주었다. 적들이 둠 브링어를 두려워한 또 다른 이유는 둠 브링어가 열핵 병기를 다양하게 보유하고 있었다는 점이다. 실제로 열핵 병기에 대한 제어권을 쥐고 있는 것은 인간이었기에 사용된 적은 없었지만 존재 만으로도 둠 브링어는 공포스러운 존재로 인정 받았다.'
 #: TroopCategory[Squad_DoomBringer_1].Squad_Desc

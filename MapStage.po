@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1202,6 +1202,16 @@ msgstr ""
 msgid "駅舎の向こう側"
 msgstr ""
 
+#  Korean Text: '콘스탄챠는 생필품 모사를 위해 거주 지역 내의 생필품을 구할 것을 요청한다.'
+#: MapStage[Ch05Stage01Ex].StageDesc
+msgid "コンスタンツァは生活必需品を入手するため、居住地域内の調査を要請する。"
+msgstr ""
+
+#  Korean Text: '전쟁 기록 (1)'
+#: MapStage[Ch05Stage01Ex].StageName
+msgid "戦争記録(1)"
+msgstr ""
+
 #  Korean Text: '갑작스럽게 우리를 공격하는 AI를 물리치기 위해 에이다는 적 AI와의 첩촉을 제안한다.'
 #: MapStage[Ch05Stage02].StageDesc
 msgid "我々を攻撃してくるAIを倒すため、エイダーは敵のAIとの接触を提案する。"
@@ -1221,6 +1231,16 @@ msgstr ""
 #: MapStage[Ch05Stage02B].StageName
 msgid "互換部品"
 msgstr "Compatible Parts"
+
+#  Korean Text: '마리는 거주지역에서 구한 숨겨진 무기에 대한 이야기를 듣고 숨겨진 구역으로 향한다.'
+#: MapStage[Ch05Stage02Ex].StageDesc
+msgid "マリーたちは居住地域で見つけた隠された武器についての話を聞き、該当区域へ向かう。"
+msgstr ""
+
+#  Korean Text: '전쟁 기록 (2)'
+#: MapStage[Ch05Stage02Ex].StageName
+msgid "戦争記録(2)"
+msgstr ""
 
 #  Korean Text: '포츈은 서버 해킹을 위해 서버실에 통신 연결을 부탁 한다.'
 #: MapStage[Ch05Stage03].StageDesc
@@ -1242,6 +1262,16 @@ msgstr ""
 msgid "パーソナルコンピューター"
 msgstr "Personal Computers"
 
+#  Korean Text: '마리는 휩노스 병에 대한 자료를 구하기 위해 새로운 서버로 향한다.'
+#: MapStage[Ch05Stage03Ex].StageDesc
+msgid "マリーたちはヒュプノス病についての資料を探すため新たなサーバーに向かう。"
+msgstr ""
+
+#  Korean Text: '전쟁 기록 (3)'
+#: MapStage[Ch05Stage03Ex].StageName
+msgid "戦争記録(3)"
+msgstr ""
+
 #  Korean Text: '서버를 부수고 도주한 트릭스터를 유인하기 위해 바이오로이드들은 또 다른 서버를 찾는다.'
 #: MapStage[Ch05Stage04].StageDesc
 msgid "サーバーを壊し逃走したトリックスターを誘引するため、バイオロイド達はまた他のサーバーを探す。"
@@ -1251,6 +1281,16 @@ msgstr ""
 #: MapStage[Ch05Stage04].StageName
 msgid "横道のデータ"
 msgstr ""
+
+#  Korean Text: '마리는 에바가 휩노스 병에 걸렸다는 기록을 읽고 그녀가 숨겨져 있던 구역으로 향한다.'
+#: MapStage[Ch05Stage04Ex].StageDesc
+msgid "マリーはエヴァがヒュプノス病にかかったという記録を読んで彼女が隠れていた区域に向かう。"
+msgstr ""
+
+#  Korean Text: '최초의 바이오로이드'
+#: MapStage[Ch05Stage04Ex].StageName
+msgid "最初のバイオロイド"
+msgstr "The First Bioroid"
 
 #  Korean Text: '원활한 해킹을 위해 콘스탄챠는 새로운 전문가를 영입하려 움직인다.'
 #: MapStage[Ch05Stage05].StageDesc

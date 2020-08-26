@@ -7,34 +7,34 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
 
 #  Korean Text: '램파트로 센츄리온을 처치 후 클리어'
 #: MissionObject[Mission_Kill_Cent_By_Rampart].Mission_ObjectString
-msgid "ランパートでセンチュリーオンを倒した後クリア"
+msgid "ランパートでセンチュリーオンを撃破してクリア"
 msgstr "Clear after eliminating Centurion with Rampart"
 
 #  Korean Text: '폴른으로 풀아머 빅 칙 처치 후 클리어'
 #: MissionObject[Mission_Kill_FABC_By_Fallen].Mission_ObjectString
-msgid "フォールンでフルアーマービックチックを倒した後クリア"
+msgid "フォールンでフルアーマービックチックを撃破してクリア"
 msgstr "Clear after eliminating the Full-Armored Big Chick with Fallen"
 
 #  Korean Text: '램파트로 풀아머 빅 칙을 처치 후 클리어'
 #: MissionObject[Mission_Kill_FABigChicnk_By_Rampart].Mission_ObjectString
-msgid "ランパートでフルアーマービックチックを退治してクリア"
+msgid "ランパートでフルアーマービックチックを撃破してクリア"
 msgstr "Clear after eliminating Full Armor Big Chick with Rampart"
 
 #  Korean Text: 'CS페로로 트릭스터를 처치 후 클리어'
 #: MissionObject[Mission_Kill_Kidnapper_By_Perrault].Mission_ObjectString
-msgid "CSペロでトリックスターを倒した後クリア"
+msgid "CSペロでトリックスターを撃破してクリア"
 msgstr "Clear after eliminating Trickster with CS Perrault"
 
 #  Korean Text: 'LRL로 스토커를 처치 후 클리어'
 #: MissionObject[Mission_Kill_MP_Stalker_By_Char_PECS_LRL_N].Mission_ObjectString
-msgid "ＬＲＬでストーカーを倒した後クリア"
+msgid "ＬＲＬでストーカーを撃破してクリア"
 msgstr "Clear after eliminating Stalker with LRL"
 
 #  Korean Text: '3기 이상의 적을 동시에 처치한 상태로 클리어'
@@ -44,7 +44,7 @@ msgstr "Clear after killing 3 enemies simultaneously"
 
 #  Korean Text: '그리폰의 전탄 방출로 3기 이상의 적을 처치 후 클리어'
 #: MissionObject[Mission_KillMonster3_By_Skill_BR_PA00EL_N_2].Mission_ObjectString
-msgid "グリフォンの全弾放出で３機以上の敵を倒した後クリア"
+msgid "グリフォンの全弾放出で３機以上の敵を撃破してクリア"
 msgstr "Clear after eliminating 3 more enemies with Griffon's Bomb Strike"
 
 #  Korean Text: '4기 이상의 적을 동시에 처치한 상태로 클리어'
@@ -505,7 +505,7 @@ msgstr "Clear while sending 5 or more light units"
 
 #  Korean Text: '그리폰을 스쿼드에 포함해 클리어'
 #: MissionObject[Mission_StageClear_With_BR_PA00EL].Mission_ObjectString
-msgid "グリフォンを分隊に参加させてクリア"
+msgid "グリフォンを編成してクリア"
 msgstr "Clear with Griffon in the squad"
 
 #  Korean Text: '램파트를 스쿼드에 포함해 클리어'

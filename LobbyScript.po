@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-18 12:00-0400\n"
+"PO-Revision-Date: 2020-08-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -621,6 +621,14 @@ msgstr ""
 msgid "そんな風に見つめられると、わたくしは全てを許す他ございませんわ。先に惚れたわたくしの負けですわ。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "男らしく、もう少しだけ待ってくださいませ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Sowan_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "待って頂いたご主人様にご褒美を差し上げますわ。ご期待あそばせ。"
+msgstr ""
+
 #: LobbyScript[LobbyScript_3P_Vanilla].LobbyScript1[1](Affection<100)
 msgid "最近は箒よりもこのＡＫの方が掃除道具として使い勝手が良いです。"
 msgstr ""
@@ -687,6 +695,10 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Fortress].LobbyScript1[1](Affection<100)
 msgid "私は味方の防壁となるべく設計されました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Fortress].LobbyScript1[2](Affection<100)
+msgid "心配いりません。私の防壁の後ろにいれば安全です。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Fortress].LobbyScript1[3](Affection<100)
@@ -1555,7 +1567,7 @@ msgid "はいは～い！最高に可愛いリンティに会いに来てくれ�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript3[3](Affection>70)
-msgid "うふふ！恥ずかしがることありません。ボクの後に続いて言ってみましょう。ほら、リンティ、リンティ。その調子。リンティ♪"
+msgid "うふふ！恥ずかしがることはありません。ボクの後に続いて言ってみましょう。ほ～ら、リンティ、リンティ。その調子。リンティ♪"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScript4[2](Affection=100)
@@ -2512,9 +2524,7 @@ msgid "海って最高！泳げるし、お祭りもあるし。でも一番い�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript1[2](Affection<100)
-msgid ""
-"はい。とりあえずはこの地域の情報を集めてみましょうか。まずは…御飯が美味しいお店と… (取材するように) でも雰囲気は出るじゃないですか！ "
-"(注意されて少しバツが悪そうな状況)"
+msgid "はい。とりあえずはこの地域の情報を集めてみましょうか。まずは…御飯が美味しいお店と… でも雰囲気は出るじゃないですか！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript1[3](Affection<100)
@@ -2531,6 +2541,14 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScript4[2](Affection=100)
 msgid "バカンスといったらホテルも大事だよね。ロケーションももちろん大事だけど、えへへ～後ベッドも重要だよね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "うわっ！びっくりした！急に入ってこないでよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Spriggan_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ちょ、ちょっと！もう！へへへ…何でもない。ストリーミングの準備をしなくちゃ。 "
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sylphid].LobbyScript1[1](Affection<100)
@@ -2755,6 +2773,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Wraithy].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "そんなこと…しないでください…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScript1[1](Affection<100)
+msgid "シャーロット銃士隊長は立派な軍人ですが…彼女の愚かさが陛下に影響を及ぼすのではないかと心配でもあります…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScript1[2](Affection<100)
+msgid "陛下には皆(みな)の心の拠り所になっていただかなければなりません。そのことだけは忘れないでください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScript1[3](Affection<100)
+msgid "陛下？私がお傍でサポートいたします。陛下は目の前のことに集中してください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScript2[1](Affection>40)
+msgid "私の個人的な感情で…陛下を煩わせてしまったらどうしましょう…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScript3[3](Affection>70)
+msgid "私は…これからどうしたらいいのでしょうか？やるべきことはたくさんあるのに、陛下のことで頭が一杯です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScript4[2](Affection=100)
+msgid "陛下をしっかりと補佐できますように。そしていつまでも陛下のお傍にいられますように…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "陛下!!"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "へ、陛下…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript1[1](Affection<100)
@@ -3343,6 +3393,14 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScript4[2](Affection=100)
 msgid "司令官に必要な物は何でも持って来てあげる。私の心もね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "これ犯罪だよ！分かってる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Express76_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "は、、犯罪だけど、通報しなければ誰も分からないから、そ、そそんなに心配しなくて大丈夫だよ。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Fortune].LobbyScript1[1](Affection<100)
