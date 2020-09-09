@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -686,7 +686,7 @@ msgid "防空、防衛、偵察、給油など私は全ての任務が遂行可�
 msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Fallen].LobbyScript1[1](Affection<100)
-msgid "ＡＧＳロボテックは人類保護のために作られました。"
+msgid "AGSロボテックは人類保護のために作られました。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_Fallen].LobbyScript1[2](Affection<100)
@@ -1181,7 +1181,7 @@ msgid "天気がはっきりしてなくても小雨程度なら私が覆う事�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Daika].LobbyScript3[3](Affection>70)
-msgid "権限確認。ドゥームブリンガーチーム３サイズ…閲覧？…う～ん。駄目です司令官。他の情報ならよろしいのですが…。"
+msgid "権限確認。ドゥームブリンガーチーム3サイズ…閲覧？…う～ん。駄目です司令官。他の情報ならよろしいのですが…。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Daika].LobbyScript4[2](Affection=100)
@@ -1250,6 +1250,10 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_DrM].LobbyScript4[2](Affection=100)
 msgid "うぅ…タイタンは2人乗りにすれば良かったかなぁ。そしたらお兄ちゃんと一緒に座って操縦できたのになぁ～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_DrM].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "……"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript1[1](Affection<100)
@@ -1371,7 +1375,7 @@ msgid "砲助は大きなアクションの反動で接合部から中がちょ�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript1[3](Affection<100)
-msgid "今日は何を作りましょうか？もう１本腕でも作りましょうか？"
+msgid "今日は何を作りましょうか？もう1本腕でも作りましょうか？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Gremlin].LobbyScript2[1](Affection>40)
@@ -2392,7 +2396,7 @@ msgid "そんなことしたらっ！……だめなのに……"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript1[1](Affection<100)
-msgid "最高速度？私を誰だと思ってるの？本気になればマッハ１００位は余裕で出るんじゃないかしら？"
+msgid "最高速度？私を誰だと思ってるの？本気になればマッハ100位は余裕で出るんじゃないかしら？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript1[2](Affection<100)
@@ -2400,11 +2404,11 @@ msgid "この流れるようなプロポーションは完璧よ。胸？抵抗�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript1[3](Affection<100)
-msgid "昔は私のサインを貰おうと１km以上の列ができたものよ…。"
+msgid "昔は私のサインを貰おうと1km以上の列ができたものよ…。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript2[1](Affection>40)
-msgid "今日はちょっと暑苦しいから、外で私の速さを見せてあげようか？マッハ１００位でいい？"
+msgid "今日はちょっと暑苦しいから、外で私の速さを見せてあげようか？マッハ100位でいい？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sleipnir].LobbyScript3[3](Affection>70)
@@ -2871,6 +2875,38 @@ msgstr ""
 msgid "ふふっ……伴侶とならこれは堕落じゃない…です。ですよね…？きっと、そうです。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScript1[1](Affection<100)
+msgid "私の使命はポックル大魔王の世界征服を阻止すること…それ以外には何もありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScript1[2](Affection<100)
+msgid "ムーンライトマジカルパワーは友情と勇気から生まれます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScript1[3](Affection<100)
+msgid "ふんっ、モモは魔の危険性についてよくわかっていません。私が彼女を諭してみせます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScript2[1](Affection>40)
+msgid "う～ん…先代の白兎にも…煩悩はあったのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScript3[3](Affection>70)
+msgid "たまに…魔族よりも…鉄虫がもっと脅威的ではないかと考えることがあります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScript4[2](Affection=100)
+msgid "ひょっとすると、愛でもムーンライトマジカルパワーをチャージできるのかも…あ、今のは忘れてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "私を魔女にするつもりですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "…だめです…みんな…こうして堕落した結果、魔女になるのでしょうか？"
+msgstr ""
+
 #: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript1[1](Affection<100)
 msgid "好物は茹でたジャガイモに塩があれば…あ！"
 msgstr ""
@@ -2935,6 +2971,38 @@ msgstr ""
 msgid "陛下らしいと申しましょうか…"
 msgstr ""
 
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScript1[1](Affection<100)
+msgid "演技している頃が懐かしいです…。へへへ。モモ、白兎…仲間に会えるのも楽しかったのに…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScript1[2](Affection<100)
+msgid "違いますって…大魔王なんかじゃありません！社長まで…どういうおつもりですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScript1[3](Affection<100)
+msgid "戦闘よりも音楽鑑賞の方が性に合います…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScript2[1](Affection>40)
+msgid "うぅ…白兎がまた私をいじめてきたら助けてくれますよね…？お願い…しますよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScript3[3](Affection>70)
+msgid "あの…もし私が戦わなくてよくなったら…私を歌手として雇ってみませんか？それなりに自信はあります…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScript4[2](Affection=100)
+msgid "え、えぇ……社長がお望みなら…『ふふふ…我の寵愛をお望みかい？』"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "うあっ！だめです！今はまだ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "こ、これ以上触ると大魔王に覚醒して社長にお仕置きしちゃいますよ！？私なしでは生きられない体にしてしまうんですから！"
+msgstr ""
+
 #: LobbyScript[LobbyScript_DS_Johanna].LobbyScript1[1](Affection<100)
 msgid "殿が望むというならば、余の過去について語ってもいいぞ。"
 msgstr ""
@@ -2997,6 +3065,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_DS_MoMo].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "へへ…それが…お望みなら…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScript1[1](Affection<100)
+msgid "マジカルモモステッカーは970種類もあるんです。私もまだ全部集めきってません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScript1[2](Affection<100)
+msgid "魔法少女はずっと一緒にいられるわけではないんです…。方法がないわけではありませんが…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScript1[3](Affection<100)
+msgid "月に行く一番簡単な方法は魔法ロケットですが、それは魔法協会で禁止されています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScript2[1](Affection>40)
+msgid "私が司令官の頬っぺたに付けてあげます…これは…モモステッカーの代わりです…気に入りましたか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScript3[3](Affection>70)
+msgid "心配ご無用です…月に行く時は、モモが司令官をギュッと抱き締めていてあげますから！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScript4[2](Affection=100)
+msgid "私がここを去る時は、手を握って呪文を唱えてください。…愛していると…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "まぁ！ふふ！何かの間違いですよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_MoMo_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "願い事は…それ…だけですか？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Audrey].LobbyScript1[1](Affection<100)
@@ -3181,6 +3281,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Cerberus_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "ふあっ！先に…言ってくれれば…いいのに…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScript1[1](Affection<100)
+msgid "司令官！どうですか？&n一緒に走りませんか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScript1[2](Affection<100)
+msgid "司令官、司令官は海と山、&nどっちが好きですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScript1[3](Affection<100)
+msgid "司令官、遊んでください。えっと…何して遊ぼうかな…走りはどうですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScript2[1](Affection>40)
+msgid "司令官と一緒にいると、とても心地いいです。走らなくても…です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScript3[3](Affection>70)
+msgid "泳ぐのも走るのも好きです。ん？司令官、疲れました？息が荒いですよ…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScript4[2](Affection=100)
+msgid "アタシ、司令官と一緒ならどこでもいいです。だって、司令官がいるもの。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "変態！海での司令官も変態！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "あっ！この服を着せたのはこのため？ひひ…新しい遊びですね？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript1[1](Affection<100)
@@ -3592,7 +3724,7 @@ msgid "さぁ、僕の素晴らしい鋼鉄製のボディーを見たまえ。�
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_PuppHead].LobbyScript1[2](Affection<100)
-msgid "犬だと！？失礼な。６級公務員と言っただろう？"
+msgid "犬だと！？失礼な。6級公務員と言っただろう？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_PuppHead].LobbyScript1[3](Affection<100)

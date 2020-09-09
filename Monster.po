@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -194,6 +194,20 @@ msgstr ""
 msgid "チラー"
 msgstr "Chiller"
 
+#  Korean Text: '같은 철충들을 먹어치워버리는 이 무자비한 철충을 막을 방법은 오직 포식 후, 에너지를 흡수할 때 밖에는 없는 듯 합니다.\n\n\n보고자 ???'
+#: Monster[MOB_MP_DoomEater_N_EW2].Mob_Info
+msgid ""
+"同族である鉄虫を食らうこの無慈悲な鉄虫は、飽食後のエネルギー消化時しか倒せるチャンスないようです。\n"
+"\n"
+"\n"
+"報告者：？？？"
+msgstr ""
+
+#  Korean Text: '둠 이터'
+#: Monster[MOB_MP_DoomEater_N_EW2].Name
+msgid "ドゥームイーター"
+msgstr "Doom Eater"
+
 #  Korean Text: '드론의 자율 경비용 기종이다.'
 #: Monster[MOB_MP_Drone_TU2].Mob_Info
 msgid "ドローンの自律警備用機種だ。"
@@ -227,6 +241,21 @@ msgstr "Chick Emperor"
 #: Monster[MOB_MP_Executioner_B06].Name
 msgid "エクスキューショナー"
 msgstr "Executioner"
+
+#  Korean Text: '여태껏 보고된 적 없는 새로운 형태의 익스큐셔너로, 제압해도 부활한다는 것만 알려진 상태입니다. 대원들이 공포에 질릴 수 있으니, 불사신 같은 건 없다는 것을 증명해주셔야 합니다.\n\n\n보고자 ???'
+#: Monster[MOB_MP_Executioner_BEW_EW2].Mob_Info
+msgid ""
+"今まで報告されたことのない新しいエクセキューショナーで、倒しても復活すること以外は知られていません。隊員たちが怖がるかもしれませんので、不死身など存在しない"
+"と証明してください。\n"
+"\n"
+"\n"
+"報告者：？？？"
+msgstr ""
+
+#  Korean Text: '이모탈 익스큐셔너'
+#: Monster[MOB_MP_Executioner_BEW_EW2].Name
+msgid "イモータルエクセキューショナー"
+msgstr "Immortal Executioner"
 
 #  Korean Text: '익스큐셔너 롱 블레이드'
 #: Monster[MOB_MP_ExecutionerLB_B06].Name
@@ -345,7 +374,7 @@ msgstr ""
 
 #  Korean Text: '다곤씨 (대여 중)'
 #: Monster[MOB_MP_GigantesDagon_N].Name
-msgid "ダゴン氏（レンタル中）"
+msgid "ダゴン氏(レンタル中)"
 msgstr ""
 
 #  Korean Text: '얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…\n\n\n- 더치걸'
@@ -620,6 +649,15 @@ msgstr "Chemical Chick"
 msgid "ケミカルチックType-X"
 msgstr "Chemical Chick Type-X"
 
+#  Korean Text: '히익… 다신 보기 싫을 정도로 징그러웠어요…... 불에는 약한지 불을 붙이니 폭발해서 깜짝 놀랐네요.\n\n\n - 뽀끄루 보고함'
+#: Monster[MOB_MP_NightChickCMP_N].Mob_Info
+msgid ""
+"ひぃぃ…二度と見たくないほど気持ち悪かったです……火に弱いらしく火を点けたら爆発してびっくりしました。\n"
+"\n"
+"\n"
+"- ポックルの報告"
+msgstr ""
+
 #  Korean Text: '강화형 케미컬 칙'
 #: Monster[MOB_MP_NightChickCMS_EV1].Name
 msgid "強化型ケミカルチック"
@@ -653,6 +691,11 @@ msgid ""
 "\n"
 " - ダイカの報告"
 msgstr ""
+
+#  Korean Text: '강화형 칙 디텍터'
+#: Monster[MOB_MP_NightChickDEX_N].Name
+msgid "強化型チックディレクター"
+msgstr "Improved Chick Detector"
 
 #  Korean Text: '강화형 나이트 칙'
 #: Monster[MOB_MP_NightChickEX_EV1].Name
@@ -723,6 +766,11 @@ msgstr ""
 #: Monster[MOB_MP_NightChickS_N].Name
 msgid "ナイトチックシールダー"
 msgstr "Night Chick Shielder"
+
+#  Korean Text: '강화형 칙 실더'
+#: Monster[MOB_MP_NightChickShEx_N].Name
+msgid "強化型ビッグチックシールダー"
+msgstr "Improved Chick Shielder"
 
 #  Korean Text: '<교전 기록 없음>'
 #: Monster[MOB_MP_NightChickSI_EW].Mob_Info
@@ -814,7 +862,7 @@ msgstr "Virtual Space Cannoneer"
 
 #  Korean Text: '철충 사념체 (포병)'
 #: Monster[MOB_MP_ProgramMobAN_N].Name
-msgid "鉄虫思念体（砲兵）"
+msgid "鉄虫思念体(砲兵)"
 msgstr ""
 
 #  Korean Text: '가상공간 패트릭'
@@ -824,7 +872,7 @@ msgstr "Virtual Space Patrick"
 
 #  Korean Text: '철충 사념체 (돌격병)'
 #: Monster[MOB_MP_ProgramMobAS_N].Name
-msgid "鉄虫思念体（突撃兵）"
+msgid "鉄虫思念体(突撃兵)"
 msgstr ""
 
 #  Korean Text: '가상공간 탱크'
@@ -834,7 +882,7 @@ msgstr "Virtual Space Tank"
 
 #  Korean Text: '철충 사념체 (중장갑병)'
 #: Monster[MOB_MP_ProgramMobAT_N].Name
-msgid "鉄虫思念体（重装甲兵）"
+msgid "鉄虫思念体(重装甲兵)"
 msgstr ""
 
 #  Korean Text: '가상공간 봄버'
@@ -844,7 +892,7 @@ msgstr "Virtual Space Bomber"
 
 #  Korean Text: '철충 사념체 (폭격기)'
 #: Monster[MOB_MP_ProgramMobMN_N].Name
-msgid "鉄虫思念体（爆撃機）"
+msgid "鉄虫思念体(爆撃機)"
 msgstr ""
 
 #  Korean Text: '가상공간 경보기'
@@ -854,7 +902,7 @@ msgstr "Virtual Space Alarm"
 
 #  Korean Text: '철충 사념체 (정찰기)'
 #: Monster[MOB_MP_ProgramMobMS_N].Name
-msgid "鉄虫思念体（偵察機）"
+msgid "鉄虫思念体(偵察機)"
 msgstr ""
 
 #  Korean Text: '가상공간 파이터'
@@ -864,7 +912,7 @@ msgstr "Virtual Space Fighter"
 
 #  Korean Text: '철충 사념체 (호위기)'
 #: Monster[MOB_MP_ProgramMobMT_N].Name
-msgid "鉄虫思念体（護衛機）"
+msgid "鉄虫思念体(護衛機)"
 msgstr ""
 
 #  Korean Text: '가상공간 스나이퍼'
@@ -874,7 +922,7 @@ msgstr "Virtual Space Sniper"
 
 #  Korean Text: '철충 사념체 (저격병)'
 #: Monster[MOB_MP_ProgramMobTN_N].Name
-msgid "鉄虫思念体（狙撃兵）"
+msgid "鉄虫思念体(狙撃兵)"
 msgstr ""
 
 #  Korean Text: '가상공간 솔져'
@@ -884,7 +932,7 @@ msgstr "Virtual Space Soldier"
 
 #  Korean Text: '철충 사념체 (보병)'
 #: Monster[MOB_MP_ProgramMobTS_N].Name
-msgid "鉄虫思念体（步兵）"
+msgid "鉄虫思念体(步兵)"
 msgstr ""
 
 #  Korean Text: '가상공간 실더'
@@ -894,7 +942,7 @@ msgstr "Virtual Space Shielder"
 
 #  Korean Text: '철충 사념체 (장갑병)'
 #: Monster[MOB_MP_ProgramMobTT_N].Name
-msgid "鉄虫思念体（装甲兵）"
+msgid "鉄虫思念体(装甲兵)"
 msgstr ""
 
 #  Korean Text: '펍 헤드의 자율 경비용 기종이다.'
@@ -977,7 +1025,7 @@ msgstr ""
 
 #  Korean Text: '로크 (최대 충전)'
 #: Monster[MOB_MP_RocC_EV1].Name
-msgid "ローク（最大充電）"
+msgid "ロク(最大充電)"
 msgstr ""
 
 #  Korean Text: '전력을 공급하기 위한 장치네요. 웬만한 충격으론 금방 복원되니 무력화되었을 때 본체를 노리는게 좋을 것 같아요.\n\n\n- 세이렌 보고함'
@@ -1172,6 +1220,20 @@ msgstr ""
 #: Monster[MOB_MP_StingerC_EV1].Name
 msgid "スティンガーカスタム"
 msgstr "Stinger Custom"
+
+#  Korean Text: '스스로 내부를 과열하게 되어 자폭을 할 수 있도록 개조된 타란튤라 입니다. 자폭 상태가 되기 전에 과열된 내부를 냉각 시켜야 합니다.\n\n\n보고자 ???'
+#: Monster[MOB_MP_Tarantula_EW2].Mob_Info
+msgid ""
+"自ら内部を過熱させ自爆できるように改造されたタランチュラです。自爆状態になる前に加熱された内部を冷却させる必要があります。\n"
+"\n"
+"\n"
+"報告者：？？？"
+msgstr ""
+
+#  Korean Text: '개조된 타란튤라'
+#: Monster[MOB_MP_Tarantula_EW2].Name
+msgid "タランチュラ"
+msgstr "Modified Tarantula"
 
 #  Korean Text: '트레비앙~한 방어 능력을 가진 적이에요. 보통은 중화기로 제압해야 하지만 제 정교한 검술로도 해결할 수 있으니 맡겨주세요!\n\n\n- 샬럿 보고함'
 #: Monster[MOB_MP_Testudo_N].Mob_Info

@@ -154,6 +154,10 @@ msgstr ""
 msgid "シザーズリーゼ"
 msgstr "Scissors Lise"
 
+#: PC[Char_3P_SnowFeather_N].Name
+msgid "スノーフェザー"
+msgstr "Snow Feather"
+
 #  Korean Text: '쾌락을 찾으시옵니까? 잘 찾아 오셨습니다.'
 #: PC[Char_3P_Sowan_N].DialogJoin
 msgid "よくおいでくださいましたわ。至高の快楽をお求めですか？"
@@ -314,6 +318,15 @@ msgstr "S25B Spartan Boomer"
 msgid "S25スパルタンキャプテン"
 msgstr "S25 Spartan Captain"
 
+#: PC[Char_AGS_Tyrant_N].Name
+msgid "タイラント"
+msgstr "Tyrant"
+
+#  Korean Text: '사령관님 안녕? 난 알비스야. 이건 선물이니까 아껴 먹어야 돼~!'
+#: PC[Char_BR_Alvis_N].DialogJoin
+msgid "司令官様、こんにちは。私はアルヴィス。これはプレゼントだよ。少しずつ食べてね！"
+msgstr ""
+
 #  Korean Text: 'T-13 알비스'
 #: PC[Char_BR_Alvis_N].Name
 msgid "T-13アルビス"
@@ -366,7 +379,7 @@ msgstr ""
 
 #  Korean Text: 'P/A-8 블랙 하운드'
 #: PC[Char_BR_Blackhound_N].Name
-msgid "PA-8ブラックハウンド"
+msgid "P/A-8ブラックハウンド"
 msgstr "P/A-8 Blackhound"
 
 #  Korean Text: '기갑병 블러디 팬서! 전입 신고 합니다!'
@@ -876,9 +889,14 @@ msgstr ""
 msgid "アザゼル"
 msgstr "Azazel"
 
+#  Korean Text: '악한 자들에게 징벌을. 백토 합류했습니다. '
+#: PC[Char_DS_Baekto_N].DialogJoin
+msgid "悪者たちに月の懲罰を。白兎、合流しました。"
+msgstr ""
+
 #  Korean Text: '매지컬 백토'
 #: PC[Char_DS_Baekto_N].Name
-msgid "マジカル白兎"
+msgid "魔法少女マジカル白兎"
 msgstr "Magical BaekTo"
 
 #  Korean Text: '후훗! 총사 대장 샬럿이에요. 기대하셔도 좋아요.'
@@ -890,6 +908,11 @@ msgstr ""
 #: PC[Char_DS_Charlotte_N].Name
 msgid "シャーロット"
 msgstr "Charlotte"
+
+#  Korean Text: '이제 마가 강림했노라… 으으… 나도 모르게 나와 버렸어.'
+#: PC[Char_DS_Faucre_N].DialogJoin
+msgid "今まさに大魔王が降臨した！…うぅ…ついいつものが出てしまった。"
+msgstr ""
 
 #  Korean Text: '뽀끄루 대마왕'
 #: PC[Char_DS_Faucre_N].Name
@@ -1172,8 +1195,8 @@ msgstr ""
 
 #  Korean Text: '캐럴'
 #: PC[Char_PECS_Carolina_N].Name
-msgid "キャロル"
-msgstr "Carol"
+msgid "キャロルライナ"
+msgstr "Carolina"
 
 #  Korean Text: '자자, 시민 여러분의 친구, 켈베로스가 왔어요! 반가워 하라구요!'
 #: PC[Char_PECS_Cerberus_N].DialogJoin
@@ -1264,6 +1287,10 @@ msgstr ""
 #: PC[Char_PECS_Fortune_N].Name
 msgid "フォーチュン"
 msgstr "Fortune"
+
+#: PC[Char_PECS_HighElven_N].Name
+msgid "生命のセレスティア"
+msgstr ""
 
 #  Korean Text: '안녕하세요. 잘 부탁 드리겠습니다.'
 #: PC[Char_PECS_Ignis_N].DialogJoin

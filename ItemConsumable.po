@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -86,6 +86,16 @@ msgstr "Contains 150 Advanced Modules"
 #: ItemConsumable[AdvModule_100_50per].ItemName
 msgid "高級モジュール100+50個(限定セール)"
 msgstr "100+50 Advanced Modules (Limited Sale)"
+
+#  Korean Text: '고급 모듈 1000개가 들어있습니다.'
+#: ItemConsumable[AdvModule_1000].ItemDesc
+msgid "高級モジュール1000個が入っています。"
+msgstr ""
+
+#  Korean Text: '고급 모듈 대형 컨테이너'
+#: ItemConsumable[AdvModule_1000].ItemName
+msgid "高級モジュール大型コンテナー"
+msgstr ""
 
 #  Korean Text: 'AI 코어 6개를 획득합니다.'
 #: ItemConsumable[AI_Core_5].ItemDesc
@@ -270,6 +280,11 @@ msgstr "Given Daphne"
 msgid "ダフネ"
 msgstr "Daphne"
 
+#  Korean Text: '펜리르을 지급합니다'
+#: ItemConsumable[CharTicket_Char_3P_Fenrir_N].ItemDesc
+msgid "フェンリルを支給します。"
+msgstr "Given Fenrir"
+
 #  Korean Text: '펜리르'
 #: ItemConsumable[CharTicket_Char_3P_Fenrir_N].ItemName
 msgid "フェンリル"
@@ -397,7 +412,7 @@ msgstr "CT66 Rampart"
 
 #  Korean Text: 'RF87 로크을 지급합니다'
 #: ItemConsumable[CharTicket_Char_AGS_Roc_N].ItemDesc
-msgid "RF87ロークを支給します。"
+msgid "RF87ロクを支給します。"
 msgstr "Given RF87 Roc"
 
 #  Korean Text: 'RF87 로크'
@@ -455,6 +470,11 @@ msgstr "Given S25 Spartan Captain"
 msgid "S25スパルタンキャプテン"
 msgstr "S25 Spartan Captain"
 
+#  Korean Text: 'T-13 알비스을 지급합니다'
+#: ItemConsumable[CharTicket_Char_BR_Alvis_N].ItemDesc
+msgid "T-13アルヴィスを支給します。"
+msgstr "Given T-13 Alvis"
+
 #  Korean Text: 'T-13 알비스'
 #: ItemConsumable[CharTicket_Char_BR_Alvis_N].ItemName
 msgid "T-13アルビス"
@@ -502,12 +522,12 @@ msgstr "T-12 Bheur"
 
 #  Korean Text: 'P/A-8 블랙 하운드을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Blackhound_N].ItemDesc
-msgid "PA-8ブラックハウンドを支給します。"
+msgid "P/A-8ブラックハウンドを支給します。"
 msgstr "Given P/A-8 Blackhound"
 
 #  Korean Text: 'P/A-8 블랙 하운드'
 #: ItemConsumable[CharTicket_Char_BR_Blackhound_N].ItemName
-msgid "PA-8ブラックハウンド"
+msgid "P/A-8ブラックハウンド"
 msgstr "P/A-8 Blackhound"
 
 #  Korean Text: 'A-1 블러디 팬서을 지급합니다'
@@ -814,6 +834,11 @@ msgstr "Given Quick Camel"
 msgid "クイックキャメル"
 msgstr "Quick Camel"
 
+#  Korean Text: 'AO-2 레이븐을 지급합니다'
+#: ItemConsumable[CharTicket_Char_BR_Raven_N].ItemDesc
+msgid "AO-2レイヴンを支給します。"
+msgstr "Given AO-2 Raven"
+
 #  Korean Text: 'AO-2 레이븐'
 #: ItemConsumable[CharTicket_Char_BR_Raven_N].ItemName
 msgid "AO-2レイヴン"
@@ -881,7 +906,7 @@ msgstr "A-14B Spriggan"
 
 #  Korean Text: 'P-18 실피드을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Sylphid_N].ItemDesc
-msgid "Ｐ－１８シルフィードを支給します。"
+msgid "Ｐ-18シルフィードを支給します。"
 msgstr "Given P-18 Sylphid"
 
 #  Korean Text: 'P-18 실피드'
@@ -959,6 +984,11 @@ msgstr "Given Special Proxy Core"
 msgid "特殊代用コア"
 msgstr "Special Proxy Core"
 
+#  Korean Text: '아르망을 지급합니다'
+#: ItemConsumable[CharTicket_Char_DS_Arman_N].ItemDesc
+msgid "アルマンを支給します。"
+msgstr "Given Armand"
+
 #  Korean Text: '아르망'
 #: ItemConsumable[CharTicket_Char_DS_Arman_N].ItemName
 msgid "アルマン枢機卿"
@@ -984,9 +1014,14 @@ msgstr "Given Azazel"
 msgid "アザゼル"
 msgstr "Azazel"
 
+#  Korean Text: '매지컬 백토을 지급합니다'
+#: ItemConsumable[CharTicket_Char_DS_Baekto_N].ItemDesc
+msgid "魔法少女マジカル白兎を支給します。"
+msgstr "Given Magical BaekTo"
+
 #  Korean Text: '매지컬 백토'
 #: ItemConsumable[CharTicket_Char_DS_Baekto_N].ItemName
-msgid "マジカル白兎"
+msgid "魔法少女マジカル白兎"
 msgstr "Magical BaekTo"
 
 #  Korean Text: '샬럿을 지급합니다'
@@ -998,6 +1033,11 @@ msgstr "Given Charlotte"
 #: ItemConsumable[CharTicket_Char_DS_Charlotte_N].ItemName
 msgid "シャーロット"
 msgstr "Charlotte"
+
+#  Korean Text: '뽀끄루 대마왕을 지급합니다'
+#: ItemConsumable[CharTicket_Char_DS_Faucre_N].ItemDesc
+msgid "ポックル大魔王を支給します。"
+msgstr "Given Evil Overlord Faucre"
 
 #  Korean Text: '뽀끄루 대마왕'
 #: ItemConsumable[CharTicket_Char_DS_Faucre_N].ItemName
@@ -1288,7 +1328,7 @@ msgstr "Given Carolina"
 
 #  Korean Text: '캐럴라이나'
 #: ItemConsumable[CharTicket_Char_PECS_Carolina_N].ItemName
-msgid "キャロルライナー"
+msgid "キャロルライナ"
 msgstr "Carolina"
 
 #  Korean Text: '켈베로스을 지급합니다'
@@ -1300,6 +1340,11 @@ msgstr "Given Cerberus"
 #: ItemConsumable[CharTicket_Char_PECS_Cerberus_N].ItemName
 msgid "ケルベロス"
 msgstr "Cerberus"
+
+#  Korean Text: '키르케을 지급합니다'
+#: ItemConsumable[CharTicket_Char_PECS_Circe_N].ItemDesc
+msgid "キルケーを支給します。"
+msgstr "Given Circe"
 
 #  Korean Text: '키르케'
 #: ItemConsumable[CharTicket_Char_PECS_Circe_N].ItemName
@@ -1315,6 +1360,11 @@ msgstr "Given CoCo & WhiteShell"
 #: ItemConsumable[CharTicket_Char_PECS_CoCoWhiteShell_N].ItemName
 msgid "ココ･イン･ホワイトシェル"
 msgstr "CoCo & WhiteShell"
+
+#  Korean Text: '다크엘븐 포레스트레인저을 지급합니다'
+#: ItemConsumable[CharTicket_Char_PECS_DarkElf_N].ItemDesc
+msgid "ダークエルヴンフォレストレインジャーを支給します。"
+msgstr "Given DarkElven ForestRanger"
 
 #  Korean Text: '다크엘븐 포레스트레인저'
 #: ItemConsumable[CharTicket_Char_PECS_DarkElf_N].ItemName
@@ -1471,6 +1521,11 @@ msgstr "Given Triana"
 msgid "トリアイナ"
 msgstr "Triana"
 
+#  Korean Text: '베로니카을 지급합니다'
+#: ItemConsumable[CharTicket_Char_PECS_Veronica_N].ItemDesc
+msgid "ベロニカを支給します。"
+msgstr "Given Veronica"
+
 #  Korean Text: '베로니카'
 #: ItemConsumable[CharTicket_Char_PECS_Veronica_N].ItemName
 msgid "ヴェロニカ"
@@ -1583,13 +1638,31 @@ msgstr "Warehouse Expansion"
 
 #  Korean Text: '장비 제조실이 1칸 확장됩니다.'
 #: ItemConsumable[Consumable_EquipMakingExt].ItemDesc
-msgid "装備製造室が１枠拡張されます。"
+msgid "装備製造室が1枠拡張されます。"
 msgstr "The gear workshop will be expanded by 1 work slot."
 
 #  Korean Text: '장비 제조 시설 확장'
 #: ItemConsumable[Consumable_EquipMakingExt].ItemName
 msgid "装備製造施設拡張"
 msgstr "Gear Build Slot Expansion"
+
+#  Korean Text: '영원한 전장에서 획득할 수 있습니다.'
+#: ItemConsumable[Consumable_EWMPMetal].DropDesc
+msgid "永遠の戦場で獲得できます。"
+msgstr "You can acquire it in the Endless War."
+
+#  Korean Text: '영원한 전장에서 획득할 수 있는 성분을 알 수 없는 미확인 금속 광물입니다. 교환소에서 다른 물품으로 교환할 수 있습니다.'
+#: ItemConsumable[Consumable_EWMPMetal].ItemDesc
+msgid "永遠の戦場から獲得できる詳細不明の未確認金属鉱物です。交換所で他のものと交換できます。"
+msgstr ""
+"Unidentified metallic mineral that contains unknown elements that can be "
+"obtained in the Endless War. You can exchange it for other items at the "
+"Exchange."
+
+#  Korean Text: '미확인 금속 광물'
+#: ItemConsumable[Consumable_EWMPMetal].ItemName
+msgid "未確認金属鉱物"
+msgstr "Unidentified Metallic Mineral"
 
 #  Korean Text: '일일 훈련 <기능 강화>에서 획득할 수 있습니다.'
 #: ItemConsumable[Consumable_OriginDust].DropDesc
@@ -1650,7 +1723,7 @@ msgstr "Lobby Expansion"
 
 #  Korean Text: '전투 제조실이 1칸 확장됩니다.'
 #: ItemConsumable[Consumable_PCMakingExt].ItemDesc
-msgid "戦闘製造室が１枠拡張されます。"
+msgid "戦闘製造室が1枠拡張されます。"
 msgstr "The unit workshop will be expanded by 1 work slot."
 
 #  Korean Text: '전투원 제조 시설 확장'
@@ -1660,7 +1733,7 @@ msgstr "Unit Build Slot Expansion"
 
 #  Korean Text: '스쿼드 슬롯이 1칸 확장됩니다.'
 #: ItemConsumable[Consumable_SquadExt].ItemDesc
-msgid "分隊スロットが１枠拡張されます。"
+msgid "分隊スロットが1枠拡張されます。"
 msgstr "The squad allowance will be increased by 1 slot."
 
 #  Korean Text: '스쿼드 출격 포드 확장'
@@ -1861,24 +1934,29 @@ msgstr ""
 msgid "滅亡前の遺品"
 msgstr "Relics"
 
+#  Korean Text: '만월의 야상곡 이벤트 스테이지에서 획득할 수 있습니다.'
+#: ItemConsumable[Ev_Consumable_BADKSticker].DropDesc
+msgid "満月の夜想曲イベントステージで獲得できます。"
+msgstr ""
+
 #  Korean Text: '멸망 전에 한 때 유행하던 뽀끄루 대마왕 스티커입니다. 다른 스티커들보다 희귀하며, 비교적 높은 연령대들 사이에 인기였다고 합니다.'
 #: ItemConsumable[Ev_Consumable_BADKSticker].ItemDesc
-msgid "滅亡前に一時流行ったポクル大魔王ステッカーです。 他のステッカーより珍しく、比較的高い年齢層の間で人気だったそうです。"
+msgid "滅亡前に一時流行ったポックル大魔王ステッカーです。 他のステッカーより珍しく、比較的高い年齢層の間で人気だったそうです。"
 msgstr ""
 
 #  Korean Text: '뽀끄루 대마왕 스티커'
 #: ItemConsumable[Ev_Consumable_BADKSticker].ItemName
-msgid "ポクル大魔王ステッカー"
+msgid "ポックル大魔王ステッカー"
 msgstr "Faucre Sticker"
 
 #  Korean Text: '멸망 전에 한 때 유행하던 매지컬 백토 스티커입니다.'
 #: ItemConsumable[Ev_Consumable_BTSticker].ItemDesc
-msgid "滅亡前に一時流行ったマジカル白土ステッカーです。"
+msgid "滅亡前に一時流行ったマジカル白兎ステッカーです。"
 msgstr ""
 
 #  Korean Text: '백토 스티커'
 #: ItemConsumable[Ev_Consumable_BTSticker].ItemName
-msgid "白土ステッカー"
+msgid "白兎ステッカー"
 msgstr "Baekto Sticker"
 
 #  Korean Text: '<지고의 저녁 식사> 이벤트 스테이지에서 획득 가능합니다.'
@@ -1940,6 +2018,60 @@ msgstr ""
 #: ItemConsumable[Ev_Consumable_Cuisine].ItemName
 msgid "傑作料理"
 msgstr "Meal"
+
+#  Korean Text: '할로윈 파크 패닉! 이벤트 스테이지에서 획득할 수 있습니다.'
+#: ItemConsumable[Ev_Consumable_HalloweenBat].DropDesc
+msgid "ハロウィンパークパニック！イベントステージで獲得できます。"
+msgstr "Halloween Park Panic! Obtain from the Event Stage."
+
+#  Korean Text: '구 시대의 축제 때 사용되던 장식입니다. 가끔 날아다니는 경우가 있으니 주의하세요. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
+#: ItemConsumable[Ev_Consumable_HalloweenBat].ItemDesc
+msgid "旧時代の祭りで使われていたお飾りです。時々飛び回る場合もありますのでご注意を。イベント交換所で他のものと交換できます。"
+msgstr ""
+"This decoration was used during festivals of the old times. Be careful that "
+"you don't fly away. You can exchange it at the Event Exchange for other items."
+
+#  Korean Text: '박쥐 장식'
+#: ItemConsumable[Ev_Consumable_HalloweenBat].ItemName
+msgid "コウモリの飾り"
+msgstr "Bat Decoration"
+
+#  Korean Text: '구 시대의 축제 때 사용되던 장식입니다. 다른 용도로는 사용하지 마십시오. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
+#: ItemConsumable[Ev_Consumable_HalloweenCandle].ItemDesc
+msgid "旧時代の祭りで使われていたお飾りです。他の用途で使わないでください。イベント交換所で他のものと交換できます。"
+msgstr ""
+"This decoration was used during festivals of the old times. Don't use it for "
+"any other purpose. You can exchange it at the Event Exchange for other items."
+
+#  Korean Text: '양초 장식'
+#: ItemConsumable[Ev_Consumable_HalloweenCandle].ItemName
+msgid "ロウソクの飾り"
+msgstr "Candle Decoration"
+
+#  Korean Text: '아기자기한 군것질거리들입니다. 어디 유통기한이… 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
+#: ItemConsumable[Ev_Consumable_HalloweenCandy].ItemDesc
+msgid "可愛らしい色んな形の駄菓子です。えっと賞味期限は…イベント交換所で他のものと交換できます。"
+msgstr ""
+"This is adorable junk food. Where's the expiration date... You can exchange "
+"it at the Event Exchange for other items."
+
+#  Korean Text: '할로윈 캔디'
+#: ItemConsumable[Ev_Consumable_HalloweenCandy].ItemName
+msgid "ハロウィンキャンディー"
+msgstr "Halloween Candy"
+
+#  Korean Text: '구 시대의 축제 때 사용되던 장식입니다. 머리에 써도 될 듯합니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다.'
+#: ItemConsumable[Ev_Consumable_HalloweenLantern].ItemDesc
+msgid "旧時代の祭りで使われていたお飾りです。頭に被っても良さそうです。イベント交換所で他のものと交換できます。"
+msgstr ""
+"This decoration was used during festivals of the old times. It looks like you "
+"can put it on your head. You can exchange it at the Event Exchange for other "
+"items."
+
+#  Korean Text: '랜턴 장식'
+#: ItemConsumable[Ev_Consumable_HalloweenLantern].ItemName
+msgid "ランタンの飾り"
+msgstr "Lantern Decoration"
 
 #  Korean Text: '멸망 전에 한 때 유행하던 매지컬 모모 스티커입니다.'
 #: ItemConsumable[Ev_Consumable_MMSticker].ItemDesc
@@ -2251,6 +2383,36 @@ msgstr "Obtain 150 Gene Seeds."
 msgid "遺伝子の種100+50個(限定セール)"
 msgstr "100+50 Gene Seeds (Limited Sale)"
 
+#  Korean Text: 'CS 페로 3기 / 멸망 전의 전쟁 기록 1개 / 멸망 전의 전술 교본 1개를 획득합니다.'
+#: ItemConsumable[HarvestMoon_Day1Reward].ItemDesc
+msgid "CSペロー3機/滅亡前の戦争記録1個/滅亡前の戦術教本1個を獲得します。"
+msgstr ""
+
+#  Korean Text: '풍성한 한가위 1일차 보상'
+#: ItemConsumable[HarvestMoon_Day1Reward].ItemName
+msgid "豊かな中秋報酬、一日目"
+msgstr ""
+
+#  Korean Text: '성벽의 하치코 3기 / 멸망 전의 전쟁 기록 1개 / 멸망 전의 전술 교본 1개를 획득합니다.'
+#: ItemConsumable[HarvestMoon_Day2Reward].ItemDesc
+msgid "城壁のハチコ3機/滅亡前の戦争記録1個/滅亡前の戦術教本1個を獲得します。"
+msgstr ""
+
+#  Korean Text: '풍성한 한가위 2일차 보상'
+#: ItemConsumable[HarvestMoon_Day2Reward].ItemName
+msgid "豊かな中秋報酬、二日目"
+msgstr ""
+
+#  Korean Text: '블랙 리리스 1기 / 멸망 전의 전쟁 기록 1개 / 멸망 전의 전술 교본 1개를 획득합니다.'
+#: ItemConsumable[HarvestMoon_Day3Reward].ItemDesc
+msgid "ブラックリリス1機/滅亡前の戦争記録1個/滅亡前の戦術教本1個を獲得します。"
+msgstr ""
+
+#  Korean Text: '풍성한 한가위 3일차 보상'
+#: ItemConsumable[HarvestMoon_Day3Reward].ItemName
+msgid "豊かな中秋報酬、三日目"
+msgstr ""
+
 #  Korean Text: '고밀도 연산 제어 파츠가 10개 들어있습니다.'
 #: ItemConsumable[HDCC_S].ItemDesc
 msgid "高密度演算制御パーツが10個入っています。"
@@ -2411,6 +2573,36 @@ msgstr "Obtain 10 Strange Circuits."
 msgid "あやしい演算回路10個"
 msgstr "10 Strange Circuits"
 
+#  Korean Text: '모든 자원 5000개 / 고급 모듈 200개 / 특수 모듈 30개를 지급합니다.'
+#: ItemConsumable[IOS_Reward_Open_1].ItemDesc
+msgid "全ての資源5000個/高級モジュール200個/特殊モジュール30個を支給します。"
+msgstr ""
+
+#  Korean Text: 'IOS 사전예약 보상 1'
+#: ItemConsumable[IOS_Reward_Open_1].ItemName
+msgid "IOS事前予約報酬1"
+msgstr ""
+
+#  Korean Text: '오리진 더스트 150개 / 고급 오리진 더스트 50개 / 특수 오리진 더스트 20개 / 대체 코어 1 / 특수 대체 코어 1를 지급합니다.'
+#: ItemConsumable[IOS_Reward_Open_2].ItemDesc
+msgid "オリジンダスト150個/高級オリジンダスト50個/特殊オリジンダスト20個/代用コア1/特殊代用コア1を支給します。"
+msgstr ""
+
+#  Korean Text: 'IOS 사전예약 보상 2'
+#: ItemConsumable[IOS_Reward_Open_2].ItemName
+msgid "IOS事前予約報酬2"
+msgstr ""
+
+#  Korean Text: '철혈의 레오나 / 레오나용 레이싱 퀸 복장을 지급합니다.'
+#: ItemConsumable[IOS_Reward_Open_3].ItemDesc
+msgid "鉄血のレオナ用のレースクイーン服を支給します。"
+msgstr ""
+
+#  Korean Text: 'IOS 사전예약 보상 3'
+#: ItemConsumable[IOS_Reward_Open_3].ItemName
+msgid "IOS事前予約報酬3"
+msgstr ""
+
 #  Korean Text: '유전자 씨앗 / 전투 장비 코어 / 급속 완성 회로를 30개씩 획득합니다.'
 #: ItemConsumable[MakingPack_30].ItemDesc
 msgid "遺伝子の種/戦闘装備コア/急速完成回路を30個ずつ獲得します。"
@@ -2481,6 +2673,11 @@ msgstr "Parts increased by 5000."
 msgid "部品ボックス"
 msgstr "Parts box"
 
+#  Korean Text: '부품 5000 컨테이너_JP'
+#: ItemConsumable[Metal_5000_JP].ItemName
+msgid "部品5000コンテナー_JP"
+msgstr ""
+
 #  Korean Text: '부품 자원이 10400 증가합니다.'
 #: ItemConsumable[Metal_10000].ItemDesc
 msgid "部品10000個が入っています。"
@@ -2490,6 +2687,21 @@ msgstr "Parts increased by 10000."
 #: ItemConsumable[Metal_10000].ItemName
 msgid "部品コンテナ"
 msgstr "Parts container"
+
+#  Korean Text: '부품 10000 컨테이너_JP'
+#: ItemConsumable[Metal_10000_JP].ItemName
+msgid "部品10000コンテナー_JP"
+msgstr ""
+
+#  Korean Text: '부품 30000개가 들어있습니다.'
+#: ItemConsumable[Metal_30000_JP].ItemDesc
+msgid "部品30000個が入ってきます。"
+msgstr "30000 Parts"
+
+#  Korean Text: '부품 30000 컨테이너_JP'
+#: ItemConsumable[Metal_30000_JP].ItemName
+msgid "部品30000コンテナー_JP"
+msgstr ""
 
 #  Korean Text: '부품 50000개가 들어있습니다.'
 #: ItemConsumable[Metal_50000].ItemDesc
@@ -2697,6 +2909,11 @@ msgstr "Nutrients increased by 5000."
 msgid "栄養ボックス"
 msgstr ""
 
+#  Korean Text: '영양 5000 컨테이너_JP'
+#: ItemConsumable[Nutrient_5000_JP].ItemName
+msgid "栄養5000コンテナー_JP"
+msgstr ""
+
 #  Korean Text: '영양 자원이 10400 증가합니다.'
 #: ItemConsumable[Nutrient_10000].ItemDesc
 msgid "栄養10000個が入っています。"
@@ -2705,6 +2922,21 @@ msgstr "Nutrients increased by 10000."
 #  Korean Text: '영양 8000+2400개'
 #: ItemConsumable[Nutrient_10000].ItemName
 msgid "栄養コンテナ"
+msgstr ""
+
+#  Korean Text: '영양 10000 컨테이너_JP'
+#: ItemConsumable[Nutrient_10000_JP].ItemName
+msgid "栄養10000コンテナー_JP"
+msgstr ""
+
+#  Korean Text: '영양 30000개가 들어있습니다.'
+#: ItemConsumable[Nutrient_30000_JP].ItemDesc
+msgid "栄養30000個が入っています。"
+msgstr "30000 Nutrients"
+
+#  Korean Text: '영양 30000 컨테이너_JP'
+#: ItemConsumable[Nutrient_30000_JP].ItemName
+msgid "栄養30000コンテナー_JP"
 msgstr ""
 
 #  Korean Text: '영양 50000개가 들어있습니다.'
@@ -2817,6 +3049,11 @@ msgstr "Power increased by 5000."
 msgid "バッテリーボックス"
 msgstr ""
 
+#  Korean Text: '전력 5000 컨테이너_JP'
+#: ItemConsumable[Power_5000_JP].ItemName
+msgid "電力5000コンテナー_JP"
+msgstr ""
+
 #  Korean Text: '전력 자원이 10400 증가합니다.'
 #: ItemConsumable[Power_10000].ItemDesc
 msgid "電力10000個が入っています。"
@@ -2825,6 +3062,21 @@ msgstr "Power increased by 10000."
 #  Korean Text: '전력 8000+2400개'
 #: ItemConsumable[Power_10000].ItemName
 msgid "バッテリーコンテナ"
+msgstr ""
+
+#  Korean Text: '전력 10000 컨테이너_JP'
+#: ItemConsumable[Power_10000_JP].ItemName
+msgid "電力10000コンテナー_JP"
+msgstr ""
+
+#  Korean Text: '전력 30000개가 들어있습니다.'
+#: ItemConsumable[Power_30000_JP].ItemDesc
+msgid "電力30000個が入っています。"
+msgstr "30000 Power"
+
+#  Korean Text: '전력 30000 컨테이너_JP'
+#: ItemConsumable[Power_30000_JP].ItemName
+msgid "電力30000コンテナー_JP"
 msgstr ""
 
 #  Korean Text: '전력 50000개가 들어있습니다.'
@@ -3269,10 +3521,30 @@ msgstr "Receive 3 cans of tuna every day for 30 days."
 msgid "ツナ缶供給発注"
 msgstr "Order tuna can supply"
 
+#  Korean Text: '네오딤용 유령풍 베이비돌과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
+#: ItemConsumable[Shop_Package__BR_Neodym_1].ItemDesc
+msgid "ネオディム用の幽霊風ベビードールと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#  Korean Text: '먼저 움직인 유령'
+#: ItemConsumable[Shop_Package__BR_Neodym_1].ItemName
+msgid "先に仕掛けた幽霊さん"
+msgstr ""
+
+#  Korean Text: '뽀끄루용 매지컬 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
+#: ItemConsumable[Shop_Package__DS_Faucre_1].ItemDesc
+msgid "ポックル用のマジカルドレスと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
 #  Korean Text: '마법소녀?! 매지컬 뽀끄루'
 #: ItemConsumable[Shop_Package__DS_Faucre_1].ItemName
 msgid "魔法少女！？マジカルポックル"
 msgstr "Magical Girl?! Magical Faucre"
+
+#  Korean Text: '앨리스용 나이트 퀸 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
+#: ItemConsumable[Shop_Package_3P_Alice_1].ItemDesc
+msgid "アリス用のナイトクイーンドレスと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
 
 #  Korean Text: '밤의 여왕의 초대'
 #: ItemConsumable[Shop_Package_3P_Alice_1].ItemName
@@ -3337,6 +3609,11 @@ msgstr ""
 #  Korean Text: '바이오로이드 대량 생산 팩'
 #: ItemConsumable[Shop_Package_BioMaking_02].ItemName
 msgid "バイオロイド大量生産パック"
+msgstr ""
+
+#  Korean Text: '알비스용 뱀파이어 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
+#: ItemConsumable[Shop_Package_BR_Alvis_1].ItemDesc
+msgid "アルヴィス用のヴァンパイアドレスと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '알비스 백작의 습격'
@@ -3412,6 +3689,11 @@ msgstr ""
 msgid "真夏のヴァルキリー"
 msgstr "Midsummer Valkyrie"
 
+#  Korean Text: '백토용 빨간 망토와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
+#: ItemConsumable[Shop_Package_DS_Baekto_1].ItemDesc
+msgid "白兎用の赤ずきんと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
 #  Korean Text: '백토, 더 비스트 슬레이어'
 #: ItemConsumable[Shop_Package_DS_Baekto_1].ItemName
 msgid "白兎、ザビーストスレイヤー"
@@ -3439,7 +3721,7 @@ msgstr "Magical Rabbit Momo"
 
 #  Korean Text: '캐럴용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_PECS_Carolina_1].ItemDesc
-msgid "キャロル用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgid "キャロルライナ用のオードリームーンコレクションと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 캐럴'
@@ -3469,7 +3751,7 @@ msgstr "Midsummer Part-timer"
 
 #  Korean Text: '트리아이나용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_PECS_Triaina_1].ItemDesc
-msgid "ニュートリアイナ用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgid "トリアイナ用のオードリームーンコレクションと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 트리아이나'
@@ -3903,7 +4185,7 @@ msgstr "DutchGirl's Ceremonial Dress Pack"
 
 #  Korean Text: '엘븐 포레스트메이커용 카우걸 비키니와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_PECS_ElvenForestmaker_1].ItemDesc
-msgid "エルブン･フォレストメーカー用のカウガールビキニと手作りケーキ１個、チョコレート２個、合成ローリーポップ３個が入ったパックです。"
+msgid "エルブン･フォレストメーカー用のカウガールビキニと手作りケーキ1個、チョコレート2個、合成ローリーポップ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '엘프 카우걸 팩'
@@ -3966,6 +4248,11 @@ msgstr "Training Suit (Alexandra)"
 #  Korean Text: '밤의 여왕의 초대에 응해 함께 달콤한 꿈을 꾸러 가보시겠어요? 영원히 깰 수 없을지도 모르지만......'
 #: ItemConsumable[Skin_3P_Alice_1].ItemDesc
 msgid "夜の女王の招待に応じて共に甘い夢を見に行きませんか？永遠に眠りから覚めないかもしれませんが…"
+msgstr ""
+
+#  Korean Text: '나이트 퀸 드레스 (앨리스)'
+#: ItemConsumable[Skin_3P_Alice_1].ItemName
+msgid "ナイトクイーンドレス(アリス)"
 msgstr ""
 
 #  Korean Text: '너무 위험한 메이드를 들이고 말았군요.'
@@ -4086,13 +4373,9 @@ msgstr "Children's Maid Clothes (Hachiko)"
 #  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 아마 달토끼와 관계된 것 같다고 하니 아마 이 복장이 맞을 겁니다. 아마도요... 수많은 잡지에서도 이 복장이 널리 입혀졌다는 것이 증명되고 있고요.'
 #: ItemConsumable[Skin_3P_Rhea_1].ItemDesc
 msgid ""
-"オードリーが復元した過去の祭日、<8月の満月>の伝統の服です。 おそらく、月兎と関係しているようだというので、おそらくこの服装が正しいと思います。 "
-"たぶんね... 数多くの雑誌でも、この服装が広く着用されていることが証明しています。"
+"オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。おそらく、月兎と関係しているようなので、\n"
+"おそらくこの衣装が正しいと思います。たぶんね…数多くの雑誌でも、この衣装が広く着用されていることが証明しています。"
 msgstr ""
-"The traditional dress for the old festival 「The end of August」 that is "
-"restored by Audrey. Rumours are saying that the festival has something to do "
-"with Moon Rabbits. Also, a lot of females were featured on magazines wearing "
-"this..."
 
 #  Korean Text: '오드리 문 컬렉션 <어덜트 래빗>'
 #: ItemConsumable[Skin_3P_Rhea_1].ItemName
@@ -4169,6 +4452,11 @@ msgstr "War Arm (Rampart)"
 msgid ""
 "アルビス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
 msgstr ""
+
+#  Korean Text: '뱀파이어 드레스 (알비스)'
+#: ItemConsumable[Skin_BR_Alvis_1].ItemName
+msgid "ヴァンパイアドレス(アルヴィス)"
+msgstr "Vampire Dress (Alvis)"
 
 #  Korean Text: '유혹보다 실용성이 필요할 때 에이미는 이 옷을 입지요. 뭐, 보는 사람에 따라서는 이 수트가 더욱 매혹적이라고 하더라도요.'
 #: ItemConsumable[Skin_BR_Amy_1].ItemDesc
@@ -4290,8 +4578,8 @@ msgstr ""
 
 #  Korean Text: '레이싱 퀸 복장 (레오나)'
 #: ItemConsumable[Skin_BR_Leona_2].ItemName
-msgid "レースクイーン衣装（レオナ）"
-msgstr "Race Queen Cosplay (Leona)"
+msgid "レースクイーン衣装(レオナ)"
+msgstr ""
 
 #  Korean Text: '여름에는 좀 더 시원한 전투복이 필요하죠. 레프리콘이 그것을 원하지 않는다고 하더라도요.'
 #: ItemConsumable[Skin_BR_Leprechaun_1].ItemDesc
@@ -4372,6 +4660,11 @@ msgid ""
 "ブラウニーから過去のハロウィンの風習について聞いたネオディムは誰よりも早く行動しようと決心しました。幽霊に仮想した彼女はどんなイタズラをするのでしょうか？"
 msgstr ""
 
+#  Korean Text: '유령풍 베이비돌 (네오딤)'
+#: ItemConsumable[Skin_BR_Neodym_1].ItemName
+msgid "幽霊風ベビードール(ネオディム)"
+msgstr "Ghastly Babydoll (Neodym)"
+
 #: ItemConsumable[Skin_BR_Neodym_2].ItemDesc
 msgid "本機のだった一人のお客様であるあなたにすべてのサービスが無料で提供されます。まずは担当乗務員ネオディムとシャンパンでもいかがでしょう？"
 msgstr ""
@@ -4451,8 +4744,8 @@ msgstr ""
 "her maintaining it with your own eyes."
 
 #: ItemConsumable[Skin_BR_Phoenix_1].ItemName
-msgid "夏季戦闘服（フェニックス）"
-msgstr "Summer Combat Uniform (Phoenix)"
+msgid "夏季戦闘服(フェニックス)"
+msgstr ""
 
 #  Korean Text: '파란 하늘을 수놓는 완벽한 비행단! 의상까지 완벽합니다!'
 #: ItemConsumable[Skin_BR_PoniesAnger_1].ItemDesc
@@ -4469,8 +4762,8 @@ msgid "ブラウニーは疑問の褒章休暇をもらったそうです。よ�
 msgstr "Brownie somehow got a paid vacation. Goodjob Brownie!"
 
 #: ItemConsumable[Skin_BR_PXSilky_1].ItemName
-msgid "夏季戦闘服（シルキー）"
-msgstr "Summer Combat Suit (Silky)"
+msgid "夏季戦闘服(シルキー)"
+msgstr ""
 
 #  Korean Text: '오늘 그녀는 새로운 가족이 탄생하길 기다리고 있습니다.'
 #: ItemConsumable[Skin_BR_Scathy_1].ItemDesc
@@ -4492,8 +4785,8 @@ msgstr ""
 "someone. Please create some unforgettable memories for Sirene."
 
 #: ItemConsumable[Skin_BR_Sirene_1].ItemName
-msgid "かわいいワンピース（セイレーン）"
-msgstr "Cute Dress (Sirene)"
+msgid "かわいいワンピース(セイレーン)"
+msgstr ""
 
 #  Korean Text: '티켓 매진 임박! 마하 100의 충격파를 느껴보세요!'
 #: ItemConsumable[Skin_BR_Sleipnir_1].ItemDesc
@@ -4617,6 +4910,11 @@ msgstr "Cute Bear Costume (Atalanta)"
 msgid "満月の力がみなぎる赤いマントの白兎が登場しました！ハロウィンの日に暴れ回る魔物たちは覚悟した方がよさそうです！"
 msgstr ""
 
+#  Korean Text: '빨간 망토 (백토)'
+#: ItemConsumable[Skin_DS_Baekto_1].ItemName
+msgid "赤ずきん(白兎)"
+msgstr ""
+
 #  Korean Text: '호화로운 보석으로 만들어진 이 수영복은 모델을 화려하게 보이게 합니다. 유일한 단점은 보석이 너무 비싸 작게 만들 수 밖에 없단 점이죠.'
 #: ItemConsumable[Skin_DS_Charlotte_1].ItemDesc
 msgid "豪華な宝石で作られたこの水着はモデルを華やかに見せます。 唯一の短所は宝石が高すぎて小さく作るしかないという点ですね。"
@@ -4635,14 +4933,21 @@ msgstr "French Jewelry Bikini (Charlotte)"
 msgid "とある仲間の強要で転職したポックル(前)大魔王です。大きさはさておき見る者をして夢と希望を与えることができればそれだけで十分じゃないでしょうか？"
 msgstr ""
 
+#  Korean Text: '매지컬 드레스 (뽀끄루)'
+#: ItemConsumable[Skin_DS_Faucre_1].ItemName
+msgid "マジカルドレス(ポックル)"
+msgstr "Magical Dress (Faucre)"
+
 #  Korean Text: '마법소녀 매지컬 모모의 시즌 2에 사용했던 매지컬 문 변신 코스튬입니다. 달토끼의 힘을 완벽하게 흡수해 한층 강한 마법의 힘을 보여줄 수 있습니다.'
 #: ItemConsumable[Skin_DS_MoMo_1].ItemDesc
-msgid "魔法少女マジカルモモのシーズン2に使用したマジカルドア変身コスチュームです。 月兎の力を完璧に吸収し、一層強い魔法の力を見せることができます。"
+msgid ""
+"魔法少女マジカルモモの「八月の満月夜シーズン2」で使用する予定だった、月のモモ変身コスチュームです。 "
+"月兎の力を完璧に吸収し、一層強い魔法の力を見せることができます。"
 msgstr ""
 
 #  Korean Text: '달의 모모 변신 코스튬'
 #: ItemConsumable[Skin_DS_MoMo_1].ItemName
-msgid "月の桃変身コスチューム"
+msgid "月のモモ変身コスチューム"
 msgstr "Lunar Momo Transform Costume"
 
 #  Korean Text: '폴른에게 주면 도장이 적색으로 변경됩니다.'
@@ -4655,10 +4960,15 @@ msgstr "If you give it to Fallen, it's paint becomes red."
 msgid "フォールン用赤色ペイント"
 msgstr "Red Paint for Fallen"
 
+#  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 하지만 옷 크기가. 그녀의 격렬한 응원에서 터지지 않고 버틸 수 있을까요…?'
+#: ItemConsumable[Skin_PECS_Carolina_1].ItemDesc
+msgid "オードリーが復元した過去の名月、「中秋の名月」の伝統衣装です。彼女の激しいチアリーディングを服のサイズが耐えられるでしょうか…"
+msgstr ""
+
 #  Korean Text: '오드리 문 컬렉션 <치어 래빗>'
 #: ItemConsumable[Skin_PECS_Carolina_1].ItemName
-msgid "オードリー ムーン コレクション<チアラビット>"
-msgstr "Audrey's Moon Collection <Cheer Rabbit>"
+msgid "オードリームーンコレクション<チアラビット>"
+msgstr "Audrey Moon Collection <Assistant Rabbit>"
 
 #  Korean Text: '의장에는 검, 실전에선 곤봉은 얼핏 보기에는 이상합니다. 하지만, 멋진 검이 의장에 어울린다는 건 확실합니다.'
 #: ItemConsumable[Skin_PECS_Cerberus_1].ItemDesc
@@ -4780,10 +5090,17 @@ msgstr ""
 msgid "修練服(ティエ･チュァン)"
 msgstr "Training Suit (Tiequan)"
 
+#  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 대양을 넘어 달로 탐사를 떠나는 매지컬-네오-뉴-트리아이나입니다. 달의 주민들도 그녀가 준비한 선물을 좋아하겠죠.'
+#: ItemConsumable[Skin_PECS_Triaina_1].ItemDesc
+msgid ""
+"オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。海を越え月にまで探査に行くマジカル・ネオ・ニュー・トリアイナです。月の住民たちも彼女のプレゼン"
+"トに喜ぶでしょう。"
+msgstr ""
+
 #  Korean Text: '오드리 문 컬렉션 <프론티어 래빗>'
 #: ItemConsumable[Skin_PECS_Triaina_1].ItemName
-msgid "オードリー ムーン コレクション<フロンティアラビット>"
-msgstr "Audrey's Moon Collection <Frontier Rabbit>"
+msgid "オードリームーンコレクション<フロンティアラビット>"
+msgstr "Audrey Moon Collection <Frontier Rabbit>"
 
 #  Korean Text: 'S랭크 이상 전투원 또는 장비 분해로 획득 가능합니다.'
 #: ItemConsumable[Special_Module].DropDesc
@@ -4918,7 +5235,7 @@ msgstr "Quick-Fix Nanomachines"
 
 #  Korean Text: '수복실이 1칸 확장됩니다.'
 #: ItemConsumable[TestItem_11].ItemDesc
-msgid "修復室が１枠拡張されます。"
+msgid "修復室が1枠拡張されます。"
 msgstr "The recovery room will be expanded by 1 slot."
 
 #  Korean Text: '수복실 확장'
@@ -5051,6 +5368,16 @@ msgstr "Obtain 20 Tuna Cans."
 msgid "ツナ缶20個"
 msgstr "20 Tuna Cans"
 
+#  Korean Text: '참치캔 21개를 획득합니다.'
+#: ItemConsumable[TunaCan_21].ItemDesc
+msgid "ツナ缶21個を獲得します。"
+msgstr "Obtain 21 Tuna Cans"
+
+#  Korean Text: '참치캔 21개'
+#: ItemConsumable[TunaCan_21].ItemName
+msgid "ツナ缶21個"
+msgstr "21 Tuna Cans"
+
 #  Korean Text: '참치캔 17+3개'
 #: ItemConsumable[TunaCan_25_5].ItemName
 msgid "ツナ缶25+5個"
@@ -5075,6 +5402,16 @@ msgstr "Obtain 30 Tuna Cans."
 #: ItemConsumable[TunaCan_30].ItemName
 msgid "ツナ缶30個"
 msgstr "30 Tuna Cans"
+
+#  Korean Text: '참치캔 32개를 획득합니다.'
+#: ItemConsumable[TunaCan_32].ItemDesc
+msgid "ツナ缶32個を獲得します。"
+msgstr "Obtain 32 Tuna Cans"
+
+#  Korean Text: '참치캔 32개'
+#: ItemConsumable[TunaCan_32].ItemName
+msgid "ツナ缶32個"
+msgstr "32 Tuna Cans"
 
 #  Korean Text: '참치캔 50개'
 #: ItemConsumable[TunaCan_50].ItemName
@@ -5170,6 +5507,16 @@ msgstr "Obtain 1000 Tuna Cans."
 #: ItemConsumable[TunaCan_500_500].ItemName
 msgid "ツナ缶500+500個"
 msgstr "500+500 Tuna Cans"
+
+#  Korean Text: '참치캔 650개를 획득합니다.'
+#: ItemConsumable[TunaCan_650].ItemDesc
+msgid "ツナ缶650個を獲得します。"
+msgstr "Obtain 650 Tuna Cans"
+
+#  Korean Text: '참치캔 650개'
+#: ItemConsumable[TunaCan_650].ItemName
+msgid "ツナ缶650個"
+msgstr "650 Tuna Cans"
 
 #  Korean Text: '참치캔을 777개 획득합니다.'
 #: ItemConsumable[TunaCan_777].ItemDesc

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -530,7 +530,7 @@ msgstr "Study network systems capable of conducting AGS."
 
 #  Korean Text: 'AGS 지휘 시스템'
 #: Research[Robot_AGS_Command].Research_Name
-msgid "ＡＧＳ指揮システム"
+msgid "AGS指揮システム"
 msgstr "AGS Command System"
 
 #  Korean Text: 'AGS 지휘 시스템 기술 해금'

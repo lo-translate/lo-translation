@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -142,9 +142,294 @@ msgstr ""
 msgid "三銃士"
 msgstr ""
 
+#  Korean Text: '모모는 동료들에게 백토의 이야기를 해준다.'
+#: MapStage[Ch01Ev3Stage01].StageDesc
+msgid "モモは仲間たちに白兎の物語を聞かせる。"
+msgstr ""
+
+#  Korean Text: '미완의 전설'
+#: MapStage[Ch01Ev3Stage01].StageName
+msgid "未完の伝説"
+msgstr ""
+
+#  Korean Text: '모모 일행은 백토를 찾기 위해 떠난다.'
+#: MapStage[Ch01Ev3Stage02].StageDesc
+msgid "モモたちは白兎を探す旅に出る。"
+msgstr ""
+
+#  Korean Text: '백토 수색'
+#: MapStage[Ch01Ev3Stage02].StageName
+msgid "白兎探し"
+msgstr ""
+
+#  Korean Text: '모모 일행은 백토의 흔적을 발견하게 된다.'
+#: MapStage[Ch01Ev3Stage03].StageDesc
+msgid "モモたちは白兎の痕跡を見つける。"
+msgstr ""
+
+#  Korean Text: '마법과 노래'
+#: MapStage[Ch01Ev3Stage03].StageName
+msgid "魔法と歌"
+msgstr ""
+
+#  Korean Text: '모모는 백토를 데려오기 위한 방법을 찾는다.'
+#: MapStage[Ch01Ev3Stage04].StageDesc
+msgid "モモは白兎を連れ帰る方法を探し求める。"
+msgstr ""
+
+#  Korean Text: '죄 많은 몸'
+#: MapStage[Ch01Ev3Stage04].StageName
+msgid "罪深き者"
+msgstr ""
+
+#  Korean Text: '초대하지 않은 손님들의 방문'
+#: MapStage[Ch01Ev3Stage05].StageDesc
+msgid "招かれざる者たちの訪問…"
+msgstr ""
+
+#  Korean Text: '만월의 불청객 I'
+#: MapStage[Ch01Ev3Stage05].StageName
+msgid "満月の招かれざる者Ⅰ"
+msgstr ""
+
+#  Korean Text: '만월의 불청객 II'
+#: MapStage[Ch01Ev3Stage06].StageName
+msgid "満月の招かれざる者Ⅱ"
+msgstr ""
+
+#  Korean Text: '만월의 불청객 III'
+#: MapStage[Ch01Ev3Stage07].StageName
+msgid "満月の招かれざる者Ⅲ"
+msgstr ""
+
+#  Korean Text: '초대하지 않은 손님들의 방문… 그만 좀 왔으면…'
+#: MapStage[Ch01Ev3Stage08].StageDesc
+msgid "招かれざる者たちの訪問…もう来ないでよ…"
+msgstr ""
+
+#  Korean Text: '만월의 불청객 IV'
+#: MapStage[Ch01Ev3Stage08].StageName
+msgid "満月の招かれざる者Ⅳ"
+msgstr ""
+
+#  Korean Text: '마법 소녀 일행은 중요한 물건을 찾기 위해 출격을 요청한다.'
+#: MapStage[Ch01Ev3Stage09].StageDesc
+msgid "魔法少女たちはキーアイテムを手に入れるため出撃を要請する。"
+msgstr ""
+
+#  Korean Text: '대본집'
+#: MapStage[Ch01Ev3Stage09].StageName
+msgid "脚本集"
+msgstr ""
+
+#  Korean Text: '레아와 마법소녀들은 갈 곳 없는 바이오로이드를 오르카로 데려온다.'
+#: MapStage[Ch01Ev3Stage10].StageDesc
+msgid "レアと魔法少女たちは、行き場を失くしたバイオロイドをオルカへ連れて帰る。"
+msgstr ""
+
+#  Korean Text: '매직 젠틀맨'
+#: MapStage[Ch01Ev3Stage10].StageName
+msgid "マジックジェントルマン"
+msgstr ""
+
+#  Korean Text: '닥터는 모두가 모여있는 곳에서 중요한 이야기를 꺼낸다.'
+#: MapStage[Ch01Ev3Stage11].StageDesc
+msgid "ドクターはみんなの集まった場所で大事な話を持ち出す。"
+msgstr ""
+
+#  Korean Text: '과학과 저주'
+#: MapStage[Ch01Ev3Stage11].StageName
+msgid "科学と呪い"
+msgstr ""
+
+#  Korean Text: '참된 교육자 공진의 알렉산드라가 교편을 들고 나타났다.'
+#: MapStage[Ch01Ev3Stage12].StageDesc
+msgid "真の教育者たる共振のアレクサンドラが教鞭を執って現れた。"
+msgstr ""
+
+#  Korean Text: '만월야'
+#: MapStage[Ch01Ev3Stage12].StageName
+msgid "満月夜"
+msgstr ""
+
+#  Korean Text: '만월의 불청객 V'
+#: MapStage[Ch01Ev3Stage13].StageName
+msgid "満月の招かれざる者Ⅴ"
+msgstr ""
+
+#  Korean Text: '이쯤 되면 그냥 같이 노는 게 나을지도 모르겠습니다…'
+#: MapStage[Ch01Ev3Stage14].StageDesc
+msgid "もう諦めて一緒に遊んだほうが良いかもしれません…"
+msgstr ""
+
+#  Korean Text: '만월의 불청객 VI'
+#: MapStage[Ch01Ev3Stage14].StageName
+msgid "満月の招かれざる者Ⅵ"
+msgstr ""
+
+#  Korean Text: '오르카의 평화롭기만 한 축제 준비. 그리고 늑대들의 습격.'
+#: MapStage[Ch01Ev4Stage01].StageDesc
+msgid "平和なオルカの祭り準備。そして狼たちの襲撃。"
+msgstr ""
+
+#  Korean Text: '노련한 늑대들'
+#: MapStage[Ch01Ev4Stage01].StageName
+msgid "熟練の雌狼たち"
+msgstr ""
+
+#  Korean Text: '바닐라가 들려주는 축제에 관한 이야기.'
+#: MapStage[Ch01Ev4Stage02].StageDesc
+msgid "バニラが聞かせてくれる祭りの物語。"
+msgstr ""
+
+#  Korean Text: '초대장'
+#: MapStage[Ch01Ev4Stage02].StageName
+msgid "招待状"
+msgstr ""
+
+#  Korean Text: '가장 저돌적인 바이오로이드들의 끊임없는 도전들.'
+#: MapStage[Ch01Ev4Stage03].StageDesc
+msgid "オルカ産ボタンたちの限界を知らぬ挑戦の数々…"
+msgstr ""
+
+#  Korean Text: '현신'
+#: MapStage[Ch01Ev4Stage03].StageName
+msgid "降臨"
+msgstr ""
+
+#  Korean Text: '오르카에 퍼져나가는 수상한 유원지에 관한 소문들.'
+#: MapStage[Ch01Ev4Stage04].StageDesc
+msgid "オルカに広がる怪しい遊園地の噂。"
+msgstr ""
+
 #  Korean Text: '성전'
 #: MapStage[Ch01Ev4Stage04].StageName
 msgid "聖戦"
+msgstr ""
+
+#  Korean Text: '유원지로 향하는 발걸음을 막아서는 아자젤.'
+#: MapStage[Ch01Ev4Stage05].StageDesc
+msgid "遊園地への道を邪魔するアザゼル。"
+msgstr ""
+
+#  Korean Text: '판독'
+#: MapStage[Ch01Ev4Stage05].StageName
+msgid "判読"
+msgstr ""
+
+#  Korean Text: '테마파크의 입구에서 아자젤과 아르망은 마지막 시도를 한다.'
+#: MapStage[Ch01Ev4Stage06].StageDesc
+msgid "テーマパークの入り口でアザゼルとアルマンは最後の賭けに出る。"
+msgstr ""
+
+#  Korean Text: '테마파크'
+#: MapStage[Ch01Ev4Stage06].StageName
+msgid "テーマパーク"
+msgstr ""
+
+#  Korean Text: '테마파크에 입장한 오르카의 전투원들에게 위험이 닥쳐온다.'
+#: MapStage[Ch01Ev4Stage07].StageDesc
+msgid "テーマパークへ入ったオルカの隊員たちに危機が迫る。"
+msgstr ""
+
+#  Korean Text: '테마파크의 수호자'
+#: MapStage[Ch01Ev4Stage07].StageName
+msgid "テーマパークの守護者"
+msgstr ""
+
+#  Korean Text: '뽀끄루의 마법 복장을 두고 백토는 고민에 빠진다.'
+#: MapStage[Ch01Ev4Stage08].StageDesc
+msgid "ポックルの魔法少女コスチュームの件で白兎は悩み始める。"
+msgstr ""
+
+#  Korean Text: '경량화 열풍'
+#: MapStage[Ch01Ev4Stage08].StageName
+msgid "ミニマイズブーム"
+msgstr ""
+
+#  Korean Text: '키르케는 테마파크의 깊숙한 곳으로 모두를 안내한다.'
+#: MapStage[Ch01Ev4Stage09].StageDesc
+msgid "キルケーはみんなをテーマパークの奥へ案内する。"
+msgstr ""
+
+#  Korean Text: '마녀'
+#: MapStage[Ch01Ev4Stage09].StageName
+msgid "魔女"
+msgstr ""
+
+#  Korean Text: '일행은 테마파크의 통제구역으로 향한다.'
+#: MapStage[Ch01Ev4Stage10].StageDesc
+msgid "司令官たちはテーマパークの立ち入り禁止区域へ向かう。"
+msgstr ""
+
+#  Korean Text: '사명'
+#: MapStage[Ch01Ev4Stage10].StageName
+msgid "使命"
+msgstr ""
+
+#  Korean Text: '옛 할로윈에 대한 기억.'
+#: MapStage[Ch01Ev4Stage11].StageDesc
+msgid "昔のハロウィンの記憶。"
+msgstr ""
+
+#  Korean Text: '원죄'
+#: MapStage[Ch01Ev4Stage11].StageName
+msgid "原罪"
+msgstr ""
+
+#  Korean Text: '할로윈을 축하하는 새로운 방법.'
+#: MapStage[Ch01Ev4Stage12].StageDesc
+msgid "新しいハロウィンの祝い方。"
+msgstr ""
+
+#  Korean Text: '예언'
+#: MapStage[Ch01Ev4Stage12].StageName
+msgid "予言"
+msgstr ""
+
+#  Korean Text: '할로윈에 필요한 재료를 모아보자.'
+#: MapStage[Ch01Ev4Stage13].StageDesc
+msgid "ハロウィンで使う素材を集めよう！"
+msgstr ""
+
+#  Korean Text: '할로윈 준비 I'
+#: MapStage[Ch01Ev4Stage13].StageName
+msgid "ハロウィンの準備Ⅰ"
+msgstr ""
+
+#  Korean Text: '할로윈 준비 II'
+#: MapStage[Ch01Ev4Stage14].StageName
+msgid "ハロウィンの準備Ⅱ"
+msgstr ""
+
+#  Korean Text: '할로윈 준비 III'
+#: MapStage[Ch01Ev4Stage15].StageName
+msgid "ハロウィンの準備Ⅲ"
+msgstr ""
+
+#  Korean Text: '녀석들도 할로윈 준비를 하는 걸까…?'
+#: MapStage[Ch01Ev4Stage16].StageDesc
+msgid "奴らもハロウィンを祝うだろうか。"
+msgstr ""
+
+#  Korean Text: '할로윈 준비 IV'
+#: MapStage[Ch01Ev4Stage16].StageName
+msgid "ハロウィンの準備Ⅳ"
+msgstr ""
+
+#  Korean Text: '할로윈 준비 V'
+#: MapStage[Ch01Ev4Stage17].StageName
+msgid "ハロウィンの準備Ⅴ"
+msgstr ""
+
+#  Korean Text: '할로윈 파크의 불청객들을 몰아낼 시간이다.'
+#: MapStage[Ch01Ev4Stage18].StageDesc
+msgid "ハロウィンパークの招かれざる客を追い出す時間だ！"
+msgstr ""
+
+#  Korean Text: '할로윈 준비 VI'
+#: MapStage[Ch01Ev4Stage18].StageName
+msgid "ハロウィンの準備Ⅵ"
 msgstr ""
 
 #  Korean Text: '오르카는 소완으로 인해 혼란에 빠진다.'
@@ -1614,7 +1899,7 @@ msgstr "Expert Enhancement Training"
 
 #  Korean Text: '초급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage09].StageDesc
-msgid "初級機能訓練ステージ（重装）"
+msgid "初級機能訓練ステージ(重装)"
 msgstr "Beginner Skill Training Stage (Heavy)"
 
 #  Korean Text: '초급 기능 훈련 (중장)'
@@ -1624,7 +1909,7 @@ msgstr "Beginner Skill Training (Heavy)"
 
 #  Korean Text: '중급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage10].StageDesc
-msgid "中級機能訓練ステージ（重装）"
+msgid "中級機能訓練ステージ(重装)"
 msgstr "Intermediate Skill Training Stage (Heavy)"
 
 #  Korean Text: '중급 기능 훈련 (중장)'
@@ -1634,7 +1919,7 @@ msgstr "Intermediate Skill Training (Heavy)"
 
 #  Korean Text: '상급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage11].StageDesc
-msgid "上級機能訓練ステージ（重装）"
+msgid "上級機能訓練ステージ(重装)"
 msgstr "Advanced Skill Training Stage (Heavy)"
 
 #  Korean Text: '상급 기능 훈련 (중장)'
@@ -1644,7 +1929,7 @@ msgstr "Advanced Skill Training (Heavy)"
 
 #  Korean Text: '최상급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage12].StageDesc
-msgid "最上級機能訓練ステージ（重装）"
+msgid "最上級機能訓練ステージ(重装)"
 msgstr "Expert Skill Training Stage (Heavy)"
 
 #  Korean Text: '최상급 기능 훈련 (중장)'
@@ -1666,6 +1951,11 @@ msgstr "Beginner Module Training Stage"
 #: MapStage[ChDailyStage13].StageName
 msgid "初級モジュール訓練"
 msgstr "Beginner Module Training"
+
+#  Korean Text: '10 라운드 경과'
+#: MapStage[ChDailyStage13].VictoryDesc2
+msgid "10ラウンド経過"
+msgstr "10 Rounds Elapsed"
 
 #  Korean Text: '중급 모듈 훈련 스테이지'
 #: MapStage[ChDailyStage14].StageDesc
@@ -1699,7 +1989,7 @@ msgstr "Expert Module Training"
 
 #  Korean Text: '초급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage17].StageDesc
-msgid "初級機能訓練ステージ（機動）"
+msgid "初級機能訓練ステージ(機動)"
 msgstr "Beginner Skill Training Stage (Flying)"
 
 #  Korean Text: '초급 기능 훈련 (기동)'
@@ -1709,7 +1999,7 @@ msgstr "Beginner Skill Training (Flying)"
 
 #  Korean Text: '중급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage18].StageDesc
-msgid "中級機能訓練ステージ（機動）"
+msgid "中級機能訓練ステージ(機動)"
 msgstr "Intermediate Skill Training Stage (Flying)"
 
 #  Korean Text: '중급 기능 훈련 (기동)'
@@ -1719,7 +2009,7 @@ msgstr "Intermediate Skill Training (Flying)"
 
 #  Korean Text: '상급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage19].StageDesc
-msgid "上級機能訓練ステージ（機動）"
+msgid "上級機能訓練ステージ(機動)"
 msgstr "Advanced Skill Training Stage (Flying)"
 
 #  Korean Text: '상급 기능 훈련 (기동)'
@@ -1729,7 +2019,7 @@ msgstr "Advanced Skill Training (Flying)"
 
 #  Korean Text: '최상급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage20].StageDesc
-msgid "最上級機能訓練ステージ（機動）"
+msgid "最上級機能訓練ステージ(機動)"
 msgstr "Expert Skill Training Stage (Flying)"
 
 #  Korean Text: '최상급 기능 훈련 (기동)'
@@ -1739,7 +2029,7 @@ msgstr "Expert Skill Training (Flying)"
 
 #  Korean Text: '초급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage21].StageDesc
-msgid "初級機能訓練ステージ（軽装）"
+msgid "初級機能訓練ステージ(軽装)"
 msgstr "Beginner Skill Training Stage (Light)"
 
 #  Korean Text: '초급 기능 훈련 (경장)'
@@ -1749,7 +2039,7 @@ msgstr "Beginner Skill Training (Light)"
 
 #  Korean Text: '중급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage22].StageDesc
-msgid "中級機能訓練ステージ（軽装）"
+msgid "中級機能訓練ステージ(軽装)"
 msgstr "Intermediate Skill Training Stage (Light)"
 
 #  Korean Text: '중급 기능 훈련 (경장)'
@@ -1759,7 +2049,7 @@ msgstr "Intermediate Skill Training (Light)"
 
 #  Korean Text: '상급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage23].StageDesc
-msgid "上級機能訓練ステージ（軽装）"
+msgid "上級機能訓練ステージ(軽装)"
 msgstr "Advanced Skill Training Stage (Light)"
 
 #  Korean Text: '상급 기능 훈련 (경장)'
@@ -1769,7 +2059,7 @@ msgstr "Advanced Skill Training (Light)"
 
 #  Korean Text: '최상급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage24].StageDesc
-msgid "最上級機能訓練ステージ（軽装）"
+msgid "最上級機能訓練ステージ(軽装)"
 msgstr "Expert Skill Training Stage (Light)"
 
 #  Korean Text: '최상급 기능 훈련 (경장)'

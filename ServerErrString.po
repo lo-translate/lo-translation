@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-29 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -896,7 +896,7 @@ msgstr ""
 
 #  Korean Text: '코어유닛(대체코어)는 캐릭터 강화재료로 사용할 수 없습니다'
 #: ServerErrString[456].Msg
-msgid "コアユニット（代用コア）はキャラクターの強化素材には使用できません。"
+msgid "コアユニット(代用コア)はキャラクターの強化素材には使用できません。"
 msgstr ""
 
 #: ServerErrString[457].Info
@@ -1038,7 +1038,7 @@ msgstr ""
 
 #  Korean Text: '자원 탐색 스쿼드는 4부대까지만 파견할 수 있습니다'
 #: ServerErrString[558].Msg
-msgid "資源探索分隊は４部隊まで派遣できます"
+msgid "資源探索分隊は4部隊まで派遣できます"
 msgstr ""
 
 #: ServerErrString[600].Info
@@ -1505,7 +1505,7 @@ msgstr ""
 
 #  Korean Text: '한번에 최대 18개 이하의 수량으로 분해 하실 수 있습니다'
 #: ServerErrString[1005].Msg
-msgid "一度に最大１８個以下の数量で分解できます"
+msgid "一度に最大18個以下の数量で分解できます"
 msgstr ""
 
 #: ServerErrString[1100].Info
@@ -1647,7 +1647,7 @@ msgstr ""
 
 #  Korean Text: '친구 데이터를 찾을 수 없습니다 (캐시)'
 #: ServerErrString[3008].Msg
-msgid "友達データーが見つかりません（キャッシュ）"
+msgid "友達データーが見つかりません(キャッシュ)"
 msgstr ""
 
 #: ServerErrString[3009].Info
@@ -2015,6 +2015,11 @@ msgstr ""
 msgid "원스토어 상품 구매 영수증 인증 실패"
 msgstr ""
 
+#  Korean Text: '원스토어 상품 구매 영수증 인증 실패'
+#: ServerErrString[5810].Msg
+msgid "ワンストア商品購入領収証認証失敗"
+msgstr ""
+
 #: ServerErrString[5810].Pos
 msgid "원스토어"
 msgstr ""
@@ -2023,32 +2028,72 @@ msgstr ""
 msgid "원스토어 영수증 소비 실패"
 msgstr ""
 
+#  Korean Text: '원스토어 영수증 소비 실패'
+#: ServerErrString[5811].Msg
+msgid "ワンストア領収証消費失敗"
+msgstr ""
+
 #: ServerErrString[5812].Info
 msgid "원스토어 검증 서버 요청 오류"
+msgstr ""
+
+#  Korean Text: '원스토어 검증 서버 요청 오류'
+#: ServerErrString[5812].Msg
+msgid "ワンストア検証サーバー要請エラー"
 msgstr ""
 
 #: ServerErrString[5813].Info
 msgid "원스토어 검증 서버 응답 값 오류"
 msgstr ""
 
+#  Korean Text: '원스토어 검증 서버 응답 값 오류'
+#: ServerErrString[5813].Msg
+msgid "ワンストア検証サーバー応答値エラー"
+msgstr ""
+
 #: ServerErrString[5814].Info
 msgid "원스토어 검증 서버 응답 오류"
+msgstr ""
+
+#  Korean Text: '원스토어 검증 서버 응답 오류'
+#: ServerErrString[5814].Msg
+msgid "ワンストア検証サーバー応答エラー"
 msgstr ""
 
 #: ServerErrString[5815].Info
 msgid "원스토어 소비 서버 요청 실패"
 msgstr ""
 
+#  Korean Text: '원스토어 소비 서버 요청 오류'
+#: ServerErrString[5815].Msg
+msgid "ワンストア消費サーバー要請エラー"
+msgstr ""
+
 #: ServerErrString[5816].Info
 msgid "원스토어 소비 서버 응답 값 오류"
+msgstr ""
+
+#  Korean Text: '원스토어 소비 서버 응답 값 오류'
+#: ServerErrString[5816].Msg
+msgid "ワンストア消費サーバー応答値エラー"
 msgstr ""
 
 #: ServerErrString[5817].Info
 msgid "원스토어 소비 서버 응답 오류"
 msgstr ""
 
+#  Korean Text: '원스토어 소비 서버 응답 오류'
+#: ServerErrString[5817].Msg
+msgid "ワンストア消費サーバー応答エラー"
+msgstr ""
+
 #: ServerErrString[5820].Info
 msgid "앱스토어 상품 구매 영수증 인증 실패"
+msgstr ""
+
+#  Korean Text: '앱스토어 상품 구매 영수증 인증 실패'
+#: ServerErrString[5820].Msg
+msgid "アップストア商品購入領収証認証失敗"
 msgstr ""
 
 #: ServerErrString[5820].Pos
@@ -2059,12 +2104,27 @@ msgstr ""
 msgid "앱스토어 검증 서버 요청 오류"
 msgstr ""
 
+#  Korean Text: '앱스토어 검증 서버 요청 오류'
+#: ServerErrString[5821].Msg
+msgid "アップストア検証サーバー要請エラー"
+msgstr ""
+
 #: ServerErrString[5822].Info
 msgid "앱스토어 검증 서버 응답 값 오류"
 msgstr ""
 
+#  Korean Text: '앱스토어 검증 서버 응답 값 오류'
+#: ServerErrString[5822].Msg
+msgid "アップストア検証サーバー応答値エラー"
+msgstr ""
+
 #: ServerErrString[5823].Info
 msgid "앱스토어 검증 서버 응답 오류"
+msgstr ""
+
+#  Korean Text: '앱스토어 검증 서버 응답 오류'
+#: ServerErrString[5823].Msg
+msgid "アップストア検証サーバー応答エラー"
 msgstr ""
 
 #: ServerErrString[5850].Info
@@ -2099,7 +2159,7 @@ msgstr ""
 
 #  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8000)'
 #: ServerErrString[8000].Msg
-msgid "要請エラーでクライアントを終了します。（8000）"
+msgid "要請エラーでクライアントを終了します。(8000)"
 msgstr ""
 
 #: ServerErrString[8000].Pos
@@ -2112,7 +2172,7 @@ msgstr ""
 
 #  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8001)'
 #: ServerErrString[8001].Msg
-msgid "要請エラーによりクライアントを終了します。（8001）"
+msgid "要請エラーによりクライアントを終了します。(8001)"
 msgstr ""
 
 #: ServerErrString[8002].Info
@@ -2121,7 +2181,7 @@ msgstr ""
 
 #  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8002)'
 #: ServerErrString[8002].Msg
-msgid "要請エラーによりクライアントを終了します。（8002）"
+msgid "要請エラーによりクライアントを終了します。(8002)"
 msgstr ""
 
 #: ServerErrString[8003].Info
@@ -2130,7 +2190,7 @@ msgstr ""
 
 #  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8003)'
 #: ServerErrString[8003].Msg
-msgid "要請エラーによりクライアントを終了します。（8003）"
+msgid "要請エラーによりクライアントを終了します。(8003)"
 msgstr ""
 
 #: ServerErrString[8004].Info
@@ -2139,7 +2199,7 @@ msgstr ""
 
 #  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8004)'
 #: ServerErrString[8004].Msg
-msgid "要請エラーによりクライアントを終了します。（8004）"
+msgid "要請エラーによりクライアントを終了します。(8004)"
 msgstr ""
 
 #: ServerErrString[8005].Info
@@ -2148,7 +2208,7 @@ msgstr ""
 
 #  Korean Text: '요청 오류로 클라이언트를 종료합니다. (8005)'
 #: ServerErrString[8005].Msg
-msgid "要請エラーによりクライアントを終了します。（8005）"
+msgid "要請エラーによりクライアントを終了します。(8005)"
 msgstr ""
 
 #: ServerErrString[9000].Info
@@ -2267,8 +2327,9 @@ msgstr ""
 msgid "소비상태 변경 대상이 2건 이상 존재합니다."
 msgstr ""
 
+#  Korean Text: '消費状態変更対象が２件以上存在します。'
 #: ServerErrString[9202].Msg
-msgid "消費状態変更対象が２件以上存在します。"
+msgid "消費状態変更対象が2件以上存在します。"
 msgstr ""
 
 #: ServerErrString[9999].Info

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -244,7 +244,7 @@ msgstr "Full Metal Savior"
 
 #  Korean Text: 'SS등급 전투원 제작'
 #: Quest[Achievement_024].QuestDesc
-msgid "SS級戦闘員製造"
+msgid "SSランク戦闘員製造"
 msgstr "Build your first SS unit"
 
 #  Korean Text: '오늘의 바이오로이드는…!'
@@ -254,7 +254,7 @@ msgstr "And the Bioroid of the Day is...!"
 
 #  Korean Text: 'SS등급 전투원 5기 제작'
 #: Quest[Achievement_025].QuestDesc
-msgid "SS級戦闘員5機製造"
+msgid "SSランク戦闘員5機製造"
 msgstr "Build 5 SS units"
 
 #  Korean Text: '엘리트 스쿼드'
@@ -264,7 +264,7 @@ msgstr "Elite Squad"
 
 #  Korean Text: 'SS등급 전투원 20기 제작'
 #: Quest[Achievement_026].QuestDesc
-msgid "SS級戦闘員20機製造"
+msgid "SSランク戦闘員20機製造"
 msgstr "Build 20 SS units"
 
 #  Korean Text: '의외로 자주보이는'
@@ -274,7 +274,7 @@ msgstr "Not as Rare as I Though"
 
 #  Korean Text: 'SS등급 전투원 100기 제작'
 #: Quest[Achievement_027].QuestDesc
-msgid "SS級戦闘員100機製造"
+msgid "SSランク戦闘員100機製造"
 msgstr "Build 100 SS units"
 
 #  Korean Text: '보급이 걱정되는 시점'
@@ -1369,7 +1369,7 @@ msgstr "Clear stage 1-8"
 
 #  Korean Text: '첫 번째 이야기'
 #: Quest[Achievement_136].QuestTitle
-msgid "１番目のストーリー"
+msgid "1番目のストーリー"
 msgstr ""
 
 #  Korean Text: '2-8 스테이지 클리어'
@@ -1379,7 +1379,7 @@ msgstr "Clear stage 2-8"
 
 #  Korean Text: '두 번째 이야기'
 #: Quest[Achievement_137].QuestTitle
-msgid "２番目のストーリー"
+msgid "2番目のストーリー"
 msgstr ""
 
 #  Korean Text: '3-8 스테이지 클리어'
@@ -1389,7 +1389,7 @@ msgstr "Clear stage 3-8"
 
 #  Korean Text: '세 번째 이야기'
 #: Quest[Achievement_138].QuestTitle
-msgid "３番目のストーリー"
+msgid "3番目のストーリー"
 msgstr ""
 
 #  Korean Text: '4-8 스테이지 클리어'
@@ -1399,7 +1399,7 @@ msgstr "Clear stage 4-8"
 
 #  Korean Text: '네 번째 이야기'
 #: Quest[Achievement_139].QuestTitle
-msgid "４番目のストーリー"
+msgid "4番目のストーリー"
 msgstr ""
 
 #  Korean Text: '5-8 스테이지 클리어'
@@ -1409,7 +1409,7 @@ msgstr "Clear stage 5-8"
 
 #  Korean Text: '다섯 번째 이야기'
 #: Quest[Achievement_140].QuestTitle
-msgid "５番目のストーリー"
+msgid "5番目のストーリー"
 msgstr ""
 
 #  Korean Text: '스토커를 처치'
@@ -1859,7 +1859,7 @@ msgstr "Complete 500 explorations"
 
 #  Korean Text: '5분 쉬고 다시 출동'
 #: Quest[Achievement_186].QuestTitle
-msgid "５分休んでから再び出動"
+msgid "5分休んでから再び出動"
 msgstr ""
 
 #  Korean Text: '자원 탐색 1,000회 완료'
@@ -2149,8 +2149,8 @@ msgstr "Clear stage 6-8"
 
 #  Korean Text: '여섯 번째 이야기'
 #: Quest[Achievement_215].QuestTitle
-msgid "６番目のストーリー"
-msgstr "The 6th Story"
+msgid "6番目のストーリー"
+msgstr "The Sixth Story"
 
 #  Korean Text: '익스큐셔너를 처치'
 #: Quest[Achievement_216].QuestDesc
@@ -2194,7 +2194,7 @@ msgstr "Zone Patrol"
 
 #  Korean Text: '철충 50기 파괴'
 #: Quest[DailyQuest_Fix_002].QuestDesc
-msgid "鉄虫を５０機破壊"
+msgid "鉄虫を50機破壊"
 msgstr "Destroy 50 Iron Parasites"
 
 #  Korean Text: '증식 억제'
@@ -2204,7 +2204,7 @@ msgstr "Suppress Propagation"
 
 #  Korean Text: '바이오로이드 3기 제작'
 #: Quest[DailyQuest_Fix_003].QuestDesc
-msgid "バイオロイドを３機製造"
+msgid "バイオロイドを3機製造"
 msgstr "Build 3 Bioroids"
 
 #  Korean Text: '새로운 전력 확보'
@@ -2214,7 +2214,7 @@ msgstr "Secure New Power"
 
 #  Korean Text: '장비 5개 제작'
 #: Quest[DailyQuest_Fix_004].QuestDesc
-msgid "装備を５個製造"
+msgid "装備を5個製造"
 msgstr "Build 5 pieces of equipment"
 
 #  Korean Text: '전투 장비 보급'
@@ -2359,7 +2359,7 @@ msgstr "Complete 60 explorations"
 
 #  Korean Text: '주 7일 근무제'
 #: Quest[MonthlyQuest_Fix_004].QuestTitle
-msgid "週７日勤務制"
+msgid "週7日勤務制"
 msgstr "7-Day Work Week"
 
 #  Korean Text: '일일 훈련 30회 완료'
@@ -2489,7 +2489,7 @@ msgstr "Clear 1-3 to Activate Command Room"
 
 #  Korean Text: '(연구) 함내 기반 시설_1-3클리어'
 #: Quest[Research_Fac_Quest_001].QuestTitle
-msgid "（研究）艦内基盤施設＿１－３クリア"
+msgid "(研究)艦内基盤施設_1-3クリア"
 msgstr "(Research) Base Infrastructure_1-3 Clear"
 
 #  Korean Text: '부품 1000 이상 사용'
@@ -2499,7 +2499,7 @@ msgstr "Use over 1000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv1_부품 소모'
 #: Quest[Research_Fac_Quest_002].QuestTitle
-msgid "（研究）資源リサイクルＬＶ１＿部品消費"
+msgid "(研究)資源リサイクルLv.1_部品消費"
 msgstr "(Research) Resource Recycling Lv1_Parts Usage"
 
 #  Korean Text: '영양 1000 이상 사용'
@@ -2509,7 +2509,7 @@ msgstr "Use over 1000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv1_영양 소모'
 #: Quest[Research_Fac_Quest_003].QuestTitle
-msgid "（研究）資源リサイクルＬＶ１＿栄養消費"
+msgid "(研究)資源リサイクルLv.1_栄養消費"
 msgstr "(Research) Resource Recycling Lv1_Nutrients Usage"
 
 #  Korean Text: '전력 1000 이상 사용'
@@ -2519,7 +2519,7 @@ msgstr "Use over 1000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv1_전력 소모'
 #: Quest[Research_Fac_Quest_004].QuestTitle
-msgid "（研究）資源リサイクルＬＶ１＿電力消費"
+msgid "(研究)資源リサイクルLv.1_電力消費"
 msgstr "(Research) Resource Recycling Lv1_Power Usage"
 
 #  Korean Text: '부품 3000 이상 사용'
@@ -2529,7 +2529,7 @@ msgstr "Use over 3000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv2_부품 소모'
 #: Quest[Research_Fac_Quest_005].QuestTitle
-msgid "（研究）資源リサイクルＬＶ２＿部品消費"
+msgid "(研究)資源リサイクルLv.2_部品消費"
 msgstr "(Research) Resource Recycling Lv2_Parts Usage"
 
 #  Korean Text: '영양 3000 이상 사용'
@@ -2539,7 +2539,7 @@ msgstr "Use over 3000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv2_영양 소모'
 #: Quest[Research_Fac_Quest_006].QuestTitle
-msgid "（研究）資源リサイクルＬＶ２＿栄養消費"
+msgid "(研究)資源リサイクルLv.2_栄養消費"
 msgstr "(Research) Resource Recycling Lv2_Nutrients Usage"
 
 #  Korean Text: '전력 3000 이상 사용'
@@ -2549,7 +2549,7 @@ msgstr "Use over 3000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv2_전력 소모'
 #: Quest[Research_Fac_Quest_007].QuestTitle
-msgid "（研究）資源リサイクルＬＶ２＿電力消費"
+msgid "(研究)資源リサイクルLv.2_電力消費"
 msgstr "(Research) Resource Recycling Lv2_Power Usage"
 
 #  Korean Text: '부품 5000 이상 사용'
@@ -2559,7 +2559,7 @@ msgstr "Use over 5000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv3_부품 소모'
 #: Quest[Research_Fac_Quest_008].QuestTitle
-msgid "（研究）資源リサイクルＬＶ３＿部品消費"
+msgid "(研究)資源リサイクルLv.3_部品消費"
 msgstr "(Research) Resource Recycling Lv3_Parts Usage"
 
 #  Korean Text: '영양 5000 이상 사용'
@@ -2569,7 +2569,7 @@ msgstr "Use over 5000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv3_영양 소모'
 #: Quest[Research_Fac_Quest_009].QuestTitle
-msgid "（研究）資源リサイクルＬＶ３＿栄養消費"
+msgid "(研究)資源リサイクルLv.3_栄養消費"
 msgstr "(Research) Resource Recycling Lv3_Nutrients Usage"
 
 #  Korean Text: '전력 5000 이상 사용'
@@ -2579,7 +2579,7 @@ msgstr "Use over 5000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv3_전력 소모'
 #: Quest[Research_Fac_Quest_010].QuestTitle
-msgid "（研究）資源リサイクルＬＶ３＿電力消費"
+msgid "(研究)資源リサイクルLv.3_電力消費"
 msgstr "(Research) Resource Recycling Lv3_Power Usage"
 
 #  Korean Text: '부품 10000 이상 사용'
@@ -2589,7 +2589,7 @@ msgstr "Use over 10000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv4_부품 소모'
 #: Quest[Research_Fac_Quest_011].QuestTitle
-msgid "（研究）資源リサイクルＬＶ４＿部品消費"
+msgid "(研究)資源リサイクルLv.4_部品消費"
 msgstr "(Research) Resource Recycling Lv4_Parts Usage"
 
 #  Korean Text: '영양 10000 이상 사용'
@@ -2599,7 +2599,7 @@ msgstr "Use over 10000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv4_영양 소모'
 #: Quest[Research_Fac_Quest_012].QuestTitle
-msgid "（研究）資源リサイクルＬＶ４＿栄養消費"
+msgid "(研究)資源リサイクルLv.4_栄養消費"
 msgstr "(Research) Resource Recycling Lv4_Nutrients Usage"
 
 #  Korean Text: '전력 10000 이상 사용'
@@ -2609,7 +2609,7 @@ msgstr "Use over 10000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv4_전력 소모'
 #: Quest[Research_Fac_Quest_013].QuestTitle
-msgid "（研究）資源リサイクルＬＶ４＿電力消費"
+msgid "(研究)資源リサイクルLv.4_電力消費"
 msgstr "(Research) Resource Recycling Lv4_Power Usage"
 
 #  Korean Text: '부품 15000 이상 사용'
@@ -2619,7 +2619,7 @@ msgstr "Use over 15000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv5_부품 소모'
 #: Quest[Research_Fac_Quest_014].QuestTitle
-msgid "（研究）資源リサイクルＬＶ５＿部品消費"
+msgid "(研究)資源リサイクルLv.5_部品消費"
 msgstr "(Research) Resource Recycling Lv5_Parts Usage"
 
 #  Korean Text: '영양 15000 이상 사용'
@@ -2629,7 +2629,7 @@ msgstr "Use over 15000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv5_영양 소모'
 #: Quest[Research_Fac_Quest_015].QuestTitle
-msgid "（研究）資源リサイクルＬＶ５＿栄養消費"
+msgid "(研究)資源リサイクルLv.5_栄養消費"
 msgstr "(Research) Resource Recycling Lv5_Nutrients Usage"
 
 #  Korean Text: '전력 15000 이상 사용'
@@ -2639,7 +2639,7 @@ msgstr "Use over 15000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv5_전력 소모'
 #: Quest[Research_Fac_Quest_016].QuestTitle
-msgid "（研究）資源リサイクルＬＶ５＿電力消費"
+msgid "(研究)資源リサイクルLv.5_電力消費"
 msgstr "(Research) Resource Recycling Lv5_Power Usage"
 
 #  Korean Text: '부품 25000 이상 사용'
@@ -2649,7 +2649,7 @@ msgstr "Use over 25000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv6_부품 소모'
 #: Quest[Research_Fac_Quest_017].QuestTitle
-msgid "（研究）資源リサイクルＬＶ６＿部品消費"
+msgid "(研究)資源リサイクルLv.6_部品消費"
 msgstr "(Research) Resource Recycling Lv6_Parts Usage"
 
 #  Korean Text: '영양 25000 이상 사용'
@@ -2659,7 +2659,7 @@ msgstr "Use over 25000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv6_영양 소모'
 #: Quest[Research_Fac_Quest_018].QuestTitle
-msgid "（研究）資源リサイクルＬＶ６＿栄養消費"
+msgid "(研究)資源リサイクルLv.6_栄養消費"
 msgstr "(Research) Resource Recycling Lv6_Nutrients Usage"
 
 #  Korean Text: '전력 25000 이상 사용'
@@ -2669,7 +2669,7 @@ msgstr "Use over 25000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv6_전력 소모'
 #: Quest[Research_Fac_Quest_019].QuestTitle
-msgid "（研究）資源リサイクルＬＶ６＿電力消費"
+msgid "(研究)資源リサイクルLv.6_電力消費"
 msgstr "(Research) Resource Recycling Lv6_Power Usage"
 
 #  Korean Text: '부품 50000 이상 사용'
@@ -2679,7 +2679,7 @@ msgstr "Use over 50000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv7_부품 소모'
 #: Quest[Research_Fac_Quest_020].QuestTitle
-msgid "（研究）資源リサイクルＬＶ７＿部品消費"
+msgid "(研究)資源リサイクルLv.7_部品消費"
 msgstr "(Research) Resource Recycling Lv7_Parts Usage"
 
 #  Korean Text: '영양 50000 이상 사용'
@@ -2689,7 +2689,7 @@ msgstr "Use over 50000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv7_영양 소모'
 #: Quest[Research_Fac_Quest_021].QuestTitle
-msgid "（研究）資源リサイクルＬＶ７＿栄養消費"
+msgid "(研究)資源リサイクルLv.7_栄養消費"
 msgstr "(Research) Resource Recycling Lv7_Nutrients Usage"
 
 #  Korean Text: '전력 50000 이상 사용'
@@ -2699,7 +2699,7 @@ msgstr "Use over 50000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv7_전력 소모'
 #: Quest[Research_Fac_Quest_022].QuestTitle
-msgid "（研究）資源リサイクルＬＶ７＿電力消費"
+msgid "(研究)資源リサイクルLv.7_電力消費"
 msgstr "(Research) Resource Recycling Lv7_Power Usage"
 
 #  Korean Text: '부품 100000 이상 사용'
@@ -2709,7 +2709,7 @@ msgstr "Use over 100000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv8_부품 소모'
 #: Quest[Research_Fac_Quest_023].QuestTitle
-msgid "（研究）資源リサイクルＬＶ８＿部品消費"
+msgid "(研究)資源リサイクルLv.8_部品消費"
 msgstr "(Research) Resource Recycling Lv8_Parts Usage"
 
 #  Korean Text: '영양 100000 이상 사용'
@@ -2719,7 +2719,7 @@ msgstr "Use over 100000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv8_영양 소모'
 #: Quest[Research_Fac_Quest_024].QuestTitle
-msgid "（研究）資源リサイクルＬＶ８＿栄養消費"
+msgid "(研究)資源リサイクルLv.8_栄養消費"
 msgstr "(Research) Resource Recycling Lv8_Nutrients Usage"
 
 #  Korean Text: '전력 100000 이상 사용'
@@ -2729,7 +2729,7 @@ msgstr "Use over 100000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv8_전력 소모'
 #: Quest[Research_Fac_Quest_025].QuestTitle
-msgid "（研究）資源リサイクルＬＶ８＿電力消費"
+msgid "(研究)資源リサイクルLv.8_電力消費"
 msgstr "(Research) Resource Recycling Lv8_Power Usage"
 
 #  Korean Text: '부품 200000 이상 사용'
@@ -2739,7 +2739,7 @@ msgstr "Use over 200000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv9_부품 소모'
 #: Quest[Research_Fac_Quest_026].QuestTitle
-msgid "（研究）資源リサイクルＬＶ９＿部品消費"
+msgid "(研究)資源リサイクルLv.9_部品消費"
 msgstr "(Research) Resource Recycling Lv9_Parts Usage"
 
 #  Korean Text: '영양 200000 이상 사용'
@@ -2749,7 +2749,7 @@ msgstr "Use over 200000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv9_영양 소모'
 #: Quest[Research_Fac_Quest_027].QuestTitle
-msgid "（研究）資源リサイクルＬＶ９＿栄養消費"
+msgid "(研究)資源リサイクルLv.9_栄養消費"
 msgstr "(Research) Resource Recycling Lv9_Nutrients Usage"
 
 #  Korean Text: '전력 200000 이상 사용'
@@ -2759,7 +2759,7 @@ msgstr "Use over 200000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv9_전력 소모'
 #: Quest[Research_Fac_Quest_028].QuestTitle
-msgid "（研究）資源リサイクルＬＶ９＿電力消費"
+msgid "(研究)資源リサイクルLv.9_電力消費"
 msgstr "(Research) Resource Recycling Lv9_Power Usage"
 
 #  Korean Text: '부품 300000 이상 사용'
@@ -2769,7 +2769,7 @@ msgstr "Use over 300000 Parts"
 
 #  Korean Text: '(연구) 자원 재활용 Lv10_부품 소모'
 #: Quest[Research_Fac_Quest_029].QuestTitle
-msgid "（研究）資源リサイクルＬＶ１０＿部品消費"
+msgid "(研究)資源リサイクルLv.10_部品消費"
 msgstr "(Research) Resource Recycling Lv10_Parts Usage"
 
 #  Korean Text: '영양 300000 이상 사용'
@@ -2779,7 +2779,7 @@ msgstr "Use over 300000 Nutrients"
 
 #  Korean Text: '(연구) 자원 재활용 Lv10_영양 소모'
 #: Quest[Research_Fac_Quest_030].QuestTitle
-msgid "（研究）資源リサイクルＬＶ１０＿栄養消費"
+msgid "(研究)資源リサイクルLv.10_栄養消費"
 msgstr "(Research) Resource Recycling Lv10_Nutrients Usage"
 
 #  Korean Text: '전력 300000 이상 사용'
@@ -2789,7 +2789,7 @@ msgstr "Use over 300000 Power"
 
 #  Korean Text: '(연구) 자원 재활용 Lv10_전력 소모'
 #: Quest[Research_Fac_Quest_031].QuestTitle
-msgid "（研究）資源リサイクルＬＶ１０＿電力消費"
+msgid "(研究)資源リサイクルLv.10_電力消費"
 msgstr "(Research) Resource Recycling Lv10_Power Usage"
 
 #  Korean Text: '로봇을 2기 이상 획득'
@@ -2799,7 +2799,7 @@ msgstr "Obtain 2 Robots or more"
 
 #  Korean Text: '(연구) AGS 제작 설비_로봇 획득'
 #: Quest[Research_Fac_Quest_032].QuestTitle
-msgid "（研究）ＡＧＳ製作設備＿ロボット獲得"
+msgid "(研究)AGS製作設備_ロボット獲得"
 msgstr "(Research) AGS Production Facility_Obtain Robots"
 
 #  Korean Text: '자원 탐색 5회 완료'
@@ -2809,7 +2809,7 @@ msgstr "Complete 5 explorations"
 
 #  Korean Text: '(연구) 정밀 레이더_파견 5회 완료'
 #: Quest[Research_Fac_Quest_033].QuestTitle
-msgid "（研究）精密レーダー＿派遣５回完了"
+msgid "(研究)精密レーダー_派遣5回完了"
 msgstr "(Research) Precision Radar_5 Explorations Completed"
 
 #  Korean Text: '바이오로이드 20기 제작'
@@ -2819,17 +2819,17 @@ msgstr "Build 20 Bioroids"
 
 #  Korean Text: '(연구) 특수 제작_바이오로이드 제작'
 #: Quest[Research_Fac_Quest_034].QuestTitle
-msgid "（研究）特殊製作＿バイオロイド製作"
+msgid "(研究)特殊製作_バイオロイド製作"
 msgstr "(Research) Special Production_Bioroid Production"
 
 #  Korean Text: 'S등급 바이오로이드 3기 제작'
 #: Quest[Research_Fac_Quest_035].QuestDesc
-msgid "S級バイオロイド3機製造"
+msgid "Sランクバイオロイド3機製造"
 msgstr "Build 3 S-Class Bioroids"
 
 #  Korean Text: '(연구) 특수 제작_S등급바이오로이드 제작'
 #: Quest[Research_Fac_Quest_035].QuestTitle
-msgid "（研究）特殊製作＿Ｓ等級バイオロイド製作"
+msgid "(研究)特殊製作_Ｓ等級バイオロイド製作"
 msgstr "(Research) Special Production_S-Class Bioroid Production"
 
 #  Korean Text: '중장형 전투원을 2 종류 이상 보유'
@@ -2839,7 +2839,7 @@ msgstr "Own at least 2 types of heavy units"
 
 #  Korean Text: '(연구) 특수 제작_중장형 획득'
 #: Quest[Research_Fac_Quest_036].QuestTitle
-msgid "（研究）特殊製作＿重装型獲得"
+msgid "(研究)特殊製作_重装型獲得"
 msgstr "(Research) Special Production_Heavy-type"
 
 #  Korean Text: '전투원을 25회 이상 수복'
@@ -2849,7 +2849,7 @@ msgstr "Recover units 25 times or more"
 
 #  Korean Text: '(연구) 수복실 개량 Lv1_전투원 수복'
 #: Quest[Research_Fac_Quest_037].QuestTitle
-msgid "（研究）修復室改良ＬＶ１＿戦闘員修復"
+msgid "(研究)修復室改良Lv.1_戦闘員修復"
 msgstr "(Research) Recovery Room Upgrade Lv1_Unit Recovery"
 
 #  Korean Text: '전투원을 50회 이상 수복'
@@ -2859,7 +2859,7 @@ msgstr "Recover units 50 times or more"
 
 #  Korean Text: '(연구) 수복실 개량 Lv2_전투원 수복'
 #: Quest[Research_Fac_Quest_038].QuestTitle
-msgid "（研究）修復室改良ＬＶ２＿戦闘員修復"
+msgid "(研究)修復室改良Lv.2_戦闘員修復"
 msgstr "(Research) Recovery Room Upgrade Lv2_Unit Recovery"
 
 #  Korean Text: '전투원을 100회 이상 수복'
@@ -2869,7 +2869,7 @@ msgstr "Recover units 100 times or more"
 
 #  Korean Text: '(연구) 수복실 개량 Lv3_전투원 수복'
 #: Quest[Research_Fac_Quest_039].QuestTitle
-msgid "（研究）修復室改良ＬＶ３＿戦闘員修復"
+msgid "(研究)修復室改良Lv.3_戦闘員修復"
 msgstr "(Research) Recovery Room Upgrade Lv3_Unit Recovery"
 
 #  Korean Text: '전투원을 150회 이상 수복'
@@ -2879,7 +2879,7 @@ msgstr "Recover units 150 times or more"
 
 #  Korean Text: '(연구) 수복실 개량 Lv4_전투원 수복'
 #: Quest[Research_Fac_Quest_040].QuestTitle
-msgid "（研究）修復室改良ＬＶ４＿戦闘員修復"
+msgid "(研究)修復室改良Lv.4_戦闘員修復"
 msgstr "(Research) Recovery Room Upgrade Lv4_Unit Recovery"
 
 #  Korean Text: '전투원을 250회 이상 수복'
@@ -2889,7 +2889,7 @@ msgstr "Recover units 250 times or more"
 
 #  Korean Text: '(연구) 수복실 개량 Lv5_전투원 수복'
 #: Quest[Research_Fac_Quest_041].QuestTitle
-msgid "（研究）修復室改良ＬＶ５＿戦闘員修復"
+msgid "(研究)修復室改良Lv.5_戦闘員修復"
 msgstr "(Research) Recovery Room Upgrade Lv5_Unit Recovery"
 
 #  Korean Text: '전투원 모듈을 50회 이상 분해'
@@ -2899,7 +2899,7 @@ msgstr "Disassemble units 50 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv1_전투원 분해'
 #: Quest[Research_Fac_Quest_042].QuestTitle
-msgid "（研究）精密分解ＬＶ１＿戦闘員分解"
+msgid "(研究)精密分解Lv.1_戦闘員分解"
 msgstr "(Research) Precision Disassembly Lv1_Unit Disassembly"
 
 #  Korean Text: '장비 모듈을 50회 이상 분해'
@@ -2909,7 +2909,7 @@ msgstr "Disassemble equipment 50 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv1_장비 분해'
 #: Quest[Research_Fac_Quest_043].QuestTitle
-msgid "（研究）精密分解ＬＶ１＿装備分解"
+msgid "(研究)精密分解Lv.1_装備分解"
 msgstr "(Research) Precision Disassembly Lv1_Equipment Disassembly"
 
 #  Korean Text: '전투원 모듈을 100회 이상 분해'
@@ -2919,7 +2919,7 @@ msgstr "Disassemble units 100 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv2_전투원 분해'
 #: Quest[Research_Fac_Quest_044].QuestTitle
-msgid "（研究）精密分解ＬＶ２＿戦闘員分解"
+msgid "(研究)精密分解Lv.2_戦闘員分解"
 msgstr "(Research) Precision Disassembly Lv2_Unit Disassembly"
 
 #  Korean Text: '장비 모듈을 100회 이상 분해'
@@ -2929,7 +2929,7 @@ msgstr "Disassemble equipment 100 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv2_장비 분해'
 #: Quest[Research_Fac_Quest_045].QuestTitle
-msgid "（研究）精密分解ＬＶ２＿装備分解"
+msgid "(研究)精密分解Lv.2_装備分解"
 msgstr "(Research) Precision Disassembly Lv2_Equipment Disassembly"
 
 #  Korean Text: '전투원 모듈을 200회 이상 분해'
@@ -2939,7 +2939,7 @@ msgstr "Disassemble units 200 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv3_전투원 분해'
 #: Quest[Research_Fac_Quest_046].QuestTitle
-msgid "（研究）精密分解ＬＶ３＿戦闘員分解"
+msgid "(研究)精密分解Lv.3_戦闘員分解"
 msgstr "(Research) Precision Disassembly Lv3_Unit Disassembly"
 
 #  Korean Text: '장비 모듈을 200회 이상 분해'
@@ -2949,7 +2949,7 @@ msgstr "Disassemble equipment 200 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv3_장비 분해'
 #: Quest[Research_Fac_Quest_047].QuestTitle
-msgid "（研究）精密分解ＬＶ３＿装備分解"
+msgid "(研究)精密分解Lv.3_装備分解"
 msgstr "(Research) Precision Disassembly Lv3_Equipment Disassembly"
 
 #  Korean Text: '전투원 모듈을 350회 이상 분해'
@@ -2959,7 +2959,7 @@ msgstr "Disassemble units 350 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv4_전투원 분해'
 #: Quest[Research_Fac_Quest_048].QuestTitle
-msgid "（研究）精密分解ＬＶ４＿戦闘員分解"
+msgid "(研究)精密分解Lv.4_戦闘員分解"
 msgstr "(Research) Precision Disassembly Lv4_Unit Disassembly"
 
 #  Korean Text: '장비 모듈을 350회 이상 분해'
@@ -2969,7 +2969,7 @@ msgstr "Disassemble equipment 350 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv4_장비 분해'
 #: Quest[Research_Fac_Quest_049].QuestTitle
-msgid "（研究）精密分解ＬＶ４＿装備分解"
+msgid "(研究)精密分解Lv.4_装備分解"
 msgstr "(Research) Precision Disassembly Lv4_Equipment Disassembly"
 
 #  Korean Text: '전투원 모듈을 500회 이상 분해'
@@ -2979,7 +2979,7 @@ msgstr "Disassemble units 500 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv5_전투원 분해'
 #: Quest[Research_Fac_Quest_050].QuestTitle
-msgid "（研究）精密分解ＬＶ５＿戦闘員分解"
+msgid "(研究)精密分解Lv.5_戦闘員分解"
 msgstr "(Research) Precision Disassembly Lv5_Unit Disassembly"
 
 #  Korean Text: '장비 모듈을 500회 이상 분해'
@@ -2989,7 +2989,7 @@ msgstr "Disassemble equipment 500 times or more"
 
 #  Korean Text: '(연구) 정밀 분해 Lv5_장비 분해'
 #: Quest[Research_Fac_Quest_051].QuestTitle
-msgid "（研究）精密分解ＬＶ５＿装備分解"
+msgid "(研究)精密分解Lv.5_装備分解"
 msgstr "(Research) Precision Disassembly Lv5_Equipment Disassembly"
 
 #  Korean Text: '적 50기 이상 처치'
@@ -2999,7 +2999,7 @@ msgstr "Eliminate 50 or more enemies"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv1_적 처치'
 #: Quest[Research_Fac_Quest_052].QuestTitle
-msgid "（研究）シミュレーティングＬＶ１＿敵殲滅"
+msgid "(研究)シミュレーティングLv.1_敵殲滅"
 msgstr "(Research) Simulation Lv1 Enemy Elimination"
 
 #  Korean Text: '일반 스테이지 10회 클리어'
@@ -3009,7 +3009,7 @@ msgstr "Clear 10 normal stages"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv1_스테이지 클리어'
 #: Quest[Research_Fac_Quest_053].QuestTitle
-msgid "（研究）シミュレーティングＬＶ１＿ステージクリア"
+msgid "(研究)シミュレーティングLv.1_ステージクリア"
 msgstr "(Research) Simulation Lv1_Stage Clear"
 
 #  Korean Text: '적 150기 이상 처치'
@@ -3019,12 +3019,12 @@ msgstr "Eliminate 150 or more enemies"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv2_적 처치'
 #: Quest[Research_Fac_Quest_054].QuestTitle
-msgid "（研究）シミュレーティングＬＶ２＿敵殲滅"
+msgid "(研究)シミュレーティングLv.2_敵殲滅"
 msgstr "(Research) Simulation Lv2 Enemy Elimination"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv2_스테이지 클리어'
 #: Quest[Research_Fac_Quest_055].QuestTitle
-msgid "（研究）シミュレーティングＬＶ２＿ステージクリア"
+msgid "(研究)シミュレーティングLv.2_ステージクリア"
 msgstr "(Research) Simulation Lv2_Stage Clear"
 
 #  Korean Text: '보스 타입 적 10기 이상 처치'
@@ -3034,7 +3034,7 @@ msgstr "Eliminate 10 or more Boss enemies"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv2_보스 처치'
 #: Quest[Research_Fac_Quest_056].QuestTitle
-msgid "（研究）シミュレーティングＬＶ２＿ボス殲滅"
+msgid "(研究)シミュレーティングLv.2_ボス殲滅"
 msgstr "(Research) Simulation Lv2_Boss Elimination"
 
 #  Korean Text: '보스 타입 적 30기 이상 처치'
@@ -3044,7 +3044,7 @@ msgstr "Eliminate 30 or more Boss enemies"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv3_보스 처치'
 #: Quest[Research_Fac_Quest_057].QuestTitle
-msgid "（研究）シミュレーティングＬＶ３＿ボス殲滅"
+msgid "(研究)シミュレーティングLv.3_ボス殲滅"
 msgstr "(Research) Simulation Lv3_Boss Elimination"
 
 #  Korean Text: '일반 스테이지 200회 클리어'
@@ -3054,7 +3054,7 @@ msgstr "Clear 200 normal stages"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv3_스테이지 클리어'
 #: Quest[Research_Fac_Quest_058].QuestTitle
-msgid "（研究）シミュレーティングＬＶ３＿ステージクリア"
+msgid "(研究)シミュレーティングLv.3_ステージクリア"
 msgstr "(Research) Simulation Lv3_Stage Clear"
 
 #  Korean Text: '보스 타입 적 100기 이상 처치'
@@ -3064,7 +3064,7 @@ msgstr "Eliminate 100 or more Boss enemies"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv4_보스 처치'
 #: Quest[Research_Fac_Quest_059].QuestTitle
-msgid "（研究）シミュレーティングＬＶ４＿ボス殲滅"
+msgid "(研究)シミュレーティングLv.4_ボス殲滅"
 msgstr "(Research) Simulation Lv4_Boss Elimination"
 
 #  Korean Text: '일반 스테이지 300회 클리어'
@@ -3074,7 +3074,7 @@ msgstr "Clear 300 normal stages"
 
 #  Korean Text: '(연구) 시뮬레이팅 Lv4_스테이지 클리어'
 #: Quest[Research_Fac_Quest_060].QuestTitle
-msgid "（研究）シミュレーティングＬＶ４＿ステージクリア"
+msgid "(研究)シミュレーティングLv.4_ステージクリア"
 msgstr "(Research) Simulation Lv4_Stage Clear"
 
 #  Korean Text: '일반 스테이지 3회 클리어'
@@ -3084,7 +3084,7 @@ msgstr "Clear 3 normal stages"
 
 #  Korean Text: '(연구) 현장 지휘 모듈_스테이지 클리어'
 #: Quest[Research_Fac_Quest_061].QuestTitle
-msgid "（研究）現場指揮モジュール＿ステージクリア"
+msgid "(研究)現場指揮モジュール_ステージクリア"
 msgstr "(Research) Field Command System_Stage Clear"
 
 #  Korean Text: '지휘 숙련도 Lv.3 이상 달성'
@@ -3094,12 +3094,12 @@ msgstr "Attain Commander Lv.3 or higher"
 
 #  Korean Text: '(연구) 현장 지휘 모듈_지휘 숙련도 달성'
 #: Quest[Research_Fac_Quest_062].QuestTitle
-msgid "（研究）現場指揮モジュール＿指揮熟練度達成"
+msgid "(研究)現場指揮モジュール_指揮熟練度達成"
 msgstr "(Research) Field Command System_Attain Commander Level"
 
 #  Korean Text: '(연구) 운송 드론 Lv1_탐사 완료'
 #: Quest[Research_Fac_Quest_063].QuestTitle
-msgid "(研究)運送ドローンLV1_探索完了"
+msgid "(研究)運送ドローンLv.1_探索完了"
 msgstr "(Research) Transport Drone Lv1_Exploration Completed"
 
 #  Korean Text: '지휘 숙련도 Lv.15 이상 달성'
@@ -3109,7 +3109,7 @@ msgstr "Attain Commander Lv.15 or higher"
 
 #  Korean Text: '(연구) 탐사 구역 Lv1_지휘 숙련도 달성'
 #: Quest[Research_Fac_Quest_064].QuestTitle
-msgid "(研究)探索区域LV1_指揮熟練度達成"
+msgid "(研究)探索区域Lv.1_指揮熟練度達成"
 msgstr "(Research) Area Exploration Lv1_Attain Commander Level"
 
 #  Korean Text: '자원 탐색 30회 완료'
@@ -3119,7 +3119,7 @@ msgstr "Complete 30 explorations"
 
 #  Korean Text: '(연구) 운송 드론 Lv2_탐사 완료'
 #: Quest[Research_Fac_Quest_065].QuestTitle
-msgid "(研究)運送ドローンLV2_探索完了"
+msgid "(研究)運送ドローンLv.2_探索完了"
 msgstr "(Research) Transport Drone Lv2_Exploration Completed"
 
 #  Korean Text: '지휘 숙련도 Lv.20 이상 달성'
@@ -3129,12 +3129,12 @@ msgstr "Attain Commander Lv.20 or higher"
 
 #  Korean Text: '(연구) 탐사 구역 Lv2_지휘 숙련도 달성'
 #: Quest[Research_Fac_Quest_066].QuestTitle
-msgid "(研究)探索区域LV2_指揮熟練度達成"
+msgid "(研究)探索区域Lv.2_指揮熟練度達成"
 msgstr "(Research) Area Exploration Lv2_Attain Commander Level"
 
 #  Korean Text: '(연구) 운송 드론 Lv3_탐사 완료'
 #: Quest[Research_Fac_Quest_067].QuestTitle
-msgid "(研究)運送ドローンLV3_探索完了"
+msgid "(研究)運送ドローンLv.3_探索完了"
 msgstr "(Research) Transport Drone Lv3_Exploration Completed"
 
 #  Korean Text: '지휘 숙련도 Lv.25 이상 달성'
@@ -3144,12 +3144,12 @@ msgstr "Attain Commander Lv.25 or higher"
 
 #  Korean Text: '(연구) 탐사 구역 Lv3_지휘 숙련도 달성'
 #: Quest[Research_Fac_Quest_068].QuestTitle
-msgid "(研究)探索区域LV3_指揮熟練度達成"
+msgid "(研究)探索区域Lv.3_指揮熟練度達成"
 msgstr "(Research) Area Exploration Lv3_Attain Commander Level"
 
 #  Korean Text: '(연구) 운송 드론 Lv4_탐사 완료'
 #: Quest[Research_Fac_Quest_069].QuestTitle
-msgid "(研究)運送ドローンLV4_探索完了"
+msgid "(研究)運送ドローンLv.4_探索完了"
 msgstr "(Research) Transport Drone Lv4_Exploration Completed"
 
 #  Korean Text: '지휘 숙련도 Lv.30 이상 달성'
@@ -3159,7 +3159,7 @@ msgstr "Attain Commander Lv.30 or higher"
 
 #  Korean Text: '(연구) 탐사 구역 Lv4_지휘 숙련도 달성'
 #: Quest[Research_Fac_Quest_070].QuestTitle
-msgid "(研究)探索区域LV4_指揮熟練度達成"
+msgid "(研究)探索区域Lv.4_指揮熟練度達成"
 msgstr "(Research) Area Exploration Lv4_Attain Commander Level"
 
 #  Korean Text: '자원 탐색 200회 완료'
@@ -3169,7 +3169,7 @@ msgstr "Complete 200 explorations"
 
 #  Korean Text: '(연구) 운송 드론 Lv5_탐사 완료'
 #: Quest[Research_Fac_Quest_071].QuestTitle
-msgid "(研究)運送ドローンLV5_探索完了"
+msgid "(研究)運送ドローンLv.5_探索完了"
 msgstr "(Research) Transport Drone Lv5_Exploration Completed"
 
 #  Korean Text: '지휘 숙련도 Lv.40 이상 달성'
@@ -3179,7 +3179,7 @@ msgstr "Attain Commander Lv.40 or higher"
 
 #  Korean Text: '(연구) 탐사 구역 Lv5_지휘 숙련도 달성'
 #: Quest[Research_Fac_Quest_072].QuestTitle
-msgid "(研究)探索区域LV5_指揮熟練度達成"
+msgid "(研究)探索区域Lv.5_指揮熟練度達成"
 msgstr "(Research) Area Exploration Lv5_Attain Commander Level"
 
 #  Korean Text: '메인 스테이지 50회 클리어'

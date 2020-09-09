@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1111,7 +1111,7 @@ msgid ""
 msgstr ""
 
 #: DialogScript[DG_Ch01Stage03_2_31].SelectionIndex[1]
-msgid "（エレベーターで下がっていく。）"
+msgid "(エレベーターで下がっていく。)"
 msgstr ""
 
 #  Korean Text: '과연… 진조의 향기가 느껴지는군. 평범한 자라면 느끼지 못했으리니…&n하지만, 2억년을 살아온 프린세스인 나로써는…'
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #  Korean Text: '크흠... 크흠... 크윽! 이런 불찰이라니...&n원숭이도 나무에 떨어지는 건가?'
 #: DialogScript[DG_Ch01Stage03e_1_1].Script
-msgid "ふぅむ…（チラッ）はぁ…。（チラッ？）&n余もこんなミスをするとはなぁ…（チラチラ）&n猿も木から落ちるとはまさにこういう事か？"
+msgid "ふぅむ…(チラッ)はぁ…。(チラッ？)&n余もこんなミスをするとはなぁ…(チラチラ)&n猿も木から落ちるとはまさにこういう事か？"
 msgstr ""
 
 #  Korean Text: '잠깐, 나의 권속이여. 왜 아무런 말을 하지 않는 건가?&n진조가 이리 고민을 하는데?'
@@ -3752,7 +3752,7 @@ msgstr ""
 
 #  Korean Text: '주인님, 작전 종료를 보고합니다.&n21스쿼드 콘스탄챠 및 3명은 귀환을 요청드려요.'
 #: DialogScript[DG_Ch01Stage12_2_9].Script
-msgid "ご主人様、作戦終了をご報告いたします。&n21分隊コンスタンツァ及び３名は帰還を要請します。"
+msgid "ご主人様、作戦終了をご報告いたします。&n21分隊コンスタンツァ及び3名は帰還を要請します。"
 msgstr ""
 
 #  Korean Text: '몇시간 후의 함교'
@@ -3835,7 +3835,7 @@ msgstr ""
 
 #  Korean Text: '현재 지정된 위치에 AGS 거점이 존재하며 &n2일 전까지 다수의 구조 및 인도 요청이 감지되었음.'
 #: DialogScript[DG_Ch01Stage13_1_2].Script
-msgid "現在、指定位置にAGS拠点が存在。&n２日前まで多数の救助及び引き渡し要請が感知。"
+msgid "現在、指定位置にAGS拠点が存在。&n2日前まで多数の救助及び引き渡し要請が感知。"
 msgstr ""
 
 #  Korean Text: '지금 가리킨 곳은… 섬인데?&n어떻게 섬에 철충들이 들어간 거죠? 철충들은 바다를 무서워 할 텐데...'
@@ -10462,7 +10462,7 @@ msgid "そうよ。2体しかいないって言ってたじゃない？"
 msgstr ""
 
 #: DialogScript[DG_Ch03Stage08_2_15].SelectionIndex[1]
-msgid "その２体がここに居たんだ。"
+msgid "その2体がここに居たんだ。"
 msgstr ""
 
 #  Korean Text: '말도 안돼. 설마…&n그리폰, 에이다에게 빨리 연락을 해 봐!'
@@ -13735,7 +13735,7 @@ msgstr ""
 
 #  Korean Text: '- 우리 앞에 두 가지의 길이 있다. &n그냥 드론을 무시하고 지금이라도 트릭스터를 추적하는 것.'
 #: DialogScript[DG_Ch04Stage03_2_15].Script
-msgid "- 俺たちの前には２つの選択肢がある。&n一つはドローンを無視し、今からでもトリックスターを追跡を再開する。"
+msgid "- 俺たちの前には2つの選択肢がある。&n一つはドローンを無視し、今からでもトリックスターを追跡を再開する。"
 msgstr ""
 
 #  Korean Text: '- 부대를 빼고 패스파인더 드론을 구해서 안전하게 트릭스터를 찾는 방법.'
@@ -16708,7 +16708,7 @@ msgstr ""
 
 #  Korean Text: '그럴 리가... 그녀는 분명히 아미나 존스 박사를 따라갔을 텐데...'
 #: DialogScript[DG_Ch05Stage04e_1_12].Script
-msgid "そんなはずが…&n彼女はアミーナジョーンズ博士について行ったはずだが…"
+msgid "そんなはずが…&n彼女はアミーナ・ジョーンズ博士について行ったはずだが…"
 msgstr ""
 
 #  Korean Text: '일단, 그 위치가 11번 방이라고 했지?&n거긴 어디지?'
@@ -18780,7 +18780,7 @@ msgid "私もグリフォンを信じているわ。オルカの空をよろし�
 msgstr ""
 
 #: DialogScript[DG_Ch06Stage01e_2_18].SelectionIndex[1]
-msgid "これからも宜しく頼むな。"
+msgid "よろしく頼む。"
 msgstr ""
 
 #  Korean Text: '... 죽겠어... 정말...'
@@ -19472,7 +19472,7 @@ msgstr ""
 
 #  Korean Text: '응. 말해봐.'
 #: DialogScript[DG_Ch06Stage02b_1_8].Script
-msgid "なぁに？いいわよ。話して？"
+msgid "なに？いいよ、話して。"
 msgstr ""
 
 #  Korean Text: '어째서 사령관님께는 따로 알리지 않으시는 거죠?'

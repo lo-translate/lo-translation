@@ -7,10 +7,35 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '첫 구매 시, 자원 1500과 유전자 씨앗 5개 지급'
+#: EventDesc[Open_BuyEvent01].Event_Desc
+msgid "初購入時、資源1500と遺伝子の種5個を支給"
+msgstr ""
+
+#  Korean Text: '첫 구매 이벤트'
+#: EventDesc[Open_BuyEvent01].Event_Title
+msgid "初購買イベント"
+msgstr ""
+
+#  Korean Text: '이것은 테스트 입니다.'
+#: EventDesc[Open_BuyEvent02].Event_Desc
+msgid "これはテストです。"
+msgstr ""
+
+#  Korean Text: '테스트 이벤트2'
+#: EventDesc[Open_BuyEvent02].Event_Title
+msgid "テストイベント2"
+msgstr ""
+
+#  Korean Text: '소완으로 인해 혼란에 빠진 오르카 안에선 무슨 일이?'
+#: EventDesc[Open_Event01].Event_Desc
+msgid "ソワンによって混乱に陥ったオルカ内ではいったい何が起きているのか！"
+msgstr ""
 
 #  Korean Text: '지고의 저녁 식사'
 #: EventDesc[Open_Event01].Event_Title
@@ -29,7 +54,42 @@ msgstr ""
 "Legacy of\n"
 "  Rioboros"
 
+#  Korean Text: '마법 소녀들과 함께 뽀끄루 대마왕을 물리쳐주세요!'
+#: EventDesc[Open_Event03].Event_Desc
+msgid "魔法少女たちと手を取りポックル大魔王を倒しましょう！"
+msgstr ""
+
 #  Korean Text: '만월의 야상곡'
 #: EventDesc[Open_Event03].Event_Title
 msgid "満月の夜想曲"
 msgstr "Full Moon Nocturne"
+
+#  Korean Text: '지난 할로윈에 도대체 무슨 일이 있었던걸까?'
+#: EventDesc[Open_Event04].Event_Desc
+msgid "ハロウィンで何があったんだろうか。"
+msgstr ""
+
+#  Korean Text: '할로윈 파크 패닉!'
+#: EventDesc[Open_Event04].Event_Title
+msgid "ハロウィンパークパニック！"
+msgstr ""
+
+#  Korean Text: '오후 6~7시 사이에 접속할 경우, 수복 나노머신 3개를 제공합니다.'
+#: EventDesc[Open_Event05].Event_Desc
+msgid "午後6～7時にログインした場合、修復ナノマシン3個をご提供いたします。"
+msgstr ""
+
+#  Korean Text: '저녁 접속 이벤트'
+#: EventDesc[Open_Event05].Event_Title
+msgid "午後ログインイベント"
+msgstr ""
+
+#  Korean Text: '오후 10~11시 사이에 접속할 경우, 자원 패키지 300을 제공합니다.'
+#: EventDesc[Open_Event06].Event_Desc
+msgid "午後10～11時にログインした場合、資源パック300をご提供いたします。"
+msgstr ""
+
+#  Korean Text: '밤 접속 이벤트'
+#: EventDesc[Open_Event06].Event_Title
+msgid "夜間接続イベント"
+msgstr ""

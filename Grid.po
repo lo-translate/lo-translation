@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -20,6 +20,11 @@ msgstr ""
 #  Korean Text: '교차중폭발'
 #: Grid[Grid_50e50e100e50e50].GridName
 msgid "クロス中爆発"
+msgstr ""
+
+#  Korean Text: '부채꼴중확산'
+#: Grid[Grid_50eee100e50ee].GridName
+msgid "扇形中拡散"
 msgstr ""
 
 #  Korean Text: '교차강폭발'
@@ -35,6 +40,11 @@ msgstr ""
 #  Korean Text: '지그재그일반'
 #: Grid[Grid_100e100e100eeee].GridName
 msgid "ジグザグ一般"
+msgstr ""
+
+#  Korean Text: '교차인접'
+#: Grid[Grid_100e100eee100e100].GridName
+msgid "クロス隣接"
 msgstr ""
 
 #  Korean Text: '익스실드인접'

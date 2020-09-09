@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -4251,7 +4251,7 @@ msgstr ""
 
 #  Korean Text: '[c][57e137]쾅!!!![-][/c]'
 #: DialogScript[DG_Ch01Ev2Stage08_1_47].Script
-msgid "(バーン！！！）"
+msgid "(バーン！！！)"
 msgstr ""
 
 #  Korean Text: '뭐, 뭐죠? 어째서… 저만 비키니가 아닌 거죠?'
@@ -5662,17 +5662,875 @@ msgstr ""
 msgid "モモの話"
 msgstr ""
 
+#  Korean Text: '... 그렇게 뽀끄루 마왕은 대마왕의 힘을 얻어 인간 세계에 마계를 구축했어요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_1].Script
+msgid "…そして、それによってポックル魔王は大魔王の力を手に入れ、&n人間界に魔界を築き上げました。"
+msgstr ""
+
+#  Korean Text: '다섯 명의 마법 소녀들은 끝까지 싸우겠다고 남은 백토를 빼고는 결국 달로 물러나야 했어요. &n그리고 함께 약속했죠. 웃음을 빼앗긴 어린이들을 위해서라도 꼭 지구로 돌아오겠다고.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_2].Script
+msgid ""
+"最後まで戦おうとする白兎だけが残り、&n四人の魔法少女たちは月までの撤退を余儀なくされたのです…。&nしかし、約束しました。笑顔を奪われた子供たちの為にも必"
+"ず地球に帰ってくると。"
+msgstr ""
+
+#  Korean Text: '어, 어떡해요! 그럼, 그다음은요? 그럼 안되잖아요.&n다음 편은... 어떻게...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_3].Script
+msgid "ど、どうしましょう！それで？その次は？そんなことになるなんて……！&n次回はどうなるんです？"
+msgstr ""
+
+#  Korean Text: '헤헤... 8월의 만월야는 그렇게 끝났어요.&n그다음은... 제작을 못 했어요. 그 사건이 터져 버려서...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_4].Script
+msgid "えへへ…「八月の満月夜」はそこでお終いになりました。&nその続きは…制作中止に。例の事件が起きてしまったからです。"
+msgstr ""
+
+#  Korean Text: '네?! 안돼요! 그렇게 끝나버리다니... 너무 슬프잖아요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_5].Script
+msgid "何ですって！？ ダメです！そこでお終いになるなんて…あんまりです…！"
+msgstr ""
+
+#  Korean Text: '정말 미안해요... 아쉽지만 마법 소녀 백토편 [c][ffd130]8월의 만월야[-][/c]는 여기까지에요.&n원래는 다음 명절에 속편이 나올 예정이었지만.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_6].Script
+msgid "ごめんなさい…残念ですが、&n魔法少女マジカル白兎編「八月の満月夜」はここまでなんです…。&n元々は次のシーズンが出る予定だったんですけど…"
+msgstr ""
+
+#  Korean Text: '아아... 그렇군요...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_7].Script
+msgid "あぁ…そうだったんですね…"
+msgstr ""
+
+#  Korean Text: '저, 그런데 모모 씨? 궁금한 게 있는데요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_8].Script
+msgid "あの、それでモモさん？気になることがあるんですけど"
+msgstr ""
+
+#  Korean Text: '네. 말씀하세요. 레아님. 제가 아는 거라면 뭐든지 말씀드릴게요.&n마법 소녀니까요!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_9].Script
+msgid "はい、レアさん。私に答えられるものなら何なりとどうぞ！&n魔法少女ですから！"
+msgstr ""
+
+#  Korean Text: '그럼 달 기지로 간 부분은 실제로 촬영이 됐었잖아요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_10].Script
+msgid "あの…月に帰ったシーンは、本当に月で撮影したんですよね？"
+msgstr ""
+
+#  Korean Text: '네. 그렇죠. 사실 제가 직접 한 촬영이 아니라 다른 모모 모델이 촬영하긴 했지만요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_11].Script
+msgid "はい、そうです。私じゃなくて他のモモがやったんですけどね。"
+msgstr ""
+
+#  Korean Text: '그럼 그 백토라는 마법소녀는 어떻게 다시 만난 건가요?&n백토씨에 대해서는 들은 게 없는데...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_12].Script
+msgid "じゃあ、その白兎さんという魔法少女とはどうやって再会したんですか？&n白兎さんに関しては聞いたことがありませんけど…"
+msgstr ""
+
+#  Korean Text: '아마... 살아남은 백토는 없다고 들었어요. 안타깝게도요.&n아! 사실 이후에 만들어진 백토가 있긴 했어요. 저랑 거의 비슷한 시기에 라비아타 씨가 제조한...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_13].Script
+msgid ""
+"白兎ちゃんの生き残りは一人もいなかったらしくて。とても残念です…。&nでも！実は復元された白兎ちゃんがいてですね…。&n私と同時期にラビアタさんが作ってくれ"
+"たんですけど…"
+msgstr ""
+
+#  Korean Text: '... 뭐가 잘못됐는지... 뽀끄루 대마왕을 찾겠다고 떠나 버렸지만요... 아마... &n제조 시에 마법 소녀 프로그램이 어린이 여러분들을 위한 이야기란 걸 모르는 것 같아서요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_14].Script
+msgid ""
+"…何かの間違いで、ポックル大魔王を探すと言いだして出て行ったんです。&n多分…製造時にインストールされる「魔法少女プログラム」のせいで、&n全てがお子様向け"
+"番組の設定だったことに気づけなかったんだと思います…。"
+msgstr ""
+
+#  Korean Text: '어머나 이를 어째... 그럼 백토씨는 어떻게 됐나요?&n설마... 어떡해... 잘못된 건 아니죠?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_15].Script
+msgid "そんな、なんてことなの…じゃ白兎さんはどうなりましたか…？&nまさか…いけません！酷い目に遭ってたらどうしましょう！"
+msgstr ""
+
+#  Korean Text: '글쎄요... 저희도 백토가 가는 걸 말렸지만... 백토는 강경했어요...&n저희가 뽀끄루에게 세뇌당했고... 철충도 뽀끄루의 짓이라면서...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_16].Script
+msgid ""
+"…私たちも必死に白兎ちゃんを止めましたけど、&n白兎ちゃんは…頑固でしたので…。&n私がポックルに洗脳されたとか、鉄虫もポックルの手下だとか言って…"
+msgstr ""
+
+#  Korean Text: '덴세츠의 자매들은 그런 분들도 있다고 듣긴 했지만...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_17].Script
+msgid "伝説社の姉妹の中にはそんな方もいると聞き及んではいたのですが…"
+msgstr ""
+
+#  Korean Text: '저는 뽀끄루를 쫓으려는 백토를 말리고 싶었지만, 제 혼자 힘으로는 백토를 도저히&n말릴 수 없었죠.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_18].Script
+msgid "私もポックルを追いかけようとする白兎ちゃんを止めたかったのですが、&n私一人の力ではどうしようもなくて…"
+msgstr ""
+
+#  Korean Text: '어쩌면 백토는... 도움도 받지 못한 채, 아직도 위험한 지역을 혼자서 헤매고 있을지도...&n어떻게 연락이라도 되면 좋겠는데...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_19].Script
+msgid "もしかしたら白兎ちゃんは…助けも呼べず、&nいまだに危ない場所を一人で彷徨っているかも…&n連絡手段もありませんし…"
+msgstr ""
+
+#  Korean Text: '... ... 어떡해...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_20].Script
+msgid "…そんな……どうしましょう…"
+msgstr ""
+
+#  Korean Text: '헤헤... 제가 괜히 우울한 이야기를 했네요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_21].Script
+msgid "えへへ…ごめんなさい。&n私のせいでしんみりした話になっちゃいましたね"
+msgstr ""
+
+#  Korean Text: '우음... 죄송해요 마법소녀가 이렇게 슬픈 이야기를 하면 안 되는데...&n전 꿈과 희망을 주는 게 존재 이유인데...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_22].Script
+msgid "うーん…ダメですね。&n魔法少女に悲しい話は禁物なのに…。&n夢と希望を与える存在なのに…。"
+msgstr ""
+
+#  Korean Text: '괜찮아요. 모모 씨. 바이오로이드도 충분히 슬플 수 있어요.&n슬플 때는 슬퍼해야 마음의 병이 생기지 않는 거예요. 그런데 그것보다도...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_23].Script
+msgid "いいのですよ、モモさん。バイオロイドにだって感情があります。&n悲しいときに悲しまないと心のどこかが痛んでしまいます。&nそれよりも…"
+msgstr ""
+
+#  Korean Text: '백토 씨를 찾아볼 생각은 안 한 거예요?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_24].Script
+msgid "白兎さんを探そうと考えたりはしなかったのですか？"
+msgstr ""
+
+#  Korean Text: '찾고는 싶지만... 다른 자매들에게 위험한 부탁을 하는 것 같고...&n저 혼자의 사정 때문에 뛰쳐나가서 사령관님에게 폐를 끼치면 안 되니까요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_25].Script
+msgid "探したいですが他の姉妹たちを危ない目に遭わせたくないですし…&n私の個人的な事情で司令官にご迷惑をかけてはいけませんから…。"
+msgstr ""
+
+#  Korean Text: '아니에요. 그럼 안돼요. 모모 씨. 정말... 모모 씨 정말 착하고 귀여워서 어떡해...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_26].Script
+msgid "それじゃいけませんよ…、モモさん…本当に…なんて優しくて健気なのでしょう…"
+msgstr ""
+
+#  Korean Text: '너무 귀여워서 동생들처럼 꼭 끌어안아주고 싶지만... 그건 안돼요. 폐를 끼치다니요.&n모모 씨의 자매라면 우리의 자매인걸요. 제 동생이나 다름없어요!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_27].Script
+msgid "可愛すぎて妹のように抱きしめてあげたい…。迷惑だなんて言わないで？&nモモさんの姉妹なら私の姉妹も同然。つまり私の妹でもあります！"
+msgstr ""
+
+#  Korean Text: '설마 섭섭하게 절 남으로 생각할 거예요? 그건 아니죠?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_28].Script
+msgid "まさか今さら私を他人だなんて、そんな寂しいこと思ってませんよね？ね？"
+msgstr ""
+
+#  Korean Text: '그런 건 아니지만... &n백토는 정말 뛰어난 사냥꾼이에요. 강하고 실수를 하지 않아요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_29].Script
+msgid "思ってはいませんけど…&n白兎ちゃんは腕利きの狩人さんなんです…。とっても強くて失敗なんかしない…"
+msgstr ""
+
+#  Korean Text: '백토의 흔적을 찾기는 정말 어려워요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_30].Script
+msgid "白兎ちゃんの痕跡を探すのは生半可なことじゃありません…。"
+msgstr ""
+
+#  Korean Text: '그런가? 어려운 일인가? 어려운 일이라면 탐험,&n탐험에는 엣헴! 바로 이 트리아이나가 필요해 지지.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_31].Script
+msgid "そうなのね！生半可じゃない！つまり難関！イコール探険！そして探険には…！&nふふーん！！このトリアイナの出番ってことね！"
+msgstr ""
+
+#  Korean Text: '응? 트리아이나? 후후. 뒤에서 우리 이야길 듣고 있었던 거예요?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_32].Script
+msgid "あら？トリアイナ？ふふ、後ろで私たちの話を聞いていたんですね？"
+msgstr ""
+
+#  Korean Text: '레아도 너무해. 날 빼놓고 모험 이야기를 하다니.... &n이 전직 탐험대장 네오 뉴 트리아이나는 실망이 크다네.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_33].Script
+msgid "レアも酷いことするなぁ。私を除け者にして冒険話だなんてさ…&nこの元・撮影監督探険隊長ネオニュートリアイナは超ガッカリしたわ！？"
+msgstr ""
+
+#  Korean Text: '명언 중에 그런 말이 있지. 가장 어려운 일이야말로, 가장 재밌는 모험이다!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_34].Script
+msgid "こんな名言があるわ。&n「最も困難な事こそ、最も面白い冒険である！」ってね！"
+msgstr ""
+
+#  Korean Text: '에? 하지만... 그런 말은 한 번도 들어본 적이 없는데...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_35].Script
+msgid "うーん？ですが…そんな言葉、初めて聞きます……"
+msgstr ""
+
+#  Korean Text: '당연하지. 방금 내가 한 말이니까. 히히. 이 네오 뉴 트리아이나의 말이니까&n명언이 틀림없다고. 그것보다 누굴 찾는 게 어렵단 거지?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_36].Script
+msgid "そりゃそうだよ～。&n今、私が作ったんだから！ひひっ！このネオニュートリアイナさんの&n言葉だから間違いないって！それより何を探すの？"
+msgstr ""
+
+#  Korean Text: '안녕하세요. 전 마법소녀 매지컬 모모라고 해요. &n사령관님께 트리아이나 씨의 이야기는 많이 들었어요. 헤헤. 반가워요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_37].Script
+msgid ""
+"初めまして。私の名前は魔法少女マジカルモモです…。&n司令官からトリアイナさんのお話は聞いています。へへ…よろしくお願いします。&n探しているのは白兎ちゃん"
+"という魔法少女です…。"
+msgstr ""
+
+#  Korean Text: '그렇다면 내가 끝내주는 보물 사냥꾼이라는 것도 잘 알고 있겠네? 히히. 보물 사냥도 흔적을 &n찾는 게 기본이지. 이 몸이 나선다면 그 백토의 흔적을 찾는 것도 어렵진 않을 것 같은데?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_38].Script
+msgid ""
+"んじゃ、私がイケてる最高のトレジャーハンターってことも知ってるのね？&n宝探しも痕跡探しから始めるのが基本よ。&nつまりはその白兎って子の痕跡を探すことから"
+"始めないとね！"
+msgstr ""
+
+#  Korean Text: '... 하지만 그건 미안해서...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_39].Script
+msgid "でもお手を煩わせるわけには…"
+msgstr ""
+
+#  Korean Text: '나한테 모험 거리를 주는 건 미안한 게 아니라고~!&n오히려 이런 데서 날 빼먹는 게 진짜 미안한 거지. 설마 날 실망시키진 않을 거지? 친구?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_40].Script
+msgid ""
+"私に冒険のネタを提供するんだから悪いことじゃないって～！&nむしろ私を除け者にしてそんな話をする方が悪いね。&nまさか私を本当に除け者にするつもりじゃないよ"
+"ね…？マイフレンド…？"
+msgstr ""
+
+#  Korean Text: '네? 네! 마법소녀는... 친구를 절대 실망시키지 않아요!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_41].Script
+msgid "え…？…いえ！そんなことは…！&n魔法少女は友達を除け者にしたりなんか絶対にしませんから！"
+msgstr ""
+
+#  Korean Text: '모모 씨? 후후. 좋아요. 결정이 되었네요!&n모두들 힘을 합쳐서! 백토를 찾아보는 거예요! 레아도 최선을 다할 준비가 되었답니다!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_42].Script
+msgid "ではモモさん、決まりましたね！？&nみんなの力を合わせて！白兎さんを探しましょう！&n私も最善を尽くしますよ！"
+msgstr ""
+
+#  Korean Text: '정말... 고마워요... 네! 힘낼게요! 우리 모두 최선을 다해서 백토를 찾아봐요! &n레아 님의 말처럼 전 포기하지 않아요. 제가 포기하면 어린이들의 희망이 사라질 테니...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_43].Script
+msgid ""
+"本当に…ありがとうございます…はい！頑張ります！&nみんなで白兎ちゃんを探しましょう！私、諦めません！&n私が諦めたら子供たちの希望も無くなりますから！"
+msgstr ""
+
+#  Korean Text: '후후... 아직 어린이는 없지만요. 물론 만들 계획은... &n어머나! 내가 무슨 말을 하는 거야!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_44].Script
+msgid "ふふ…まだ子供たちはいませんけどね。もちろん作る計画は…&nって！私ったら何てことを言ってるのかしら…！"
+msgstr ""
+
+#  Korean Text: '자, 잠시 다녀올 때가 있으니 두 분은 준비를 하고 있도록 해요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_45].Script
+msgid "し、暫しお暇させていただきますので、お二人は準備していてくださいね…"
+msgstr ""
+
+#  Korean Text: '응? 레아도 준비를 해야지! 어딜 가는 거야?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_46].Script
+msgid "え？？レアは準備しないの？どこ行くのさー！"
+msgstr ""
+
+#  Korean Text: '그래도 출진을 위해선 주인님께 허락을 맡아야 하니까요.&n걱정 말아요. 주인님은 친구를 아끼는 모모 씨의 마음을 외면하지 않을 거예요. 그럼...'
+#: DialogScript[DG_Ch01Ev3Stage01_1_47].Script
+msgid ""
+"まずはちゃんとご主人様の許可を頂かないと…。&nでも心配しないで？ご主人様も、&nお友達を大事にするモモさんの気持ちを無碍になんかしませんから。それでは…"
+msgstr ""
+
+#  Korean Text: '뭐야? 왜 그렇게 서둘러? &n아까 이야기했던 어린이를 만들 계획하고 관계라도 있는 거야? 그런데 그건 어떻게 만드는 거지?'
+#: DialogScript[DG_Ch01Ev3Stage01_1_48].Script
+msgid ""
+"なんで？なんでそんなに急いで行っちゃうの？&nん？もしかして子供を作るとか何とかの話と関係あること？&n…ねぇ、そういえば子供ってどうやって作るんだっけ？"
+msgstr ""
+
+#  Korean Text: '그, 그럴 리가 없잖아요. 게다가 트리아이나에겐 일러요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_49].Script
+msgid "そ！そそそんなことするわけないじゃないですか！&nそれに…トリアイナにはまだ早いと思います。"
+msgstr ""
+
+#  Korean Text: '이번엔 얼른 허락만 받고 올 테니... 기다리고 있어요.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_50].Script
+msgid "とにかく今回は許可を取りに行くだけなので…待っていてくださいね"
+msgstr ""
+
+#  Korean Text: '왜 저렇게 서두르지? 아 참! 이러고 있을 때가 아니지... 그럼, 모모, 우리도 준비해볼까?&n앞으로의 여행이 편하려면 첫 준비를 꼼꼼하게 해야 된다구. 선배답게 날 따라오도록 해.'
+#: DialogScript[DG_Ch01Ev3Stage01_1_51].Script
+msgid ""
+"なんでそんなに慌ててるんだろ？…あ、そうだ！こんなことしてる場合じゃない！&nモモ！私たちも準備しないと。&n楽しい冒険は準備の段階ですべてが決まるもの！こ"
+"の私についてきなさーい！"
+msgstr ""
+
+#  Korean Text: '난 멤버를 더 모아볼게. 아주 신나는 친구들로 말이야. 히힛!'
+#: DialogScript[DG_Ch01Ev3Stage01_1_52].Script
+msgid "私はメンバー集めに当たるね。冒険は愉快な仲間たちがいないと！ひひっ！"
+msgstr ""
+
 #  Korean Text: '수색중인 모모 일행'
 #: DialogScript[DG_Ch01Ev3Stage01_2_1].BG_Description
 msgid "捜索中のモモ一行"
+msgstr ""
+
+#  Korean Text: '- 백토라는 바이오로이드의 수색을 위해 우리는 이 일대의 철충을 청소했다.&n지휘는 언제나 긴장의 연속. 난 마지막 철충을 쓰러뜨리고야 팔을 뻗어 기지개를 펼 수 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_1].Script
+msgid ""
+"- "
+"白兎というバイオロイドを探すため、俺たちはまずその付近の鉄虫を掃討した。&n戦闘指揮はいつも緊張の連続…。&n俺は最後の鉄虫の撃破を確認してやっと緊張を解く"
+"ことができた。"
+msgstr ""
+
+#  Korean Text: '- 생각해 보면 황당한 경험이긴 하다. &n멸망한 세상에서 '전직 여배우 바이오로이드를 찾는다.' 라니...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_2].Script
+msgid "- 考えてみれば可笑しな話である。&n人類滅亡後の世界で「元・女優のバイオロイドを探す」って…"
+msgstr ""
+
+#  Korean Text: '- 뭐, 모모가 가진 마음의 짐을 덜 수 있고, &n강력한 바이오로이드 한 명이 더 합류하는 일이니 충분히 가치는 있는 일이다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_3].Script
+msgid "- まぁモモの悩みも解決できるし、強力なバイオロイドも一人合流できるんだから、&nやってみる価値はある。"
+msgstr ""
+
+#  Korean Text: '- 가치는 있지만 이 황당한 경험에 피곤한 일은 피곤한 것. 이젠 휴식을...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_4].Script
+msgid "- 価値はあるが、可笑しな話には変わりはないし、疲れるものは疲れる。&n今日はもう休みたいな…"
+msgstr ""
+
+#  Korean Text: '얍! 캡틴!! 잘 보여?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_5].Script
+msgid "やっほー！キャプテン！見えてるー？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_5].SelectionIndex[1]
+msgid "…ああ、見えてるよ"
+msgstr ""
+
+#  Korean Text: '- 방금했던 생각은 취소한다. 트리아이나와 있었던 모험을 생각하면,&n이 정도 일은 평범한 일이겠지. 잠시 휴식에 대한 생각을 미뤄둔다. 지금은 보고에 집중할 때다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_6].Script
+msgid "- 前言撤回。トリアイナとの冒険を思い返すと、&nこっちの方が全然普通のことだった。&nうん。休みは後にしよう！今は報告に集中だ。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev3Stage01_2_6].SelectionIndex[1]
 msgid "今の状況を教えてくれ。"
 msgstr ""
 
+#  Korean Text: '넵. 캡틴. 그럼 보고할게. 아직 그 백토라는 바이오로이드의 흔적은 못 찾았어.&n... 그러고 보니, 백토는 어떻게 생겼지?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_7].Script
+msgid "ではでは、キャプテン！報告するね！&nまだ白兎ってバイオロイドの痕跡は見つかってないよ～。&n…そういえばその白兎ってどんな姿をしてんのー？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_7].SelectionIndex[1]
+msgid "お前、モモから聞いていたんじゃないのか？"
+msgstr ""
+
+#  Korean Text: '뭐... 캡틴도 모른다는 거네? 어쩔 수 없지! 탐사 대장의 초월적인 감으로 찾는 수밖에!&n그럼 수색을 계속할게. 특별한 걸 발견하면 다시 연락하겠습니당!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_8].Script
+msgid ""
+"あれ？キャプテンも知らないんだ。&nんじゃしゃーないっ！探検隊長の人智を超えた勘で探すしかないか！&nじゃ捜索を続けるね～。何か見つけたらまた連絡しまーす！"
+msgstr ""
+
+#  Korean Text: '- 트리아이나는 내 대답도 듣지 않고 뛰쳐나갔다. &n저 녀석... 오르카에 있었다면 혼내 줬을텐데... 아니... 혼을 내도 소용이 없으니 어찌해야 하나...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_9].Script
+msgid ""
+"- トリアイナは俺の返事も待たずに走っていった…。&nあいつ…オルカに帰ってきたら説教だな…あ、いやいいや、どうせ怒っても無駄か…&n疲れるだけだな。"
+msgstr ""
+
+#  Korean Text: '... 휴... 아무래도 이쪽은 아닌 것 같네요.&n자~ 여러분? 이제 돌아갈 시간이에요. 닥터 씨도 준비해 주세요.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_10].Script
+msgid ""
+"…はぁ…どうやらこの辺りには来てないみたいですね…。&nは～い、ではみなさん！今日はもうお家に帰る時間ですよ～。&nドクターちゃんも帰る準備をしてくださいね"
+"。"
+msgstr ""
+
+#  Korean Text: '으응? 벌써 돌아간다구? 아직 안 돼. 그러면 안 돼. 언니.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_11].Script
+msgid "え？もう帰るの？ダメダメ。&nそんなんじゃダメだよ、モモお姉ちゃん。"
+msgstr ""
+
+#  Korean Text: '타이탄이 뭔가 흔적을 찾을 것 같단 말야. 10분만 있으면 되니까...&n응? 응?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_12].Script
+msgid "もう少しでタイタンが痕跡を見つけられそうなんだよ～。あと10分だけ！&nね？いいでしょ？"
+msgstr ""
+
+#  Korean Text: '음... 수색을 마치면... 빨리 되돌아오라는 명령이 있었는데... 하는 수 없죠.&n닥터님, 그럼 언니랑 멀리 떨어지지 않는다고 약속해 줄 수 있죠?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_13].Script
+msgid ""
+"うーん…ある程度終わったらすぐ帰って来るようにって言われているんですけど…&n仕方ないです。じゃあドクターちゃん、&nモモお姉さんからあまり離れないと約束し"
+"てくれますか？"
+msgstr ""
+
+#  Korean Text: '물론이지 언니! 그러면, 난 조금 있다가...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_14].Script
+msgid "もちろんだよ、モモお姉ちゃん！じゃ、私は行ってくるね！"
+msgstr ""
+
+#  Korean Text: '... 저...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_15].Script
+msgid "…あの…"
+msgstr ""
+
+#  Korean Text: '으앗?! 깜짝 놀랬잖아...! 팬텀 언니?!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_16].Script
+msgid "わぁ！ビックリした…！ファントムお姉ちゃん！？"
+msgstr ""
+
+#  Korean Text: '... 정찰 보고를 하려고 한다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_17].Script
+msgid "…偵察報告がしたい"
+msgstr ""
+
+#  Korean Text: '다음부터 깜빡이 좀 켜고 들어와. 정말...&n네... 그럼 정찰은 어떻게 됐어?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_18].Script
+msgid "次からはもっと気配出してよ～、もう～&nはい、それで偵察の方はどうだったの？"
+msgstr ""
+
+#  Korean Text: '... 특별한 흔적은 없었다. 몇 년이 지난 흔적이라 내가 놓친 걸 수도 있고...&n아직 시간이 남아있으니까 한 번 더 보고 오도록 하지.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_19].Script
+msgid ""
+"…特筆すべきことは何もなかった。&n白兎が此処にいたのは何年も前のことだから私が見逃しただけかもしれないが…&nまだ時間はあるし、もう一度見てこようと思う…"
+"。"
+msgstr ""
+
+#  Korean Text: '정말 고마워요. 팬텀님.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_20].Script
+msgid "ありがとうございます、ファントムさん。"
+msgstr ""
+
+#  Korean Text: '너, 널 위해 하는 일이 아니다. 임무이기에...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_21].Script
+msgid "お、お前の為ではない。に、任務だからだ…"
+msgstr ""
+
+#  Korean Text: '... 가도록 하지...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_22].Script
+msgid "…それじゃ…"
+msgstr ""
+
+#  Korean Text: '팬텀님? 팬텀님? 어딜 가세요?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_23].Script
+msgid "あ、ファントムさん？…ファントムさん…"
+msgstr ""
+
+#  Korean Text: '정말... 팬텀님은 혹시 날 싫어하는 걸까요?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_24].Script
+msgid "くすん…もしかしてモモはファントムさんに嫌われているのでしょうか…？"
+msgstr ""
+
+#  Korean Text: '어... 그런 걸까? 근데 나 있지. 팬텀 언니 얼굴을 이렇게 가까이서 보는 건 처음이야. &n정말 깜짝 놀랐다니까? 팬텀 언니는 우리를 별로 안 좋아하니...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_25].Script
+msgid ""
+"どうなんだろうね～？私、ファントムお姉ちゃんの顔を間近で見たの初めてなんだー&nさっきは本当にビックリしちゃった！ファントムお姉ちゃんって&n日頃から私たち"
+"のこと避けてるみたいだもんね…。"
+msgstr ""
+
+#  Korean Text: '응? 저건...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_26].Script
+msgid "ん…？あれって…"
+msgstr ""
+
+#  Korean Text: '켈베로스 언니?!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_27].Script
+msgid "ケルベロスお姉ちゃん！？"
+msgstr ""
+
+#  Korean Text: '헥헥!! 나...! 왔어!!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_28].Script
+msgid "へっへっへっ…！アーターシーがぁ！…来たー！！"
+msgstr ""
+
+#  Korean Text: '사령관님이 여기로 가라고 하셨어. 내가 도울 일이 있다면서?&n뭐야? 그게 뭐야? 얼른 가르쳐줘~!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_29].Script
+msgid "司令官から行ってこいって言われたの！アタシが役立てることがあるって～？&nなになに？早く教えて～！"
+msgstr ""
+
+#  Korean Text: '어... 그게...&n잠깐만. 언니...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_30].Script
+msgid "えっと…そうだね…&nちょっと待っててね…"
+msgstr ""
+
+#  Korean Text: '오빠...? 켈베로스 언니가 여길 찾아왔는데?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_31].Script
+msgid "お兄ちゃん…？ケルベロスお姉ちゃんが来てるんだけど？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_31].SelectionIndex[1]
+msgid "おっ！着いたみたいだな！"
+msgstr ""
+
+#  Korean Text: '- ... 닥터에겐 조금 귀찮은 일을 맡기게 됐다.&n평소엔 주로 닥터와 노는 켈베로스는 닥터가 오랜만에 임무를 나가자 견디질 못했다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_32].Script
+msgid ""
+"- "
+"…俺は申し訳ないがドクターに面倒事を押し付けることにした。&nいつもドクターと遊んでいるケルベロスは、ドクターが捜索の方に出ていってしまい、&n暇と体力を持"
+"て余していた…。"
+msgstr ""
+
+#  Korean Text: '- 덕분에 나는 모모 일행이 현장에 도착할 때까지 &n함 내의 산책을 약 250회 정도 돌아줘야 했고...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_33].Script
+msgid "- お陰で俺は、モモたちが捜索現場に着くまで&n艦内散歩を250周もさせられる羽目になった…\t"
+msgstr ""
+
+#  Korean Text: '- 이래서는 내 몸이 버티질 못한다는 걸 직감했다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_34].Script
+msgid "- これでは俺の体が持たないと直感した。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_34].SelectionIndex[1]
+msgid "ケルベロスに捜索を任せてみようと思って。きっと上手くいく！"
+msgstr ""
+
+#  Korean Text: '- 나와 켈베로스 모두를 위해. 켈베로스는 탐색을 나가야 한다. &n켈베로스는 어쩐지 강아지와 비슷한 면이 있으니 탐색에도 꽤나 재능이 있으니까.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_35].Script
+msgid "- 俺とケルベロス、そしてみんなの為にもケルベロスは捜索に出るべきだ。&nケルベロスって何だか犬っぽいし実際捜索の才能があるからな…"
+msgstr ""
+
+#  Korean Text: '정말요~? 그런가? 어쩌면 그럴 지도? &n좋아요. 그럼 켈베언니! 나랑 같이 '물건' 찾으러 가요!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_36].Script
+msgid "本当ぉ？そうかな？うーん…たしかに…そう…かも？&nいいよ！ケルベロスお姉ちゃん！私と一緒に探し物しよ！"
+msgstr ""
+
+#  Korean Text: '응! 물건? 무슨 물건이야? 난 뭐든 좋아!&n사령관님? 그럼 켈베로스! 출발합니다!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_37].Script
+msgid "うん！しよしよ～！探し物！？何を探すの？何でもいいよ！&n司令官！じゃケルベロス！行きますね！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_37].SelectionIndex[1]
+msgid "思う存分走り回って来い！"
+msgstr ""
+
+#  Korean Text: '자, 잠깐~. 닥터님, 어딜 달려가려는 거예요?&n언니 곁에서 떨어지면 안 된다고 했죠?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_38].Script
+msgid "ちょ、ちょっと～！ドクターちゃん、そんなに走ってどこに行くんですか！？&nお姉さんから離れないって約束したじゃないですか～！"
+msgstr ""
+
+#  Korean Text: '그러면 언니도 따라오면 되지. 히히. &n지금 되게 중요한 걸 찾고 있거든?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_39].Script
+msgid "じゃあ、モモお姉ちゃんもついて来てよ～。いひひ！&n私、今とっても大事な物を探してるんだよ。"
+msgstr ""
+
+#  Korean Text: '그것만 있으면 오빠를 엄-청! 강화시킬 수 있다구.&n여. 러. 모. 로?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_40].Script
+msgid "「アレ」さえあればお兄ちゃんをすっっごく！強化できるんだよ！&nい・ろ・い・ろ・ね？"
+msgstr ""
+
+#  Korean Text: '- 강화? 이건 듣지 못한 이야기다. 어쩐지 불안한 마음이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_41].Script
+msgid "- 強化…？そんな話は聞いてないぞ…。なんだか途轍もなく不安だ。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_41].SelectionIndex[1]
+msgid "ドクター？何をしようとしてるのか知らないが止め…"
+msgstr ""
+
+#  Korean Text: '강화...? 여러모로라니?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_42].Script
+msgid "強化…？色々って？"
+msgstr ""
+
+#  Korean Text: '사령관 님이 강화되는 거야? 어디가? 어떻게?&n좋아. 그럼 출발해 볼까?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_43].Script
+msgid "司令官が強化されるの？どこが？どうやって？なにが？&nまぁいいや！なんでも！じゃ出発するよ～？"
+msgstr ""
+
+#  Korean Text: '언니~? 무슨 물건인지는 알고 가야지~!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_44].Script
+msgid "あ、ケルベロスお姉ちゃーん！？まだ何を探すのか知らないでしょー！？"
+msgstr ""
+
+#  Korean Text: '히힛! 오빠? 그럼 나중에 봐~!'
+#: DialogScript[DG_Ch01Ev3Stage01_2_45].Script
+msgid "いひひっ！じゃお兄ちゃん？また後でね～！"
+msgstr ""
+
+#  Korean Text: '어머나! 저는 닥터님을 따라가볼게요. 사령관님.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_46].Script
+msgid "も～！急に走って行かないでくださ～い！&n司令官。私はドクターちゃんについていきますね。"
+msgstr ""
+
+#  Korean Text: '마법 소녀는 어린이를 지켜줘야 하니까요.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_47].Script
+msgid "魔法少女は子供たちを守らないといけませんから。"
+msgstr ""
+
+#  Korean Text: '- 모모마저 떠나버리고 주변은 조용해졌다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_48].Script
+msgid "- モモまで行ってしまい辺りは静かになった。"
+msgstr ""
+
+#  Korean Text: '- 그런데 분명... 어떤 바이오로이드를 찾는다고 했었는데...&n이름이 백토였나? 모모의 동료...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_49].Script
+msgid ""
+"- おかしいな…確か目的は、&n作られてすぐ飛び出していったバイオロイドを探すと言っていたはずなのに…&n名前は魔法少女マジカル白兎…モモの仲間…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage01_2_49].SelectionIndex[1]
+msgid "まぁ…誰であれ仲間になるなら別にいいか"
+msgstr ""
+
+#  Korean Text: '- 난 그녀들이 안전지대 방향으로 가는 것을 확인한 후, 숨을 돌리기로 했다.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_50].Script
+msgid "- 俺はとりあえず彼女たちが安全区域に向かうことを確認してから&nひと休みすることにした。"
+msgstr ""
+
+#  Korean Text: '- 바이저는 잠시 내려두자...'
+#: DialogScript[DG_Ch01Ev3Stage01_2_51].Script
+msgid "- バイザーは外しておこう。"
+msgstr ""
+
+#  Korean Text: '- ... 이것 말고도 피곤한 일은 충분히 많으니까.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_53].Script
+msgid "- …俺にはこれ以外にも厄介な仕事がまだいっぱいあるからな…。"
+msgstr ""
+
+#  Korean Text: '다들... 사이가 좋아 보이네...&n나도... 조금만 더 붙임성있게 말할 걸 그랬나?'
+#: DialogScript[DG_Ch01Ev3Stage01_2_55].Script
+msgid "みんな仲良さそう…&n私も…もっと愛想良く話せれば…"
+msgstr ""
+
+#  Korean Text: '아니야. 오히려 믿음직한 모습을 보여줘야 자매들도 날 믿을 거야.&n힘내자... 다음엔 분명히 내 믿음직한 모습에 친구가 되자고 할 테니.'
+#: DialogScript[DG_Ch01Ev3Stage01_2_56].Script
+msgid "いいや…。頼れる姿を見せないと信頼されない…。&n頑張ろう…きっと頑張ったら「友達になって」って言ってくれるはず…"
+msgstr ""
+
+#  Korean Text: '- 모모 일행이 복귀한다는 통신이 왔다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_1].Script
+msgid "- モモたちが帰って来ると連絡があった。"
+msgstr ""
+
+#  Korean Text: '- 다만, 보고에 의하면 별다른 성과는 없다고 한다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_2].Script
+msgid "- ただ、その連絡によれば何の成果も上げられなかったとのこと。"
+msgstr ""
+
+#  Korean Text: '- 벌써 몇 년이나 지났으니. 어쩌면 당연한 결과겠지.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_3].Script
+msgid "- 飛び出していったのはもう何年も前の話だ。当たり前の結果と言えよう。"
+msgstr ""
+
+#  Korean Text: '- 하지만 문제는 수색 종료를 알린 시점. 그다음에 일어났다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_4].Script
+msgid "- しかし問題は捜索を終えた後に起きた。"
+msgstr ""
+
+#  Korean Text: '- 백토의 아주 작은 흔적을 찾은 모모가 평소답지 않게 수색을 계속하는 걸 고집하는 바람에&n예상 복귀 시간을 훌쩍 넘겨버린 것이다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_5].Script
+msgid ""
+"- "
+"白兎の非常に小さな痕跡を見つけたモモが&nらしくもなく捜索を続けると急に言いだしたのだ、&nそのおかげで捜索隊は予想していた帰還時刻を大幅に過ぎてしまった。"
+msgstr ""
+
+#  Korean Text: '- 처음에 그렇게 '그 물건'을 찾겠다고 신이 났던 닥터도 나중에는 얼굴이 하얗게 질릴 만큼.&n모모는 집요하게 흔적을 찾으려 했다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_6].Script
+msgid ""
+"- "
+"最終的にはよくわからない「アレ」をあんなに探すと躍起になっていたドクターさえ&n顔を真っ青にしていた。&nモモの白兎捜索に対する執念は思ったよりも深かったよ"
+"うだ…。"
+msgstr ""
+
+#  Korean Text: '저... 주인님? 아무래도... 모모양에겐 이야기를 해두는 게...&n아무리 시간제한을 두진 않았지만... 자꾸 저러면 수색을 중지시켜야 하지 않을까요?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_7].Script
+msgid ""
+"あの…ご主人様？モモさんにはしっかりと話しておいた方が…&n帰還時刻をきちんと設定していなかったとはいえ、&nこんな状態が続くとなると白兎さんの捜索は中止せ"
+"ざるを得ません。"
+msgstr ""
+
+#  Korean Text: '- ... 콘스탄챠는 모모를 걱정하는 것 같다.&n역시 모모가 돌아오면 경고를 해두는 게 좋을까?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_8].Script
+msgid "コンスタンツァはモモのことが心配のようだ。&n確かにそうだ…やはりモモが帰ってきたらきつく言っておくべきかな。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_8].SelectionIndex[1]
+msgid "あ…モモ？"
+msgstr ""
+
+#  Korean Text: '저... 사령관님? 에헤헤...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_9].Script
+msgid "あの…司令官…？えへへ…"
+msgstr ""
+
+#  Korean Text: '모모양...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_10].Script
+msgid "モモさん…"
+msgstr ""
+
+#  Korean Text: '- ... 보고를 알리는 모모의 표정이 그리 밝지 않았다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_11].Script
+msgid "- …報告しに来たモモの顔色はあまり良くなかった。"
+msgstr ""
+
+#  Korean Text: '- 나는 모모를 본보기로 혼을 내려 했지만, &n어쩐지 마음에 걸리는 게 있어 잠깐 기억을 더듬었다...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_12].Script
+msgid "- みんなへの見せしめにきつく言おうとしたが、&nなんか妙に引っかかり、少々考えてみることにした…"
+msgstr ""
+
+#  Korean Text: '- ... 같이 만들어진 바이오로이드라고 했었지...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_13].Script
+msgid "- …一緒に作られたバイオロイドと言ってたな…。いわゆる同期というものか…？"
+msgstr ""
+
+#  Korean Text: '- 동기라고는 하지만 확실히 집착이 심한 느낌이다.&n단순한 동기라고는 보기는 힘들다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_14].Script
+msgid "- 同期とは言えここまで執着するものなのだろうか？&n単なる同期とは思えない。"
+msgstr ""
+
+#  Korean Text: '- 나는 슬쩍 팔을 뻗어, 옆에 있는 파일을 들춰 보았다.&n파일 안에는 모모의 예쁜 필체로...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_15].Script
+msgid "- 俺は手を伸ばして、机に置いてあるデータを取った。&nファイルの中にはモモのきれいな筆跡で…"
+msgstr ""
+
+#  Korean Text: '- 관계: 친구'
+#: DialogScript[DG_Ch01Ev3Stage02_1_16].Script
+msgid "- 関係：ともだち"
+msgstr ""
+
+#  Korean Text: '- 친구라... 친구가 없는 내겐 잘 다가오지 않는 단어다.&n하지만, 모모에겐 큰 의미가 있는 단어라고 봐야겠지?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_17].Script
+msgid "- 友達か…俺には友達がいないのでしっくり来ない言葉だ。&nでもモモにとっては大きな意味を持つ言葉なんだろう…。"
+msgstr ""
+
+#  Korean Text: '- 어쩌면 모모를 위로해야 할지도 모르겠다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_18].Script
+msgid "- ならばモモを慰めた方がいいのかもしれない…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_18].SelectionIndex[1]
+msgid "モモ…"
+msgstr ""
+
+#  Korean Text: '에쿵! 죄송해요 사령관님... 요즘 저 많이 이상하죠? 헤헤...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_19].Script
+msgid "えへっ！ごめんなさい、司令官…。&nモモ…ちょっと変でしたよね…？えへへ…"
+msgstr ""
+
+#  Korean Text: '오늘은 제가 정말... 잘못했어요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_20].Script
+msgid "今日は本当に…ごめんなさい…"
+msgstr ""
+
+#  Korean Text: '앞으로는 고집부리거나 걱정시키지 않을게요... 정말 죄송해요 사령관님.&n수색도 오늘까지만...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_21].Script
+msgid "もう意地になって心配させたりしません…ごめんなさい、司令官。&n捜索も今回限りにします…"
+msgstr ""
+
+#  Korean Text: '- 본래 혼을 내야 할지 고민을 했던 나였지만&n애써 웃는 모모가 너무 안쓰러워 보였다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_22].Script
+msgid "- きつく言おうとしていた俺だが、&n無理に笑うモモのことが気の毒だと思えた。"
+msgstr ""
+
+#  Korean Text: '- 모모가 보이는 집착을 생각하면, 그리고 수행해야 할 전투 임무가 많은 걸 생각하면...&n여기서 그만둬야 되겠지.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_23].Script
+msgid "- モモの執着具合から考えると…これからも戦闘任務は増えることだし…&nここでやめておくべきだろう。"
+msgstr ""
+
+#  Korean Text: '저... 사령관님? 이제... 가봐도 될까요?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_24].Script
+msgid "あの…司令官、私もう…行ってもいいでしょうか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_24].SelectionIndex[1]
+msgid "…捜索隊の人員拡大と範囲を広げてみるか！"
+msgstr ""
+
+#  Korean Text: '- 아... 말해 버렸다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_25].Script
+msgid "- あぁ…言っちゃった…"
+msgstr ""
+
+#  Korean Text: '네? 그게 무슨...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_26].Script
+msgid "え…？それは一体どういう…"
+msgstr ""
+
+#  Korean Text: '주인님? 저... 하지만 모모양은...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_27].Script
+msgid "あの…ご主人様？でも、モモさんは…"
+msgstr ""
+
+#  Korean Text: '- 아무래도 콘스탄챠는 할 말이 있는 것처럼 보였지만&n끝내 입을 열진 않았다. 내 의견을 존중해 주려고 하는 거겠지?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_28].Script
+msgid "- コンスタンツァが何か言いたさそうだったが、一瞬考えると口を噤んだ。&n俺の意見を尊重してくれるのだろう。"
+msgstr ""
+
+#  Korean Text: '하지만... 이미 전 자매들과 사령관님께 폐를 끼쳐서...&n저는 어떻게 해야 할지... 정말 그래도 될까요?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_29].Script
+msgid "でも…既に姉妹たちと司令官にご迷惑をかけてしまったし…&nモモはどうしたらいいのか…本当にいいんですか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_29].SelectionIndex[1]
+msgid "ただし、必ず連れて帰って来ること"
+msgstr ""
+
+#  Korean Text: '네! 사령관님! 꼭 데리고 올게요. 정말 감사해요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_30].Script
+msgid "はい！司令官！必ず…連れて帰って来ます！ありがとうございます！"
+msgstr ""
+
+#  Korean Text: '- 모모가 미소 지었고, 함교는 환하게 빛나는 듯했다.&n그래. 나머지 상황이야 내가 노력하면 어떻게든 되겠지. 모모도 반성을 했을 테고...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_31].Script
+msgid "- モモが微笑み、艦橋の雰囲気が一気に明るくなる。&nそうだ。他の面倒事は俺が頑張れば何とかなるだろう…。&nモモも反省しているようだし…"
+msgstr ""
+
+#  Korean Text: '그다음은 역시 그걸 받아야겠지?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_32].Script
+msgid "- だったらアレを貰わないとな。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_32].SelectionIndex[1]
+msgid "俺も頑張らないといけないし…モモステッカーが欲しいな"
+msgstr ""
+
+#  Korean Text: '네? 스티커...는...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_33].Script
+msgid "え…？ステッカー…は…"
+msgstr ""
+
+#  Korean Text: '에헷! 그건 안돼요 사령관님~. 아깐 나쁜 짓을 한 모모를 혼내셔야 하셨죠?&n사실 혼내는 게 옳은 거였는데... 혼 내질 않으셨으니.. 드릴 수 없어요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_34].Script
+msgid ""
+"む～！司令官、ダメですよ～？ほんとは悪い子のモモをお仕置きしないと&nいけなかったんですから～！それが正しいことだったのにな～？&nお仕置きしてくれなかった"
+"ので、モモステッカーはあげません！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_34].SelectionIndex[1]
+msgid "そんなぁ～…"
+msgstr ""
+
+#  Korean Text: '대신 모모가 사령관님 옆에 꼭 붙어서, 착한 일 하실 때마다&n모모가 옆에서 하나하나 전~부 칭찬해 드릴게요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_35].Script
+msgid "代わりにモモが司令官と一緒にいてあげて、&n良い事をする度に一つずつぜ～んぶ褒めてあげちゃいます！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_35].SelectionIndex[1]
+msgid "まぁ…だったらそれで手を打とう…"
+msgstr ""
+
+#  Korean Text: '그럼, 사령관님? 모모는 다른 친구들에게 사과하러 가볼게요~!'
+#: DialogScript[DG_Ch01Ev3Stage02_1_36].Script
+msgid "じゃあ、司令官？モモはみんなに謝りに行きますね～！"
+msgstr ""
+
+#  Korean Text: '- 모모가 하늘하늘 반짝거리며 돌아갔다.&n세상이 멸망해도 마법 소녀가 울상이면 안 되지.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_37].Script
+msgid "- モモがふわりと浮いて艦橋を出て行った。&n世界が滅んでも魔法少女は俯いたりしない。"
+msgstr ""
+
+#  Korean Text: '- ... 자, 그러면... 이제 남은 건...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_38].Script
+msgid "- では…後は…"
+msgstr ""
+
+#  Korean Text: '주인님... 정말...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_39].Script
+msgid "こ主人様ったらもう…"
+msgstr ""
+
+#  Korean Text: '계속 수색을 하시면 병력 배치를 바꾸셔야 할 텐데... 괜찮으시겠어요?&n작전 계획을 처음부터 잡으셔야 할 텐데...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_40].Script
+msgid "捜索活動を続けるとなると兵力配置を変えないといけませんが…いいのですか？&nその他の活動計画も一から見直さないといけなくなりますよ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_40].SelectionIndex[1]
+msgid "でも…"
+msgstr ""
+
+#  Korean Text: '... 네?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_41].Script
+msgid "…はい？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage02_1_41].SelectionIndex[1]
+msgid "どうしてもモモステッカーが欲しかったんだよなぁ…"
+msgstr ""
+
+#  Korean Text: '정말... 어쩔 수 없네요. 그러다가 주인님 건강이라도 해치게 되면 전... &n다음부턴... 꼭 말릴 거예요. 정말로요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_43].Script
+msgid "もう…全く…仕方ないですね。でもご主人様のお体に障るようでしたら&n次は私が、必ず止めますからね？本当ですよ？"
+msgstr ""
+
+#  Korean Text: '- 콘스탄챠는 과로하는 날 진심으로 걱정해서 하는 말이겠지.&n그래도 참아줘서 고맙다.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_44].Script
+msgid "- コンスタンツァは俺が過労で倒れてしまわないか心配しているのだろう。&nそれでも俺に従ってくれる。ありがたい限りだ…。"
+msgstr ""
+
 #: DialogScript[DG_Ch01Ev3Stage02_1_44].SelectionIndex[1]
 msgid "ありがとう。"
+msgstr ""
+
+#  Korean Text: '후훗. 주인님도 오랫동안 지휘하느라 힘드셨죠?&n주인님도 조금 쉬시는 게 좋을 것 같네요. 제가 모실게요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_45].Script
+msgid "ふふ、ご主人様も戦闘指揮などが続いて疲れているようですね？&nご主人様も今は休まれたほうが良いと思います。私がお付き添いいたします。"
 msgstr ""
 
 #  Korean Text: '[c][57e137]잠시 후[-][/c]'
@@ -5680,14 +6538,308 @@ msgstr ""
 msgid "[c][57e137]しばらく経過。[-][/c]"
 msgstr ""
 
+#  Korean Text: '6분 전 대기실... 모모가 사과하러 왔었어... &n모모가... 사과할 때...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_47].Script
+msgid "６分前、待機室に…モモが謝りに来た…&nモモが…謝るとき…"
+msgstr ""
+
+#  Korean Text: '자연스럽게 손을 잡을 수도 있었어... 그러면 우린 친구가 될 수 있었을지도 몰라.&n그런데 난 왜...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_48].Script
+msgid "自然な流れで手を取り合うこともできたはず…&nそしたら私たちは友達になれたのかもしれない…&nなのに、どうして私は…"
+msgstr ""
+
+#  Korean Text: '휴... 이번에도 실패인가... 다음엔 꼭...&n.... ?!'
+#: DialogScript[DG_Ch01Ev3Stage02_1_49].Script
+msgid "はぁ…今回も失敗か…次は必ず…&n……っ!?"
+msgstr ""
+
+#  Korean Text: '응? 무슨 소리가 들렸는데... 어머? 거기 누구 계셔요?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_50].Script
+msgid "あら？何か聞こえましたたけど…誰かいますか？"
+msgstr ""
+
 #  Korean Text: 'AL 팬텀'
 #: DialogScript[DG_Ch01Ev3Stage02_1_51].Char_Name_C
 msgid "ALファントム"
 msgstr "AL Phantom"
 
+#  Korean Text: '이 향기는... 음... 익숙한 향기인데? 응? 어째서 아무것도 안 보이는 걸까...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_52].Script
+msgid "この香りは…うーん…よく知っている香りなのに…&nどうして何も見えないのでしょう…？"
+msgstr ""
+
+#  Korean Text: '알 것 같기도 하고... 으음…'
+#: DialogScript[DG_Ch01Ev3Stage02_1_53].Script
+msgid "分かるような…分からないような…"
+msgstr ""
+
+#  Korean Text: '...내가 신경 쓰이게 한 것 같군.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_54].Script
+msgid "…私だ…邪魔したようで申し訳ない。"
+msgstr ""
+
+#  Korean Text: '우훗, 아녜요 신경 쓰실 것 없어요. 팬텀 씨.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_55].Script
+msgid "ふふ。いいえ、お気になさらず。ファントムさん。"
+msgstr ""
+
+#  Korean Text: '그런데... 음...? 팬텀 씨? 그 향수는...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_56].Script
+msgid "でも…うーん？ファントムさん？その香水って…"
+msgstr ""
+
+#  Korean Text: '... 향수... 이, 임무 수행엔 별로 방해가 되지 않을 거라고 생각한다만.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_57].Script
+msgid "…香水…べ、別に任務の支障にはならないはずだが？"
+msgstr ""
+
+#  Korean Text: '후훗... 네~ 저도 알고 있어요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_58].Script
+msgid "ふふ…もちろん分かっていますよ。"
+msgstr ""
+
+#  Korean Text: '요즘 아이들 사이에서 인기가 많은 향수죠?&n다들 그 향수에 정말 관심이 많더라고요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_59].Script
+msgid "最近姉妹たちの間で流行っている香水ですよね？&nみんなその香水に興味があるみたいですね。"
+msgstr ""
+
+#  Korean Text: '무뚝뚝한 팬텀 씨도 쓰고 있을 줄이야... 주변에서 향기가 좋다고 칭찬했겠어요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_60].Script
+msgid "普段無口なファントムさんも使っていたなんて…&nみんなから良い香りがするって言われませんか？"
+msgstr ""
+
+#  Korean Text: '무, 무슨... 내게 그렇게 가볍게 다가올 동료는 없다. 그러니...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_61].Script
+msgid "な、何を…私に軽々しく話しかけてくる仲間などいない。&nだから…"
+msgstr ""
+
+#  Korean Text: '흐으음~. 역시... 너무 엄격한 태도가 문제이려나? 서툰 대화 스킬이 문제이려나...&n팬텀 씨도 분명히 자매들과 친하게 지내고 싶으실 텐데...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_62].Script
+msgid ""
+"ふむふむ…やっぱり…厳しすぎる態度が問題なんでしょうかね？&nあとはお話が少し苦手なのも問題かもしれませんね？&nファントムさんだって姉妹たちと仲良くしたい"
+"でしょうに…。"
+msgstr ""
+
+#  Korean Text: '그런 일엔... 따, 딱히 관심이...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_63].Script
+msgid "べ、別にそのようなことなど…"
+msgstr ""
+
+#  Korean Text: '후훗. 좋아.&n팬텀 씨? 제 이야기 한번 들어 보실래요?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_64].Script
+msgid "ふふっ、よ～し。&nファントムさん？私のお話、聞いてみませんか？"
+msgstr ""
+
+#  Korean Text: '오르카 어디선가 늘 혼자서 노래를 부르고 있던 바이오로이드 기억나시죠?&n아마... 흰색 옷을 즐겨 입었죠.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_65].Script
+msgid "オルカのどこかでいつも一人で歌ってるバイオロイドを知っています？&n白い服をいつも着ている…"
+msgstr ""
+
+#  Korean Text: '... 아... 기억이 난다만... 이름이...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_66].Script
+msgid "…知っている。名前は…"
+msgstr ""
+
+#  Korean Text: '네. 네오딤 씨예요.&n그녀도 이번 출격에 모모 씨를 따라서 같이 출격하는 모양이더라구요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_67].Script
+msgid "はい、ネオディムさんです。&n彼女も今回の捜索でモモさんと一緒に出撃するみたいですよ？"
+msgstr ""
+
+#  Korean Text: '순수하게 모모 씨를 돕고 싶어서 지원했다고 들었는데...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_68].Script
+msgid "純粋にモモさんを助けたいから志願したとのことですが…"
+msgstr ""
+
+#  Korean Text: '네오딤 씨도 친구가 많지는 않다고 들었어요. 말수도 적은 편이고...&n어때요? 이번 기회에 그녀와 한번 친해져 보는 건? 나쁘지 않죠?'
+#: DialogScript[DG_Ch01Ev3Stage02_1_69].Script
+msgid "ネオディムさんも友達があまりいないと聞きました。口数も少ないですし、&nどうですか？この機会に彼女と仲良くなるのは？悪くないと思うんですが？"
+msgstr ""
+
+#  Korean Text: '도움을 줄 생각은 있지만... 친해지고 싶어서 가는 건...'
+#: DialogScript[DG_Ch01Ev3Stage02_1_70].Script
+msgid "て、手助けはするが…別に仲良くなりたいわけでは…"
+msgstr ""
+
+#  Korean Text: '일단... 난 가보도록 하지.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_71].Script
+msgid "だが、とにかく…私も行く。"
+msgstr ""
+
+#  Korean Text: '이 일이 팬텀 씨에게 도움이 되었으면 좋겠네요.'
+#: DialogScript[DG_Ch01Ev3Stage02_1_72].Script
+msgid "ファントムさんのお役に立てたならいいんですが…。"
+msgstr ""
+
+#  Korean Text: '그럼... 전 사랑하는 동생들을 보러 가볼까요?&n다음엔... 친구와 같이 봐요. 팬텀 씨~!'
+#: DialogScript[DG_Ch01Ev3Stage02_1_73].Script
+msgid "では…私は愛しい妹たちに会いに行きましょうかね。&n次は…新しくできたお友達と一緒に話しましょうね、ファントムさん～！"
+msgstr ""
+
+#  Korean Text: '... 이름이 팬텀이었지? 무슨 일이야?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_3].Script
+msgid "…あなた、ファントム…だよね？どうしたの？"
+msgstr ""
+
+#  Korean Text: '이, 임무가 힘들다는 이야기를 들었다. 그래서...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_4].Script
+msgid "に、任務が大変だと聞いている。それで…"
+msgstr ""
+
+#  Korean Text: '응? 딱히...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_5].Script
+msgid "ん？ 別に、大変じゃない…"
+msgstr ""
+
+#  Korean Text: '아... 아니다. 아무래도 방해를 한 것 같군. 미안... 하다.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_6].Script
+msgid "そ、そうか…どうやら邪魔したみたいだな。すまない…"
+msgstr ""
+
+#  Korean Text: '음? 뭐가... 미안해?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_7].Script
+msgid "どうして、謝る…の？"
+msgstr ""
+
+#  Korean Text: '으, 응? 그게...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_8].Script
+msgid "う、ううん？そ、それは…だな"
+msgstr ""
+
+#  Korean Text: '알 것 같아. 팬텀은 내가 불편한 거야? 레이시가 그랬어. 불편한 사람끼리 있으면&n어색해진다고. 난 팬텀이 불편하지 않으니까 팬텀은 내가 불편한 거겠지.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_10].Script
+msgid ""
+"知ってる。ファントムは私が苦手？&n苦手な人と話すときはぎこちなくなるって…。レイシーが言ってた。&n私はファントムが苦手じゃ…ない。でもファントムは私が苦"
+"手。"
+msgstr ""
+
+#  Korean Text: '아, 아니, 그렇진 않다. 난 그저...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_11].Script
+msgid "い、いや、違う。私はただ…"
+msgstr ""
+
+#  Korean Text: '그저?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_12].Script
+msgid "ただ？"
+msgstr ""
+
+#  Korean Text: '윽... 모르겠다. 무슨 말을 해야 하는지. ... 미안하다.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_13].Script
+msgid "わから…ない。何を言えばいいのか。…すまない"
+msgstr ""
+
+#  Korean Text: '팬텀은 내게... 사과를 많이 하는구나?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_14].Script
+msgid "ファントムは私に…謝ってばかり。"
+msgstr ""
+
+#  Korean Text: '아, 혹시 팬텀은 모모를 돕고 싶은 거야?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_17].Script
+msgid "もしかして、ファントムは、捜索を手伝いたい…の？"
+msgstr ""
+
+#  Korean Text: '... 그게...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_18].Script
+msgid "…それは…"
+msgstr ""
+
+#  Korean Text: '난 모모를 돕고 싶어서 왔어. 사령관도 허락해 줬고.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_19].Script
+msgid "私はモモの手伝いをしに来た。司令官も許してくれた…の。"
+msgstr ""
+
+#  Korean Text: '모모랑 아는 사이였나?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_20].Script
+msgid "モモとは、知り合いなのか？"
+msgstr ""
+
+#  Korean Text: '응. 언젠가 모모는 노래를 잘 들어주고... 노래도 가르쳐 주니까.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_21].Script
+msgid "うん。いつも私の歌を…聞いてくれる。歌を…教えてくれる。"
+msgstr ""
+
+#  Korean Text: '친구야. 모모는.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_22].Script
+msgid "モモは、友達。"
+msgstr ""
+
+#  Korean Text: '친... 구?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_23].Script
+msgid "友…達…？"
+msgstr ""
+
+#  Korean Text: '그렇군...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_24].Script
+msgid "そ、そうか…"
+msgstr ""
+
+#  Korean Text: '저기... 네오딤?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_25].Script
+msgid "なぁ…ネオディム。"
+msgstr ""
+
 #  Korean Text: '응. 듣고있어.'
 #: DialogScript[DG_Ch01Ev3Stage02_2_26].Script
-msgid "うん。何だ？"
+msgid "うん。何？"
+msgstr ""
+
+#  Korean Text: '나, 난 노래를 모른다. 다만...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_27].Script
+msgid "わ、私には歌の芸はない。しかし…"
+msgstr ""
+
+#  Korean Text: '다만?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_28].Script
+msgid "しかし？"
+msgstr ""
+
+#  Korean Text: '노래를... 듣는 일엔... 자신이 있을 지도...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_29].Script
+msgid "き、聞き耳を立てることには…自信がある…"
+msgstr ""
+
+#  Korean Text: '그럼... 우린 친...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_30].Script
+msgid "だから…私たちも、と、ととととも…"
+msgstr ""
+
+#  Korean Text: '모두 여기 계셨군요!?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_31].Script
+msgid "みなさん！ここにいたんですね！？"
+msgstr ""
+
+#  Korean Text: '켈베로스님이 백토의 흔적을 찾았대요! 같이 보러 가요!'
+#: DialogScript[DG_Ch01Ev3Stage02_2_32].Script
+msgid "ケルベロスさんが白兎ちゃんの痕跡を見つけたみたいです！一緒に行きましょう！"
+msgstr ""
+
+#  Korean Text: '응. 갈게.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_33].Script
+msgid "うん。行く。"
+msgstr ""
+
+#  Korean Text: '... 팬텀? 아까 하려던 말... 뭐야? 노래를 듣는 거 좋아해? 그런데 친... 다음은? 뭐야?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_34].Script
+msgid "…あ、ファントム？続き、言って？聞き耳？それで、と、とととともって何？"
+msgstr ""
+
+#  Korean Text: '아, 아무것도 아니다... 아무것도...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_35].Script
+msgid "な、何でもない…何でも…"
+msgstr ""
+
+#  Korean Text: '네오딤은 먼저 가 있도록... 난... 따로 가져갈게 있어서...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_36].Script
+msgid "ネオディムは先に行っててくれ。私には…他に用意するものがある…"
+msgstr ""
+
+#  Korean Text: '응. 모모는 내가 돕고 있을게. 조심해서 와.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_38].Script
+msgid "うん。モモのことは…任せて…。気をつけてね。"
+msgstr ""
+
+#  Korean Text: '크윽... 거의 다 됐었는데...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_39].Script
+msgid "くっ…あと一歩だったのに…"
 msgstr ""
 
 #  Korean Text: '아아.'
@@ -5695,17 +6847,370 @@ msgstr ""
 msgid "ああ。"
 msgstr ""
 
+#  Korean Text: '왜 숨어서 저길 보는 거야? 아하! 혹시 보물을 찾으면 그걸 가로채려고 하는 거야?&n해적? 워울프의 동료야?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_41].Script
+msgid "そんなところに隠れて何見てるの？まさかお宝の横取り！？&n海賊！？ウェアウルフの仲間なの！？"
+msgstr ""
+
+#  Korean Text: '응? 넌... 트리아이나?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_42].Script
+msgid "うん？お前は…トリアイナか。"
+msgstr ""
+
+#  Korean Text: '후후... 잡았다. 요놈.&n모른 척해봐야 내 눈은 속일 수 없다구.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_43].Script
+msgid "ふっふっふっ…。ふーん？&n私の目は誤魔化せないんだから。"
+msgstr ""
+
+#  Korean Text: '음모도 탐험의 일종이니... 음모를 꾸미는 팬텀을 도와주는 셈 치고,'
+#: DialogScript[DG_Ch01Ev3Stage02_2_44].Script
+msgid "陰謀もまた冒険活動だからね…。ボウカツしてるファントムを助けるとしますか！"
+msgstr ""
+
+#  Korean Text: '이 트리아이나가 동료가 되어주지. 참고로 분배는 6:4야.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_45].Script
+msgid "このトリアイナさんが仲間になってあげよう！横取りの分配は６：４ね？"
+msgstr ""
+
+#  Korean Text: '아, 아니. 뭔가 오해한 것 같은데...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_46].Script
+msgid "ボウカツ！？…違う。お前は何か勘違いをしている。"
+msgstr ""
+
+#  Korean Text: '난 해적이 아니다... 약탈할 생각도...'
+#: DialogScript[DG_Ch01Ev3Stage02_2_47].Script
+msgid "私は海賊などではない…横取りする気も…"
+msgstr ""
+
+#  Korean Text: '크윽. 퇴각, 퇴각한다.'
+#: DialogScript[DG_Ch01Ev3Stage02_2_48].Script
+msgid "くっ…退却。退却する。"
+msgstr ""
+
+#  Korean Text: '어... 잠깐 기다려! 팬텀? 팬텀?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_49].Script
+msgid "え？ま、待ってよ！ファントム？ファントム！？"
+msgstr ""
+
+#  Korean Text: '... 어? 어째서? 역시... 분배 비율은 5:5로 해야 했나?'
+#: DialogScript[DG_Ch01Ev3Stage02_2_50].Script
+msgid "…え？なんで？やっぱり分配は５：５が良かったかな…"
+msgstr ""
+
 #  Korean Text: '모모의 연락'
 #: DialogScript[DG_Ch01Ev3Stage03_1_1].BG_Description
 msgid "モモの連絡"
+msgstr ""
+
+#  Korean Text: '- 모모에게서 '백토'의 흔적을 찾았다는 반가운 소식을 들을 수 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_1].Script
+msgid "- モモから「白兎」の痕跡を見つけたという良いニュースが入った。"
+msgstr ""
+
+#  Korean Text: '- 순조로운 진행 덕분일까? 화면에 비친 모모 일행은 하나같이 밝게 웃고 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_2].Script
+msgid "- 捜索が順調に進んでいるおかげか、モニターに映るモモたちは笑顔だ。"
+msgstr ""
+
+#  Korean Text: '네! 사령관님. 잘 들리세요?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_3].Script
+msgid "司令官！聞こえますか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_3].SelectionIndex[1]
+msgid "聞こえてる。現在地は？"
+msgstr ""
+
+#  Korean Text: '최초 탐색 구역에서 멀리 떨어지지 않은 곳이에요.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_4].Script
+msgid "最初の捜索区域からそう離れていないところです。"
+msgstr ""
+
+#  Korean Text: '정말 고마워요. 사령관님.&n사령관님이 확장 수색을 허락해 주셔서 이렇게 찾을 수 있었어요.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_5].Script
+msgid "本当にありがとうございます、司令官。&n司令官が捜索続行を許してくださったので、やっと見つけることができました！"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev3Stage03_1_5].SelectionIndex[1]
 msgid "そうか、そうか。"
 msgstr ""
 
+#  Korean Text: '보세요! 백토가 여길 지나갔었나 봐요.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_6].Script
+msgid "見てください！白兎ちゃんがここを通ったみたいです。"
+msgstr ""
+
+#  Korean Text: '사령관님? 사령관님도 이 자국이 보이시나요?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_7].Script
+msgid "司令官？司令官にもこの痕が見えますか？"
+msgstr ""
+
+#  Korean Text: '- 모모가 가리킨 나무에는 깊게 팬 자국들이 여기저기 나 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_8].Script
+msgid "- モモが指差す木には、深く切り刻まれた痕が所々にあった。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_8].SelectionIndex[1]
+msgid "これは…チェーンソーの痕かな？"
+msgstr ""
+
+#  Korean Text: '우와~! 백토가 여기서 '핑크 문 라이트'를 사용했나 봐요!'
+#: DialogScript[DG_Ch01Ev3Stage03_1_9].Script
+msgid "うわ～！白兎ちゃんがここで「ピンクムーンライト」を使ったみたいです！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_9].SelectionIndex[1]
+msgid "チェーンソーの痕に…見えるけど？"
+msgstr ""
+
+#  Korean Text: '매지컬 핑크 문 라이트. 백토가 가장 아끼는 마술 봉이죠.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_10].Script
+msgid "ピンクムーンライト。…白兎ちゃんが大事にしているマジカルステッキなんです。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_10].SelectionIndex[1]
+msgid "だから、チェーンソー…"
+msgstr ""
+
+#  Korean Text: '핑크 문 라이트~! 매지컬을 붙여서 불러주시면 마력이 더 강해진답니다?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_11].Script
+msgid "ピンクムーンライト！です！マジカルをつけたらもっと魔力が強くなるんですよ？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_11].SelectionIndex[1]
+msgid "そうね…ピンクムーンライト…"
+msgstr ""
+
+#  Korean Text: '... 모모는 바빠. 사령관도...'
+#: DialogScript[DG_Ch01Ev3Stage03_1_12].Script
+msgid "…モモはなんだか凄いね…。司令官も…うん…"
+msgstr ""
+
+#  Korean Text: '닥터는 무슨 생각 하고 있어?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_14].Script
+msgid "ドクターは何を考えているの？"
+msgstr ""
+
+#  Korean Text: '으음... 있지~ 언니 언니.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_15].Script
+msgid "ねぇ、お姉ちゃんお姉ちゃん！"
+msgstr ""
+
+#  Korean Text: '난 언니 의견이 듣고 싶어.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_16].Script
+msgid "私はお姉ちゃんの意見が聞きたいんだけど～。"
+msgstr ""
+
+#  Korean Text: '언니는 이 세상에 마법이 있다고 생각해?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_17].Script
+msgid "ネオディムお姉ちゃんはこの世界に魔法はあると思う？"
+msgstr ""
+
+#  Korean Text: '... 마법? 그건 갑자기 왜?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_18].Script
+msgid "…魔法？いきなりどうして…？"
+msgstr ""
+
+#  Korean Text: '히히. 만약에 말야... 마법이 진짜 있다면, 그걸 분석한 뒤에 뭘 좀 할 생각이야.&n지금 그 마법이 담긴 물품을 좀 찾고 있거든?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_19].Script
+msgid "えへへ、もし魔法が本当にあるならね？&nそれを調べて、やりたいことがあるんだよね～。&nだから魔法が込められた品を探してるんだ！"
+msgstr ""
+
+#  Korean Text: '으~! 상상만 해도 너무 좋다~.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_20].Script
+msgid "う～！想像するだけでもワクワクする～！"
+msgstr ""
+
+#  Korean Text: '... 난 마법 같은 건 없다고 배웠어. 그냥 미신이라고...'
+#: DialogScript[DG_Ch01Ev3Stage03_1_21].Script
+msgid "…私は魔法なんてないと思う…。ただの迷信だって…"
+msgstr ""
+
+#  Korean Text: '우음, 안 돼 안 돼 언니.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_22].Script
+msgid "え～？ダメだよ、お姉ちゃん"
+msgstr ""
+
+#  Korean Text: '참고로 과학의 탐구자는 편견이 없어야 한다구.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_23].Script
+msgid "科学の研究者たる者、偏見は捨てないとね！"
+msgstr ""
+
+#  Korean Text: '그래?&n... 닥터가 그렇다면 다시 한번 생각해 볼게.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_24].Script
+msgid "そうなの？&n…ドクターがそう言うなら、考え直してみるよ。"
+msgstr ""
+
+#  Korean Text: '그런데. 닥터는 마법의 힘을 얻으면 뭘 하고 싶은 거야?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_25].Script
+msgid "それで、ドクターは魔法があったとして…何をしたいの？"
+msgstr ""
+
+#  Korean Text: '난 있지, 마법을 다룰 수 있게 되면&n오빠의 정신을... 조종해서 날 어른으로 생각하게... 흐흐흐.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_26].Script
+msgid "私？私は魔法が使えたらね～&nお兄ちゃんの精神を操って私の事が大人の女に見えるように…ひひひひ…"
+msgstr ""
+
+#  Korean Text: '미리 말하면 재미없으니까, 여기까지만 할래.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_27].Script
+msgid "先に言っちゃったら面白くないから、ここまでにしとく。"
+msgstr ""
+
+#  Korean Text: '닥터는 어른이 되고 싶은 거야?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_28].Script
+msgid "ドクターは、大人になりたいの？"
+msgstr ""
+
+#  Korean Text: '당연하지. 오빠는 이 천재를 계속 어린애처럼 대한다구!&n어른이라면 좀 더 '히힛'하게 대할 텐데... 워울프나 알렉산드라 언니를 대하는 것처럼 말야.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_29].Script
+msgid ""
+"当たり前だよ～？お兄ちゃんはこの天才をいつまでも子供扱いするんだよ！&n大人ならもっと「ぐへへ」なことできるんだから…&nウェアウルフやアレクサンドラお姉ち"
+"ゃんみたいに。"
+msgstr ""
+
+#  Korean Text: '사령관? 듣고 있어?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_30].Script
+msgid "司令官…聞いてる？"
+msgstr ""
+
 #: DialogScript[DG_Ch01Ev3Stage03_1_30].SelectionIndex[1]
 msgid "うん？どうした？"
+msgstr ""
+
+#  Korean Text: '응? 왜 갑자기 통신기를...&n설마? 안돼 언니! 그러지 마~.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_31].Script
+msgid "ふぇえ？なんでいきなり通信！？…まさか！？ &nだ、ダメだよお姉ちゃん！や～め～て～！"
+msgstr ""
+
+#  Korean Text: '사령관은 어른이 좋아?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_32].Script
+msgid "司令官は、大人…好き？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_32].SelectionIndex[1]
+msgid "ん…？"
+msgstr ""
+
+#  Korean Text: '- 질문의 맥락을 전혀 알 수 없다. 갑자기 이 이야기가 왜...'
+#: DialogScript[DG_Ch01Ev3Stage03_1_33].Script
+msgid "- 質問の意味が分からない。いきなり何の話だ？"
+msgstr ""
+
+#  Korean Text: '우음... 그걸 이야기하면 어떡해?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_34].Script
+msgid "うーん…それ言っちゃったか…。はぁ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_34].SelectionIndex[1]
+msgid "ドクター、どういう事か説明してくれ"
+msgstr ""
+
+#  Korean Text: '칫. 이게 다 오빠 때문이야. 오빠가 어른 언니들만 좋아하니까...&n저번에도 알렉산드라 언니랑, 마리 언니랑 문 잠그고 셋이서만 놀았으니까...'
+#: DialogScript[DG_Ch01Ev3Stage03_1_35].Script
+msgid ""
+"全部お兄ちゃんが悪いんだから！お兄ちゃんが大人のお姉ちゃんばかり構うから…。&nこの前もアレクサンドラお姉ちゃん、マリーお姉ちゃんと三人で、&nお部屋に鍵を"
+"かけて何かしてたでしょ…？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_35].SelectionIndex[1]
+msgid "そ…それをどこで…"
+msgstr ""
+
+#  Korean Text: '- 세 명의 시선이 꽂힌다. 특히, 네오딤의 순진한 시선이 아프다.&n제길, 그걸 어떻게 안 거지?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_36].Script
+msgid "- 三人の視線が痛い…。特にネオディムの純真無邪気な眼差しが痛い。&nクソ、なんでバレた！？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_36].SelectionIndex[1]
+msgid "そ、それはだな…？"
+msgstr ""
+
+#  Korean Text: '사령관은 어른이 좋아? 네오딤도 어른이야. 사령관, 네오딤도 좋아하지?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_37].Script
+msgid "司令官は…大人が好き？ネオディムも大人。司令官…ネオディムも好き？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_37].SelectionIndex[1]
+msgid "も、もちろんさ"
+msgstr ""
+
+#  Korean Text: '닥터님, 사령관님은 어른만 좋아하는 건 아니에요.&n저 모모는 마법의 힘으로 사령관님께 사랑받을 수 있었던걸요?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_38].Script
+msgid "ドクターちゃん？司令官は大人だけが好きなわけではありませんよ？&nこのモモだって魔法の力でいっぱい愛されましたから。"
+msgstr ""
+
+#  Korean Text: '그렇죠? 사령관님?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_39].Script
+msgid "ですよね？司令官？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_39].SelectionIndex[1]
+msgid "もちろんドクターが言ってる愛とはちょっと違うぞ～"
+msgstr ""
+
+#  Korean Text: '그렇죠?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_40].Script
+msgid "ね？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_40].SelectionIndex[1]
+msgid "そう…だね"
+msgstr ""
+
+#  Korean Text: '정말? 모모 언니 말이 사실이야? 오빠, 어른이 아니라도 상관없는 거지?&n어린아이도 사랑하는 거지?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_41].Script
+msgid "本当？モモお姉ちゃんの話って本当なの？お兄ちゃんは、大人じゃなくてもいいの？&n子供が大好きなの！？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_41].SelectionIndex[1]
+msgid "い、いや…その…それだと語弊が…"
+msgstr ""
+
+#  Korean Text: '물론이죠! 마법의 힘은 모든 걸 가능하게 하니까요.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_42].Script
+msgid "もちろんです！魔法の力はすべてを可能にします！！"
+msgstr ""
+
+#  Korean Text: '나도 마법을 써서 오빠한테 사랑받을래!&n마법은 어떻게 쓰는 거지? 정신 조작 마법도 잘 알아?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_43].Script
+msgid "私も魔法の力でお兄ちゃんに愛されたいなぁ～！&n魔法はどうやって使うの？精神操作魔法も使える？"
+msgstr ""
+
+#  Korean Text: '- 대답을 잘 해야 한다. 닥터의 말은 큰 오해를 불러일으킬 수 있다. &n게다가... 닥터의 발달된 과학 기술은 마법이나 다름없다.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_44].Script
+msgid ""
+"- "
+"よく考えて返事しないといけない…。&nドクターに間違った返事をすればさらに大きな誤解を招く恐れがある。&nそれに…ドクターの発達した高度な科学技術はもはや魔"
+"法と言っても過言ではない…。"
+msgstr ""
+
+#  Korean Text: '- 일이 더 커지기 전에...'
+#: DialogScript[DG_Ch01Ev3Stage03_1_45].Script
+msgid "- ことが大きくなる前に…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_1_45].SelectionIndex[1]
+msgid "それより…今は白兎の件を…"
+msgstr ""
+
+#  Korean Text: '아! 맞아요! 모두 출발해 볼까요? 곧 있으면 백토를 만나게 될 텐데,&n백토를 보면 모두 환영해 주세요~.'
+#: DialogScript[DG_Ch01Ev3Stage03_1_46].Script
+msgid "あぁ！そうでした！みなさん、行きましょう！もうすぐ白兎ちゃんに会えますから、&nみんなで歓迎してくださいね！"
+msgstr ""
+
+#  Korean Text: '맞아! 백토 언니도 마법을 쓴댔지? 잘 됐어! 물어볼 게 산더미 같은걸?'
+#: DialogScript[DG_Ch01Ev3Stage03_1_47].Script
+msgid "そうだ！白兎お姉ちゃんも魔法を使えるって言ってたね！良かった！聞きたいことが山ほどあるんだ～！"
+msgstr ""
+
+#  Korean Text: '세상엔 재밌는 게 많아서 너무 행복해~.&n오빠, 이제 날 사랑할 준비를 하고 있으라고!'
+#: DialogScript[DG_Ch01Ev3Stage03_1_48].Script
+msgid "世の中にはまだまだ面白い「未知」がいっぱいでとっても幸せ～&nお兄ちゃんは戻ったら私を愛する準備をしているように！"
+msgstr ""
+
+#  Korean Text: '... 이번엔 낄 수 있을 것 같았는데...'
+#: DialogScript[DG_Ch01Ev3Stage03_1_50].Script
+msgid "…今度は混ざれそうだったのに…"
 msgstr ""
 
 #  Korean Text: '백토를 발견한 모모일행'
@@ -5713,9 +7218,755 @@ msgstr ""
 msgid "ベクトを発見したモモ"
 msgstr ""
 
+#  Korean Text: '- 토끼 귀를 한 흑발의 소녀.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_1].Script
+msgid "- ウサギの耳を持つ黒髪の少女。"
+msgstr ""
+
+#  Korean Text: '- 그 소녀는 우리와 거리를 둔 채로 잔존한 철충들을 홀로 때려 부수고 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_2].Script
+msgid "- その少女はオルカと合流しないまま、たった一人で鉄虫の残存勢力と戦っていた。"
+msgstr ""
+
+#  Korean Text: '- 아무래도, 저 소녀는 섣불리 다가올 생각이 없는 것 같다.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_3].Script
+msgid "- どうやら、その少女からこちらに近づいてくる気はないようだった。"
+msgstr ""
+
+#  Korean Text: '- 모모가 그렇게 찾던 그 소녀. 저 소녀가 그 백토인가?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_4].Script
+msgid "- モモがあれほど探していた少女。この少女がその「白兎」なのだろうか？"
+msgstr ""
+
+#  Korean Text: '여깄었구나! 정말... 정말 오랜만이야 백토!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_5].Script
+msgid "ここにいたんだね。本当に…&n本当に久しぶり…、白兎ちゃん！"
+msgstr ""
+
+#  Korean Text: '... 모모?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_6].Script
+msgid "…モモ？"
+msgstr ""
+
+#  Korean Text: '다친 곳은? 몸은 괜찮아? 그동안 싸우느라 힘들었지?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_7].Script
+msgid "怪我はない？大丈夫？今まで独りで戦って…大変だったよね？"
+msgstr ""
+
+#  Korean Text: '멈춰, 다가오지 마!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_8].Script
+msgid "止まって。私に近づかないで！"
+msgstr ""
+
+#  Korean Text: '백토? 왜... 그래?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_9].Script
+msgid "白兎ちゃん？な…なんで？"
+msgstr ""
+
+#  Korean Text: '문! 라이트!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_11].Script
+msgid "ムーン…！ライト！！"
+msgstr ""
+
+#  Korean Text: '매, 매지컬! 파워~! 디텍트 매직!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_12].Script
+msgid "マ…マジカルパワ～！ディテクトマジック！"
+msgstr ""
+
+#  Korean Text: '백토...?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_14].Script
+msgid "白兎ちゃん…？"
+msgstr ""
+
+#  Korean Text: '... 난 아직 네가 진짜 매지컬 모모인지 확신이 서지 않아.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_15].Script
+msgid "…私には、まだ君が本物のマジカルモモなのか確信が持てない…。"
+msgstr ""
+
+#  Korean Text: '- 예상과 달리, 분위기가 심상치 않다. 두 사람 사이에 무슨 문제라도 있는 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_16].Script
+msgid "- 予想とは違い、穏やかではない雰囲気…。今のやり取りで二人の間に何か問題があったんだろうか。"
+msgstr ""
+
+#  Korean Text: '헤헤. 여태 백토 혼자서 싸우느라 많이 힘들었지?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_17].Script
+msgid "ふふ…。白兎ちゃん、今まで独りで戦ってきて大変だったよね？"
+msgstr ""
+
+#  Korean Text: '이젠 더 이상 '뽀끄루 대마왕'을 찾아다닐 필요 없어.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_18].Script
+msgid "もうこれ以上「ポックル大魔王」を探す必要はないんだよ？"
+msgstr ""
+
+#  Korean Text: '백토가 쫓던 '뽀끄루 대마왕'은 모두 연출된... 아니.&n허상의 존재야.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_19].Script
+msgid "白兎ちゃんが追っていた「ポックル大魔王」は全部演出された…ううん…空想の存在だよ…。"
+msgstr ""
+
+#  Korean Text: '마지막에 뽀끄루 대마왕이 가짜라는 게 밝혀졌으니,&n더 이상 백토 혼자서 헤맬 필요 없어.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_20].Script
+msgid "最後に戦ったポックル大魔王が偽者だって分かったから、&nもう独りで探さなくていいんだよ。"
+msgstr ""
+
+#  Korean Text: '이제 우리 마법소녀들은 힘을 합쳐서, 새로운 적과 맞서 싸워야만 해.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_21].Script
+msgid "私たち魔法少女は、新しく現れた敵と力を合わせて戦わないといけないの。"
+msgstr ""
+
+#  Korean Text: '역시... 그런가? 사악한 마법이 느껴지지 않아서 진짜 모모라고 생각했더니...&n뽀끄루가 허상이라고 했나?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_22].Script
+msgid "やはりそうなのね…。邪悪な魔力は感じないから本当のモモだと思っていたけど…&nポックルが空想の存在…？"
+msgstr ""
+
+#  Korean Text: '응! 그러니까 안심해.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_23].Script
+msgid "うん！そうだよ…！だからもう安心して！"
+msgstr ""
+
+#  Korean Text: '그랬군...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_24].Script
+msgid "そうか…"
+msgstr ""
+
+#  Korean Text: '미안하군. 모모. 난 너와 손을 잡을 수 없어.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_25].Script
+msgid "悪いけど…、モモ。君とは行けない。"
+msgstr ""
+
+#  Korean Text: '왜냐면 뽀끄루 대마왕은 아직 살아있고,&n넌 거짓말쟁이니까.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_26].Script
+msgid "何故ならポックル大魔王はまだ生きていて、&nモモは嘘をついているから！"
+msgstr ""
+
+#  Korean Text: '백... 토? 왜 그래...?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_27].Script
+msgid "白兎…ちゃん…？どうして…？"
+msgstr ""
+
+#  Korean Text: '그 눈빛은... 결국 너마저 세뇌된 건가?&n흥! 실망이군. 네 정신력이 이토록 약했다니...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_28].Script
+msgid "その目を見ればわかる…モモまで奴に洗脳されてしまって…。&nはぁ…残念…。君の心の強さがその程度だったなんて…。"
+msgstr ""
+
+#  Korean Text: '아쉽지만, 이야기는 여기까지야...&n더 들려줘 봐야 소용없겠지.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_29].Script
+msgid "残念だけど茶番はここまで…&nこれ以上話をしても無駄でしょう…。"
+msgstr ""
+
+#  Korean Text: '자, 잠깐만. 어딜 가려는 거야?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_30].Script
+msgid "え！？待って！どこに行く気なの！？"
+msgstr ""
+
+#  Korean Text: '... 네 말대로, 뽀끄루가 허상이라면.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_31].Script
+msgid "…君の言葉通り、ポックルが空想の存在だというのなら…"
+msgstr ""
+
+#  Korean Text: '나는 그 허상조차 베어내러 가야겠지...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_32].Script
+msgid "私が、その空想を切り捨てるまでだ…"
+msgstr ""
+
+#  Korean Text: '안돼! 같이 가 백토!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_33].Script
+msgid "ダメ！待ってよ、白兎ちゃん！"
+msgstr ""
+
+#  Korean Text: '사령관님?! 저 금방 다녀올게요!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_34].Script
+msgid "司令官！？ その…追いかけなくちゃ…！"
+msgstr ""
+
+#  Korean Text: '- ... 방금 무슨 일이 일이 있었지?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_35].Script
+msgid "- 俺は…いったい何を見せられていたんだ…？"
+msgstr ""
+
+#  Korean Text: '두 사람은... 무슨 이야기를 한 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_36].Script
+msgid "二人は…何を話していた…の？"
+msgstr ""
+
+#  Korean Text: '사령관은 알겠어?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_37].Script
+msgid "司令官…わかった？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_37].SelectionIndex[1]
+msgid "うーん…わからん…"
+msgstr ""
+
+#  Korean Text: '칫. 이번엔 마법을 볼 수 있을 줄 알았는데. 다들 그냥 가버렸어.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_38].Script
+msgid "今度こそ魔法が見られると思ったのにぃ～。二人とも行っちゃった。"
+msgstr ""
+
+#  Korean Text: '뭐, 어쨌든 백토 언니한텐 마이크로봇을 하나 붙여놨으니까, &n모모 언니가 추적하는 데 도움이 될 거야.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_39].Script
+msgid "まぁとりあえず白兎お姉ちゃんにはマイクロロボットをつけておいたから、&nモモお姉ちゃんが追跡するとき役立つと思うよ。"
+msgstr ""
+
+#  Korean Text: '오빠? 난 모모 언니 찾으러 갈게. 사랑의 마법을 잊지 마.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_40].Script
+msgid "お兄ちゃん？私はモモお姉ちゃんの手伝いに行ってくるね！愛の魔法の件、忘れないでね～！"
+msgstr ""
+
+#  Korean Text: '... 닥터도 가버렸어.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_41].Script
+msgid "…ドクターも行っちゃった。"
+msgstr ""
+
+#  Korean Text: '음... 나도 가야 해? 돕고 싶은데...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_42].Script
+msgid "あの…私も行っていい？お手伝いしたい…"
+msgstr ""
+
+#  Korean Text: '- 일단... 주위의 철충은 모두 사라진 상태다. 모모나 닥터에게 큰 위험은 없어 보인다.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_43].Script
+msgid "- 一応…周辺の鉄虫はすべて排除している。モモやドクターに危険が及ぶとは思えない。"
+msgstr ""
+
+#  Korean Text: '- 아무래도 대화에 서툰 네오딤이 큰 도움이 될 것 같지는 않고... &n모모와 백토에겐 풀어야 할 오해가 있는 것 같다.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_44].Script
+msgid "- 会話下手なネオディムが説得に役立つとは思えないが…&nモモと白兎の間には何か解消しないといけない誤解があるようだし…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_44].SelectionIndex[1]
+msgid "ちょっと待ってくれ"
+msgstr ""
+
+#  Korean Text: '기다려?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_45].Script
+msgid "え…待つの？"
+msgstr ""
+
+#  Korean Text: '그럼 뭐 할까? 사령관 어제 브라우니한테 배운 노래 불러줄까?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_46].Script
+msgid "じゃあ何してようか、司令官。&n昨日、ブラウニーに教えてもらった歌、歌ってあげる。"
+msgstr ""
+
+#  Korean Text: '기름에 튀긴 양파가 좋다네, 맛있으니까 양파가 좋다네.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_47].Script
+msgid "油で揚げた玉葱が好きなんじゃ～。美味しいから玉葱が好きなのじゃ～"
+msgstr ""
+
+#  Korean Text: '기름에 튀긴 양파가 좋다네, 양파가 좋다네, 양파가 좋다네.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_48].Script
+msgid "油で揚げた玉葱が好きなんじゃ～。玉葱が好きじゃ～ 玉葱が好き～なの～じゃ～"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_48].SelectionIndex[1]
+msgid "何だその歌は…"
+msgstr ""
+
+#  Korean Text: '브라우니가 가르쳐 줬어. 이 노래를 잘 부르면 사령관이 좋아할 거랬는데...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_49].Script
+msgid "ブラウニーが教えてくれた。&nこの歌を歌えば、司令官が喜ぶって、言ってたんだけど…"
+msgstr ""
+
+#  Korean Text: '다른 노래를 불러야 하나?&n무슨 노래를 부르면 사령관은 사랑해 줄 거야?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_50].Script
+msgid "別の歌がいいの？&nどんな歌を歌えば、司令官は私を愛してくれるの？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_50].SelectionIndex[1]
+msgid "お前…ちゃんと言葉の意味わかって言ってる？"
+msgstr ""
+
+#  Korean Text: '알고 있어. 어젯밤에 사령관 방에서 콘스탄챠가 사랑한다고 말하면서...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_51].Script
+msgid "わかってる。&n昨日の夜、司令官の部屋でコンスタンツァが愛してる言いながら愛してた…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_51].SelectionIndex[1]
+msgid "おいおいおい…アレを見てたのか！？どうやって！？"
+msgstr ""
+
+#  Korean Text: '브라우니가 시크릿 포인트를 가르쳐 줬어. 거기서 봤어.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_52].Script
+msgid "ブラウニーがシークレットポイントを教えてくれたの。そこで見てた。"
+msgstr ""
+
+#  Korean Text: '응? 왜 화내? 브라우니 잘못한 거야? &n... 혹시... 나도 잘못한 거?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_53].Script
+msgid "え…？なんで怒るの？ブラウニーはいけないことしてたの？&n…もしかして…私もいけないこと…した？"
+msgstr ""
+
+#  Korean Text: '- 어쩐지 네오딤의 눈에 걱정하는 빛이 떠오른다.&n브라우니 이 녀석... 이 순진한 아이한테 뭘 가르친 거야!'
+#: DialogScript[DG_Ch01Ev3Stage03_2_54].Script
+msgid "- ネオディムの目に心配の色が浮かぶ。&nブラウニーの奴め…こんな純粋な子になんてことを…！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_54].SelectionIndex[1]
+msgid "ネオディムは悪くない…"
+msgstr ""
+
+#  Korean Text: '정말? 아... 다행이다.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_55].Script
+msgid "本当？それなら…よかった。"
+msgstr ""
+
+#  Korean Text: '그럼 시크릿 포인트에 계속 가도...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_56].Script
+msgid "じゃあこれからもシークレットポイントで愛してるの見るね…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_56].SelectionIndex[1]
+msgid "それはダメだ"
+msgstr ""
+
+#  Korean Text: '... 안되는 거구나... 그런데 왜? 사랑하는데...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_57].Script
+msgid "…ダメなんだ…でも…どうして…？こんなにも愛してるのに…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_57].SelectionIndex[1]
+msgid "愛の話はもうここまでにしなさい"
+msgstr ""
+
+#  Korean Text: '... 사령관은 어려워.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_58].Script
+msgid "…司令官のケチ…。"
+msgstr ""
+
+#  Korean Text: '어흠...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_59].Script
+msgid "こ、こほん…"
+msgstr ""
+
+#  Korean Text: '응? 팬텀? 언제 왔어?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_60].Script
+msgid "うん？…ファントム？いつの間に来たの？"
+msgstr ""
+
+#  Korean Text: '보, 보고를 위해서 왔다. 사령관 각하, 일단, 모모와 백토는 이야기를 나누고 있습니다.&n닥터는... 무언가를 찾고 있는 것으로 보입니다.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_61].Script
+msgid "ほ、報告しに来た。司令官、モモと白兎は話し合うことになったようです…。&nドクターの方は…何か他の物を探しているようです。"
+msgstr ""
+
+#  Korean Text: '팬텀... 세 사람을 보고 왔구나.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_62].Script
+msgid "ファントム…あの三人を見ていてくれたんだね。"
+msgstr ""
+
+#  Korean Text: '다정하네.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_63].Script
+msgid "優しいね。"
+msgstr ""
+
+#  Korean Text: '다, 다정이라니! 무례, 무례한 소리군.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_64].Script
+msgid "や、優しいだと！？決して違う！そんなんじゃない！"
+msgstr ""
+
+#  Korean Text: '난 세 사람을 보호하는 입장에서...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_65].Script
+msgid "わ、私はただ三人に危険が及ばないようにだな…"
+msgstr ""
+
+#  Korean Text: '나도 보호하고 싶어. 지금이라도 가볼까?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_66].Script
+msgid "私も三人を守りたい。場所を教えて？行くから。"
+msgstr ""
+
+#  Korean Text: '아, 안돼! 넌... 뒤로 물러서 있어 여기를 떠나서는...&n그, 그래. 그들에게 방해가 될 거다. 여기에 일단...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_67].Script
+msgid "ああ！いや、ダメだ！お前は…行かなくていい。&nここを離れては…そ、そうだ。彼女たちの邪魔になる。ここで一旦…"
+msgstr ""
+
+#  Korean Text: '아... 방해구나…'
+#: DialogScript[DG_Ch01Ev3Stage03_2_68].Script
+msgid "…そうだよね…邪魔…だよね……"
+msgstr ""
+
+#  Korean Text: '... 미안... 그럼... 난 저기 가서 가만히 있을게.'
+#: DialogScript[DG_Ch01Ev3Stage03_2_69].Script
+msgid "…ごめんね…じゃあ…ここでじっとしているよ…"
+msgstr ""
+
+#  Korean Text: '잠깐... 큭! 어째서 또 나는...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_70].Script
+msgid "ま、待て！ちが…くっ…！どうしてまた私はっ…！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_70].SelectionIndex[1]
+msgid "…ネオディムが邪魔は言い過ぎたな"
+msgstr ""
+
+#  Korean Text: '그냥 좀 믿음직한 모습을 보여주고 싶었던 건데...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_71].Script
+msgid "ただちょっと頼もしい所を見せたかっただけなのに…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_71].SelectionIndex[1]
+msgid "もしかして…友達が欲しいのか？"
+msgstr ""
+
+#  Korean Text: '네... 네? 아, 아닙니다. 전사에게 그런 건...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_72].Script
+msgid "はい…。&n…はい！？ち、違います…！ただの戦士にそんなものなど…"
+msgstr ""
+
+#  Korean Text: '- 뭔가 아웃사이더의 느낌이 온다. 팬텀 이 아이는... 도대체 무엇을 원하는 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_73].Script
+msgid "- 前から思っていたが…一匹狼感がするんだよな…。&nいやボッチ感か？…ファントムは一体何がしたいんだ…。"
+msgstr ""
+
+#  Korean Text: '- 혹시... 네오딤을 보호하는 믿음직한 이미지로 다가가려고 한 건가?'
+#: DialogScript[DG_Ch01Ev3Stage03_2_74].Script
+msgid "- もしかして…ネオディムを守ってあげられるような&n頼もしい人みたいなイメージで友達になりたかったのか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_74].SelectionIndex[1]
+msgid "ネオディムに勝てる奴はそうそういないぞ"
+msgstr ""
+
+#  Korean Text: '네? 그 말은...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_75].Script
+msgid "はい？つまり…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage03_2_75].SelectionIndex[1]
+msgid "守る側として友達になるのはあまりいい手じゃないと思うぞ"
+msgstr ""
+
+#  Korean Text: '큭... 어째서... 나는...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_76].Script
+msgid "くっおぉぉ…なんで…私は…"
+msgstr ""
+
+#  Korean Text: '- 팬텀은 절규하고 있다. 뭐... 일단은 내버려 두고... &n부디... 백토와 모모의 일이 잘 해결돼야 할 텐데...'
+#: DialogScript[DG_Ch01Ev3Stage03_2_77].Script
+msgid "- ファントムが嘆いている…。まぁこっちは放っておいても大丈夫だろ…&nそれよりモモと白兎の話し合いの方が上手くいけばいいのだが…"
+msgstr ""
+
 #  Korean Text: '오르카로 복귀한 모모 일행'
 #: DialogScript[DG_Ch01Ev3Stage04_1_1].BG_Description
 msgid "オルカに復帰したモモ一行"
+msgstr ""
+
+#  Korean Text: '- 모모는 결국 백토를 쫓는데 실패하고, 풀이 죽어 오르카로 복귀했다.&n몇 년 만의 재회가 그런 식으로 깨져버려, 모모도 크게 상심했겠지.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_1].Script
+msgid "- モモは結局、白兎の説得に失敗して落ち込んだ姿でオルカに帰ってきた。&n数年ぶりの再会があんなのであれば、いくらモモでも傷つくだろう。"
+msgstr ""
+
+#  Korean Text: '- 어디선가 따뜻한 바람이 불더니, 레아가 나타나 모모를 다정하게 안아주었다.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_2].Script
+msgid "- どこからか暖かい風が吹いてレアが現れた。そしてモモを優しく抱きしめた。"
+msgstr ""
+
+#  Korean Text: '... 이제 어쩌죠? 백토가... 제 말을 믿지 않아요.&n자꾸 뽀끄루 대마왕이 철충들을 불러왔다고 하면서... 전 세뇌됐다고...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_3].Script
+msgid ""
+"…どうしたらいいんでしょう…白兎ちゃんがモモの言葉を信じてくれません…。&nずっとポックル大魔王が鉄虫を召喚したんだの一点張りで…モモは…！モモは洗脳なんて"
+"されてないのに…！"
+msgstr ""
+
+#  Korean Text: '저런... 가엾게도...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_4].Script
+msgid "モモさん…可哀そうに…"
+msgstr ""
+
+#  Korean Text: '저렇게 내버려 두면 백토가 위험할 텐데...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_5].Script
+msgid "このまま放っておいたら、白兎ちゃんが危ないのに…"
+msgstr ""
+
+#  Korean Text: '모모 씨? 그러면, 우리 이번에는 이렇게 해볼까요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_6].Script
+msgid "モモさん？私にいい考えがあります。"
+msgstr ""
+
+#  Korean Text: '네? 어떻게요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_7].Script
+msgid "え…？いい考え…？"
+msgstr ""
+
+#  Korean Text: '일단은... 우리가 백토 씨에게 맞춰 주는 거예요'
+#: DialogScript[DG_Ch01Ev3Stage04_1_8].Script
+msgid "先ずは私たちが白兎さんの話に合わせてあげます。"
+msgstr ""
+
+#  Korean Text: '그리고, 아주 조금씩... 백토씨의 행동을 변화시켜보는 거죠.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_9].Script
+msgid "そして、少しずつ…少しずつ…白兎さんの行動を変化させていきましょう。"
+msgstr ""
+
+#  Korean Text: '좋은 생각이에요. 하지만...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_10].Script
+msgid "いいアイデアだと思います…。でも…"
+msgstr ""
+
+#  Korean Text: '백토는 자신이 인정한 마법소녀들 외에는 전부 일반인들로 인식하고,&n아예 상대해주지 않을 거예요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_11].Script
+msgid "白兎ちゃんは、自分が認めた魔法少女以外はすべて一般人と認識するみたいで、&nまったく相手にしないんです…。"
+msgstr ""
+
+#  Korean Text: '그건 걱정 말아요. 제게 좋은 해결책이 있어요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_12].Script
+msgid "それも心配しないでください。良い考えがありますから。"
+msgstr ""
+
+#  Korean Text: '백토씨가 우릴 일반인처럼 여긴다면...&n우리가 마법소녀로 변신하면 되겠죠?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_13].Script
+msgid "白兎さんが魔法少女以外をただの一般人だと思うのなら…&n私たちが魔法少女に変身してしまえばいいんです！"
+msgstr ""
+
+#  Korean Text: '백토씨가 등장했던, '8월의 만월야' 기억하고 계시나요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_14].Script
+msgid "白兎さんが登場した「八月の満月夜」覚えていますよね？"
+msgstr ""
+
+#  Korean Text: '네? 네 물론이죠.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_15].Script
+msgid "え？はい、もちろんです。"
+msgstr ""
+
+#  Korean Text: '우리가 '8월의 만월야'의 새로운 4인조 마법 소녀가 되는 거예요!&n정말 멋지지 않나요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_16].Script
+msgid "私たちが「八月の満月夜」の新しい魔法少女の四人になればいいんです！&n素敵だと思いませんか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_16].SelectionIndex[1]
+msgid "……………は？"
+msgstr ""
+
+#  Korean Text: '레아님이... 새로운 마법소녀?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_17].Script
+msgid "レアさんが…新しい魔法少女？"
+msgstr ""
+
+#  Korean Text: '잠깐만요? &n레아? 레-아? 여기 질문있어요!'
+#: DialogScript[DG_Ch01Ev3Stage04_1_18].Script
+msgid "え？ちょっと待って？&nレア？レア？質問いい？"
+msgstr ""
+
+#  Korean Text: '네~. 뭐든지요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_19].Script
+msgid "は～い、何でも聞いてください？魔法少女ですから！"
+msgstr ""
+
+#  Korean Text: '아무리 생각해봐도 '4인조 마법 소녀'는 뭔가 이상한 것 같아...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_20].Script
+msgid "どう考えても四人の「魔法少女」っておかしくない？"
+msgstr ""
+
+#  Korean Text: '레아는 '마법 소녀'보다는 '마법 숙녀'에 가깝지 않나요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_21].Script
+msgid "レアは「魔法少女」っていうより「魔法熟女」って感じじゃないかと思いまーす！"
+msgstr ""
+
+#  Korean Text: '... 그렇게 생각할 수도... 있겠... 네요... 호호...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_22].Script
+msgid "…………そ、そのような見方も…あるかも…しれません…ね…おほほ…おほほほほ…"
+msgstr ""
+
+#  Korean Text: '- ... 순간 머리털이 곤두섰다. 그럴만한 다른 이유가 없다면 이 현상은 분명&n... '방전 현상'의 징조다.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_23].Script
+msgid "- …レアの髪が一瞬にして逆立つ。&nトリアイナの質問の他に理由がないなら、これはレアの「放電現象」の前触れだ。"
+msgstr ""
+
+#  Korean Text: '마법 레이디...? 아니야. &n흐음... 절충해서... 마법 학생? 아하하! 공부 잘할 것 같은 이름이야!'
+#: DialogScript[DG_Ch01Ev3Stage04_1_24].Script
+msgid "あわわわわ…魔法淑女…？違う～えーと…&n…魔法大学生？あはは～！頭良さそうだね！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_24].SelectionIndex[1]
+msgid "…トリアイナ、今すぐここから逃げろ…"
+msgstr ""
+
+#  Korean Text: '... 오... 이런...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_25].Script
+msgid "…そうさせてもらいまぁぁぁぁす！！"
+msgstr ""
+
+#  Korean Text: '휴우... 정말 고마워요 주인님. 저도 모르게 그만...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_27].Script
+msgid "こほん。…ありがとうございます、ご主人様。思わず我を忘れてしまい…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_27].SelectionIndex[1]
+msgid "どういたしまして"
+msgstr ""
+
+#  Korean Text: '저기, 레아님? 새로운 4인조 마법소녀 이야기를 계속해 주시겠어요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_28].Script
+msgid "あの、それでレアさん…？新しい魔法少女の話を続けてくださいますか？"
+msgstr ""
+
+#  Korean Text: '어머~ 내 정신 좀 봐... 후후... 미안해요 모모 씨... 그럼 다시 들려드릴게요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_29].Script
+msgid "あら～私ったらいけないいけない…ふふ…ごめんなさい、モモさん。&nでは話を続けますね。"
+msgstr ""
+
+#  Korean Text: '마법소녀... 모두가 동경하는 마법소녀.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_30].Script
+msgid "魔法少女…みんなの憧れ魔法少女。"
+msgstr ""
+
+#  Korean Text: '여기서 질문드릴게요. 마법소녀가 되려면 첫 번째로 무엇이 필요할까요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_31].Script
+msgid "はい、ここで問題。魔法少女になるために一番に必要なものとは何でしょう？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_31].SelectionIndex[1]
+msgid "…え？う～ん。"
+msgstr ""
+
+#  Korean Text: '네! 그것은 바로 정신력입니다!'
+#: DialogScript[DG_Ch01Ev3Stage04_1_32].Script
+msgid "はい！それは！強い心です！"
+msgstr ""
+
+#  Korean Text: '정답! 의심할 필요 없이 모모 씨는 최고의 마법소녀에요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_33].Script
+msgid "正解！疑う余地もなくモモさんは最高の魔法少女ですね。"
+msgstr ""
+
+#  Korean Text: '- 그랬군. 마법소녀라는 건 정신력이 요구되는 직업이었다.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_34].Script
+msgid "- なるほど。魔法少女っていうのは精神力が要求される職業だったな。"
+msgstr ""
+
+#  Korean Text: '자~ 그럼...! 두 번째로 필요한 건 무엇일까요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_35].Script
+msgid "さて、ではでは。二番目に必要なものは何でしょう？"
+msgstr ""
+
+#  Korean Text: '아~! 너무 쉬운 질문이군요. 정답은 고저스, 큐티한 복장이겠죠.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_36].Script
+msgid "あ～！ベリーイージーなクエスチョンですわね～。&n正解はゴージャスそしてキュートな衣装ですわ～。"
+msgstr ""
+
+#  Korean Text: '제가 맞췄죠? 후후...&n역~시~ 부띠끄에서 차를 홀짝이는 것보단, 이쪽이 훨씬 재밌겠군요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_37].Script
+msgid "私ので正解でしょう？ふふ…やっぱりブティックで一人ティータイムを楽しむより、&nここに来た方が楽しそうですわ～。"
+msgstr ""
+
+#  Korean Text: '오드리? 마침 잘 오셨어요. 급히 부탁드리고 싶은 게 있는데...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_38].Script
+msgid "オードリーさん？ちょうどいいところに来られました。急ぎでお願いしたいことがありまして…"
+msgstr ""
+
+#  Korean Text: '으흠~. 우리 사이에... 따분한 인사는 그만둬요.&n그보다... 부탁이랬죠? 어서... 불러주세요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_39].Script
+msgid "ノンノン。私たちの間で…そんな改まらなくてもいいですわ？&nそれより…お願いしたいことですか？さぁ、何なりとどうぞ？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_39].SelectionIndex[1]
+msgid "…話がさっぱり読めん"
+msgstr ""
+
+#  Korean Text: '늘 고마워요. 오드리. 그럼... 시작할게요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_40].Script
+msgid "いつもありがとうございます。オードリーさん。では…えっと…。"
+msgstr ""
+
+#  Korean Text: '우선... 제가 입을 거예요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_41].Script
+msgid "まずは…私たちの服です。"
+msgstr ""
+
+#  Korean Text: '으~흠~'
+#: DialogScript[DG_Ch01Ev3Stage04_1_42].Script
+msgid "ふ～む…"
+msgstr ""
+
+#  Korean Text: '그리고, 토끼와 관련된 전통 복장이에요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_43].Script
+msgid "そして、ウサギに関係のある伝統衣装です。"
+msgstr ""
+
+#  Korean Text: '으~흠~ 계속해요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_44].Script
+msgid "ふむふむ…続けてください？"
+msgstr ""
+
+#  Korean Text: '마지막으로... 마법이 들어가 있어야 해요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_45].Script
+msgid "最後に…魔法的な要素が入っていないといけません…。"
+msgstr ""
+
+#  Korean Text: '... 빙고.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_46].Script
+msgid "…ビンゴ。"
+msgstr ""
+
+#  Korean Text: '- 오드리는 가져온 이동식 옷장에서 옷을 한 벌 꺼냈다.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_47].Script
+msgid "- オードリーは携帯型クローゼットから服を一着取り出した。"
+msgstr ""
+
+#  Korean Text: '토끼를 연상시키는 클래식한 복장...&n주변의 시선을 당기고, 구경한 사람들의 마음에 열정을 불어넣는 매직!'
+#: DialogScript[DG_Ch01Ev3Stage04_1_48].Script
+msgid "ラビットを連想させるクラシックな服装…&n周りの視線を惹きつけて、見た者のハートにパッションを惹き起こす魔法！"
+msgstr ""
+
+#  Korean Text: '받으세요. 유얼즈~! 후후... 당신을 위해 준비했죠.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_49].Script
+msgid "どうぞ。ヒアユーアー！&nふふ…これはあなたのものですわ。"
+msgstr ""
+
+#  Korean Text: '- 이상하다. 저 옷은 내가 알던 마법소녀 복장과 너무 달랐다.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_50].Script
+msgid "- おかしいぞ。俺の知ってる魔法少女の衣装とは何もかも違う。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_51].SelectionIndex[1]
+msgid "モモもおかしいと思わないか？"
+msgstr ""
+
+#  Korean Text: '사령관님 말씀대로... 조금 다른 것 같긴 하지만. 저도 잘 모르니까. 음...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_52].Script
+msgid "司令官の仰る通り…ちょっと違うような気がしますけど…。&nでも私、ファッションのことはよくわからないです…うーん…"
+msgstr ""
+
+#  Korean Text: '- 마법소녀는 입을 다물고 말았다.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_53].Script
+msgid "- 魔法少女が諦めてしまった。"
+msgstr ""
+
+#  Korean Text: '후후 알고 있어요. 마법소녀 복장과는 조금 디퍼런트... &n이 옷은 과거 이 땅에 존재했던 명절에 입던 전통 의상을 모티브로 제작한 코스튬이죠.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_54].Script
+msgid ""
+"ふふ、知ってますわ？&n魔法少女とは少しディファレント…この服は過去、この地に存在した&nとある祝日の伝統衣装をモチーフにして制作したコスチュームですわ！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_54].SelectionIndex[1]
+msgid "伝統衣装？"
+msgstr ""
+
+#  Korean Text: '네. 과거의 자료를 좀 살펴보니 이곳의 사람들은 음력 8월의 보름달이 뜬 날, &n명절 파튀를 했다고 하더군요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_55].Script
+msgid "イエス！過去の資料を調べてみたら、この辺りの人々は旧暦八月の満月の夜に、&nホリデーパーティーをしていたみたいですね。"
+msgstr ""
+
+#  Korean Text: '그 전통 명절의 옷에 대해선 자료를 찾을 수가 없어서...&n달 토끼와 관련된 축제라는 점에 착안했죠. 여러 잡지에 나오는 코스튬을 보면...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_56].Script
+msgid ""
+"その祝日の伝統衣装に関する資料が見つからなくて…&n月のウサギと関係のある祭りという点に着目して作ってみましたわ。&n色んな雑誌、過去の画像データに見られる"
+"ことから…"
+msgstr ""
+
+#  Korean Text: '이 옷이 바로 이 땅의 명절 전통복으로 보여요. &n인스퍼레이션과 제 센스 모두를 동원해 복원한 트래디쇼날 클로스, 어떤가요?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_57].Script
+msgid ""
+"結論として、この服が祝日の伝統衣装に違いありません。&nインスピレーションと私のセンスをフルに使って復元したトラディショナルウェア、&nどうですか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage04_1_57].SelectionIndex[1]
+msgid "まぁ、いいんじゃないか？さ、さいこー"
+msgstr ""
+
+#  Korean Text: '후훗, 그럴 줄 알았어요.&n자~ 자~! 이러고 있을 시간이 없어요. 복장이 몇 벌 더 필요하다고 했었죠?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_58].Script
+msgid "ふふ、当たり前ですわ。さぁさぁ！時間がありませんわ。&n衣装は何着も要るでしょう？"
+msgstr ""
+
+#  Korean Text: '여기 계신 모두들? 제 부띠크로 초대할게요. 절 따라 오세요.'
+#: DialogScript[DG_Ch01Ev3Stage04_1_59].Script
+msgid "は～い、みなさん？私のブティックに招待いたしますわ。私についてきてください！"
 msgstr ""
 
 #  Korean Text: '저...'
@@ -5723,17 +7974,709 @@ msgstr ""
 msgid "そ、その…"
 msgstr ""
 
+#  Korean Text: '그 옷... 나도...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_61].Script
+msgid "その服…私も…"
+msgstr ""
+
+#  Korean Text: '예~! 4인조 마법 소녀면, 내가 박사 역할이겠네?'
+#: DialogScript[DG_Ch01Ev3Stage04_1_62].Script
+msgid "イェーイ！４人の魔法少女なら、私が博士のポジションだよね～！"
+msgstr ""
+
+#  Korean Text: '기다려 언니들~! 박사 여깄어요!'
+#: DialogScript[DG_Ch01Ev3Stage04_1_63].Script
+msgid "って、待ってよー！お姉ちゃんたちー！ドクターちゃんはここですよー！"
+msgstr ""
+
+#  Korean Text: '하아...'
+#: DialogScript[DG_Ch01Ev3Stage04_1_65].Script
+msgid "はぁ………"
+msgstr ""
+
+#  Korean Text: '아아... 이 죄 많은 몸...&n마는 또 다른 마를 부르고... 또 다른 마는 희생양을 찾는구나.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_1].Script
+msgid "あぁ…我は罪深き者だ…&n我が魔を呼び…魔はまた犠牲を求めるのだ…。"
+msgstr ""
+
+#  Korean Text: '백토, 너도 마에 이끌려 왔나?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_2].Script
+msgid "白兎よ、貴様も魔に誘われてきたか？"
+msgstr ""
+
+#  Korean Text: '그래. 여기서 끝을 내주겠다.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_3].Script
+msgid "そうかもしれない…。だけど、今日ここでお前に引導を渡す。"
+msgstr ""
+
+#  Korean Text: '네게 도망칠 곳 따윈 없어!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_4].Script
+msgid "お前にはもう…逃げ場はない！"
+msgstr ""
+
+#  Korean Text: '어리석은... 마를 보는 자는 마에 물들지 않도록 노력해야 하거늘...&n넌... 이미 마에 물들었구나.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_5].Script
+msgid "愚かな…魔を狩る者が魔に染まってしまったようだな…&n貴様は既に…我と同じで魔に染まりきっている…。"
+msgstr ""
+
+#  Korean Text: '날 미혹하려 해도 소용없다!&n달이여! 내게 마법의 힘을! 핑크 문 라이트!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_6].Script
+msgid "私を惑わそうとしても無駄だ！&n月よ！私に魔法の力を！ピンクムーンライト！"
+msgstr ""
+
+#  Korean Text: '... 아직 넌 나의 마에 맞설 시간이 아니야. '
+#: DialogScript[DG_Ch01Ev3Stage04_2_7].Script
+msgid "フン…今の貴様では、我の魔力の足元にも及ばぬわ…。"
+msgstr ""
+
+#  Korean Text: '난... 이만... 물러나지.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_8].Script
+msgid "…我は…興が削がれた…さらばだ！"
+msgstr ""
+
+#  Korean Text: '거기 서라! 뽀끄루 대마왕!!!!!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_9].Script
+msgid "待て！！ポックル大魔王！！！！！"
+msgstr ""
+
+#  Korean Text: '백토!!!!! 우리가 왔어!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_10].Script
+msgid "白兎ちゃん！私たちが来たよ！"
+msgstr ""
+
+#  Korean Text: '드디어 우린 미혹에서 깨어났어요!&n백토 씨! 우리가 새로운 마법소녀가 되어 함께 할께요!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_11].Script
+msgid "私たちようやくポックル大魔王の洗脳から目が覚めました！&n白兎さん！私たちも新しい魔法少女になって一緒に戦います！"
+msgstr ""
+
+#  Korean Text: '응? 너희는...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_12].Script
+msgid "うん？あなたたちは…"
+msgstr ""
+
+#  Korean Text: '훗... 그런가? 모모? 드디어 눈을 떴나?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_13].Script
+msgid "ふっ…そうか。モモ、ようやく目が覚めたのね。"
+msgstr ""
+
+#  Korean Text: '그, 그래. 눈을 떴어. 우리도 함께 싸울게.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_14].Script
+msgid "そ、そう…うん。目が覚めたよ。わ、私たちも一緒に戦うね！"
+msgstr ""
+
+#  Korean Text: '역시... 내 친우... 나와 영혼을 나눈 자매. 드디어 뽀끄루 대마왕의 마력에서 벗어났구나.&n자! 봐라! 뽀끄루! 네 계략은 모두 파쇄되었다!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_15].Script
+msgid "やっぱり…私の親友…魂を分けた姉妹。&nポックル大魔王の魔力に打ち勝つなんて！&nよし！見てるか！？ポックル！お前の企みは全て打ち砕かれた！"
+msgstr ""
+
+#  Korean Text: '이미 도망갔어요. 백토씨...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_16].Script
+msgid "すでに逃げてしまいましたよ…、白兎さん…"
+msgstr ""
+
+#  Korean Text: '큭... 비겁한... 어쨌든 반갑군. 내 이름은 백토. 문 래빗 족의 마지막 생존자이자 마법소녀다.&n넌... 그 복장은... 흐음... 어쩐지 문 래빗 족의 전통복과 닮았군.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_17].Script
+msgid ""
+"くっ…卑怯な…！兎に角、会えて嬉しい。&n私は魔法少女マジカル白兎。ムーンラビット族の最後の生き残りであり魔法少女です。&nあなたは…その服…なんだかムーン"
+"ラビット族の伝統衣装に似ている…。"
+msgstr ""
+
+#  Korean Text: '네? 넷! 저도 마법소녀가 되기로 결심을 했답니다.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_18].Script
+msgid "え？えっと！私も魔法少女になることを決心しました！"
+msgstr ""
+
+#  Korean Text: '마력은 그리 느껴지지 않는데... 하지만 마법소녀의 힘은 마음의 힘... &n마음이 굳센 자에겐 달의 축복이 함께 할 테니 그건 큰 문제가 아니야.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_19].Script
+msgid "魔力はそれほど感じられないけど…でも魔法少女の力は心の強さです…！&n心強き者には月の祝福があるはずです。魔力なんて大した問題じゃない。"
+msgstr ""
+
+#  Korean Text: '당신, 마법소녀로서의 진명은 무엇이지?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_20].Script
+msgid "あなた、魔法少女としての真名は何と言うの？"
+msgstr ""
+
+#  Korean Text: '저 전...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_21].Script
+msgid "わ、私は…"
+msgstr ""
+
+#  Korean Text: '어떡하죠? 모모 씨? 그것까진 준비를 안 했는데...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_22].Script
+msgid "どうしましょう、モモさん？そこまでは考えてませんでしたけど…"
+msgstr ""
+
+#  Korean Text: '그녀의 이름은 마법숙...아니 마법소녀 매지컬 레아야.&n새로운 시대의 세 번째 마법 소녀야.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_23].Script
+msgid "彼女は魔法淑…いえ魔法少女マジカルレア。&n新時代の三人目の魔法少女なの。"
+msgstr ""
+
+#  Korean Text: '그런가? 마법소녀가 재건되고 있다니... 기쁜 소식이군.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_24].Script
+msgid "そうなのですか。魔法少女が新たに誕生しただなんて…これは嬉しい。"
+msgstr ""
+
+#  Korean Text: '저... 그래서 말인데? &n백토, 넌 이다음은 어떻게 할 거야?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_25].Script
+msgid "あの…それでなんだけど…&n白兎ちゃん？この後、どうするつもりなの？"
+msgstr ""
+
+#  Korean Text: '당연히 뽀끄루 대마왕을 쫓아야지.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_26].Script
+msgid "当然ポックル大魔王を追うに決まってる。"
+msgstr ""
+
+#  Korean Text: '그래? 그럼 조금... 더 효과적으로 뽀끄루를 추격하지 않을래?&n새로 비밀 기지랑 사령관님이 생겨서...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_27].Script
+msgid "そう？ならもうちょっと…効率よくポックルを追いかけない？&nあのね？新しい秘密基地と司令官が…"
+msgstr ""
+
+#  Korean Text: '무슨 말인지 모르겠군.&n과거 뽀끄루에게 비밀기지도 파괴되었고 사령관 [c][ffd130]매직 젠틀맨[-][/c]도 행방불명 됐는데...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_28].Script
+msgid "何を言っているの？過去、ポックルに秘密基地も破壊され、&n司令官である「マジックジェントルマン」も行方不明になったはずでしょう…？"
+msgstr ""
+
+#  Korean Text: '이, 이번에 비밀 기지도 재건했고... 새로운 사령관님도 오셨거든...&n분명히 추격에 도움이 될 거야.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_29].Script
+msgid "こ、今回は秘密基地も再建できて…新しい司令官もいらっしゃったの…&nきっと追跡の役に立つと思うな～"
+msgstr ""
+
+#  Korean Text: '오오! [c][ffd130]매직 젠틀맨[-][/c]이 부활한 건가?&n정말 반가운 일이군! 이럴 때가 아냐. 모모! 안내해라! 새로운 [c][ffd130]매직 젠틀맨[-][/c]을 만나고 싶군.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_30].Script
+msgid ""
+"本当に！？[c][ffd130]マジックジェントルマン[-"
+"][/c]が復活したの！？それは本当に嬉しい…。&nこうしてはいられない。モモ、案内して！新しい「マジックジェントルマン」に会いたい…！"
+msgstr ""
+
+#  Korean Text: '정말? 다행이야!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_31].Script
+msgid "本当に？良かった！"
+msgstr ""
+
+#  Korean Text: '내가 안내해 줄게! 이쪽으로 와! 어서!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_32].Script
+msgid "私が案内してあげる！ついてきて！"
+msgstr ""
+
+#  Korean Text: '오우! 벌써 끝나버린 거야? 나는 빼놓고?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_34].Script
+msgid "お？もう終わっちゃったの？私抜きで！？"
+msgstr ""
+
+#  Korean Text: '정말... 왜 이렇게 늦으신거예요?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_35].Script
+msgid "もう…遅すぎます。何かあったんですか？"
+msgstr ""
+
+#  Korean Text: '이것 저것 준비좀 할게 있어서 그랬지.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_36].Script
+msgid "あれこれ準備してただけなんだけどなぁ。"
+msgstr ""
+
+#  Korean Text: '... 멋져. 완벽해.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_37].Script
+msgid "…素敵だ。そして完璧だ…。"
+msgstr ""
+
+#  Korean Text: '응? 뭐가요?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_38].Script
+msgid "はい？何がですか？"
+msgstr ""
+
+#  Korean Text: '백토... 몇 년이나 혼자 보냈는데도... 저렇게 당당하다니...&n게다가 아무렇지도 않게 친구와 이야기하고 있어.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_39].Script
+msgid "白兎…何年も独りで過ごしていたのに…あんなに堂々としていられるなんて…&nそれに何ともない顔で友達と話せてる。"
+msgstr ""
+
+#  Korean Text: '하하... 팬텀 씨 그건...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_40].Script
+msgid "ははは…ファントムさん、それは…ええと…"
+msgstr ""
+
+#  Korean Text: '엇! 내가 무슨 소리를...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_41].Script
+msgid "っ！？　私はいったい何を口走った…！？"
+msgstr ""
+
+#  Korean Text: '못난 꼴을 보였어!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_42].Script
+msgid "羞恥…！！"
+msgstr ""
+
+#  Korean Text: '... 오우… 그냥 가버렸네…'
+#: DialogScript[DG_Ch01Ev3Stage04_2_43].Script
+msgid "…おぅ…消えちゃった…"
+msgstr ""
+
+#  Korean Text: '저기, 레아? 팬텀은 언제쯤 친구들이랑 가깝게 지낼 수 있을까?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_44].Script
+msgid "ねぇ、レア？ファントムっていつになったらみんなと仲良くなれるのかな？"
+msgstr ""
+
+#  Korean Text: '후후, 그렇게 서두른다고 해결될 일이 아닌걸요.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_45].Script
+msgid "ふふ、そう急かしたっていいことありませんよ。"
+msgstr ""
+
+#  Korean Text: '뭐, 그건 레아 말이 맞는 것 같아.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_46].Script
+msgid "まぁそれはそうだけどさぁ。"
+msgstr ""
+
+#  Korean Text: '으와! 깜짝이야!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_48].Script
+msgid "おっと！ビックリした！"
+msgstr ""
+
+#  Korean Text: '당신은...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_49].Script
+msgid "あなたは…"
+msgstr ""
+
+#  Korean Text: '휴... 저곳에 숨어서 백토가 가기만 기다렸어요.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_50].Script
+msgid "はぁ…あそこに隠れて白兎が帰るのを待っていたんですよぉ。"
+msgstr ""
+
+#  Korean Text: '아무래도 당신들은 좀 이성적인 대화가 가능할 것 같아서요...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_51].Script
+msgid "あなたたちとは理性的に話し合えそうですから…出てきました。"
+msgstr ""
+
+#  Korean Text: '... 저희가 모르는 사정이 있는 것 같네요.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_52].Script
+msgid "…何か私たちの知らない事情があるようですね。"
+msgstr ""
+
+#  Korean Text: '... 네. 그것보다... 사령관이 있다는 이야기를 들었는데...&n절 그분께 혹시 인도해 주실 수 있나요?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_53].Script
+msgid "…はい。それより…司令官がいるって聞きましたけど…&n私をその方に案内していただけますか？"
+msgstr ""
+
+#  Korean Text: '그러고 보니... 당신도 바이오로이드였죠...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_54].Script
+msgid "そういえば…あなたもバイオロイドでしたね…"
+msgstr ""
+
+#  Korean Text: '네. 문제없어요. 저희가 주인님께 당신을 안내해 드릴게요.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_55].Script
+msgid "はい、問題ありませんよ。私たちがご主人様のところに案内します。"
+msgstr ""
+
+#  Korean Text: '그리고 가능하면 백토는 모르게... 해주셨으면...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_56].Script
+msgid "その…できれば白兎にバレないように内密に…お願いします…。"
+msgstr ""
+
+#  Korean Text: '후후. 당연하죠. 일단... 저를 따라오실래요?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_57].Script
+msgid "ふふ、分かりました。とりあえず…私についてきてください。"
+msgstr ""
+
+#  Korean Text: '아무래도 조용히 이야기를 좀 나누어야 할 것 같으니'
+#: DialogScript[DG_Ch01Ev3Stage04_2_58].Script
+msgid "どうやら静かな場所で話し合う必要がありそうですから。"
+msgstr ""
+
 #  Korean Text: '모모 일행의 복귀'
 #: DialogScript[DG_Ch01Ev3Stage04_2_60].BG_Description
 msgid "モモたちの復帰"
+msgstr ""
+
+#  Korean Text: '사령관님! 저희가 왔어요! 백토도...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_60].Script
+msgid "司令官！私たち帰ってきましたー！白兎ちゃんも…"
+msgstr ""
+
+#  Korean Text: '응? 당신이... 사령관 [c][ffd130]매직 젠틀맨[-][/c]...&n드디어 만나게 되었군... 인류가 멸망해 난 영원히 그대를 만나지 못할 줄 알았다.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_61].Script
+msgid ""
+"ん？あなたが…司令官[c][ffd130]マジックジェントルマン[-"
+"][/c]…ようやく会えました…。&n人類が滅亡して、私はあなたとはもう永遠に会えないのだとばかり思っていました。"
+msgstr ""
+
+#  Korean Text: '- 매직 젠틀맨? 그게 뭐지? 나는 맹렬히 머리를 굴리다 그게 마법소녀 물에 나왔던&n사령관의 칭호라는 것을 깨달았다.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_62].Script
+msgid "- マジックジェントルマン？何だそれ？俺は頭をフル回転させて、&nそれが魔法少女モノに出てくる司令官的な称号であることだと察した。"
+msgstr ""
+
+#  Korean Text: '난, 이날을 위해 살아온 것 같다. [c][ffd130]매직 젠틀맨[-][/c] &n잠깐 일어서줄 수 있나? 문 래빗의 방식으로 인사를 하고 싶은데?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_63].Script
+msgid ""
+"私はこの日を待ちわびて今まで生きていました…。&n[c][ffd130]マジックジェントルマン[-"
+"][/c]、立ってもらえますか？&nムーンラビット族のやり方で是非ご挨拶したいです…。"
+msgstr ""
+
+#  Korean Text: '- 큰일이다. 지금은 일어날 수 없는데. 이 위기를 넘겨야 한다.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_64].Script
+msgid "- マズい…！！！い、今は立てない！…こ、このピンチを抜け出さないとっ！！"
+msgstr ""
+
+#  Korean Text: '자, 문 래빗의 친애의 정을...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_65].Script
+msgid "早く、ムーンラビット族の親愛の誓いを…"
+msgstr ""
+
+#  Korean Text: '- 백토는 다가오고 있다. 잠깐... 이쪽으로 오는 건 곤란한데...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_66].Script
+msgid "- 白兎が近づいてくる。ちょっと待て…？&n…い、今近付かれると本当にヤバいんだが…"
+msgstr ""
+
+#  Korean Text: '어째서 일어나지 않지? [c][ffd130]매직 젠틀맨[-][/c]?&n설마... 나와 의식을 치르고 싶지 않은 건가?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_67].Script
+msgid "何故立たないのですか？[c][ffd130]マジックジェントルマン[-][/c]？&nまさか…私とは儀式をしたくないという事なのですか！？"
+msgstr ""
+
+#  Korean Text: '[c][57e137]쾅[-][/c]'
+#: DialogScript[DG_Ch01Ev3Stage04_2_68].Script
+msgid "[c][57e137]バン！[-][/c]"
+msgstr ""
+
+#  Korean Text: '윽!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_69].Script
+msgid "（きゃっ！）"
+msgstr ""
+
+#  Korean Text: '어떤 학생이 신성한 책상을 치는 거죠?&n선생님은 그런 것! 용서 못 해요!'
+#: DialogScript[DG_Ch01Ev3Stage04_2_70].Script
+msgid "いったい誰が神聖なる机を叩くのですか。&n先生…そんな生徒は許しませんよ？"
+msgstr ""
+
+#  Korean Text: '에? 알렉산드라 님? 어째서 그곳에서...'
+#: DialogScript[DG_Ch01Ev3Stage04_2_71].Script
+msgid "ええ！？アレクサンドラさん？どうして机の下から…？"
+msgstr ""
+
+#  Korean Text: '그... 아 네. 잠깐 책상 밑에 뭐가 좀 떨어져서 주우러 움직인 거예요.&n그것보다... 흐으응?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_73].Script
+msgid "その…あぁ…そう、ちょっと机の下にナニかが落ちていて拾っていただけです。&nそんなことより…ふーん？"
+msgstr ""
+
+#  Korean Text: '새로운 얼굴이네요?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_74].Script
+msgid "新顔ですね？"
+msgstr ""
+
+#  Korean Text: '... 어쩐지... 뽀끄루 수하의 릴림이 생각나는 얼굴이군.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_75].Script
+msgid "…なんだか…ポックルの手下のリリムを思わせる人相ですね…。"
+msgstr ""
+
+#  Korean Text: '백토. 아니야. 이 분은 이곳 기지 오르카의 교육 담당이자... 지휘관 중 한 분인&n알렉산드라라는 분이야.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_76].Script
+msgid "白兎ちゃん、違うの。この方はこのオルカの教育担当で…&n指揮官の一人でもあるアレクサンドラさんだよ。"
+msgstr ""
+
+#  Korean Text: '하긴... 내가 좀 예민했던 것 같군.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_77].Script
+msgid "…そうでしたか…私が少し過剰に反応してしまったようです…。"
+msgstr ""
+
+#  Korean Text: '후훗... 재미있군요. 어쨌든 새로운 학생 한 명의 등장인가요?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_78].Script
+msgid "ふふ…面白い子ですね。とにかく新しい生徒の登場ということで良いでしょうか？"
+msgstr ""
+
+#  Korean Text: '앞으로 이곳을 거점으로 악과 싸움을 시작할 마법소녀 백토다.&n잘 부탁하지.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_79].Script
+msgid "今後、ここを拠点に悪と戦うことになりました魔法少女マジカル白兎と言います。&nよろしくお願いします。"
+msgstr ""
+
+#  Korean Text: '저 역시요. 후훗.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_80].Script
+msgid "こちらこそ。ふふ…"
+msgstr ""
+
+#  Korean Text: '- 두 사람은 어쩐지 살벌한 눈빛을 주고받았다.&n어쨌든 알렉산드라의 순발력 있는 눈빛 덕분에 모모의 의심은 넘긴 것 같다.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_81].Script
+msgid ""
+"- 何故か二人は殺伐した視線を交わしている。&nとにかくアレクサンドラの咄嗟の言い訳と「それ以上聞くな」という目のお陰で、モモに疑われずに済んだようだ。"
+msgstr ""
+
+#  Korean Text: '헤헤.'
+#: DialogScript[DG_Ch01Ev3Stage04_2_82].Script
+msgid "ふふふふふふふー"
+msgstr ""
+
+#  Korean Text: '- 넘긴 건가?'
+#: DialogScript[DG_Ch01Ev3Stage04_2_83].Script
+msgid "- これは済んでないかも。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev3Stage04_2_84].Char_Name_L
 msgid "…"
 msgstr ""
 
+#  Korean Text: '[c][57e137]2부에 계속[-][/c]'
+#: DialogScript[DG_Ch01Ev3Stage04_2_84].Script
+msgid "[c][57e137]第２部へ続く[-][/c]"
+msgstr ""
+
+#  Korean Text: '그것보다… 알렉산드라 선생님, 책상 아래에서…'
+#: DialogScript[DG_Ch01Ev3Stage09_1_1].Script
+msgid "それでですね…アレクサンドラさん、さっき、机の下から…"
+msgstr ""
+
+#  Korean Text: '어머? 시간이 벌써 이렇게 됐네?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_2].Script
+msgid "あら、もうこんな時間？残念ですね。"
+msgstr ""
+
+#  Korean Text: '저는 가르쳐야 할 학생들이 남아있어서, 먼저 실례해도 괜찮겠죠? 주인님?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_3].Script
+msgid "私の授業を待っている生徒たちがいまして、お先に失礼してもよろしいでしょうか？ご主人様。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_3].SelectionIndex[1]
+msgid "ああ、もちろん…"
+msgstr ""
+
+#  Korean Text: '후후후... 자, 그럼... 모두들? 재미있고 유익한 시간을 보내시기를...'
+#: DialogScript[DG_Ch01Ev3Stage09_1_4].Script
+msgid "ふふふ…さて、みなさん？楽しく、そして有意義な時間をお過ごしを…"
+msgstr ""
+
+#  Korean Text: '- 영리한 알렉산드라는 모모에게 어떤 것도 물을 틈을 주지 않고 떠났다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_5].Script
+msgid "- 賢いアレクサンドラはモモに質問させる間も与えずに部屋を去った。"
+msgstr ""
+
+#  Korean Text: '- … 알렉산드라의 땀에 젖은 손이 내 손바닥을 스친다. &n쪽지…?! 이런 건 언제 써둔 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_6].Script
+msgid "- …アレクサンドラの汗で濡れた手が俺の手の平に一瞬触れた。&nそこには何と小さなメモが…！？こんなのいつの間に書いたんだ？&nあとで読もう…。"
+msgstr ""
+
+#  Korean Text: '알렉산드라? 학생? 혹시 이곳에서 교육을 맡고 있나? &n의심스럽군… 릴림과 너무나도 많이 닮았단 말이야?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_7].Script
+msgid "アレクサンドラと言いましたか？生徒？本当にここの教育担当なんですか？&n疑わしい…リリムとあまりにも似ています。"
+msgstr ""
+
+#  Korean Text: '으응… 아니야. &n알렉산드라 님은 정말 좋은 분이야… 백토야.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_8].Script
+msgid "ううん…違うよ。&nアレクサンドラさんは本当にいい人なの、白兎ちゃん。"
+msgstr ""
+
+#  Korean Text: '... 그래. 내가 지나치게 생각한 것 같군.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_9].Script
+msgid "…そう。私の考えすぎみたいね。"
+msgstr ""
+
+#  Korean Text: '아무튼, [c][ffd130]매직 젠틀맨[-][/c]? 다시 한번 문 래빗 일족을 대신하여 정식으로 인사하지.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_10].Script
+msgid "とにかく、[c][ffd130]マジックジェントルマン[-][/c]？&nもう一度ムーンラビット族に代わって正式にご挨拶させてほしい。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_10].SelectionIndex[1]
+msgid "うん、よろしく"
+msgstr ""
+
+#  Korean Text: '- 인사를 한다길래, 난 별생각 없이 손을 들었지만. 백토는 내게 얼굴을 들이밀었다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_11].Script
+msgid "- 挨拶と言うから、俺は何も考えず手を伸ばしたが、白兎は俺に顔を近づけた。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_11].SelectionIndex[1]
+msgid "え！？な、何！？"
+msgstr ""
+
+#  Korean Text: '... 뭣?!'
+#: DialogScript[DG_Ch01Ev3Stage09_1_12].Script
+msgid "…なっ！？"
+msgstr ""
+
+#  Korean Text: '크읏… 매직 젠틀맨? 날 부끄럽게 만들 셈인가? &n부디… 의식에 응해다오.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_13].Script
+msgid "くっ…マジックジェントルマン、私に恥をかかせるつもりなんですか？&nどうか…儀式に応じてください。"
+msgstr ""
+
+#  Korean Text: '저... 사령관님? 사령관님?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_14].Script
+msgid "あの…司令官？司令官？"
+msgstr ""
+
+#  Korean Text: '- 내가 어찌해야 할지 감을 잡지 못하고 있는 사이, 모모가 목소리를 낮추고 속삭인다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_15].Script
+msgid "- どうしたらいいのか俺がうろたえていたら、モモが小さな声で囁いてくれた。"
+msgstr ""
+
+#  Korean Text: '코를... 살짝살짝 좌우로 마주쳐주세요...&n그게 백토의 의식이에요.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_16].Script
+msgid "お鼻とお鼻を…そっと左右に触れ合ってください…&nそれが儀式です。"
+msgstr ""
+
+#  Korean Text: '- 모모는 열심히 고개를 저었고, 그제서야 난 백토가 말하는 의식이 어떤 건지&n대충이나마 알게 됐다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_17].Script
+msgid "- モモが少し恥ずかしそうに目を瞑って首を左右に振り、&nそれを見てやっと俺は白兎の言う儀式がどういうものなのかだいたい理解した。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_17].SelectionIndex[1]
+msgid "なるほど鼻を…差し出せばいいのか…"
+msgstr ""
+
+#  Korean Text: '젠틀맨? 너무하는군...&n...이렇게 된 이상 힘으로라도...'
+#: DialogScript[DG_Ch01Ev3Stage09_1_18].Script
+msgid "ジェントルマン？まだ応じてくれないのですか…？&n…こうなれば力ずくでも…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_18].SelectionIndex[1]
+msgid "いやいや、するから！"
+msgstr ""
+
+#  Korean Text: '- 난 백토의 얼굴에 코를 갖다 댔다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_19].Script
+msgid "- 俺は白兎の顔に自分の鼻を近づけた。"
+msgstr ""
+
+#  Korean Text: '아... 음...'
+#: DialogScript[DG_Ch01Ev3Stage09_1_20].Script
+msgid "あ…。ん……"
+msgstr ""
+
+#  Korean Text: '- 난 문 래빗 일족의 문화를 존중하기 위해, 처음 보는 바이오로이드와 코를 부비는&n부끄러움을 감수했다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_21].Script
+msgid "- 俺はムーンラビット族の文化を尊重すべく、&n初めて会うバイオロイドと鼻を擦り合うという&n羞恥プレイを甘んじて受け入れた…。"
+msgstr ""
+
+#  Korean Text: '훗! 역시 [c][ffd130]매직 젠틀맨[-][/c]!! 당신에게선 강인한 전사의 기운이 느껴지는군!'
+#: DialogScript[DG_Ch01Ev3Stage09_1_22].Script
+msgid "ふふふ、さすが[c][ffd130]マジックジェントルマン[-][/c]！！&nあなたからは強靭な戦士の覇気というものを感じました！"
+msgstr ""
+
+#  Korean Text: '참 잘하셨어요! 사령관님~!'
+#: DialogScript[DG_Ch01Ev3Stage09_1_23].Script
+msgid "よく出来ました！司令官～！"
+msgstr ""
+
+#  Korean Text: '- 어떻게 급한 고비는 넘긴 것 같지만, 긴장을 풀기엔 아직 이르다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_24].Script
+msgid "- どうにかピンチは乗り越えたようだが、油断するのはまだ早い…。"
+msgstr ""
+
+#  Korean Text: '자, 그럼. 매직 젠틀맨… 내 짝… 그리고 모모의 짝… &n앞으로의 계획을 들려주길 바란다. 가장 먼저 해야 할 일들이 뭐지?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_25].Script
+msgid "さて、マジックジェントルマン。そしてモモ…&nこれからの計画を聞かせてください。まず私がすべきことは何です？"
+msgstr ""
+
+#  Korean Text: '저 끔찍하고 요란스러운 기계들을 마법으로 물리치는 임무인가? &n그런 일이라면 얼마든지 해줄 수 있다. 내게 맡겨다오.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_26].Script
+msgid "あの恐ろしく、そして騒々しい機械の連中を魔法で破壊すればいいのでしょうか？&nそんなことならいくらでも任せてください。得意ですので。"
+msgstr ""
+
+#  Korean Text: '저 괴물들은 분명히 뽀끄루 대마왕이 불러온 것일 테고…&n저 괴물들을 부수다 보면, 뽀끄루 대마왕을 만날 수 있겠지.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_27].Script
+msgid "あの魔物たちは間違いなくポックル大魔王が召喚したモノたちです…&nあの魔物たちを倒していけばポックル大魔王に追い付くことができるはず…。"
+msgstr ""
+
+#  Korean Text: '- 백토는 의욕이 넘쳐 보였지만, 난 아무런 생각이 들지 않았다.&n... 어디서부터 어떻게 장단을 맞춰줘야 하지?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_28].Script
+msgid "- 白兎はやる気に満ちていたが、俺は思考停止していた。&n…まず…どこからツッコめばいいんだ？"
+msgstr ""
+
+#  Korean Text: '저, 사령관님?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_29].Script
+msgid "あの、司令官？"
+msgstr ""
+
 #: DialogScript[DG_Ch01Ev3Stage09_1_29].SelectionIndex[1]
-msgid "なぁに？いいわよ。話して？"
+msgid "なに？いいよ、話して。"
+msgstr ""
+
+#  Korean Text: '제 생각에는 우선 만월야에 쓰일 매지컬 송편을 구하는 게 좋을 것 같아요. &n매지컬 송편이 있다면 문 래빗 크리스탈 파워를 쓸 수 있을 테니까요.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_30].Script
+msgid "私は、まず満月夜で使う「マジカル月見餅」を探したほうがいいと思います。&nマジカル月見餅さえあればムーンラビットクリスタルパワーが使えますから！"
+msgstr ""
+
+#  Korean Text: '음! 매지컬 송편 말인가? 그 생각을 못 했군.&n그래… 매지컬 송편이라면 우리 힘을 최대로 끌어낼 수 있겠지.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_31].Script
+msgid "なるほど…マジカル月見餅！それは盲点だった…。&n確かにそうだ…マジカル月見餅なら私たちの魔力を最大にまで引き出せる…。"
+msgstr ""
+
+#  Korean Text: '이러고 있을 시간이 없어, 서두르자 모모.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_32].Script
+msgid "こうしてる場合じゃない…。急ごう、モモ。"
+msgstr ""
+
+#  Korean Text: '- ... 매지컬 송편이라는 건 대체 뭘까? 무기 같은 걸까?&n마법 소녀들을 상대하고 있자니 머리가 복잡하다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_33].Script
+msgid "- …マジカルツキミモチ…とは…？武器…か？&n魔法少女をずっと相手にしていたら頭がおかしくなりそうだ。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_33].SelectionIndex[1]
+msgid "この際、何だっていいから探しに行こう！"
+msgstr ""
+
+#  Korean Text: '역시 [c][ffd130]매직 젠틀맨[-][/c], 우릴 위해 최고의 판단을 내리는군. &n앞으로도 잘 부탁하지.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_34].Script
+msgid "さすが[c][ffd130]マジックジェントルマン[-][/c]…。素早い判断です…。&nこれからもよろしくお願いします。"
+msgstr ""
+
+#  Korean Text: '출격 장소는 이쪽인가?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_35].Script
+msgid "出撃する場所はこっちですか？"
+msgstr ""
+
+#  Korean Text: '백토? 잠시만 … 아! 벌써 가버렸어…'
+#: DialogScript[DG_Ch01Ev3Stage09_1_36].Script
+msgid "あ、白兎ちゃん？待って…って、もう行っちゃった…"
+msgstr ""
+
+#  Korean Text: '사령관님? 많이 혼란스러우시죠? 여기 저희가 사용하던 대본이 있어요. &n혹시나 싶어 구해 온 거예요.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_37].Script
+msgid "司令官、今大変混乱していると思います。これは私たちの使っていた脚本集です。&nもしかしたらと使えるかと思って持って来ました。"
+msgstr ""
+
+#  Korean Text: '이걸 참고하시면, 지금 같은 상황에서 사령관님께 어느 정도 도움이 되지 않을까 싶어요.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_38].Script
+msgid "これを参考にすれば、今のような状況でも司令官の役に立つと思います。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_1_38].SelectionIndex[1]
+msgid "脚本…？"
+msgstr ""
+
+#  Korean Text: '- 모모가 넘겨준 문서 뭉치는 너무나도 낡아서, 금방이라도 바스러질 것 같았다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_39].Script
+msgid "- モモが渡してきた書類の束はあまりにも古く、今にも崩れて朽ち果てそうだった。"
+msgstr ""
+
+#  Korean Text: '- ... 이건 모모가 읽고 외우던 대본집인가?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_40].Script
+msgid "- …これはモモが暗記に使っていた脚本集だろうか？"
+msgstr ""
+
+#  Korean Text: '- 대본엔 대략적인 상황 설명까지 적혀 있었기에, 마법 소녀 물에 익숙하지 않은 내게&n꽤 도움이 될 것 같은 느낌이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_41].Script
+msgid "- 脚本集には簡単な状況説明まで書かれており、魔法少女モノに馴染みのない俺には&nかなり参考になる内容となっていた。"
+msgstr ""
+
+#  Korean Text: '저, 사령관님? 매지컬 송편의 위치는 제가 알려 드릴 테니, 지휘를 부탁드려요.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_42].Script
+msgid "あの、司令官？マジカル月見餅の位置情報は私が教えますので、指揮の方をよろしくお願いしますね。"
+msgstr ""
+
+#  Korean Text: '저는 백토를 데리러 가볼게요~!'
+#: DialogScript[DG_Ch01Ev3Stage09_1_43].Script
+msgid "では私は白兎ちゃんを追いかけます～！"
+msgstr ""
+
+#  Korean Text: '- 난 모모 일행이 출격을 준비하는 동안, 대본을 대충 훑어 내려갔다.&n뭔가 챙길만한 정보가...'
+#: DialogScript[DG_Ch01Ev3Stage09_1_44].Script
+msgid "- 俺はモモたちが出撃準備をしている間、脚本に目を通した。&n何か役立つ情報は…"
+msgstr ""
+
+#  Korean Text: '- 대본에는 권선징악의 틀에서 크게 벗어나지 않은 상황들이 소름 돋는 대사들로 &n가득 메워져 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage09_1_46].Script
+msgid "- 脚本には、よくある勧善懲悪のストーリーが書かれており、&n読んでいるこっちが恥ずかしくなるようなセリフで埋め尽くされていた。"
+msgstr ""
+
+#  Korean Text: '- 어디 볼까... 매지컬 송편과 관련된 내용이 여기쯤 있었던 것 같은데...'
+#: DialogScript[DG_Ch01Ev3Stage09_1_47].Script
+msgid "- ほむほむ…マジカル月見餅と関係するストーリーはこの辺のようだ…"
+msgstr ""
+
+#  Korean Text: '- 매지컬 송편을 먹고 기운을 차린 모모는, 백토와 힘을 합쳐 뽀끄루의 수하들을 공격한다... &n... 매지컬 송편이란 거… 먹는 거였나?'
+#: DialogScript[DG_Ch01Ev3Stage09_1_48].Script
+msgid "- マジカル月見餅を食べて魔力を回復したモモは、白兎と力を合わせてポックルの手下を倒す…&n月見餅って食べ物だったのか…"
 msgstr ""
 
 #  Korean Text: '도시 폐허'
@@ -5741,9 +8684,145 @@ msgstr ""
 msgid "廃墟都市"
 msgstr ""
 
+#  Korean Text: '사령관님? 매지컬 송편을 찾았어요! 정말 다행이에요.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_1].Script
+msgid "司令官、マジカル月見餅を見つけました！よかったです！"
+msgstr ""
+
+#  Korean Text: '너무 오래돼서, 제대로 된 극저온 냉동고가 남아 있을지 걱정했거든요.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_2].Script
+msgid "相当昔の話でしたので、&nちゃんとした極低温冷凍庫が残っているか不安だったんです。"
+msgstr ""
+
+#  Korean Text: '- 모모는 얼굴에 묻은 먼지를 닦아내고 환하게 웃었다.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_3].Script
+msgid "- モモは顔についた汚れを拭いて、ニッコリと笑顔を見せた。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_2_3].SelectionIndex[1]
+msgid "お疲れ様！"
+msgstr ""
+
+#  Korean Text: '- 이번에 알게 된 사실이 몇 가지 있다. &n송편이란 건 공장에서 대량으로 생산되던 음식이라는 것.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_4].Script
+msgid "- 今回の作戦でいくつか分かったことがある。&n月見餅というのは工場で大量生産されていた食べ物だということ。"
+msgstr ""
+
+#  Korean Text: '- 그리고 난 저 매지컬 송편에 담긴 마법의 기운을 느낄 수 없다는 것...'
+#: DialogScript[DG_Ch01Ev3Stage09_2_5].Script
+msgid "- そして、&n俺にはあのマジカル月見餅からマジカルな力が全然感じられないということだ…。"
+msgstr ""
+
+#  Korean Text: '이 정도 양이면 충분해. &n너희 잠수함에 있는 마법 소녀 후보생 모두와 나눠 먹을 수 있을 정도야.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_6].Script
+msgid "これだけあれば十分です。&nあなたの潜水艦にいる魔法少女候補生たちとも分け合えるほどの量です。"
+msgstr ""
+
+#  Korean Text: '뽀끄루 대마왕. 기다리고 있어라... 매지컬 송편의 힘으로 &n내가 널 찾아내서 이제까지의 죄의 대가를 치르게 해주마..'
+#: DialogScript[DG_Ch01Ev3Stage09_2_7].Script
+msgid "ポックル大魔王。待っていろ…マジカル月見餅の力でお前を必ず見つけ出し、&nこれまでの罪の代価を払わせてやる…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage09_2_7].SelectionIndex[1]
+msgid "とりあえずみんな帰ってきて"
+msgstr ""
+
+#  Korean Text: '네! 사령관님. 오르카에서 뵐게요~!'
+#: DialogScript[DG_Ch01Ev3Stage09_2_8].Script
+msgid "はいわかりました！司令官、オルカで会いましょう！"
+msgstr ""
+
+#  Korean Text: '자! 가자! 백토야.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_9].Script
+msgid "白兎ちゃん、行こう！"
+msgstr ""
+
+#  Korean Text: '... 저기 계신 분들은 일행들인가요? &n윽… 배, 백토가 같이 있어요... 언제 따라온 거지?'
+#: DialogScript[DG_Ch01Ev3Stage09_2_11].Script
+msgid "…あの…あちらの方たちは…お知り合いなんでし…&nひえぇ…！は、白兎も一緒じゃないですか…いつの間に追いついてきたの…？"
+msgstr ""
+
+#  Korean Text: '너무 걱정 마세요. 제가 미리 연락을 해 둘 테니 &n뽀끄루 씨가 백토와 마주치는 일은 없을 거예요.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_12].Script
+msgid "そんなに心配しないで。私が予め連絡しておきますから、&nポックルさんと白兎さんが遭遇することはありませんよ。"
+msgstr ""
+
+#  Korean Text: '헹… 가엾은 언니. 지금 다리를 떨고 있는데, 백토가 그렇게 무서워?'
+#: DialogScript[DG_Ch01Ev3Stage09_2_13].Script
+msgid "わぁ…角のお姉さん、可哀想。&n足ブルブル震えてるじゃん…。白兎がそんなに怖いの？"
+msgstr ""
+
+#  Korean Text: '당연하죠! &n백토가 들고 있는 저 '매지컬 핑크 문 라이트' 보고도 그런 말을 하는 거예요?'
+#: DialogScript[DG_Ch01Ev3Stage09_2_14].Script
+msgid "当たり前です！白兎の持ってるあの「マジカルピンクムーンライト」を見ても&nそんなことが言えるんですか！？"
+msgstr ""
+
+#  Korean Text: '저 쇳덩이는 소품 같은 게 아니에요... 진짜 전기톱이라구요...&n정말이지... 우리 소품팀은 무슨 생각을 한 거죠?'
+#: DialogScript[DG_Ch01Ev3Stage09_2_15].Script
+msgid "あの鉄の塊はただの小道具じゃないんですよ…本当はチェーンソーなんですよぉ…&nもう…うちの小道具チームって頭おかしいんじゃないですか…？"
+msgstr ""
+
+#  Korean Text: '만약, 저 전기톱에 몸이 스치기라도 한다면... 우으으...'
+#: DialogScript[DG_Ch01Ev3Stage09_2_16].Script
+msgid "もし、あのチェーンソーに切り刻まれでもしたら…ウップ…ちょっと気分がががが…"
+msgstr ""
+
+#  Korean Text: '그런 걱정 말아요. 뽀끄루씨는 저와 있으면 안전하니까요.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_17].Script
+msgid "そんなに心配しないで。ポックルさん、私たちと一緒にいれば安全ですから。"
+msgstr ""
+
+#  Korean Text: '다만, 뽀끄루씨는 오르카에 도착해서 사정을 자세하게 이야기해주셔야 해요. &n우린 그간에 있었던 일은 잘 모르니까요.'
+#: DialogScript[DG_Ch01Ev3Stage09_2_18].Script
+msgid "ただポックルさんには、オルカに着いたら今までのことを詳しく話していただきます。&n私たちはあなたたちに今まで何があったのか知らないですからね…。"
+msgstr ""
+
+#  Korean Text: '네. 걱정 마세요. 그리고…'
+#: DialogScript[DG_Ch01Ev3Stage09_2_19].Script
+msgid "はい、もちろんです。えっと…"
+msgstr ""
+
+#  Korean Text: '잘 부탁드려요…'
+#: DialogScript[DG_Ch01Ev3Stage09_2_20].Script
+msgid "よろしく…お願いします…。"
+msgstr ""
+
 #  Korean Text: '오르카에 도착한 뽀끄루'
 #: DialogScript[DG_Ch01Ev3Stage10_1_1].BG_Description
 msgid "オルカに到着したポックル"
+msgstr ""
+
+#  Korean Text: '여기 계신 분이 우리 주인님이셔요. 인사드리세요.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_2].Script
+msgid "こちらの方が私たちのご主人様です。まずはご挨拶を。"
+msgstr ""
+
+#  Korean Text: '... 저기... 사... 사장님? 그게 아니면... 사령관님이라 불러야 할까요?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_3].Script
+msgid "…あ、あの…社長？じゃなくて…司令官様と呼べばいいでしょうか…？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_3].SelectionIndex[1]
+msgid "好きに呼んでくれ"
+msgstr ""
+
+#  Korean Text: '- 레아가 데려온 뽀끄루라는 바이오로이드는 한눈에 봐도 몹시 지쳐 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_4].Script
+msgid "- レアの連れてきたポックルというバイオロイドは&n一目で相当疲れているというのがわかった。"
+msgstr ""
+
+#  Korean Text: '- 그녀는 당당한 자세로 서 있었지만, 두 눈은 불안으로 흔들리고 있었고,&n멀리 기관실에서 소음이 들려올 때면, 움찔거리며 몸을 떨었다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_5].Script
+msgid "- 堂々と立ってはいるが、大きな目は不安できょろきょろしていて、&n遠くの機関室から音が聞こえる度にビクンビクンと身体を震えさせていた。"
+msgstr ""
+
+#  Korean Text: '정말 감사해요... 절 받아 주셔서… 전 너무 힘들어서… 흐윽…'
+#: DialogScript[DG_Ch01Ev3Stage10_1_6].Script
+msgid "本当にありがとうございます…&n私を受け入れてくださって…もう私…大変で大変で……"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_6].SelectionIndex[1]
+msgid "安心してくれ。ここは安全だから"
 msgstr ""
 
 #  Korean Text: '... 히잉...'
@@ -5751,8 +8830,1270 @@ msgstr ""
 msgid "…ぐすん…"
 msgstr ""
 
+#: DialogScript[DG_Ch01Ev3Stage10_1_8].SelectionIndex[1]
+msgid "ど、どうした！？"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루는 갑자기 울음을 터트렸고 내가 허둥대는 사이, 레아가 그녀를 따뜻하게&n안아 주었다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_9].Script
+msgid "- ポックルがいきなり泣き出し、俺がうろたえている間、&nレアが彼女を優しく抱きしめた。"
+msgstr ""
+
+#  Korean Text: '- 그녀에겐 대체 무슨 사연이 있었던 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_10].Script
+msgid "- 彼女にいったい何があったんだろうか…。"
+msgstr ""
+
+#  Korean Text: '백토도... 너무해요... 정말...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_11].Script
+msgid "はぐど…うえぇぇ…ほんどうに酷いんですよ…もう…うえぇぇ…"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루는 할 이야기가 많아 보였기에 나는 그녀가 편히 앉을 수 있는 자리를 내주었다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_12].Script
+msgid "- ポックルには積もる話があったらしく、&n俺は彼女が気楽に話せるよう椅子を用意してあげた。"
+msgstr ""
+
+#  Korean Text: '[c][57e137]2시간 후[-][/c]'
+#: DialogScript[DG_Ch01Ev3Stage10_1_13].Script
+msgid "[c][57e137]2時間後[-][/c]"
+msgstr ""
+
+#  Korean Text: '제가 백토에게 수백 번은 말했을 거예요...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_14].Script
+msgid "私、白兎に数百回は言ったと思います。"
+msgstr ""
+
+#  Korean Text: '이 모든 건 연기였고, 이미 세상이 멸망했으니. 더는 이렇게 싸울 필요 없다고...&n동료끼리 사이좋게 지내고 싶다고... 그렇게 말했었죠...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_15].Script
+msgid "全てはお芝居で、既に世界は滅んだからもう戦う必要はないって…&n仲間同士仲良くやっていきたいって…そう言いました…"
+msgstr ""
+
+#  Korean Text: '하지만... 백토는 꿈쩍도 하지 않았어요... 되려 화만 돋운 꼴이 되던걸요?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_16].Script
+msgid "でも…白兎は全く耳を傾けてくれませんでした…むしろ激怒したんですよ？"
+msgstr ""
+
+#  Korean Text: '백토는... 제가 그저 악역을 맡은 배우라는 걸 이해하지 못하는 것 같았어요...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_17].Script
+msgid "白兎には…私が悪役を演じるだけのただの女優ってことが、&n理解できないみたいでした…"
+msgstr ""
+
+#  Korean Text: '그래서... 전 계속 도망치는 수밖에 없었어요... 몇 년이고... 몇 년이고...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_18].Script
+msgid "だから…私は逃げ続けるしかなかったんです…何年も…何年も…"
+msgstr ""
+
+#  Korean Text: '그래도… 무작정 도망치는 것보단…&n철충 쪽으로 유도하면 철충을 좀 줄일 수 있지 않을까 해서…'
+#: DialogScript[DG_Ch01Ev3Stage10_1_19].Script
+msgid "でも…闇雲に逃げ回るよりは…&n鉄虫の方に誘導して鉄虫を減らしたらいいんじゃないかと思いまして…"
+msgstr ""
+
+#  Korean Text: '착하기도 해라… 그래서 철충 사이에 들어가는 위험을 감수한 거군요.&n뽀끄루 씨... 가엾어서 어떻게 해...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_20].Script
+msgid "なんていい子なんでしょう…&nだからあえて鉄虫の群れに紛れる危険を冒してたんですね。&nポックルさん…本当に可哀想でどうしたらいいの…"
+msgstr ""
+
+#  Korean Text: '- 사실 난 뽀끄루의 행동을 이해할 수 없었다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_21].Script
+msgid "- 実のところ、俺はポックルの行動があまり理解できずにいた。"
+msgstr ""
+
+#  Korean Text: '- 그렇게 위험한 곳으로 도망칠 바엔 상대가 정신을 차릴 때까지...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_22].Script
+msgid "- そんな危険な場所に逃げ込むより、相手が正気に戻るよう、いっその事…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_22].SelectionIndex[1]
+msgid "実力行使に出たらダメなのか？例えば…頭を…"
+msgstr ""
+
+#  Korean Text: '그건 절대 안 돼요!!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_23].Script
+msgid "それは絶対ダメです！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_23].SelectionIndex[1]
+msgid "…ダメ、とは？"
+msgstr ""
+
+#  Korean Text: '... 제가 백토와 맞선다면, 분명히 둘 중 하나는 크게 다치고 말 거예요.&n저는... 저는 그런 끔찍한 상황은 바라지 않아요...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_24].Script
+msgid "…私と白兎が本気でぶつかれば、きっとどちらかが大怪我をしてしまいます。&n私はそんなことは…望んでません…。"
+msgstr ""
+
+#  Korean Text: '아아... 캡틴? 폭력은 폭력을 부를 뿐이야. 이 아가씨는 최악의 상황을 피하기 위해&n나름대로 최선을 다 한 거라구.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_25].Script
+msgid "あの…キャプテン？暴力はよくないよ暴力は。&nポックルんは最悪の事態を避けるために&n自分なりの最善を尽くしてきたんだよ？うんうん。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_25].SelectionIndex[1]
+msgid "まぁ…確かに…"
+msgstr ""
+
+#  Korean Text: '- 트리아이나는 지금 상황이 꽤나 즐거운 것 같다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_26].Script
+msgid "- トリアイナは今の状況を楽しんでるようだ。ポックルん…。"
+msgstr ""
+
+#  Korean Text: '나는 이 마왕님이 점점 더 마음에 드는데? 나 마법 소녀 하길 정말 잘한 것 같아!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_27].Script
+msgid "私はこの魔王様のことがますます気に入ったよ。私、魔法少女しててよかったかも。"
+msgstr ""
+
+#  Korean Text: '아 참! 그러고 보니, 우린 4인조 마법 소녀였지? 아직 인원이 부족한걸?&n이렇게 된 거, 내가 마법 소녀를 한 명 더 구해오겠어!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_28].Script
+msgid "あ、そうだ！私たちって四人の魔法少女だった！まだ人員が足りないじゃん…&nこうなったら、もう一人魔法少女を探してくるよ！"
+msgstr ""
+
+#  Korean Text: '레아도 기대하라구! 이번엔 내가 제대로 된 마법 '소녀'를 데려올 테니까!&n[c][ffd130]작고 귀여운 소녀[-][/c] 말이야~.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_29].Script
+msgid ""
+"レアも楽しみにしててね！今度こそ私が「本物の！」魔法「少女！」を連れてくるから！&n[c][ffd130]小さくてかわいい女の子[-][/c]をね～！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_29].SelectionIndex[1]
+msgid "…まだ生きていたいなら、逃げろ、トリアイナ。"
+msgstr ""
+
+#  Korean Text: '아하하하... 내가 말실수를 했나...?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_31].Script
+msgid "あははは…？私また何か失敗した…？"
+msgstr ""
+
+#  Korean Text: '아, 아무튼 조금 있다가 봐!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_32].Script
+msgid "じ、じゃ、またね～！"
+msgstr ""
+
+#  Korean Text: '정말... 트리아이나는 힘이 넘치는군요.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_33].Script
+msgid "まったくもう…トリアイナは元気で困りますね。"
+msgstr ""
+
+#  Korean Text: '휴우... 그건 그렇고... 우리 어디까지 이야기했었죠?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_34].Script
+msgid "はぁ…それでどこまで話しましたっけ？"
+msgstr ""
+
+#  Korean Text: '어... 제가 계속해서 철충 사이로 도망치고 있었다는 얘기...?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_35].Script
+msgid "えっと…私が逃げ回って鉄虫の群れに隠れていたって話でしょうか…"
+msgstr ""
+
+#  Korean Text: '음! 맞아! 제게 좋은 생각이 있어요, 한번 들어 보시겠어요?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_36].Script
+msgid "…そうだ！私にいい考えがあります。聞いてみます？"
+msgstr ""
+
+#  Korean Text: '네! 뭐... 뭐든 좋아요! 이 상황만 피할 수 있다면. 뭐든 좋아요!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_37].Script
+msgid "はい！な、何でもいいです！この状況から抜け出せるのなら、何でもします！"
+msgstr ""
+
+#  Korean Text: '후훗. 뽀끄루씨는 잘 모르시겠지만, 우리 오르카에는 정말 똑똑한 박사님이 한 분 계셔요.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_38].Script
+msgid "ふふ、ポックルさんはご存知じゃないでしょうけど、&nこのオルカにはそれはそれはとても賢い博士さんがいます。"
+msgstr ""
+
+#  Korean Text: '뽀끄루씨에게 실례되지 않는다면, 제가 박사님께 조언을 얻어볼게요.&n어때요? 괜찮겠어요?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_39].Script
+msgid "ポックルさんさえよければ、私がその博士さんから助言を仰ぎたいと思います。&nどうでしょう？いいですか？"
+msgstr ""
+
+#  Korean Text: '저, 정말인가요? 이곳에 그런 훌륭한 과학자가 있다니... 정말 다행이에요!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_40].Script
+msgid "ほ、本当ですか！ここにそんなに賢い博士さんがいるだなんて…！&n本当に良かったです！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_40].SelectionIndex[1]
+msgid "まぁ、ドクターは確かに頭はいいけど…大丈夫かな…"
+msgstr ""
+
+#  Korean Text: '후훗! 그럼요~! 우리 박사님은 학위가 자그마치...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_41].Script
+msgid "ふふ、大丈夫ですとも！うちの博士さんはなんと獲得した博士号の数が…"
+msgstr ""
+
+#  Korean Text: '- 레아의 도움이 기뻤던 걸까? 이야기를 듣고 있는 뽀끄루의 표정이 밝아졌고, &n함장실의 우울한 기운도 조금씩 가시는 듯했다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_42].Script
+msgid "- レアの提案が嬉しかったのか、話を聞いているポックルの顔が明るくなり、&n艦長室の淀んでいた雰囲気もやっと和んでいく気がした。"
+msgstr ""
+
+#  Korean Text: '- ... 그런데 이 소리는 뭐지? 누군가 여기로...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_43].Script
+msgid "- …で、この音は何だ？誰かこっちに…"
+msgstr ""
+
+#  Korean Text: '죄, 죄송해요! 백토를 막을 수 없었어요.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_44].Script
+msgid "ご、ごめんなさい！白兎ちゃんを止められませんでしたー！！！！"
+msgstr ""
+
+#  Korean Text: '백토가 이쪽으로 오고 있어요! 뽀끄루씨를 숨겨야 해요.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_45].Script
+msgid "白兎ちゃんがそっちに向かっています！ポックルさんを隠してください！"
+msgstr ""
+
+#  Korean Text: '꺄아아아악!!!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_46].Script
+msgid "ひいいやああぁぁぁぁぁぁぁぁ！！！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_46].SelectionIndex[1]
+msgid "や、やばい！"
+msgstr ""
+
+#  Korean Text: '- 백토가 여기서 뽀끄루를 본다면, 어떤 끔찍한 일이 벌어질지 모른다.&n일단 뽀끄루를 숨겨야 해!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_47].Script
+msgid "- 白兎とポックルがここで遭遇してしまったら、どんな惨状が広がるか予想がつかない！&nとにかくポックルを隠さないと！"
+msgstr ""
+
+#  Korean Text: '- 제길... 함장실엔 출구가 하나뿐인데...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_48].Script
+msgid "- くっそ…艦長室の出口は一つしかないのに…"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루가 숨을 만한 곳은... 여기뿐인가?!'
+#: DialogScript[DG_Ch01Ev3Stage10_1_49].Script
+msgid "- ポックルが隠れられそうな場所は…ここだけか！？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_49].SelectionIndex[1]
+msgid "ポックル！？"
+msgstr ""
+
+#  Korean Text: '안돼… 이러다가… 친구를 죽이게 되고 말 거야…'
+#: DialogScript[DG_Ch01Ev3Stage10_1_50].Script
+msgid "もうダメだ…本当に…友達に殺されてしまうかも知れない…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_50].SelectionIndex[1]
+msgid "ポックル！！"
+msgstr ""
+
+#  Korean Text: '네...? 사장님? 아니면… 내가 죽거나…&n흑… 어쩌지?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_51].Script
+msgid "はい…社長…？私…死んじゃう…死んじゃうよぉ…！&nうぅ…もうダメだぁ…あぁ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_51].SelectionIndex[1]
+msgid "ここに隠れろ！"
+msgstr ""
+
+#  Korean Text: '- 난 책상 밑을 가리켰다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_52].Script
+msgid "- 俺は机の下を指した。"
+msgstr ""
+
+#  Korean Text: '사장... 님?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_53].Script
+msgid "社長…？"
+msgstr ""
+
+#  Korean Text: '아, 알겠어요!! 잠시 실례할게요!&n사장님? 다리를 조금만...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_54].Script
+msgid "わ、分かりました！少しだけ失礼します！&n社長、足を開いてください…"
+msgstr ""
+
+#  Korean Text: '매직 젠틀맨?! 무사한가?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_55].Script
+msgid "マジックジェントルマン！？無事ですか！！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_55].SelectionIndex[1]
+msgid "あ…う、うん…何が?"
+msgstr ""
+
+#  Korean Text: '다행이군... 연락을 전혀 받질 않길래, 난 당신에게 무슨 일이라도 생긴 줄 알았어.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_56].Script
+msgid "良かった…連絡がつかないから、私はあなたに何か起きたんじゃないかと…。"
+msgstr ""
+
+#  Korean Text: '... 젠틀맨 당신도 사령관인 만큼. 이런저런 일로 바빴겠지...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_57].Script
+msgid "…ジェントルマン、あなたも巨大組織の司令官、&n色々と忙しかったのでしょうね…失礼しました…。"
+msgstr ""
+
+#  Korean Text: '하지만, 당신에게 무슨 일이라도 생긴다면 난... 나 자신을 용서하지 못할 거야.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_58].Script
+msgid "ですが、あなたに何かあったら私は…自分を許せなくなります…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_58].SelectionIndex[1]
+msgid "心配した？なんかほんとすまんな…？"
+msgstr ""
+
+#  Korean Text: '... 이런... 내가 또 경솔하게 행동한 것 같군... &n이번 일은 사과하지... 무례를 용서해 주겠나?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_59].Script
+msgid "…いや…私が心配し過ぎただけのようです…&n今回のことは謝ります…。私の無礼を許していただけますか…？"
+msgstr ""
+
+#  Korean Text: '- 날 바라보는 백토의 눈초리는 여전히 매서웠지만, 그 눈가는 촉촉이 젖어 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_60].Script
+msgid "- 俺を見つめる白兎の目尻は相変わらず鋭いが、その目尻は少し潤んでいた…。"
+msgstr ""
+
+#  Korean Text: '- 그녀를 바라보는 내 등줄기도 땀으로 인해 촉촉하게 젖은 상태...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_61].Script
+msgid "- 彼女を見つめ返す俺の背筋も冷や汗で潤んでいる…じゃないな、びしょびしょだ。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_61].SelectionIndex[1]
+msgid "うん。許す！心配しないで！"
+msgstr ""
+
+#  Korean Text: '그런가... 당신은 정말... 젠틀한 남자야. 매직 젠틀맨...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_62].Script
+msgid "そうかですか…あなたは本当に…紳士的なお方です…。マジックジェントルマン。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_62].SelectionIndex[1]
+msgid "そう？ま…まあ…ね？"
+msgstr ""
+
+#  Korean Text: '- 날 바라보며 수줍어하는 백토. 하지만 이제 슬슬 백토가 나가주지 않으면...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_63].Script
+msgid "- 俺を見つめて何故か恥らう白兎。でもそろそろ白兎に部屋を出て行ってもらわないと…。"
+msgstr ""
+
+#  Korean Text: '... 젠틀맨? 당신만 괜찮다면... 내가 그쪽으로 가도 되겠나? 지금 바로... 다음 의식을...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_64].Script
+msgid "…ジェントルマン？あなたがよければ…そちらに行ってもいい…でしょうか？&n今すぐにでも…次の段階の儀式を…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_64].SelectionIndex[1]
+msgid "待て待て待て！！"
+msgstr ""
+
+#  Korean Text: '- 큰일이다. 이대로 가다간 백토에게 들켜버린다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_65].Script
+msgid "- やばい。このままじゃ白兎にバレてしまう。"
+msgstr ""
+
+#  Korean Text: '... 젠틀맨...?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_66].Script
+msgid "…ジェントルマン…？"
+msgstr ""
+
+#  Korean Text: '매직 젠틀맨? 몸에 무슨 문제라도 있는 건가? 왜 그리 떨고 있는 거지?&n내가 잠깐 살펴봐도...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_67].Script
+msgid "マジックジェントルマン？お体に何か異常でも？どうしてそんなに震えてるんです？&n私が調べてみましょうか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_67].SelectionIndex[1]
+msgid "い、今すぐ出撃だ、白兎！"
+msgstr ""
+
+#  Korean Text: '음?! 갑자기 그게 무슨 말이지? 출격이라니... 설마 나와 의식을 치르는 게 부끄러운 건가?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_68].Script
+msgid "ん！？急にどうしてです！？出撃！？まさか…私との儀式が恥ずかしいのでは…？"
+msgstr ""
+
+#  Korean Text: '아! 알겠어요 주인님. 대마왕의 흔적을 찾으라는 말씀이시죠?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_69].Script
+msgid "わ、分かりました、ご主人様。大魔王を追跡しろということですね？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_69].SelectionIndex[1]
+msgid "そ！それー！"
+msgstr ""
+
+#  Korean Text: '두 분? 절 따라와 주세요. 이렇게 허비할 시간이 없어요. 마왕의 흔적을&n놓치기라도 한다면 그땐 정말 곤란하지 않겠어요?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_70].Script
+msgid "お二人とも？私についてきてください！時間は無駄にできませんよ。&n魔王の痕跡を見逃したら本当に大変になりますから。"
+msgstr ""
+
+#  Korean Text: '... 훗... 역시 그런 건가? 젠틀맨… 남자다운 면도 있군…'
+#: DialogScript[DG_Ch01Ev3Stage10_1_71].Script
+msgid "…ふふ…そういうことでしたか…。さすがジェントルマン…男らしい決断力…"
+msgstr ""
+
+#  Korean Text: '달의 기운에 홀려, 하마터면 귀중한 시간을 낭비할 뻔했군... 깨우쳐줘서 고맙다.&n마법 소녀 레아.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_72].Script
+msgid "月の光に魅入られて貴重な時間を無駄にするところでした…&n悟らせてくれたことに感謝を…。魔法少女マジカルレア。"
+msgstr ""
+
+#  Korean Text: '우린 곧장 출격하도록 하지. 무운을 빌어주게. 매직 젠틀맨.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_73].Script
+msgid "私たちは直ちに出撃します。&n武運を祈っていてください、マジックジェントルマン。"
+msgstr ""
+
+#  Korean Text: '그리고... 의식에 관한 건... 다음에 또 이야기하도록 하지.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_74].Script
+msgid "そして次の儀式は…またの機会に話しましょう。"
+msgstr ""
+
+#  Korean Text: '- 다행히 뽀끄루는 들키지 않았지만...'
+#: DialogScript[DG_Ch01Ev3Stage10_1_76].Script
+msgid "- 幸いにもポックルのことはバレてないけど…"
+msgstr ""
+
+#  Korean Text: '- 다른 사소한 문제가 생긴 것 같다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_77].Script
+msgid "- 他の問題が発生してしまった。"
+msgstr ""
+
+#  Korean Text: '저기... 사장님...?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_78].Script
+msgid "アノ…社長…？"
+msgstr ""
+
+#  Korean Text: '여, 여쭤볼게 하나 있는데... 괜찮을까요?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_79].Script
+msgid "お尋ねしたいことがあるんですが…良いでしょうか…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage10_1_79].SelectionIndex[1]
+msgid "…ナニ？"
+msgstr ""
+
+#  Korean Text: '... 책상 밑에 계신… 그러니까 제 옆에 계신 이 분은.... 대체 누구죠...?'
+#: DialogScript[DG_Ch01Ev3Stage10_1_80].Script
+msgid "机の下にいる…えっと…つまり今私の隣にいるこの方は…いったい誰ですかぁ…？"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루의 질문에 난 고개를 들지 못했다.'
+#: DialogScript[DG_Ch01Ev3Stage10_1_81].Script
+msgid "- ポックルの質問に俺は頭を抱えた。"
+msgstr ""
+
+#  Korean Text: '잘 모르겠어… 우리 왜 출동한 거야? 갑자기?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_1].Script
+msgid "よく分からない…私たち、どうして出撃させられたの…？突然…。"
+msgstr ""
+
+#  Korean Text: '뭐, 여긴 이미 위력 정찰까지 끝낸 곳이지 말임다.&n마리 대장님도 눈여겨보고 있었지 말임다. 그것보다…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_2].Script
+msgid "まぁ、ここは既に威力偵察を済ませた地域っす。&nマリー隊長も目を光らせていた場所っす。それよりっす…"
+msgstr ""
+
+#  Korean Text: '그것보다?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_3].Script
+msgid "それより？"
+msgstr ""
+
+#  Korean Text: '그 시크릿 포인트 말임다… 혹시 그거 제가 말했다고 말씀하셨슴까?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_4].Script
+msgid "あのシークレットポイントの件でありますが…&nもしかして、私が教えたってバラしちゃったっすか！？"
+msgstr ""
+
+#  Korean Text: '응. 왜? 말하면 안 되는 거야?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_5].Script
+msgid "うん。なんで？話しちゃいけなかったの？"
+msgstr ""
+
+#  Korean Text: '윽… 역시… 오늘 시크릿 포인트 막혔지 말임다.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_6].Script
+msgid "うぅぅ…やっぱり…&n今日見に行ったら、シークレットポイントが塞がれてたっすよ…。"
+msgstr ""
+
+#  Korean Text: '설마 제 군번도 말씀하셨슴까?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_7].Script
+msgid "ま、まさか私の認識番号まで教えてないっすよね？"
+msgstr ""
+
+#  Korean Text: '아… 혹시… 말해줘야 하는 거야? 지금 사령관한테 말할까?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_8].Script
+msgid "あ…それ…言った方がよかった？今から、司令官に話す…ね？"
+msgstr ""
+
+#  Korean Text: '무슨 그런 큰일 날 말씀을! 절대 말씀하심 안되지 말임다.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_9].Script
+msgid "うおぉぉ…ダメダメダメっす！！絶対教えちゃいけないっす！"
+msgstr ""
+
+#  Korean Text: '응. 브라우니가 그렇다면 그런 거겠지. 말 안 할게.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_10].Script
+msgid "うん。ブラウニーの言うこと…聞く。言わないよ。"
+msgstr ""
+
+#  Korean Text: '헤헤. 감사하지 말임다. 그런데 그건 좀 먹혔슴까? 그 노래 말임다. &n완전 멋진 노랜데… 사령관 각하, 뻑 가지 않으셨슴까?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_11].Script
+msgid "へへ、どーもっす。で、あれはどうだったっすか。あの歌っす。&nいい歌でありますが…司令官閣下にもウケなかったっすか？"
+msgstr ""
+
+#  Korean Text: '그런 것 같기도… 난 잘 모르겠어.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_12].Script
+msgid "そんなような気も…しなくもない…わからない。"
+msgstr ""
+
+#  Korean Text: '크크. 말은 안 해도 사령관 각하 뻑갔을 가능성 엄청 높지 말임다.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_13].Script
+msgid "くくく、口ではいやいや言ってるっすけど、&n司令官閣下には大ウケしたに違いないっすよ。"
+msgstr ""
+
+#  Korean Text: '응. 그런데… 이제 시크릿 포인트 못 가? 이제?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_14].Script
+msgid "うん…？うん…。それで…もうシークレットポイントにはいけないの？"
+msgstr ""
+
+#  Korean Text: '걱정하지 말지 말임다. 선생님이 또 다른 포인트를 가르쳐 주셨지 말임다. &n이번엔 주인공이 무려…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_15].Script
+msgid "ご心配なく！先生から他のポイントを教えてもらったのであります。&n今回の面子は、なんと…！"
+msgstr ""
+
+#  Korean Text: '무려?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_16].Script
+msgid "なんと？"
+msgstr ""
+
+#  Korean Text: '히익! 갑자기 팬텀 씨가 왜…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_17].Script
+msgid "うひゃあぁ！？なんでいきなりファントムさんが…"
+msgstr ""
+
+#  Korean Text: '저… 전…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_18].Script
+msgid "じ、自分は…"
+msgstr ""
+
+#  Korean Text: '저는 상병님이 시키신 일이 있어서 그만… 전 아무것도 말 안 했지 말임다!'
+#: DialogScript[DG_Ch01Ev3Stage10_2_19].Script
+msgid "私には上等兵殿から受け持った仕事がありまして！これで！&n…私は何も言ってないっすー！"
+msgstr ""
+
+#  Korean Text: '자, 잠깐!'
+#: DialogScript[DG_Ch01Ev3Stage10_2_20].Script
+msgid "ま、待て！"
+msgstr ""
+
+#  Korean Text: '… 크윽…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_21].Script
+msgid "…くっ…"
+msgstr ""
+
+#  Korean Text: '혹시 팬텀도 시크릿 포인트 가보고 싶어서 그래?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_22].Script
+msgid "もしかしてファントムも、シークレットポイント…行きたいの？"
+msgstr ""
+
+#  Korean Text: '그, 그게… 아니다. 나, 난… 그런데 관심이…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_23].Script
+msgid "そ、それは…違う。わ、私は…そんなことに興味はなくてだな…"
+msgstr ""
+
+#  Korean Text: '… 팬텀은 관심 없구나… 아쉽네…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_24].Script
+msgid "…ファントムは興味ないんだね…残念…"
+msgstr ""
+
+#  Korean Text: '난 가볼게. 브라우니한테 물어볼 게 있어서.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_25].Script
+msgid "私は行くね…。ブラウニーにまだ聞きたいことが…あるの。"
+msgstr ""
+
+#  Korean Text: '… 어째서… 난…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_26].Script
+msgid "…どうして…私は…"
+msgstr ""
+
+#  Korean Text: '... 그냥 관심 있다고 솔직하게 말할걸…'
+#: DialogScript[DG_Ch01Ev3Stage10_2_27].Script
+msgid "…興味があると、ただ、素直に言えばいいだけのことを…"
+msgstr ""
+
+#  Korean Text: '... 이쪽도 아니군... 대체 어디로 사라진 거지?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_28].Script
+msgid "…こっちでもない…一体ポックルはどこへ消えた…？"
+msgstr ""
+
+#  Korean Text: '저기, 백토야?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_29].Script
+msgid "あのね、白兎ちゃん"
+msgstr ""
+
+#  Korean Text: '큿. 내가 이렇게 물러지다니...&n... 난 선대 백토님을 뵐 자격이 없어.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_30].Script
+msgid "くっ、私もここまで勘が鈍ってしまったとは…&n先代の白兎様に顔向けできない。"
+msgstr ""
+
+#  Korean Text: '헤헤. 백토야? 괜찮으면 나랑 이야기 좀 할 수 있을까?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_31].Script
+msgid "ねぇ…白兎ちゃん？よかったら、私と少しお話しない？"
+msgstr ""
+
+#  Korean Text: '있지, 뽀끄루 대마왕은 그렇게 나쁜 사람이 아닐지도...'
+#: DialogScript[DG_Ch01Ev3Stage10_2_33].Script
+msgid "あのね？ポックル大魔王はそんなに悪い人じゃないかもしれないよ？"
+msgstr ""
+
+#  Korean Text: '설마, 또 그런 말도 안 되는 헛소리를 하려는 거야?'
+#: DialogScript[DG_Ch01Ev3Stage10_2_34].Script
+msgid "まさか、またそんなくだらない嘘を言うつもりなの！？"
+msgstr ""
+
+#  Korean Text: '우음... 내 매지컬 센서로 확인해 봤는데, 뽀끄루 대마왕은 사실 착한...'
+#: DialogScript[DG_Ch01Ev3Stage10_2_35].Script
+msgid "ううん…私のマジカルセンサーで確かめてみたけど、ポックル大魔王って実は善い…"
+msgstr ""
+
+#  Korean Text: '그만! 더 이상 듣고 싶지 않아.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_36].Script
+msgid "もういい！&n…それ以上聞きたくない。"
+msgstr ""
+
+#  Korean Text: '모모? 너처럼 순진하고 착한 마법소녀들은 마의 유혹에 타락하기 쉬워.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_37].Script
+msgid "モモ？君のような純真無垢で善良な魔法少女は魔の誘惑に堕落しやすい…。"
+msgstr ""
+
+#  Korean Text: '네가 그렇게 위험한 이야기를 할수록. 난 널 의심할 수밖에 없다는 걸 알아둬.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_38].Script
+msgid "モモがそういう危険な話をすればするほど、&n私はモモを疑うしかなくなるってことを、忘れないで…。"
+msgstr ""
+
+#  Korean Text: '백토야...'
+#: DialogScript[DG_Ch01Ev3Stage10_2_39].Script
+msgid "白兎ちゃん…"
+msgstr ""
+
+#  Korean Text: '그만 돌아가자. 매직 젠틀맨이 우릴 걱정하고 있을 테니.'
+#: DialogScript[DG_Ch01Ev3Stage10_2_40].Script
+msgid "帰ろう。マジックジェントルマンが私たちのことを心配しているはず。"
+msgstr ""
+
+#  Korean Text: '으응...'
+#: DialogScript[DG_Ch01Ev3Stage10_2_41].Script
+msgid "うん…"
+msgstr ""
+
+#  Korean Text: '- 지금 함장실에 모여 있는 모든 사람들은 닥터를 주시하고 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_1].Script
+msgid "- 艦長室に集まった全員がドクターに注目していた。"
+msgstr ""
+
+#  Korean Text: '- 현재로서는, 닥터가 뽀끄루의 유일한 희망인 셈이다.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_2].Script
+msgid "- 今現在、ドクターだけがポックルの唯一の希望だ…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_2].SelectionIndex[1]
+msgid "ドクター？"
+msgstr ""
+
+#  Korean Text: '우음... 흐으음...'
+#: DialogScript[DG_Ch01Ev3Stage11_1_3].Script
+msgid "うーむ…うーん…？"
+msgstr ""
+
+#  Korean Text: '저... 박사님? 전 마음의 준비가 됐어요...'
+#: DialogScript[DG_Ch01Ev3Stage11_1_4].Script
+msgid "あの…博士？心の準備は出来ています…。"
+msgstr ""
+
+#  Korean Text: '검사 결과가 나왔어. 마왕 언니 놀라지 말고 잘 들어야 해.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_6].Script
+msgid "検査結果が出たよ。魔王のお姉ちゃんは驚かないでよく聞いてね。"
+msgstr ""
+
+#  Korean Text: '백토 언니는 지금 강력한 최면이 걸린 상태야. &n제조 과정에 뭐가 잘못됐는지… 마지막에 그게 모두 연기라는 게 입력이 안 된 것 같아.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_7].Script
+msgid ""
+"白兎お姉ちゃんには強力な催眠がかかっているの。&n製造過程で何を間違ったか最後に入力されるはずの「これは全部演技だ」っていう情報だけが入力されていないみたい"
+"なんだ。"
+msgstr ""
+
+#  Korean Text: '그, 그럼… 그게 연기라는 정보를 입력해 주면…'
+#: DialogScript[DG_Ch01Ev3Stage11_1_8].Script
+msgid "だ、だったら…「これは演技だ」という情報だけインプットすれば…"
+msgstr ""
+
+#  Korean Text: '그게 좀 힘들어. 모듈을 달아 주기도 그렇고… &n그런데 궁금한 게 있는데… 마왕 언니 장비 중에 뇌파로 세뇌를 시키는 게 있던데…'
+#: DialogScript[DG_Ch01Ev3Stage11_1_9].Script
+msgid ""
+"それがちょっと難しいんだー。モジュールをつけることも嫌がりそうだし…&n気になることがあるんだけど、&n魔王のお姉ちゃんの持ってる装備の中に脳波で洗脳する物"
+"があったよね？"
+msgstr ""
+
+#  Korean Text: '... 그걸론 안돼요... 제 세뇌 능력은… 시간제한이 좀 짧아서…&n게다가 지능이 좀 낮아질 수 있어서 백토가 위험해질 수 있어요.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_10].Script
+msgid "…これはダメです…私の洗脳能力には時間制限があるし、短くて…&nそれに副作用で知能が落ちますから、白兎に良くありません。"
+msgstr ""
+
+#  Korean Text: '흐응~ 그래? 좀 아쉽네… &n그럼… 마왕 언니 능력을 이용하는 계획은… 좀 힘들겠네…'
+#: DialogScript[DG_Ch01Ev3Stage11_1_11].Script
+msgid "ふ～ん、そうなんだ？残念…&nじゃあ、魔王のお姉ちゃんの能力を使う計画はダメだね…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_11].SelectionIndex[1]
+msgid "それしか方法はないのか？"
+msgstr ""
+
+#  Korean Text: '방법? 히히~! 당연히 있지!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_12].Script
+msgid "方法？ひひ～！当然あるよー！！"
+msgstr ""
+
+#  Korean Text: '- 닥터는 즐겁다는 듯 깔깔대며 웃었다. 닥터가 저렇게 웃는 건 장난기가 발동했다는 뜻.&n... 어쩐지 불안한 느낌이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_13].Script
+msgid "- ドクターが楽しそうにげらげら笑った。&nドクターがあんな笑い方をするときは悪戯心が発動しているときだ。&n…嫌な予感がする。"
+msgstr ""
+
+#  Korean Text: '첫 번째 방법!&n뽀끄루 언니가 소멸한다!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_14].Script
+msgid "一つ目！&n魔王のお姉ちゃんが消滅する！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_14].SelectionIndex[1]
+msgid "何を言っているの…"
+msgstr ""
+
+#  Korean Text: '저, 전... 사라지고 싶지 않아요... 다른 방법은 없나요?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_15].Script
+msgid "わ、私は…消えたくありません…他の方法はありませんか？"
+msgstr ""
+
+#  Korean Text: '그러면~! 두 번째 방법! 이건 닥터가 추천하는 방법이야.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_16].Script
+msgid "じゃあ二つ目！これはドクターちゃんオススメの方法だよ？"
+msgstr ""
+
+#  Korean Text: '백토 언니의 기억을 전부 지워버리는 거야.&n마왕 언니를 때려 부수라는 최면까지 전부 날려 버리는 거지~!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_17].Script
+msgid "白兎お姉ちゃんの記憶を綺麗さっぱり消しちゃうの。&n魔王のお姉ちゃんをやっつけないといけないっていう催眠ごとぜーんぶ！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_17].SelectionIndex[1]
+msgid "それも絶対…"
+msgstr ""
+
+#  Korean Text: '그건 안 돼. 닥터.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_18].Script
+msgid "それは…ダメ。ドクター。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_18].SelectionIndex[1]
+msgid "ネオディム？"
+msgstr ""
+
+#  Korean Text: '다른 사람의 기억에 손을 대는 건, 내가 막을 거야. 그거… 나쁜 짓이야… 레이시 언니도…'
+#: DialogScript[DG_Ch01Ev3Stage11_1_19].Script
+msgid "他人の記憶を弄るのは、私が止める。それは…悪いこと…。&nレイシーも…そう言う。"
+msgstr ""
+
+#  Korean Text: '네오딤... 언니?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_20].Script
+msgid "ネオディム…お姉ちゃん？"
+msgstr ""
+
+#  Korean Text: '... 그러니까. 그런 말 하지 말아 줘.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_21].Script
+msgid "…お願いだから…そんなことは言わないで…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_21].SelectionIndex[1]
+msgid "心配するな。俺が許さないから、絶対に。"
+msgstr ""
+
+#  Korean Text: '응… 미안… 사령관… 나, 난 가볼게. 속이 좀 이상해…'
+#: DialogScript[DG_Ch01Ev3Stage11_1_22].Script
+msgid "うん…ごめん…司令官…わ、私…部屋に戻るね。&n気分…が少し悪くなった…"
+msgstr ""
+
+#  Korean Text: '- 네오딤이 노여워하는 모습은 처음 본 것 같다. 무슨 일일까?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_23].Script
+msgid "- ネオディムがあれだけ激しく反応するところは初めて見た。&n過去に何かあったのだろうか…。"
+msgstr ""
+
+#  Korean Text: '뭐 그게 싫으면… 뿌 뿌~! 닥터의 의견은 여기까지입니다!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_24].Script
+msgid "…まぁこれがダメなら…ブッブー！ドクターからは以上です！終わり！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_24].SelectionIndex[1]
+msgid "ありがとう、ドクター"
+msgstr ""
+
+#  Korean Text: '미안. 오빠. 일단, 아무래도 난 이쪽으론 아이디어가 좀 약해서…'
+#: DialogScript[DG_Ch01Ev3Stage11_1_25].Script
+msgid "ごめんね、お兄ちゃん。私、こういう方面はどうしても弱いみたい…。"
+msgstr ""
+
+#  Korean Text: '... 전 괜찮아요 꼬마 박사님... 그래도 이렇게 노력해 줘서 얼마나 기쁜지 몰라요.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_26].Script
+msgid "…私は大丈夫ですよ、博士のお嬢さん…&nこんなに頑張ってくれただけで私は嬉しいです。"
+msgstr ""
+
+#  Korean Text: '흥! 몰라. 나도 이번 일 때문에 자존심에 상처받았어~.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_27].Script
+msgid "ふん！知らないよーだ！私だって今回のことでプライドが傷ついちゃったよー！"
+msgstr ""
+
+#  Korean Text: '연구실에서 좀 더 방법을 생각해 볼 테니까… &n혹시 생각나는 게 있으면 말해 줄게.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_28].Script
+msgid "よーし！他にいいアイデアがないか研究室でもっと考えてみるから…&n何か思いついたら教えにくるね！"
+msgstr ""
+
+#  Korean Text: '... 사장님? 이젠 정말 방법이 없는 걸까요...?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_29].Script
+msgid "…社長？もうどうしようもないんでしょうか…？"
+msgstr ""
+
+#  Korean Text: '오우~! 마왕님의 몸에 걸린 그것은 저주인가?&n그렇다면, 저주 전문가인 내게 맡겨 보는 게 어때?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_30].Script
+msgid "おお～！魔王様に降りかかるそれは呪いか～！？&nそうならば～！呪いの専門家である私にお任せあれ～！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_30].SelectionIndex[1]
+msgid "今度は呪い専門家…！？"
+msgstr ""
+
+#  Korean Text: '아주 간단한 이야기야.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_31].Script
+msgid "シンプルな話だよ。"
+msgstr ""
+
+#  Korean Text: '저주를 푸는 가장 쉬운 방법은, 그 녀석의 염원을 들어주는 거지.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_32].Script
+msgid "呪いを解く一番の方法は。かけた奴の怨念を晴らすことよ！"
+msgstr ""
+
+#  Korean Text: '저기... 트리아이나 씨 생각은... 그러니까...'
+#: DialogScript[DG_Ch01Ev3Stage11_1_33].Script
+msgid "えと…トリアイナさんの考えていうのは…つまり…"
+msgstr ""
+
+#  Korean Text: '응! 백토에게 신나게 두들겨 맞고 나면, 백토도 화가 풀려서 마왕 언니를 놓아주지 않을까?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_34].Script
+msgid "うん！白兎ちゃんにぶちのめされたら、白兎ちゃんの恨みが晴れて、&nポックルんを解放してくれるんじゃない？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_34].SelectionIndex[1]
+msgid "暴力はダメだって誰か言ってなかったっけ…？"
+msgstr ""
+
+#  Korean Text: '그, 그건 안돼요!&n사장님? 백토의 매지컬 핑크 문 라이트에 맞았다가는 죽고 말 거예요...'
+#: DialogScript[DG_Ch01Ev3Stage11_1_35].Script
+msgid "そ、それはダメです！&n社長！？白兎のマジカルピンクムーンライトに殴られたら死んでしまいますよ…！&nチェーンソーなんですよ！？"
+msgstr ""
+
+#  Korean Text: '고통 없이는 아무것도 얻을 수 없다구~. 어때? 뽀끄루 씨?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_36].Script
+msgid "痛みを恐れてちゃ何も得られないんだよ～？ポックルん？覚悟を決めよ？ね？"
+msgstr ""
+
+#  Korean Text: '트리아이나 학생의 말에도 일리가 있어요. 다만, 체벌은 알맞은 선생님이 내려주는 게 &n좋겠죠.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_37].Script
+msgid "トリアイナさんの言葉には一理あります…。しかし、体罰と言うものは&nその資格がある先生が行わなければなりません。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_37].SelectionIndex[1]
+msgid "アレクサンドラ？"
+msgstr ""
+
+#  Korean Text: '제 이야기를 한번 들어 보시겠어요?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_38].Script
+msgid "私のアイデア…聞いてみますか？"
+msgstr ""
+
+#  Korean Text: '알렉산드라님?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_39].Script
+msgid "アレクサンドラさんの？"
+msgstr ""
+
+#  Korean Text: '헤헤~ 좋아! 무슨 이야긴지 한번 들어볼까?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_40].Script
+msgid "へへ～いいよ！どんな方法か聞いてみようじゃない！"
+msgstr ""
+
+#  Korean Text: '- 의견은 여럿 들어보는 게 좋다. 더군다나 알렉산드라의 의견이라면 챙겨 듣는 쪽이&n무조건 좋다.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_41].Script
+msgid "- アイデアは多いほうがいい。&n何よりアレクサンドラの意見なら聞いて損はないはずだ。"
+msgstr ""
+
 #: DialogScript[DG_Ch01Ev3Stage11_1_41].SelectionIndex[1]
-msgid "これからも宜しく頼むな。"
+msgid "よろしく頼む。"
+msgstr ""
+
+#  Korean Text: '자... 그럼 잘 들어주세요.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_42].Script
+msgid "では…よーく聞いてください。"
+msgstr ""
+
+#  Korean Text: '- 알렉산드라의 계획도 트리아이나의 생각과 크게 다르지 않았다.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_44].Script
+msgid "- アレクサンドラの計画もトリアイナのアイデアと大して変わらなかった。"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루가 모모에게 패배한 뒤, 오르카에서 마법소녀들에게 적절한 교육을 받고...'
+#: DialogScript[DG_Ch01Ev3Stage11_1_45].Script
+msgid "- ポックルがモモに敗北し、オルカの魔法少女たちのお仕置きを受ける…"
+msgstr ""
+
+#  Korean Text: '뽀끄루씨가 회개해서 착한 마법 소녀가 되는 거죠. 이해하셨나요?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_46].Script
+msgid "つまりポックルさんが悔い改め、優しい魔法少女になるのです…。&nお分かりいただけたかしら？"
+msgstr ""
+
+#  Korean Text: '모모 씨... 인가요? 네! 모모 씨라면 괜찮아요. 우린 꽤 호흡이 잘 맞는 동료였으니까요!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_47].Script
+msgid "モモに…ですか。はい！モモなら大丈夫です。&n私たちけっこう息ピッタリの仲間でしたから！"
+msgstr ""
+
+#  Korean Text: '뽀끄루씨는 결국 맞는 역할이구나... 괜찮겠어? &n음… 어차피 연기니까 괜찮으려나?'
+#: DialogScript[DG_Ch01Ev3Stage11_1_48].Script
+msgid "ポックルんって結局やられ役なんだね…大丈夫なの？&nまぁ…どうせ演技だろうし大丈夫だよね？"
+msgstr ""
+
+#  Korean Text: '모모 씨는 베테랑이에요. 그녀라면 저도 안심할 수 있어요.&n최소한... 급소는 피해서...'
+#: DialogScript[DG_Ch01Ev3Stage11_1_49].Script
+msgid "モモはベテランです。彼女なら私も安心できます。&nなるべく…急所だけは外してくれる…はず…"
+msgstr ""
+
+#  Korean Text: '아, 아무튼 전 마음에 들어요.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_50].Script
+msgid "と、とにかく私はこれがいいと思います！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_50].SelectionIndex[1]
+msgid "よし、そうと決まれば他の魔法少女たちにも作戦を伝えてくれ"
+msgstr ""
+
+#  Korean Text: '오케이! 그렇게 하죠 매직 젠틀맨!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_51].Script
+msgid "アイアイサー！キャプテ…マジックジェントルマン！"
+msgstr ""
+
+#  Korean Text: '아 맞아!'
+#: DialogScript[DG_Ch01Ev3Stage11_1_52].Script
+msgid "あ、そうだ！"
+msgstr ""
+
+#  Korean Text: '이번 촬영에는 정말 끝내 주는 신참 마법 소녀가 등장할 계획이니까,&n기대하라구 매직 젠틀맨님.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_53].Script
+msgid "今回の演劇には本当にまともな新入り魔法少女が登場するから、期待してね？&nマジックジェントルマン殿！！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_1_53].SelectionIndex[1]
+msgid "まともな新入り？"
+msgstr ""
+
+#  Korean Text: '- 정말 마법 '소녀'일까? 되물어 보고 싶었지만, 그런 건 별로 중요하지 않다.&n마법 소녀는 근성과 매지컬 복장으로 완성되는 것이니까.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_54].Script
+msgid "- 本当に魔法「少女」なのかを確認したいが、それは大した問題ではないだろう。&n魔法少女は心の力とマジカルな衣装で何とかなるものなんだから！"
+msgstr ""
+
+#  Korean Text: '- 어찌 됐든, 뽀끄루와 백토 그리고 모두를 위해서라도 일이 잘 풀렸으면 좋겠다.'
+#: DialogScript[DG_Ch01Ev3Stage11_1_55].Script
+msgid "- とにかく、ポックルと白兎、&nそしてみんなのためにも上手くいくことを願うばかりだ。"
+msgstr ""
+
+#  Korean Text: '- 전투가 종료된 시점. 보통 때라면 복귀를 기다리며 느긋하게 휴식을 취하는 시간이지만&n연극을 앞둔 지금은 마법 소녀들 사이에서 묘한 긴장감이 돌고 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_1].Script
+msgid "- 戦闘が終わり、いつもなら帰還待ちの休憩をしている時間だが、&n演劇を控えている魔法少女たちの間には妙な緊張感が満ちていた…。"
+msgstr ""
+
+#  Korean Text: '- 마법 소녀들의 행운을 빌어주자.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_2].Script
+msgid "- 魔法少女たちの成功を祈ろう…。"
+msgstr ""
+
+#  Korean Text: '이번에도 큰 수확은 없었어.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_3].Script
+msgid "今回も大した手掛かりはなかった…。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_3].SelectionIndex[1]
+msgid "待てーあれは何だー（棒）"
+msgstr ""
+
+#  Korean Text: '뭣?! 무슨 일인가 매직 젠틀맨?'
+#: DialogScript[DG_Ch01Ev3Stage11_2_4].Script
+msgid "なに！？どうしましたか！？マジックジェントルマン！"
+msgstr ""
+
+#  Korean Text: '저기서 강력한 마의 기운이 느껴져요!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_5].Script
+msgid "あちらから強力な魔の気配を感じますー（棒）"
+msgstr ""
+
+#  Korean Text: '꺄아~! 뽀끄루 대마왕이다~! 전 마법 소녀들을 불러올게요!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_6].Script
+msgid "きゃー！ポックル大魔王だ～！私はみんなを呼んできます！（棒）"
+msgstr ""
+
+#  Korean Text: '- 우리 둘의 연기는 처참했지만, 다행히도 백토는 이상함을 눈치채지 못한 듯했다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_7].Script
+msgid "- 俺たち二人の演技は壊滅的だったが、幸い白兎はこの異常には気づいてないみたいだ。"
+msgstr ""
+
+#  Korean Text: '어리석은 달의 아이들이 제 발로 여기까지 찾아왔구나...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_8].Script
+msgid "愚かな月の子よ。自ら死にに来たというわけか…。"
+msgstr ""
+
+#  Korean Text: '이번에는 살려두지 않겠다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_9].Script
+msgid "此度は生かしておかんぞ…"
+msgstr ""
+
+#  Korean Text: '뽀끄루 대마왕!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_10].Script
+msgid "ポックル大魔王！！"
+msgstr ""
+
+#  Korean Text: '너와 네 동료들에게 끝없는 절망을 안겨주마!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_11].Script
+msgid "貴様とその仲間たちに終わらぬ絶望を与えよう！"
+msgstr ""
+
+#  Korean Text: '으읏… 안되는데… 이 옷은 너무… 조여서…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_12].Script
+msgid "うぅっ…ダメ…この服…きつすぎ…だよぉ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_12].SelectionIndex[1]
+msgid "キャロル！？パツパツじゃないか！！"
+msgstr ""
+
+#  Korean Text: '- 아무리 봐도 저 바니걸 복장은 캐럴에게 너무 작은 것 같다.&n트리아이나는 캐럴에게 저걸 입히며 무슨 생각을 하고 있었을까?'
+#: DialogScript[DG_Ch01Ev3Stage11_2_14].Script
+msgid "- どう見てもあのバニーガールの衣装はキャロルには小さ過ぎるだろ…。&nトリアイナはいったい何を考えてるんだ？弾ける寸前だぞ…。"
+msgstr ""
+
+#  Korean Text: '왜, 왜 그 러시죠...?'
+#: DialogScript[DG_Ch01Ev3Stage11_2_15].Script
+msgid "ど、どうしたんですかぁ…？"
+msgstr ""
+
+#  Korean Text: '네가 새로운 마법 소녀로군. 하지만 매지컬 파워가 너무 약해… 아무래도… 이 싸움에 끼기엔…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_16].Script
+msgid "あなたが新しい魔法少女ですか…。ですが、マジカルパワーが弱すぎる…とてもこの闘いには…"
+msgstr ""
+
+#  Korean Text: '저, 저도 제가 왜 여기 끼였는지…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_17].Script
+msgid "キャ、キャロルは一体どうして…こんなとこに…"
+msgstr ""
+
+#  Korean Text: '트리아이나씨 말만 듣고 왔는데… 이게 무슨 일이람…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_18].Script
+msgid "トリアイナさんに言われて来ただけなのに…これはどういうこと～…？"
+msgstr ""
+
+#  Korean Text: '우습군… 혹시 내가 방심하기를 원하는 것이냐? 사라져라. 하찮은 것.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_19].Script
+msgid "笑わせてくれる…我の油断を誘うつもりか？くだらん。失せろ！雑魚め！！"
+msgstr ""
+
+#  Korean Text: '꺄아악!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_20].Script
+msgid "きゃあああっ！"
+msgstr ""
+
+#  Korean Text: '아, 안돼!! 그만둬 뽀끄루!!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_21].Script
+msgid "や！やめろ！ポックル！やめろ！！！"
+msgstr ""
+
+#  Korean Text: '흐윽... 으윽...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_22].Script
+msgid "くっ…うぅっ…"
+msgstr ""
+
+#  Korean Text: '트리아이나 씨...? 이렇게 뜨겁다는 말은 없었잖아요…&n백토… 날 버리지 마…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_23].Script
+msgid "トリアイナさんの…うそつき…こんな熱い鞭だなんて聞いてない…です。&n白兎さん…私を見捨てないで…"
+msgstr ""
+
+#  Korean Text: '당한 건가?! 용서할 수 없어! &n당장…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_24].Script
+msgid "やられた！？許せない…！今すぐ…お前を…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_24].SelectionIndex[1]
+msgid "白兎、キャロルを頼む！"
+msgstr ""
+
+#  Korean Text: '- 캐럴을 이용해 뽀끄루에서 백토를 떼어내야 한다. &n백토라면 적어도 동료를 외면하지는 않겠지.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_25].Script
+msgid "- キャロルを使ってポックルから白兎を引き剥がさないと。&n白兎の性格なら仲間を見捨てるなんて事はしない。"
+msgstr ""
+
+#  Korean Text: '크윽! 마왕을 눈앞에 두고. 어떻게 이런 일이...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_26].Script
+msgid "くっ！魔王は目の前なのに…！どうしてこんな…でも…"
+msgstr ""
+
+#  Korean Text: '내가 있잖아 백토야. 여긴 모모에게 맡기고 다른 마법 소녀들을 지켜줘!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_27].Script
+msgid "私がいるよ、白兎ちゃん！ここはモモに任せて！他の魔法少女たちを守って！"
+msgstr ""
+
+#  Korean Text: '모모인가?! 좋아. 모모 라면 안심하고 맡길 수 있겠지.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_28].Script
+msgid "モモ！？うん、モモなら安心して任せられる。"
+msgstr ""
+
+#  Korean Text: '... 훗...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_29].Script
+msgid "…モモ…"
+msgstr ""
+
+#  Korean Text: '절대 지지 마라. 모모.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_30].Script
+msgid "負けないで…！"
+msgstr ""
+
+#  Korean Text: '우릴 지켜주는 달이 있는 한, 마법 소녀는~?'
+#: DialogScript[DG_Ch01Ev3Stage11_2_31].Script
+msgid "月が私たちを見守る限り、魔法少女は～？"
+msgstr ""
+
+#  Korean Text: '악에 굴복하지 않아. 절대로!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_32].Script
+msgid "悪には屈しない。絶対に！"
+msgstr ""
+
+#  Korean Text: '- ... 이상한 일이다. 훌륭한 배우들의 열연을 감상하는 일이 왜 이리 힘들게 느껴지는 걸까?&n생각 같아선 지금 당장이라도 이 자리를 떠나고 싶다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_33].Script
+msgid "- …おかしい。&n素晴らしい女優たちの熱演を観ているはずなのに、何故こんなに苦しいんだ？&n今すぐにでもモニターをオフにして席を外したい。"
+msgstr ""
+
+#  Korean Text: '뽀끄루 대마왕! 더 이상의 악행은 용서할 수 없어요!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_34].Script
+msgid "ポックル大魔王！これ以上の悪行は見過ごせません！"
+msgstr ""
+
+#  Korean Text: '아아... 널 다시 만나게 되다니...&n이젠 지긋 지긋하구나... 매지컬 소녀 모모.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_35].Script
+msgid "ああ…貴様とまた相見えるとは…&nうんざりする。魔法少女マジカルモモ…。貴様とは…"
+msgstr ""
+
+#  Korean Text: '말이 길어요!&n시간차를 이용한, 매지컬 펀치~!!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_36].Script
+msgid "セリフが長いです！&n喋ってる間にマジカルパ～ンチ！！"
+msgstr ""
+
+#  Korean Text: '자, 잠깐만 기다려다오! 갑자기 주먹질이라니!?'
+#: DialogScript[DG_Ch01Ev3Stage11_2_37].Script
+msgid "ちょっ！ま、待ってくれ！いきなりパンチ！？"
+msgstr ""
+
+#  Korean Text: '흐이익?!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_38].Script
+msgid "ふひぃぃぃっ！？"
+msgstr ""
+
+#  Korean Text: '어서 잘못을 뉘우치세요! 사랑과 우정을 담아... 매지컬 펀치~!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_39].Script
+msgid "さぁ懺悔してください！愛と友情の…マジカルパ～ンチ！"
+msgstr ""
+
+#  Korean Text: '크흑... 아직, 아직이다! 제법 매서운 공격이었지만, &n... 이 몸이 최종 변신을 한다면...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_40].Script
+msgid "くっ…まだ、まだだ！中々の攻撃だったが、&n…まだ我には最終形態が残って…"
+msgstr ""
+
+#  Korean Text: '피하기 없기~! 샤이닝 매지컬 펀치~!!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_41].Script
+msgid "避けちゃだめです～！シャイニングマジカルパ～ンチ！！"
+msgstr ""
+
+#  Korean Text: '자, 잠... 깐...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_42].Script
+msgid "ま、待って…もうちょっと展開を…"
+msgstr ""
+
+#  Korean Text: '훗. 변신조차 허락하지 않겠다는 건가? 역시 모모답군... &n절대로 방심하지 않아.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_43].Script
+msgid "よし！変身する時間すら与えない！&nさすがモモ…慢心しないで徹底的に叩くつもりね！"
+msgstr ""
+
+#  Korean Text: '- 모모는 숙련된 연기자다. 저게 실제 펀치일 리 없겠지만...&n... 아니, 지금은 그렇게 믿도록 하자...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_44].Script
+msgid "- モモはベテランの役者だ。あれが本物のパンチであるわけがない…&nうん、きっとそうだ…信じよう。"
+msgstr ""
+
+#  Korean Text: '패배를 인정하세요! 끝까지 포기하지 않겠다면, 이 자리에서 녹아버린 파르페처럼&n만들어 주겠어요!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_45].Script
+msgid "負けを認めなさい！&nさもなくば、この場で溶けたパフェのようにしちゃいますよー！"
+msgstr ""
+
+#  Korean Text: '... 끄륵...'
+#: DialogScript[DG_Ch01Ev3Stage11_2_46].Script
+msgid "…ぽっきゅるるる…"
+msgstr ""
+
+#  Korean Text: '어쩔 수 없군요!&n매 지 컬~!!!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_47].Script
+msgid "仕方ないです…！こうなったら！&n月光の力を借りて！今！必殺の！マージーカールー！！！……"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_47].SelectionIndex[1]
+msgid "待て！魔王はもう気を失ってるぞ！"
+msgstr ""
+
+#  Korean Text: '... 어둠이 물러나고. 마침내 모모 일행은 승리했답니다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_49].Script
+msgid "「…闇は去り、ついにモモたちは勝利を手にしたのでした」"
+msgstr ""
+
+#  Korean Text: '- 모모는 맑은 목소리로 내레이션을 마친 뒤, 기절한 뽀끄루의 엉덩이에&n모모 스티커를 한 장 붙여주었다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_50].Script
+msgid "- 綺麗な声でナレーションを入れたモモは、&n気を失ったポックルのお尻にモモステッカーを一枚を貼った。"
+msgstr ""
+
+#  Korean Text: '매지컬 프리즈~!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_51].Script
+msgid "マジカール！フリーズ～！"
+msgstr ""
+
+#  Korean Text: '- ... 저 행동의 의미를 모르겠다... 모모는 뽀끄루에 수치심을 주고 싶은 걸까?&n마법 소녀들은 정말 이해하기 힘들다.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_53].Script
+msgid "- …ステッカーを貼った意味がわからない…。&n…モモはトドメとしてポックルに恥をかかせたいのか…？&n魔法少女の世界は本当に難しい…。"
+msgstr ""
+
+#  Korean Text: '훗... 마를 봉인하는데 성공했군. 완벽한 마무리였다. 모모.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_54].Script
+msgid "ふふ…ついに魔を封印することに成功したのね…。最後まで完璧だった、モモ。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_54].SelectionIndex[1]
+msgid "あ…あれが封印の儀式だったんだ…。"
+msgstr ""
+
+#  Korean Text: '... ... 사장... 님...?'
+#: DialogScript[DG_Ch01Ev3Stage11_2_55].Script
+msgid "……社長…？"
+msgstr ""
+
+#  Korean Text: '- 간신히 정신을 차린 뽀끄루는 내게 사인을 보내왔다. 백토가 눈치채기 전에 서두르자.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_56].Script
+msgid "- やっと意識が戻ったポックルが俺にサインを送ってきた。&n白兎が気づかないうちに急ごう。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_56].SelectionIndex[1]
+msgid "ま、マジックジェントルマンが命ずる！"
+msgstr ""
+
+#  Korean Text: '하앗! 매지컬 파워 레디!'
+#: DialogScript[DG_Ch01Ev3Stage11_2_57].Script
+msgid "はぁっ！マジカルパワー！レディー！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_57].SelectionIndex[1]
+msgid "ポックルをここに連行せよ！"
+msgstr ""
+
+#  Korean Text: '하지만… 끝을 내지 않는 건가? &n뽀끄루는 교활한 녀석이다. 여기서 끝을 내지 않으면…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_58].Script
+msgid "ここで始末…しないんですか…？&nポックルは狡猾です…。ここで終わらせないと…！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage11_2_58].SelectionIndex[1]
+msgid "俺に良い考えがある！"
+msgstr ""
+
+#  Korean Text: '역시… 거기까지 생각해 뒀던 건가? &n좋아. 나를 믿어. 내가 완벽하게 비밀기지까지 이송할 테니.'
+#: DialogScript[DG_Ch01Ev3Stage11_2_59].Script
+msgid "なるほど…そうでしたか。そこまで計画を立てていたんですね？&n分かりました。私を信じてください…秘密基地まで移送しますので。"
+msgstr ""
+
+#  Korean Text: '- 백토가 뽀끄루를 둘러매고 기지로 향했다. 자, 그럼… 우리에게 남은 일은 하나뿐이겠지…'
+#: DialogScript[DG_Ch01Ev3Stage11_2_60].Script
+msgid "- 白兎がポックルを担いで基地に向かう。さぁ…作戦は最終段階だ。"
 msgstr ""
 
 #  Korean Text: '붙잡혀온 뽀끄루'
@@ -5760,9 +10101,861 @@ msgstr ""
 msgid "捕まえられたポックル"
 msgstr ""
 
+#  Korean Text: '- 뽀끄루는 묶인 채로 함교로 끌려왔다. 그런 그녀를 보고 있자니 안쓰러운 기분이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_1].Script
+msgid "- ポックルは捕縛されたまま艦橋まで引きずられて来た。&n物のように乱暴に扱われる彼女を見ると可哀想になった…。"
+msgstr ""
+
+#  Korean Text: '- 여길 힐끗 쳐다보며 지나치는 오르카의 사람들. &n... 의외로 별 관심이 없는 듯했다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_2].Script
+msgid "- こちらをチラ見してそのまま通り過ぎていくオルカの隊員たち。&n…意外と興味がないようだ。"
+msgstr ""
+
+#  Korean Text: '으... 으음... 여긴... 어디...?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_3].Script
+msgid "う…ううん…ここは…どこだ…？"
+msgstr ""
+
+#  Korean Text: '흥! 이제야 정신이 드나?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_4].Script
+msgid "ふん！ようやくお目覚めのようね！"
+msgstr ""
+
+#  Korean Text: '... 우쭐대지 마라 백토. 이것도 이미 계획된 일...&n이 몸은 이런 상황에서도...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_5].Script
+msgid "…自惚れるなよ、白兎。これも全て我の計画の内…&nこの我はこんな状況でも…"
+msgstr ""
+
+#  Korean Text: '허세 부리지 마! 네가 도망갈 곳 따윈 없어!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_6].Script
+msgid "出鱈目を！お前にもう逃げ場などない！"
+msgstr ""
+
+#  Korean Text: '히, 히익!?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_7].Script
+msgid "ひ、ひぃぃぃ…！"
+msgstr ""
+
+#  Korean Text: '길고 긴 싸움이었다. 한 명의 전사로서 널 인정하지. &n넌... 제법 강한 적이었어.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_8].Script
+msgid "長い…長い戦いだった。&nお前を一人の戦士としては認める。お前は…本当に強敵だったと…。"
+msgstr ""
+
+#  Korean Text: '... 네게 자그마한 자비를 베풀어 주겠다. 마지막으로 할 말은?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_9].Script
+msgid "…そんなお前に戦士として慈悲を与えてあげる。最期に言い残すことは？"
+msgstr ""
+
+#  Korean Text: '... 마지막으로 할 말...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_10].Script
+msgid "…最期に言い残すこと…"
+msgstr ""
+
+#  Korean Text: '네?! 네?! 마지막으로 할 말이요?!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_11].Script
+msgid "って、最期！？えっ！？遺言のことですか！？"
+msgstr ""
+
+#  Korean Text: '- 백토가 뽀끄루에게 문 라이트를 들이밀기 전에 수를 써야겠다...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_12].Script
+msgid "- 白兎がポックルをムーンライトでバラす前に何か手を打たなければ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_12].SelectionIndex[1]
+msgid "まぁ白兎、落ち着け"
+msgstr ""
+
+#  Korean Text: '매직 젠틀맨? 왜 말리는 거지?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_13].Script
+msgid "マジックジェントルマン？何故私を止めるんです？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_13].SelectionIndex[1]
+msgid "先ずは尋問だ"
+msgstr ""
+
+#  Korean Text: '흠... 심문인가?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_14].Script
+msgid "ふむ…尋問…。"
+msgstr ""
+
+#  Korean Text: '그래, 당신의 말이 맞아. 아직 녀석의 수하들이 남아 있고,&n우린 녀석들을 처치할 방법을 알아내야지.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_15].Script
+msgid "確かに、あなたの言う通りですね。まだ手下が残ってる。&n奴らを始末する方法を知っているかもしれないし。"
+msgstr ""
+
+#  Korean Text: '마법 소녀? 마왕의 심문을 부탁한다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_16].Script
+msgid "そこの新たな魔法少女。魔王の尋問はあなたに任せます。"
+msgstr ""
+
+#  Korean Text: '- 백토는 몇 발자국 물러서서 팔짱을 꼈다. 이쪽을 바라보는 백토의 눈은 매섭게 빛나고 있었고,&n캐럴은 그런 백토의 기세에 눌려 쭈뼛거리며 뽀끄루의 앞에 섰다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_17].Script
+msgid ""
+"- "
+"白兎は何歩か後ろに下がって仁王立ちした。白兎の目が怖すぎるほどぎらつき、&n白兎に気圧されたキャロルがポックルの前に立たされる。今日は災難だな…キャロル。"
+msgstr ""
+
+#  Korean Text: '네? 나 말이에요? 내가 마왕을 심문 하라고요?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_18].Script
+msgid "え？キャロル？キャロルが魔王に尋問するの？"
+msgstr ""
+
+#  Korean Text: '우으으... 난 이런 거 할 줄 모르는데... 난 치어리더인데... 왜 이런 짓을...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_19].Script
+msgid "うぅぅ…そんなのできないのに…&nキャロルはただのチアリーダーなのに…なんでこんなことにぃ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_19].SelectionIndex[1]
+msgid "がんば、キャロル…"
+msgstr ""
+
+#  Korean Text: '모, 모르겠다! 흐잇~! 어서 말하세요! 당신의 부하들은 어떻게 조종한 거죠?!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_20].Script
+msgid "え、え～いっ！私ファイト～！こうなったらなるようになれ～！&nあなたはどうやって手下を操ってたのー！？は、話して～！"
+msgstr ""
+
+#  Korean Text: '후후... 간지럽구나. 그게 네가 할 수 있는 전부냐?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_21].Script
+msgid "ふふ…痒いな。貴様の力はその程度か？"
+msgstr ""
+
+#  Korean Text: '- 적당히 심문을 진행하는 척하며... 나중에 뽀끄루가 개심하는 연기를 하면 되겠지.&n다행히도 이야기는 순조롭게 흘러가고 있다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_22].Script
+msgid "- 適当に尋問を受けるフリをしつつ&n次第にポックルが改心する流れにすればオッケーだろう。&n幸いにも順調に話が進んでいる。"
+msgstr ""
+
+#  Korean Text: '이잇! 당장 말하지 않으면 더 괴롭혀 줄 거예요! 매지컬~ 스피커!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_23].Script
+msgid "えーいっ！全部吐かないと苛めちゃいますよ！&nマジカル～スピーカー！"
+msgstr ""
+
+#  Korean Text: '정말... 그 정도 마력으로 날 어찌할 수 있을 거라 생각했느냐?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_24].Script
+msgid "まったく…その程度の魔力で我をどうにかできると思っていたとは、呆れる。"
+msgstr ""
+
+#  Korean Text: '착각하지 마라! 나약한 마법 소녀들아!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_25].Script
+msgid "自惚れるなっ！脆弱な魔法少女ども！"
+msgstr ""
+
+#  Korean Text: '우으으...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_26].Script
+msgid "うぅぅ…"
+msgstr ""
+
+#  Korean Text: '- 왠지 캐럴이 뽀끄루의 기세에 눌린 것처럼 보이는데...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_27].Script
+msgid "- なんかキャロルがポックルに気圧されたように見えるんですけどー！？"
+msgstr ""
+
+#  Korean Text: '- 그나저나 뽀끄루도 적당히 하고, 선역으로 돌아서는 연기를 해야 하지 않을까?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_28].Script
+msgid "- ポックルも大魔王の演技はその程度にして、&n改心する演技をしたほうがいいと思うんだが…。"
+msgstr ""
+
+#  Korean Text: '캐럴 학생? 체벌은 그렇게 하는 게 아니에요. 그렇게 무르게 했다간, 되려 반항심만 커질걸요?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_29].Script
+msgid "キャロルさん？体罰の仕方がなっていませんね。&nそんな甘々なようでは、むしろつけ上がりますよ？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_29].SelectionIndex[1]
+msgid "ア、アレクサンドラ！？その服は…"
+msgstr ""
+
+#  Korean Text: '알렉산드라 님...?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_30].Script
+msgid "アレクサンドラ先生…？"
+msgstr ""
+
+#  Korean Text: '주인님? 저 불량한 바이오로이드를 개심 시키는 데는... 제가 적임자일 것 같군요.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_31].Script
+msgid "ご主人様？この不良バイオロイドを改心させるのは…私が適任のようですね？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_31].SelectionIndex[1]
+msgid "え…？それは…"
+msgstr ""
+
+#  Korean Text: '- 생각해 보면 교사가 계도를 해서, 악인이 정신을 차리는 이야기가 가장 그럴싸한 &n모양새가 아닐까? 복장엔 좀 문제가 있어 보이지만… 이대로 가자.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_32].Script
+msgid ""
+"- "
+"考えてみたら、教師が教育して悪い生徒が全うな道に戻るという話は、&n一番それっぽく見えなくもない。&n服装はむしろ問題アリアリのように見えるが…この方向で行"
+"こう。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_32].SelectionIndex[1]
+msgid "まぁ…そうだな！オッケー！"
+msgstr ""
+
+#  Korean Text: '...후후후... 네가 누구인지는 모르겠다만...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_33].Script
+msgid "…ふふふ…貴様がどこの誰なのかは知らんが…"
+msgstr ""
+
+#  Korean Text: '그 저급한 복장을 보니, 네 하찮은 욕망이 보이는 듯 하구나.&n수준 낮은 그 가죽...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_34].Script
+msgid "その低俗で淫乱な服を見る限り、貴様の下らん欲望が丸見えだな…。&n薄汚いその皮…"
+msgstr ""
+
+#  Korean Text: '수준 낮은?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_35].Script
+msgid "薄汚い…？"
+msgstr ""
+
+#  Korean Text: '으히이이익?!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_36].Script
+msgid "ひぃぃぃぃっ！？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_36].SelectionIndex[1]
+msgid "ポ、ポックル！"
+msgstr ""
+
+#  Korean Text: '... 흐음...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_37].Script
+msgid "…ふーん…"
+msgstr ""
+
+#  Korean Text: '주인님? 방금 저 악당을 부르신 것 같았는데. 제가 잘못 들은 것이겠죠?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_38].Script
+msgid "ご主人様？今、この悪党の名を呼んだような気がしましたが…&n…私の聞き間違いですよね？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_38].SelectionIndex[1]
+msgid "え…？あ……な、何でもありません…"
+msgstr ""
+
+#  Korean Text: '- 나도 모르게 실수할 뻔했다. 어렵게 구한 기회이니 신중하게 행동하자...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_39].Script
+msgid "- 思わず自ら地獄へ進もうとするポックルの身を案じてしまった…。&nせっかくのチャンスなんだ。慎重に計画を進めなくては…"
+msgstr ""
+
+#  Korean Text: '신성한 처벌 시간이에요. 방해받고 싶지 않군요.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_40].Script
+msgid "神聖なる罰の時間です。邪魔されたくありませんね。"
+msgstr ""
+
+#  Korean Text: '자- 그럼...&n우리 어디까지 했었죠? 마왕님?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_41].Script
+msgid "それで…&nどこまで話しましたっけ？魔王さん？"
+msgstr ""
+
+#  Korean Text: '저... 저급한... 저급한 가죽옷...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_42].Script
+msgid "う…薄汚い…薄汚い皮の服…"
+msgstr ""
+
+#  Korean Text: '으히이잇?! 찌릿찌릿해!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_43].Script
+msgid "うひゃぁぁぁっ！？ビリビリしゅりゅぅぅっ！！"
+msgstr ""
+
+#  Korean Text: '저급한?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_44].Script
+msgid "薄汚い…ですか？"
+msgstr ""
+
+#  Korean Text: '비명만 지를 줄 아는 멍청한 돼지에게...&n이 복장의 아름다움을 살펴볼 능력이 있을 리 없죠.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_45].Script
+msgid "悲鳴を上げることしか能のない愚豚に…&nこの服の素晴らしさが分かるわけないですものね…？キャロルさん？"
+msgstr ""
+
+#  Korean Text: '어... 으음...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_46].Script
+msgid "え…？うぅぅ…"
+msgstr ""
+
+#  Korean Text: '저, 전... 나가 있을래요... &n이런 거… 무서워…'
+#: DialogScript[DG_Ch01Ev3Stage12_1_47].Script
+msgid "キャ…キャロルは…もう行きますね…&n怖くて見てられませぇん…"
+msgstr ""
+
+#  Korean Text: '훗… 역시 어린애군요. 나가도 좋아요. 자 대마왕. 어서 털어놓으세요!&n저 철충들을 어떻게 조종했죠? 철충들의 또 다른 기지는 어디에 있죠?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_48].Script
+msgid ""
+"ふふ、まだお子様ですものね。いいですよ、出て行っても。&nさぁ大魔王さん、さっさと吐きなさい！&n鉄屑のクソ虫どもをどうやって操ったのですか？知っている鉄虫"
+"の巣を吐きなさい！"
+msgstr ""
+
+#  Korean Text: '크읏… 어쩔 수 없나? 모두 가, 가르쳐 주지. 철충의 기지는…&n어디... 였더라?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_49].Script
+msgid "くっ…よもやここまでか。す、全て教えよう。鉄虫の巣は…&n…え、えーっと…どこだっけ？"
+msgstr ""
+
+#  Korean Text: '쯧쯧. 선생님은 실망했어요.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_50].Script
+msgid "ちっちっちっ…先生は失望しました。"
+msgstr ""
+
+#  Korean Text: '버릇없이 선생님 앞에서 거짓말만 늘어놓는 아이에겐 더 짜릿한 벌을 주는 수밖에!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_51].Script
+msgid "先生の前で嘘をつく悪い子には、&nもっと痺れる罰を与えるしかないですねぇ！！！"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_51].SelectionIndex[1]
+msgid "ア…アレクサンドラ？あんまり…"
+msgstr ""
+
 #  Korean Text: '히이익!!'
 #: DialogScript[DG_Ch01Ev3Stage12_1_52].Script
 msgid "ひぃぃ！"
+msgstr ""
+
+#  Korean Text: '크흠!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_54].Script
+msgid "…これは…"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루는 기절했다. 아니, 그저 기절한 연기인가?&n그건 그렇고, 알렉산드라가 조금 흥분한 것 같아 보여 걱정이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_55].Script
+msgid "- ポックルは気絶。いや、気絶した演技なのか？&nそれはさておき、アレクサンドラがちょっとハイになっているようで心配だ。"
+msgstr ""
+
+#  Korean Text: '흐응... 기절인가요? 그런 식으로 도망갈 생각 인가 본데... &n선생님은 그렇게 만만하지 않아요.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_56].Script
+msgid "ふーん、気絶ですか。そんな姑息な手で逃げようなど…&n先生はそんなに甘くありませんよ？"
+msgstr ""
+
+#  Korean Text: '... 지휘관? 오늘은 이 정도로 해두는 게...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_57].Script
+msgid "…マジックジェントルマン？今日はここまでにしたほうが…"
+msgstr ""
+
+#  Korean Text: '흐음... 제 생각은 달라요. 이렇게 하는 건 어때요?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_58].Script
+msgid "ふむ…私の考えは違いますけど。こんなのはどうでしょう。"
+msgstr ""
+
+#  Korean Text: '끼야아아아!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_59].Script
+msgid "あびゃびゃびゃびゃびゃああああ！！"
+msgstr ""
+
+#  Korean Text: '사, 살려주세요... 아… 이게 아니었지…&n크, 크읏! 너의 매지컬 벼락이 내 양심을 자극하는군. 좋아… 모든 걸 털어놓지.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_61].Script
+msgid "た、助けてください…社…じゃなかった…&nく、ぐぅぅ！貴様のマジカルサンダーが我の良心に訴えかけてくる…いいだろう…全て話そう。"
+msgstr ""
+
+#  Korean Text: '항복하겠다. 더 이상… 악인으로 살지 않겠어. 이젠 이블 매지컬 파워를 버리지.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_62].Script
+msgid "降参だ。もう…悪行からは手を引こう。イビルマジカルパワーも捨てよう。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_62].SelectionIndex[1]
+msgid "急展開！？"
+msgstr ""
+
+#  Korean Text: '… 대단하군… 이 얼마나 강대한 힘이지? &n뽀끄루를 회개시키다니…'
+#: DialogScript[DG_Ch01Ev3Stage12_1_63].Script
+msgid "…すごい…なんて強大なパワー…。&nあのポックルを改心させるなんて…"
+msgstr ""
+
+#  Korean Text: '훗, 좋아요.&n그럼 정화를 시작하죠.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_64].Script
+msgid "んふふ…、重畳です。&nでは浄化を始めましょう。"
+msgstr ""
+
+#  Korean Text: '으히이이익!! 아!!! 정화, 정화됐어요!&n그, 그만!!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_65].Script
+msgid "うひゃぁぁぁっ！！も、もう浄化、浄化されましたから！&nや、やめてぇぇぇ！！！"
+msgstr ""
+
+#  Korean Text: '아하하하!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_66].Script
+msgid "あはははははは！"
+msgstr ""
+
+#  Korean Text: '- 이건… 괜찮은 건가? 왠지… 계획보다 출력이 좀 높아 보인다. &n설마… 요즘 자꾸 방해를 받아서 스트레스를 받은 건…'
+#: DialogScript[DG_Ch01Ev3Stage12_1_67].Script
+msgid "- これ…大丈夫なのか？なんか…練習より出力が高そうなんだけど。&nまさか…最近邪魔が続いててストレスが溜まってたのでは…？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_67].SelectionIndex[1]
+msgid "アレク…"
+msgstr ""
+
+#  Korean Text: '그만두라고 했잖아!!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_68].Script
+msgid "もうやめて！！"
+msgstr ""
+
+#  Korean Text: '!?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_69].Script
+msgid "！？"
+msgstr ""
+
+#  Korean Text: '- 너무 갑작스럽게 벌어진 상황에 아무도 입을 열지 못했다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_73].Script
+msgid "- いきなりの展開に誰も口を開けなかった。"
+msgstr ""
+
+#  Korean Text: '- 방금 백토가 뽀끄루를 감싼 건가? 그 백토가?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_74].Script
+msgid "- 今、白兎がポックルを庇ったのか？あの白兎が？"
+msgstr ""
+
+#  Korean Text: '… 아무래도 정화가 된 것 같군. 굳이… 더 이상 할 필요는 없어.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_75].Script
+msgid "…どうやら浄化されたようだし…もう…これ以上続ける必要はないと思う…。"
+msgstr ""
+
+#  Korean Text: '백토... 백토....? 백토가 날 구한 거야?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_76].Script
+msgid "白兎…白兎…？白兎が私を助けてくれたの？"
+msgstr ""
+
+#  Korean Text: '으아앙!!! 백토!!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_77].Script
+msgid "うあぁぁぁぁん！！！白兎～！！"
+msgstr ""
+
+#  Korean Text: '- 모두가 멍하니 지켜보고 있는 사이, 뽀끄루가 백토를 끌어안고 바닥을 뒹굴었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_78].Script
+msgid "- みんながぽかんとしている間、ポックルが白兎に抱きついて床を転がっていた。"
+msgstr ""
+
+#  Korean Text: '- 백토는 얼이 빠져 누운 채로, 뽀끄루의 애정 공세를 받아내고 있었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_79].Script
+msgid "- 白兎は魂が抜けた顔で、ポックルの激しい抱擁をされるがままになっていた。"
+msgstr ""
+
+#  Korean Text: '흐음... 이제야 보기 좋네요. 이젠 친구끼리 서로 다투지 않겠죠?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_80].Script
+msgid "ふむ…ようやくそれっぽい顔になりましたね。&n今後は友達同士、喧嘩してはいけませんよ？"
+msgstr ""
+
+#  Korean Text: '주인님? 저는 여기까지 하겠어요.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_81].Script
+msgid "ご主人様？私はこれでお役目御免のようですね。"
+msgstr ""
+
+#  Korean Text: '그리고... 저도 조금 흥분했네요... 후훗… 주인님과 잠깐 상담을 하면서...&n흥분을 좀 가라앉혀야겠어요. 빨리 마치고 상담이라도 해요~!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_82].Script
+msgid "あと…私もちょっと興奮しすぎました…。&nふふ…ご主人様と「相談」しながら落ち着かせないと…。&n早く事を済ませてくださいね～！"
+msgstr ""
+
+#  Korean Text: '- 알렉산드라는 눈웃음을 남기고 사라졌다.&n그런데... 이렇게까지 할 필요가 있었을까...?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_83].Script
+msgid "- アレクサンドラはウィンクして出て行った。&nそれにしても…ここまでする必要はあっただろうか…？"
+msgstr ""
+
+#  Korean Text: '백토야~!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_84].Script
+msgid "白兎～！"
+msgstr ""
+
+#  Korean Text: '- 하지만, 이 충격 요법은 나름대로 괜찮은 결과를 만들어 냈다.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_85].Script
+msgid "- だが、この荒療治は思ったより効果的だったようだ。"
+msgstr ""
+
+#  Korean Text: '나 죽는 줄 알았어 백토야. 정말... 여기 좀 봐... 옷 그슬린 거 보이지?&n진짜 저 노란 머리 교사는 완전 제정신 아닌 것 같아!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_86].Script
+msgid "私もう死ぬかと思った…白兎ぉ。&nもうここ見てよ…服がちょっと焦げてるのわかる？&nまったくあの金髪教師、頭おかしいんじゃない？"
+msgstr ""
+
+#  Korean Text: '후훗~! 뽀끄루씨? 정화된 걸 축하해요!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_87].Script
+msgid "ふふ、ポックルさん。無事に浄化おめでとうございます！"
+msgstr ""
+
+#  Korean Text: '모모~?! 나 눈이 떠졌어요! 세상은 이렇게 예쁜 핑크빛이었군요!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_88].Script
+msgid "モモ～！私、目が覚めました！世界はこんなにも桃色だったんですね！"
+msgstr ""
+
+#  Korean Text: '자, 그럼~! 매지컬~!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_89].Script
+msgid "はい、では～！マジカル～！"
+msgstr ""
+
+#  Korean Text: '큐어!!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_90].Script
+msgid "キュア！！"
+msgstr ""
+
+#  Korean Text: '큐, 큐어...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_91].Script
+msgid "キュ、キュア…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_91].SelectionIndex[1]
+msgid "うーん…。むず痒いな"
+msgstr ""
+
+#  Korean Text: '그럼 우리 같이 철충들... 아니, 악을 무찌르러 가볼까요?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_92].Script
+msgid "じゃあ私たち一緒に鉄虫を…いいえ、悪を倒しに行きましょう！"
+msgstr ""
+
+#  Korean Text: '제가 철충들이 있는 곳으로 안내할게요.&n같이 가도 될까요? 사장님?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_93].Script
+msgid "私が鉄虫の場所まで案内します。&n一緒に行ってもいいですか、社長？"
+msgstr ""
+
+#  Korean Text: '- 뭐, 뽀끄루가 철충을 때려 부수는 장면을 본다면, 백토도 나름대로&n뽀끄루가 마음이 바뀌었다는 걸 납득할 수 있겠지.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_94].Script
+msgid "- まぁポックルが頑張って鉄虫と戦うところを見れば、&n白兎もポックルが改心した事を信じてくれるだろう。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_1_94].SelectionIndex[1]
+msgid "そうしなさい"
+msgstr ""
+
+#  Korean Text: '다녀올게요 사령관님~!'
+#: DialogScript[DG_Ch01Ev3Stage12_1_95].Script
+msgid "行ってきます、司令官～！"
+msgstr ""
+
+#  Korean Text: '백토도 어서 와. 같이 가야지.'
+#: DialogScript[DG_Ch01Ev3Stage12_1_96].Script
+msgid "白兎ちゃんも来て。一緒に行こ？"
+msgstr ""
+
+#  Korean Text: '... 아 저기... 그러니까...'
+#: DialogScript[DG_Ch01Ev3Stage12_1_97].Script
+msgid "…えっと……あの～…"
+msgstr ""
+
+#  Korean Text: '나도 누워 고문을 받을걸… 그랬나?'
+#: DialogScript[DG_Ch01Ev3Stage12_1_98].Script
+msgid "私も一緒に拷問されていたら…仲良くなれただろうか…"
+msgstr ""
+
+#  Korean Text: '- 전투를 끝내고 돌아온 마법 소녀들은 입안 가득 송편을 집어넣고 우물거렸다.&n물론 나도 송편을 몇 개 집어와서 먹고 있다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_1].Script
+msgid "- 戦闘を終えて帰ってきた魔法少女たちは、口いっぱいに月見餅を頬張っていた。&n俺も何個かもらって食べている。"
+msgstr ""
+
+#  Korean Text: '- 모모의 설명에 의하면, 달이 가득 찬 날 모두가 모여 찐득거리는 송편을&n나눠 먹는 이 행위가 바로 만월의 축제라고 했다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_2].Script
+msgid "- モモの話によると、満月の日にはみんなで集まって、&nこの餅を分け合って食べることが満月の祭りなんだという。"
+msgstr ""
+
+#  Korean Text: '- 소녀들과 간식을 먹으며 떠드는 평화로운 일상. 모모가 말한 만월의 축제. &n뭐… 그 의미에 대해선 아직 잘 모르겠지만…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_3].Script
+msgid "- 女の子たちとお菓子を食べながら騒ぐだけの平和な日常。&nこれがモモの話していた満月の祭り。&nまぁ…何でそうするのかは意味がわからないけど…"
+msgstr ""
+
+#  Korean Text: '- 매일이 오늘 같으면 정말 좋겠다는 생각이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_4].Script
+msgid "- 今日みたいな日がずっと続けばいいなと…本当に思った。"
+msgstr ""
+
+#  Korean Text: '악당과 맞서 싸운 뒤에 먹는 송편은 정말 맛있지 않나요?&n아~ 너무 행복해~. 괜히 악의 길을 걸었던 것 같아요. 인생의 절반 손해 봤어.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_5].Script
+msgid "悪者と戦った後に食べるお餅って美味しいんですね…？&nあ～なんか幸せ…理由もなく悪の道を歩いてましたけど、&n人生の半分は損してた気がします。"
+msgstr ""
+
+#  Korean Text: '후훗~! 마법 소녀가 된 걸 축하해요.&n그러면 이제, 저도 후배가 생긴 걸까요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_6].Script
+msgid "ふふ、魔法少女になれてよかったですね。&nこれで私にも後輩魔法少女が出来たってことでしょうか？"
+msgstr ""
+
+#  Korean Text: '마법소녀 하길 정말 잘했어요~. 후훗~!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_7].Script
+msgid "魔法少女やっててよかったです～。ふふ～！"
+msgstr ""
+
+#  Korean Text: '앗~! 선배님인가요? 앞으로도 열심히 할게요.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_8].Script
+msgid "あー！そうですね！先輩ですね！これからも頑張ります！よろしくお願いします！"
+msgstr ""
+
+#  Korean Text: '음... 제 소개를 하자면...&n전 음악을 듣는 게 취미에요, 그리고...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_9].Script
+msgid "うーん…自己紹介しちゃいますと…&n音楽を聴くのが好きです。あと…"
+msgstr ""
+
+#  Korean Text: '정말인가요? 그러면 저랑 같이 공연 보러 가실래요? 슬레이프니르가 공연을 한다고 했는데…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_10].Script
+msgid "本当ー！？だったらキャロルと一緒にライブ行くー？&nスレイプニールがライブやるって言ってたよ！"
+msgstr ""
+
+#  Korean Text: '네~! 물론이죠! 아 그리고, 전 노래를 부르는 것도 좋아한답니다? 합동 공연도 계획해 볼까요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_11].Script
+msgid "はい！行きます！&nあ、あとですね…私も歌うのが大好きなんです！コラボライブとかしたいですね！"
+msgstr ""
+
+#  Korean Text: '너무 좋아! 혹시, 깡총깡총 비트에 맞춰 춤도 추실 수 있나요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_12].Script
+msgid "最高ね！もしかして、ビートに合わせてホッピングしてダンスすることもできる？"
+msgstr ""
+
+#  Korean Text: '네?! 아아... 그건...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_13].Script
+msgid "はい！？えっと…それは…"
+msgstr ""
+
+#  Korean Text: '죄송해요 제가 춤은 좀... 헤헤... 다른 걸로 안될까요? 예를 들면... 음...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_14].Script
+msgid "ごめんなさい、私、踊るのは下手っぴで…えへへ…他のことじゃダメでしょうか。&n例えば…えっと…"
+msgstr ""
+
+#  Korean Text: '닥터~! 귀여운 닥터~! 마법의 비밀을 밝히는 건 어떻게 됐어?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_15].Script
+msgid "ドクター！ドクター！魔法の秘密は明らかになった？"
+msgstr ""
+
+#  Korean Text: '언니 왔어? 헤헹~! 마법의 비밀은 이미 다 연구가 끝났지~.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_16].Script
+msgid "お姉ちゃんたちも来たんだね！へへ～ん！&n魔法の秘密の研究はもう終わっちゃったよー！"
+msgstr ""
+
+#  Korean Text: '닥터. 마법이 정말 있었어?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_17].Script
+msgid "ドクター、魔法って本当にあった？"
+msgstr ""
+
+#  Korean Text: '정말? 뭐야 뭐야~. 나도 알려줘.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_18].Script
+msgid "本当に？なになにー？教えて教えてー！"
+msgstr ""
+
+#  Korean Text: '엣헴! &n그건 말야... 흐흐흐… 뿔에 비밀이 있었지... 그 출력만 좀 더 늘리면 오빠도… 흐흐.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_19].Script
+msgid "えっへん！それはね～…ふっふっふっ…&nあの角に秘密があったんだよ…あれの出力を弄ったらお兄ちゃんだって…&nぐへへ…"
+msgstr ""
+
+#  Korean Text: '... 아니야. 말하면 재미없어. 그치 오빠?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_20].Script
+msgid "…やっぱりやめた。ここで言っちゃったら面白くないし。&nねっ？お兄ちゃん？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_20].SelectionIndex[1]
+msgid "…いや、気になるんだけど…"
+msgstr ""
+
+#  Korean Text: '그런데, 트리아이나 언니도 마법 소녀잖아?! 마법의 비밀 정도는 언니가 직접&n알아봐야지~!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_21].Script
+msgid "それに、トリアイナお姉ちゃんだってもう魔法少女でしょ？&n魔法の秘密は自分で見つけるものだよ～！"
+msgstr ""
+
+#  Korean Text: '그런 귀찮은 건 과학자들이 해야 하는 일이지~.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_22].Script
+msgid "そんな面倒くさいのは博士キャラの仕事でしょ～？"
+msgstr ""
+
+#  Korean Text: '그리고... 소문으로 들었는데... 닥터 너... '비밀스러운 약'을 결국 완성했다며?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_23].Script
+msgid "それに…噂で聞いたよ…ドクター、実は「秘密のお薬」が完成してるって…？"
+msgstr ""
+
+#  Korean Text: '아 안돼! 그건 비밀이란 말야! 사람들이 알게 되면 더 이상 비밀이 아니게 되는걸?!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_24].Script
+msgid "だ、ダメだよ！それはほんとに秘密なんだってば！&nみんなが知ってたら秘密じゃなくなるでしょ～！？"
+msgstr ""
+
+#  Korean Text: '후후... 어서 성장촉진제를 내게도 주는 게 어때? 음... 아냐! 더 좋은 생각이 났어.&n내가 그걸 테스트해주는 거야. 어때?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_25].Script
+msgid "ふふ…私にもその成長促進剤をちょうだいよ。いや！私にいい考えがある！&n私でテストしたら良いのよ。どう？"
+msgstr ""
+
+#  Korean Text: '안돼! 바보 언니!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_26].Script
+msgid "ダメだよ。バカなの？"
+msgstr ""
+
+#  Korean Text: '아앙. 어떤 약일까? 분명 더 늘씬해지고, 빵빵해지는 약이겠지?&n어서 이 언니에게...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_27].Script
+msgid "ああ～ん！どんな薬なのよー？&nきっとナイスバディでセクシーダイナマイトになるお薬なんでしょ？&nだから早くこのトリアイナお姉さんに…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_27].SelectionIndex[1]
+msgid "トリアイナ、逃げろー！"
+msgstr ""
+
+#  Korean Text: '응...? 닥터? 닥터!? 뭐 하는 짓이야?! 이 로켓은 위험하다구! 안돼!!!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_28].Script
+msgid "ドクター？ねぇ、何してんの！？このロケットはまずいって！らめぇー！！"
+msgstr ""
+
+#  Korean Text: '트리아이나는 잠수도 잘하고, 하늘도 날 수 있어...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_29].Script
+msgid "トリアイナは海に潜れて、空も飛べる…"
+msgstr ""
+
+#  Korean Text: '... 그리고... 조금 재밌는 것 같아.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_30].Script
+msgid "…そして…面白い。"
+msgstr ""
+
+#  Korean Text: '- 모두가 웃고 떠드는 걸 구경하고 있던 중, 멀찍이 외롭게 떨어져 있는 소녀가 눈에 띄었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_31].Script
+msgid "- みんなが笑って騒いでいる中、独り遠く離れている場所に佇む少女が見えた。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_32].SelectionIndex[1]
+msgid "白兎？ここで何してるんだ？"
+msgstr ""
+
+#  Korean Text: '매, 매직 젠틀맨? 이런 곳엔 왜...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_33].Script
+msgid "マ、マジックジェントルマン？なんでここに…"
+msgstr ""
+
+#  Korean Text: '- 백토는 뽀끄루를 구해낸 이후, 의욕이 많이 떨어져 보였다.&n전기톱... 매지컬 핑크 문 라이트를 들고 있는 모습이 예전 같지 않아 걱정이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_34].Script
+msgid ""
+"- "
+"白兎はポックルを救って以来、どこかやる気を無くしていた。&nチェーンソー…マジカルピンクムーンライトを持っている姿も&nどこか以前とは違って見えてしまい心配"
+"になる。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_34].SelectionIndex[1]
+msgid "食うか？"
+msgstr ""
+
+#  Korean Text: '아, 아니. 난 괜찮다. &n휴우... 하지만… 이젠… 누구와 싸워야 하는지 고민이 좀 되는군.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_35].Script
+msgid "い、いや、私はいいです。&nはぁ…もう…誰と戦えばいいのか分からないんです…。"
+msgstr ""
+
+#  Korean Text: '- 백토는 뽀끄루가있는 곳을 힐끔 쳐다보곤, 한숨을 길게 내쉬었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_36].Script
+msgid "- 白兎はポックルの方をチラ見して、長めのため息を吐く。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_36].SelectionIndex[1]
+msgid "まだ鉄虫はいっぱいいる…"
+msgstr ""
+
+#  Korean Text: '... 남은 철충들과… 그래… 이 정도로 힘을 빼선 안되겠지.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_37].Script
+msgid "…残りの鉄虫と戦えということですか…&nそうですね…これしきのことで気を抜いてはいられない…。"
+msgstr ""
+
+#  Korean Text: '매직 젠틀맨... 당신은 정말 상냥한 사람이야.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_38].Script
+msgid "マジックジェントルマン…あなたは本当に優しい人です。"
+msgstr ""
+
+#  Korean Text: '... 젠틀맨? 오늘은... 그냥 아무 생각 말고 나와 '두 번째 의식'을...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_39].Script
+msgid "…ジェントルマン？今日こそは…何も考えず私と「第二の儀式」を…"
+msgstr ""
+
+#  Korean Text: '백토 여기 있었구나? 이제 뽀끄루씨랑 인사해야지?&n뽀끄루씨도 이젠 어엿한 마법 소녀니까.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_40].Script
+msgid "白兎ちゃんここにいたんだね？ポックルさんとちゃんとお話した？&nポックルさんももう魔法少女なんだよ？"
+msgstr ""
+
+#  Korean Text: '저기... 백토... 씨?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_41].Script
+msgid "あの…白兎…さん？"
+msgstr ""
+
+#  Korean Text: '흥… 지금의 마음을 유지하도록 해. &n그러지 않으면… 내가 다시 찾아갈 테니…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_42].Script
+msgid "ふん…今の気持ちを忘れないことね…。&nさもなくば…私がまたお前を倒しに…"
+msgstr ""
+
+#  Korean Text: '그게... 아하하... 걱정 말아요. 백토씨.&n이젠… 전 선한 마법 소녀의 편이니까…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_43].Script
+msgid "それは…あはは…心配しないでください、白兎さん。&nもう…私は善い魔法少女ですから…。"
+msgstr ""
+
+#  Korean Text: '- 백토는 뭔가 할 말이 있는 것 같았다. &n무슨 말을 하고 싶은 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_45].Script
+msgid "- 白兎は何か言いたそうだった。&n何年も追いかけ続けていた大魔王が…今は仲間の魔法少女…。&n何を思っているのだろうか…。"
+msgstr ""
+
+#  Korean Text: '저, 백토 씨? 뭔가 내게 할 말이라도?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_46].Script
+msgid "あ、あの、白兎さん？何か私に話したいことでも？"
+msgstr ""
+
+#  Korean Text: '... 그… 대마왕일 때… 내가 괴롭힌 것은 사과하지…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_47].Script
+msgid "…その…大魔王のとき…私が苦しめて…悪かった…"
+msgstr ""
+
+#  Korean Text: '에? 백토 씨?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_48].Script
+msgid "え？白兎さん？"
+msgstr ""
+
+#  Korean Text: '설마… 하지만, 그땐 제가 대마왕이었으니… &n백토 씨도 어쩔 수 없었잖아요.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_49].Script
+msgid "そんな…。いいえ…あの時は私が大魔王だったから…&n白兎さんだって仕方なかったんでしょ？"
+msgstr ""
+
+#  Korean Text: '... 그래도 모모 말대로 네가 회개할 수 있단 걸 알았다면… &n… 죽이려고 하진 않았을 거야. 미안.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_51].Script
+msgid "…だとしても、モモの言う通りにお前が改心できるってことを知っていたら…&n…殺そうだなんて思わなかった…。ごめんなさい…"
+msgstr ""
+
+#  Korean Text: '… 그래요. 하지만, 그건 백토 씨 잘못이 아니었어요. &n그보다 어때요? 제 새로운 마법 소녀 복장을 생각해 뒀는데…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_52].Script
+msgid "…そうかもしれません…。でもそれは白兎さんのせいじゃないですよ。&nそれよりどうですか？私、魔法少女の衣装をデザインしてみたんですけど…"
+msgstr ""
+
+#  Korean Text: '응. 백토, 오드리 씨가 또 힘을 써주신다고 했어.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_53].Script
+msgid "かわいいよね。白兎ちゃん、オードリーさんが力を貸してくれるって。"
+msgstr ""
+
+#  Korean Text: '네. 네. 그러니… &n아, 앞으로도 잘 부탁드려요...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_54].Script
+msgid "はい。はい！ですので…&nこ、これからもよろしくお願いします…"
+msgstr ""
+
+#  Korean Text: '선... 배...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_55].Script
+msgid "先…輩…"
+msgstr ""
+
+#  Korean Text: '... 칫!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_57].Script
+msgid "…ちっ！"
+msgstr ""
+
+#  Korean Text: '... 백토... 씨...?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_58].Script
+msgid "…白兎…さん…？"
+msgstr ""
+
+#  Korean Text: '혹시… 싫어요?&n저랑… 마법 소녀를 같이 하는 거…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_59].Script
+msgid "もしかして…嫌なんでしょうか…？&n私なんかと…一緒に魔法少女をするだなんて…"
+msgstr ""
+
+#  Korean Text: '- 뽀끄루는 크게 상심한 것 같았다. 나름대로 용기를 내서 여기까지 왔을 텐데.&n조금 안쓰러운 마음이 들었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_60].Script
+msgid "- ポックルはかなりショックを受けたみたいだ…。&n彼女なりに勇気を出してここまで来ただろうに…。やるせないな…"
+msgstr ""
+
+#  Korean Text: '- 하지만… 용기를 내야 한다. &n언제까지 백토와 어색하게 지낼 수는 없으니…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_61].Script
+msgid "- でも…勇気を無くしてはいけない。&nいつまでもこんなぎこちない関係ではいられないんだから…"
+msgstr ""
+
+#  Korean Text: '죄송해요 모모 씨... 제가 괜한 짓을 해서 모모 씨도 불편하게...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_62].Script
+msgid "ごめんなさい、モモ…私が余計なこと言っちゃってモモにまでご迷惑を…"
+msgstr ""
+
+#  Korean Text: '머... 먹어...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_63].Script
+msgid "た…食べる…？"
+msgstr ""
+
+#  Korean Text: '- 돌아온 백토의 손에는 매지컬 송편이 들려있었고, 뽀끄루는 당황해서 어쩔 줄 몰라 했다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_64].Script
+msgid "- 戻ってきた白兎の手にはマジカル月見餅があった。&nポックルはうろたえながらもそれを受け取った。"
+msgstr ""
+
+#  Korean Text: '네? 네?!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_65].Script
+msgid "え？えっ！？"
+msgstr ""
+
+#  Korean Text: '마법 복장을 입지 않았으니. 아직 널 마법 소녀로 인정할 수 없어.&n... 그게 '룰'이니까...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_66].Script
+msgid "まだ魔法衣装を着ていない君を魔法少女と認めることはできない…。&n…それが「ルール」だから…。"
 msgstr ""
 
 #  Korean Text: '... 그리고...'
@@ -5772,7 +10965,258 @@ msgstr ""
 
 #  Korean Text: '그리고~?'
 #: DialogScript[DG_Ch01Ev3Stage12_2_68].Script
-msgid "からの～？"
+msgid "そして～？"
+msgstr ""
+
+#  Korean Text: '‘선배'같은 호칭은 껄끄러우니 내겐 하지 마. &n만약... 진짜 마법 소녀가 된다면 말이야...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_70].Script
+msgid "「先輩」って気色悪い呼び方はやめて…。&nもし…本物の魔法少女になるつもりなら…なおさら…。"
+msgstr ""
+
+#  Korean Text: '... 우으... 고마워... 백토야...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_71].Script
+msgid "…うぅぅ…ありがとう…白兎さん…"
+msgstr ""
+
+#  Korean Text: '나 있지... 정말...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_72].Script
+msgid "私ね…あのね…"
+msgstr ""
+
+#  Korean Text: '너 때문에 힘들었던 거 알고 있니? 너 알고 있었지?!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_73].Script
+msgid "あんたのせいで大変だったんだから～！知らなかったでしょ～！？うあぁぁぁぁん！"
+msgstr ""
+
+#  Korean Text: '지, 징그러우니까 울지 말고! 반말도 하지 마!'
+#: DialogScript[DG_Ch01Ev3Stage12_2_74].Script
+msgid "でかい奴がわんわん泣かないで！！あと、急にタメ口になるのも…！！"
+msgstr ""
+
+#  Korean Text: '- 백토와 뽀끄루는 알 수 없는 교감을 나누고 있다. 그나저나... &n떠들고 있는 백토의 말투가 점점... 소녀답게 변한 것 같은 느낌이 든다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_75].Script
+msgid "- 白兎とポックルの中で俺にはわからない何かが通じ合ったみたいだ。&nそれに白兎が少しずつだが少女らしい表情を見せるようになってきた気がする。"
+msgstr ""
+
+#  Korean Text: '응? 사령관님. 무슨 생각 하고 계셔요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_76].Script
+msgid "うん？司令官、どうしましたか？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_76].SelectionIndex[1]
+msgid "…白兎の雰囲気が少し変わったかなって…"
+msgstr ""
+
+#  Korean Text: '우리 백토는 강한 악을 만났을 때 강해지는 마법 소녀니까요.&n음... 지금 백토는... 폭신폭신 백토네요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_77].Script
+msgid "白兎ちゃんは、巨大な悪を前にしたときに強くなる魔法少女ですから。&n今の白兎ちゃんは…ふわふわ白兎ちゃんですね？"
+msgstr ""
+
+#  Korean Text: '- 폭신폭신 백토가 뭔지 잘 모르겠지만... 뭐, 소녀다운 백토 정도겠지.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_78].Script
+msgid "- そのネーミングセンスはいまいちよく分からないが…&nまぁ少女らしい白兎ってことだろう。"
+msgstr ""
+
+#  Korean Text: '- 어찌 됐든, 뽀끄루는 더 이상 매지컬 핑크 문 라이트에 쫓기지 않게 됐다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_79].Script
+msgid "- とにかく、&nポックルはもうマジカルピンクムーンライトにムーンライトされなくなった。"
+msgstr ""
+
+#  Korean Text: '- 뭐, 진짜로 뽀끄루가 대마왕이 되지 않는 이상… &n이제 매지컬 핑크 문 라이트는 철충에게만 향하겠지.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_80].Script
+msgid "- まぁ、ポックルが本物の大魔王にならない限り…&nムーンライトされるのは鉄虫だけだろう。"
+msgstr ""
+
+#  Korean Text: '저... 사장님? 저희랑 같이 그분... 그러니까... 오드리님!&n오드리님의 부티크로 가보시지 않겠어요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_81].Script
+msgid "あの…社長？私たちと一緒にあの人…えっと…オードリー！&nオードリーさんのブティックに行きませんか？"
+msgstr ""
+
+#  Korean Text: '만월의 축제에도 일을 하고 계시다니...&n어쨌든, 오드리님이 저희는 언제든지 환영이라고 하셨으니까. 괜찮겠죠?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_82].Script
+msgid "満月の祭にもお仕事されているとのことでしたが…&nオードリーさんから私たちはいつでも歓迎だって言われましたし、いいですよね？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_82].SelectionIndex[1]
+msgid "ああ。先に行っといてくれ"
+msgstr ""
+
+#  Korean Text: '네 그러면 조금 있다가 봬요~. 얼른 오셔야 해요?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_83].Script
+msgid "はい、ではお先にー。早く来てくださいね？"
+msgstr ""
+
+#  Korean Text: '... 저기...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_84].Script
+msgid "…あ、あの…"
+msgstr ""
+
+#  Korean Text: '하아... 이번에도 실패인가?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_85].Script
+msgid "はぁ……今回も失敗か…"
+msgstr ""
+
+#  Korean Text: '거기서 그러고 있지 말고, 당신도... 이거 받아.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_86].Script
+msgid "そこでなに突っ立ってるんです？あなたも…これを受け取って？"
+msgstr ""
+
+#  Korean Text: '으앗?! 이, 이건 매지컬 송편?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_87].Script
+msgid "えぇ！？こ、これはマジカル月見餅？"
+msgstr ""
+
+#  Korean Text: '- 은신 실력이 굉장하던데… 매지컬 클록킹의 달인이 있을 줄은 몰랐어. &n어때? 마법 소녀가 될 생각은 있어?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_88].Script
+msgid "確か、潜伏の達人だと聞いてます…マジカルスニーキングの使い手は初めて見ました。&nどうですか？あなたも魔法少女になってみませんか？"
+msgstr ""
+
+#  Korean Text: '사, 사령관님?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_89].Script
+msgid "し、司令官！？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_89].SelectionIndex[1]
+msgid "行ってきな、ファントム"
+msgstr ""
+
+#  Korean Text: '아... 저... 나는... 아직 마음의 준비가 안됐는... 데...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_90].Script
+msgid "あ…あの…私には…まだ心の準備ができて…ないけど…"
+msgstr ""
+
+#  Korean Text: '- 팬텀은 얼굴을 가린 채로 백토와 뽀끄루에게 끌려갔다. 기분이 좋은 걸까?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_91].Script
+msgid "- ファントムは顔を覆ったまま白兎とポックルに連れていかれた。&n照れ隠しなんだろうか。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_91].SelectionIndex[1]
+msgid "…あ、そういえば！"
+msgstr ""
+
+#  Korean Text: '- 그러고 보니, 모모에게 이걸 돌려주지 않았었지...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_92].Script
+msgid "- そういえば、これをモモに返すのを忘れていた。"
+msgstr ""
+
+#  Korean Text: '- 난 품에서 모모의 낡은 대본집을 꺼냈고,&n왠지 모를 아쉬운 기분에 대본집을 다시 읽어내려갔다. 8월의 만월야...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_93].Script
+msgid "- 懐からモモの古びた脚本集を取り出した。&n何故か返す前に読みたくなってきて、再度読み直した。八月の満月夜…"
+msgstr ""
+
+#  Korean Text: '- 이 낡은 대본집엔 마왕과 마법 소녀들이 있었다... &n꿈과, 희망, 그리고... 혈흔이 낭자하는... 잔인한 전투까지...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_94].Script
+msgid "- この古びた脚本集には魔王と魔法少女たちがいた…&n夢と希望、そして血飛沫が舞う…なかなか残酷な戦闘シーンまで…"
+msgstr ""
+
+#  Korean Text: '- 마지막은 뽀끄루 대마왕이 마법 소녀 백토에게 죽임을 당하는 것으로 끝이 났다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_95].Script
+msgid "- 最後はポックル大魔王が魔法少女マジカル白兎に「殺される」ことで幕を閉じる。"
+msgstr ""
+
+#  Korean Text: '- 쓸 데 없이 잔인하게 묘사된 뽀끄루의 사망신은 마지막 페이지의 반을 넘게 차지하고&n있었고. 나는 괜히 슬픈 기분이 들었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_96].Script
+msgid "- 無駄に残酷に描写されたポックルの死亡シーンは、&n最後のページの半分以上を占めており、&n俺は何故か無性に悲しくなった。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_96].SelectionIndex[1]
+msgid "これは…ひどいな…"
+msgstr ""
+
+#  Korean Text: '- 바로 그 순간.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_97].Script
+msgid "- その時、"
+msgstr ""
+
+#  Korean Text: '- 마법처럼 마지막 페이지가 바스러져서 바닥에 흩날렸다.&n... 그냥 읽기에는 대본집이 너무 낡은 탓이었을까? 아니면...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_98].Script
+msgid "- 最後ページが魔法のようにバラバラと崩れて床に飛び散った。&n…脚本集が古すぎたせいだろうか。もしくは…"
+msgstr ""
+
+#  Korean Text: '그건, 마법의 힘이 아닐까요~?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_99].Script
+msgid "これが、魔法の力なのでしょ～！ふふっ…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_99].SelectionIndex[1]
+msgid "ごめん。大事な物だったのに…"
+msgstr ""
+
+#  Korean Text: '헤헤~ 걱정하지 않으셔도 돼요 사령관님. 그건... 그저 대본집일 뿐이니까요.&n이젠… 일어날 리도 없고. 일어나서도 안되는 이야기가 쓰인...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_100].Script
+msgid "えへへ、気にしないでください、司令官。これは…ただの脚本集ですから。&nもう…起こる事の無い…起きてはならないお話の…"
+msgstr ""
+
+#  Korean Text: '- 모모는 날 보며 활짝 웃어 주었다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_101].Script
+msgid "- モモは俺を見て笑って見せた。"
+msgstr ""
+
+#  Korean Text: '그리고 새로운 만월야는 이제부터 시작인걸요?&n마법 소녀가 된 뽀끄루와 이를 지켜보는 백토의 이야기가 새롭게 시작될 거예요~.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_102].Script
+msgid "そして、新しい満月夜はここから始まるんですから！&n魔法少女になったポックルさんとそれを見守る白兎ちゃんのお話が始まるのです！"
+msgstr ""
+
+#  Korean Text: '- 난 무심결에 조각난 채로 발밑에 떨어져 있는 마지막 페이지를 살펴봤지만.&n... 뽀끄루가 쓰러지는 장면을 복원시키고 싶은 생각 따위는 들지 않았다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_103].Script
+msgid "- 俺は思わず足元に散らばった最後のページを見下ろしたが…&nやはりポックルが殺されるあのシーンを見たいとは思わなかった。"
+msgstr ""
+
+#  Korean Text: '어때요? 사령관님?'
+#: DialogScript[DG_Ch01Ev3Stage12_2_104].Script
+msgid "いいと思いませんか？司令官？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_104].SelectionIndex[1]
+msgid "新しい満月夜…ね"
+msgstr ""
+
+#  Korean Text: '- 그래. 우리들의 만월야는 8월의 만월야와는 분명 다를 것이다.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_105].Script
+msgid "- そうだ。俺たちの満月夜は、この「八月の満月夜」なんかとは違う。"
+msgstr ""
+
+#  Korean Text: '- 계속해서 머릿수를 불려나가는 마법 소녀, 그녀들이 아직도 어색한 오르카의 사람들...'
+#: DialogScript[DG_Ch01Ev3Stage12_2_106].Script
+msgid "- 続々と増えていく魔法少女。&nそして彼女たちとはまだ距離を置くオルカの隊員たち…"
+msgstr ""
+
+#  Korean Text: '- 괴물들이 나타나 막아섰지만, 끝까지 굴하지 않고 맞서 싸우는 강인한 근성의 마법 소녀들.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_107].Script
+msgid "- 怪物が現れ立ち塞がるも、&n最後まで諦めずそれに立ち向かう強い心を持つ魔法少女たち…。"
+msgstr ""
+
+#  Korean Text: '- 그리고… 승리 후의 모두와의 따뜻한 축제. &n항상 오늘과 같다면…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_108].Script
+msgid "- そして…無事に勝利し、みんなとの楽しいお祭り。&n今日みたいな日がずっと続けばいいな…"
+msgstr ""
+
+#  Korean Text: '항상… 오늘 같다면…'
+#: DialogScript[DG_Ch01Ev3Stage12_2_109].Script
+msgid "今日みたいな日がずっと続けばいいな…"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_109].SelectionIndex[1]
+msgid "モモ？"
+msgstr ""
+
+#  Korean Text: '왜 그러세요? 아! 마음이 통한 것 때문에?&n그럴 수도 있죠. 오늘은 마법이 함께 하는 날이니까요.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_110].Script
+msgid "どうしました？…あぁ！同じこと、考えてましたか！？&n心が通じ合う…こんなこともあるのです。今日は魔法で満ちた日ですから…。"
+msgstr ""
+
+#  Korean Text: '그러니… 사령관님의 소원은 이루어질 거예요.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_111].Script
+msgid "だから…司令官のお願いもきっと叶いますよ。"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev3Stage12_2_111].SelectionIndex[1]
+msgid "そうだな…今日みたいな日がずっと続けばいいな…"
+msgstr ""
+
+#  Korean Text: '물론 앞으로도 영원히요.'
+#: DialogScript[DG_Ch01Ev3Stage12_2_112].Script
+msgid "もちろん、これからもずっとです…。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev4Stage01_1_1].BG_Name
@@ -6471,7 +11915,7 @@ msgid "ソワンは自分のことを「さすらいの料理人」と言って�
 msgstr ""
 
 #: DialogScript[DG_Ch01EvStage02_1_15].SelectionIndex[1]
-msgid "あんな危険そうな奴のこと信用するか？（もぐもぐ）"
+msgid "あんな危険そうな奴のこと信用するか？(もぐもぐ)"
 msgstr ""
 
 #  Korean Text: '아녜요 주인님! 주인님이 그때 엄청 좋아 하셨잖아요!'
@@ -6490,7 +11934,7 @@ msgid "ソワンはその料理の腕前でみんな警戒心を一気に解い�
 msgstr ""
 
 #: DialogScript[DG_Ch01EvStage02_1_18].SelectionIndex[1]
-msgid "そのあと…お茶を飲んで…（もぐもぐ）"
+msgid "そのあと…お茶を飲んで…(もぐもぐ)"
 msgstr ""
 
 #  Korean Text: '네 맞아요! 기억하시는군요! 그 차가 문제였어요!'
@@ -6504,7 +11948,7 @@ msgid "ソワンがくれるお茶を飲むとみんなぼーっとしてしま�
 msgstr ""
 
 #: DialogScript[DG_Ch01EvStage02_1_21].SelectionIndex[1]
-msgid "うんうん。それは覚えてる。あれは怪しい（もぐもぐ）"
+msgid "うんうん。それは覚えてる。あれは怪しい(もぐもぐ)"
 msgstr ""
 
 #  Korean Text: '하치코는 마시기 싫었는데, 주인님이 모두에게 명령 하셨는걸요...&n'소완이 주는 차를 거절하지 말라'고...'
@@ -7423,10 +12867,6 @@ msgstr ""
 msgid "…こ、これは…"
 msgstr ""
 
-#: DialogScript[DG_Ch01EvStage03_2_44].SelectionIndex[1]
-msgid "…これは…"
-msgstr ""
-
 #  Korean Text: '... 응. 방부 처리된, 제품이네? 그것도 꽤 유명했던 회사의 제품...'
 #: DialogScript[DG_Ch01EvStage03_2_45].Script
 msgid "…ふむ。これは防腐処理されてる…製品ですね。それもかなり有名な会社の製品…"
@@ -7599,7 +13039,7 @@ msgid "ご主人様！ハチコは今度こそ優勝できると思います！"
 msgstr ""
 
 #: DialogScript[DG_Ch01EvStage04_1_10].SelectionIndex[1]
-msgid "よし！頑張れ！ハチコ！（よしよし）"
+msgid "よし！頑張れ！ハチコ！(よしよし)"
 msgstr ""
 
 #  Korean Text: '헤헤~! 쓰다듬어 주셔서 고마워요 주인님. 다녀오겠습니다!'
@@ -7951,7 +13391,7 @@ msgid "とても素晴らしいパイです。私は10点を差し上げます�
 msgstr ""
 
 #: DialogScript[DG_Ch01EvStage04_2_51].SelectionIndex[1]
-msgid "４連続10点だなんて…甘いなぁ…。ヴァルキリー。"
+msgid "4連続10点だなんて…甘いなぁ…。ヴァルキリー。"
 msgstr ""
 
 #  Korean Text: '흐앙~! 하치코 드디어 성공했어요! 칭찬해 주세요 주인님~.'
@@ -8557,7 +13997,7 @@ msgid "わかった！へへっ…ということはご主人様の膝はハチ�
 msgstr ""
 
 #: DialogScript[DG_Ch01EvStage06_2_6].SelectionIndex[1]
-msgid "（最近太ったか？ハチコ）"
+msgid "(最近太ったか？ハチコ)"
 msgstr ""
 
 #  Korean Text: '흐앙~ 오늘도 하치코 많이 많이 쓰다듬어 주세요 주인님~.'
@@ -9057,11 +14497,6 @@ msgstr ""
 msgid "いつものだね…。たまにはバニラも作ってみたら？"
 msgstr ""
 
-#  Korean Text: '... ...'
-#: DialogScript[DG_Ch01EvStage08_2_2].Script
-msgid "…はい？"
-msgstr ""
-
 #: DialogScript[DG_Ch01EvStage08_2_2].SelectionIndex[1]
 msgid "何でもない。"
 msgstr ""
@@ -9124,7 +14559,7 @@ msgstr ""
 
 #  Korean Text: '- 보라색을 띄고 있었기에, 당연히 과실로 단맛과 향을 낸 파이라 생각했지만.&n... 이건 대체...'
 #: DialogScript[DG_Ch01EvStage08_2_11].Script
-msgid "- 紫色だったし、果物っぽいから&n甘い味と香りがすると予想してたんだが…。……これは一体……（もぐもぐ）"
+msgid "- 紫色だったし、果物っぽいから&n甘い味と香りがすると予想してたんだが…。……これは一体……(もぐもぐ)"
 msgstr ""
 
 #  Korean Text: '주인님을 위해 버섯을 넣어 봤어요! 고기는 질리셨죠?&n제가 더 가져올게요~!'
@@ -10107,7 +15542,7 @@ msgstr ""
 #: DialogScript[DG_Ch01EvStage12_1_29].Script
 msgid ""
 "こんにちは！ボクは警察及び憲兵用ロボット、ポップヘッドだ。\n"
-"なんと６級公務員だよ。"
+"なんと6級公務員だよ。"
 msgstr ""
 
 #  Korean Text: '어머? 귀여운 펍 헤드거든? 여긴 무슨 일로 왔니?'
@@ -19631,7 +25066,7 @@ msgid "何のご用でお呼びですか？司令官閣下？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage02Mari_1_1].SelectionIndex[1]
-msgid "それが…（グリフォンから聞いた話をする。）"
+msgid "それが…(グリフォンから聞いた話をする。)"
 msgstr ""
 
 #  Korean Text: '... 그리폰이 쓸데 없는 걱정을 끼쳤군요.&n사령관 각하, 제 정신은 그런 일로 소모되지 않습니다.'
@@ -19915,7 +25350,7 @@ msgid "人間？マリー隊長とは話をしてみた？どうだった？&n�
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage03Mari_1_1].SelectionIndex[1]
-msgid "（マリーとの話をする。）"
+msgid "(マリーとの話をする。)"
 msgstr ""
 
 #  Korean Text: '뭐? 그렇게 이야기한다고 그냥 왔단 말이야?&n이 바보! 이 해삼 대가리!'
@@ -20184,7 +25619,7 @@ msgid "どうしましたか？ご主人様？&nご主人様を一人にさせ�
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage04Lise_1_1].SelectionIndex[1]
-msgid "（リーゼにマスターキーを渡す。）"
+msgid "(リーゼにマスターキーを渡す。)"
 msgstr ""
 
 #  Korean Text: '응? 주인님? 이건 뭔가요?'
@@ -20203,7 +25638,7 @@ msgid "でも…この艦船にはそもそも庭なんてないのに…マス�
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage04Lise_1_4].SelectionIndex[1]
-msgid "（リーゼに種を渡す。）"
+msgid "(リーゼに種を渡す。)"
 msgstr ""
 
 #  Korean Text: '주인님? 설마... 정말인가요? 절 이 함선의 정원 관리사로 삼으시는 건가요?'
@@ -20222,7 +25657,7 @@ msgid "リーゼったらもう…そこまで感動するなんて。羨まし�
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage04Lise_1_7].SelectionIndex[1]
-msgid "（ダフネにもマスターキーと種を渡す。）"
+msgid "(ダフネにもマスターキーと種を渡す。)"
 msgstr ""
 
 #  Korean Text: '이, 이건? 주인님!'
@@ -20271,7 +25706,7 @@ msgid "じゃじゃ～ん！フォーチュン参上よ。司令官様？どう�
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage04Mari_1_1].SelectionIndex[1]
-msgid "（マリーが弱くなった理由を聞く。）"
+msgid "(マリーが弱くなった理由を聞く。)"
 msgstr ""
 
 #  Korean Text: '음... 마리 대장이 약해진 이유? 아, 물론 알고 있거든?&n그런데 이야기해도 될 지 모르겠네. 마리 대장이 좀 숨기고 싶은 것 같아서...'
@@ -20471,7 +25906,7 @@ msgid "命令を受けて参りましたっす。何のご用ですか？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage05Mari_1_1].SelectionIndex[1]
-msgid "（マリーの衛星砲について話す。）"
+msgid "(マリーの衛星砲について話す。)"
 msgstr ""
 
 #  Korean Text: '흐음... 마리 대장님의 위성포 부품 위치 말씀이심까?&n전 그 당시엔 태어나기 전이라...'
@@ -20510,7 +25945,7 @@ msgid "どうされましたか？当方は合流順序が後ろの方なので&
 msgstr ""
 
 #: DialogScript[DG_ChCS-01Stage05Mari_2_2].SelectionIndex[1]
-msgid "マリー隊長の事で…（事情を説明する。）"
+msgid "マリー隊長の事で…(事情を説明する。)"
 msgstr ""
 
 #  Korean Text: '아! 마리 대장 말씀이심까?&n네. 알고 있슴다.'
@@ -22631,7 +28066,7 @@ msgstr ""
 
 #  Korean Text: '봤지? 파트너? 내 말 맞지? 나한테 참치캔 2개 빚진 거다?&n얘는 분명 말 안 들을 거라고 했잖아.'
 #: DialogScript[DG_ChCS-08Stage05_1_11].Script
-msgid "ほら分かったでしょ？パートナー？私の言う通りだったわ？&nツナ缶２つよろしく。この子は絶対言うこと聞かないって賭けたじゃん。"
+msgid "ほら分かったでしょ？パートナー？私の言う通りだったわ？&nツナ缶2つよろしく。この子は絶対言うこと聞かないって賭けたじゃん。"
 msgstr ""
 
 #  Korean Text: '... 연료가 떨어졌는데도, 구조를 거부하다니... 정말 흥미롭군요...&n하지만, 지금은 상황이 상황이니 만큼... 실례할게요.'
@@ -22706,7 +28141,7 @@ msgstr ""
 
 #  Korean Text: '좋아... 그렇게 나오는 거지?&n참치캔 2개 없던 걸로 해줄게~. 얼른 말해줘~. 빨리~.'
 #: DialogScript[DG_ChCS-08Stage05_1_25].Script
-msgid "ふーん…そう出る？ならツナ缶２つなかったことでどうよ？&nほらほら、早く言ってよ～早く～"
+msgid "ふーん…そう出る？ならツナ缶2つなかったことでどうよ？&nほらほら、早く言ってよ～早く～"
 msgstr ""
 
 #  Korean Text: '후후. 생떼 써도 소용없어요. &n더 질문할게 없다면, 전 그만 가봐야겠어요.'

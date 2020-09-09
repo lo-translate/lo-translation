@@ -616,6 +616,24 @@ msgstr ""
 msgid "フランス風宝石ビキニ"
 msgstr "French Jewelry Bikini"
 
+#: CharSkin[Skin_DS_MoMo_1].SkinDesc
+msgid ""
+"魔法少女マジカルモモの「八月の満月夜シーズン2」で使用する予定だった、月のモモ変身コスチュームです。 "
+"月兎の力を完璧に吸収し、一層強い魔法の力を見せることができます。"
+msgstr ""
+
+#: CharSkin[Skin_DS_MoMo_1].SkinName
+msgid "<MMM>シーズン2-月のモモ変身コスチューム"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Carolina_1].SkinDesc
+msgid "オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。彼女の激しいチアリーディングを服のサイズが耐えられるでしょうか…"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Carolina_1].SkinName
+msgid "オードリームーンコレクション<チアラビット>"
+msgstr "Audrey Moon Collection <Assistant Rabbit>"
+
 #  Korean Text: '의장에는 검, 실전에선 곤봉은 얼핏 보기에는 이상합니다. 하지만, 멋진 검이 의장에 어울린다는 건 확실합니다.'
 #: CharSkin[Skin_PECS_Cerberus_1].SkinDesc
 msgid "儀礼に剣、実戦に鈍器を携えるというのはちょっとちぐはぐです。しかし、無骨な鈍器より綺麗な剣の方が儀礼用には相応しいでしょう。"
@@ -709,3 +727,13 @@ msgstr ""
 #: CharSkin[Skin_PECS_Tiequan_1].SkinName
 msgid "トレーニング後のティエ･チュァン"
 msgstr "After Training Tiequan"
+
+#: CharSkin[Skin_PECS_Triaina_1].SkinDesc
+msgid ""
+"オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。海を越え月にまで探査に行くマジカル・ネオ・ニュー・トリアイナです。月の住民たちも彼女のプレゼン"
+"トに喜ぶでしょう。"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Triaina_1].SkinName
+msgid "オードリームーンコレクション<フロンティアラビット>"
+msgstr "Audrey Moon Collection <Frontier Rabbit>"

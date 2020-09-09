@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -187,7 +187,7 @@ msgstr "Vaccine Treatment RE"
 
 #  Korean Text: '효과 저항 / 해로운 효과 해제 Lv.2'
 #: ItemEquip[Equip_Chip_Debuff_Res_T2].ItemDesc
-msgid "状態異常耐性/新しい効果解除Lv.２"
+msgid "状態異常耐性/新しい効果解除Lv.2"
 msgstr "Effect Resistance / Remove Harmful Effects Lv.2"
 
 #  Korean Text: '백신 처리 MP'
@@ -197,7 +197,7 @@ msgstr "Vaccine Treatment MP"
 
 #  Korean Text: '효과 저항 / 해로운 효과 해제 Lv.3'
 #: ItemEquip[Equip_Chip_Debuff_Res_T3].ItemDesc
-msgid "状態異常耐性/新しい効果解除Lv.３"
+msgid "状態異常耐性/新しい効果解除Lv.3"
 msgstr "Effect Resistance / Remove Harmful Effects Lv.3"
 
 #  Korean Text: '백신 처리 SP'
@@ -207,7 +207,7 @@ msgstr "Vaccine Treatment SP"
 
 #  Korean Text: '효과 저항 / 해로운 효과 해제 Lv.4'
 #: ItemEquip[Equip_Chip_Debuff_Res_T4].ItemDesc
-msgid "状態異常耐性/新しい効果解除Lv.４"
+msgid "状態異常耐性/新しい効果解除Lv.4"
 msgstr "Effect Resistance / Remove Harmful Effects Lv.4"
 
 #  Korean Text: '백신 처리 EX'
@@ -415,6 +415,36 @@ msgstr "Increased experience gain Lv.4"
 msgid "戦闘記録回路EX"
 msgstr "Combat Log Circuit EX"
 
+#  Korean Text: '적중+{0} / 회피+{1} / 행동력+{2}'
+#: ItemEquip[Equip_Chip_LTWT_T1].ItemDesc
+msgid "命中+{0}/回避+{1}/行動力+{2}"
+msgstr ""
+
+#  Korean Text: '경량화 처리로 적중 / 회피 / 행동력이 증가하지만, 공격력이 감소합니다.'
+#: ItemEquip[Equip_Chip_LTWT_T1].ItemDesc_Detail
+msgid "軽量化処理で命中/回避/行動力が増加しますが、攻撃力が減少します。"
+msgstr ""
+
+#  Korean Text: '경량화 회로 RE'
+#: ItemEquip[Equip_Chip_LTWT_T1].ItemName
+msgid "軽量化回路RE"
+msgstr ""
+
+#  Korean Text: '경량화 회로 MP'
+#: ItemEquip[Equip_Chip_LTWT_T2].ItemName
+msgid "軽量化回路MP"
+msgstr ""
+
+#  Korean Text: '경량화 회로 SP'
+#: ItemEquip[Equip_Chip_LTWT_T3].ItemName
+msgid "軽量化回路SP"
+msgstr ""
+
+#  Korean Text: '경량화 회로 EX'
+#: ItemEquip[Equip_Chip_LTWT_T4].ItemName
+msgid "軽量化回路EX"
+msgstr ""
+
 #  Korean Text: '공격력+{0} / 적중{1}'
 #: ItemEquip[Equip_Chip_SpAtk_T1].ItemDesc
 msgid "攻撃力+{0}/命中{1}"
@@ -566,7 +596,7 @@ msgstr "When used with a shield, Attack / Action Speed Change Lv.1"
 
 #  Korean Text: '라운드 개시 시, 방어막 효과가 적용된 상태면 해당 효과를 해제하고 공격력과 행동력이 증가합니다.'
 #: ItemEquip[Equip_Sub_AntiBarrier_T1].ItemDesc_Detail
-msgid "ラウンド開始時、バリア効果が適用された状態の場合、バリア効果が解除され攻撃力/行動力が増加します。"
+msgid "ラウンド開始時、自分にバリア効果が適用されていた場合、バリア効果を解除し攻撃力/行動力を増加させます。"
 msgstr ""
 "As a round starts, if there is a shield effect present, it is removed, while "
 "increasing damage and action speed."
@@ -696,6 +726,21 @@ msgstr "Shock-Resistant Coating SP"
 msgid "耐電コーティングEX"
 msgstr "Shock-Resistant Coating EX"
 
+#  Korean Text: '기능 제작 중'
+#: ItemEquip[Equip_Sub_AntiShield_T4].ItemDesc
+msgid "機能制作中"
+msgstr ""
+
+#  Korean Text: '기능 제작 중 장비'
+#: ItemEquip[Equip_Sub_AntiShield_T4].ItemDesc_Detail
+msgid "機能制作中の装備"
+msgstr ""
+
+#  Korean Text: '방어막 중화 장비 EX'
+#: ItemEquip[Equip_Sub_AntiShield_T4].ItemName
+msgid "バリア中和装備EX"
+msgstr ""
+
 #  Korean Text: '냉기 저항+{0} / 침수 시, 능력 증가 Lv.1'
 #: ItemEquip[Equip_Sub_AquaModule_T1].ItemDesc
 msgid "冷気耐性＋{0}/浸水時、能力増加Lv.1"
@@ -758,7 +803,7 @@ msgstr "Anti-Armor Equipment RE"
 
 #  Korean Text: '치명타+{0} / 방어 관통 Lv.2'
 #: ItemEquip[Equip_Sub_ArmorPierce_T2].ItemDesc
-msgid "クリティカル+{0}/防御貫通Lv.２"
+msgid "クリティカル+{0}/防御貫通Lv.2"
 msgstr "Crit Chance +{0} / Defense Penetration Lv.2"
 
 #  Korean Text: '대 장갑 장비 MP'
@@ -768,7 +813,7 @@ msgstr "Anti-Armor Equipment MP"
 
 #  Korean Text: '치명타+{0} / 방어 관통 Lv.3'
 #: ItemEquip[Equip_Sub_ArmorPierce_T3].ItemDesc
-msgid "クリティカル+{0}/防御貫通Lv.３"
+msgid "クリティカル+{0}/防御貫通Lv.3"
 msgstr "Crit Chance +{0} / Defense Penetration Lv.3"
 
 #  Korean Text: '대 장갑 장비 SP'
@@ -778,7 +823,7 @@ msgstr "Anti-Armor Equipment SP"
 
 #  Korean Text: '치명타+{0} / 방어 관통 Lv.4'
 #: ItemEquip[Equip_Sub_ArmorPierce_T4].ItemDesc
-msgid "クリティカル+{0}/防御貫通Lv.４"
+msgid "クリティカル+{0}/防御貫通Lv.4"
 msgstr "Crit Chance +{0} / Defense Penetration Lv.4"
 
 #  Korean Text: '대 장갑 장비 EX'
@@ -797,6 +842,23 @@ msgid "P-3Mウンディーネ専用ASN-6Gミサイルです。防御貫通と重
 msgstr ""
 "ASN-6G Missiles for P-3M Undine. Increased defense penetration and damage "
 "against heavy units."
+
+#  Korean Text: '공격력+{0} / 행동력+{1}'
+#: ItemEquip[Equip_Sub_AtkSpd_T4].ItemDesc
+msgid "攻撃力+{0}/行動力+{1}"
+msgstr ""
+
+#  Korean Text: '신소재로 강화된 출력 강화 회로입니다.\n공격력과 행동력이 증가합니다.'
+#: ItemEquip[Equip_Sub_AtkSpd_T4].ItemDesc_Detail
+msgid ""
+"新素材で強化された出力強化回路です。\n"
+"攻撃力と行動力が増加します。"
+msgstr ""
+
+#  Korean Text: '개량형 출력 강화 회로 EX'
+#: ItemEquip[Equip_Sub_AtkSpd_T4].ItemName
+msgid "改良型出力強化回路EX"
+msgstr ""
 
 #  Korean Text: '방어막 Lv.1'
 #: ItemEquip[Equip_Sub_Barrier_T1].ItemDesc
@@ -878,6 +940,36 @@ msgstr "This is an Expanded Cosmic Booster specifically for CM67 Stinger."
 msgid "宇宙用拡張ブースター"
 msgstr "Expanded Space Booster"
 
+#  Korean Text: '전기 저항+{0} / 전기 속성 피격 시, 능력 증가'
+#: ItemEquip[Equip_Sub_ElectroGenerator_T1].ItemDesc
+msgid "電気耐性+{0}/電気属性被撃時、能力増加"
+msgstr ""
+
+#  Korean Text: '축전용 보조 장비입니다. 전기 속성 액티브 스킬 피격 시, 2 라운드 동안 충전 상태가 되어 공격력 / 회피 / 행동력이 증가합니다.'
+#: ItemEquip[Equip_Sub_ElectroGenerator_T1].ItemDesc_Detail
+msgid "蓄電用の補助装備です。電属性攻撃を受けた時、2ラウンドの間、充電状態になり攻撃力/回避/行動力が増加します。"
+msgstr ""
+
+#  Korean Text: '일렉트로 제네레이터 RE'
+#: ItemEquip[Equip_Sub_ElectroGenerator_T1].ItemName
+msgid "エレクトロゼネレーターRE"
+msgstr ""
+
+#  Korean Text: '일렉트로 제네레이터 MP'
+#: ItemEquip[Equip_Sub_ElectroGenerator_T2].ItemName
+msgid "エレクトロゼネレーターMP"
+msgstr ""
+
+#  Korean Text: '일렉트로 제네레이터 SP'
+#: ItemEquip[Equip_Sub_ElectroGenerator_T3].ItemName
+msgid "エレクトロゼネレーターSP"
+msgstr ""
+
+#  Korean Text: '일렉트로 제네레이터 EX'
+#: ItemEquip[Equip_Sub_ElectroGenerator_T4].ItemName
+msgid "エレクトロゼネレーターEX"
+msgstr ""
+
 #  Korean Text: 'AP 증가 Lv.1'
 #: ItemEquip[Equip_Sub_EnergyPack_T1].ItemDesc
 msgid "AP増加LV.1"
@@ -895,7 +987,7 @@ msgstr "Auxiliary Energy Pack RE"
 
 #  Korean Text: 'AP 증가 Lv.2'
 #: ItemEquip[Equip_Sub_EnergyPack_T2].ItemDesc
-msgid "AP増加LV.２"
+msgid "AP増加Lv.2"
 msgstr "Increase AP Lv.2"
 
 #  Korean Text: '보조 에너지 팩 MP'
@@ -905,7 +997,7 @@ msgstr "Auxiliary Energy Pack MP"
 
 #  Korean Text: 'AP 증가 Lv.3'
 #: ItemEquip[Equip_Sub_EnergyPack_T3].ItemDesc
-msgid "AP増加LV.３"
+msgid "AP増加Lv.3"
 msgstr "Increase AP Lv.3"
 
 #  Korean Text: '보조 에너지 팩 SP'
@@ -915,7 +1007,7 @@ msgstr "Auxiliary Energy Pack SP"
 
 #  Korean Text: 'AP 증가 Lv.4'
 #: ItemEquip[Equip_Sub_EnergyPack_T4].ItemDesc
-msgid "AP増加LV.４"
+msgid "AP増加Lv.4"
 msgstr "Increase AP Lv.4"
 
 #  Korean Text: '보조 에너지 팩 EX'
@@ -973,16 +1065,33 @@ msgstr "Accuracy +{0} / Crit Chance +{1} / Ignore damage reduction Lv.4"
 msgid "分析装置EX"
 msgstr "Heavy Weapon Sights EX"
 
+#  Korean Text: '적중+{0} / 회피+{1}'
+#: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemDesc
+msgid "命中+{0}/回避+{1}"
+msgstr ""
+
+#  Korean Text: '수정구 형태의 연산장치입니다.\n전투 개시 시, 행동력이 증가하며 정찰 효과를 얻습니다.'
+#: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemDesc_Detail
+msgid ""
+"水晶玉の形をした演算装置です。\n"
+"戦闘開始時、行動力が増加し、偵察効果を得ます。"
+msgstr ""
+
+#  Korean Text: '운명의 수정구 EX'
+#: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemName
+msgid "運命の水晶玉EX"
+msgstr ""
+
 #  Korean Text: '회피+{0} / 피해 최소화 Lv.1'
 #: ItemEquip[Equip_Sub_Hologram_T1].ItemDesc
-msgid "回避のアップ/ダメージダウンLv.1"
-msgstr "Evasion / Minimize Damage Lv.1"
+msgid "回避+{0}/受けるダメージ減少Lv.1"
+msgstr "Evasion +{0} / Minimize Damage Lv.1"
 
 #  Korean Text: '지원기 전용 보조 장비입니다.\n교란용 더미를 사출해 피격 시, 피해가 일정 횟수 최소화됩니다.'
 #: ItemEquip[Equip_Sub_Hologram_T1].ItemDesc_Detail
 msgid ""
 "支援機専用補助装備です。\n"
-"撹乱用ダミーを放射して攻撃を受けるとダメージが一定回数最小化されます。"
+"攪乱用ダミーを放射し、受けたダメージを一定回数最小化します。"
 msgstr ""
 
 #  Korean Text: '더미 홀로그램 RE'
@@ -992,8 +1101,8 @@ msgstr "Dummy Hologram RE"
 
 #  Korean Text: '회피+{0} / 피해 최소화 Lv.2'
 #: ItemEquip[Equip_Sub_Hologram_T2].ItemDesc
-msgid "回避のアップ/ダメージダウンLv.2"
-msgstr "Evasion / Minimize Damage Lv.2"
+msgid "回避+{0}/受けるダメージ減少Lv.2"
+msgstr "Evasion +{0} / Minimize Damage Lv.2"
 
 #  Korean Text: '더미 홀로그램 MP'
 #: ItemEquip[Equip_Sub_Hologram_T2].ItemName
@@ -1002,8 +1111,8 @@ msgstr "Dummy Hologram MP"
 
 #  Korean Text: '회피+{0} / 피해 최소화 Lv.3'
 #: ItemEquip[Equip_Sub_Hologram_T3].ItemDesc
-msgid "回避のアップ/ダメージダウンLv.3"
-msgstr "Evasion / Minimize Damage Lv.3"
+msgid "回避+{0}/受けるダメージ減少Lv.3"
+msgstr "Evasion +{0} / Minimize Damage Lv.3"
 
 #  Korean Text: '더미 홀로그램 SP'
 #: ItemEquip[Equip_Sub_Hologram_T3].ItemName
@@ -1012,8 +1121,8 @@ msgstr "Dummy Hologram SP"
 
 #  Korean Text: '회피+{0} / 피해 최소화 Lv.4'
 #: ItemEquip[Equip_Sub_Hologram_T4].ItemDesc
-msgid "回避のアップ/ダメージダウンLv.4"
-msgstr "Evasion / Minimize Damage Lv.4"
+msgid "回避+{0}/受けるダメージ減少Lv.4"
+msgstr "Evasion +{0} / Minimize Damage Lv.4"
 
 #  Korean Text: '더미 홀로그램 EX'
 #: ItemEquip[Equip_Sub_Hologram_T4].ItemName
@@ -1055,9 +1164,19 @@ msgstr ""
 msgid "冷却パックEX"
 msgstr "Cooling Pack EX"
 
+#  Korean Text: '적중+{0} / 치명타+{1} / 사거리 증가'
+#: ItemEquip[Equip_Sub_Interceptor_T4].ItemDesc
+msgid "命中+{0}/クリティカル+{1}/射程距離増加"
+msgstr ""
+
 #  Korean Text: '라운드 개시 시, 강화 단계에 따라 일정 확률로 적중 / 사거리 감소 효과를 해제하며 사거리가 증가합니다.'
 #: ItemEquip[Equip_Sub_Interceptor_T4].ItemDesc_Detail
-msgid "ラウンド開始時、強化段階に応じて一定確率で的中/射程距離減少効果を解除し、射程距離が増加します。"
+msgid "ラウンド開始時、強化段階に応じて一定確率で命中/射程距離減少効果を解除し、射程距離が増加します。"
+msgstr ""
+
+#  Korean Text: '개량형 관측 장비 EX'
+#: ItemEquip[Equip_Sub_Interceptor_T4].ItemName
+msgid "改良型観測装備EX"
 msgstr ""
 
 #  Korean Text: '공격력 / 행동력 증가'
@@ -1120,14 +1239,14 @@ msgstr "Random Enhancements"
 
 #  Korean Text: '달의 마력(?)이 담긴 송편입니다. 가지고 있으면 라운드 개시 시, 무작위 강화 효과가 각각 일정 확률로 적용됩니다.'
 #: ItemEquip[Equip_Sub_MoonCake_T4].ItemDesc_Detail
-msgid "月の魔力（？）が封じ込められた月見団子です。持っていると、ラウンド開始時、ランダムな強化効果をそれぞれ一定確率で得られます。"
+msgid "月の魔力(？)が封じ込められた月見餅です。持っていると、ラウンド開始時、ランダムな強化効果をそれぞれ一定確率で得られます。"
 msgstr ""
 "A set of half-moon rice cakes holding the Moon's magical force (?). At the "
 "start of each round, may apply random beneficial effects at a random chance."
 
 #  Korean Text: '달의 마력이 담긴 송편 EX'
 #: ItemEquip[Equip_Sub_MoonCake_T4].ItemName
-msgid "月の魔力が封印された月見団子EX"
+msgid "月の魔力が封印された月見餅EX"
 msgstr "Half-Moon Rice Cake of Lunar Magic EX"
 
 #  Korean Text: '적중 / 사거리 증가 Lv.1'
@@ -1151,7 +1270,7 @@ msgstr "Observation Equipment RE"
 
 #  Korean Text: '적중 / 사거리 증가 Lv.2'
 #: ItemEquip[Equip_Sub_Observer_T2].ItemDesc
-msgid "命中/射程増加Lv.２"
+msgid "命中/射程増加Lv.2"
 msgstr "Increase Accuracy / Range Lv.2"
 
 #  Korean Text: '관측 장비 MP'
@@ -1161,7 +1280,7 @@ msgstr "Observation Equipment MP"
 
 #  Korean Text: '적중 / 사거리 증가 Lv.3'
 #: ItemEquip[Equip_Sub_Observer_T3].ItemDesc
-msgid "命中/射程増加Lv.３"
+msgid "命中/射程増加Lv.3"
 msgstr "Increase Accuracy / Range Lv.3"
 
 #  Korean Text: '관측 장비 SP'
@@ -1171,7 +1290,7 @@ msgstr "Observation Equipment SP"
 
 #  Korean Text: '적중 / 사거리 증가 Lv.4'
 #: ItemEquip[Equip_Sub_Observer_T4].ItemDesc
-msgid "命中/射程増加Lv.４"
+msgid "命中/射程増加Lv.4"
 msgstr "Increase Accuracy / Range Lv.4"
 
 #  Korean Text: '관측 장비 EX'
@@ -1229,6 +1348,36 @@ msgstr "Increase Attack / Action Speed / Take Fixed Damage Lv.4"
 msgid "出力制限解除装置EX"
 msgstr "Output Limit Remover EX"
 
+#  Korean Text: '적이 처치되면 공격력 / 방어력 / 경험치 증가'
+#: ItemEquip[Equip_Sub_Recycler_T1].ItemDesc
+msgid "敵が倒れたら攻撃力/防御力/経験値が増加"
+msgstr ""
+
+#  Korean Text: '잔해 수집용 보조 장비입니다. 적이 처치되면 적에게서 쓸만한 잔해를 수거해, 해당 전투 동안 공격력 / 방어력 / 획득 경험치가 증가합니다.'
+#: ItemEquip[Equip_Sub_Recycler_T1].ItemDesc_Detail
+msgid "残骸収集用の補助装備です。倒れた敵から使える残骸を回収し、当戦闘の間は攻撃力/防御力/獲得経験値が増加します。"
+msgstr ""
+
+#  Korean Text: '리사이클 모듈 RE'
+#: ItemEquip[Equip_Sub_Recycler_T1].ItemName
+msgid "リサイクルモジュールRE"
+msgstr ""
+
+#  Korean Text: '리사이클 모듈 MP'
+#: ItemEquip[Equip_Sub_Recycler_T2].ItemName
+msgid "リサイクルモジュールMP"
+msgstr ""
+
+#  Korean Text: '리사이클 모듈 SP'
+#: ItemEquip[Equip_Sub_Recycler_T3].ItemName
+msgid "リサイクルモジュールSP"
+msgstr ""
+
+#  Korean Text: '리사이클 모듈 EX'
+#: ItemEquip[Equip_Sub_Recycler_T4].ItemName
+msgid "リサイクルモジュールEX"
+msgstr ""
+
 #  Korean Text: '공격력+{0} / 치명타+{1} / 사거리 증가'
 #: ItemEquip[Equip_Sub_SK14MODKit_T4].ItemDesc
 msgid "攻撃力+{0}/クリティカル+{1}/射程距離増加"
@@ -1237,7 +1386,7 @@ msgstr "Attack +{0} / Crit Chance +{1} / Increase Range"
 #  Korean Text: 'T-14 미호 전용 SK-14 Pinky 개량형의 개량형입니다.\n화력이 크게 개선된 모델입니다.'
 #: ItemEquip[Equip_Sub_SK14MODKit_T4].ItemDesc_Detail
 msgid ""
-"T-14ミホ専用SK-14 Pinky改良型の改良型です。\n"
+"T-14ミホ専用SK-14Pinky改良型の改良型です。\n"
 "火力が大幅に改善されたモデルです。"
 msgstr ""
 "This is an improved version of SK-14 Pinky for T-14 Miho.\n"
@@ -1262,7 +1411,7 @@ msgstr "Spaced Armor RE"
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.2'
 #: ItemEquip[Equip_Sub_SpaceArmor_T2].ItemDesc
-msgid "HP+{0}/受けるダメージ減少 Lv.２"
+msgid "HP+{0}/受けるダメージ減少 Lv.2"
 msgstr "HP +{0} / Reduced damage received for a fixed number of attacks Lv.2"
 
 #  Korean Text: '공간 장갑 MP'
@@ -1272,7 +1421,7 @@ msgstr "Spaced Armor MP"
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.3'
 #: ItemEquip[Equip_Sub_SpaceArmor_T3].ItemDesc
-msgid "HP+{0}/受けるダメージ減少 Lv.３"
+msgid "HP+{0}/受けるダメージ減少 Lv.3"
 msgstr "HP +{0} / Reduced damage received for a fixed number of attacks Lv.3"
 
 #  Korean Text: '공간 장갑 SP'
@@ -1282,7 +1431,7 @@ msgstr "Spaced Armor SP"
 
 #  Korean Text: 'HP+{0} / 일정 횟수 받는 피해 감소 Lv.4'
 #: ItemEquip[Equip_Sub_SpaceArmor_T4].ItemDesc
-msgid "HP+{0}/受けるダメージ減少 Lv.４"
+msgid "HP+{0}/受けるダメージ減少 Lv.4"
 msgstr "HP +{0} / Reduced damage received for a fixed number of attacks Lv.4"
 
 #  Korean Text: '공간 장갑 EX'
@@ -1349,7 +1498,7 @@ msgstr "Precision Sights RE"
 #: ItemEquip[Equip_Sub_SpSight_T2].ItemDesc
 msgid ""
 "クリティカル+{0}\n"
-"命中+{1}/命中減少解除Lv.２"
+"命中+{1}/命中減少解除Lv.2"
 msgstr ""
 "Crit Chance +{0}\n"
 "Accuracy +{1} / Remove accuracy reduction Lv.2"
@@ -1363,7 +1512,7 @@ msgstr "Precision Sights MP"
 #: ItemEquip[Equip_Sub_SpSight_T3].ItemDesc
 msgid ""
 "クリティカル+{0}\n"
-"命中+{1}/命中減少解除Lv.３"
+"命中+{1}/命中減少解除Lv.3"
 msgstr ""
 "Crit Chance +{0}\n"
 "Accuracy +{1} / Remove accuracy reduction Lv.3"
@@ -1377,7 +1526,7 @@ msgstr "Precision Sights SP"
 #: ItemEquip[Equip_Sub_SpSight_T4].ItemDesc
 msgid ""
 "クリティカル+{0}\n"
-"命中+{1}/命中減少解除Lv.４"
+"命中+{1}/命中減少解除Lv.4"
 msgstr ""
 "Crit Chance +{0}\n"
 "Accuracy +{1} / Remove accuracy reduction Lv.4"
@@ -1590,7 +1739,7 @@ msgstr "Anti-Air Combat System RE"
 
 #  Korean Text: '대 기동 공격 Lv.2'
 #: ItemEquip[Equip_System_AntiAir_T2].ItemDesc
-msgid "対機動攻撃Lv.２"
+msgid "対機動攻撃Lv.2"
 msgstr "Anti-Air Attack Lv.2"
 
 #  Korean Text: '대 기동 전투 시스템 MP'
@@ -1600,7 +1749,7 @@ msgstr "Anti-Air Combat System MP"
 
 #  Korean Text: '대 기동 공격 Lv.3'
 #: ItemEquip[Equip_System_AntiAir_T3].ItemDesc
-msgid "対機動攻撃Lv.３"
+msgid "対機動攻撃Lv.3"
 msgstr "Anti-Air Attack Lv.3"
 
 #  Korean Text: '대 기동 전투 시스템 SP'
@@ -1610,7 +1759,7 @@ msgstr "Anti-Air Combat System SP"
 
 #  Korean Text: '대 기동 공격 Lv.4'
 #: ItemEquip[Equip_System_AntiAir_T4].ItemDesc
-msgid "対機動攻撃Lv.４"
+msgid "対機動攻撃Lv.4"
 msgstr "Anti-Air Attack Lv.4"
 
 #  Korean Text: '대 기동 전투 시스템 EX'
@@ -1635,7 +1784,7 @@ msgstr "Anti-Heavy Combat System RE"
 
 #  Korean Text: '대 중장 공격 Lv.2'
 #: ItemEquip[Equip_System_AntiArmor_T2].ItemDesc
-msgid "対重装攻撃Lv.２"
+msgid "対重装攻撃Lv.2"
 msgstr "Anti-Heavy Attack Lv.2"
 
 #  Korean Text: '대 중장 전투 시스템 MP'
@@ -1645,7 +1794,7 @@ msgstr "Anti-Heavy Combat System MP"
 
 #  Korean Text: '대 중장 공격 Lv.3'
 #: ItemEquip[Equip_System_AntiArmor_T3].ItemDesc
-msgid "対重装攻撃Lv.３"
+msgid "対重装攻撃Lv.3"
 msgstr "Anti-Heavy Attack Lv.3"
 
 #  Korean Text: '대 중장 전투 시스템 SP'
@@ -1655,7 +1804,7 @@ msgstr "Anti-Heavy Combat System SP"
 
 #  Korean Text: '대 중장 공격 Lv.4'
 #: ItemEquip[Equip_System_AntiArmor_T4].ItemDesc
-msgid "対重装攻撃Lv.４"
+msgid "対重装攻撃Lv.4"
 msgstr "Anti-Heavy Attack Lv.4"
 
 #  Korean Text: '대 중장 전투 시스템 EX'
@@ -1680,7 +1829,7 @@ msgstr "Anti-Light Combat System RE"
 
 #  Korean Text: '대 경장 공격 Lv.2'
 #: ItemEquip[Equip_System_AntiTrooper_T2].ItemDesc
-msgid "対軽装攻撃Lv.２"
+msgid "対軽装攻撃Lv.2"
 msgstr "Anti-Light Attack Lv.2"
 
 #  Korean Text: '대 경장 전투 시스템 MP'
@@ -1690,7 +1839,7 @@ msgstr "Anti-Light Combat System MP"
 
 #  Korean Text: '대 경장 공격 Lv.3'
 #: ItemEquip[Equip_System_AntiTrooper_T3].ItemDesc
-msgid "対軽装攻撃Lv.３"
+msgid "対軽装攻撃Lv.3"
 msgstr "Anti-Light Attack Lv.3"
 
 #  Korean Text: '대 경장 전투 시스템 SP'
@@ -1700,7 +1849,7 @@ msgstr "Anti-Light Combat System SP"
 
 #  Korean Text: '대 경장 공격 Lv.4'
 #: ItemEquip[Equip_System_AntiTrooper_T4].ItemDesc
-msgid "対軽装攻撃Lv.４"
+msgid "対軽装攻撃Lv.4"
 msgstr "Anti-Light Attack Lv.4"
 
 #  Korean Text: '대 경장 전투 시스템 EX'
@@ -1725,7 +1874,7 @@ msgstr "Rushing Combat System RE"
 
 #  Korean Text: '공격력 / 받는 피해 증가 Lv.2'
 #: ItemEquip[Equip_System_Assault_T2].ItemDesc
-msgid "攻撃力/受けるダメージ増加Lv.２"
+msgid "攻撃力/受けるダメージ増加Lv.2"
 msgstr "Increase Attack Power / Damage Received Lv.2"
 
 #  Korean Text: '돌격형 전투 시스템 MP'
@@ -1735,7 +1884,7 @@ msgstr "Rushing Combat System MP"
 
 #  Korean Text: '공격력 / 받는 피해 증가 Lv.3'
 #: ItemEquip[Equip_System_Assault_T3].ItemDesc
-msgid "攻撃力/受けるダメージ増加Lv.３"
+msgid "攻撃力/受けるダメージ増加Lv.3"
 msgstr "Increase Attack Power / Damage Received Lv.3"
 
 #  Korean Text: '돌격형 전투 시스템 SP'
@@ -1745,7 +1894,7 @@ msgstr "Rushing Combat System SP"
 
 #  Korean Text: '공격력 / 받는 피해 증가 Lv.4'
 #: ItemEquip[Equip_System_Assault_T4].ItemDesc
-msgid "攻撃力/受けるダメージ増加Lv.４"
+msgid "攻撃力/受けるダメージ増加Lv.4"
 msgstr "Increase Attack Power / Damage Received Lv.4"
 
 #  Korean Text: '돌격형 전투 시스템 EX'
@@ -1770,7 +1919,7 @@ msgstr "Defensive Combat System RE"
 
 #  Korean Text: '방어 능력 증가 Lv.2'
 #: ItemEquip[Equip_System_Defense_T2].ItemDesc
-msgid "防御能力増加Lv.２"
+msgid "防御能力増加Lv.2"
 msgstr "Increase Defense Ability Lv.2"
 
 #  Korean Text: '방어형 전투 시스템 MP'
@@ -1780,7 +1929,7 @@ msgstr "Defensive Combat System MP"
 
 #  Korean Text: '방어 능력 증가 Lv.3'
 #: ItemEquip[Equip_System_Defense_T3].ItemDesc
-msgid "防御能力増加Lv.３"
+msgid "防御能力増加Lv.3"
 msgstr "Increase Defense Ability Lv.3"
 
 #  Korean Text: '방어형 전투 시스템 SP'
@@ -1790,7 +1939,7 @@ msgstr "Defensive Combat System SP"
 
 #  Korean Text: '방어 능력 증가 Lv.4'
 #: ItemEquip[Equip_System_Defense_T4].ItemDesc
-msgid "防御能力増加Lv.４"
+msgid "防御能力増加Lv.4"
 msgstr "Increase Defense Ability Lv.4"
 
 #  Korean Text: '방어형 전투 시스템 EX'
@@ -1862,7 +2011,7 @@ msgstr "Fast-Learning System RE"
 
 #  Korean Text: '경험치 증가 Lv.2'
 #: ItemEquip[Equip_System_Exp_T2].ItemDesc
-msgid "経験値増加Lv.２"
+msgid "経験値増加Lv.2"
 msgstr "EXP Gain Lv.2"
 
 #  Korean Text: '고속 학습 시스템 MP'
@@ -1872,7 +2021,7 @@ msgstr "Fast-Learning System MP"
 
 #  Korean Text: '경험치 증가 Lv.3'
 #: ItemEquip[Equip_System_Exp_T3].ItemDesc
-msgid "経験値増加Lv.３"
+msgid "経験値増加Lv.3"
 msgstr "EXP Gain Lv.3"
 
 #  Korean Text: '고속 학습 시스템 SP'
@@ -1882,7 +2031,7 @@ msgstr "Fast-Learning System SP"
 
 #  Korean Text: '경험치 증가 Lv.4'
 #: ItemEquip[Equip_System_Exp_T4].ItemDesc
-msgid "経験値増加Lv.４"
+msgid "経験値増加Lv.4"
 msgstr "EXP Gain Lv.4"
 
 #  Korean Text: '고속 학습 시스템 EX'
@@ -1923,7 +2072,7 @@ msgstr "Assault Combat System"
 
 #  Korean Text: '공격력 증가 / 사거리 감소 Lv.2'
 #: ItemEquip[Equip_System_Highspd_T2].ItemDesc
-msgid "攻撃力増加/射程減少Lv.２"
+msgid "攻撃力増加/射程減少Lv.2"
 msgstr "Increase Damage / Reduce Range Lv.2"
 
 #  Korean Text: '강습형 전투 시스템 MP'
@@ -1933,7 +2082,7 @@ msgstr "Assault Combat System"
 
 #  Korean Text: '공격력 증가 / 사거리 감소 Lv.3'
 #: ItemEquip[Equip_System_Highspd_T3].ItemDesc
-msgid "攻撃力増加/射程減少Lv.３"
+msgid "攻撃力増加/射程減少Lv.3"
 msgstr "Increase Damage / Reduce Range Lv.3"
 
 #  Korean Text: '강습형 전투 시스템 SP'
@@ -1943,7 +2092,7 @@ msgstr "Assault Combat System"
 
 #  Korean Text: '공격력 증가 / 사거리 감소 Lv.4'
 #: ItemEquip[Equip_System_Highspd_T4].ItemDesc
-msgid "攻撃力増加/射程減少Lv.４"
+msgid "攻撃力増加/射程減少Lv.4"
 msgstr "Increase Damage / Reduce Range Lv.4"
 
 #  Korean Text: '강습형 전투 시스템 EX'
@@ -2023,7 +2172,7 @@ msgstr "Precision Combat System RE"
 
 #  Korean Text: '공격력 증가 / 적중+{0} / 행동력 감소 Lv.2'
 #: ItemEquip[Equip_System_Maneuver_T2].ItemDesc
-msgid "攻撃力増加/命中＋{0}/行動力減少Lv.２"
+msgid "攻撃力増加/命中＋{0}/行動力減少Lv.2"
 msgstr "Increase Damage / Accuracy +{0} / Reduce Action Speed Lv.2"
 
 #  Korean Text: '정밀형 전투 시스템 MP'
@@ -2033,7 +2182,7 @@ msgstr "Precision Combat System MP"
 
 #  Korean Text: '공격력 증가 / 적중+{0} / 행동력 감소 Lv.3'
 #: ItemEquip[Equip_System_Maneuver_T3].ItemDesc
-msgid "攻撃力増加/命中＋{0}/行動力減少Lv.３"
+msgid "攻撃力増加/命中＋{0}/行動力減少Lv.3"
 msgstr "Increase Damage / Accuracy +{0} / Reduce Action Speed Lv.3"
 
 #  Korean Text: '정밀형 전투 시스템 SP'
@@ -2043,7 +2192,7 @@ msgstr "Precision Combat System SP"
 
 #  Korean Text: '공격력 증가 / 적중+{0} / 행동력 감소 Lv.4'
 #: ItemEquip[Equip_System_Maneuver_T4].ItemDesc
-msgid "攻撃力増加/命中＋{0}/行動力減少Lv.４"
+msgid "攻撃力増加/命中＋{0}/行動力減少Lv.4"
 msgstr "Increase Damage / Accuracy +{0} / Reduce Action Speed Lv.4"
 
 #  Korean Text: '정밀형 전투 시스템 EX'
@@ -2058,7 +2207,7 @@ msgstr "Increased Capabilities Lv.1"
 
 #  Korean Text: '공격, 방어, 적중, 회피를 올려주는 표준형 전투 OS입니다. 해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다.'
 #: ItemEquip[Equip_System_Normal_T1].ItemDesc_Detail
-msgid "攻撃、防御、的中、回避を上昇させる標準型戦闘OSです。該当のOSの効果はスキル付加効果発動に必要な条件を満足させます。"
+msgid "攻撃、防御、命中、回避を上昇させる標準型戦闘OSです。該当OSの効果はスキルの発動条件を満たすことができます。"
 msgstr ""
 "Standard battle OS for attack, defense, accuracy, and evasion. The effects of "
 "the OS can satisfy the conditions required to activate skill add-on effects."
@@ -2116,7 +2265,7 @@ msgstr "Reactive Combat System RE"
 
 #  Korean Text: '반격 Lv.2'
 #: ItemEquip[Equip_System_Sniper_T2].ItemDesc
-msgid "カウンターLv.２"
+msgid "カウンターLv.2"
 msgstr "Counterattack Lv.2"
 
 #  Korean Text: '대응형 전투 시스템 MP'
@@ -2126,7 +2275,7 @@ msgstr "Reactive Combat System MP"
 
 #  Korean Text: '반격 Lv.3'
 #: ItemEquip[Equip_System_Sniper_T3].ItemDesc
-msgid "カウンターLv.３"
+msgid "カウンターLv.3"
 msgstr "Counterattack Lv.3"
 
 #  Korean Text: '대응형 전투 시스템 SP'
@@ -2136,7 +2285,7 @@ msgstr "Reactive Combat System SP"
 
 #  Korean Text: '반격 Lv.4'
 #: ItemEquip[Equip_System_Sniper_T4].ItemDesc
-msgid "カウンターLv.４"
+msgid "カウンターLv.4"
 msgstr "Counterattack Lv.4"
 
 #  Korean Text: '대응형 전투 시스템 EX'

@@ -7,10 +7,15 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-13 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
+
+#  Korean Text: '소완으로 인해 혼란에 빠진 오르카 안에선 무슨 일이?'
+#: EventChapter[Event_Chapter_01].Event_CategoryDesc
+msgid "ソワンによって混乱に陥ったオルカ内ではいったい何が起きているのか！"
+msgstr ""
 
 #  Korean Text: '지고의 저녁 식사'
 #: EventChapter[Event_Chapter_01].Event_CategoryName
@@ -29,7 +34,22 @@ msgstr ""
 "Legacy of\n"
 "  Rioboros"
 
+#  Korean Text: '마법 소녀들과 함께 뽀끄루 대마왕을 물리쳐주세요!'
+#: EventChapter[Event_Chapter_05].Event_CategoryDesc
+msgid "魔法少女たちと手を取りポックル大魔王を倒しましょう！"
+msgstr ""
+
 #  Korean Text: '만월의 야상곡'
 #: EventChapter[Event_Chapter_05].Event_CategoryName
 msgid "満月の夜想曲"
 msgstr "Full Moon Nocturne"
+
+#  Korean Text: '과거에 얽매이지 마. 지금을 즐기는 거야!'
+#: EventChapter[Event_Chapter_06].Event_CategoryDesc
+msgid "過去に囚われないで、今を楽しめよう！"
+msgstr "Don't dwell in the past! Enjoy the moment!"
+
+#  Korean Text: '할로윈 파크 패닉!'
+#: EventChapter[Event_Chapter_06].Event_CategoryName
+msgid "ハロウィンパークパニック！"
+msgstr ""

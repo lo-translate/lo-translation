@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-09-09 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -39,12 +39,12 @@ msgstr ""
 
 #  Korean Text: '환경형 소환물(T)'
 #: Summon[SUMMON_SU_TestSEnv_N].Name
-msgid "環境型召喚物（Ｔ）"
+msgid "環境型召喚物(Ｔ)"
 msgstr ""
 
 #  Korean Text: '설치형 소환물(T)'
 #: Summon[SUMMON_SU_TestSInstall_N].Name
-msgid "設置型召喚物（Ｔ）"
+msgid "設置型召喚物(Ｔ)"
 msgstr ""
 
 #  Korean Text: '참호 방벽'
