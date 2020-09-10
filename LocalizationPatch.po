@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-14 12:00-0400\n"
+"PO-Revision-Date: 2020-09-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -4995,7 +4995,7 @@ msgstr "Increase Limits"
 
 #  Korean Text: '비활성화된 스테이지여서 탐색을 보낼 수 없습니다.'
 #: LocalizationPatch:1037
-msgid "無効なステージなので探索は行くことができません。"
+msgid "開催期間が終了したステージのため探索を行うことができません。"
 msgstr "Exploration cannot be start because it is disabled."
 
 #  Korean Text: '배틀 로그'
