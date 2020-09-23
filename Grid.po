@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-09-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -57,9 +57,18 @@ msgstr ""
 msgid "前列一般"
 msgstr ""
 
+#: Grid[Grid_100ee100ee100eeFX].GridName
+msgid "後列後方"
+msgstr ""
+
 #  Korean Text: '부채꼴역방향'
 #: Grid[Grid_100ee100100e100ee].GridName
 msgid "扇形逆方向"
+msgstr ""
+
+#  Korean Text: '부채꼴인접'
+#: Grid[Grid_100ee100100e100eeB].GridName
+msgid "扇形隣接"
 msgstr ""
 
 #  Korean Text: '후열제외'
@@ -217,14 +226,27 @@ msgstr ""
 msgid "中列後方"
 msgstr ""
 
+#: Grid[Grid_e100e10050100e100e].GridName
+msgid "十字逆方向"
+msgstr ""
+
 #  Korean Text: '십자일반'
 #: Grid[Grid_e100e100100100e100e].GridName
 msgid "十字一般"
 msgstr ""
 
+#  Korean Text: '십자고정'
+#: Grid[Grid_e100e100100100e100eFX].GridName
+msgid "十字固定"
+msgstr ""
+
 #  Korean Text: '중열일반'
 #: Grid[Grid_e100ee100ee100e].GridName
 msgid "中列一般"
+msgstr ""
+
+#: Grid[Grid_e100ee100ee100eT].GridName
+msgid "中列右側"
 msgstr ""
 
 #  Korean Text: '중열하단'
@@ -235,6 +257,10 @@ msgstr ""
 #  Korean Text: '중열제외'
 #: Grid[Grid_e100ee100eeeeM2].GridName
 msgid "中列除外"
+msgstr ""
+
+#: Grid[Grid_e100ee100100e100e].GridName
+msgid "中列前方"
 msgstr ""
 
 #  Korean Text: '부채꼴역제외'
@@ -390,6 +416,10 @@ msgstr ""
 #  Korean Text: '한칸뒤일반'
 #: Grid[Grid_eeee100100eee].GridName
 msgid "1マス後方一般"
+msgstr ""
+
+#: Grid[Grid_eeeee100ee100].GridName
+msgid "前列前方"
 msgstr ""
 
 #  Korean Text: '단일앞'

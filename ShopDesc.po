@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-09-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1697,7 +1697,7 @@ msgstr "Magical Rabbit Momo"
 
 #  Korean Text: '레아용 오드리 문 컬렉션과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[168].NPCDescription
-msgid "レア用のオードリームーン コレクションや手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgid "レア用のオードリームーンコレクションと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '매지컬 래빗 레아'
@@ -3419,13 +3419,13 @@ msgstr "T-3 Leprechaun"
 
 #  Korean Text: '포티아를 영입합니다'
 #: ShopDesc[15021].NPCDescription
-msgid "ポルティーヤを迎え入れます。"
+msgid "炉端のポルティーヤを迎え入れます。"
 msgstr "Recruit Fortia"
 
 #  Korean Text: '포티아'
 #: ShopDesc[15021].ProductName
-msgid "ポルティーヤ"
-msgstr "Fotia"
+msgid "炉端のポルティーヤ"
+msgstr "Fotia of Fireside"
 
 #  Korean Text: '시저스 리제를 영입합니다'
 #: ShopDesc[15022].NPCDescription
@@ -4224,7 +4224,7 @@ msgstr "Recruit DarkElven ForestRanger"
 
 #  Korean Text: '다크엘븐 포레스트레인저'
 #: ShopDesc[15101].ProductName
-msgid "ダークエルブン･フォレストレンジャー"
+msgid "ダークエルブンフォレストレンジャー"
 msgstr "DarkElven ForestRanger"
 
 #  Korean Text: 'T-13 알비스를 영입합니다.'
@@ -5537,8 +5537,8 @@ msgstr "Chef's Swimsuit (Sowan)"
 #  Korean Text: '여긴 해변 바캉스 현장의 리포터 스프리건입니다! 정말 이곳의 열기는 뜨겁군요. 자, 이제 사령관님의 사생활을… 조금만 들여다 볼까요? 걱정마세요! 비밀 방송이니까!'
 #: ShopDesc[17146].NPCDescription
 msgid ""
-"海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官様の私生活を…少しだけ覗いてみましょうか"
-"?心配要りません!極秘放送ですので!"
+"海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官の私生活を…少しだけ覗いてみましょうか?"
+"心配要りません!極秘放送ですので!"
 msgstr ""
 "This is reporter Spriggan, I'm currently at the scene of seaside vacation! It "
 "is much hotter than I expected. And let's take a sneaky peek at commander's "
@@ -5634,8 +5634,9 @@ msgstr "Lunar Momo Transform Costume"
 #  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 아마 달토끼와 관계된 것 같다고 하니 아마 이 복장이 맞을 겁니다. 아마도요... 수많은 잡지에서도 이 복장이 널리 입혀졌다는 것이 증명되고 있고요.'
 #: ShopDesc[17153].NPCDescription
 msgid ""
-"オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。おそらく、月兎と関係しているようなので、\n"
-"おそらくこの衣装が正しいと思います。たぶんね…数多くの雑誌でも、この衣装が広く着用されていることが証明しています。"
+"オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。\n"
+"月兎と関係しているようなので、この衣装は正しいと思います、多分…。\n"
+"数多くの雑誌でも、この衣装が広く着用されていることが証明しています。はい。"
 msgstr ""
 
 #  Korean Text: '오드리 문 컬렉션 <어덜트 래빗>'
@@ -5688,7 +5689,7 @@ msgstr ""
 
 #  Korean Text: '어느 친구의 강요로 전직한 뽀끄루 (전) 대마왕입니다. 크기야 어쨌든 보는 이들에게 꿈과 희망만 줄 수 있으면 아무래도 좋지 않을까요?'
 #: ShopDesc[17158].NPCDescription
-msgid "とある仲間の強要で転職したポックル(前)大魔王です。大きさはさておき見る者をして夢と希望を与えることができればそれだけで十分じゃないでしょうか？"
+msgid "とある仲間の強要で転職したポックル(前)大魔王です。大きさはさておき見る者に夢と希望を与えることができればそれだけで十分じゃないでしょうか？"
 msgstr ""
 
 #  Korean Text: '매지컬 드레스 (뽀끄루)'
@@ -5754,7 +5755,7 @@ msgid "エプロン(ラビアタ)"
 msgstr ""
 
 #: ShopDesc[17165].NPCDescription
-msgid "アレクサンドラから「教育」を受け、新たに生まれ変わったポルティーヤの衣装です。ところで…まぁ…問題ありませんよね…？"
+msgid "アレクサンドラから「教育」を受け、新たに生まれ変わった炉端のポルティーヤの衣装です。ところで…まぁ…問題ありませんよね…？"
 msgstr ""
 
 #: ShopDesc[17165].ProductName
@@ -6094,6 +6095,54 @@ msgstr ""
 
 #: ShopDesc[17203].ProductName
 msgid "プレートアーマーセット(ベロニカ)"
+msgstr ""
+
+#: ShopDesc[18001].NPCDescription
+msgid "ツナ缶10個(有償7個+無償3個)が入っています。"
+msgstr ""
+
+#: ShopDesc[18001].ProductName
+msgid "ツナ缶7+3個"
+msgstr ""
+
+#: ShopDesc[18002].NPCDescription
+msgid "ツナ缶26個(有償17個+無償9個)が入っています。"
+msgstr ""
+
+#: ShopDesc[18002].ProductName
+msgid "ツナ缶17+9個"
+msgstr ""
+
+#: ShopDesc[18003].NPCDescription
+msgid "ツナ缶63個(有償40個+無償23個)が入っています。"
+msgstr ""
+
+#: ShopDesc[18003].ProductName
+msgid "ツナ缶40+23個"
+msgstr ""
+
+#: ShopDesc[18004].NPCDescription
+msgid "ツナ缶125個(有償80個+無償45個)が入っています。"
+msgstr ""
+
+#: ShopDesc[18004].ProductName
+msgid "ツナ缶80+45個"
+msgstr ""
+
+#: ShopDesc[18005].NPCDescription
+msgid "ツナ缶258個(有償165個+無償93個)が入っています。"
+msgstr ""
+
+#: ShopDesc[18005].ProductName
+msgid "ツナ缶165+93個"
+msgstr ""
+
+#: ShopDesc[18006].NPCDescription
+msgid "ツナ缶546個(有償350個+無償196個)が入っています。"
+msgstr ""
+
+#: ShopDesc[18006].ProductName
+msgid "ツナ缶350+196個"
 msgstr ""
 
 #  Korean Text: '먹으면 또 먹고 싶어지는 마성의 요리입니다.'

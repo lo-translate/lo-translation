@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -130,6 +130,17 @@ msgstr "Hachiko still can't tell if there's anything wrong within this family."
 #: CharSkin[Skin_3P_Hachiko_1].SkinName
 msgid "危険な家族：見習いメイド"
 msgstr "Dangerous Family: Apprentice Maid"
+
+#: CharSkin[Skin_3P_Rhea_1].SkinDesc
+msgid ""
+"オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。\n"
+"月兎と関係しているようなので、この衣装は正しいと思います、多分…。\n"
+"数多くの雑誌でも、この衣装が広く着用されていることが証明しています。はい。"
+msgstr ""
+
+#: CharSkin[Skin_3P_Rhea_1].SkinName
+msgid "オードリームーンコレクション<アダルトラビット>"
+msgstr "Audrey Moon Collection: Adult Rabbit"
 
 #  Korean Text: '자신의 자매 덕분에 리제도 간호사 복을 입을 수 있었죠. 어쩌면 그녀는 자신의 주인이 중환자가 되길 바라고 있을 수도 있겠군요.'
 #: CharSkin[Skin_3P_ScissorsLise_1].SkinDesc
@@ -519,8 +530,8 @@ msgstr "Striped Swimsuit"
 
 #: CharSkin[Skin_BR_Spriggan_1].SkinDesc
 msgid ""
-"海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官様の私生活を…少しだけ覗いてみましょうか"
-"?心配要りません!極秘放送ですので!"
+"海岸のバカンス現場の中継に来たリポーターのスプリガンです!ここの熱気はとてもヒートアップしています。では、早速司令官の私生活を…少しだけ覗いてみましょうか?"
+"心配要りません!極秘放送ですので!"
 msgstr ""
 "This is reporter Spriggan, I'm currently at the scene of seaside vacation! It "
 "is much hotter than I expected. And let's take a sneaky peek at commander's "
@@ -616,6 +627,14 @@ msgstr ""
 msgid "フランス風宝石ビキニ"
 msgstr "French Jewelry Bikini"
 
+#: CharSkin[Skin_DS_Faucre_1].SkinDesc
+msgid "とある仲間の強要で転職したポックル(前)大魔王です。大きさはさておき見る者に夢と希望を与えることができればそれだけで十分じゃないでしょうか？"
+msgstr ""
+
+#: CharSkin[Skin_DS_Faucre_1].SkinName
+msgid "魔法少女！？マジカルポックル"
+msgstr "Magical Girl?! Magical Faucre"
+
 #: CharSkin[Skin_DS_MoMo_1].SkinDesc
 msgid ""
 "魔法少女マジカルモモの「八月の満月夜シーズン2」で使用する予定だった、月のモモ変身コスチュームです。 "
@@ -693,6 +712,14 @@ msgstr ""
 #: CharSkin[Skin_PECS_Fortune_1].SkinName
 msgid "深海整備員フォーチュン"
 msgstr "Deep Sea Mechanic Fortune"
+
+#: CharSkin[Skin_PECS_Ignis_1].SkinDesc
+msgid "何でも真面目にこなすイグニスは、衣装や演技も完璧にやってのけました。バレないよう頑張ってますが、貴方が褒めたら大変喜ぶでしょう。"
+msgstr ""
+
+#: CharSkin[Skin_PECS_Ignis_1].SkinName
+msgid "大魔王ポックルの最初の腹心"
+msgstr ""
 
 #  Korean Text: '새로운 힘, 피에 눈을 뜬 진조 뱀파이어 LRL. 검과 검은 드레스는 고귀한 진조에 더욱 어울립니다.'
 #: CharSkin[Skin_PECS_LRL_1].SkinDesc

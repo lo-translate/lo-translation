@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-08-26 12:00-0400\n"
+"PO-Revision-Date: 2020-09-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -103,8 +103,8 @@ msgstr ""
 
 #  Korean Text: '포티아'
 #: PC[Char_3P_Fotia_N].Name
-msgid "ポルティーヤ"
-msgstr "Fotia"
+msgid "炉端のポルティーヤ"
+msgstr "Fotia of Fireside"
 
 #  Korean Text: '아앗~! 저는 하치코라고 해요. 저랑 뭘 하고 놀까요 주인님?'
 #: PC[Char_3P_Hachiko_N].DialogJoin
@@ -324,7 +324,7 @@ msgstr "Tyrant"
 
 #  Korean Text: '사령관님 안녕? 난 알비스야. 이건 선물이니까 아껴 먹어야 돼~!'
 #: PC[Char_BR_Alvis_N].DialogJoin
-msgid "司令官様、こんにちは。私はアルヴィス。これはプレゼントだよ。少しずつ食べてね！"
+msgid "司令官、こんにちは。私はアルヴィス。これはプレゼントだよ。少しずつ食べてね！"
 msgstr ""
 
 #  Korean Text: 'T-13 알비스'
@@ -451,6 +451,11 @@ msgstr ""
 #: PC[Char_BR_DrM_N].Name
 msgid "ドクター"
 msgstr "Doctor"
+
+#  Korean Text: '내 이름은 에키드나. 당신 눈빛이... 마음에 드는데?'
+#: PC[Char_BR_Echidna_N].DialogJoin
+msgid "私の名前はエキドナ。あなたのその瞳…気に入ったわ。"
+msgstr ""
 
 #  Korean Text: '에키드나'
 #: PC[Char_BR_Echidna_N].Name
@@ -1223,9 +1228,14 @@ msgstr ""
 msgid "ココ･イン･ホワイトシェル"
 msgstr "CoCo & WhiteShell"
 
+#  Korean Text: '안녕? 내 이름은 다크엘븐. 당신은 뭐라고 부르면 돼?'
+#: PC[Char_PECS_DarkElf_N].DialogJoin
+msgid "私の名前はダークエルブン。あんたのことは何て呼べばいい？"
+msgstr ""
+
 #  Korean Text: '다크엘븐 포레스트레인저'
 #: PC[Char_PECS_DarkElf_N].Name
-msgid "ダークエルブン･フォレストレンジャー"
+msgid "ダークエルブンフォレストレンジャー"
 msgstr "DarkElven ForestRanger"
 
 #  Korean Text: '긴급 조난 프로토콜에 의해 인근 시민 공동체에 합류합니다.'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-09-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -914,7 +914,7 @@ msgid "こんな格好ですみません…すぐに着替えます。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript1[2](Affection<100)
-msgid "司令官様は力の強い女をどうお考え…あ…何でもありません。"
+msgid "司令官は力の強い女をどうお考え…あ…何でもありません。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript1[3](Affection<100)
@@ -922,7 +922,7 @@ msgid "ふふ、強い相手ほど攻略する楽しみがあります。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript2[1](Affection>40)
-msgid "はぁ…司令官様？これほどいてくれません？"
+msgid "はぁ…司令官？これほどいてくれません？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript3[3](Affection>70)
@@ -930,7 +930,7 @@ msgid "はぁ…たまに…誰かが私を…押し倒して…ふふ。冗談�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScript4[2](Affection=100)
-msgid "私の力は司令官様のためだけに使いたいのです。ですから…その私の言いたいこと分かりますよね？"
+msgid "私の力は司令官のためだけに使いたいのです。ですから…その私の言いたいこと分かりますよね？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_BeastHunter_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
@@ -1254,6 +1254,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_DrM].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "……"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScript1[1](Affection<100)
+msgid "そこからは私の領域よ。私に近づきたいのならもう少し勇気を見せてみなさい。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScript1[2](Affection<100)
+msgid "私を満足させられるなら何だって構わないわ。戦闘だろうと、ヌルヌルした関係だろうとね…ふふ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScript1[3](Affection<100)
+msgid "あら、そんな風に上の空でいると…私が一口で食べてしまうかもしれないわよ…？ふふ"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScript2[1](Affection>40)
+msgid "私は多くの失敗作たちを蹴落として、ここまで登り詰めた存在なの。あなたは…こんな私をどう思うのかしら？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScript3[3](Affection>70)
+msgid "あぁ…あなたはもう私のもの。この世でもあの世でも…絶対に手放さない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScript4[2](Affection=100)
+msgid "あなたと出会って…私は少し変わったわ。私を満足させられるのは…やっぱりあなただけ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "あなたって…悪い癖があるのね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "はぁ、そうね…私たちってかなりお似合いだと思うわ…あなたも…そう思うわよね？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript1[1](Affection<100)
@@ -3216,7 +3248,15 @@ msgid "バニーガールの応援でも頑張れるって本当？なら、応�
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScript4[2](Affection=100)
-msgid "私、うさぎについて勉強したことあるんだ。うーん、うさぎはね、子供を沢山作るんだって。あ！これはただ勉強してたら、、"
+msgid "私、うさぎについて勉強したことがあるんだ。うーん、うさぎはね、子供を沢山作るんだって。あ！これはただ勉強してたら…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "司令官ひどい！ウサギの服を着させたのはこれが目的だったの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Carolina_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ウサギは繊細なんだからデリケートに扱ってよ。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Cerberus].LobbyScript1[1](Affection<100)
@@ -3345,6 +3385,36 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript1[1](Affection<100)
 msgid "ちょっと…ここばっかり見つめられると…気になっちゃうんだけど？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript1[2](Affection<100)
+msgid "あの…「あんた」っていう呼び方…もしかして生意気？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript1[3](Affection<100)
+msgid "え？本気でキャンプファイヤーとかしてみたいってこと？…い、一回もやったことないの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript2[1](Affection>40)
+msgid "これ？学生服じゃなくて正規の制服なんだけど。何か問題でもある？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript3[3](Affection>70)
+msgid ""
+"キャンプファイヤー？わかったってば。やればいいいんでしょ？やれば…\n"
+"その代わり、薪はあんたが準備するのよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScript4[2](Affection=100)
+msgid "特別な関係になったとしても…呼び方は変わらず「あんた」にするからね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "こ、殺すわよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_DarkElf].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "触るなって…言ったでしょ…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Drone].LobbyScript1[1](Affection<100)
@@ -3629,6 +3699,42 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Ignis].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "そんなことされたら…体温が上がってしまいます…熱を下げないと…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScript1[1](Affection<100)
+msgid ""
+"これはポックルさんの部下の衣装です。リメイク版で涼しいのはいいのですが…\n"
+"も、もうちょっと可愛らしい衣装だったらよかったなぁ…と…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScript1[2](Affection<100)
+msgid "あはははは、闇の炎に抱かれて燃え上がるがいい！…大丈夫でしたか？ ポックルさんに指導してもらいながら練習しました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScript1[3](Affection<100)
+msgid "魔法少女のメンバーとポックルさんが何か準備していると思っていましたけど…、まさか私にくれるとは夢にも…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScript2[1](Affection>40)
+msgid "私が選ばれた理由は名前が似ていたからだそうです…。性格は正反対ですがね。どうですか？似合ってますか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScript3[3](Affection>70)
+msgid "私は一人で働くことが多かったので…他の方と一緒に何かをすること自体、楽しかったです。マジックジェン…し、司令官もいつか…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScript4[2](Affection=100)
+msgid ""
+"大魔王の部下たちは男性を魅了するのが得意だったそうです。\n"
+"そ、それで1人で練習してたんですが…し、司令官がちょっと相手になってくれませんか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "あ！あぁぁ…！それは引っ張っちゃダメですっ…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Ignis_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うっ、くっ…はぁ…はぁ…司令官… ま、前髪は…！ダメ…！か、顔は見ないでください…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_LRL].LobbyScript1[1](Affection<100)

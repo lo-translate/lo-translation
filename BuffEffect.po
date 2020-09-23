@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-09-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -3840,6 +3840,186 @@ msgstr ""
 #: BuffEffect[Effect_BR_DrM_N_14].BuffEffectType1_Desc
 msgid "実験対象募集!：AP{0}"
 msgstr "Recruiting Test Subjects!: AP{0}"
+
+#  Generated Partial Match; Korean Text: '포식 : AP {0}'
+#: BuffEffect[Effect_BR_Echidna_N_1].BuffEffectType1_Desc
+msgid "捕食：行動力{0}%"
+msgstr "捕食: Action Speed {0}%"
+
+#  Generated Partial Match; Korean Text: '포식 : 이동 불가'
+#: BuffEffect[Effect_BR_Echidna_N_1].BuffEffectType2_Desc
+msgid "捕食：移動不可"
+msgstr "捕食: Rooted"
+
+#  Generated Partial Match; Korean Text: '포식 : 받는 피해+{0}%'
+#: BuffEffect[Effect_BR_Echidna_N_1].BuffEffectType3_Desc
+msgid "捕食：受けるダメージ+{0}%"
+msgstr "捕食: Damage Taken +{0}%"
+
+#  Generated Partial Match; Korean Text: '포식 : 방어력 {0}%'
+#: BuffEffect[Effect_BR_Echidna_N_1].BuffEffectType4_Desc
+msgid "捕食：防御力{0}%"
+msgstr "捕食: Defense {0}%"
+
+#  Generated Partial Match; Korean Text: '포식 : 방어력+{0}% (자신)'
+#: BuffEffect[Effect_BR_Echidna_N_1].BuffEffectType5_Desc
+msgid "捕食：防御力+{0}%(自分)"
+msgstr "捕食: Defense +{0}% (Self)"
+
+#  Generated Partial Match; Korean Text: '포식 : AP 감소 / 이동 불가 / 피해 증폭'
+#: BuffEffect[Effect_BR_Echidna_N_1].Name
+msgid "捕食：行動力減少/移動不可/ダメージ増幅"
+msgstr "捕食: Reduced Action Speed / Rooted / Increase Damage"
+
+#  Generated Partial Match; Korean Text: '아이언 커튼 : 방어막+{0}'
+#: BuffEffect[Effect_BR_Echidna_N_2].BuffEffectType1_Desc
+msgid "蛇の抱擁：バリア+{0}"
+msgstr "蛇の抱擁: Shield +{0}"
+
+#  Generated Partial Match; Korean Text: '아이언 커튼 : 받는 피해 {0}% 감소'
+#: BuffEffect[Effect_BR_Echidna_N_2].BuffEffectType2_Desc
+msgid "蛇の抱擁：受けるダメージ{0}%減少"
+msgstr "蛇の抱擁: {0}% Damage Reduction"
+
+#  Generated Partial Match; Korean Text: '아이언 커튼 : 효과 저항+{0}%'
+#: BuffEffect[Effect_BR_Echidna_N_2].BuffEffectType3_Desc
+msgid "蛇の抱擁：状態異常耐性+{0}%"
+msgstr "蛇の抱擁: Resist Effects +{0}%"
+
+#  Generated Partial Match; Korean Text: '0'
+#: BuffEffect[Effect_BR_Echidna_N_2].BuffEffectType4_Desc
+msgid "蛇の抱擁：電気耐性+{0}%"
+msgstr "蛇の抱擁: Resist Electric +{0}%"
+
+#  Generated Partial Match; Korean Text: '아이언 커튼 : 방어막 / 받는 피해 감소 / 효과 저항 증가'
+#: BuffEffect[Effect_BR_Echidna_N_2].Name
+msgid "蛇の抱擁：バリア/受けるダメージ減少/電気/状態異常耐性増加"
+msgstr "蛇の抱擁: Shield / Damage Reduction / 電気 / Effect Resist Up"
+
+#  Generated Partial Match; Korean Text: '부정형 다중합금 : 열 보호'
+#: BuffEffect[Effect_BR_Echidna_N_3].BuffEffectType1_Desc
+msgid "不定形合金鱗：列保護"
+msgstr "不定形合金鱗: Column Protection"
+
+#  Generated Partial Match; Korean Text: '부정형 다중합금 : 방어력+{0}%'
+#: BuffEffect[Effect_BR_Echidna_N_3].BuffEffectType2_Desc
+msgid "不定形合金鱗：防御力+{0}%"
+msgstr "不定形合金鱗: Defense +{0}%"
+
+#  Generated Partial Match; Korean Text: '부정형 다중합금 : 전기 저항+{0}%'
+#: BuffEffect[Effect_BR_Echidna_N_3].BuffEffectType3_Desc
+msgid "不定形合金鱗：電気耐性+{0}%"
+msgstr "不定形合金鱗: Resist Electric +{0}%"
+
+#  Generated Partial Match; Korean Text: '0'
+#: BuffEffect[Effect_BR_Echidna_N_3].BuffEffectType4_Desc
+msgid "不定形合金鱗：状態異常耐性+{0}%"
+msgstr "不定形合金鱗: Resist Effects +{0}%"
+
+#  Generated Partial Match; Korean Text: '부정형 다중합금 : 열 보호 / 방어력 / 전기 저항 증가'
+#: BuffEffect[Effect_BR_Echidna_N_3].Name
+msgid "不定形合金鱗：列保護/防御力/電気耐性増加"
+msgstr "不定形合金鱗: Column Protection / Defense / 電気耐性増加"
+
+#  Generated Partial Match; Korean Text: '영역 경계 ; 공격력+{0}% (경장/중장)'
+#: BuffEffect[Effect_BR_Echidna_N_4].BuffEffectType1_Desc
+msgid "女王の存在感：攻撃力+{0}%(軽装型/機動型)"
+msgstr "女王の存在感: Attack +{0}% (軽装型 / 機動型)"
+
+#  Generated Partial Match; Korean Text: '영역 경계 : 적중+{0}% (경장/중장)'
+#: BuffEffect[Effect_BR_Echidna_N_4].BuffEffectType2_Desc
+msgid "女王の存在感：命中率+{0}%(軽装型/機動型)"
+msgstr "女王の存在感: Accuracy +{0}% (軽装型 / 機動型)"
+
+#  Generated Partial Match; Korean Text: '영역 경계 : 행동력+{0}% (경장/중장)'
+#: BuffEffect[Effect_BR_Echidna_N_4].BuffEffectType3_Desc
+msgid "女王の存在感：行動力+{0}%(軽装型/機動型)"
+msgstr "女王の存在感: Action Speed +{0}% (軽装型 / 機動型)"
+
+#  Generated Partial Match; Korean Text: '영역 경계 : 지정 대상 보호 (경장/중장)'
+#: BuffEffect[Effect_BR_Echidna_N_4].BuffEffectType4_Desc
+msgid "女王の存在感：指定対象保護(軽装型/機動型)"
+msgstr "女王の存在感: Protect Target (軽装型 / 機動型)"
+
+#  Generated Partial Match; Korean Text: '영역 경계 : 경장 / 중장형 보호 / 공격력 / 적중 / 행동력 증가'
+#: BuffEffect[Effect_BR_Echidna_N_4].Name
+msgid "女王の存在感：軽装/機動型保護/攻撃力/命中率/行動力増加"
+msgstr "女王の存在感: 軽装 / 機動型保護 / Attack / Accuracy / Action Speed Up"
+
+#  Generated Partial Match; Korean Text: '지반 붕괴 : 행동력 {0}%'
+#: BuffEffect[Effect_BR_Echidna_N_5].BuffEffectType1_Desc
+msgid "欲望の沼：行動力{0}%(軽装型/重装型)"
+msgstr "欲望の沼: Action Speed {0}% (軽装型 / 重装型)"
+
+#  Generated Partial Match; Korean Text: '지반 붕괴 : 이동 불가'
+#: BuffEffect[Effect_BR_Echidna_N_5].BuffEffectType2_Desc
+msgid "欲望の沼：移動不可"
+msgstr "欲望の沼: Rooted"
+
+#  Generated Partial Match; Korean Text: '지반 붕괴 : 받는 피해+{0}%'
+#: BuffEffect[Effect_BR_Echidna_N_5].BuffEffectType3_Desc
+msgid "欲望の沼：受けるダメージ+{0}%"
+msgstr "欲望の沼: Damage Taken +{0}%"
+
+#  Generated Partial Match; Korean Text: '지반 붕괴 : 적 행동력 감소 / 이동 불가 / 받는 피해 증가'
+#: BuffEffect[Effect_BR_Echidna_N_5].Name
+msgid "欲望の沼：敵の行動力減少/移動不可/受けるダメージ増加"
+msgstr "欲望の沼: 敵の行動力減少 / Rooted / 受けるダメージ増加"
+
+#  Korean Text: '포식 : AP {0}'
+#: BuffEffect[Effect_BR_Echidna_N_11].BuffEffectType1_Desc
+msgid "捕食：行動力 {0}"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '포식 : AP 감소 (기동)'
+#: BuffEffect[Effect_BR_Echidna_N_11].Name
+msgid "捕食：AP減少(機動)"
+msgstr "捕食: AP Down (Flying)"
+
+#  Generated Partial Match; Korean Text: '포식 : 이동 불가 / 피해 증폭 (일반)'
+#: BuffEffect[Effect_BR_Echidna_N_12].Name
+msgid "捕食：移動不可/ダメージ増幅(一般)"
+msgstr "捕食: Rooted / Increase Damage (一般)"
+
+#  Generated Partial Match; Korean Text: '포식 : 이동 불가 / 피해 증폭 (기동)'
+#: BuffEffect[Effect_BR_Echidna_N_13].Name
+msgid "捕食：移動不可/ダメージ増幅(機動)"
+msgstr "捕食: Rooted / Increase Damage (Flying)"
+
+#  Generated Partial Match; Korean Text: '포식 : 방어력+{0}%'
+#: BuffEffect[Effect_BR_Echidna_N_14].BuffEffectType1_Desc
+msgid "捕食：防御力+{0}%"
+msgstr "捕食: Defense +{0}%"
+
+#  Generated Partial Match; Korean Text: '포식 : 방어력 증가'
+#: BuffEffect[Effect_BR_Echidna_N_14].Name
+msgid "捕食：防御力増加"
+msgstr "捕食: Defense Up"
+
+#  Generated Partial Match; Korean Text: '아이언 커튼 : 저항 증가'
+#: BuffEffect[Effect_BR_Echidna_N_15].Name
+msgid "蛇の抱擁：受けるダメージ減少"
+msgstr "蛇の抱擁: Damage Reduction"
+
+#  Generated Partial Match; Korean Text: '똬리틀기 : 반격 (1회)'
+#: BuffEffect[Effect_BR_Echidna_N_16].Name
+msgid "蛇の抱擁：状態異常耐性増加"
+msgstr "蛇の抱擁: Effect Resist Up"
+
+#  Korean Text: '열 교란 파장 : 후열 아군 공격력 / 회피 / 행동력 증가 / 지정 보호'
+#: BuffEffect[Effect_BR_Echidna_N_17].Name
+msgid "蛇の抱擁：電気耐性増加"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '지반 붕괴 : 행동력 {0}% (중장)'
+#: BuffEffect[Effect_BR_Echidna_N_18].BuffEffectType1_Desc
+msgid "欲望の沼：行動力{0}%(重装型)"
+msgstr "欲望の沼: Action Speed {0}% (重装型)"
+
+#  Generated Partial Match; Korean Text: '지반 붕괴 : 받는 피해+{0}% (중장)'
+#: BuffEffect[Effect_BR_Echidna_N_18].BuffEffectType3_Desc
+msgid "欲望の沼：受けるダメージ+{0}%(重装型)"
+msgstr "欲望の沼: Damage Taken +{0}% (重装型)"
 
 #  Korean Text: '뒤로 {0}칸 밀기'
 #: BuffEffect[Effect_BR_Efreeti_N_1].BuffEffectType1_Desc
@@ -12470,7 +12650,7 @@ msgstr "OS分析: 対タイプダメージ量+{0}% (Attacker)"
 
 #  Korean Text: '공격대 지휘 : 공격기 공격력 증가 / 장비한 대 타입 능력 증가'
 #: BuffEffect[Effect_DS_Arman_N_3].Name
-msgid "攻撃体指揮：攻撃機の攻撃力増加/装備した対タイプ能力増加"
+msgid "攻撃隊指揮：攻撃機の攻撃力増加/装備した対タイプ能力増加"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '경호대 지휘 : 받는 피해 {0}% 감소 (보호기)'
@@ -19405,8 +19585,8 @@ msgstr "散弾砲撃: Defense Reduction / 移動不可ダメージ量増加"
 
 #  Generated Partial Match; Korean Text: '확산형 곡사포 : 피해량+{0}% (경장/기동)'
 #: BuffEffect[Effect_MP_SeljuqA_N_2].BuffEffectType1_Desc
-msgid "拡散型曲射砲：ダメージ量+{0}%(軽装/機動)"
-msgstr "拡散型曲射砲: Damage +{0}% (軽装 / 機動)"
+msgid "拡散型曲射砲：ダメージ量+{0}%(軽装型/機動型)"
+msgstr "拡散型曲射砲: Damage +{0}% (軽装型 / 機動型)"
 
 #  Korean Text: '확산형 곡사포 : 경장 / 기동형 피해량 증가'
 #: BuffEffect[Effect_MP_SeljuqA_N_2].Name
@@ -21119,8 +21299,8 @@ msgstr "技術先導: Increase Damage / 耐性減少"
 
 #  Generated Partial Match; Korean Text: '대중성 추구 : 공격력 / 치명타 감소'
 #: BuffEffect[Effect_PECS_Audrey_N_1].BuffEffectType4_Desc
-msgid "大衆性追求：攻撃力/クリティカル率減少"
-msgstr "大衆性追求: Attack / Reduced Crit Rate"
+msgid "大衆性の追求：攻撃力/クリティカル率減少"
+msgstr "大衆性の追求: Attack / Reduced Crit Rate"
 
 #  Generated Partial Match; Korean Text: '극비 신작 연구 : 적중 / 행동력 감소'
 #: BuffEffect[Effect_PECS_Audrey_N_1].BuffEffectType5_Desc
@@ -21144,8 +21324,8 @@ msgstr "技術先導: Evasion / Action Speed Up"
 
 #  Generated Partial Match; Korean Text: '대중성 추구 : 방어력 증가 / 피해 감소'
 #: BuffEffect[Effect_PECS_Audrey_N_2].BuffEffectType3_Desc
-msgid "大衆性追求：防御力増加/ダメージ減少"
-msgstr "大衆性追求: Defense Up / Damage Reduction"
+msgid "大衆性の追求：防御力増加/ダメージ減少"
+msgstr "大衆性の追求: Defense Up / Damage Reduction"
 
 #  Generated Partial Match; Korean Text: '극비 신작 연구 : 공격력 / 치명타 증가'
 #: BuffEffect[Effect_PECS_Audrey_N_2].BuffEffectType4_Desc
@@ -21249,13 +21429,13 @@ msgstr "ソーイングバインド: Increase Damage / 属性耐性減少"
 
 #  Generated Partial Match; Korean Text: '대중성 추구 : 공격력 {0}%'
 #: BuffEffect[Effect_PECS_Audrey_N_12].BuffEffectType1_Desc
-msgid "大衆性追求：攻撃力{0}%"
-msgstr "大衆性追求: Attack {0}%"
+msgid "大衆性の追求：攻撃力{0}%"
+msgstr "大衆性の追求: Attack {0}%"
 
 #  Generated Partial Match; Korean Text: '대중성 추구 : 치명타 {0}%'
 #: BuffEffect[Effect_PECS_Audrey_N_12].BuffEffectType2_Desc
-msgid "大衆性追求：クリティカル率{0}%"
-msgstr "大衆性追求: Critical Hit Rate {0}%"
+msgid "大衆性の追求：クリティカル率{0}%"
+msgstr "大衆性の追求: Critical Hit Rate {0}%"
 
 #  Generated Partial Match; Korean Text: '철충 재봉 : 공격력 / 치명타 감소'
 #: BuffEffect[Effect_PECS_Audrey_N_12].Name
@@ -21899,18 +22079,41 @@ msgstr "イーグルアサルト: Critical Chance / Accuracy Down / Remove Accur
 
 #  Generated Partial Match; Korean Text: '선봉 요격대 : 공격 지원 (공격/지원)'
 #: BuffEffect[Effect_PECS_DarkElf_N_3].BuffEffectType1_Desc
-msgid "先鋒迎撃隊：攻撃支援(攻撃/支援)"
-msgstr "先鋒迎撃隊: Follow-up Attack (攻撃 / 支援)"
+msgid "先鋒迎撃隊：攻撃支援(攻撃機/支援機)"
+msgstr "先鋒迎撃隊: Follow-up Attack (Attacker / Supporter)"
 
-#  Korean Text: '선봉 요격대 : AP+{0} (공격/지원)'
+#  Generated Partial Match; Korean Text: '선봉 요격대 : AP+{0} (공격/지원)'
 #: BuffEffect[Effect_PECS_DarkElf_N_3].BuffEffectType2_Desc
-msgid "先鋒迎撃隊：AP+{0}(攻撃/支援)"
-msgstr ""
+msgid "先鋒迎撃隊：AP+{0}(攻撃機/支援機)"
+msgstr "先鋒迎撃隊: AP+{0} (Attacker / Supporter)"
 
 #  Korean Text: '선봉 요격대 : 자신과 같은 행 뒤쪽의 경장 / 중장형 아군 공격 지원'
 #: BuffEffect[Effect_PECS_DarkElf_N_3].Name
 msgid "先鋒迎撃隊：自分と同行の後方の軽装/重装型の味方の攻撃支援"
 msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_DarkElf_N_4].BuffEffectType1_Desc
+msgid "森の助力：攻撃力+{0}%"
+msgstr "森の助力: Attack +{0}%"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_DarkElf_N_4].BuffEffectType2_Desc
+msgid "森の助力：攻撃支援"
+msgstr "森の助力: Follow-up Attack"
+
+#: BuffEffect[Effect_PECS_DarkElf_N_4].BuffEffectType3_Desc
+msgid "森の助力：AP+{0}"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_DarkElf_N_4].BuffEffectType4_Desc
+msgid "森の助力：クリティカル+{0}%"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_DarkElf_N_4].Name
+msgid "森の助力：攻撃力/クリティカル増加。戦闘開始時、範囲内味方を攻撃支援/AP増加"
+msgstr "森の助力: Attack / クリティカル増加。戦闘開始時、範囲内味方を攻撃支援 / AP Up"
 
 #  Generated Partial Match; Korean Text: '더블배럴 샷건 : 공격력+{0}% (전열)'
 #: BuffEffect[Effect_PECS_DarkElf_N_11].BuffEffectType1_Desc
@@ -21936,6 +22139,15 @@ msgstr "イーグルアサルト: Increase Critical Damage"
 #: BuffEffect[Effect_PECS_DarkElf_N_13].Name
 msgid "先鋒迎撃隊：戦闘開始時、軽装/重装型の味方のAP増加"
 msgstr ""
+
+#: BuffEffect[Effect_PECS_DarkElf_N_14].BuffEffectType1_Desc
+msgid "弱点射撃：ダメージ+{0}%"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_DarkElf_N_14].Name
+msgid "ダブルバレルショットガン：防御力/回避減少対象にダメージ量増加"
+msgstr "ダブルバレルショットガン: Defense / 回避減少対象にダメージ量増加"
 
 #  Korean Text: '정밀 스캔 : 받는 피해+{0}%'
 #: BuffEffect[Effect_PECS_Drone_N_2].BuffEffectType1_Desc
