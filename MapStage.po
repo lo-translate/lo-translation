@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1657,6 +1657,16 @@ msgstr ""
 msgid "男って…"
 msgstr ""
 
+#  Korean Text: '그리폰은 잃어버린 물건을 찾기 위해 단독 출격을 요청한다.'
+#: MapStage[Ch06Stage01Ex].StageDesc
+msgid "グリフォンは失ったものを探すため単独出撃を要請する。"
+msgstr ""
+
+#  Korean Text: '그리폰의 마음'
+#: MapStage[Ch06Stage01Ex].StageName
+msgid "グリフォンの心"
+msgstr ""
+
 #  Korean Text: '바이오로이드들은 금고라 불리는 유산을 찾기 위해 가상 현실 공간으로 향한다.'
 #: MapStage[Ch06Stage02].StageDesc
 msgid "バイオロイド達は金庫と呼ばれる遺産を探すため仮想現実空間に向かう。"
@@ -1677,6 +1687,16 @@ msgstr ""
 msgid "誰かのテスト"
 msgstr ""
 
+#  Korean Text: '스틸라인의 분대원들은 정찰 임무를 수행하기 위해 출발한다.'
+#: MapStage[Ch06Stage02Ex].StageDesc
+msgid "スチールラインの分隊員たちは偵察任務を遂行するため出発する。"
+msgstr ""
+
+#  Korean Text: '보병 분대'
+#: MapStage[Ch06Stage02Ex].StageName
+msgid "歩兵分隊"
+msgstr ""
+
 #  Korean Text: '일행은 트릭스터의 흔적을 찾아 연구소로 향한다.'
 #: MapStage[Ch06Stage03].StageDesc
 msgid "一行はトリックスターの痕跡を求め研究所に向かう。"
@@ -1687,6 +1707,16 @@ msgstr ""
 msgid "氷の墓"
 msgstr "Frozen Tomb"
 
+#  Korean Text: '콘스탄챠는 연구소 구역 정리를 위해 출격을 요청한다.'
+#: MapStage[Ch06Stage03Ex].StageDesc
+msgid "コンスタンツァは研究所区域の整理のため出撃を要請する。"
+msgstr ""
+
+#  Korean Text: '연구소 청소'
+#: MapStage[Ch06Stage03Ex].StageName
+msgid "研究所掃除"
+msgstr ""
+
 #  Korean Text: '라비아타가 남긴 흔적을 따라 일행은 가상현실 공간을 수색한다.'
 #: MapStage[Ch06Stage04].StageDesc
 msgid "ラビアタが残した痕跡に沿って一行は仮想現実空間を捜索する。"
@@ -1695,6 +1725,16 @@ msgstr ""
 #  Korean Text: '에바의 기억 : 첫 번째'
 #: MapStage[Ch06Stage04].StageName
 msgid "エヴァの記憶：始まり"
+msgstr ""
+
+#  Korean Text: '스카디와 라비아타는 콘스탄챠의 긴급 호출을 받고 오르카로 복귀한다.'
+#: MapStage[Ch06Stage04Ex].StageDesc
+msgid "スカディとラビアタはコンスタンツァからの緊急要請を受けオルカに帰還する。"
+msgstr ""
+
+#  Korean Text: '열병'
+#: MapStage[Ch06Stage04Ex].StageName
+msgid "熱病"
 msgstr ""
 
 #  Korean Text: '일행은 에바 존스의 데이터를 수집하기 위해 출발한다.'
@@ -1899,42 +1939,42 @@ msgstr "Expert Enhancement Training"
 
 #  Korean Text: '초급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage09].StageDesc
-msgid "初級機能訓練ステージ(重装)"
+msgid "初級機能訓練ステージ(重装型)"
 msgstr "Beginner Skill Training Stage (Heavy)"
 
 #  Korean Text: '초급 기능 훈련 (중장)'
 #: MapStage[ChDailyStage09].StageName
-msgid "初級能力訓練(重装)"
+msgid "初級能力訓練(重装型)"
 msgstr "Beginner Skill Training (Heavy)"
 
 #  Korean Text: '중급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage10].StageDesc
-msgid "中級機能訓練ステージ(重装)"
+msgid "中級機能訓練ステージ(重装型)"
 msgstr "Intermediate Skill Training Stage (Heavy)"
 
 #  Korean Text: '중급 기능 훈련 (중장)'
 #: MapStage[ChDailyStage10].StageName
-msgid "中級能力訓練(重装)"
+msgid "中級能力訓練(重装型)"
 msgstr "Intermediate Skill Training (Heavy)"
 
 #  Korean Text: '상급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage11].StageDesc
-msgid "上級機能訓練ステージ(重装)"
+msgid "上級機能訓練ステージ(重装型)"
 msgstr "Advanced Skill Training Stage (Heavy)"
 
 #  Korean Text: '상급 기능 훈련 (중장)'
 #: MapStage[ChDailyStage11].StageName
-msgid "上級能力訓練(重装)"
+msgid "上級能力訓練(重装型)"
 msgstr "Advanced Skill Training (Heavy)"
 
 #  Korean Text: '최상급 기능 훈련 스테이지 (중장)'
 #: MapStage[ChDailyStage12].StageDesc
-msgid "最上級機能訓練ステージ(重装)"
+msgid "最上級機能訓練ステージ(重装型)"
 msgstr "Expert Skill Training Stage (Heavy)"
 
 #  Korean Text: '최상급 기능 훈련 (중장)'
 #: MapStage[ChDailyStage12].StageName
-msgid "最上級能力訓練(重装)"
+msgid "最上級能力訓練(重装型)"
 msgstr "Expert Skill Training (Heavy)"
 
 #  Korean Text: '없음'
@@ -1989,80 +2029,80 @@ msgstr "Expert Module Training"
 
 #  Korean Text: '초급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage17].StageDesc
-msgid "初級機能訓練ステージ(機動)"
+msgid "初級機能訓練ステージ(機動型)"
 msgstr "Beginner Skill Training Stage (Flying)"
 
 #  Korean Text: '초급 기능 훈련 (기동)'
 #: MapStage[ChDailyStage17].StageName
-msgid "初級能力訓練(機動)"
+msgid "初級能力訓練(機動型)"
 msgstr "Beginner Skill Training (Flying)"
 
 #  Korean Text: '중급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage18].StageDesc
-msgid "中級機能訓練ステージ(機動)"
+msgid "中級機能訓練ステージ(機動型)"
 msgstr "Intermediate Skill Training Stage (Flying)"
 
 #  Korean Text: '중급 기능 훈련 (기동)'
 #: MapStage[ChDailyStage18].StageName
-msgid "中級能力訓練(機動)"
+msgid "中級能力訓練(機動型)"
 msgstr "Intermediate Skill Training (Flying)"
 
 #  Korean Text: '상급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage19].StageDesc
-msgid "上級機能訓練ステージ(機動)"
+msgid "上級機能訓練ステージ(機動型)"
 msgstr "Advanced Skill Training Stage (Flying)"
 
 #  Korean Text: '상급 기능 훈련 (기동)'
 #: MapStage[ChDailyStage19].StageName
-msgid "上級能力訓練(機動)"
+msgid "上級能力訓練(機動型)"
 msgstr "Advanced Skill Training (Flying)"
 
 #  Korean Text: '최상급 기능 훈련 스테이지 (기동)'
 #: MapStage[ChDailyStage20].StageDesc
-msgid "最上級機能訓練ステージ(機動)"
+msgid "最上級機能訓練ステージ(機動型)"
 msgstr "Expert Skill Training Stage (Flying)"
 
 #  Korean Text: '최상급 기능 훈련 (기동)'
 #: MapStage[ChDailyStage20].StageName
-msgid "最上級能力訓練(機動)"
+msgid "最上級能力訓練(機動型)"
 msgstr "Expert Skill Training (Flying)"
 
 #  Korean Text: '초급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage21].StageDesc
-msgid "初級機能訓練ステージ(軽装)"
+msgid "初級機能訓練ステージ(軽装型)"
 msgstr "Beginner Skill Training Stage (Light)"
 
 #  Korean Text: '초급 기능 훈련 (경장)'
 #: MapStage[ChDailyStage21].StageName
-msgid "初級能力訓練(軽装)"
+msgid "初級能力訓練(軽装型)"
 msgstr "Beginner Skill Training (Light)"
 
 #  Korean Text: '중급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage22].StageDesc
-msgid "中級機能訓練ステージ(軽装)"
+msgid "中級機能訓練ステージ(軽装型)"
 msgstr "Intermediate Skill Training Stage (Light)"
 
 #  Korean Text: '중급 기능 훈련 (경장)'
 #: MapStage[ChDailyStage22].StageName
-msgid "中級能力訓練(軽装)"
+msgid "中級能力訓練(軽装型)"
 msgstr "Intermediate Skill Training (Light)"
 
 #  Korean Text: '상급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage23].StageDesc
-msgid "上級機能訓練ステージ(軽装)"
+msgid "上級機能訓練ステージ(軽装型)"
 msgstr "Advanced Skill Training Stage (Light)"
 
 #  Korean Text: '상급 기능 훈련 (경장)'
 #: MapStage[ChDailyStage23].StageName
-msgid "上級能力訓練(軽装)"
+msgid "上級能力訓練(軽装型)"
 msgstr "Advanced Skill Training (Light)"
 
 #  Korean Text: '최상급 기능 훈련 스테이지 (경장)'
 #: MapStage[ChDailyStage24].StageDesc
-msgid "最上級機能訓練ステージ(軽装)"
+msgid "最上級機能訓練ステージ(軽装型)"
 msgstr "Expert Skill Training Stage (Light)"
 
 #  Korean Text: '최상급 기능 훈련 (경장)'
 #: MapStage[ChDailyStage24].StageName
-msgid "最上級能力訓練(軽装)"
+msgid "最上級能力訓練(軽装型)"
 msgstr "Expert Skill Training (Light)"

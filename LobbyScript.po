@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-23 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -811,6 +811,70 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_AGS_SpartanC].LobbyScript1[3](Affection<100)
 msgid "スパルタンは命令を遂行します。こちらスパルタンです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScript1[1](Affection<100)
+msgid "ひひひ。司令官様は好き嫌いがないんだね。 これもっと食べる？大丈夫。チョコバーならここにたっぷりあるから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScript1[2](Affection<100)
+msgid "怖い時はその場でしゃがんでて。アルヴィスが助けにいってあげるから！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScript1[3](Affection<100)
+msgid "これはベラお姉ちゃんの！これは…ヴァルキリーお姉ちゃんの！ニンフお姉ちゃんは太るからオヤツは食べないんだって！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScript2[1](Affection>40)
+msgid "ねぇ、知ってる？チョコバー１個にはなんとチョコバー１個分のカロリーがあるんだって！だから昔の軍人たちは…え？何を言ってるのかわからないって？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScript3[3](Affection>70)
+msgid "チョコバーはニンフお姉ちゃんがさっき３個も持って行っちゃってないんだ…。アルヴィスが後で持ってきてあげるから大人しく待ってるんだよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScript4[2](Affection=100)
+msgid "アルヴィスが危険な時は司令官様が助けに来てね。約束だよ？絶対だよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "それはお行儀悪いことだよ。とにかく悪いことは悪いの。わかった？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "そんなことしちゃだめ！今度触ったらもうチョコバーあげないよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript1[1](Affection<100)
+msgid "アルヴィス伯爵には召使いが必要なの！…二人くらい？！いや、三人は必要だね！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript1[2](Affection<100)
+msgid "トマトジュースをくれないと、ガブっと噛みついちゃうよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript1[3](Affection<100)
+msgid "ひっひっひっ！今日もキラーラビットがお菓子でパンパンだ！…う～ん…何食べようかな～？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript2[1](Affection>40)
+msgid "司令官様？アルヴィス伯爵の召使いにならない？なってくれたらお礼に、司令官様のお願い全部叶えてあげるよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript3[3](Affection>70)
+msgid "え？このキラーラビット？これはヴァルキリーお姉ちゃんがくれたんだ。中にお菓子も入ってたんだよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript4[2](Affection=100)
+msgid "司令官様…。アルヴィス…ほんとに噛んでごめんね…痛かった？お薬塗ってあげるから、ちょっと待ってて…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ふあ？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "もう、お姉ちゃんたちに言いつけちゃうよ…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Amy].LobbyScript1[1](Affection<100)
@@ -2267,6 +2331,40 @@ msgstr ""
 msgid "ちょ、もうちょっと優しく…！…嫌じゃないけど、ビックリしちゃうじゃん…。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScript1[1](Affection<100)
+msgid "司令官が妹たちの面倒を見てくれるおかげで…あたし…すごい助かってる！本当にありがとう！これからもよろしくね、司令官！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScript1[2](Affection<100)
+msgid "司令官？ここはちょっと退屈じゃない？あたしと一緒に遊びに行かない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScript1[3](Affection<100)
+msgid "自由奔放なお姉ちゃんと一緒に過ごす気分はどう？ふふふ、今度お礼するからもう少しだけ頑張ろうね。司令官。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScript2[1](Affection>40)
+msgid "あたしの妹たちに手を出すくらいなら、いっそのことあたしに…あ、な、何でもないわ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScript3[3](Affection>70)
+msgid ""
+"ふん！お姉ちゃんに世間知らずとか言わないの！…それはそうと、今夜、遊びに行くつもりなんだけど…補給品ちょっともらえるかしら？……あ～ん、ちょっとだけお願い～"
+"。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScript4[2](Affection=100)
+msgid "退屈ならあたしと一緒にショッピングでも行く？いいじゃない～。どうせ司令官とあたししかしないんだから～。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "今なにした～！？んー？同じことしてあげようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Raven].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うふっ…お姉ちゃんのこと…そんなに好きなの？"
+msgstr ""
+
 #: LobbyScript[LobbyScript_BR_SandMan].LobbyScript1[1](Affection<100)
 msgid "今日は何をして暇つぶしするか悩んでます。"
 msgstr ""
@@ -3035,6 +3133,38 @@ msgstr ""
 msgid "こ、これ以上触ると大魔王に覚醒して社長にお仕置きしちゃいますよ！？私なしでは生きられない体にしてしまうんですから！"
 msgstr ""
 
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScript1[1](Affection<100)
+msgid "ポックルステッカーですか？ちょっと待ってくださいね…あれれ？どこに入れておいたっけ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScript1[2](Affection<100)
+msgid "白兎が…魔法衣装に変身しない魔法少女はあり得ないって、マジカルピンクムーンライトを…うぅ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScript1[3](Affection<100)
+msgid "私…恥ずかしすぎて穴があったら入りたいくらいです…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScript2[1](Affection>40)
+msgid "あの…ステッカーがちょっとフニャフニャなんですけど大丈夫ですか？ふふふ～わかりました。じゃあ…どこに付けてあげましょうか？手の甲？ほっぺ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScript3[3](Affection>70)
+msgid "きょ、許容範囲外の要求には応じかねます…。ですから…適度にお願いします。いいですね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScript4[2](Affection=100)
+msgid "魔法衣装は合うサイズがなくて仕方ありませんでしたが…、この下着はサイズがピッタリです。私、ちょっときつめが好きなんです…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ど、どうしたんですか…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Faucre_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "わ、私を…悪い魔女にするおつもりですか？…あ、だめですってぇ…でも、ここ…ここなら魔女になっちゃっても…いい…かも？"
+msgstr ""
+
 #: LobbyScript[LobbyScript_DS_Johanna].LobbyScript1[1](Affection<100)
 msgid "殿が望むというならば、余の過去について語ってもいいぞ。"
 msgstr ""
@@ -3778,7 +3908,7 @@ msgid "実力はありますから、大丈夫ですよ。司令官は十分よ�
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript3[3](Affection>70)
-msgid "ちょっと司令官の姿勢をチェックさせてもらってもいいですけ？…力…抜いてください。"
+msgid "ちょっと司令官の姿勢をチェックさせてもらってもいいですか？…力…抜いてください。"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_MightyR].LobbyScript4[2](Affection=100)
@@ -4003,4 +4133,36 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_ST_Lancer].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "そんな時間ないのに…訓練しなきゃ…もう…ちょっとだけですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScript1[1](Affection<100)
+msgid "報酬はいりません。早く次の任務をお願いします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScript1[2](Affection<100)
+msgid "人間様たちがいなくなれば…と思ったこともあります。別にそれが原因で鉄虫が現れたわけではないのですが…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScript1[3](Affection<100)
+msgid "実験室にいた時の話は…話すことも、考えることもあまりしたくありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScript2[1](Affection>40)
+msgid "「よくできましたキャンディ」ですか…こういうものは…嫌ではありませんが…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScript3[3](Affection>70)
+msgid "司令官は私の欠点を見ても失望されないんですね。…少し安心しました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScript4[2](Affection=100)
+msgid "もし他の人間様が私の司令官だったら…？そんなこと想像もしたくありません…。最後の人間様が司令官で本当に良かったと思います。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "…お好きにどうぞ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うぅっ、司令官…。あ…、そういうことですね？すぐに…準備してきます。こういう時のために準備しておいたものが…はい？そうじゃ…ないんですか？"
 msgstr ""

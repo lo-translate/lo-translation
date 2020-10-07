@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -838,7 +838,7 @@ msgstr "Attack +{0} / Crit Chance +{1} / Anti-Heavy Capacity"
 
 #  Korean Text: 'P-3M 운디네 전용 ASN-6G 미사일입니다. 방어 관통과 대 중장형 피해량이 증가합니다.'
 #: ItemEquip[Equip_Sub_ASN6G_T4].ItemDesc_Detail
-msgid "P-3Mウンディーネ専用ASN-6Gミサイルです。防御貫通と重装型へのダメージが増加します。"
+msgid "P-3Mウンディーネ専用ASN-6Gミサイルです。防御貫通効果を獲得し、重装型へのダメージが増加します。"
 msgstr ""
 "ASN-6G Missiles for P-3M Undine. Increased defense penetration and damage "
 "against heavy units."
@@ -2046,7 +2046,7 @@ msgstr "HP +{0} / Reduce Taken Damage / Increase Effect Resist"
 
 #  Korean Text: '마리 전용 방어용 시스템 OS입니다.'
 #: ItemEquip[Equip_System_EyesOfBeholderD_T4].ItemDesc_Detail
-msgid "マリー専用防御用のシステムOSです。"
+msgid "不屈のマリー専用防御用のシステムOSです。"
 msgstr "A defensive operating system for Marie."
 
 #  Korean Text: '주시자의 눈 D형 OS EX'

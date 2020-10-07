@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-23 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -11219,8 +11219,9 @@ msgstr ""
 msgid "もちろん、これからもずっとです…。"
 msgstr ""
 
+#  Korean Text: '오르카 내부 어딘가'
 #: DialogScript[DG_Ch01Ev4Stage01_1_1].BG_Name
-msgid "오르카 내부 어딘가"
+msgid "オルカ内のどこか"
 msgstr ""
 
 #  Korean Text: '축제 분위기의 오르카'
@@ -11244,7 +11245,7 @@ msgstr ""
 
 #  Korean Text: 'T-13 알비스'
 #: DialogScript[DG_Ch01Ev4Stage02_2_75].Char_Name_R
-msgid "T-13アルビス"
+msgid "T-13アルヴィス"
 msgstr "T-13 Alvis"
 
 #  Korean Text: '성벽의 하치코'
@@ -11262,8 +11263,9 @@ msgstr ""
 msgid "陛下!!"
 msgstr ""
 
+#  Korean Text: '수상한 유원지'
 #: DialogScript[DG_Ch01Ev4Stage07_1_1].BG_Name
-msgid "수상한 유원지"
+msgid "あやしい遊園地"
 msgstr ""
 
 #  Korean Text: '키르케의 안내'
@@ -11271,8 +11273,9 @@ msgstr ""
 msgid "キルケの案内"
 msgstr ""
 
+#  Korean Text: 'A 구역'
 #: DialogScript[DG_Ch01Ev4Stage09_1_1].BG_Name
-msgid "A 구역"
+msgid "A区域"
 msgstr ""
 
 #  Korean Text: '유혹하는 키르케'
@@ -11280,20 +11283,23 @@ msgstr ""
 msgid "誘惑するキルケ"
 msgstr ""
 
+#  Korean Text: 'B 구역'
 #: DialogScript[DG_Ch01Ev4Stage09_2_1].BG_Name
-msgid "B 구역"
+msgid "B区域"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev4Stage09_2_8].SelectionIndex[1]
 msgid "…俺はもう大丈夫だよ。"
 msgstr ""
 
+#  Korean Text: '유원지 내부'
 #: DialogScript[DG_Ch01Ev4Stage10_1_1].BG_Name
-msgid "유원지 내부"
+msgid "遊園地内"
 msgstr ""
 
+#  Korean Text: '통제 구역 앞'
 #: DialogScript[DG_Ch01Ev4Stage10_2_1].BG_Name
-msgid "통제 구역 앞"
+msgid "立ち入り禁止区域前"
 msgstr ""
 
 #  Korean Text: '주인님!'
@@ -11306,12 +11312,14 @@ msgstr ""
 msgid "統制区域に進入した一行"
 msgstr ""
 
+#  Korean Text: '통제구역 초입'
 #: DialogScript[DG_Ch01Ev4Stage11_1_1].BG_Name
-msgid "통제구역 초입"
+msgid "立ち入り禁止区域入口"
 msgstr ""
 
+#  Korean Text: '통제구역'
 #: DialogScript[DG_Ch01Ev4Stage11_2_1].BG_Name
-msgid "통제구역"
+msgid "立ち入り禁止区域"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev4Stage12_1_10].SelectionIndex[1]
@@ -11326,8 +11334,9 @@ msgstr ""
 msgid "分かった。"
 msgstr ""
 
+#  Korean Text: '중앙 광장'
 #: DialogScript[DG_Ch01Ev4Stage12_2_1].BG_Name
-msgid "중앙 광장"
+msgid "中央広場"
 msgstr ""
 
 #  Korean Text: '오르카의 일상'

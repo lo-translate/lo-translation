@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-23 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1465,7 +1465,7 @@ msgstr "Steel Line's Aspiration"
 
 #  Korean Text: '엘븐 포레스트메이커용 카우걸 비키니와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ShopDesc[145].NPCDescription
-msgid "エルブン･フォレストメーカー用のカウガールビキニと手作りケーキ1個、チョコレート2個、合成ローリーポップ3個が入ったパックです。"
+msgid "エルブン･フォレストメーカー用のカウガールビキニと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '엘프 카우걸 팩'
@@ -1782,7 +1782,7 @@ msgstr ""
 
 #  Korean Text: '알비스 백작의 습격'
 #: ShopDesc[176].ProductName
-msgid "アルビス伯爵の襲撃"
+msgid "アルヴィス伯爵の襲撃"
 msgstr "Count Alvis"
 
 #  Korean Text: '앨리스용 나이트 퀸 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -1942,11 +1942,11 @@ msgid "杯と素直な話"
 msgstr ""
 
 #: ShopDesc[196].NPCDescription
-msgid "ダークエルヴン用のカウガールビキニとチョコレート5個が入ったパックです。"
+msgid "ダークエルブンフォレストレンジャー用のカウガールビキニとチョコレート5個が入ったパックです。"
 msgstr ""
 
 #: ShopDesc[196].ProductName
-msgid "ダークエルフカウガール"
+msgid "ダークエルフカウガールパック"
 msgstr ""
 
 #: ShopDesc[197].NPCDescription
@@ -4059,7 +4059,7 @@ msgstr "S25 Spartan Captain"
 
 #  Korean Text: '엘븐 포레스트메이커를 영입합니다'
 #: ShopDesc[15085].NPCDescription
-msgid "エルブン・フォレストメーカーを迎え入れます。"
+msgid "エルブン･フォレストメーカーを迎え入れます。"
 msgstr "Recruit Elven ForestMaker"
 
 #  Korean Text: '엘븐 포레스트메이커'
@@ -4219,7 +4219,7 @@ msgstr "T-12 Bheur"
 
 #  Korean Text: '다크엘븐 포레스트레인저를 영입합니다.'
 #: ShopDesc[15101].NPCDescription
-msgid "ダークエルヴンフォレストレンジャーを迎え入れます。"
+msgid "ダークエルブンフォレストレンジャーを迎え入れます。"
 msgstr "Recruit DarkElven ForestRanger"
 
 #  Korean Text: '다크엘븐 포레스트레인저'
@@ -4234,7 +4234,7 @@ msgstr "Recruit T-13 Alvis"
 
 #  Korean Text: 'T-13 알비스'
 #: ShopDesc[15102].ProductName
-msgid "T-13アルビス"
+msgid "T-13アルヴィス"
 msgstr "T-13 Alvis"
 
 #  Korean Text: 'AO-2 레이븐을 영입합니다.'
@@ -4601,7 +4601,7 @@ msgstr "Auxiliary Energy Pack EX"
 
 #  Korean Text: '공격기 전용 관측 장비입니다. 사거리와 적중이 증가합니다.'
 #: ShopDesc[16020].NPCDescription
-msgid "攻撃機専用の観測装備です。 射程距離と敵が増加します。"
+msgid "攻撃機専用観測装備です。射程距離と命中が増加します。"
 msgstr ""
 
 #  Korean Text: '관측 장비 EX'
@@ -4684,8 +4684,13 @@ msgstr "Small Recon Drone EX"
 
 #  Korean Text: '기동형 보호기 전용 OS입니다. 라운드 개시 시, 회피 증가 효과가 적용된 상태면 1회 피격에 한해 받는 피해가 감소합니다.'
 #: ShopDesc[16028].NPCDescription
-msgid "起動型保護器専用OSです。 ラウンド開始時、回避の増加効果が適用された状態だと、1回の襲撃だけ受ける被害が減少します。"
+msgid ""
+"機動型保護機専用OSです。\n"
+"ラウンド開始時、回避増加の効果が適用された状態の場合、1回の攻撃に限り受けるダメージが減少します。"
 msgstr ""
+"OS for flying units only.\n"
+"As the round starts, if an avoidance increase effect is applied, the damage "
+"to one shot will be reduced."
 
 #  Korean Text: '고기동 메뉴버 시스템 EX'
 #: ShopDesc[16028].ProductName
@@ -5089,7 +5094,7 @@ msgid "精密型観測装備"
 msgstr ""
 
 #: ShopDesc[16071].NPCDescription
-msgid "ダークエルヴン専用の戦闘装備セットです。装着したら攻撃力、クリティカル。メイちゅが増加し防御貫通効果が適用されます。"
+msgid "ダークエルブン専用の戦闘装備セットです。装着したら攻撃力、クリティカル。メイちゅが増加し防御貫通効果が適用されます。"
 msgstr ""
 
 #: ShopDesc[16071].ProductName
@@ -5097,7 +5102,7 @@ msgid "レンジャー用の戦闘装備セット"
 msgstr ""
 
 #: ShopDesc[16072].NPCDescription
-msgid "エルヴン専用の特殊フレームです。装着したら防御力とHPが増加し列保護が活性化され、受けるダメージ減少と全属性耐性効果が発生します。"
+msgid "エルブン専用の特殊フレームです。装着したら防御力とHPが増加し列保護が活性化され、受けるダメージ減少と全属性耐性効果が発生します。"
 msgstr ""
 
 #: ShopDesc[16072].ProductName
@@ -5465,7 +5470,7 @@ msgstr "Lingerie Gift (Marie)"
 
 #  Korean Text: '건강한 신체를 위해서는 하루 한 잔의 우유가 큰 도움이 됩니다. 엘븐 포레스트메이커의 건강한 신체가 바로 그 증거죠.'
 #: ShopDesc[17137].NPCDescription
-msgid "健康な身体をためには、一日一杯のミルクが大きく役立っています。 エルブン･フォレストメーカーの健康な身体がまさにその証拠です。"
+msgid "健康な身体を維持するには、一日一杯のミルクが大きく役立ちます。 エルブン･フォレストメーカーの健康な身体がまさにその証拠です。"
 msgstr ""
 "A glass of milk helps maintain a healthy body. Elven ForestMaker's wholesome "
 "body is living proof of that."
@@ -5700,7 +5705,7 @@ msgstr "Magical Dress (Faucre)"
 #  Korean Text: '알비스 백작은 발키리 언니에게 받은 가방이 가득 찰 정도의 초콜릿을 원하십니다. 초콜릿으로 퇴치하지 않으면 무서운 일을 겪을지도 모릅니다!'
 #: ShopDesc[17159].NPCDescription
 msgid ""
-"アルビス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
+"アルヴィス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
 msgstr ""
 
 #  Korean Text: '뱀파이어 드레스 (알비스)'
@@ -5881,11 +5886,11 @@ msgid "チーパオ(ソワン)"
 msgstr ""
 
 #: ShopDesc[17180].NPCDescription
-msgid "エルヴンは白いミルクで。ダークエルヴンはチョコミルクか…ふむ…あ、貴方が思うようなそんなことはないでしょう。煩悩退散、煩悩退散…"
+msgid "エルブンは白いミルクで、ダークエルブンはチョコミルクか…ふむ。…あ、貴方が思うようなそんなことはないでしょう。煩悩退散、煩悩退散…"
 msgstr ""
 
 #: ShopDesc[17180].ProductName
-msgid "カウガールビキニ(ダークエルヴン)"
+msgid "カウガールビキニ(ダークエルブンフォレストレンジャー)"
 msgstr ""
 
 #: ShopDesc[17181].NPCDescription

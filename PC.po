@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-23 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -324,12 +324,12 @@ msgstr "Tyrant"
 
 #  Korean Text: '사령관님 안녕? 난 알비스야. 이건 선물이니까 아껴 먹어야 돼~!'
 #: PC[Char_BR_Alvis_N].DialogJoin
-msgid "司令官、こんにちは。私はアルヴィス。これはプレゼントだよ。少しずつ食べてね！"
+msgid "司令官様、こんにちは。私はアルヴィス。これはプレゼントだよ。少しずつ食べてね！"
 msgstr ""
 
 #  Korean Text: 'T-13 알비스'
 #: PC[Char_BR_Alvis_N].Name
-msgid "T-13アルビス"
+msgid "T-13アルヴィス"
 msgstr "T-13 Alvis"
 
 #  Korean Text: '어머나 자기, 날 기다리고 있었나요?'
@@ -706,6 +706,11 @@ msgstr ""
 #: PC[Char_BR_QuickCamel_N].Name
 msgid "クイックキャメル"
 msgstr "Quick Camel"
+
+#  Korean Text: '내 이름은 레이븐. 우리 캐노니어 자매들이 여기서 신세지고 있다며?'
+#: PC[Char_BR_Raven_N].DialogJoin
+msgid "あたしの名前はレイヴン。キャノニアの仲間がいつもお世話になってるわね。"
+msgstr ""
 
 #  Korean Text: 'AO-2 레이븐'
 #: PC[Char_BR_Raven_N].Name
@@ -1260,7 +1265,7 @@ msgstr "Dutch Girl"
 
 #  Korean Text: '엘븐 포레스트 메이커. 만나서 반가워요~!'
 #: PC[Char_PECS_ElvenForestmaker_N].DialogJoin
-msgid "エルブンフォレストメーカー。お会いできて嬉しいです～！"
+msgid "エルブン･フォレストメーカー。お会いできて嬉しいです～！"
 msgstr ""
 
 #  Korean Text: '엘븐 포레스트메이커'
@@ -1410,6 +1415,11 @@ msgstr ""
 #: PC[Char_ST_Lancer_N].Name
 msgid "ランサーミナ"
 msgstr "Lancer Mina"
+
+#  Korean Text: '티아멧 합류합니다. 전투, 탐색, 정찰. 전부 수행할수 있어요.'
+#: PC[Char_ST_Tiamat_N].DialogJoin
+msgid "ティアマト合流します。戦闘、探索、偵察、その全てに対応可能です。"
+msgstr ""
 
 #  Korean Text: 'X-00 티아맷'
 #: PC[Char_ST_Tiamat_N].Name

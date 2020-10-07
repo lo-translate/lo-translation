@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-23 12:00-0400\n"
+"PO-Revision-Date: 2020-10-07 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -513,12 +513,12 @@ msgid ""
 "あなた、体調はどう？でもあれは自業自得だから。真っ昼間からあんなことをするなんて、もう…\n"
 "これでも飲んでしっかりしなさい。あの時飲めなかったでしょ？あーしがこれ作ろうとどれだけ苦労したか知らず他のことに鼻の下伸ばすとか信じらんない！うぅ…あなたと"
 "顔合わせたらまた怒りそうだから手紙書いてるのに、手紙書いて怒ってる…言うことだけ言って終わらせなきゃ。\n"
-"ねぇ、あなた。もっとエルヴンミルクが飲みたかったらあーしらの部屋に来てよ。予め言ってくれたらエルヴンの奴は追い出しておくから。あなたがまた他の子にうつつを抜"
+"ねぇ、あなた。もっとエルブンミルクが飲みたかったらあーしらの部屋に来てよ。予め言ってくれたらエルブンの奴は追い出しておくから。あなたがまた他の子にうつつを抜"
 "かすところ見たくないし。"
 msgstr ""
 
 #: ItemConsumable[CharLetter_Char_PECS_DarkElf_N_1].ItemName
-msgid "ダークエルヴンからの手紙"
+msgid "ダークエルブンからの手紙"
 msgstr ""
 
 #: ItemConsumable[CharLetter_Char_ST_Tiamat_N_1].ItemDesc
@@ -856,7 +856,7 @@ msgstr "Given T-13 Alvis"
 
 #  Korean Text: 'T-13 알비스'
 #: ItemConsumable[CharTicket_Char_BR_Alvis_N].ItemName
-msgid "T-13アルビス"
+msgid "T-13アルヴィス"
 msgstr "T-13 Alvis"
 
 #  Korean Text: '에이미 레이저을 지급합니다'
@@ -1812,7 +1812,7 @@ msgstr "CoCo & WhiteShell"
 
 #  Korean Text: '다크엘븐 포레스트레인저을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_DarkElf_N].ItemDesc
-msgid "ダークエルヴンフォレストレインジャーを支給します。"
+msgid "ダークエルブンフォレストレインジャーを支給します。"
 msgstr "Given DarkElven ForestRanger"
 
 #  Korean Text: '다크엘븐 포레스트레인저'
@@ -2579,11 +2579,11 @@ msgid "手作りチョコレート(エミリー)"
 msgstr ""
 
 #: ItemConsumable[Ev_Chocolate_PECS_DarkElf].ItemDesc
-msgid "ダークエルヴンが製造工程に参加した特別なエルヴンミルクです。"
+msgid "ダークエルブンが製造工程に参加した特別なエルブンミルクです。"
 msgstr ""
 
 #: ItemConsumable[Ev_Chocolate_PECS_DarkElf].ItemName
-msgid "チョコ風味のエルヴンミルク(ダークエルヴン)"
+msgid "チョコ風味のエルブンミルク(ダークエルブン)"
 msgstr ""
 
 #: ItemConsumable[Ev_Chocolate_ST_Tiamat].ItemDesc
@@ -4748,7 +4748,7 @@ msgstr ""
 
 #  Korean Text: '알비스 백작의 습격'
 #: ItemConsumable[Shop_Package_BR_Alvis_1].ItemName
-msgid "アルビス伯爵の襲撃"
+msgid "アルヴィス伯爵の襲撃"
 msgstr "Count Alvis"
 
 #  Korean Text: '스틸 드라코용 기동타격대 제복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -5572,11 +5572,11 @@ msgid "ドリームウィーバーウェディングスペシャル：今日は�
 msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_PECS_DarkElf_1].ItemDesc
-msgid "ダークエルヴン用のカウガールビキニとチョコレート5個が入ったパックです。"
+msgid "ダークエルブンフォレストレンジャー用のカウガールビキニとチョコレート5個が入ったパックです。"
 msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_PECS_DarkElf_1].ItemName
-msgid "ダークエルフカウガール"
+msgid "ダークエルフカウガールパック"
 msgstr ""
 
 #  Korean Text: '더치걸용 행사복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -5591,7 +5591,7 @@ msgstr "DutchGirl's Ceremonial Dress Pack"
 
 #  Korean Text: '엘븐 포레스트메이커용 카우걸 비키니와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
 #: ItemConsumable[Shop_Package_Skin_PECS_ElvenForestmaker_1].ItemDesc
-msgid "エルブン･フォレストメーカー用のカウガールビキニと手作りケーキ1個、チョコレート2個、合成ローリーポップ3個が入ったパックです。"
+msgid "エルブン･フォレストメーカー用のカウガールビキニと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '엘프 카우걸 팩'
@@ -6009,7 +6009,7 @@ msgstr ""
 #  Korean Text: '알비스 백작은 발키리 언니에게 받은 가방이 가득 찰 정도의 초콜릿을 원하십니다. 초콜릿으로 퇴치하지 않으면 무서운 일을 겪을지도 모릅니다!'
 #: ItemConsumable[Skin_BR_Alvis_1].ItemDesc
 msgid ""
-"アルビス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
+"アルヴィス伯爵はヴァルキリーからもらったカバンが一杯になるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれません！"
 msgstr ""
 
 #  Korean Text: '뱀파이어 드레스 (알비스)'
@@ -6772,11 +6772,11 @@ msgid "ウェディングドレス(ケルベロス)"
 msgstr ""
 
 #: ItemConsumable[Skin_PECS_DarkElf_1].ItemDesc
-msgid "エルヴンは白いミルクで。ダークエルヴンはチョコミルクか…ふむ…あ、貴方が思うようなそんなことはないでしょう。煩悩退散、煩悩退散…"
+msgid "エルブンは白いミルクで、ダークエルブンはチョコミルクか…ふむ。…あ、貴方が思うようなそんなことはないでしょう。煩悩退散、煩悩退散…"
 msgstr ""
 
 #: ItemConsumable[Skin_PECS_DarkElf_1].ItemName
-msgid "カウガールビキニ(ダークエルヴン)"
+msgid "カウガールビキニ(ダークエルブンフォレストレンジャー)"
 msgstr ""
 
 #  Korean Text: '상공회의소의 행사장은 더치걸이 햇빛을 보는 얼마 안 되는 날입니다. 이날 만은 노동에서 벗어난 더치걸이 마음놓고 쉴 수 있죠.'
@@ -6794,7 +6794,7 @@ msgstr "Event Costume (Dutch Girl)"
 
 #  Korean Text: '건강한 신체를 위해서는 하루 한 잔의 우유가 큰 도움이 됩니다. 엘븐 포레스트메이커의 건강한 신체가 바로 그 증거죠.'
 #: ItemConsumable[Skin_PECS_ElvenForestmaker_1].ItemDesc
-msgid "健康な身体をためには、一日一杯のミルクが大きく役立っています。 エルブン･フォレストメーカーの健康な身体がまさにその証拠です。"
+msgid "健康な身体を維持するには、一日一杯のミルクが大きく役立ちます。 エルブン･フォレストメーカーの健康な身体がまさにその証拠です。"
 msgstr ""
 "A glass of milk helps maintain a healthy body. Elven ForestMaker's wholesome "
 "body is living proof of that."
