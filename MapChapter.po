@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -23,6 +23,10 @@ msgstr "Legacy of Rioboros Part 1"
 #: MapChapter[Chapter_01Ev3].ChapterName
 msgid "満月の夜想曲"
 msgstr "Full Moon Nocturne"
+
+#: MapChapter[Chapter_01Ev4].ChapterName
+msgid "ハロウィンパークパニック！"
+msgstr ""
 
 #  Korean Text: '지구의 마지막 인간'
 #: MapChapter[Chapter_01N].ChapterName

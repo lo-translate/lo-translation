@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -289,7 +289,7 @@ msgstr ""
 
 #  Korean Text: '가장 저돌적인 바이오로이드들의 끊임없는 도전들.'
 #: MapStage[Ch01Ev4Stage03].StageDesc
-msgid "オルカ産ボタンたちの限界を知らぬ挑戦の数々…"
+msgid "オルカの美女たちの限界を知らぬ挑戦の数々…"
 msgstr ""
 
 #  Korean Text: '현신'

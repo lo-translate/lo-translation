@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1218,9 +1218,14 @@ msgstr ""
 msgid "ケルベロス"
 msgstr "Cerberus"
 
+#  Korean Text: '제 이름은 키르케. 테마파크의 마녀죠. '
+#: PC[Char_PECS_Circe_N].DialogJoin
+msgid "私の名前はキルケ―。テーマパークの魔女です。"
+msgstr ""
+
 #  Korean Text: '키르케'
 #: PC[Char_PECS_Circe_N].Name
-msgid "キルケ"
+msgid "キルケー"
 msgstr "Circe"
 
 #  Korean Text: '헤헤… 사령관님을 만나서 다행이에요.'
@@ -1400,6 +1405,11 @@ msgstr ""
 #: PC[Char_PECS_Triaina_N].Name
 msgid "トリアイナ"
 msgstr "Triana"
+
+#  Korean Text: '제 이름은 베로니카. 당신에게 평안이 깃들기를.'
+#: PC[Char_PECS_Veronica_N].DialogJoin
+msgid "私の名前はヴェロニカ。あなたに栄光が降り注ぎますように…。"
+msgstr ""
 
 #  Korean Text: '베로니카'
 #: PC[Char_PECS_Veronica_N].Name

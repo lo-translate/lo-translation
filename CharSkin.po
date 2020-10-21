@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -131,6 +131,16 @@ msgstr "Hachiko still can't tell if there's anything wrong within this family."
 msgid "危険な家族：見習いメイド"
 msgstr "Dangerous Family: Apprentice Maid"
 
+#: CharSkin[Skin_3P_Hachiko_2].SkinDesc
+msgid ""
+"ハチコは過去、戦場を駆け巡り目覚ましい活躍を見せていた先代ハチコの遺志を継ぐことにしました。でも…一人じゃこれが限界みたいですね。でも可愛いから良いですよね"
+"？"
+msgstr ""
+
+#: CharSkin[Skin_3P_Hachiko_2].SkinName
+msgid "フライングハチコ"
+msgstr ""
+
 #: CharSkin[Skin_3P_Rhea_1].SkinDesc
 msgid ""
 "オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。\n"
@@ -164,6 +174,16 @@ msgstr ""
 #: CharSkin[Skin_3P_Sowan_1].SkinName
 msgid "ソワンの罠"
 msgstr "Sowan's Trap"
+
+#: CharSkin[Skin_AGS_Albatross_1].SkinDesc
+msgid ""
+"過去に大都会を守護していたアルバトロスモデルです。精神感応電波や記憶消去用の閃光を発する機能はありませんが、ランドマークとして混乱していた民衆の心を慰めるこ"
+"とに役立っていました。"
+msgstr ""
+
+#: CharSkin[Skin_AGS_Albatross_1].SkinName
+msgid "天上の守護騎士"
+msgstr ""
 
 #: CharSkin[Skin_AGS_Gigantes_1].SkinDesc
 msgid ""
@@ -200,6 +220,16 @@ msgstr ""
 #: CharSkin[Skin_AGS_Rampart_S1].SkinName
 msgid "戦争兵器ランパート"
 msgstr "War Weapon Rampart"
+
+#: CharSkin[Skin_BR_Alvis_1].SkinDesc
+msgid ""
+"アルヴィス伯爵はヴァルキリーからもらったカバンがいっぱいになるほどのチョコレートを期待しています。チョコレートで退治しないと恐ろしいことが起こるかもしれませ"
+"ん！"
+msgstr ""
+
+#: CharSkin[Skin_BR_Alvis_1].SkinName
+msgid "アルヴィス伯爵の襲撃"
+msgstr "Count Alvis"
 
 #  Korean Text: '유혹보다 실용성이 필요할 때 에이미는 이 옷을 입지요. 뭐, 보는 사람에 따라서는 이 수트가 더욱 매혹적이라고 하더라도요.'
 #: CharSkin[Skin_BR_Amy_1].SkinDesc
@@ -398,16 +428,30 @@ msgstr ""
 msgid "ミホのチョコレート工場"
 msgstr "Miho's Chocolate Factory"
 
-#: CharSkin[Skin_BR_Neodym_2].SkinDesc
-msgid "本機のだった一人のお客様であるあなたにすべてのサービスが無料で提供されます。まずは担当乗務員ネオディムとシャンパンでもいかがでしょう？"
+#: CharSkin[Skin_BR_Neodym_1].SkinDesc
+msgid ""
+"ブラウニーから過去のハロウィンの風習について聞いたネオディムは誰よりも早く行動しようと決心しました。幽霊に仮装した彼女はどんなイタズラをするのでしょうか？"
 msgstr ""
-"As the only passenger on this flight, all of the service provided will be "
-"complementary. So how about a glass of champagne with our flight attendant "
-"Neodym?"
+
+#: CharSkin[Skin_BR_Neodym_1].SkinName
+msgid "ネオディムの幽霊風ベビードール"
+msgstr ""
+
+#: CharSkin[Skin_BR_Neodym_2].SkinDesc
+msgid "本機のたった一人のお客様であるあなたにすべてのサービスが無料で提供されます。まずは担当乗務員ネオディムとシャンパンでもいかがでしょう？"
+msgstr ""
 
 #: CharSkin[Skin_BR_Neodym_2].SkinName
 msgid "特級機内サービス"
 msgstr "Stewardess Neodym"
+
+#: CharSkin[Skin_BR_NightAngel_1].SkinDesc
+msgid "誰でも夢は自由に見ることができます。"
+msgstr ""
+
+#: CharSkin[Skin_BR_NightAngel_1].SkinName
+msgid "ナイトエンジェルの夢"
+msgstr ""
 
 #: CharSkin[Skin_BR_NightAngel_2].SkinDesc
 msgid ""
@@ -700,6 +744,8 @@ msgstr "Ceremony Dutch Girl"
 #: CharSkin[Skin_PECS_ElvenForestmaker_1].SkinDesc
 msgid "健康な身体を維持するには、一日一杯のミルクが大きく役立ちます。 エルブン･フォレストメーカーの健康な身体がまさにその証拠です。"
 msgstr ""
+"A glass of milk helps maintain a healthy body. Elven ForestMaker's wholesome "
+"body is living proof of that."
 
 #: CharSkin[Skin_PECS_ElvenForestmaker_1].SkinName
 msgid "カウガールビキニ"

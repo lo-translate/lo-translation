@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2934,7 +2934,7 @@ msgid "陛下をしっかりと補佐できますように。そしていつま�
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp1[1](Affection<100,SpecialTouch)
-msgid "陛下!!"
+msgid "陛下！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp2[1](Affection=100,SpecialTouch)
@@ -3483,6 +3483,39 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Cerberus_NS2].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "あっ！この服を着せたのはこのため？ひひ…新しい遊びですね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScript1[1](Affection<100)
+msgid "あら？悩みを聞いてほしいですって？喜んで聞いてあげますわ。ちょっとここに横になってくださいます？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScript1[2](Affection<100)
+msgid "え…私が快楽主義者ですって？とんでもないですわ。ただ寂しかっただけです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScript1[3](Affection<100)
+msgid "このロボットたちは私の家族も同然です。昔、名前もつけてあげたんです…えっと…何て名前だったかしら…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScript2[1](Affection>40)
+msgid ""
+"食事はきちんととれてますか？今日の気分はいかがですか？体重は変化ないですか？夜は眠れてますか？ふ～ん…そうですか。それで…私、何でここに来たんでしょう？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScript3[3](Affection>70)
+msgid "えっと…ファミリア～、ねぇ聞いてる？あなたよ、あなた…名前は何だったかしら？…そうだわ！そうそう。「可愛い司令官さん」だったわね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScript4[2](Affection=100)
+msgid "今まで私一人ぼっちだったんですよ…？一人でやるコトなんて限られてましたわ？でも今は…違いますわ？うふふ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "う～ん、これは予想外だわ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Circe].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "あ～もどかしい…あー！…もう一気にやってくれません？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScript1[1](Affection<100)
@@ -4101,6 +4134,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Triaina].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "ばか…言葉で言ってくれたらいいのに…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScript1[1](Affection<100)
+msgid "これですか？救世に必要な聖具です。堕落した者たちはこれを恐れます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScript1[2](Affection<100)
+msgid "あなたの意志なら、私はどんなことでも遂行するつもりです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScript1[3](Affection<100)
+msgid "悩みがあれば言ってください？いつでも一緒に祈ります。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScript2[1](Affection>40)
+msgid "全ての者が救われる日が来れば、この聖具も必要なくなります…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScript3[3](Affection>70)
+msgid "欲望のために堕落することは罪です…。辛い時は私がお助けします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScript4[2](Affection=100)
+msgid "救援者さま、あなたを邪魔する者がいれば、いつでも仰ってください？私がそれらを煉獄に送ります…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "光が私を試しているのですね…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Veronica].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "あなたが望むなら…いつでも…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_ST_Lancer].LobbyScript1[1](Affection<100)

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -12714,7 +12714,7 @@ msgstr "Assault Combat OS: Attack +{0}%"
 
 #  Korean Text: '강습형 전투 OS : 사거리 {0}'
 #: BuffEffect[Effect_BUFF_DummyChS_N_1].BuffEffectType2_Desc
-msgid "強襲型戦闘OS：射程-{0}"
+msgid "強襲型戦闘OS：射程{0}"
 msgstr "Assault Combat OS: Range {0}"
 
 #  Korean Text: '강습형 전투 OS : 공격력 증가 / 사거리 감소 Lv.1'
@@ -22743,13 +22743,13 @@ msgstr "戦闘適応: Defense +{0}%"
 
 #  Generated Partial Match; Korean Text: '전투 적응 : 회피+{0}%'
 #: BuffEffect[Effect_MP_NightChick_RV_12].BuffEffectType1_Desc
-msgid "戦闘適応：命中率+{0}%"
-msgstr "戦闘適応: Accuracy +{0}%"
+msgid "戦闘適応：回避率+{0}%"
+msgstr "戦闘適応: Evasion +{0}%"
 
 #  Generated Partial Match; Korean Text: '전투 적응 : 적중+{0}%'
 #: BuffEffect[Effect_MP_NightChick_RV_13].BuffEffectType1_Desc
-msgid "戦闘適応：回避率+{0}%"
-msgstr "戦闘適応: Evasion +{0}%"
+msgid "戦闘適応：命中率+{0}%"
+msgstr "戦闘適応: Accuracy +{0}%"
 
 #  Korean Text: '램파트 배치 시 : 공격 {0}%'
 #: BuffEffect[Effect_MP_NightChick_SS1_3].BuffEffectType1_Desc
@@ -29147,8 +29147,8 @@ msgstr "総攻撃です！: 自分の受けるダメージ減少 / Counterattack
 
 #  Generated Partial Match; Korean Text: '호박 세례 : 표식 지정'
 #: BuffEffect[Effect_PECS_Circe_N_1].BuffEffectType1_Desc
-msgid "カボチャ洗礼：標的指定"
-msgstr "カボチャ洗礼: Mark Target"
+msgid "かぼちゃの洗礼：標的指定"
+msgstr "かぼちゃの洗礼: Mark Target"
 
 #  Generated Partial Match; Korean Text: '인화성 물질 : 화염 저항 {0}%'
 #: BuffEffect[Effect_PECS_Circe_N_1].BuffEffectType2_Desc
@@ -29162,7 +29162,7 @@ msgstr "私製合成物: Damage Taken +{0}%"
 
 #  Korean Text: '화학 작용? : 피해 감소 해제'
 #: BuffEffect[Effect_PECS_Circe_N_1].BuffEffectType4_Desc
-msgid "科学作用？：ダメージ減少解除"
+msgid "化学作用？：ダメージ減少解除"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '펌킨 봄 : 표식 / 피해 증폭 / 화염 저항 감소'
@@ -29227,8 +29227,8 @@ msgstr "不幸の感じ？: Evasion +{0}% (Self)"
 
 #  Generated Partial Match; Korean Text: '운명의 만남? : 적 출현 정보 획득 (자신)'
 #: BuffEffect[Effect_PECS_Circe_N_4].BuffEffectType3_Desc
-msgid "運命の出会い？：敵の出現情報獲得(自分)"
-msgstr "運命の出会い？: 敵の出現情報獲得 (Self)"
+msgid "運命の出会い？：次の敵情報獲得"
+msgstr "運命の出会い？: Grant Recon effect"
 
 #  Generated Partial Match; Korean Text: '오늘의 운세는~ : 적중 / 회피 증가 / 정찰 기능'
 #: BuffEffect[Effect_PECS_Circe_N_4].Name
@@ -31183,10 +31183,10 @@ msgstr "異端指定: Evasion {0}%"
 msgid "異端審判：標的/ダメージ増幅/回避率減少"
 msgstr "異端審判: Mark / Increase Damage / Evasion Reduction"
 
-#  Korean Text: '이단 집행 : 피해 감소 해제'
+#  Generated Partial Match; Korean Text: '이단 집행 : 피해 감소 해제'
 #: BuffEffect[Effect_PECS_Veronica_N_2].BuffEffectType1_Desc
-msgid "異端執行：ダメージ減少解除"
-msgstr ""
+msgid "異端執行：ダメージ減少効果解除"
+msgstr "異端執行: Remove Damage Reduction"
 
 #  Korean Text: '집행 개시 : 피해 감소 해제 / 피해량 증가'
 #: BuffEffect[Effect_PECS_Veronica_N_2].Name
@@ -31195,18 +31195,18 @@ msgstr ""
 
 #  Generated Partial Match; Korean Text: '그림자 대리인 : 공격 지원 (열/행보호 시전자)'
 #: BuffEffect[Effect_PECS_Veronica_N_3].BuffEffectType1_Desc
-msgid "影の代理人：攻撃支援(行/列保護スキル発動者)"
-msgstr "影の代理人: Follow-up Attack (行 / 列保護スキル発動者)"
+msgid "影の代行者：攻撃支援(行/列保護スキル発動者)"
+msgstr "影の代行者: Follow-up Attack (行 / 列保護スキル発動者)"
 
 #  Korean Text: '그림자 대리인 : AP+{0}  (열/행보호 시전자)'
 #: BuffEffect[Effect_PECS_Veronica_N_3].BuffEffectType2_Desc
-msgid "影の代理人：AP+{0} (行/列保護スキル発動者)"
+msgid "影の代行者：AP+{0} (行/列保護スキル発動者)"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '그림자 대리인 : 행 / 열 보호 대상 공격 지원 / AP 증가'
 #: BuffEffect[Effect_PECS_Veronica_N_3].Name
-msgid "影の代理人：行/列保護対象の攻撃支援/AP増加"
-msgstr "影の代理人: 行 / 列保護対象の攻撃支援 / AP Up"
+msgid "影の代行者：行/列保護対象の攻撃支援/AP増加"
+msgstr "影の代行者: 行 / 列保護対象の攻撃支援 / AP Up"
 
 #  Korean Text: '최후의 성전 : 자신 HP% 낮을수록 피해량+{0}%'
 #: BuffEffect[Effect_PECS_Veronica_N_4].BuffEffectType1_Desc
@@ -31240,32 +31240,32 @@ msgstr "最期の聖戦: Deal more damage as HP decreases"
 
 #  Korean Text: '그림자 대리인 : AP+{0}'
 #: BuffEffect[Effect_PECS_Veronica_N_11].BuffEffectType1_Desc
-msgid "影の代理人：AP+{0}"
+msgid "影の代行者：AP+{0}"
 msgstr ""
 
 #  Korean Text: '그림자 대리인 : 행 / 열 보호 대상 AP 증가'
 #: BuffEffect[Effect_PECS_Veronica_N_11].Name
-msgid "影の代理人：行/列保護対象のAP増加"
+msgid "影の代行者：行/列保護対象のAP増加"
 msgstr ""
 
 #  Korean Text: '빛의 대리인 : AP+{0}'
 #: BuffEffect[Effect_PECS_Veronica_N_12].BuffEffectType1_Desc
-msgid "光の代理人：AP+{0}"
+msgid "光の代行者：AP+{0}"
 msgstr ""
 
 #  Korean Text: '그림자 대리인 : 아자젤 AP 증가'
 #: BuffEffect[Effect_PECS_Veronica_N_12].Name
-msgid "影の代理人：アザゼルのAP増加"
+msgid "影の代行者：アザゼルのAP増加"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '빛의 대리인 : {0}% 위력 반격'
 #: BuffEffect[Effect_PECS_Veronica_N_13].BuffEffectType1_Desc
-msgid "光の代理人：{0}%の威力で反撃"
-msgstr "光の代理人: Counterattack with {0}% power"
+msgid "光の代行者：{0}%の威力で反撃"
+msgstr "光の代行者: Counterattack with {0}% power"
 
 #  Korean Text: '그림자 대리인 : 아자젤에게 반격 부여'
 #: BuffEffect[Effect_PECS_Veronica_N_13].Name
-msgid "影の代理人：アザゼルに反撃付与"
+msgid "影の代行者：アザゼルに反撃付与"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '최후의 성전 : 공격력+{0}%'

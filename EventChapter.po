@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -52,4 +52,36 @@ msgstr "Don't dwell in the past! Enjoy the moment!"
 #  Korean Text: '할로윈 파크 패닉!'
 #: EventChapter[Event_Chapter_06].Event_CategoryName
 msgid "ハロウィンパークパニック！"
+msgstr ""
+
+#: EventChapter[Event_Chapter_07].Event_CategoryDesc
+msgid "忘年会準備中の司令官に忍び寄る魔の手の正体は！？"
+msgstr ""
+
+#: EventChapter[Event_Chapter_07].Event_CategoryName
+msgid "セントオルカの秘密作戦"
+msgstr ""
+
+#: EventChapter[Event_Chapter_09].Event_CategoryDesc
+msgid "ティアマトは「チョコ女王」にまつわる滅亡前人類の歪みと向き合うことになるが…"
+msgstr ""
+
+#: EventChapter[Event_Chapter_09].Event_CategoryName
+msgid "不思議の国のチョコ女王"
+msgstr ""
+
+#: EventChapter[Event_Chapter_11].Event_CategoryDesc
+msgid "軽い気持ちで妖精の村に向かった司令官に…？"
+msgstr ""
+
+#: EventChapter[Event_Chapter_11].Event_CategoryName
+msgid "妖精の村のアリア"
+msgstr ""
+
+#: EventChapter[Event_Chapter_12].Event_CategoryDesc
+msgid "夏イベント2部～～"
+msgstr ""
+
+#: EventChapter[Event_Chapter_13].Event_CategoryDesc
+msgid "夏イベント3部～～"
 msgstr ""

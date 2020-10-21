@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1219,7 +1219,7 @@ msgstr "Mark of the Dragonslayer"
 
 #  Korean Text: '공격력+{0} / 치명타+{1} / 행동력+{2} / 대 경장 공격'
 #: ItemEquip[Equip_Sub_MG80MODKit_T4].ItemDesc
-msgid "攻撃力+{0}/命中+{1}/行動力+{2}/対軽装攻撃"
+msgid "攻撃力+{0}/クリティカル+{1}/行動力+{2}/対軽装攻撃"
 msgstr "Attack +{0} / Crit Chance +{1} / Action Speed +{2} / Anti-Light Attack"
 
 #  Korean Text: 'T-10 님프 전용 MG80 개조 장비입니다.'

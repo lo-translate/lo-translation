@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-07 12:00-0400\n"
+"PO-Revision-Date: 2020-10-21 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -5446,7 +5446,7 @@ msgstr ""
 
 #  Korean Text: '...'
 #: DialogScript[DG_Ch02Stage03e_1_1].Script
-msgid "…"
+msgid "……"
 msgstr ""
 
 #: DialogScript[DG_Ch02Stage03e_1_1].SelectionIndex[1]
@@ -6170,6 +6170,11 @@ msgstr ""
 #  Korean Text: '주인님 말씀 들었지? 모두 기척을 숨겨. &n저 철충과 싸울 필요는 없어! '
 #: DialogScript[DG_Ch02Stage05_3_14].Script
 msgid "ご主人様の話聞いたわね！？みんな隠れて気配を消して。&nあの鉄虫と戦う必要はないわ！"
+msgstr ""
+
+#  Korean Text: '....'
+#: DialogScript[DG_Ch02Stage05_3_15].Script
+msgid "…"
 msgstr ""
 
 #  Korean Text: '아, 가 버렸다.'
@@ -18625,11 +18630,6 @@ msgstr ""
 msgid "グリフォンの要請"
 msgstr ""
 
-#  Korean Text: '... ...'
-#: DialogScript[DG_Ch06Stage01e_1_1].Script
-msgid "……"
-msgstr ""
-
 #  Korean Text: '... ...그...'
 #: DialogScript[DG_Ch06Stage01e_1_2].Script
 msgid "……その…"
@@ -22709,7 +22709,7 @@ msgid "私はご主人様にお仕えする資格はありません…"
 msgstr ""
 
 #: DialogScript[DG_Ch06Stage08e_2_16].SelectionIndex[1]
-msgid "…俺はもう大丈夫だよ。"
+msgid "…俺は大丈夫だよ。"
 msgstr ""
 
 #  Korean Text: '주... 주인님?'
