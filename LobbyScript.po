@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -486,6 +486,41 @@ msgstr ""
 msgid "もう、そんなに気になりますか？"
 msgstr ""
 
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScript1[1](Affection<100)
+msgid "…寂しくはありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScript1[2](Affection<100)
+msgid "一人にさせていただけると…嬉しいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScript1[3](Affection<100)
+msgid ""
+"目が見えないわけではございません。\n"
+"ただ…視覚が敏感すぎるため、目を開けていると少々辛い時が…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScript2[1](Affection>40)
+msgid "うっ…そんな耳元で囁かれては…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScript3[3](Affection>70)
+msgid ""
+"拙の目をご覧になりたいだなんて……。では……ふ、不快にさせてしまったようでございますね…。今日はこれで失礼させて…え？…そ、そうでございますか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScript4[2](Affection=100)
+msgid "やっと主様のぬくもりに慣れてきたようでございます。試しに… 一度、抱き締めてみていただけますか…？あっ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "うっ…もう少し…お手柔らかに……"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "くっ…あ…、何でもございません。苦しいわけではございませんので、そのまま続きを…"
+msgstr ""
+
 #: LobbyScript[LobbyScript_3P_Rhea].LobbyScript1[1](Affection<100)
 msgid "家事をもう少し習っておくべきだったわ… "
 msgstr ""
@@ -685,6 +720,22 @@ msgstr ""
 msgid "防空、防衛、偵察、給油など私は全ての任務が遂行可能だ。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_AGS_Albatross_NS1].LobbyScript1[1](Affection<100)
+msgid "私がいる限り、いかなる外敵も我々の領域に足を踏み入れることはできない。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Albatross_NS1].LobbyScript1[2](Affection<100)
+msgid "何かを守るための戦いは苦しいものだが、崇高だ。司令官もその点は十分に心得ているはずだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Albatross_NS1].LobbyScript1[3](Affection<100)
+msgid "過去、都市のど真ん中に立っていると市民たちが畏敬の念と感謝を込めて私を見つめたものだ。ちょうど今ここの若い隊員たちが私を見ている姿と似ていた。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_AGS_Albatross_NS1].LobbyScript2[1](Affection>40)
+msgid "この光り輝く槍と盾は数多の敵を倒してきた武器だ。栄誉ある戦いで常に一緒だった。"
+msgstr ""
+
 #: LobbyScript[LobbyScript_AGS_Fallen].LobbyScript1[1](Affection<100)
 msgid "AGSロボテックは人類保護のために作られました。"
 msgstr ""
@@ -846,7 +897,7 @@ msgid "そんなことしちゃだめ！今度触ったらもうチョコバー�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript1[1](Affection<100)
-msgid "アルヴィス伯爵には召使いが必要なの！…二人くらい？！いや、三人は必要だね！"
+msgid "アルヴィス伯爵様には召使いが必要なの！…二人くらい？！いや、三人は必要だね！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript1[2](Affection<100)
@@ -858,7 +909,7 @@ msgid "ひっひっひっ！今日もキラーラビットがお菓子でパン�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript2[1](Affection>40)
-msgid "司令官様？アルヴィス伯爵の召使いにならない？なってくれたらお礼に、司令官様のお願い全部叶えてあげるよ！"
+msgid "司令官様？アルヴィス伯爵様の召使いにならない？なってくれたらお礼に、司令官様のお願い全部叶えてあげるよ！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Alvis_NS1].LobbyScript3[3](Affection>70)

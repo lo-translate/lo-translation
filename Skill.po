@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1227,7 +1227,7 @@ msgid "準備物確認(行動封印)"
 msgstr ""
 
 #: Skill[Skill_3P_Ran_N_1].SkillDescription
-msgid "対象に{0}ダメージを与えて、2ラウンドの間、対象を挑発し回避/行動力を下げます。クリティカル時、与えるダメージが増加します。"
+msgid "対象に{0}のダメージを与え、2ラウンドの間、対象を挑発し回避率/行動力を減少させます。クリティカル時、ダメージが増加します。"
 msgstr ""
 
 #: Skill[Skill_3P_Ran_N_1].SkillDescriptionSimple
@@ -1238,16 +1238,39 @@ msgstr ""
 msgid "刹那切り"
 msgstr ""
 
+#: Skill[Skill_3P_Ran_N_2].SkillDescription
+msgid "3ラウンドの間、攻撃力/命中率/射程距離/受けるダメージが増加します。スキルレベル10で射程距離が追加で増加します。"
+msgstr ""
+
 #: Skill[Skill_3P_Ran_N_2].SkillDescriptionSimple
-msgid "スキル使用時、攻撃力/命中/射程距離/受けるダメージが増幅"
+msgid "スキル使用時、攻撃力/命中/射程距離/受けるダメージ増加"
 msgstr ""
 
 #: Skill[Skill_3P_Ran_N_2].SkillName
 msgid "明鏡止水"
 msgstr ""
 
+#: Skill[Skill_3P_Ran_N_3].SkillDescription
+msgid ""
+"ラウンド開始時、前列に配置された軽装型/機動型の味方を指定保護し、対象の命中率/行動力を増加します。自分が前列に配置された場合、同様の効果が適用されます。"
+msgstr ""
+
+#: Skill[Skill_3P_Ran_N_3].SkillDescriptionSimple
+msgid "前列に配置された軽装型/機動型の味方に指定保護/命中率/行動力増加"
+msgstr ""
+
 #: Skill[Skill_3P_Ran_N_3].SkillName
-msgid "影護衛"
+msgid "影の護衛"
+msgstr ""
+
+#: Skill[Skill_3P_Ran_N_4].SkillDescription
+msgid ""
+"ラウンド開始時、クリティカル率/命中率/回避率が増加し、敵の攻撃を回避すると反撃します。自分が前列または<明鏡止水>状態の場合、回避率増加効果が効果値の30"
+"％分追加で適用されます。"
+msgstr ""
+
+#: Skill[Skill_3P_Ran_N_4].SkillDescriptionSimple
+msgid "クリティカル率/命中率/回避率が増加。回避時、反撃。前列または<明鏡止水>状態の場合、回避追加で増加"
 msgstr ""
 
 #: Skill[Skill_3P_Ran_N_4].SkillName
@@ -1262,8 +1285,12 @@ msgstr ""
 msgid "明鏡止水(射程距離基本)"
 msgstr ""
 
+#: Skill[Skill_3P_Ran_N_13].SkillDescription
+msgid "3ラウンドの間、攻撃力/命中率/射程距離/受けるダメージが増加します。"
+msgstr ""
+
 #: Skill[Skill_3P_Ran_N_13].SkillDescriptionSimple
-msgid "攻撃力/命中/射程距離/受けるダメージ増幅"
+msgid "攻撃力/命中率/射程距離/受けるダメージ増加"
 msgstr ""
 
 #: Skill[Skill_3P_Ran_N_13].SkillName
@@ -20900,8 +20927,8 @@ msgstr ""
 #  Korean Text: '호박을 던져 대상에게 {0} 화염 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 화염 저항 감소 상태로 만듭니다. 적중 대상의 피해 감소 효과를 해제합니다.'
 #: Skill[Skill_PECS_Circe_N_1].SkillDescription
 msgid ""
-"かぼちゃを投げて対象に60の火炎属性ダメージを与え、2ラウンドの間、対象を標的に設定し受けるダメージ増加/火炎耐性減少状態にします。対象のダメージ減少効果を"
-"解除します。"
+"かぼちゃを投げて対象に{0}の火炎属性ダメージを与え、2ラウンドの間、対象を標的に設定し受けるダメージ増加/火炎耐性減少状態にします。対象のダメージ減少効果"
+"を解除します。"
 msgstr ""
 
 #  Korean Text: '단일 대상 {0} 화염 피해. 표식 / 피해 증폭 / 화염 저항 감소 / 피해 감소 해제'
@@ -20950,7 +20977,8 @@ msgstr ""
 
 #  Korean Text: '라운드 개시 시, 자신의 적중 / 회피가 증가하며 다음에 출현할 적을 확인할 수 있습니다. 정찰 활성화 시, 해당 효과가 50% 추가 적용됩니다.'
 #: Skill[Skill_PECS_Circe_N_4].SkillDescription
-msgid "ラウンド開始時、自分の命中率/回避率が増加し、偵察で次に出現する敵情報が確認できます。偵察活性化状態の場合該当の効果が50％追加適用されます。"
+msgid ""
+"ラウンド開始時、自分の命中率/回避率が増加し、偵察で次に出現する敵情報が確認できます。偵察活性化状態の場合該当の効果が効果値の50％分追加で適用されます。"
 msgstr ""
 
 #  Korean Text: '자신의 적중 / 회피 증가. 정찰 기능. 정찰 활성화 시, 효과 50% 증가'
@@ -22218,7 +22246,7 @@ msgstr ""
 #  Korean Text: '행 / 열 보호 상태인 아군의 공격을 지원하며, 자신의 액티브 스킬 공격이 적중하면 대상들의 AP가 증가합니다. 대상이 아자젤인 경우, 매 라운드 AP를 증가시켜줍니다.'
 #: Skill[Skill_PECS_Veronica_N_3].SkillDescription
 msgid ""
-"行/列保護状態の味方を攻撃支援して、自分のアクティブスキルが命中したら対象たちのAPが増加します。対象がアザゼルの場合、毎ラウンドAPを増加させます。"
+"行保護および列保護状態の味方を攻撃支援し、ヴェロニカのアクティブスキル命中時、対象のAPが増加します。対象がアザゼルの場合、毎ラウンドAPを増加させます。"
 msgstr ""
 
 #  Korean Text: '행 / 열 보호 아군 공격 지원. 액티브 스킬 공격 적중 시, 대상들의 AP 증가'
@@ -22408,12 +22436,14 @@ msgstr ""
 
 #  Korean Text: '적 공격 시, 2라운드 동안 회피가 증가하며 반격합니다. 공격 적중 시, 공격력이 최대 3회까지 증가합니다. 공격력 최대 중첩 상태에선 매 라운드 첫 공격이 방어막 / 피해 감소 효과를 무시합니다. 피격 시, 공격력 증가 효과는 해제됩니다.'
 #: Skill[Skill_ST_Tiamat_N_3].SkillDescription
-msgid "敵を攻撃時、攻撃力が増加します。攻撃力増加効果は最大3回まで重ね掛け可能です。2ラウンドの間、回避率が増加します。"
+msgid ""
+"敵を攻撃時、攻撃力が増加します。攻撃力増加効果は最大3回まで重ね掛け可能です。2ラウンドの間、回避率が増加します。<看破>の効果が有効な状態で攻撃を受けると"
+"反撃します。"
 msgstr ""
 
 #  Korean Text: '적 공격 시, 2라운드 동안 회피가 증가하며 반격합니다. 공격 적중 시, 공격력이 최대 3회까지 증가합니다. 공격력 최대 중첩 상태에선 매 라운드 첫 공격이 방어막 / 피해 감소 효과를 무시합니다. 피격 시, 공격력 증가 효과는 해제됩니다.'
 #: Skill[Skill_ST_Tiamat_N_3].SkillDescriptionSimple
-msgid "敵攻撃時、回避/攻撃力増加。"
+msgid "敵攻撃時、回避/攻撃力増加。当効果状態で攻撃されると反撃"
 msgstr ""
 
 #  Korean Text: '간파'

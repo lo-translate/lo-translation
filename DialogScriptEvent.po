@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -12479,7 +12479,7 @@ msgstr ""
 
 #  Korean Text: '- 내 얼굴을 살피는 바닐라의 눈길이 느껴졌지만, 그녀와 말을 이어갈 용기가 나질 않는다.&n... 난... 부끄럽다...'
 #: DialogScript[DG_Ch01Ev4Stage02_1_16].Script
-msgid "- 俺の表情を伺うバニラの視線が感じたが、彼女と話を続ける勇気がない。&n…俺は…正直、恥ずかしい…"
+msgid "- 俺の表情を伺うバニラの視線を感じたが、彼女と話を続ける勇気がない。&n…俺は…正直、恥ずかしい…"
 msgstr ""
 
 #  Korean Text: '... 전 주인님과 만날 수 있어, 정말 다행이라 생각하고 있어요.'
@@ -14091,7 +14091,7 @@ msgstr ""
 
 #  Korean Text: '- 다가서서 조심스레 내 팔을 붙잡은 아자젤의 손이 가늘게 떨린다.'
 #: DialogScript[DG_Ch01Ev4Stage05_1_5].Script
-msgid "- そう詰め寄り、俺の腕を遠慮がちに掴むアザゼルの手は微かに振るえている。"
+msgid "- そう詰め寄り、俺の腕を遠慮がちに掴むアザゼルの手は微かに震えている。"
 msgstr ""
 
 #  Korean Text: '- 그렇지만...'
@@ -15267,7 +15267,7 @@ msgstr ""
 
 #  Korean Text: '자, 다들 이걸 하나씩 받고 최대한 멀리가서 놀도록 하세요.'
 #: DialogScript[DG_Ch01Ev4Stage07_2_30].Script
-msgid "はい、皆さんでこれを一個ずつプレゼントします。&n仲良く食べながらできるだけ遠くに行って遊んでいてくださいね？"
+msgid "はい、皆さんにこれを一個ずつプレゼントします。&n仲良く食べながらできるだけ遠くに行って遊んでいてくださいね？"
 msgstr ""
 
 #  Korean Text: '- 앨리스는 알비스와 LRL의 손에 쿠키를 하나씩 쥐어 주었다.'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -672,7 +672,7 @@ msgid "金蘭S7を迎え入れます。"
 msgstr ""
 
 #: ItemConsumable[CharTicket_Char_3P_Ran_N].ItemName
-msgid "金襴S7"
+msgid "金蘭S7"
 msgstr "KeumRan S7"
 
 #  Korean Text: '레아를 지급합니다'
@@ -4826,7 +4826,7 @@ msgstr ""
 
 #  Korean Text: '백토, 더 비스트 슬레이어'
 #: ItemConsumable[Shop_Package_DS_Baekto_1].ItemName
-msgid "白兎、ザビーストスレイヤー"
+msgid "ザ・ビーストスレイヤー白兎"
 msgstr ""
 
 #  Korean Text: '샬럿용 보석 비키니와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -5016,7 +5016,7 @@ msgid "フライングハチコパック"
 msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_3P_Ran_1].ItemDesc
-msgid "金蘭用の濡れた韓服とチョコレート5個が入ったパックです。"
+msgid "金蘭S7用の濡れた韓服とチョコレート5個が入ったパックです。"
 msgstr ""
 
 #: ItemConsumable[Shop_Package_Skin_3P_Ran_1].ItemName
@@ -5845,10 +5845,13 @@ msgid ""
 "ハチコは過去、戦場を駆け巡り目覚ましい活躍を見せていた先代ハチコの遺志を継ぐことにしました。でも…一人じゃこれが限界みたいですね。でも可愛いから良いですよね"
 "？"
 msgstr ""
+"Hachiko has inherited the will of the older Hachikos who could fly above the "
+"battlefield. But this is what comes after our Hachiko tried her best... still "
+"cute, isn't it?"
 
 #: ItemConsumable[Skin_3P_Hachiko_2].ItemName
 msgid "手作り戦略爆撃装備(ハチコ)"
-msgstr ""
+msgstr "Homemade Tactical Bombing Equipment (Hachiko)"
 
 #: ItemConsumable[Skin_3P_Labiata_1].ItemDesc
 msgid "初々しいお嫁さんのラビアタが特別な晩餐を準備しました。ラビアタ特製スペシャルデザートもありますので、思う存分ご堪能ください…"
@@ -5879,7 +5882,7 @@ msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちる�
 msgstr ""
 
 #: ItemConsumable[Skin_3P_Ran_1].ItemName
-msgid "濡れた韓服(金蘭)"
+msgid "濡れた韓服(金蘭S7)"
 msgstr ""
 
 #  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 아마 달토끼와 관계된 것 같다고 하니 아마 이 복장이 맞을 겁니다. 아마도요... 수많은 잡지에서도 이 복장이 널리 입혀졌다는 것이 증명되고 있고요.'

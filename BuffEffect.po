@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1764,23 +1764,23 @@ msgstr "準備物の確認: Cannot use Skill"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].BuffEffectType1_Desc
-msgid "瞬間斬り瞬間斬り：回避率{0}%"
-msgstr "瞬間斬り瞬間斬り: Evasion {0}%"
+msgid "刹那切り：回避率{0}%"
+msgstr "刹那切り: Evasion {0}%"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].BuffEffectType2_Desc
-msgid "瞬間斬り：行動力{0}%"
-msgstr "瞬間斬り: Action Speed {0}%"
+msgid "刹那切り：行動力{0}%"
+msgstr "刹那切り: Action Speed {0}%"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].BuffEffectType4_Desc
-msgid "瞬間斬り：対象挑発(金襴)"
-msgstr "瞬間斬り: Taunt Target (金襴)"
+msgid "刹那切り：対象挑発(金蘭S7)"
+msgstr "刹那切り: Taunt Target (金蘭S7)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].Name
-msgid "瞬間斬り：回避率/行動力減少"
-msgstr "瞬間斬り: Evasion / Reduced Action Speed"
+msgid "刹那切り：回避率/行動力減少"
+msgstr "刹那切り: Evasion / Reduced Action Speed"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_2].BuffEffectType1_Desc
@@ -1829,28 +1829,28 @@ msgstr "影の護衛: 軽装 / 機動型の味方指定保護 / Accuracy / Actio
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_4].BuffEffectType1_Desc
-msgid "鋭利な感覚：クリティカル率+{0}%"
-msgstr "鋭利な感覚: Critical Hit Rate +{0}%"
+msgid "鋭い感覚：クリティカル率+{0}%"
+msgstr "鋭い感覚: Critical Hit Rate +{0}%"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_4].BuffEffectType2_Desc
-msgid "鋭利な感覚：回避率+{0}%"
-msgstr "鋭利な感覚: Evasion +{0}%"
+msgid "鋭い感覚：回避率+{0}%"
+msgstr "鋭い感覚: Evasion +{0}%"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_4].BuffEffectType3_Desc
-msgid "鋭利な感覚：命中率+{0}%"
-msgstr "鋭利な感覚: Accuracy +{0}%"
+msgid "鋭い感覚：命中率+{0}%"
+msgstr "鋭い感覚: Accuracy +{0}%"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_4].BuffEffectType4_Desc
-msgid "鋭利な感覚：{0}%の威力で反撃(回避時)"
-msgstr "鋭利な感覚: Counterattack with {0}% power (回避時)"
+msgid "鋭い感覚：{0}%の威力で反撃(回避時)"
+msgstr "鋭い感覚: Counterattack with {0}% power (回避時)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_4].Name
-msgid "鋭利な感覚：命中率/クリティカル率/回避率増加"
-msgstr "鋭利な感覚: Accuracy / Critical Chance / Evasion Up"
+msgid "鋭い感覚：命中率/クリティカル率/回避率増加"
+msgstr "鋭い感覚: Accuracy / Critical Chance / Evasion Up"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_11].Name
@@ -1872,11 +1872,11 @@ msgstr "明鏡止水: Accuracy Up"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_16].BuffEffectType1_Desc
-msgid "鋭利な感覚：{0}%の威力で反撃"
-msgstr "鋭利な感覚: Counterattack with {0}% power"
+msgid "鋭い感覚：{0}%の威力で反撃"
+msgstr "鋭い感覚: Counterattack with {0}% power"
 
 #: BuffEffect[Effect_3P_Ran_N_16].Name
-msgid "鋭利な感覚：回避時に反撃"
+msgid "鋭い感覚：回避時に反撃"
 msgstr ""
 
 #  Generated Partial Match
@@ -1885,7 +1885,7 @@ msgid "五感集中：回避率+{0}%"
 msgstr "五感集中: Evasion +{0}%"
 
 #: BuffEffect[Effect_3P_Ran_N_17].Name
-msgid "鋭利な感覚：回避追加増加"
+msgid "鋭い感覚：回避追加増加"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '기능 오류 : 적중 / 회피 {0}% (치명타 시)'
@@ -31474,6 +31474,11 @@ msgstr "看破: Attack +{0}%"
 msgid "看破：回避率+{0}%"
 msgstr "看破: Evasion +{0}%"
 
+#  Generated Partial Match; Korean Text: '간파 : {0}% 위력으로 반격'
+#: BuffEffect[Effect_ST_Tiamat_N_3].BuffEffectType3_Desc
+msgid "看破：{0}%の威力で反撃"
+msgstr "看破: Counterattack with {0}% power"
+
 #  Generated Partial Match; Korean Text: '간파 : 회피 증가 / 공격 적중 시, 공격력 증가 / 반격 활성화'
 #: BuffEffect[Effect_ST_Tiamat_N_3].Name
 msgid "看破：回避率増加/攻撃命中時、攻撃力増加/反撃活性化"
@@ -31563,11 +31568,6 @@ msgstr ""
 #: BuffEffect[Effect_ST_Tiamat_N_15].Name
 msgid "攻撃看破：回避率増加"
 msgstr "攻撃看破: Evasion Up"
-
-#  Generated Partial Match; Korean Text: '간파 : {0}% 위력으로 반격'
-#: BuffEffect[Effect_ST_Tiamat_N_16].BuffEffectType1_Desc
-msgid "看破：{0}%の威力で反撃"
-msgstr "看破: Counterattack with {0}% power"
 
 #  Generated Partial Match; Korean Text: '공격 간파 : 반격'
 #: BuffEffect[Effect_ST_Tiamat_N_16].Name

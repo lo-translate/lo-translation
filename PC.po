@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -130,8 +130,12 @@ msgstr "Labiata"
 msgid "補贖のマリア"
 msgstr "Maria of Redemption"
 
+#: PC[Char_3P_Ran_N].DialogJoin
+msgid "不肖、金蘭、主様にご挨拶申し上げます。"
+msgstr ""
+
 #: PC[Char_3P_Ran_N].Name
-msgid "金襴S7"
+msgid "金蘭S7"
 msgstr "KeumRan S7"
 
 #  Korean Text: '레아가 왔어요. 자, 제 자매들은 어디 있나요?'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-10 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -7313,4 +7313,322 @@ msgstr ""
 
 #: LocalizationPatch:1000138
 msgid "회차 특수 보상"
+msgstr ""
+
+#  Korean Text: '상점공지'
+#: LocalizationPatch:1000139
+msgid "ショップのお知らせ"
+msgstr ""
+
+#  Korean Text: '21 스쿼드 구분'
+#: LocalizationPatch:1000140
+msgid "21分隊表示"
+msgstr ""
+
+#: LocalizationPatch:1000141
+msgid "수집물"
+msgstr ""
+
+#: LocalizationPatch:1000142
+msgid "[c][ff0000]사령관 LV.{0} 필요[-][/c]"
+msgstr ""
+
+#: LocalizationPatch:1000143
+msgid "{0} 스테이지의 모든 미션이 완료 되지 않았습니다."
+msgstr ""
+
+#: LocalizationPatch:1000144
+msgid "전투 정보 수집"
+msgstr ""
+
+#: LocalizationPatch:1000145
+msgid "최종 보상"
+msgstr ""
+
+#: LocalizationPatch:1000146
+msgid "☆ "
+msgstr ""
+
+#: LocalizationPatch:1000147
+msgid "★ "
+msgstr ""
+
+#  Korean Text: '달성 목표'
+#: LocalizationPatch:1000148
+msgid "훈련 목표"
+msgstr ""
+
+#  Korean Text: '스테이지 진행 도중 모든 목표 동시에 달성'
+#: LocalizationPatch:1000149
+msgid "스테이지 진행 도중 모든 훈련 목표 동시에 달성"
+msgstr ""
+
+#: LocalizationPatch:1000150
+msgid "최종 보상 조건 달성 시 하위 항목 해금"
+msgstr ""
+
+#: LocalizationPatch:1000151
+msgid "최종 보상 조건"
+msgstr ""
+
+#: LocalizationPatch:1000152
+msgid "다음 난이도 개방"
+msgstr ""
+
+#: LocalizationPatch:1000153
+msgid "무료 재도전 가능"
+msgstr ""
+
+#: LocalizationPatch:1000154
+msgid "토벌 기능 활성화"
+msgstr ""
+
+#: LocalizationPatch:1000155
+msgid "입장 아이템은 스테이지 클리어 전까지 소모되지 않습니다."
+msgstr ""
+
+#  Korean Text: '전투 도중 캐릭터가 피해를 입어도 실제로 상태가 반영되지 않습니다.'
+#: LocalizationPatch:1000156
+msgid "훈련 도중 캐릭터가 피해를 입어도 실제로 반영되지는 않습니다."
+msgstr ""
+
+#  Korean Text: '입장 아이템은 매일 09:00시에 새로 충전됩니다.'
+#: LocalizationPatch:1000157
+msgid "입장 아이템은 매일 09:00시에 새로 충전되며, 누적되지 않습니다."
+msgstr ""
+
+#  Korean Text: '전투 시작'
+#: LocalizationPatch:1000158
+msgid "훈련 시작"
+msgstr "Start Battle"
+
+#: LocalizationPatch:1000159
+msgid "외부 통신 요청"
+msgstr ""
+
+#  Korean Text: '해당 전투에서 발생하는 수치는 업적 및 연구의 조건을 충족시키지 않습니다.'
+#: LocalizationPatch:1000160
+msgid "해당 전투에서 발생하는 정보는 업적 및 연구의 조건을 충족시키지 않습니다."
+msgstr ""
+
+#: LocalizationPatch:1000161
+msgid "적용된 프리셋이 없습니다."
+msgstr ""
+
+#: LocalizationPatch:1000162
+msgid "[c][2ac940]{0}의 협동공격[-][/c]"
+msgstr ""
+
+#: LocalizationPatch:1000163
+msgid "[c][97a9a3]{0} 협동공격 실패(스킬사용불가)[-][/c]"
+msgstr ""
+
+#: LocalizationPatch:1000164
+msgid "[c][97a9a3]{0} 협동공격 실패(행동불가)[-][/c]"
+msgstr ""
+
+#: LocalizationPatch:1000165
+msgid "[c][97a9a3]{0} 협동공격 실패(사거리)[-][/c]"
+msgstr ""
+
+#: LocalizationPatch:1000166
+msgid "지원공격"
+msgstr ""
+
+#: LocalizationPatch:1000167
+msgid "재공격"
+msgstr ""
+
+#: LocalizationPatch:1000168
+msgid "협동공격"
+msgstr ""
+
+#: LocalizationPatch:1000169
+msgid "피해무효"
+msgstr ""
+
+#: LocalizationPatch:1000170
+msgid "반격"
+msgstr "Counterattack"
+
+#: LocalizationPatch:1000171
+msgid "대기"
+msgstr "Waiting"
+
+#: LocalizationPatch:1000172
+msgid "방어막"
+msgstr ""
+
+#: LocalizationPatch:1000173
+msgid "보호"
+msgstr "Defender"
+
+#: LocalizationPatch:1000174
+msgid "호감도 하락"
+msgstr "Affection fall"
+
+#: LocalizationPatch:1000175
+msgid "호감도 상승"
+msgstr "Affection rise"
+
+#: LocalizationPatch:1000176
+msgid "저장되지 않음"
+msgstr ""
+
+#: LocalizationPatch:1000177
+msgid "이대로 뒤로 돌아갈 경우 현재 편집한 정보는 저장 되지 않습니다.\\n진행하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000178
+msgid "우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\\n진행하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000179
+msgid "프리셋 전체 초기화"
+msgstr ""
+
+#: LocalizationPatch:1000180
+msgid "캐릭터 초기화"
+msgstr ""
+
+#: LocalizationPatch:1000181
+msgid "선택된 캐릭터의 우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\\n진행하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000182
+msgid "전체 초기화"
+msgstr ""
+
+#: LocalizationPatch:1000183
+msgid "미리 보기"
+msgstr ""
+
+#: LocalizationPatch:1000184
+msgid "우선 순위 변경"
+msgstr ""
+
+#: LocalizationPatch:1000185
+msgid "편집중"
+msgstr ""
+
+#  Korean Text: '로비 UI 제거'
+#: LocalizationPatch:1000186
+msgid "UI 제거"
+msgstr ""
+
+#: LocalizationPatch:1000187
+msgid "표정 변경"
+msgstr ""
+
+#: LocalizationPatch:1000188
+msgid "크기 조절"
+msgstr ""
+
+#: LocalizationPatch:1000189
+msgid "좌우 반전"
+msgstr ""
+
+#: LocalizationPatch:1000190
+msgid "소품 활성화"
+msgstr ""
+
+#: LocalizationPatch:1000191
+msgid "중파 활성화"
+msgstr ""
+
+#: LocalizationPatch:1000192
+msgid "순위 변경 해제"
+msgstr ""
+
+#: LocalizationPatch:1000193
+msgid "현재 상태로 프리셋을 저장하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000195
+msgid "전투 속행"
+msgstr ""
+
+#: LocalizationPatch:1000197
+msgid "슬롯 구매"
+msgstr ""
+
+#: LocalizationPatch:1000198
+msgid "대사설정"
+msgstr ""
+
+#: LocalizationPatch:1000199
+msgid "보유한 표정이 없습니다."
+msgstr ""
+
+#: LocalizationPatch:1000200
+msgid "보유한 특수 소품이 없습니다."
+msgstr ""
+
+#: LocalizationPatch:1000201
+msgid "보유한 중파 스킨이 없습니다."
+msgstr ""
+
+#: LocalizationPatch:1000202
+msgid "소품 비활성"
+msgstr ""
+
+#: LocalizationPatch:1000203
+msgid "중파 비활성"
+msgstr ""
+
+#: LocalizationPatch:1000204
+msgid "좌측 캐릭터 패널에서 캐릭터를 선택하여\\n크기 조절 및 이동, 개별 편집이 가능합니다."
+msgstr ""
+
+#: LocalizationPatch:1000205
+msgid "편집 완료"
+msgstr ""
+
+#: LocalizationPatch:1000206
+msgid "현재 크기 :"
+msgstr ""
+
+#: LocalizationPatch:1000207
+msgid "상단의 바를 사용하여 편집중인 캐릭터의 크기를\\n조절할 수 있습니다."
+msgstr ""
+
+#: LocalizationPatch:1000208
+msgid "선택중"
+msgstr ""
+
+#: LocalizationPatch:1000209
+msgid "순위 상승"
+msgstr ""
+
+#: LocalizationPatch:1000210
+msgid "순위 하락"
+msgstr ""
+
+#: LocalizationPatch:1000211
+msgid ""
+"우측 패널을 사용해 우선순위를 변경할 수 있습니다.\\n우선 순위가 높을수록 화면의 맨 앞에 위치합니다.\\n버튼을 다시 터치하여 종료할 "
+"수 있습니다."
+msgstr ""
+
+#  Korean Text: '미리 보기 모드 실행중입니다.\n우측 하단의 버튼을 터치하여 모드를 종료하거나\n로비 UI를 제거할 수 있습니다.'
+#: LocalizationPatch:1000212
+msgid "미리 보기 모드 실행중입니다. \\n우측 하단의 버튼을 터치하여 모드를 종료하거나\\n로비 UI를 제거할 수 있습니다."
+msgstr ""
+
+#  Korean Text: '좌측 패널의 버튼을 통해 표정을 선택하실 수 있습니다.\n패널 영역을 제외한 곳을 터치시 표정 편집이 종료됩니다.'
+#: LocalizationPatch:1000213
+msgid "좌측 패널의 버튼을 통해 표정을 선택할 수 있습니다.\\n패널 영역을 제외한 곳을 터치시 표정 편집이 종료됩니다."
+msgstr ""
+
+#: LocalizationPatch:1000214
+msgid "편집 모드"
+msgstr ""
+
+#: LocalizationPatch:1000215
+msgid "미리 보기 해제"
+msgstr ""
+
+#  Korean Text: '공식 위키'
+#: LocalizationPatch:1000216
+msgid "公式wiki"
 msgstr ""

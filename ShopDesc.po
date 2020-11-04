@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1802,7 +1802,7 @@ msgstr ""
 
 #  Korean Text: '백토, 더 비스트 슬레이어'
 #: ShopDesc[178].ProductName
-msgid "白兎、ザビーストスレイヤー"
+msgid "ザ・ビーストスレイヤー白兎"
 msgstr ""
 
 #: ShopDesc[179].NPCDescription
@@ -1950,7 +1950,7 @@ msgid "ダークエルフカウガールパック"
 msgstr ""
 
 #: ShopDesc[197].NPCDescription
-msgid "金蘭用の濡れた韓服とチョコレート5個が入ったパックです。"
+msgid "金蘭S7用の濡れた韓服とチョコレート5個が入ったパックです。"
 msgstr ""
 
 #: ShopDesc[197].ProductName
@@ -2155,7 +2155,7 @@ msgstr ""
 
 #: ShopDesc[224].ProductName
 msgid "フライングハチコ"
-msgstr ""
+msgstr "Flying Hachiko"
 
 #: ShopDesc[225].NPCDescription
 msgid "基地空室が1枠拡張されます。"
@@ -4324,7 +4324,7 @@ msgid "金蘭S7を迎え入れます。"
 msgstr ""
 
 #: ShopDesc[15112].ProductName
-msgid "金襴S7"
+msgid "金蘭S7"
 msgstr "KeumRan S7"
 
 #: ShopDesc[15113].NPCDescription
@@ -5899,7 +5899,7 @@ msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちる�
 msgstr ""
 
 #: ShopDesc[17181].ProductName
-msgid "濡れた韓服(金蘭)"
+msgid "濡れた韓服(金蘭S7)"
 msgstr ""
 
 #: ShopDesc[17182].NPCDescription

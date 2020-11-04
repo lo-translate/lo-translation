@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -23,6 +23,14 @@ msgstr ""
 #: CharSkin[Skin_3P_Alexandra_1].SkinName
 msgid "調教師アレクサンドラ"
 msgstr "Trainer Alexandra"
+
+#: CharSkin[Skin_3P_Alice_1].SkinDesc
+msgid "夜の女王の招待に応じて共に甘い夢を見に行きませんか？永遠に眠りから覚めないかもしれませんが…"
+msgstr ""
+
+#: CharSkin[Skin_3P_Alice_1].SkinName
+msgid "夜の女王の招待"
+msgstr ""
 
 #  Korean Text: '너무 위험한 메이드를 들이고 말았군요.'
 #: CharSkin[Skin_3P_BlackLilith_1].SkinDesc
@@ -136,10 +144,13 @@ msgid ""
 "ハチコは過去、戦場を駆け巡り目覚ましい活躍を見せていた先代ハチコの遺志を継ぐことにしました。でも…一人じゃこれが限界みたいですね。でも可愛いから良いですよね"
 "？"
 msgstr ""
+"Hachiko has inherited the will of the older Hachikos who could fly above the "
+"battlefield. But this is what comes after our Hachiko tried her best... still "
+"cute, isn't it?"
 
 #: CharSkin[Skin_3P_Hachiko_2].SkinName
 msgid "フライングハチコ"
-msgstr ""
+msgstr "Flying Hachiko"
 
 #: CharSkin[Skin_3P_Rhea_1].SkinDesc
 msgid ""
@@ -659,6 +670,14 @@ msgstr ""
 #: CharSkin[Skin_DS_Atalanta_1].SkinName
 msgid "もう一つの運命のカリスト"
 msgstr "Callisto of Different Fate"
+
+#: CharSkin[Skin_DS_Baekto_1].SkinDesc
+msgid "満月の力がみなぎる赤いマントの白兎が登場しました！ハロウィンの日に暴れ回る魔物たちは覚悟した方がよさそうです！"
+msgstr ""
+
+#: CharSkin[Skin_DS_Baekto_1].SkinName
+msgid "ザ・ビーストスレイヤー白兎"
+msgstr ""
 
 #: CharSkin[Skin_DS_Charlotte_1].SkinDesc
 msgid "豪華な宝石で作られたこの水着はモデルを華やかに見せます。 唯一の短所は宝石が高すぎて小さく作るしかないという点ですね。"

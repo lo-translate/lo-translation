@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-04 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -289,6 +289,26 @@ msgstr "Labiata"
 #: CharCollection[Char_3P_Labiata_N].Char_WeaponDesc2
 msgid "融合炉脱着式プラズマブレード"
 msgstr ""
+
+#: CharCollection[Char_3P_Ran_N].Char_Desc
+msgid ""
+"不肖、金蘭、主様にご挨拶申し上げます。\n"
+"\n"
+"拙はこれまでのバトルメイドシリーズとは異なり、国家からの依頼を受け製作されました。役目としては国家行事の儀仗隊兼警護担当というところでございます。保守的なお"
+"偉方が集まる場での任務が多いため、武装は伝統的な古の武士のものを参考にしてございます。ただ、弓は行事参列者の方々に危険が及ぶ可能性があるとの理由で武装から除"
+"外し、この一振りの環刀だけを残した形となったのでございます。結果、拙のこの外見は高い評価を受けることになり、数多くの儀仗隊の役目を果たしていくことになったの"
+"でございます。\n"
+"\n"
+"しかし、流石に環刀だけでは暗殺やテロに対抗するのも限界がございました。三安産業ではこうした問題を解決するため、拙の五感を極限にまで引き上げる方法を選択したの"
+"でございます。遠方からの狙撃に対しても反応し、対応することができるようにでございます。そのおかげで戦闘力は格段に向上しましたが、過敏な感覚のせいで正常な日常"
+"生活を送ることが難しくなったのでございます。手袋をしているのもそれ故でございます…。それから…その…あっ…。\n"
+"\n"
+"…申し訳ございません。長話は不慣れなものでございまして…本日はこの辺でお暇させていただけませんでしょうか…。"
+msgstr ""
+
+#: CharCollection[Char_3P_Ran_N].Char_Name
+msgid "金蘭S7"
+msgstr "KeumRan S7"
 
 #: CharCollection[Char_3P_Rhea_N].Char_Desc
 msgid ""
