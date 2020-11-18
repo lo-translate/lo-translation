@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -430,6 +430,134 @@ msgstr ""
 #  Korean Text: '할로윈 준비 VI'
 #: MapStage[Ch01Ev4Stage18].StageName
 msgid "ハロウィンの準備Ⅵ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage01].StageDesc
+msgid "年末を迎える司令官は悩みがちです。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage01].StageName
+msgid "セントオルカ？"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage01B].StageDesc
+msgid "レオナは、1年間頑張った司令官の為にプレゼントを用意することにし、ヴァルハラの姉妹たちを送り出す。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage01B].StageName
+msgid "特別な人になって欲しい"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage01Ex].StageDesc
+msgid "プレゼントに使えるものを探そう。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage01Ex].StageName
+msgid "プレゼント探索Ⅰ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage02].StageDesc
+msgid "オルカの情報屋を自称している「先生」の正体は…？"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage02].StageName
+msgid "シークレット・ネットワーク"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage02B].StageDesc
+msgid "レオナはヴァルハラの姉妹たちに特別な指令を出す。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage02B].StageName
+msgid "後方支援はもううんざりよ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage02Ex].StageName
+msgid "プレゼント探索Ⅱ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage03].StageDesc
+msgid "真の教育者たる者、簡単に本音は見せないものです。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage03].StageName
+msgid "このトナカイには悲しい伝説がある"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage03B].StageDesc
+msgid "司令官を追って都市へ入ったヴァルハラの前に現れたのは…"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage03B].StageName
+msgid "砂漠と雪原"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage03Ex].StageName
+msgid "プレゼント探索Ⅲ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage04].StageDesc
+msgid "しかし司令官には温かいだろう…"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage04].StageName
+msgid "禁酒令"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage04B].StageDesc
+msgid "ヴァルハラの姉妹たちは廃墟都市を発見する。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage04B].StageName
+msgid "雪原の果て"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage04Ex].StageName
+msgid "プレゼント探索Ⅳ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage05].StageDesc
+msgid "司令官はオルカを出るホードをこっそり追う。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage05].StageName
+msgid "メタルギアリキュール"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage05Ex].StageName
+msgid "プレゼント探索Ⅴ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage06].StageDesc
+msgid "ドクターの頼みでオルカから出たホード。「サンタクロース」の部品を奪った鉄虫を追う。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage06].StageName
+msgid "エネミー・アット・ザ・エグジット"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage06Ex].StageName
+msgid "プレゼント探索Ⅵ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage07].StageDesc
+msgid "派遣中のヴァルハラの隊員から良い物を見つけた聞き、ホードはショッピングモールへ向かう。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage07].StageName
+msgid "遭遇"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage07Ex].StageName
+msgid "プレゼント探索Ⅶ"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage08].StageDesc
+msgid "帰ってきた司令官からクリスマスパーティーの準備を提案される。"
+msgstr ""
+
+#: MapStage[Ch01Ev5Stage08].StageName
+msgid "仲良し兄妹"
 msgstr ""
 
 #  Korean Text: '오르카는 소완으로 인해 혼란에 빠진다.'
@@ -855,6 +983,130 @@ msgstr ""
 #  Korean Text: '오르카 챌린지 II'
 #: MapStage[Ch02Ev2Stage12].StageName
 msgid "オルカチャレンジⅡ"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01].StageDesc
+msgid "司令官は今日も頑張っています。もっといい評価が得られるでしょうか。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01B].StageDesc
+msgid "ご存知でしたか。空からゴミが降ってくる時もあるということを…"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01B].StageName
+msgid "除雪って楽しいな"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01C].StageDesc
+msgid "<？？のメッセージ>ハッピーチックイヤー！馴染みある奴らとの戦闘シミュレーションだよ！五千年間鍛えてきた彼らに敵うのは誰だ！？"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01C].StageName
+msgid "オルカチャレンジIII"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01S].StageDesc
+msgid "指揮官二人は似た者同士ですが、いつの間にかここまで差が広がりました。どこから間違ったのでしょう…"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage01S].StageName
+msgid "舞台裏で"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02].StageDesc
+msgid "もう100年前に過ぎた流行ですが、彼女たちは気づいていません。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02].StageName
+msgid "ツンデレ注意報"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02B].StageDesc
+msgid "まだ検証されてない事ですが、信じたい姉妹にとってはそれが真実でしょう。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02B].StageName
+msgid "美味しいから大丈夫！"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02C].StageDesc
+msgid "偵察からの鉄虫新種報告を分析して作ったシミュレーションです。実際とは異なるかも知れませんが、備えあれば患いなしです。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02C].StageName
+msgid "オルカチャレンジIV"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02S].StageDesc
+msgid "二日酔いにはやっぱりあったかいものが一番ですよね。食べる間、言えなかったことでも話し合いましょうか。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage02S].StageName
+msgid "言えなかった物語"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage03].StageDesc
+msgid "水の精霊は治癒魔法が使える場合が多いようです。オルカのはどうでしょうか。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage03].StageName
+msgid "痛いの痛いの飛んでけ～"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage03B].StageDesc
+msgid "オルカ七不思議の一つが明かされましたが、意外といえば意外でしたね。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage03B].StageName
+msgid "オルカ七不思議"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage04].StageDesc
+msgid "昏睡状態で運ばれるより、自分の足で歩くほうが良いでしょう。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage04].StageName
+msgid "予想外の旅"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage04B].StageDesc
+msgid "地獄の厨房長はこんな状況下でもまだ余裕あり気な態度です。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage04B].StageName
+msgid "地獄絵図の厨房"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage05].StageDesc
+msgid "クイックキャメルが仲間を制御できればいいのですが…"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage05].StageName
+msgid "グッドナイト"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage06].StageDesc
+msgid "本当は3人でした。…いいえ、4人かも？"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage06].StageName
+msgid "二人きりのロマンチック"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage07].StageDesc
+msgid "思い出を残すときは写真が一番でしょう。特に大事な人たちと一緒だともっと嬉しいです。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage07].StageName
+msgid "友情と思い出"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage08].StageDesc
+msgid "今年一年、お疲れさまでした。来年もよろしくお願いします。"
+msgstr ""
+
+#: MapStage[Ch02Ev5Stage08].StageName
+msgid "セントオルカ"
 msgstr ""
 
 #  Korean Text: '바이오로이드는 새로운 동료를 만들기 위해 나선다.'
@@ -1856,6 +2108,42 @@ msgstr "Efreeti's Tale I"
 #: MapStage[ChCS-04Stage02].StageName
 msgid "イフリート物語II"
 msgstr "Efreeti's Tale II"
+
+#: MapStage[ChCS-05Stage01].StageDesc
+msgid "恥ずかしさは司令官が背負うもの。"
+msgstr ""
+
+#: MapStage[ChCS-05Stage01].StageName
+msgid "魔王様の夢"
+msgstr ""
+
+#: MapStage[ChCS-06Stage01].StageDesc
+msgid "司令官は隊員たちの成長っぷりに遣り甲斐を感じています。"
+msgstr ""
+
+#: MapStage[ChCS-06Stage01].StageName
+msgid "月の魔力の秘められし…"
+msgstr ""
+
+#: MapStage[ChCS-07Stage01].StageName
+msgid "狼とミルク"
+msgstr ""
+
+#: MapStage[ChCS-08Stage01].StageName
+msgid "記憶と贖罪"
+msgstr ""
+
+#: MapStage[ChCS-09Stage01].FixedSquadMember1
+msgid "모든 적 처치"
+msgstr "Eliminate all enemies"
+
+#: MapStage[ChCS-09Stage01].FixedSquadMember4
+msgid "특정 아군 스쿼드의 전멸"
+msgstr "Elimination of a specific squad"
+
+#: MapStage[ChCS-09Stage01].StageDesc
+msgid "ハチコ手伝い大作戦"
+msgstr ""
 
 #  Korean Text: '초급 모의 전투 훈련 스테이지'
 #: MapStage[ChDailyStage01].StageDesc

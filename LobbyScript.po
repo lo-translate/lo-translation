@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -75,6 +75,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Alice].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "何度もそんなことされたら…どんどん我慢できなくなるでしょう？…覚悟はできてますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScript1[1](Affection<100)
+msgid "ご主人様を受け入れる準備はいつでもできています…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScript1[2](Affection<100)
+msgid "もう…どれだけ私を焦らすおつもりなんですか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScript1[3](Affection<100)
+msgid "この世は奪ったり奪われたりの世界です。もちろん私は奪う側です…ふふ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScript2[1](Affection>40)
+msgid "緊張しますか？夢では…あんなに堂々とされていたのに？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScript3[3](Affection>70)
+msgid "夢だけは私以外誰も入れません…。ご主人様と私…二人だけ…ふふふ…何をしましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScript4[2](Affection=100)
+msgid "ふふ…夢でしたこと…覚えていますか？ふふ…誰かに知られたら…はぁ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "んっ…まだ夢の中じゃないのに…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ふふ…早く寝た方がいいと思いますけど…？夢の中なら…これよりもっと素敵なことが、たくさんできるんですよ…？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Aqua].LobbyScript1[1](Affection<100)
@@ -484,6 +516,40 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Labiata].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "もう、そんなに気になりますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScript1[1](Affection<100)
+msgid "ニャハハハハ！ご主人様、さっきあの白い猫がポイに「お姉さん」って呼ばせようとしてきたんですよ。ご主人様を取られると思って怖くなったんですかね～？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScript1[2](Affection<100)
+msgid "ニャハハ、私たちは危険だから廃棄されたわけではありません…。ポイに耐えられる方がいなかっただけです。ご主人様は…どうですかね…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScript1[3](Affection<100)
+msgid "私はこれくらいじゃ満足できませんよ？ですから…もう少しだけ頑張ってください、ご主人様♡"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScript2[1](Affection>40)
+msgid "ここにいる子たちはみんなポイには敵いません。ニャハハッ…戦闘もそうですけど…それ以外の色んなことも…です♡"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScript3[3](Affection>70)
+msgid "もうやめちゃうんですか～？ポイはまだこ～んなに元気ですよ～？あぁ…結局ご主人様も普通の― ミャッ？ニャハハッ！そう来なくっちゃね♡"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScript4[2](Affection=100)
+msgid ""
+"青い薔薇の花言葉、何だか知ってます？ニャハハ、そうです。奇跡です。ポイがご主人様と出会えたのは奇跡です…。そう。ポイは…ご主人様と出会うために生まれたんです"
+"…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ニャハハ…本気ですか？ご主人様が途中でやめてとお願いされても…ポイは止まれませんよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Poi].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "はぁ、はぁ…ご、ご主人様…すごく、すごく…イイです…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Ran].LobbyScript1[1](Affection<100)
@@ -2569,7 +2635,7 @@ msgid "私は司令官ともっと仲良くなりたいです。司令官はど�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sirene].LobbyScriptSp1[1](Affection<100,SpecialTouch)
-msgid "うわっ?!"
+msgid "…っ！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sirene].LobbyScriptSp2[1](Affection=100,SpecialTouch)
@@ -3086,6 +3152,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Baekto].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "…だめです…みんな…こうして堕落した結果、魔女になるのでしょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScript1[1](Affection<100)
+msgid "この服は月の力を増幅させることに特化しています。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScript1[2](Affection<100)
+msgid "最近、邪悪な狼人間が現れたとの噂を聞きました。ジェントルマンは私がお守りします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScript1[3](Affection<100)
+msgid "ポックルのことですか？…今はまだ信頼できません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScript2[1](Affection>40)
+msgid "露出が多いという意見は無視してください。私はこの服のおかげでさらに強くなれたのですから…！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScript3[3](Affection>70)
+msgid "ポックルは…大切な仲間です。彼女を疑っていた自分が…恥ずかしいです…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScript4[2](Affection=100)
+msgid "あ、愛のためなら…何だってできます…！例えば、これよりもっと過激な服を着ることだって…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "悪に屈したのですか！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Baekto_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うぅっ！…この手を払い除けないといけないのに……もう…私も手遅れのようです…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Charlotte].LobbyScript1[1](Affection<100)
@@ -4081,6 +4179,40 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Serpent].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "そうだね～。男ならそのくらいの度胸がないと。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScript1[1](Affection<100)
+msgid "最近体がなまってきたような…あ、そうだ。ここトレーニングルームがあったよね！ちょっと行ってこようかな！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScript1[2](Affection<100)
+msgid "隊長がスパーリングの相手してくれるって？あはは、冗談でしょ？いくらパワフルな隊長でもさすがに…えっ、ロボットスーツを脱げ…？…ず、ずるい！！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScript1[3](Affection<100)
+msgid "ねぇ、知ってる？昔、俺たちのモデルが軌道プラットフォームで星を眺めてたんだってさ！だから……だから…ただそれだけなんだけどね…！？あはは"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScript2[1](Affection>40)
+msgid "運動好きな子たちが結構いるじゃん！スパーリングとまでは言わないけど、いい感じにエンジンがかかってきた！隊長も一緒にやろうよ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScript3[3](Affection>70)
+msgid ""
+"おお！隊長も星が好きなの？…だ、だったら一緒に見に行かない？\n"
+"ほ、本当！？へへっ。星！見に行こう！すぐ行こう！大丈夫！俺が護ってあげるから！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScript4[2](Affection=100)
+msgid "隊長～今日も一緒に遊ぶよね！？この前は俺が先にダウンをしちゃったけど、今度は負けないよ！ 早く隊長の部屋に行こっ！！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ヒュー これ俺のこと挑発してる？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Spartoia].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "くくっ。これがそんなにいいの？わかった。脱ぐからちょっと待って！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Stinger].LobbyScript1[1](Affection<100)

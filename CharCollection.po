@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -288,6 +288,23 @@ msgstr "Labiata"
 #  Korean Text: '융합로 탈착식 플라즈마 양손검'
 #: CharCollection[Char_3P_Labiata_N].Char_WeaponDesc2
 msgid "融合炉脱着式プラズマブレード"
+msgstr ""
+
+#: CharCollection[Char_3P_Poi_N].Char_Desc
+msgid ""
+"うふふ！お待たせしました、ご主人様！コンパニオンシリーズの最高傑作！ポイが参りました！\n"
+"\n"
+"ミャッ？もしかして、ご主人様は私がペロのプロトタイプだったってことが気になってます？ニャハハ！意外と心配性なんですね？ご安心を。そんなことでポイをバカにして"
+"きた子たちは全員、この爪でわからせてきました。\n"
+"\n"
+"あっ、ポイの服がこんなに薄～いのは、軽い身のこなしには自信があるからなんです。\n"
+"\n"
+"あと…体を装甲なんかで補強しない理由はもう一つありまして…、この魅力溢れる体でご主人様の目を喜ばせるためなんですよ♡これからそう遠くない未来、ご主人様はこの"
+"官能的な肉体に自ずと陥落して、身も心も全て…ポイに委ねることになるでしょう…。"
+msgstr ""
+
+#: CharCollection[Char_3P_Poi_N].Char_Name
+msgid "ポイ"
 msgstr ""
 
 #: CharCollection[Char_3P_Ran_N].Char_Desc
@@ -2310,6 +2327,23 @@ msgstr ""
 #: CharCollection[Char_PECS_Serpent_N].Char_Name
 msgid "フロストサーペント"
 msgstr "Frost Serpent"
+
+#: CharCollection[Char_PECS_Spartoia_N].Char_Desc
+msgid ""
+"俺はオービタルウォッチャーの精鋭兵、スパトイアだよ！鉄虫が地球の大気圏外にまで侵攻した場合に備えて製作されたんだ！\n"
+"\n"
+"開発初期から大気圏外での戦闘を想定して設計されてて、頑丈に……え？俺が小さい！？ふん！マスドライバーとロボットスーツに搭乗するように小型で軽量に製造されただ"
+"けなんってば！完全武装した俺の戦闘能力を見ればそんなこと言えないと思うけど？\n"
+"\n"
+"それに俺たちのモデルが全員このロボットスーツに搭乗できたわけじゃないんだぞー。生産されたモデルの中でも、過酷な選抜過程をクリアした一握りのモデルだけがスパト"
+"イアっていう名誉ある名称を授かることができたんだ！つまり、精鋭中の精鋭ってこと！\n"
+"\n"
+"まぁ幸い軌道プラットフォームでの戦闘には投入されたことがないんだけどね！その時まではこの地上で鉄虫たちを、次から次へと殲滅するから！そのつもりで！"
+msgstr ""
+
+#: CharCollection[Char_PECS_Spartoia_N].Char_Name
+msgid "スパトイア"
+msgstr "Spartoia"
 
 #  Korean Text: '브리핑 시작. 본 모델 스팅어는 소행성 및 소행성 파편 파괴용으로 개발됨.\n \n주된 임무는 소행성 방어를 위한 대기 조성 전까지 화성 기지 방어.\n\n오류… 오류… 명령권자 소멸… 치명적인 오류.\n\n정상적인 명령권자가 등장할 때까지 행동 지침에 따라 제 2 행동 시작.\n\n제 2 행동 지침은 인류의 생명을 위협하는 생물 또는 정물이 있을 시 제압 또는 소멸. 제 2 행동 시작… \n\n제 2 행동 완료 시기 - 철충의 멸절.\n'
 #: CharCollection[Char_PECS_Stinger_N].Char_Desc

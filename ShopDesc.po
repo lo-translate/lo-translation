@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2349,6 +2349,78 @@ msgstr ""
 msgid "施設資材30000個"
 msgstr ""
 
+#: ShopDesc[249].NPCDescription
+msgid "ハルピュイア用のUSスタイルビキニスキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[249].ProductName
+msgid "真夏のマイアミ"
+msgstr ""
+
+#: ShopDesc[250].NPCDescription
+msgid "ネレイド用のネリネリの夏スキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[250].ProductName
+msgid "真夏のネリネリ"
+msgstr ""
+
+#: ShopDesc[251].NPCDescription
+msgid "ランバージェーン用のブイキニスキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[251].ProductName
+msgid "真夏の森林浴"
+msgstr ""
+
+#: ShopDesc[252].NPCDescription
+msgid "イムペット用のY型ビキニスキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[252].ProductName
+msgid "真夏の火遊び"
+msgstr ""
+
+#: ShopDesc[253].NPCDescription
+msgid "ブラッディーパンサー用のシースルービキニスキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[253].ProductName
+msgid "真夏の正面突破"
+msgstr ""
+
+#: ShopDesc[254].NPCDescription
+msgid "カリスタ用のビキニ…？スキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[254].ProductName
+msgid "真夏の星"
+msgstr ""
+
+#: ShopDesc[255].NPCDescription
+msgid "サニー用のヨガスーツスキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[255].ProductName
+msgid "真夏のカップルヨガ"
+msgstr ""
+
+#: ShopDesc[256].NPCDescription
+msgid "ユミ用のフリルビキニスキンと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgstr ""
+
+#: ShopDesc[256].ProductName
+msgid "真夏のデート"
+msgstr ""
+
+#: ShopDesc[266].NPCDescription
+msgid "ロビーフリーセットが1枠拡張されます。"
+msgstr ""
+
+#: ShopDesc[266].ProductName
+msgid "ロビーフリーセット拡張"
+msgstr ""
+
 #  Korean Text: '부품 500개를 획득합니다.'
 #: ShopDesc[10001].NPCDescription
 msgid "部品500個を獲得します。"
@@ -4403,6 +4475,34 @@ msgstr "Tyrant"
 msgid "ランバージェーンを迎え入れます。"
 msgstr ""
 
+#: ShopDesc[15125].NPCDescription
+msgid "ブラックワームS9を迎え入れます。"
+msgstr ""
+
+#: ShopDesc[15125].ProductName
+msgid "ブラックワームS9"
+msgstr ""
+
+#: ShopDesc[15126].NPCDescription
+msgid "スノーフェザーを迎え入れます。"
+msgstr ""
+
+#: ShopDesc[15126].ProductName
+msgid "スノーフェザー"
+msgstr "Snow Feather"
+
+#: ShopDesc[15127].ProductName
+msgid "シラユリ"
+msgstr "Shirayuri"
+
+#: ShopDesc[15128].NPCDescription
+msgid "生命のセレスティアを迎え入れます。"
+msgstr ""
+
+#: ShopDesc[15128].ProductName
+msgid "生命のセレスティア"
+msgstr ""
+
 #  Korean Text: '출력을 강화해 공격력을 높입니다.'
 #: ShopDesc[16001].NPCDescription
 msgid "出力を強化し攻撃力を高めます。"
@@ -6100,9 +6200,82 @@ msgstr ""
 msgid "プレートアーマーセット(ヴェロニカ)"
 msgstr ""
 
+#: ShopDesc[17204].NPCDescription
+msgid "のんびりと本を読んでいる風を装ってますが、実は1ページも進んでいません。多分…休暇中の自分をナンパしてくれる男主人公の登場を待っているのしょう。"
+msgstr ""
+
+#: ShopDesc[17204].ProductName
+msgid "USスタイルビキニ(ハルピュイア)"
+msgstr ""
+
+#: ShopDesc[17205].NPCDescription
+msgid "海の妖精にこんな強いアイテムが！？今年の夏、海でネリネリを止められる者はいません！…あれ？ネリが貴方に向けて突撃していますよ？"
+msgstr ""
+
+#: ShopDesc[17205].ProductName
+msgid "ネリネリの夏(ネレイド)"
+msgstr ""
+
+#: ShopDesc[17206].NPCDescription
+msgid ""
+"些末ないざこざはありましたが、ランバージェーンは自分の特技を活かして休む為の木製の床をあっという間に作り上げました。ヤシの葉の下で一緒にキンキンと冷えたビー"
+"ルを飲みましょうか。まぁ誘ってるジェーン本人は一本だけで酔いつぶれるでしょうけど。"
+msgstr ""
+
+#: ShopDesc[17206].ProductName
+msgid "ランバージェーンのブイキニ(ランバージェーン)"
+msgstr ""
+
+#: ShopDesc[17207].NPCDescription
+msgid ""
+"いったい何があったのでしょうか…イムペットは貴方を攫って二人きりの時間を過ごそうとしています。大人しくお縄になるか、逆に分からせるかは貴方次第です。"
+msgstr ""
+
+#: ShopDesc[17207].ProductName
+msgid "イムペットのY型ビキニ(イムペット)"
+msgstr ""
+
+#: ShopDesc[17208].NPCDescription
+msgid ""
+"去年は準備に手間取ってしまったですよね…ブラッディーパンサーは今年の夏だけは逃さないと決めました。やっと手に入れたビキニを堂々と着こなした彼女は、この衣装が"
+"貴方の気に入るだろうと信じてやみません。"
+msgstr ""
+
+#: ShopDesc[17208].ProductName
+msgid "ブラッディーパンサー用のシースルービキニ(ブラッディーパンサー)"
+msgstr ""
+
+#: ShopDesc[17209].NPCDescription
+msgid "やれやれ…カリスタは今年も夏季休暇が来ることを忘れてしまいました。手当たり次第で水着っぽい布を着たようですが…大丈夫なんでしょうか…"
+msgstr ""
+
+#: ShopDesc[17209].ProductName
+msgid "カリスタ用のビキニ…？(カリスタ)"
+msgstr ""
+
+#: ShopDesc[17210].NPCDescription
+msgid ""
+"いつもポジティブなサニーは、自分の柔軟性を活かして、貴方に新鮮な楽しさを与える方法を見つけました。彼女が全てのポーズに馴染むまでは貴方のサポートが必要そうで"
+"すね。"
+msgstr ""
+
+#: ShopDesc[17210].ProductName
+msgid "サニー用のヨガスーツ(アクロバティック・サニー)"
+msgstr ""
+
+#: ShopDesc[17211].NPCDescription
+msgid ""
+"ついに貴方とデートしたいというユミの細やかな夢が叶いました。久しぶりに化粧までしたユミがおどおどと貴方に渡した「司令官としたいこと」リストを是非確認してくだ"
+"さいね！"
+msgstr ""
+
+#: ShopDesc[17211].ProductName
+msgid "ユミ用のフリルビキニ(コネクターユミ)"
+msgstr ""
+
 #: ShopDesc[18001].NPCDescription
 msgid "ツナ缶10個(有償7個+無償3個)が入っています。"
-msgstr ""
+msgstr "Obtain 10 Tuna Cans."
 
 #: ShopDesc[18001].ProductName
 msgid "ツナ缶7+3個"
@@ -6363,6 +6536,38 @@ msgstr ""
 
 #: ShopDesc[21022].ProductName
 msgid "修復工具"
+msgstr ""
+
+#: ShopDesc[21023].NPCDescription
+msgid "妖精の村で通用される貨幣です。イベント交換所で他のものと交換できます。"
+msgstr ""
+
+#: ShopDesc[21023].ProductName
+msgid "世界樹の種"
+msgstr ""
+
+#: ShopDesc[21024].ProductName
+msgid "世界樹の枝"
+msgstr ""
+
+#: ShopDesc[21025].ProductName
+msgid "世界樹の葉"
+msgstr ""
+
+#: ShopDesc[21028].NPCDescription
+msgid "貨物追跡IDチップを使って当IDの貨物が見つけられます。"
+msgstr ""
+
+#: ShopDesc[21028].ProductName
+msgid "貨物追跡IDチップ"
+msgstr ""
+
+#: ShopDesc[21039].NPCDescription
+msgid "ポイを迎え入れます。"
+msgstr ""
+
+#: ShopDesc[21039].ProductName
+msgid "ポイ"
 msgstr ""
 
 #  Korean Text: '보물 상자의 봉인을 해제합니다.'
@@ -6708,4 +6913,16 @@ msgstr ""
 
 #: ShopDesc[99002].ProductName
 msgid "滅亡前の記録箱"
+msgstr ""
+
+#: ShopDesc[99003].NPCDescription
+msgid "戦闘員が使えるスキンの中で一つを獲得できる箱11個です。"
+msgstr ""
+
+#: ShopDesc[99003].ProductName
+msgid "滅亡前の衣服箱10+1"
+msgstr ""
+
+#: ShopDesc[99004].ProductName
+msgid "滅亡前の記録箱10+1"
 msgstr ""

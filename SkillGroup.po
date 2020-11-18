@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -52,6 +52,34 @@ msgstr ""
 msgid "다프네의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_3P_Dryad_N].SkillGroupDesc
+msgid "드리아드의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_DummyA01_N].SkillGroupDesc
+msgid "더미A01의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_DummyA02_N].SkillGroupDesc
+msgid "더미A02의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_DummyP01_N].SkillGroupDesc
+msgid "더미P01의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_DummyP02_N].SkillGroupDesc
+msgid "더미P02의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_DummyT01_N].SkillGroupDesc
+msgid "더미T01의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_Eternity_N].SkillGroupDesc
+msgid "이터니티의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_3P_Fenrir_N].SkillGroupDesc
 msgid "펜리르의 스킬 그룹"
 msgstr ""
@@ -72,6 +100,10 @@ msgstr ""
 msgid "보속의 마리아의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_3P_Poi_N].SkillGroupDesc
+msgid "포이의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_3P_Ran_N].SkillGroupDesc
 msgid "금란 S7의 스킬 그룹"
 msgstr ""
@@ -82,6 +114,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_3P_ScissorsLise_N].SkillGroupDesc
 msgid "시저스 리제의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_3P_SnowFeather_N].SkillGroupDesc
+msgid "스노우 페더의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_3P_Sowan_N].SkillGroupDesc
@@ -128,6 +164,14 @@ msgstr ""
 msgid "기간테스의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_AGS_Goltarion_N].SkillGroupDesc
+msgid "골타리온 XIII세의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_AGS_MrAlfred2_N].SkillGroupDesc
+msgid "Mr 알프레드의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_AGS_Rampart_N].SkillGroupDesc
 msgid "램파트의 스킬 그룹"
 msgstr ""
@@ -164,12 +208,24 @@ msgstr ""
 msgid "타이런트의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_AGS_Watcher_N].SkillGroupDesc
+msgid "와쳐 MQ-20의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_BR_Alvis_N].SkillGroupDesc
 msgid "T-13 알비스의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_BR_ALWraith_N].SkillGroupDesc
+msgid "AL 레이스의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_BR_Amy_N].SkillGroupDesc
 msgid "에이미 레이저의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_BR_Andvari_N].SkillGroupDesc
+msgid "C-33 안드바리의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_BR_AS12TurtleDragon_N].SkillGroupDesc
@@ -246,6 +302,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_BR_HongRyun_N].SkillGroupDesc
 msgid "홍련의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_BR_Hraesvelgr_N].SkillGroupDesc
+msgid "EB-48G 흐레스벨그의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_BR_Impet_N].SkillGroupDesc
@@ -428,6 +488,10 @@ msgstr ""
 msgid "프레스터 요안나의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_DS_KunoichiKaen_N].SkillGroupDesc
+msgid "쿠노이치 카엔의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_DS_KunoichiZero_N].SkillGroupDesc
 msgid "쿠노이치 제로의 스킬 그룹"
 msgstr ""
@@ -508,7 +572,7 @@ msgstr ""
 msgid "경비용 드론의 스킬 그룹"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_DroneM_EV1].SkillGroupDesc
+#: SkillGroup[SkillGroup_MP_DroneM_B08].SkillGroupDesc
 msgid "드론 커스텀의 스킬 그룹"
 msgstr ""
 
@@ -552,12 +616,12 @@ msgstr ""
 msgid "실험체 고블린 I의 스킬 그룹"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_FABigChick_N].SkillGroupDesc
-msgid "챕터 2 몬스터"
+#: SkillGroup[SkillGroup_MP_FABigChick_Challenge1].SkillGroupDesc
+msgid "풀아머 빅 칙의 스킬 그룹"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_FABigChick_SS1].SkillGroupDesc
-msgid "풀아머 빅 칙의 스킬 그룹"
+#: SkillGroup[SkillGroup_MP_FABigChick_N].SkillGroupDesc
+msgid "챕터 2 몬스터"
 msgstr ""
 
 #: SkillGroup[SkillGroup_MP_FABigChickEX_N].SkillGroupDesc
@@ -574,6 +638,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_MP_FallenC_EV1].SkillGroupDesc
 msgid "폴른 커스텀의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_Fortress_N].SkillGroupDesc
+msgid "양산형 포트리스의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_MP_Frostbite_EW].SkillGroupDesc
@@ -610,6 +678,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_MP_HeavyScoutG_TU].SkillGroupDesc
 msgid "헤비 스카우트 G의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_IronPrince_B08].SkillGroupDesc
+msgid "철의 왕자의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_MP_Juggernaut_N].SkillGroupDesc
@@ -656,6 +728,14 @@ msgstr ""
 msgid "개량형 레기온 스나이퍼의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_MP_LemonadeAvatar_Challenge1].SkillGroupDesc
+msgid "레모네이드 아바타의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_LemonadeOmega_N].SkillGroupDesc
+msgid "레모네이드 오메가의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_MP_LightningBomber_EW].SkillGroupDesc
 msgid "라이트닝 봄버의 스킬 그룹"
 msgstr ""
@@ -670,6 +750,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_MP_MammothW_N].SkillGroupDesc
 msgid "한랭지형 매머드의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_MrAlfred_N].SkillGroupDesc
+msgid "Mr 알프레드_이벤트용의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_MP_Nereid_EV1].SkillGroupDesc
@@ -824,7 +908,7 @@ msgstr ""
 msgid "챕터 2 보스 몬스터"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_Predator_EV1].SkillGroupDesc
+#: SkillGroup[SkillGroup_MP_Predator_Challenge3].SkillGroupDesc
 msgid "프레데터의 스킬 그룹"
 msgstr ""
 
@@ -868,7 +952,7 @@ msgstr ""
 msgid "경비용 펍 헤드의 스킬 그룹"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_PuppHeadC_EV1].SkillGroupDesc
+#: SkillGroup[SkillGroup_MP_PuppHeadC_B08].SkillGroupDesc
 msgid "펍 헤드 커스텀의 스킬 그룹"
 msgstr ""
 
@@ -880,8 +964,20 @@ msgstr ""
 msgid "경비용 램파트의 스킬 그룹"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_RampartC_EV1].SkillGroupDesc
+#: SkillGroup[SkillGroup_MP_RampartC_B08].SkillGroupDesc
 msgid "램파트 커스텀의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_Robert_Challenge1].SkillGroupDesc
+msgid "로버트의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_RobertArm_N].SkillGroupDesc
+msgid "로버트 암의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_RobertCore_N].SkillGroupDesc
+msgid "로버트 코어의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_MP_RocC_EV1].SkillGroupDesc
@@ -928,6 +1024,10 @@ msgstr ""
 msgid "AG-2C 세이렌_적의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_MP_Slasher_B08].SkillGroupDesc
+msgid "슬래셔의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_MP_Sparrow_N].SkillGroupDesc
 msgid "몹 스패로우의 스킬 그룹"
 msgstr ""
@@ -960,7 +1060,7 @@ msgstr ""
 msgid "양산형 스팅어의 스킬 그룹"
 msgstr ""
 
-#: SkillGroup[SkillGroup_MP_StingerC_EV1].SkillGroupDesc
+#: SkillGroup[SkillGroup_MP_StingerC_B08].SkillGroupDesc
 msgid "스팅어 커스텀의 스킬 그룹"
 msgstr ""
 
@@ -978,6 +1078,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_MP_TrainingDummy_N].SkillGroupDesc
 msgid "표적 더미의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_MP_Tyrant_Challenge1].SkillGroupDesc
+msgid "타이런트 챌린지의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_MP_UnderWatcher_B05].SkillGroupDesc
@@ -1080,8 +1184,16 @@ msgstr ""
 msgid "포츈의 스킬 그룹"
 msgstr ""
 
+#: SkillGroup[SkillGroup_PECS_HighElven_N].SkillGroupDesc
+msgid "생명의 세레스티아의 스킬 그룹"
+msgstr ""
+
 #: SkillGroup[SkillGroup_PECS_Ignis_N].SkillGroupDesc
 msgid "이그니스의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_PECS_Leanne_N].SkillGroupDesc
+msgid "자비로운 리앤의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_PECS_LRL_N].SkillGroupDesc
@@ -1102,6 +1214,10 @@ msgstr ""
 
 #: SkillGroup[SkillGroup_PECS_PuppHead_N].SkillGroupDesc
 msgid "펍 헤드의 스킬 그룹"
+msgstr ""
+
+#: SkillGroup[SkillGroup_PECS_Sadius_N].SkillGroupDesc
+msgid "징벌의 사디어스의 스킬 그룹"
 msgstr ""
 
 #: SkillGroup[SkillGroup_PECS_Saetti_N].SkillGroupDesc

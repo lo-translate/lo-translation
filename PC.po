@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -129,6 +129,14 @@ msgstr "Labiata"
 #: PC[Char_3P_Maria_N].Name
 msgid "補贖のマリア"
 msgstr "Maria of Redemption"
+
+#: PC[Char_3P_Poi_N].DialogJoin
+msgid "あなたがポイのご主人様？ふ～ん…面白そう♪"
+msgstr ""
+
+#: PC[Char_3P_Poi_N].Name
+msgid "ポイ"
+msgstr ""
 
 #: PC[Char_3P_Ran_N].DialogJoin
 msgid "不肖、金蘭、主様にご挨拶申し上げます。"
@@ -1365,6 +1373,10 @@ msgstr ""
 #: PC[Char_PECS_Serpent_N].Name
 msgid "フロストサーペント"
 msgstr "Frost Serpent"
+
+#: PC[Char_PECS_Spartoia_N].DialogJoin
+msgid "ヤッホー、隊長！俺の邪魔をするやつは全部ぶっ飛ばしちゃうから！"
+msgstr ""
 
 #: PC[Char_PECS_Spartoia_N].Name
 msgid "スパトイア"

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -7613,12 +7613,12 @@ msgstr ""
 
 #  Korean Text: '화이트 쉘과 대등하게 싸울 정도로 큰 철충이 습격해 1:1로 싸웠단 거겠죠?'
 #: DialogScript[DG_Ch02Stage11_2_15].Script
-msgid "ホワイトシェルと互角に戦う程大きな鉄虫が襲撃してきて、&n1:1で戦ったってことかしら？"
+msgid "ホワイトシェルと互角に戦う程大きな鉄虫が襲撃してきて、&n1：1で戦ったってことかしら？"
 msgstr ""
 
 #  Korean Text: '말도 안돼. 화이트 쉘과 1:1로 싸울 철충이라면…&n적어도 중위급 이상의 철충일 텐데… 그런 건 감지되지 않았다고.'
 #: DialogScript[DG_Ch02Stage11_2_16].Script
-msgid "そんなはずが。ホワイトシェルと1:1で戦える鉄虫だなんて…&n少なくとも中尉級以上の鉄虫でしょうけど…&n通信には何も感知されていない。"
+msgid "そんなはずが。ホワイトシェルと1：1で戦える鉄虫だなんて…&n少なくとも中尉級以上の鉄虫でしょうけど…&n通信には何も感知されていない。"
 msgstr ""
 
 #  Korean Text: '일단 흔적을 쫓아가 보자. &n코코를 찾으면 어떻게 된 일인지 확실히 알게 될 테니.'
@@ -21398,7 +21398,7 @@ msgid "またお力を貸してもらいたいのですが…よろしいです�
 msgstr ""
 
 #: DialogScript[DG_Ch06Stage06_2_24].SelectionIndex[1]
-msgid "何だ…。"
+msgid "そうだ。"
 msgstr ""
 
 #  Korean Text: '애덤 주… 존스 씨의 비밀 연구소 근처에 작은 은신처가 있어요.&n일단은 저만 아는 장소이긴 해요. 제가 오랫동안 지냈던 곳이기도 하고요.'

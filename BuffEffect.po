@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -39,7 +39,7 @@ msgstr "Decisive Strike: Damage +{0}%"
 
 #  Generated Partial Match; Korean Text: '전하 방출 : 공격력+{0}%'
 #: BuffEffect[Effect_3P_Alexandra_CH_3].BuffEffectType1_Desc
-msgid "電荷放出:攻撃力+{0}%"
+msgid "電荷放出：攻撃力+{0}%"
 msgstr "Charge Release: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '전하 방출 : 치명타+{0}%'
@@ -90,7 +90,7 @@ msgstr "Electric Charge: Action Speed +{0}%"
 
 #  Generated Partial Match; Korean Text: '전하 집속 : 전하 방출 상태로 변신'
 #: BuffEffect[Effect_3P_Alexandra_N_3].BuffEffectType4_Desc
-msgid "電荷集束:電荷放出状態に変身"
+msgid "電荷集束：電荷放出状態に変身"
 msgstr "Electric Charge: Entered Electric Emission state"
 
 #  Generated Partial Match; Korean Text: '전기장 자극 : 회피+{0}%'
@@ -664,22 +664,22 @@ msgstr "Sadistic Nature: Counter with {0}% of Attack"
 
 #  Korean Text: '가학성향 : 공격력+{0}% (적 처치)'
 #: BuffEffect[Effect_3P_BlackLilith_N_4].BuffEffectType2_Desc
-msgid "サディズム:攻撃力+{0}%(敵撃破時)"
+msgid "サディズム：攻撃力+{0}%(敵撃破時)"
 msgstr "Sadistic Nature: Attack +{0}% (On kill)"
 
 #  Korean Text: '가학성향 : 치명타+{0}% (적 처치)'
 #: BuffEffect[Effect_3P_BlackLilith_N_4].BuffEffectType3_Desc
-msgid "サディズム:クリティカル率+{0}%(敵撃破時)"
+msgid "サディズム：クリティカル率+{0}%(敵撃破時)"
 msgstr "Sadistic Nature: Crit Chance +{0}% (On kill)"
 
 #  Korean Text: '리벤져 : 공격력+{0}% (아군 처치됨)'
 #: BuffEffect[Effect_3P_BlackLilith_N_4].BuffEffectType4_Desc
-msgid "リベンジャー:攻撃力+{0}%(味方撃破時)"
+msgid "リベンジャー：攻撃力+{0}%(味方撃破時)"
 msgstr "Revengeance: Attack +{0}% (On ally death)"
 
 #  Korean Text: '리벤져 : 치명타+{0}% (아군 처치됨)'
 #: BuffEffect[Effect_3P_BlackLilith_N_4].BuffEffectType5_Desc
-msgid "リベンジャー:クリティカル率+{0}%(味方撃破時)"
+msgid "リベンジャー：クリティカル率+{0}%(味方撃破時)"
 msgstr "Revengeance: Crit Chance +{0}% (On ally death)"
 
 #  Korean Text: '가학성향 : 적 처치 또는 아군 사망 시 공격력 / 치명타 증가'
@@ -971,7 +971,7 @@ msgstr "Invulnerable Shield"
 
 #  Generated Partial Match; Korean Text: '사냥감 처치 : 공격력+{0}%'
 #: BuffEffect[Effect_3P_ConstantiaS2_N_13].BuffEffectType1_Desc
-msgid "獲物の処置:攻撃力+{0}%"
+msgid "獲物の処置：攻撃力+{0}%"
 msgstr "獲物の処置: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '사냥감 처치 : 적중+{0}%'
@@ -1761,6 +1761,112 @@ msgstr "形状記憶スカート: Shield"
 #: BuffEffect[Effect_3P_Maria_N_15].Name
 msgid "準備物の確認：スキル使用不可"
 msgstr "準備物の確認: Cannot use Skill"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_1].BuffEffectType1_Desc
+msgid "単分子クロープロト：バリア/ダメージ減少無視"
+msgstr "単分子クロープロト: Ignore Shields / Damage Reduction"
+
+#: BuffEffect[Effect_3P_Poi_N_1].BuffEffectType2_Desc
+msgid "単分子クロープロト：ダメージ量+{0}％(過興奮)"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_1].Name
+msgid "単分子クロープロト：バリア/ダメージ減少無視、「過興奮」状態の場合、追加ダメージ"
+msgstr "単分子クロープロト: Shield / ダメージ減少無視、「過興奮」状態の場合、追加ダメージ"
+
+#: BuffEffect[Effect_3P_Poi_N_2].BuffEffectType1_Desc
+msgid "無慈悲な猫：命中率{0}％"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_2].BuffEffectType2_Desc
+msgid "無慈悲な猫：防御力{0}％"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_2].Name
+msgid "無慈悲な猫：保護無視、命中率/防御力減少"
+msgstr "無慈悲な猫: 保護無視、命中率 / Defense Reduction"
+
+#: BuffEffect[Effect_3P_Poi_N_3].BuffEffectType1_Desc
+msgid "過興奮状態：過興奮"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_3].BuffEffectType2_Desc
+msgid "過興奮状態：興奮調節"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_3].BuffEffectType3_Desc
+msgid "過興奮状態：ドキドキ"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_3].BuffEffectType4_Desc
+msgid "過興奮状態：攻撃力+{0}％"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_3].BuffEffectType5_Desc
+msgid "過興奮状態：防御貫通+{0}％(過興奮)"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_3].Name
+msgid "過興奮状態：過興奮バフ発生(被撃時解除)、2回待機で過興奮バフ再発生、攻撃力増加、防御貫通"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_4].BuffEffectType1_Desc
+msgid "獲物捕捉：行動力+{0}％"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_4].BuffEffectType2_Desc
+msgid "獲物捕捉：行動力+{0}％(過興奮)"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_4].Name
+msgid "獲物捕捉：自分の行動力増加、「過興奮」状態の場合、行動力追加増加"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_5].BuffEffectType1_Desc
+msgid "9つの命：攻撃支援(軽装型保護機＆コンパニオン)"
+msgstr "9つの命: Follow-up Attack (軽装型保護機＆コンパニオン)"
+
+#: BuffEffect[Effect_3P_Poi_N_5].BuffEffectType2_Desc
+msgid "9つの命：回避率+{0}％"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_5].BuffEffectType3_Desc
+msgid "9つの命：回避率+{0}％(興奮調節)"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_5].Name
+msgid "9つの命：軽装型保護機/コンパニオン所属の味方支援攻撃、自分の回避率増加、過興奮時回避率追加増加"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_33].BuffEffectType1_Desc
+msgid "過興奮状態：ドキドキドキ"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_36].BuffEffectType1_Desc
+msgid "過興奮状態：過興奮除去"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_37].BuffEffectType1_Desc
+msgid "過興奮状態：興奮調節除去"
+msgstr ""
+
+#: BuffEffect[Effect_3P_Poi_N_38].BuffEffectType1_Desc
+msgid "過興奮状態：ドキドキ除去"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_51].BuffEffectType1_Desc
+msgid "9つの命：攻撃支援(軽装型保護機)"
+msgstr "9つの命: Follow-up Attack (軽装型保護機)"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_52].BuffEffectType1_Desc
+msgid "9つの命：攻撃支援(コンパニオン)"
+msgstr "9つの命: Follow-up Attack (コンパニオン)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].BuffEffectType1_Desc
@@ -3194,6 +3300,26 @@ msgstr ""
 msgid "拠点防御モード：AP減少"
 msgstr "拠点防御モード: AP Down"
 
+#  Generated Partial Match; Korean Text: '세뇌의 파동 : 공격력+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_34].BuffEffectType1_Desc
+msgid "洗脳の波動：攻撃力+{0}%"
+msgstr "洗脳の波動: Attack +{0}%"
+
+#  Generated Partial Match; Korean Text: '세뇌의 파동 : 치명타+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_35].BuffEffectType1_Desc
+msgid "洗脳の波動：クリティカル率+{0}%"
+msgstr "洗脳の波動: Critical Hit Rate +{0}%"
+
+#  Generated Partial Match; Korean Text: '세뇌의 파동 : 적중+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_36].BuffEffectType1_Desc
+msgid "洗脳の波動：命中率+{0}%"
+msgstr "洗脳の波動: Accuracy +{0}%"
+
+#  Generated Partial Match; Korean Text: '세뇌의 파동 : 방어 관통+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_37].BuffEffectType1_Desc
+msgid "洗脳の波動：防御貫通+{0}%"
+msgstr "洗脳の波動: Defense Penetration +{0}%"
+
 #  Korean Text: '목표 견제 : 공격력 {0}%'
 #: BuffEffect[Effect_AGS_Rampart_N_1].BuffEffectType1_Desc
 msgid "目標牽制：攻撃力{0}%"
@@ -3423,7 +3549,7 @@ msgstr "エネルギーコンバート: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '에너지 컨버트 : 치명타+{0}%'
 #: BuffEffect[Effect_AGS_Roc_N_4].BuffEffectType3_Desc
-msgid "エネルギーコンバート:クリティカル率+{0}%"
+msgid "エネルギーコンバート：クリティカル率+{0}%"
 msgstr "エネルギーコンバート: Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '에너지 컨버트 : 회피+{0}%'
@@ -4576,7 +4702,7 @@ msgstr "Armor Deployment: Resist Electric +{0}%"
 
 #  Korean Text: '장갑 전개 : 효과 저항+{0}%'
 #: BuffEffect[Effect_BR_BloodyPanther_CH_11].BuffEffectType4_Desc
-msgid "装甲展開:状態異常耐性+{0}%"
+msgid "装甲展開：状態異常耐性+{0}%"
 msgstr "Armor Deployment: Resist Effects +{0}%"
 
 #  Generated Partial Match; Korean Text: '특수 코팅 장갑 : 방어력 / 속성 / 효과 저항 증가'
@@ -6241,7 +6367,7 @@ msgid "鋭い斬撃：標的/受けるダメージ増加"
 msgstr "鋭い斬撃: Mark / 受けるダメージ増加"
 
 #: BuffEffect[Effect_BR_InvDragon_N_2].BuffEffectType1_Desc
-msgid "号令:AP+{0}"
+msgid "号令：AP+{0}"
 msgstr ""
 
 #  Generated Partial Match
@@ -7334,7 +7460,7 @@ msgstr "頭上に撃つ: Attack +{0}% (Self)"
 
 #  Generated Partial Match; Korean Text: '머리 위로 쏘기 : 적중+{0}% (자신)'
 #: BuffEffect[Effect_BR_Miho_N_4].BuffEffectType5_Desc
-msgid "頭上に撃つ:命中率+{0}%"
+msgid "頭上に撃つ：命中率+{0}%"
 msgstr "頭上に撃つ: Accuracy +{0}%"
 
 #  Generated Partial Match; Korean Text: '머리 숙여! : 전방의 보호기 방어력 / 회피 / 행동력 증가'
@@ -7351,11 +7477,6 @@ msgstr "Potential Support: Increases AP Defender in Front"
 #: BuffEffect[Effect_BR_Miho_N_12].BuffEffectType1_Desc
 msgid "頭上に撃つ：攻撃力+{0}%"
 msgstr "頭上に撃つ: Attack +{0}%"
-
-#  Generated Partial Match; Korean Text: '머리 위로 쏘기 : 적중+{0}%'
-#: BuffEffect[Effect_BR_Miho_N_12].BuffEffectType2_Desc
-msgid "頭上に撃つ：命中率+{0}%"
-msgstr "頭上に撃つ: Accuracy +{0}%"
 
 #  Generated Partial Match; Korean Text: '머리 숙여! : 보호 받는 상태면 공격력 / 적중 증가'
 #: BuffEffect[Effect_BR_Miho_N_12].Name
@@ -7931,7 +8052,7 @@ msgid "先制爆撃：AP増加"
 msgstr "先制爆撃: AP Up"
 
 #: BuffEffect[Effect_BR_PA00EL_N_13].BuffEffectType1_Desc
-msgid "연계폭격:공격지원(21스쿼드)"
+msgid "연계폭격：공격지원(21스쿼드)"
 msgstr ""
 
 #  Generated Partial Match
@@ -9208,12 +9329,12 @@ msgstr "諜報展開: Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '첩보망 구축 : 적중+{0}%'
 #: BuffEffect[Effect_BR_Shirayuri_N_3].BuffEffectType3_Desc
-msgid "諜報展開:命中率+{0}%"
+msgid "諜報展開：命中率+{0}%"
 msgstr "諜報展開: Accuracy +{0}%"
 
 #  Generated Partial Match; Korean Text: '잠입 : 회피+{0}%'
 #: BuffEffect[Effect_BR_Shirayuri_N_3].BuffEffectType4_Desc
-msgid "潜入:回避率+{0}%"
+msgid "潜入：回避率+{0}%"
 msgstr "潜入: Evasion +{0}%"
 
 #  Korean Text: '첩보망 구축 : 정찰 활성화'
@@ -9238,12 +9359,12 @@ msgstr "諜報共有: Accuracy +{0}% (偵察有効化時)"
 
 #  Generated Partial Match; Korean Text: '첩보망 공유 : 회피+{0}% (정찰 활성화 시)'
 #: BuffEffect[Effect_BR_Shirayuri_N_4].BuffEffectType3_Desc
-msgid "諜報共有:回避率+{0}%(偵察有効化時)"
+msgid "諜報共有：回避率+{0}%(偵察有効化時)"
 msgstr "諜報共有: Evasion +{0}% (偵察有効化時)"
 
 #  Generated Partial Match; Korean Text: '첩보 지원 : 공격 지원 (정찰 활성화 대상)'
 #: BuffEffect[Effect_BR_Shirayuri_N_4].BuffEffectType4_Desc
-msgid "諜報支援:攻撃支援(偵察有効化対象)"
+msgid "諜報支援：攻撃支援(偵察有効化対象)"
 msgstr "諜報支援: Follow-up Attack (偵察有効化対象)"
 
 #  Generated Partial Match; Korean Text: '첩보망 공유 : 행동력 증가 / 정찰 활성화 대상 공격 지원'
@@ -9263,7 +9384,7 @@ msgstr "回避率パターン共有: Evasion {0}%"
 
 #  Korean Text: '속성 정보 공유 : 속성 저항 {0}%'
 #: BuffEffect[Effect_BR_Shirayuri_N_5].BuffEffectType3_Desc
-msgid "属性情報共有:属性耐性{0}%"
+msgid "属性情報共有：属性耐性{0}%"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '약점 정보 공유 : 받는 피해+{0}%'
@@ -11453,7 +11574,7 @@ msgstr ""
 
 #  Korean Text: '아쿠아 모듈 : 공격력+{0}% (침수 시)'
 #: BuffEffect[Effect_BUFF_AquaModule_N_1].BuffEffectType1_Desc
-msgid "アクアモジュール:攻撃力+{0}%(浸水時)"
+msgid "アクアモジュール：攻撃力+{0}%(浸水時)"
 msgstr "Aqua Module: Attack +{0} (when wet)"
 
 #  Korean Text: '아쿠아 모듈 : 방어력+{0}% (침수 시)'
@@ -18077,26 +18198,6 @@ msgstr ""
 msgid "クリムゾンエクスキューション：クリティカル時、強化効果解除/追加火炎ダメージ"
 msgstr ""
 
-#  Generated Partial Match; Korean Text: '세뇌의 파동 : 공격력+{0}%'
-#: BuffEffect[Effect_DS_Faucre_N_3].BuffEffectType1_Desc
-msgid "洗脳の波動：攻撃力+{0}%"
-msgstr "洗脳の波動: Attack +{0}%"
-
-#  Generated Partial Match; Korean Text: '세뇌의 파동 : 적중+{0}%'
-#: BuffEffect[Effect_DS_Faucre_N_3].BuffEffectType2_Desc
-msgid "洗脳の波動：命中率+{0}%"
-msgstr "洗脳の波動: Accuracy +{0}%"
-
-#  Generated Partial Match; Korean Text: '세뇌의 파동 : 치명타+{0}%'
-#: BuffEffect[Effect_DS_Faucre_N_3].BuffEffectType3_Desc
-msgid "洗脳の波動：クリティカル率+{0}%"
-msgstr "洗脳の波動: Critical Hit Rate +{0}%"
-
-#  Generated Partial Match; Korean Text: '세뇌의 파동 : 방어 관통+{0}%'
-#: BuffEffect[Effect_DS_Faucre_N_3].BuffEffectType4_Desc
-msgid "洗脳の波動：防御貫通+{0}%"
-msgstr "洗脳の波動: Defense Penetration +{0}%"
-
 #  Generated Partial Match; Korean Text: '세뇌의 파동 : {0} 지속 피해 (대기 시)'
 #: BuffEffect[Effect_DS_Faucre_N_3].BuffEffectType5_Desc
 msgid "洗脳の波動：固定ダメージ{0}(待機時)"
@@ -19741,93 +19842,93 @@ msgstr "Update Evasion OS: Evasion +{0}%"
 msgid "対応OS更新：{0}%威力で反撃"
 msgstr "Update Reactive OS: Counterattack with {0}% damage"
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_1].Name
-msgid "チックマシンキャノン"
-msgstr ""
-
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_2].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_2].BuffEffectType1_Desc
 msgid "怒りのチックファイナルアタック：ダメージ量+{0}%"
 msgstr "怒りのチックファイナルアタック: Damage +{0}%"
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_2].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_2].Name
 msgid "チックファイナルアタック"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_3].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_3].BuffEffectType1_Desc
 msgid "復讐心：攻撃力+{0}%"
 msgstr "復讐心: Attack +{0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_3].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_3].BuffEffectType2_Desc
 msgid "復讐心：防御力+{0}%"
 msgstr "復讐心: Defense +{0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_3].BuffEffectType3_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_3].BuffEffectType3_Desc
 msgid "復讐心：命中率+{0}%"
 msgstr "復讐心: Accuracy +{0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_3].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_3].Name
 msgid "過酷な鞭：攻撃力/防御力/命中率増加"
 msgstr "過酷な鞭: Attack / Defense / Accuracy Up"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_4].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_4].BuffEffectType1_Desc
 msgid "指揮集中：状態異常耐性+{0}%"
 msgstr "指揮集中: Resist Effects +{0}%"
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_4].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_4].Name
 msgid "指揮集中：有害な状態異常耐性増加"
 msgstr ""
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_5].BuffEffectType1_Desc
-msgid "攻撃命令"
-msgstr ""
-
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_31].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_31].BuffEffectType1_Desc
 msgid "攻撃命令下達"
 msgstr ""
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_31].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_31].Name
 msgid "落伍者"
 msgstr ""
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_32].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_32].BuffEffectType1_Desc
 msgid "落伍者発生"
 msgstr ""
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_33].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_33].BuffEffectType1_Desc
 msgid "湧き上がる怒り"
 msgstr ""
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_34].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_34].Name
 msgid "チックの復讐(チックの死除去)"
 msgstr ""
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_35].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_35].BuffEffectType1_Desc
 msgid "消えた怒り：復讐心解除"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_35].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_35].BuffEffectType2_Desc
 msgid "消えた怒り：攻撃力{0}%"
 msgstr "消えた怒り: Attack {0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_35].BuffEffectType3_Desc
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_35].BuffEffectType3_Desc
 msgid "消えた怒り：防御力{0}%"
 msgstr "消えた怒り: Defense {0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_35].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_35].Name
 msgid "消えた怒り：攻撃力/防御力減少"
 msgstr "消えた怒り: Attack / Defense Reduction"
 
-#: BuffEffect[Effect_MP_EmperorChickSpCH_N_36].Name
+#: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_36].Name
 msgid "敵軍死亡デバフ時、味方の死亡バフ解除"
+msgstr ""
+
+#: BuffEffect[Effect_MP_EmperorChickSpCH_N_1].Name
+msgid "チックマシンキャノン"
+msgstr ""
+
+#: BuffEffect[Effect_MP_EmperorChickSpCH_N_5].BuffEffectType1_Desc
+msgid "攻撃命令"
 msgstr ""
 
 #  Generated Partial Match
@@ -22068,7 +22169,7 @@ msgstr ""
 
 #  Generated Partial Match; Korean Text: '덤벼덤벼덤벼! : 효과 저항+{0}%'
 #: BuffEffect[Effect_MP_Nereid_EV1_3].BuffEffectType3_Desc
-msgid "どんどんどんどんかかってこい！:状態異常耐性+{0}%"
+msgid "どんどんどんどんかかってこい！：状態異常耐性+{0}%"
 msgstr "どんどんどんどんかかってこい！: Resist Effects +{0}%"
 
 #  Generated Partial Match; Korean Text: '전투 과몰입 : {0}HP로 전투 속행'
@@ -25690,8 +25791,8 @@ msgstr "緊急支援要請: Action Speed +{0}% (Attacker)"
 
 #  Generated Partial Match; Korean Text: '긴급 지원 요청 : AP+{0} (공격기)'
 #: BuffEffect[Effect_MP_RampartC_N_4].BuffEffectType3_Desc
-msgid "緊急支援要請:AP+{0}(攻撃機)"
-msgstr "緊急支援要請:AP+{0} (Attacker)"
+msgid "緊急支援要請：AP+{0}(攻撃機)"
+msgstr "緊急支援要請: AP+{0} (Attacker)"
 
 #  Generated Partial Match; Korean Text: '긴급 지원 요청 : 아군 공격기 AP / 공격력 / 행동력 증가'
 #: BuffEffect[Effect_MP_RampartC_N_4].Name
@@ -25743,224 +25844,224 @@ msgid "攻撃支援：攻撃支援/再攻撃解除"
 msgstr "Follow-up Attack: 攻撃支援 / 再攻撃解除"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_1].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_1].BuffEffectType1_Desc
 msgid "弱点分析：受けるダメージ+{0}%"
 msgstr "弱点分析: Damage Taken +{0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_1].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_1].BuffEffectType2_Desc
 msgid "弱点分析：行動力{0}%"
 msgstr "弱点分析: Action Speed {0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_1].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_1].Name
 msgid "弱点分析：受けるダメージ増加/行動力減少"
 msgstr "弱点分析: 受けるダメージ増加 / Reduced Action Speed"
 
-#: BuffEffect[Effect_MP_Robert_N_2].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_2].BuffEffectType1_Desc
 msgid "分析完了：活用：行動不能"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_2].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_2].BuffEffectType2_Desc
 msgid "分析完了：活用：AP{0}"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_2].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_2].Name
 msgid "分析完了：活用：一定確率で行動不能/自分に攻・防・命・クリ・行・回のデバフが適用されている場合、対象に同デバフを適用"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_3].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_3].BuffEffectType1_Desc
 msgid "進化の揺り籠：攻撃力+{0}%"
 msgstr "進化の揺り籠: Attack +{0}%"
 
-#: BuffEffect[Effect_MP_Robert_N_3].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_3].BuffEffectType2_Desc
 msgid "進化の揺り籠：命中+{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_3].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_3].Name
 msgid "進化の揺り籠：味方の攻撃力/命中増加。自分に防御力増加/バリア付与"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_4].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_4].BuffEffectType1_Desc
 msgid "演算エラー"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_4].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_4].Name
 msgid "高速演算：演算エラー"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_5].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_5].BuffEffectType1_Desc
 msgid "弱点克服：攻撃力+{0}%"
 msgstr "弱点克服: Attack +{0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_5].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_5].Name
 msgid "弱点克服：攻撃力増加"
 msgstr "弱点克服: Attack Up"
 
-#: BuffEffect[Effect_MP_Robert_N_12].BuffEffectType3_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_12].BuffEffectType3_Desc
 msgid "弱点分析：AP{0}"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_12].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_12].Name
 msgid "弱点分析：受けるダメージ増加。行動力/AP減少"
 msgstr "弱点分析: 受けるダメージ増加。行動力 / AP Down"
 
-#: BuffEffect[Effect_MP_Robert_N_21].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_21].Name
 msgid "分析完了：活用：行動不能(確率増加)"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_22].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_22].BuffEffectType1_Desc
 msgid "分析完了：活用：攻撃力{0}%"
 msgstr "分析完了: 活用: Attack {0}%"
 
-#: BuffEffect[Effect_MP_Robert_N_22].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_22].Name
 msgid "分析完了：活用：攻撃力減少チェック"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_23].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_23].BuffEffectType1_Desc
 msgid "分析完了：活用：防御力{0}%"
 msgstr "分析完了: 活用: Defense {0}%"
 
-#: BuffEffect[Effect_MP_Robert_N_23].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_23].Name
 msgid "分析完了：活用：防御力減少チェック"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_24].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_24].BuffEffectType1_Desc
 msgid "分析完了：活用：命中{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_24].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_24].Name
 msgid "分析完了：活用：命中減少チェック"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_25].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_25].BuffEffectType1_Desc
 msgid "分析完了：活用：クリティカル{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_25].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_25].Name
 msgid "分析完了：活用：クリティカル減少チェック"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_26].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_26].BuffEffectType1_Desc
 msgid "分析完了：活用：行動力{0}%"
 msgstr "分析完了: 活用: Action Speed {0}%"
 
-#: BuffEffect[Effect_MP_Robert_N_26].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_26].Name
 msgid "分析完了：活用：行動力減少チェック"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_27].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_27].BuffEffectType1_Desc
 msgid "分析完了：活用：回避{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_27].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_27].Name
 msgid "分析完了：活用：回避減少チェック"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_28].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_28].BuffEffectType1_Desc
 msgid "弱点分析解除"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_28].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_28].Name
 msgid "高速演算解除"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_36].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_36].BuffEffectType1_Desc
 msgid "高速演算：行動力+{0}%"
 msgstr "高速演算: Action Speed +{0}%"
 
-#: BuffEffect[Effect_MP_Robert_N_36].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_36].Name
 msgid "高速演算：味方の行動力増加"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_38].Name
-msgid "連結破損：増加装甲解除"
-msgstr ""
-
-#: BuffEffect[Effect_MP_Robert_N_41].BuffEffectType1_Desc
-msgid "弱点分析"
-msgstr ""
-
-#: BuffEffect[Effect_MP_Robert_N_41].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_38].Name
 msgid "高速演算：高速演算"
 msgstr ""
 
+#: BuffEffect[Effect_MP_Robert_Challenge1_41].BuffEffectType1_Desc
+msgid "弱点分析"
+msgstr ""
+
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_47].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_47].BuffEffectType1_Desc
 msgid "進化の揺り籠：防御力+{0}%"
 msgstr "進化の揺り籠: Defense +{0}%"
 
-#: BuffEffect[Effect_MP_Robert_N_47].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_47].BuffEffectType2_Desc
 msgid "進化の揺り籠：バリア+{0}%"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_51].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_51].BuffEffectType1_Desc
 msgid "弱点克服：防御力+{0}%"
 msgstr "弱点克服: Defense +{0}%"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_51].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_51].Name
 msgid "弱点克服：防御力増加"
 msgstr "弱点克服: Defense Up"
 
-#: BuffEffect[Effect_MP_Robert_N_52].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_52].BuffEffectType1_Desc
 msgid "弱点克服：命中+{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_52].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_52].Name
 msgid "弱点克服：命中増加"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_53].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_53].BuffEffectType1_Desc
 msgid "弱点克服：クリティカル+{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_53].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_53].Name
 msgid "弱点克服：クリティカル増加"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_54].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_54].BuffEffectType1_Desc
 msgid "弱点克服：高ドル力+{0}%"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_54].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_54].Name
 msgid "弱点克服：行動力増加"
 msgstr "弱点克服: Action Speed Up"
 
-#: BuffEffect[Effect_MP_Robert_N_55].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_55].BuffEffectType1_Desc
 msgid "弱点克服：回避+{0}%"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_55].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_55].Name
 msgid "弱点克服：回避増加"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_56].BuffEffectType4_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_56].BuffEffectType4_Desc
 msgid "演算エラー：行動不能"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_56].BuffEffectType5_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_56].BuffEffectType5_Desc
 msgid "演算エラー：強化効果解除"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Robert_N_56].Name
+#: BuffEffect[Effect_MP_Robert_Challenge1_56].Name
 msgid "高速演算：行動不能"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Robert_N_58].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Robert_Challenge1_58].BuffEffectType1_Desc
 msgid "弱点分析(最大)"
 msgstr "弱点分析 (Max)"
+
+#: BuffEffect[Effect_MP_Robert_N_38].Name
+msgid "連結破損：増加装甲解除"
+msgstr ""
 
 #  Generated Partial Match
 #: BuffEffect[Effect_MP_RobertArm_N_1].BuffEffectType1_Desc
@@ -27074,7 +27175,7 @@ msgstr "戦闘バターン分析: Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '전투 패턴 분석: 효과 저항+{0}%'
 #: BuffEffect[Effect_MP_SpectorMS_EW_14].BuffEffectType1_Desc
-msgid "戦闘バターン分析:状態異常耐性+{0}%"
+msgid "戦闘バターン分析：状態異常耐性+{0}%"
 msgstr "戦闘バターン分析: Resist Effects +{0}%"
 
 #  Korean Text: '물질 역장 해제 :  피해 무효 해제'
@@ -27670,54 +27771,54 @@ msgstr ""
 msgid "初期化：有害な効果解除"
 msgstr "Initialization: Remove Harmful Effects"
 
-#: BuffEffect[Effect_MP_Tyrant_N_3].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_3].BuffEffectType1_Desc
 msgid "獲物探索：獲物探索(重装型)"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Tyrant_N_3].Name
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_3].Name
 msgid "獲物探索：獲物探索"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Tyrant_N_15].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_15].BuffEffectType1_Desc
 msgid "捕食者：<捕食者>(最大)"
 msgstr "捕食者: <捕食者> (Max)"
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Tyrant_N_15].Name
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_15].Name
 msgid "タイラントバイト：<捕食者>(最大)"
 msgstr "タイラントバイト: <捕食者> (Max)"
 
-#: BuffEffect[Effect_MP_Tyrant_N_31].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_31].BuffEffectType1_Desc
 msgid "獲物探索：獲物探索(軽装型)"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Tyrant_N_32].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_32].BuffEffectType1_Desc
 msgid "獲物探索：獲物探索(機動型)"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Tyrant_N_33].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_33].BuffEffectType1_Desc
 msgid "獲物探索"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Tyrant_N_33].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_33].BuffEffectType2_Desc
 msgid "獲物探索(重装型)"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Tyrant_N_34].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_34].BuffEffectType2_Desc
 msgid "獲物探索(軽装型)"
 msgstr ""
 
-#: BuffEffect[Effect_MP_Tyrant_N_35].BuffEffectType2_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_35].BuffEffectType2_Desc
 msgid "獲物探索(機動型)"
 msgstr ""
 
 #  Generated Partial Match
-#: BuffEffect[Effect_MP_Tyrant_N_36].BuffEffectType1_Desc
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_36].BuffEffectType1_Desc
 msgid "獲物独り占め：攻撃力+{0}%"
 msgstr "獲物独り占め: Attack +{0}%"
 
-#: BuffEffect[Effect_MP_Tyrant_N_36].Name
+#: BuffEffect[Effect_MP_Tyrant_Challenge1_36].Name
 msgid "獲物探索：獲物独り占め"
 msgstr ""
 
@@ -28249,7 +28350,7 @@ msgstr "右方旋回???: Protect Target"
 
 #  Generated Partial Match; Korean Text: '우향선회??? : 공격 지원'
 #: BuffEffect[Effect_MP_Undine_EV3_3].BuffEffectType2_Desc
-msgid "右方旋回???:攻撃支援"
+msgid "右方旋回???：攻撃支援"
 msgstr "右方旋回???: Follow-up Attack"
 
 #  Korean Text: '우향선회??? : 회피 증가 해제'
@@ -28294,7 +28395,7 @@ msgstr "右方旋回!?: Protect Target"
 
 #  Generated Partial Match; Korean Text: '우향선회?! : 공격 지원'
 #: BuffEffect[Effect_MP_Undine_EV4_3].BuffEffectType2_Desc
-msgid "右方旋回!?:攻撃支援"
+msgid "右方旋回!?：攻撃支援"
 msgstr "右方旋回!?: Follow-up Attack"
 
 #  Generated Partial Match; Korean Text: '우향선회?! : 치명타+{0}%'
@@ -29690,7 +29791,7 @@ msgstr "Mimesis: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '의태 : 치명타+{0}%'
 #: BuffEffect[Effect_PECS_Empress_N_3].BuffEffectType3_Desc
-msgid "擬態:クリティカル率+{0}%"
+msgid "擬態：クリティカル率+{0}%"
 msgstr "Mimesis: Critical Hit Rate +{0}%"
 
 #  Generated Partial Match; Korean Text: '의태 : 받는 피해 최소화 / 공격력 / 치명타 증가'
@@ -29780,7 +29881,7 @@ msgstr "I have a delivery! AP +{0}"
 
 #  Generated Partial Match; Korean Text: '택배 왔어요! : 공격력+{0}%'
 #: BuffEffect[Effect_PECS_Express76_N_2].BuffEffectType2_Desc
-msgid "宅配便です!:攻撃力+{0}%"
+msgid "宅配便です!：攻撃力+{0}%"
 msgstr "宅配便です!: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: '택배 왔어요! : 치명타+{0}%'
@@ -31096,7 +31197,7 @@ msgstr "Cyclone Stream: 氷結(受けるダメージ増加)"
 
 #  Generated Partial Match; Korean Text: '어비스 워커 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_PECS_Triaina_N_14].BuffEffectType1_Desc
-msgid "アビスウォーカー:受けるダメージ{0}%減少"
+msgid "アビスウォーカー：受けるダメージ{0}%減少"
 msgstr "アビスウォーカー: {0}% Damage Reduction"
 
 #  Korean Text: '어비스 워커 : 냉기 피격 시, 받는 피해 감소'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1378,7 +1378,7 @@ msgid "司令官？一つ聞いてもいいかしら？"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev2Stage03_1_13].SelectionIndex[1]
-msgid "何だ…。"
+msgid "そうだ。"
 msgstr ""
 
 #  Korean Text: '저 하찮아 보이는 베이스캠프는 대체 누구 솜씨지?'
@@ -3292,7 +3292,7 @@ msgid "えー？どうして？特に問題はないんだけど？何かあっ�
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev2Stage06_1_65].SelectionIndex[1]
-msgid "つまり…"
+msgid "ですから…"
 msgstr ""
 
 #  Korean Text: '헤헤... 다들 재밌게 놀고 있어. 그게 캡틴이 원하는 거지?'
@@ -3401,6 +3401,10 @@ msgstr ""
 #  Korean Text: '뭐야. 왜 이렇게 서먹해? 둘이 처음 봐요?'
 #: DialogScript[DG_Ch01Ev2Stage06_2_13].Script
 msgid "何よ、このよそよそしい雰囲気！？二人とも初対面なの？"
+msgstr ""
+
+#: DialogScript[DG_Ch01Ev2Stage06_2_13].SelectionIndex[1]
+msgid "ふむ…"
 msgstr ""
 
 #  Korean Text: '네~ 알겠어요~. 길을 찾을 때까지 현재 위치에서 잠시 대기할 예정이고,&n다시 연락할게요 캡틴.'
@@ -6502,7 +6506,7 @@ msgid "捜索活動を続けるとなると兵力配置を変えないといけ�
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev3Stage02_1_40].SelectionIndex[1]
-msgid "でも…"
+msgid "でもぉ…"
 msgstr ""
 
 #  Korean Text: '... 네?'
@@ -7088,7 +7092,7 @@ msgid "司令官は、大人…好き？"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev3Stage03_1_32].SelectionIndex[1]
-msgid "ん…？"
+msgid "あれ…？"
 msgstr ""
 
 #  Korean Text: '- 질문의 맥락을 전혀 알 수 없다. 갑자기 이 이야기가 왜...'
@@ -11728,10 +11732,6 @@ msgstr ""
 #  Korean Text: '사령관에게 고맙다는 말을 하고 싶었어. 사령관은... 날 구원해 줬어.&n탄광에 있었을 때... 난...'
 #: DialogScript[DG_Ch01Ev4Stage01_1_79].Script
 msgid "司令官にお礼を言いたかったの…。司令官は…私を救ってくれた。&n炭鉱にいた時…私は…"
-msgstr ""
-
-#: DialogScript[DG_Ch01Ev4Stage01_1_79].SelectionIndex[1]
-msgid "ふむ…"
 msgstr ""
 
 #  Korean Text: '아냐. 미안해! 그런 이야기를 할 생각은 아니었어...'
@@ -17260,10 +17260,6 @@ msgstr ""
 msgid "…ですが…陛下はやはり決心を変えることはないでしょう…。"
 msgstr ""
 
-#: DialogScript[DG_Ch01Ev4Stage10_2_12].SelectionIndex[1]
-msgid "そうだ。"
-msgstr ""
-
 #  Korean Text: '- 그런 아르망을 안심시켜주고 싶지만, 내가 할 수 있는 말은 결국 하나 뿐이다.'
 #: DialogScript[DG_Ch01Ev4Stage10_2_13].Script
 msgid "- そんなアルマンを安心させてやりたかったが、&n俺が今言えることはただ一つしかなかった。"
@@ -17528,7 +17524,7 @@ msgid "その一部が私たちを発見したようです。こちらに接近�
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev4Stage11_1_30].SelectionIndex[1]
-msgid "…わかった。"
+msgid "…分かった。"
 msgstr ""
 
 #  Korean Text: '...사령관... 나도 갈게...'

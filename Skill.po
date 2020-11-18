@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1224,6 +1224,116 @@ msgstr ""
 
 #: Skill[Skill_3P_Maria_N_15].SkillName
 msgid "準備物確認(行動封印)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_1].SkillDescription
+msgid "敵に{0}のバリア/ダメージ減少無視ダメージを与え、過興奮状態の場合、追加ダメージを与えます。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_1].SkillDescriptionSimple
+msgid "単一対象に{0}のダメージ。バリア/ダメージ減少、過興奮時追加ダメージ。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_1].SkillName
+msgid "単分子クロープロト"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_2].SkillDescription
+msgid "指定範囲の敵に{0}の保護無視ダメージを与え、命中率/防御力を減少させます。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_2].SkillDescriptionSimple
+msgid "保護無視、敵の命中率/防御力減少。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_2].SkillName
+msgid "無慈悲な猫"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_3].SkillDescription
+msgid ""
+"ラウンド開始時、過興奮状態になります。攻撃を受けると過興奮状態が解除され、2回待機後のラウンドの開始時、過興奮状態が再活性化されます。自分の攻撃力が増加し、"
+"過興奮状態の場合、防御貫通が追加で増加します。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_3].SkillDescriptionSimple
+msgid "過興奮バフ、自分の攻撃力増加、過興奮時防御貫通増加。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_3].SkillName
+msgid "過興奮状態"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_4].SkillDescription
+msgid "自分の行動力が増加します。過興奮状態の場合、行動力が追加で増加します。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_4].SkillDescriptionSimple
+msgid "自分の行動力増加、過興奮時行動力追加増加。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_4].SkillName
+msgid "獲物捕捉"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_5].SkillDescription
+msgid "軽装型保護機やコンパニオン所属のキャラクターを支援攻撃します。自分の回避率が増加し、過興奮状態が解除されると回避率が追加で増加します。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_5].SkillDescriptionSimple
+msgid "軽装型保護機/コンパニオン所属支援攻撃、自分の回避率増、過興奮状態解除時回避率追加増加。"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_5].SkillName
+msgid "9つの命"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_11].SkillName
+msgid "単分子クロープロト(追加ダメージ)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_21].SkillName
+msgid "無慈悲な猫(命中率)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_31].SkillName
+msgid "過興奮状態(興奮調節)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_32].SkillName
+msgid "過興奮状態(ドキドキ)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_33].SkillName
+msgid "過興奮状態(興奮調節解除)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_34].SkillName
+msgid "過興奮状態(攻撃力)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_35].SkillName
+msgid "過興奮状態(防御貫通)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_41].SkillName
+msgid "獲物捕捉(行動力追加)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_51].SkillName
+msgid "9つの命(軽装型保護機支援攻撃)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_52].SkillName
+msgid "9つの命(コンパニオン支援攻撃)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_53].SkillName
+msgid "9つの命(自分の回避率増加)"
+msgstr ""
+
+#: Skill[Skill_3P_Poi_N_54].SkillName
+msgid "9つの命(回避率追加増加)"
 msgstr ""
 
 #: Skill[Skill_3P_Ran_N_1].SkillDescription
@@ -2865,7 +2975,7 @@ msgstr ""
 
 #  Korean Text: '지정 범위 경장 공격 / 지원기 보호. 자신 방어력 / 냉기 저항 증가'
 #: Skill[Skill_BR_Alvis_N_3].SkillDescriptionSimple
-msgid "指定範囲内の軽装型攻撃機/支援子を保護。自分の防御力/冷気耐性増加"
+msgid "指定範囲内の軽装型攻撃機/支援機を保護。自分の防御力/冷気耐性増加"
 msgstr ""
 
 #  Korean Text: '못 지나갈걸?'
@@ -14630,24 +14740,24 @@ msgstr ""
 msgid "高出力のバリア(被害ダミー)"
 msgstr ""
 
-#  Korean Text: '목표 파쇄'
-#: Skill[Skill_MP_ExpGoblinA_Challenge1_1].SkillName
-msgid "目標破砕"
-msgstr ""
-
-#  Korean Text: '벙커 사출'
-#: Skill[Skill_MP_ExpGoblinA_Challenge1_2].SkillName
-msgid "バンカー射出"
-msgstr ""
-
 #  Korean Text: '대상에게 {0} 피해를 주고, 표식으로 설정해 받는 피해를 증가시킵니다. 대상의 적중과 치명타가 감소합니다.'
 #: Skill[Skill_MP_ExpGoblinA_N_1].SkillDescription
 msgid "対象に{0}のダメージを与え、標的に設定し受けるダメージを増加させ、対象の命中率とクリティカル率が減少します。"
 msgstr ""
 
+#  Korean Text: '목표 파쇄'
+#: Skill[Skill_MP_ExpGoblinA_N_1].SkillName
+msgid "目標破砕"
+msgstr ""
+
 #  Korean Text: '목표 범위에 {0} 피해를 주고, 대상의 회피율과 효과 저항을 낮춥니다.'
 #: Skill[Skill_MP_ExpGoblinA_N_2].SkillDescription
 msgid "目標範囲で{0}のダメージを与え、対象の回避率と状態異常耐性を減少させます。"
+msgstr ""
+
+#  Korean Text: '벙커 사출'
+#: Skill[Skill_MP_ExpGoblinA_N_2].SkillName
+msgid "バンカー射出"
 msgstr ""
 
 #  Korean Text: '라운드 개시 시, 자신에게 무작위 강화 효과가 적용됩니다.'
@@ -14670,24 +14780,24 @@ msgstr ""
 msgid "攻撃警戒"
 msgstr ""
 
-#  Korean Text: '부식탄 사격'
-#: Skill[Skill_MP_ExpGoblinT_Challenge1_1].SkillName
-msgid "腐食弾射撃"
-msgstr ""
-
-#  Korean Text: '기관총 난사'
-#: Skill[Skill_MP_ExpGoblinT_Challenge1_2].SkillName
-msgid "機関銃乱射"
-msgstr ""
-
 #  Korean Text: '대상에게 {0} 피해를 주고, 대상이 표식 상태인 경우 일정 확률로 부식 상태로 만듭니다.'
 #: Skill[Skill_MP_ExpGoblinT_N_1].SkillDescription
 msgid "対象に{0}のダメージを与え、対象が標的状態の場合、一定確率で腐食状態にします。"
 msgstr ""
 
+#  Korean Text: '부식탄 사격'
+#: Skill[Skill_MP_ExpGoblinT_N_1].SkillName
+msgid "腐食弾射撃"
+msgstr ""
+
 #  Korean Text: '목표 범위에 {0} 피해를 주고, 대상이 표식 상태인 경우 일정 확률로 강화 효과를 해제합니다.'
 #: Skill[Skill_MP_ExpGoblinT_N_2].SkillDescription
 msgid "目標範囲に{0}のダメージを与え、対象が標的状態の場合、一定確率で強化効果を解除します。"
+msgstr ""
+
+#  Korean Text: '기관총 난사'
+#: Skill[Skill_MP_ExpGoblinT_N_2].SkillName
+msgid "機関銃乱射"
 msgstr ""
 
 #  Korean Text: '피격 시, AP / 공격력 / 치명타가 증가하며 방어력이 감소합니다.'
@@ -14710,14 +14820,24 @@ msgstr ""
 msgid "再生機能"
 msgstr ""
 
+#  Korean Text: '칙 중 기관포'
+#: Skill[Skill_MP_FABigChick_Challenge1_1].SkillName
+msgid "チックヘビーマシンガン"
+msgstr ""
+
+#  Korean Text: '듀얼 칙 캐논'
+#: Skill[Skill_MP_FABigChick_Challenge1_2].SkillName
+msgid "デュアルチックキャノン"
+msgstr ""
+
+#  Korean Text: '칙 반응 장갑'
+#: Skill[Skill_MP_FABigChick_Challenge1_3].SkillName
+msgid "チックリアクティブアーマー"
+msgstr ""
+
 #  Korean Text: '기관포로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.'
 #: Skill[Skill_MP_FABigChick_N_1].SkillDescription
 msgid "機関砲で{0}のダメージを与えます。対象の防御力を一定比率無視します。"
-msgstr ""
-
-#  Korean Text: '칙 중 기관포'
-#: Skill[Skill_MP_FABigChick_N_1].SkillName
-msgid "チックヘビーマシンガン"
 msgstr ""
 
 #  Korean Text: '캐논포를 연사해 목표 열에 {0} 피해를 줍니다. 피해 감소 효과를 무효화합니다.'
@@ -14725,19 +14845,9 @@ msgstr ""
 msgid "キャノン砲を連射し目標列に{0}のダメージを与えます。ダメージ減少効果を無効化します。"
 msgstr ""
 
-#  Korean Text: '듀얼 칙 캐논'
-#: Skill[Skill_MP_FABigChick_N_2].SkillName
-msgid "デュアルチックキャノン"
-msgstr ""
-
 #  Korean Text: '반응 장갑으로 인해 받는 피해가 감소합니다.'
 #: Skill[Skill_MP_FABigChick_N_3].SkillDescription
 msgid "反応装甲により受けたダメージが減少します。"
-msgstr ""
-
-#  Korean Text: '칙 반응 장갑'
-#: Skill[Skill_MP_FABigChick_N_3].SkillName
-msgid "チックリアクティブアーマー"
 msgstr ""
 
 #  Korean Text: '전투 개시 시, 상대 진영에 램파트가 있을 경우 모든 아군의 공격력 / 적중이 감소합니다.'
@@ -21628,6 +21738,10 @@ msgstr ""
 msgid "要員掩蔽(待機ダミー)"
 msgstr ""
 
+#: Skill[Skill_PECS_Leanne_N_1].SkillDescription
+msgid "対象を目標に指定し{0}の保護無視ダメージを与えます。攻撃を受けた対象は攻撃力と回避率が減少します。"
+msgstr ""
+
 #  Korean Text: '드래곤 슬레이어로 {0} 피해를 줍니다. 낮은 확률로 우연히 약점을 맞춰 피해량이 크게 증가합니다. 스킬 숙련도가 높아질수록 운이 좋아집니다.'
 #: Skill[Skill_PECS_LRL_N_1].SkillDescription
 msgid ""
@@ -21941,7 +22055,7 @@ msgstr ""
 
 #: Skill[Skill_PECS_Spartoia_N_3].SkillDescription
 msgid ""
-"ラウンド開始時、最大2回までクリティカル/命令が増加します。命中増加重複が最大ならラウンド開始時、命中減少効果を解除します。クリティカル重複が最大ならラウン"
+"ラウンド開始時、最大2回までクリティカル/命中が増加します。命中増加重複が最大ならラウンド開始時、命中減少効果を解除します。クリティカル重複が最大ならラウン"
 "ド開始時、攻撃力が増加します。"
 msgstr ""
 

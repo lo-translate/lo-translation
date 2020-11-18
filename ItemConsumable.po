@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-04 12:00-0400\n"
+"PO-Revision-Date: 2020-11-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -666,6 +666,14 @@ msgstr ""
 #: ItemConsumable[CharTicket_Char_3P_Maria_N].ItemName
 msgid "補贖のマリア"
 msgstr "Maria of Redemption"
+
+#: ItemConsumable[CharTicket_Char_3P_Poi_N].ItemDesc
+msgid "ポイを迎え入れます。"
+msgstr ""
+
+#: ItemConsumable[CharTicket_Char_3P_Poi_N].ItemName
+msgid "ポイ"
+msgstr ""
 
 #: ItemConsumable[CharTicket_Char_3P_Ran_N].ItemDesc
 msgid "金蘭S7を迎え入れます。"
@@ -2243,6 +2251,14 @@ msgstr ""
 msgid "設備部品製作施設拡張"
 msgstr ""
 
+#: ItemConsumable[Consumable_LobbyPresetExt].ItemDesc
+msgid "ロビーフリーセットが1枠拡張されます。"
+msgstr ""
+
+#: ItemConsumable[Consumable_LobbyPresetExt].ItemName
+msgid "ロビーフリーセット拡張"
+msgstr ""
+
 #  Korean Text: '일일 훈련 <기능 강화>에서 획득할 수 있습니다.'
 #: ItemConsumable[Consumable_OriginDust].DropDesc
 msgid "デイリー訓練<機能強化>で獲得できます。"
@@ -2551,7 +2567,7 @@ msgid "ブラックリリスの作った超大型ホワイトチョコレート�
 msgstr ""
 
 #: ItemConsumable[Ev_Chocolate_3P_BlackLilith].ItemName
-msgid "手作り5:1スケジュールチョコレート(リリス)"
+msgid "手作り5：1スケジュールチョコレート(リリス)"
 msgstr ""
 
 #: ItemConsumable[Ev_Chocolate_3P_ScissorsLise].ItemDesc
@@ -2657,6 +2673,14 @@ msgstr ""
 
 #: ItemConsumable[Ev_Consumable_BioMaking_BFSale].ItemName
 msgid "ブラックフライデー特殊製作パック"
+msgstr ""
+
+#: ItemConsumable[Ev_Consumable_BlueprintPoi].ItemDesc
+msgid "探索中、偶然見つけた設計図です。一定数集めると図面のキャラクターを獲得できます。"
+msgstr ""
+
+#: ItemConsumable[Ev_Consumable_BlueprintPoi].ItemName
+msgid "ポイの設計図"
 msgstr ""
 
 #  Korean Text: '멸망 전에 한 때 유행하던 매지컬 백토 스티커입니다.'
@@ -7238,7 +7262,7 @@ msgstr "7 Tuna Cans"
 
 #  Korean Text: '참치캔을 10개 획득합니다.'
 #: ItemConsumable[TunaCan_5_5].ItemDesc
-msgid "ツナ缶x10個を獲得します。"
+msgid "ツナ缶10個(有償7個+無償3個)が入っています。"
 msgstr "Obtain 10 Tuna Cans."
 
 #  Korean Text: '참치캔 5+5개'
@@ -7252,10 +7276,6 @@ msgstr ""
 
 #: ItemConsumable[TunaCan_6_3].ItemName
 msgid "ツナ缶6+3個"
-msgstr ""
-
-#: ItemConsumable[TunaCan_7_3].ItemDesc
-msgid "ツナ缶10個(有償7個+無償3個)が入っています。"
 msgstr ""
 
 #: ItemConsumable[TunaCan_7_3].ItemName
