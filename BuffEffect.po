@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-11-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1827,8 +1827,8 @@ msgstr ""
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Poi_N_5].BuffEffectType1_Desc
-msgid "9つの命：攻撃支援(軽装型保護機＆コンパニオン)"
-msgstr "9つの命: Follow-up Attack (軽装型保護機＆コンパニオン)"
+msgid "9つの命：攻撃支援(軽装型保護機)"
+msgstr "9つの命: Follow-up Attack (軽装型保護機)"
 
 #: BuffEffect[Effect_3P_Poi_N_5].BuffEffectType2_Desc
 msgid "9つの命：回避率+{0}％"
@@ -1839,7 +1839,7 @@ msgid "9つの命：回避率+{0}％(興奮調節)"
 msgstr ""
 
 #: BuffEffect[Effect_3P_Poi_N_5].Name
-msgid "9つの命：軽装型保護機/コンパニオン所属の味方支援攻撃、自分の回避率増加、過興奮時回避率追加増加"
+msgid "9つの命：軽装型保護機の味方支援攻撃、自分の回避率増加、過興奮時回避率追加増加"
 msgstr ""
 
 #: BuffEffect[Effect_3P_Poi_N_33].BuffEffectType1_Desc
@@ -1857,16 +1857,6 @@ msgstr ""
 #: BuffEffect[Effect_3P_Poi_N_38].BuffEffectType1_Desc
 msgid "過興奮状態：ドキドキ除去"
 msgstr ""
-
-#  Generated Partial Match
-#: BuffEffect[Effect_3P_Poi_N_51].BuffEffectType1_Desc
-msgid "9つの命：攻撃支援(軽装型保護機)"
-msgstr "9つの命: Follow-up Attack (軽装型保護機)"
-
-#  Generated Partial Match
-#: BuffEffect[Effect_3P_Poi_N_52].BuffEffectType1_Desc
-msgid "9つの命：攻撃支援(コンパニオン)"
-msgstr "9つの命: Follow-up Attack (コンパニオン)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].BuffEffectType1_Desc

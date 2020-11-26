@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-11-26 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1277,11 +1277,11 @@ msgid "獲物捕捉"
 msgstr ""
 
 #: Skill[Skill_3P_Poi_N_5].SkillDescription
-msgid "軽装型保護機やコンパニオン所属のキャラクターを支援攻撃します。自分の回避率が増加し、過興奮状態が解除されると回避率が追加で増加します。"
+msgid "軽装型保護機のキャラクターを支援攻撃します。自分の回避率が増加し、過興奮状態が解除されると回避率が追加で増加します。"
 msgstr ""
 
 #: Skill[Skill_3P_Poi_N_5].SkillDescriptionSimple
-msgid "軽装型保護機/コンパニオン所属支援攻撃、自分の回避率増、過興奮状態解除時回避率追加増加。"
+msgid "軽装型保護機支援攻撃、自分の回避率増、過興奮状態解除時回避率追加増加。"
 msgstr ""
 
 #: Skill[Skill_3P_Poi_N_5].SkillName
@@ -1320,12 +1320,12 @@ msgstr ""
 msgid "獲物捕捉(行動力追加)"
 msgstr ""
 
-#: Skill[Skill_3P_Poi_N_51].SkillName
-msgid "9つの命(軽装型保護機支援攻撃)"
+#: Skill[Skill_3P_Poi_N_51].SkillDescription
+msgid "軽装型保護機キャラクターを支援攻撃します。自分の回避率が増加し、過興奮状態が解除されると回避率が追加で増加します。"
 msgstr ""
 
-#: Skill[Skill_3P_Poi_N_52].SkillName
-msgid "9つの命(コンパニオン支援攻撃)"
+#: Skill[Skill_3P_Poi_N_51].SkillName
+msgid "9つの命(軽装型保護機支援攻撃)"
 msgstr ""
 
 #: Skill[Skill_3P_Poi_N_53].SkillName
