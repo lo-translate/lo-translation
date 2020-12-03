@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -454,6 +454,7 @@ msgstr ""
 msgid "ふああ…ご主人様が頭を撫でてくれるのが、一番幸せです。"
 msgstr ""
 
+#  Korean Text: '흐와아!!'
 #: LobbyScript[LobbyScript_3P_Hachiko].LobbyScriptSp1[1](Affection<100,SpecialTouch)
 msgid "うわぁ！"
 msgstr ""
@@ -516,6 +517,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Labiata].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "もう、そんなに気になりますか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScript1[1](Affection<100)
+msgid "はい、ご主人様。何かお手伝いいたしましょうか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScript1[2](Affection<100)
+msgid "こうしてご主人様のお役に立てるなんて…本当に嬉しいです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScript1[3](Affection<100)
+msgid "はい、ご主人様。必要なものがあれば仰ってください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScript2[1](Affection>40)
+msgid "ご心配いりません。ご主人様は私がお守りいたします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScript3[3](Affection>70)
+msgid "ご、ご主人様？そんな食い入るように見られては…困ります…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScript4[2](Affection=100)
+msgid "ご主人様が全て一人で処理する必要はありません。私がお手伝いいたします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "そ、そんなことされては…いけません…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Maria].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ご…ご主人様？ここは危険ですので…他の所で…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Poi].LobbyScript1[1](Affection<100)
@@ -1433,6 +1466,7 @@ msgstr ""
 msgid "うぅ…タイタンは2人乗りにすれば良かったかなぁ。そしたらお兄ちゃんと一緒に座って操縦できたのになぁ～。"
 msgstr ""
 
+#  Korean Text: '...'
 #: LobbyScript[LobbyScript_BR_DrM].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "……"
 msgstr ""
@@ -1605,6 +1639,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Gremlin].LobbyScriptSp1[1](Affection<100,SpecialTouch)
 msgid "ひゅーひゅー！お互いにお触り大会かな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScript1[1](Affection<100)
+msgid "トモとドラコが仲良くなりたいって遊びに来てたの。楽しくて私もついつい話し込んじゃったわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScript1[2](Affection<100)
+msgid "司令官、読書は好き？私、この前とあるナイトの叙事詩を読んだんだけど…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScript1[3](Affection<100)
+msgid "こんな外見だから昔から誤解されることがよくあったわ。私はお酒や音楽よりも一人で本を読む方がずっといいんだけど…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScript2[1](Affection>40)
+msgid "トモとドラコが最近私のこと避けてるみたい…航空戦闘教理の変遷についての話がつまらなかったのかな？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScript3[3](Affection>70)
+msgid "司令官が認めてくれるならもっと大人しい格好にだってなれるわ。…認めないですって？ふふ、いじわるなんだから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScript4[2](Affection=100)
+msgid "今日も一緒に本を読むのよね？ページをめくる時はいつもみたいに…「合図」して？ね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "きゃ？！ちょ、ちょっと…まだこういうことは不慣れで…勉強してくるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Harpy].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "し、司令官はじっとしてて。私が一人でやるから。 れんしゅ…わ、私は何でも上手なのよ？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Impet].LobbyScript1[1](Affection<100)
@@ -2482,6 +2548,70 @@ msgstr ""
 msgid "うふっ…お姉ちゃんのこと…そんなに好きなの？"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScript1[1](Affection<100)
+msgid "自分は司令官閣下とマリー隊長の意志に従うのみです！命令をお願いします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScript1[2](Affection<100)
+msgid "兵士たちを死地に送り出さなければいけない時は…自分も共に向かうのみです！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScript1[3](Affection<100)
+msgid "交戦状況時のブラウニーは誰よりも勇敢な兵士ですが、…彼女の銃口の向きだけは常に確認してあげる必要があります…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScript2[1](Affection>40)
+msgid "本日の作戦会議の内容を報告いたします。…司令官閣下は自分のことをどう思って…あ…いえ！間違えました！何でも…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScript3[3](Affection>70)
+msgid "じ、自分が即決裁判を好むだなんて！悪い冗談です…か、からかわないでください…司令官閣下…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScript4[2](Affection=100)
+msgid "目的地がどこであろうとも…自分は司令官閣下についていく覚悟はできています…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "うぇへっ！？じ、自分の服装に何か問題でも？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RedHood].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "り、理解できません！どうして自分みたいな軍人のか…体を…う～ん…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScript1[1](Affection<100)
+msgid "部隊員からの評価が相当高かったぞ。私がいない間…部下たちを世話してくれたことに感謝する。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScript1[2](Affection<100)
+msgid "美しいだと？ハッ…こんな人工的な造形などに何の意味もない。そなたも直にわかることだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScript1[3](Affection<100)
+msgid "そなたが指揮した戦闘記録を閲覧した。今後の戦闘が楽しみだ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScript2[1](Affection>40)
+msgid "私の主武装が貧弱なのは、私の指揮に従う部隊員たちの火力を信じているからだ。そなたが我々を信じるようにな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScript3[3](Affection>70)
+msgid "そなたの噂をいくつか聞いたぞ？戦闘指揮に負けず劣らず豪快らしいな…。ふん。気に入った。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScript4[2](Affection=100)
+msgid "中身と外見が違うのがまた良いときたか…そなたは一味も二味も違うのだな。…そんなそなたに惹かれる私が言うことではないが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "私が気に入ったのか？ふん、私はまだよくわからんな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_RoyalArsenal].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "そなたは疲れを知らないようだな。…よし。私の気持ちを揺さぶった代価を払ってもらおうか！"
+msgstr ""
+
 #: LobbyScript[LobbyScript_BR_SandMan].LobbyScript1[1](Affection<100)
 msgid "今日は何をして暇つぶしするか悩んでます。"
 msgstr ""
@@ -2635,7 +2765,7 @@ msgid "私は司令官ともっと仲良くなりたいです。司令官はど�
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sirene].LobbyScriptSp1[1](Affection<100,SpecialTouch)
-msgid "…っ！"
+msgid "うわっとっ！？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sirene].LobbyScriptSp2[1](Affection=100,SpecialTouch)
@@ -2832,6 +2962,39 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Sylphid].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "ま、どうしても触りたいなら…特別に許してあげるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScript1[1](Affection<100)
+msgid "カーン隊長はとても素敵な方です…司令官様もそう思いませんか？ それとなく話しかけてみてはいかがですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScript1[2](Affection<100)
+msgid "あ、ちょっと考え事をしていました。大したことではありません。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScript1[3](Affection<100)
+msgid "普段はヘッドフォンで気持ちが落ち着く音声を聞いています。ASMRってやつです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScript2[1](Affection>40)
+msgid "ど、どうして私ばかりに…わ、私はカーン隊長が司令官様と結ばれたらいいなと思っています…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScript3[3](Affection>70)
+msgid ""
+"そんなに気になりますか？はい、どうぞ。私が録音した司令官様のお声です。聞いているととても幸せな気分に…はい？聞きたくない…ですか？え？司令官様のお声ですよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScript4[2](Affection=100)
+msgid "ふふ、ふふふ…はぁ、司令官様…そんなことされては…ああ、もう知りません……ふああっ！？い、いつから聞いてましたか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "こういうことはカーン隊長にしてあげてください…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_TalonFeather].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "場所をかえましょう。私の部屋に司令官様の写真をたくさん貼っておきました。そこで…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Tomoe].LobbyScript1[1](Affection<100)
@@ -3050,10 +3213,12 @@ msgstr ""
 msgid "陛下をしっかりと補佐できますように。そしていつまでも陛下のお傍にいられますように…"
 msgstr ""
 
+#  Korean Text: '폐하!'
 #: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp1[1](Affection<100,SpecialTouch)
 msgid "陛下！"
 msgstr ""
 
+#  Korean Text: '폐, 폐하...'
 #: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "へ、陛下…"
 msgstr ""
@@ -3691,6 +3856,7 @@ msgstr ""
 msgid "司令官がもう少しだけ小さければホワイトシェルに一緒に乗れたのに…。とても残念です。"
 msgstr ""
 
+#  Korean Text: '....'
 #: LobbyScript[LobbyScript_PECS_CoCoWhiteShell].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "…"
 msgstr ""

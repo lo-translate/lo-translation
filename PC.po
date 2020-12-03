@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -101,7 +101,7 @@ msgstr "Fenrir"
 msgid "ひいっ！み、味方ですか？…は…はじめまして…。"
 msgstr ""
 
-#  Korean Text: '포티아'
+#  Korean Text: '화롯가의 포티아'
 #: PC[Char_3P_Fotia_N].Name
 msgid "炉端のポルティーヤ"
 msgstr "Fotia of Fireside"
@@ -121,10 +121,14 @@ msgstr "Hachiko of Castling"
 msgid "ようやくご一緒できますね。これからはどうぞ私に頼ってください！"
 msgstr ""
 
-#  Korean Text: '라비아타'
+#  Korean Text: '라비아타 프로토타입'
 #: PC[Char_3P_Labiata_N].Name
 msgid "ラビアタプロトタイプ"
 msgstr "Labiata"
+
+#: PC[Char_3P_Maria_N].DialogJoin
+msgid "はい、ご主人様。これからは私がお世話いたします。"
+msgstr ""
 
 #: PC[Char_3P_Maria_N].Name
 msgid "補贖のマリア"
@@ -195,7 +199,7 @@ msgstr "Vanilla A1"
 msgid "独立型人工知性体エイダーです。"
 msgstr ""
 
-#  Korean Text: '에이다'
+#  Korean Text: '에이다 Type-G'
 #: PC[Char_AGS_Aeda_N].Name
 msgid "エイダーType-G"
 msgstr "Aeda Type-G"
@@ -205,7 +209,7 @@ msgstr "Aeda Type-G"
 msgid "アルバトロス、空中防衛および指揮行為、遂行可能。"
 msgstr ""
 
-#  Korean Text: '알바트로스'
+#  Korean Text: 'HQ1 알바트로스'
 #: PC[Char_AGS_Albatross_N].Name
 msgid "HQ1アルバトロス"
 msgstr "HQ1 Albatross"
@@ -215,7 +219,7 @@ msgstr "HQ1 Albatross"
 msgid "第21行動指針、生存者に合流。"
 msgstr ""
 
-#  Korean Text: '폴른'
+#  Korean Text: 'CT2199W 폴른'
 #: PC[Char_AGS_Fallen_N].Name
 msgid "CT2199Wフォールン"
 msgstr "CT2199W Fallen"
@@ -265,7 +269,7 @@ msgstr "CT-103 Fortress"
 msgid "ギガンテス、合流。"
 msgstr ""
 
-#  Korean Text: '기간테스'
+#  Korean Text: 'S5 기간테스'
 #: PC[Char_AGS_Gigantes_N].Name
 msgid "S5ギガンテス"
 msgstr "S5 Gigantes"
@@ -275,7 +279,7 @@ msgstr "S5 Gigantes"
 msgid "親愛なる市民とバイオロイドの皆様に常に警護サービスをご提供します。何をお手伝いしましょうか？"
 msgstr ""
 
-#  Korean Text: '램파트'
+#  Korean Text: 'CT66 램파트'
 #: PC[Char_AGS_Rampart_N].Name
 msgid "CT66ランパート"
 msgstr "CT66 Rampart"
@@ -295,7 +299,7 @@ msgstr "RF87 Roc"
 msgid "セルジューク、合流しました。"
 msgstr ""
 
-#  Korean Text: '셀주크'
+#  Korean Text: 'K180 셀주크'
 #: PC[Char_AGS_Seljuq_N].Name
 msgid "K180セルジューク"
 msgstr "K180 Seljuq"
@@ -305,7 +309,7 @@ msgstr "K180 Seljuq"
 msgid "S12シェード、機密任務遂行開始。"
 msgstr ""
 
-#  Korean Text: '쉐이드'
+#  Korean Text: 'S12 쉐이드'
 #: PC[Char_AGS_Shade_N].Name
 msgid "S12シェード"
 msgstr "S12 Shade"
@@ -514,8 +518,12 @@ msgstr ""
 msgid "T-9グレムリン"
 msgstr "T-9 Gremlin"
 
+#: PC[Char_BR_Harpy_N].DialogJoin
+msgid "P-22ハルピュイアよ。制空権の掌握なら任せて。"
+msgstr ""
+
 #: PC[Char_BR_Harpy_N].Name
-msgid "P-22ハルフェイア"
+msgid "P-22ハルピュイア"
 msgstr "P-22 Harpyia"
 
 #  Korean Text: '아, 동지가 왔네? 모두 화려하게 터지는 거 좋아해?'
@@ -729,9 +737,17 @@ msgstr ""
 msgid "AO-2レイヴン"
 msgstr "AO-2 Raven"
 
+#: PC[Char_BR_RedHood_N].DialogJoin
+msgid "自分の名前はC-77レッドフード。お仕えできて光栄です、司令官閣下！"
+msgstr ""
+
 #: PC[Char_BR_RedHood_N].Name
 msgid "C-77レッドフード"
 msgstr "C-77 Red Hood"
+
+#: PC[Char_BR_RoyalArsenal_N].DialogJoin
+msgid "神は最強の砲兵隊を持つ側に味方をするのだ。"
+msgstr ""
 
 #: PC[Char_BR_RoyalArsenal_N].Name
 msgid "ロイヤルアスナル"
@@ -806,6 +822,10 @@ msgstr ""
 #: PC[Char_BR_Sylphid_N].Name
 msgid "P-18シルフィード"
 msgstr "P-18 Sylphid"
+
+#: PC[Char_BR_TalonFeather_N].DialogJoin
+msgid "ホードの目、タロンフェザーです。気軽にフェザーと呼んでください。"
+msgstr ""
 
 #: PC[Char_BR_TalonFeather_N].Name
 msgid "E-16タロンフェザー"
@@ -896,7 +916,7 @@ msgstr "Armand"
 msgid "さあ、狩りの時間です。"
 msgstr ""
 
-#  Korean Text: '아탈란테'
+#  Korean Text: '질주하는 아탈란테'
 #: PC[Char_DS_Atalanta_N].Name
 msgid "疾走するアタランテ"
 msgstr "Atalanta"
@@ -956,7 +976,7 @@ msgstr "Prester Johanna"
 msgid "マジカルタイムの始まりだよ～！/召喚に応えてマジカルモモ参上です！"
 msgstr ""
 
-#  Korean Text: '매지컬 모모'
+#  Korean Text: '마법소녀 매지컬 모모'
 #: PC[Char_DS_MoMo_N].Name
 msgid "魔法少女マジカルモモ"
 msgstr "Magical MoMo"
@@ -1191,7 +1211,7 @@ msgstr "Light Defender Module EX"
 msgid "あ～ら、ここはもっと美しくする必要がありますわね。"
 msgstr ""
 
-#  Korean Text: '오드리'
+#  Korean Text: '오드리 드림위버'
 #: PC[Char_PECS_Audrey_N].Name
 msgid "オードリードリームウィーバー"
 msgstr "Audrey"
@@ -1215,7 +1235,7 @@ msgstr "Connector Yumi"
 msgid "ハイハ〜イ！キャロルがやって来たよ！"
 msgstr ""
 
-#  Korean Text: '캐럴'
+#  Korean Text: '캐럴라이나'
 #: PC[Char_PECS_Carolina_N].Name
 msgid "キャロルライナ"
 msgstr "Carolina"
@@ -1265,7 +1285,7 @@ msgstr "DarkElven ForestRanger"
 msgid "緊急遭難プロトコルにより近隣市民共同体に合流します。"
 msgstr ""
 
-#  Korean Text: '드론'
+#  Korean Text: '드론 08'
 #: PC[Char_PECS_Drone_N].Name
 msgid "ドローン08"
 msgstr "Drone 08"
@@ -1359,7 +1379,7 @@ msgstr ""
 msgid "やあごきげんよう。僕はポップヘッド。"
 msgstr ""
 
-#  Korean Text: '펍 헤드'
+#  Korean Text: 'SD3M 펍 헤드'
 #: PC[Char_PECS_PuppHead_N].Name
 msgid "SD3Mポップヘッド"
 msgstr "SD3M Pupp Head"
@@ -1387,7 +1407,7 @@ msgstr "Spartoia"
 msgid "破壊、突破任務可能です。"
 msgstr ""
 
-#  Korean Text: '스팅어'
+#  Korean Text: 'CM67 스팅어'
 #: PC[Char_PECS_Stinger_N].Name
 msgid "CM67スティンガー"
 msgstr "CM67 Stinger"

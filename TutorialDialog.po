@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-07-22 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -225,7 +225,7 @@ msgstr ""
 msgid "あ、説明？もちろんよ。お姉さんは説明のプロフェッショナルよ！&n司令官？このフォーチュン姉さんが艦について説明してあげようか？"
 msgstr ""
 
-#  Korean Text: '부탁 드릴게요.'
+#  Korean Text: '부탁 드립니다.'
 #: TutorialDialog[TDG_LobbyMission_1_13].Script
 msgid "お願いします。"
 msgstr ""

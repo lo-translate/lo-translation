@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2459,6 +2459,7 @@ msgstr ""
 msgid "実はな、ストーカーの奴も我々を孤立させようと&nもう一つの橋を破壊していたようなのだ。&nおかげで鉄虫たちは完全に島に閉じ込められた。"
 msgstr ""
 
+#  Korean Text: '그 말은?'
 #: DialogScript[DG_Ch01Stage06b_1_3].SelectionIndex[1]
 msgid "ということは？"
 msgstr ""
@@ -11690,7 +11691,7 @@ msgstr ""
 msgid "そうか。なら接続を頼む。"
 msgstr ""
 
-#  Korean Text: '에이다'
+#  Korean Text: '에이다 Type-G'
 #: DialogScript[DG_Ch03Stage15_2_10].Char_Name_C
 msgid "エイダーType-G"
 msgstr "Aeda Type-G"
@@ -22751,4 +22752,6224 @@ msgstr ""
 #  Korean Text: '네. 최선을 다해서 모시겠어요. 주인님.'
 #: DialogScript[DG_Ch06Stage08e_2_23].Script
 msgid "はい…。これからもこの身を尽くしてお仕えいたします。ご主人様。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_1].Script
+msgid "- 新しい体となってから続く高熱のせいで、遠のく意識を何とか維持している。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_2].Script
+msgid "- バイオロイドたちが入手してくれた抗生剤とワクチンも所詮は一時しのぎに過ぎない。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_3].Script
+msgid "- 今できることは体が環境に適応するまで耐えることだけだ。"
+msgstr ""
+
+#  Korean Text: '함장실'
+#: DialogScript[DG_Ch06Stage09e_1_4].BG_Name
+msgid "艦長室"
+msgstr "Commander's Room"
+
+#: DialogScript[DG_Ch06Stage09e_1_4].Script
+msgid "スカディさん、ご主人様のお体の状態は…"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_5].Script
+msgid "あとは新しい体に適応するまで待つしかないですね…。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_6].Script
+msgid "ご主人様を信じて待つしかないってこと…？"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_7].Script
+msgid "…ご主人様に何もして差し上げられないなんて悲しすぎます…。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_8].Script
+msgid "そんなに悲観することないわ。できることは全部やった。ご主人様もわかってくださるはずよ。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_10].Script
+msgid "待っている間、ちょっと周辺を見回ってくるのはどうかしら？"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_11].Script
+msgid "ご主人様がこんな状態の時に鉄虫に奇襲されては大変でしょ？念のため、先に偵察しておく方がいいと思うわ？"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_13].Script
+msgid "そうですね。わかりました…。ご主人様を危険な目に遭わせるわけにはいきません。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_1_14].Script
+msgid "グリフォンと一緒に近くを偵察してきます。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_1].Script
+msgid "墓の番人がまだいたなんて！私たちが先に発見したからいいものの…大変なことになるところだったわ！"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_2].Script
+msgid "まさかとは思ったけど…これからも気をつけた方がよさそうね…。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_3].Script
+msgid "ご主人様！少しはお加減よくなられましたか！？"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_4].Script
+msgid "- もう少し何か言ってあげたかったが…何と言えばいいのか思いつかない…。"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_5].Script
+msgid "本当によかったです…"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_6].Script
+msgid "本当によかっ……！"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_8].Script
+msgid "- まだ完全に回復していないだけなのか、それとも他に何か理由があるのか…"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage09e_2_9].Script
+msgid "- バイオロイドたちに囲まれた俺の体はまだ熱っぽかった。"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage01_1_41].Script
+msgid "ふむ…"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage01e_1_7].Script
+msgid "ん？何が？"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage01e_1_13].Script
+msgid "なんかまずいのか？"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage02_1_17].SelectionIndex[1]
+msgid "え？俺が？"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage02_1_59].SelectionIndex[1]
+msgid "あ…あれ？"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage02_2_25].SelectionIndex[3]
+msgid "次に"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage02e_2_25].Script
+msgid "何だいきなり？"
+msgstr ""
+
+#  Korean Text: '발사!'
+#: DialogScript[DG_Ch07Stage03_2_7].Script
+msgid "今です！発射！"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage03_2_25].Char_Name_L
+msgid "ロイヤルアスナル"
+msgstr "Royal Arsenal"
+
+#  Korean Text: 'AT-100 비스트헌터'
+#: DialogScript[DG_Ch07Stage03_2_34].Char_Name_R
+msgid "AT-100ビーストハンター"
+msgstr "AT-100 Beast Hunter"
+
+#: DialogScript[DG_Ch07Stage04_1_55].SelectionIndex[1]
+msgid "すまない。"
+msgstr ""
+
+#  Korean Text: 'P/A-8 블랙 하운드'
+#: DialogScript[DG_Ch07Stage04b_1_1].Char_Name_R
+msgid "P/A-8ブラックハウンド"
+msgstr "P/A-8 Blackhound"
+
+#: DialogScript[DG_Ch07Stage05_2_5].SelectionIndex[1]
+msgid "そうだな。"
+msgstr ""
+
+#  Korean Text: '해안가'
+#: DialogScript[DG_Ch07Stage05e_1_1].BG_Name
+msgid "海辺"
+msgstr ""
+
+#  Korean Text: '[c][57e137]잠시 후,[-][/c]'
+#: DialogScript[DG_Ch07Stage06_2_13].Script
+msgid "[c][57e137]しばらく経過した後。[-][/c]"
+msgstr ""
+
+#  Korean Text: '칫...'
+#: DialogScript[DG_Ch07Stage07_1_30].Script
+msgid "ちっ…"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage07_1_46].SelectionIndex[1]
+msgid "うーん…"
+msgstr ""
+
+#  Korean Text: '- ... ...'
+#: DialogScript[DG_Ch07Stage08_1_48].Script
+msgid "- ……"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_1].BG_Description
+msgid "1000630225エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_1].Script
+msgid "1000629013エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_2].Script
+msgid "1000629014エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_3].Char_Name_C
+msgid "1000630230エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_3].Script
+msgid "1000629015エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_4].Script
+msgid "1000629016エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_5].Script
+msgid "1000629017エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_6].Script
+msgid "1000629018エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_7].Script
+msgid "1000629019エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_8].Script
+msgid "1000629020エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_8].SelectionIndex[1]
+msgid "1000630055エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_9].Script
+msgid "1000629021エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_10].Script
+msgid "1000629022エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_10].SelectionIndex[1]
+msgid "1000630056エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_11].Script
+msgid "1000629023エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_12].Script
+msgid "1000629024エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_13].Script
+msgid "1000629025エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_13].SelectionIndex[1]
+msgid "1000630057エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_14].Script
+msgid "1000629026エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_14].SelectionIndex[1]
+msgid "1000630058エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_15].Script
+msgid "1000629027エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_16].Script
+msgid "1000629028エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_16].SelectionIndex[1]
+msgid "1000630059エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_17].Script
+msgid "1000629029エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_18].Script
+msgid "1000629030エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_18].SelectionIndex[1]
+msgid "1000630060エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_19].Script
+msgid "1000629031エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_20].Script
+msgid "1000629032エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_21].Script
+msgid "1000629033エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_21].SelectionIndex[1]
+msgid "1000630061エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_22].Script
+msgid "1000629034エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_22].SelectionIndex[1]
+msgid "1000630062エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_23].Script
+msgid "1000629035エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_23].SelectionIndex[1]
+msgid "1000630063エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_24].Script
+msgid "1000629036エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_25].Script
+msgid "1000629037エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_25].SelectionIndex[1]
+msgid "1000630064エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_26].Script
+msgid "1000629038エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_26].SelectionIndex[1]
+msgid "1000630065エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_27].Script
+msgid "1000629039エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_27].SelectionIndex[1]
+msgid "1000630066エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_28].Script
+msgid "1000629040エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_29].Script
+msgid "1000629041エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_30].Script
+msgid "1000629042エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_31].Script
+msgid "1000629043エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_32].Script
+msgid "1000629044エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_33].Script
+msgid "1000629045エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_34].Script
+msgid "1000629046エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_35].Script
+msgid "1000629047エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_36].Script
+msgid "1000629048エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_36].SelectionIndex[1]
+msgid "1000630067エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_37].Script
+msgid "1000629049エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_38].Script
+msgid "1000629050エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_38].SelectionIndex[1]
+msgid "1000630068エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_39].Script
+msgid "1000629051エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_40].Script
+msgid "1000629052エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_41].Script
+msgid "1000629053エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_42].Script
+msgid "1000629054エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_43].Script
+msgid "1000629055エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_44].Script
+msgid "1000629056エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_44].SelectionIndex[1]
+msgid "1000630069エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_45].Script
+msgid "1000629057エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_45].SelectionIndex[1]
+msgid "1000630070エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_46].Script
+msgid "1000629058エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_46].SelectionIndex[1]
+msgid "1000630071エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_47].Script
+msgid "1000629059エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_48].Script
+msgid "1000629060エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_48].SelectionIndex[1]
+msgid "1000630072エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_49].Script
+msgid "1000629061エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_50].Script
+msgid "1000629062エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_51].Script
+msgid "1000629063エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_52].Script
+msgid "1000629064エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_52].SelectionIndex[1]
+msgid "1000630073エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_53].Script
+msgid "1000629065エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_54].Script
+msgid "1000629066エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_55].Script
+msgid "1000629067エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_55].SelectionIndex[1]
+msgid "1000630074エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_56].Script
+msgid "1000629068エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_56].SelectionIndex[1]
+msgid "1000630075エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_57].Script
+msgid "1000629069エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_57].SelectionIndex[1]
+msgid "1000630076エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_58].Script
+msgid "1000629070エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_1_59].Script
+msgid "1000629071エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_1].BG_Description
+msgid "1000630226エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_1].Script
+msgid "1000629072エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_2].Script
+msgid "1000629073エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_3].Script
+msgid "1000629074エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_4].Script
+msgid "1000629075エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_5].Script
+msgid "1000629076エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_6].Script
+msgid "1000629077エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_7].Script
+msgid "1000629078エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_8].Script
+msgid "1000629079エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_9].Script
+msgid "1000629080エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_10].Script
+msgid "1000629081エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_11].Script
+msgid "1000629082エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_12].Script
+msgid "1000629083エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_13].Script
+msgid "1000629084エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_14].Script
+msgid "1000629085エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_15].Script
+msgid "1000629086エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_16].Script
+msgid "1000629087エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_17].Script
+msgid "1000629088エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_18].Script
+msgid "1000629089エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_19].Script
+msgid "1000629090エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_20].Script
+msgid "1000629091エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_21].Script
+msgid "1000629092エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_22].Script
+msgid "1000629093エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_23].Script
+msgid "1000629094エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_24].Script
+msgid "1000629095エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_24].SelectionIndex[1]
+msgid "1000630077エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_25].Script
+msgid "1000629096エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_25].SelectionIndex[1]
+msgid "1000630078エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_26].Script
+msgid "1000629097エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_27].Script
+msgid "1000629098エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_27].SelectionIndex[1]
+msgid "1000630079エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_28].Script
+msgid "1000629099エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_29].Script
+msgid "1000629100エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_29].SelectionIndex[1]
+msgid "1000630080エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_29].SelectionIndex[2]
+msgid "1000630224エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_30].Script
+msgid "1000629101エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_31].Script
+msgid "1000629102エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_32].Script
+msgid "1000629103エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_33].Script
+msgid "1000629104エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_33].SelectionIndex[1]
+msgid "1000630081エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_34].Script
+msgid "1000629105エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_34].SelectionIndex[1]
+msgid "1000630082エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_35].Script
+msgid "1000629106エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_36].Script
+msgid "1000629107エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_36].SelectionIndex[1]
+msgid "1000630083エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_37].Script
+msgid "1000629108エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_38].Script
+msgid "1000629109エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_39].Script
+msgid "1000629110エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_39].SelectionIndex[1]
+msgid "1000630084エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_40].Script
+msgid "1000629111エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_41].Script
+msgid "1000629112エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_41].SelectionIndex[1]
+msgid "1000630085エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_42].Script
+msgid "1000629113エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_43].Script
+msgid "1000629114エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_43].SelectionIndex[1]
+msgid "1000630086エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_44].Script
+msgid "1000629115エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_45].Script
+msgid "1000629116エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_46].Script
+msgid "1000629117エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_46].SelectionIndex[1]
+msgid "1000630087エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_47].Script
+msgid "1000629118エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_48].Script
+msgid "1000629119エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_48].SelectionIndex[1]
+msgid "1000630088エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_48].SelectionIndex[2]
+msgid "1000630223エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_49].Script
+msgid "1000629120エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_50].Script
+msgid "1000629121エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_51].Script
+msgid "1000629122エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_51].SelectionIndex[1]
+msgid "1000630089エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01_2_52].Script
+msgid "1000629123エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_1].Script
+msgid "1000629800エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_2].Script
+msgid "1000629801エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_3].Script
+msgid "1000629802エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_4].Script
+msgid "1000629803エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_5].Script
+msgid "1000629804エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_6].Script
+msgid "1000629805エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_7].Script
+msgid "1000629806エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_8].Script
+msgid "1000629807エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_9].Script
+msgid "1000629808エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_10].Script
+msgid "1000629809エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_11].Script
+msgid "1000629810エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_12].Script
+msgid "1000629811エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_13].Script
+msgid "1000629812エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_14].Script
+msgid "1000629813エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_15].Script
+msgid "1000629814エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_16].Script
+msgid "1000629815エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_17].Script
+msgid "1000629816エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_18].Script
+msgid "1000629817エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_19].Script
+msgid "1000629818エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_20].Script
+msgid "1000629819エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_21].Script
+msgid "1000629820エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_22].Script
+msgid "1000629821エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_23].Script
+msgid "1000629822エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_24].Script
+msgid "1000629823エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_25].Script
+msgid "1000629824エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_26].Script
+msgid "1000629825エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_27].Script
+msgid "1000629826エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_28].Script
+msgid "1000629827エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_29].Script
+msgid "1000629828エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_30].Script
+msgid "1000629829エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_31].Script
+msgid "1000629830エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_32].Script
+msgid "1000629831エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_33].Script
+msgid "1000629832エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_34].Script
+msgid "1000629833エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_35].Script
+msgid "1000629834エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_36].Script
+msgid "1000629835エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_37].Script
+msgid "1000629836エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_38].Script
+msgid "1000629837エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_39].Script
+msgid "1000629838エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_40].Script
+msgid "1000629839エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_41].Script
+msgid "1000629840エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_42].Script
+msgid "1000629841エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_43].Script
+msgid "1000629842エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_44].Script
+msgid "1000629843エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_45].Script
+msgid "1000629844エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_46].Script
+msgid "1000629845エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_47].Script
+msgid "1000629846エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_48].Script
+msgid "1000629847エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_1_49].Script
+msgid "1000629848エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_1].Script
+msgid "1000629849エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_2].Script
+msgid "1000629850エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_3].Script
+msgid "1000629851エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_4].Script
+msgid "1000629852エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_5].Script
+msgid "1000629853エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_6].Script
+msgid "1000629854エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_7].Script
+msgid "1000629855エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_8].Script
+msgid "1000629856エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_9].Script
+msgid "1000629857エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_10].Script
+msgid "1000629858エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_11].Script
+msgid "1000629859エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_12].Script
+msgid "1000629860エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_13].Script
+msgid "1000629861エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_14].Script
+msgid "1000629862エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_15].Script
+msgid "1000629863エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_16].Script
+msgid "1000629864エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_17].Script
+msgid "1000629865エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_18].Script
+msgid "1000629866エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_19].Script
+msgid "1000629867エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_20].Script
+msgid "1000629868エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_21].Script
+msgid "1000629869エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_22].Script
+msgid "1000629870エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_23].Script
+msgid "1000629871エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_24].Script
+msgid "1000629872エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_25].Script
+msgid "1000629873エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_26].Script
+msgid "1000629874エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01b_2_27].Script
+msgid "1000629875エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_1].Script
+msgid "1000630327エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_1].SelectionIndex[1]
+msgid "1000630465エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_2].Script
+msgid "1000630328エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_2].SelectionIndex[1]
+msgid "1000630466エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_3].Script
+msgid "1000630329エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_3].SelectionIndex[1]
+msgid "1000630467エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_4].Script
+msgid "1000630330エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_5].Script
+msgid "1000630331エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_6].Script
+msgid "1000630332エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_7].Script
+msgid "1000630333エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_8].Script
+msgid "1000630334エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_9].Script
+msgid "1000630335エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_10].Script
+msgid "1000630336エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_10].SelectionIndex[1]
+msgid "1000630468エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_11].Script
+msgid "1000630337エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_12].Script
+msgid "1000630338エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_13].Script
+msgid "1000630339エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_14].Script
+msgid "1000630340エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_14].SelectionIndex[1]
+msgid "1000630469エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_15].Script
+msgid "1000630341エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_15].SelectionIndex[1]
+msgid "1000630470エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_16].Script
+msgid "1000630342エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_17].Script
+msgid "1000630343エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_17].SelectionIndex[1]
+msgid "1000630471エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_18].Script
+msgid "1000630344エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_19].Script
+msgid "1000630345エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_20].Script
+msgid "1000630346エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_20].SelectionIndex[1]
+msgid "1000630472エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_21].Script
+msgid "1000630347エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_21].SelectionIndex[1]
+msgid "1000630473エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_22].Script
+msgid "1000630348エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_22].SelectionIndex[1]
+msgid "1000630474エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_23].Script
+msgid "1000630349エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_24].Script
+msgid "1000630350エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_24].SelectionIndex[1]
+msgid "1000630475エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_25].Script
+msgid "1000630351エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_25].SelectionIndex[1]
+msgid "1000630476エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_26].Script
+msgid "1000630352エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_26].SelectionIndex[1]
+msgid "1000630477エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_27].Script
+msgid "1000630353エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_28].Script
+msgid "1000630354エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_28].SelectionIndex[1]
+msgid "1000630478エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_29].Script
+msgid "1000630355エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_29].SelectionIndex[1]
+msgid "1000630479エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_30].Script
+msgid "1000630356エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_30].SelectionIndex[1]
+msgid "1000630480エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_31].Script
+msgid "1000630357エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_31].SelectionIndex[1]
+msgid "1000630481エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_32].Script
+msgid "1000630358エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_33].Script
+msgid "1000630359エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_33].SelectionIndex[1]
+msgid "1000630482エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_1_34].Script
+msgid "1000630360エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_1].Script
+msgid "1000630361エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_2].Script
+msgid "1000630362エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_2].SelectionIndex[1]
+msgid "1000630483エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_3].Script
+msgid "1000630363エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_4].Script
+msgid "1000630364エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_5].Script
+msgid "1000630365エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_6].Script
+msgid "1000630366エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_7].Script
+msgid "1000630367エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_8].Script
+msgid "1000630368エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_9].Script
+msgid "1000630369エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_10].Script
+msgid "1000630370エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_11].Script
+msgid "1000630371エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_11].SelectionIndex[1]
+msgid "1000630484エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_12].Script
+msgid "1000630372エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_13].Script
+msgid "1000630373エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_13].SelectionIndex[1]
+msgid "1000630485エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_14].Script
+msgid "1000630374エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_14].SelectionIndex[1]
+msgid "1000630486エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_15].Script
+msgid "1000630375エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_16].Script
+msgid "1000630376エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_17].Script
+msgid "1000630377エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_18].Script
+msgid "1000630378エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_18].SelectionIndex[1]
+msgid "1000630487エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_19].Script
+msgid "1000630379エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_19].SelectionIndex[1]
+msgid "1000630488エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_20].Script
+msgid "1000630380エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_21].Script
+msgid "1000630381エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_21].SelectionIndex[1]
+msgid "1000630489エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_22].Script
+msgid "1000630382エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_23].Script
+msgid "1000630383エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_24].Script
+msgid "1000630384エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_25].Script
+msgid "1000630385エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_25].SelectionIndex[1]
+msgid "1000630490エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_26].Script
+msgid "1000630386エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_27].Script
+msgid "1000630387エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_28].Script
+msgid "1000630388エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_28].SelectionIndex[1]
+msgid "1000630491エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_29].Script
+msgid "1000630389エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_29].SelectionIndex[1]
+msgid "1000630492エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_30].Script
+msgid "1000630390エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_30].SelectionIndex[1]
+msgid "1000630493エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_31].Script
+msgid "1000630391エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_31].SelectionIndex[1]
+msgid "1000630494エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_32].Script
+msgid "1000630392エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_32].SelectionIndex[1]
+msgid "1000630495エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_33].Script
+msgid "1000630393エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_34].Script
+msgid "1000630394エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_35].Script
+msgid "1000630395エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_35].SelectionIndex[1]
+msgid "1000630496エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_36].Script
+msgid "1000630396エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_36].SelectionIndex[1]
+msgid "1000630497エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage01e_2_37].Script
+msgid "1000630397エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_1].BG_Description
+msgid "1000630227エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_1].Script
+msgid "1000629124エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_2].Script
+msgid "1000629125エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_3].Script
+msgid "1000629126エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_4].Script
+msgid "1000629127エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_5].Script
+msgid "1000629128エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_6].Script
+msgid "1000629129エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_7].Script
+msgid "1000629130エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_8].Script
+msgid "1000629131エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_9].Script
+msgid "1000629132エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_10].Script
+msgid "1000629133エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_11].Script
+msgid "1000629134エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_12].Script
+msgid "1000629135エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_13].Script
+msgid "1000629136エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_14].Script
+msgid "1000629137エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_15].Script
+msgid "1000629138エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_16].Script
+msgid "1000629139エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_17].Script
+msgid "1000629140エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_18].Script
+msgid "1000629141エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_19].Script
+msgid "1000629142エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_20].Script
+msgid "1000629143エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_20].SelectionIndex[1]
+msgid "1000630090エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_21].Script
+msgid "1000629144エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_22].Script
+msgid "1000629145エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_22].SelectionIndex[1]
+msgid "1000630091エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_23].Script
+msgid "1000629146エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_24].Script
+msgid "1000629147エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_24].SelectionIndex[1]
+msgid "1000630092エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_25].Script
+msgid "1000629148エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_26].Script
+msgid "1000629149エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_26].SelectionIndex[1]
+msgid "1000630093エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_27].Script
+msgid "1000629150エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_28].Script
+msgid "1000629151エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_28].SelectionIndex[1]
+msgid "1000630094エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_29].Script
+msgid "1000629152エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_29].SelectionIndex[1]
+msgid "1000630095エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_30].Script
+msgid "1000629153エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_31].Script
+msgid "1000629154エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_32].Script
+msgid "1000629155エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_33].Script
+msgid "1000629156エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_34].Script
+msgid "1000629157エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_34].SelectionIndex[1]
+msgid "1000630096エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_35].Script
+msgid "1000629158エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_36].Script
+msgid "1000629159エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_36].SelectionIndex[1]
+msgid "1000630097エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_37].Script
+msgid "1000629160エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_38].Script
+msgid "1000629161エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_38].SelectionIndex[1]
+msgid "1000630098エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_39].Script
+msgid "1000629162エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_39].SelectionIndex[1]
+msgid "1000630099エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_1_40].Script
+msgid "1000629163エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_1].Script
+msgid "1000629164エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_2].Script
+msgid "1000629165エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_3].Script
+msgid "1000629166エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_4].Script
+msgid "1000629167エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_5].Script
+msgid "1000629168エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_6].Script
+msgid "1000629169エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_7].Script
+msgid "1000629170エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_8].Script
+msgid "1000629171エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_9].Script
+msgid "1000629172エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_10].Script
+msgid "1000629173エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_11].Script
+msgid "1000629174エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_12].Script
+msgid "1000629175エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_13].Script
+msgid "1000629176エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_14].Script
+msgid "1000629177エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_15].Script
+msgid "1000629178エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_16].Script
+msgid "1000629179エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_17].Script
+msgid "1000629180エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_18].Script
+msgid "1000629181エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_19].Script
+msgid "1000629182エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_20].Script
+msgid "1000629183エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_21].Script
+msgid "1000629184エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_22].Script
+msgid "1000629185エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_23].Script
+msgid "1000629186エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_24].Script
+msgid "1000629187エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_25].Script
+msgid "1000629188エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_26].Script
+msgid "1000629189エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_26].SelectionIndex[1]
+msgid "1000630100エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_27].Script
+msgid "1000629190エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_28].Char_Name_C
+msgid "1000630234エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_28].Script
+msgid "1000629191エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_29].Script
+msgid "1000629192エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_30].Script
+msgid "1000629193エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_31].Script
+msgid "1000629194エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_32].Script
+msgid "1000629195エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_33].Script
+msgid "1000629196エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_34].Script
+msgid "1000629197エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_35].Script
+msgid "1000629198エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_36].Script
+msgid "1000629199エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_37].Script
+msgid "1000629200エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_38].Script
+msgid "1000629201エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_39].Script
+msgid "1000629202エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_40].Script
+msgid "1000629203エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_41].Script
+msgid "1000629204エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_42].Script
+msgid "1000629205エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_43].Script
+msgid "1000629206エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_44].Script
+msgid "1000629207エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_44].SelectionIndex[1]
+msgid "1000630101エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_45].Script
+msgid "1000629208エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_46].Script
+msgid "1000629209エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_47].Script
+msgid "1000629210エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_47].SelectionIndex[1]
+msgid "1000630102エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_48].Script
+msgid "1000629211エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_48].SelectionIndex[1]
+msgid "1000630103エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_49].Script
+msgid "1000629212エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_49].SelectionIndex[1]
+msgid "1000630104エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_2_50].Script
+msgid "1000629213エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_3_1].Script
+msgid "1000629214エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_3_2].Script
+msgid "1000629215エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_3_3].Script
+msgid "1000629216エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_3_4].Script
+msgid "1000629217エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_3_4].SelectionIndex[1]
+msgid "1000630105エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02_3_5].Script
+msgid "1000629218エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_1].Script
+msgid "1000629876エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_2].Script
+msgid "1000629877エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_3].Script
+msgid "1000629878エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_4].Script
+msgid "1000629879エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_5].Script
+msgid "1000629880エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_6].Script
+msgid "1000629881エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_7].Script
+msgid "1000629882エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_8].Script
+msgid "1000629883エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_9].Script
+msgid "1000629884エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_10].Script
+msgid "1000629885エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_11].Script
+msgid "1000629886エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_12].Script
+msgid "1000629887エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_13].Script
+msgid "1000629888エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_14].Script
+msgid "1000629889エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_15].Script
+msgid "1000629890エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_16].Script
+msgid "1000629891エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_17].Script
+msgid "1000629892エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_18].Script
+msgid "1000629893エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_19].Script
+msgid "1000629894エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_20].Script
+msgid "1000629895エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_21].Script
+msgid "1000629896エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_22].Script
+msgid "1000629897エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_23].Script
+msgid "1000629898エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_24].Script
+msgid "1000629899エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_25].Script
+msgid "1000629900エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_26].Script
+msgid "1000629901エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_27].Script
+msgid "1000629902エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_28].Script
+msgid "1000629903エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_29].Script
+msgid "1000629904エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_30].Script
+msgid "1000629905エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_31].Script
+msgid "1000629906エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_32].Script
+msgid "1000629907エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_33].Script
+msgid "1000629908エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_34].Script
+msgid "1000629909エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_35].Script
+msgid "1000629910エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_36].Script
+msgid "1000629911エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_37].Script
+msgid "1000629912エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_38].Script
+msgid "1000629913エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_39].Script
+msgid "1000629914エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_40].Script
+msgid "1000629915エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_41].Script
+msgid "1000629916エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_42].Script
+msgid "1000629917エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_43].Script
+msgid "1000629918エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_44].Script
+msgid "1000629919エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_45].Script
+msgid "1000629920エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_46].Script
+msgid "1000629921エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_47].Script
+msgid "1000629922エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_48].Script
+msgid "1000629923エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_49].Script
+msgid "1000629924エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_50].Script
+msgid "1000629925エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_51].Script
+msgid "1000629926エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_52].Script
+msgid "1000629927エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_53].Script
+msgid "1000629928エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_54].Script
+msgid "1000629929エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_55].Script
+msgid "1000629930エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_56].Script
+msgid "1000629931エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_57].Script
+msgid "1000629932エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_58].Script
+msgid "1000629933エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_59].Script
+msgid "1000629934エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_60].Script
+msgid "1000629935エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_61].Script
+msgid "1000629936エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_62].Script
+msgid "1000629937エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_1_63].Script
+msgid "1000629938エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_1].Script
+msgid "1000629939エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_2].Script
+msgid "1000629940エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_3].Script
+msgid "1000629941エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_4].Script
+msgid "1000629942エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_5].Script
+msgid "1000629943エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_6].Script
+msgid "1000629944エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_7].Script
+msgid "1000629945エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_8].Script
+msgid "1000629946エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_9].Script
+msgid "1000629947エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_10].Script
+msgid "1000629948エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_11].Script
+msgid "1000629949エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_12].Script
+msgid "1000629950エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_13].Script
+msgid "1000629951エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_14].Script
+msgid "1000629952エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_15].Script
+msgid "1000629953エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_16].Script
+msgid "1000629954エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_17].Script
+msgid "1000629955エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_18].Script
+msgid "1000629956エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_19].Script
+msgid "1000629957エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_20].Script
+msgid "1000629958エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_21].Script
+msgid "1000629959エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_22].Script
+msgid "1000629960エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_23].Script
+msgid "1000629961エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_24].Script
+msgid "1000629962エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_25].Script
+msgid "1000629963エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_26].Script
+msgid "1000629964エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_27].Script
+msgid "1000629965エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_28].Script
+msgid "1000629966エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_29].Script
+msgid "1000629967エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_30].Script
+msgid "1000629968エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_31].Script
+msgid "1000629969エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_32].Script
+msgid "1000629970エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_33].Script
+msgid "1000629971エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_34].Script
+msgid "1000629972エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_35].Script
+msgid "1000629973エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_36].Script
+msgid "1000629974エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_37].Script
+msgid "1000629975エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_38].Script
+msgid "1000629976エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_39].Script
+msgid "1000629977エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_40].Script
+msgid "1000629978エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_41].Script
+msgid "1000629979エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02b_2_42].Script
+msgid "1000629980エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_1].Script
+msgid "1000630398エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_2].Script
+msgid "1000630399エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_2].SelectionIndex[1]
+msgid "1000630498エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_3].Script
+msgid "1000630400エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_4].Script
+msgid "1000630401エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_4].SelectionIndex[1]
+msgid "1000630499エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_5].Script
+msgid "1000630402エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_6].Script
+msgid "1000630403エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_7].Script
+msgid "1000630404エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_8].Script
+msgid "1000630405エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_9].Script
+msgid "1000630406エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_9].SelectionIndex[1]
+msgid "1000630500エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_10].Script
+msgid "1000630407エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_10].SelectionIndex[1]
+msgid "1000630501エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_11].Script
+msgid "1000630408エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_11].SelectionIndex[1]
+msgid "1000630502エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_12].Script
+msgid "1000630409エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_13].Script
+msgid "1000630410エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_13].SelectionIndex[1]
+msgid "1000630503エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_14].Script
+msgid "1000630411エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_15].Script
+msgid "1000630412エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_16].Script
+msgid "1000630413エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_17].Script
+msgid "1000630414エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_17].SelectionIndex[1]
+msgid "1000630504エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_18].Script
+msgid "1000630415エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_19].Script
+msgid "1000630416エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_20].Script
+msgid "1000630417エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_20].SelectionIndex[1]
+msgid "1000630505エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_21].Script
+msgid "1000630418エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_21].SelectionIndex[1]
+msgid "1000630506エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_22].Script
+msgid "1000630419エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_22].SelectionIndex[1]
+msgid "1000630507エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_23].Script
+msgid "1000630420エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_24].Script
+msgid "1000630421エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_25].Script
+msgid "1000630422エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_25].SelectionIndex[1]
+msgid "1000630508エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_26].Script
+msgid "1000630423エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_27].Script
+msgid "1000630424エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_27].SelectionIndex[1]
+msgid "1000630509エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_28].Script
+msgid "1000630425エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_29].Script
+msgid "1000630426エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_29].SelectionIndex[1]
+msgid "1000630510エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_30].Script
+msgid "1000630427エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_31].Script
+msgid "1000630428エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_32].Script
+msgid "1000630429エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_32].SelectionIndex[1]
+msgid "1000630511エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_33].Script
+msgid "1000630430エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_34].Script
+msgid "1000630431エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_34].SelectionIndex[1]
+msgid "1000630512エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_35].Script
+msgid "1000630432エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_35].SelectionIndex[1]
+msgid "1000630513エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_1_36].Script
+msgid "1000630433エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_1].Script
+msgid "1000630434エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_2].Script
+msgid "1000630435エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_3].Script
+msgid "1000630436エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_4].Script
+msgid "1000630437エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_4].SelectionIndex[1]
+msgid "1000630514エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_5].Script
+msgid "1000630438エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_6].Script
+msgid "1000630439エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_7].Script
+msgid "1000630440エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_7].SelectionIndex[1]
+msgid "1000630515エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_8].Script
+msgid "1000630441エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_9].Script
+msgid "1000630442エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_9].SelectionIndex[1]
+msgid "1000630516エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_10].Script
+msgid "1000630443エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_11].Script
+msgid "1000630444エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_11].SelectionIndex[1]
+msgid "1000630517エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_12].Script
+msgid "1000630445エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_12].SelectionIndex[1]
+msgid "1000630518エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_13].Script
+msgid "1000630446エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_14].Script
+msgid "1000630447エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_15].Script
+msgid "1000630448エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_15].SelectionIndex[1]
+msgid "1000630519エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_16].Script
+msgid "1000630449エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_16].SelectionIndex[1]
+msgid "1000630520エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_17].Script
+msgid "1000630450エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_18].Script
+msgid "1000630451エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_18].SelectionIndex[1]
+msgid "1000630521エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_19].Script
+msgid "1000630452エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_19].SelectionIndex[1]
+msgid "1000630522エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_20].Script
+msgid "1000630453エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_21].Script
+msgid "1000630454エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_21].SelectionIndex[1]
+msgid "1000630523エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_22].Script
+msgid "1000630455エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_23].Script
+msgid "1000630456エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_23].SelectionIndex[1]
+msgid "1000630524エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_24].Script
+msgid "1000630457エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_25].Script
+msgid "1000630458エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_26].Script
+msgid "1000630459エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_26].SelectionIndex[1]
+msgid "1000630525エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_27].Script
+msgid "1000630460エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_27].SelectionIndex[1]
+msgid "1000630526エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_28].Script
+msgid "1000630461エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_29].Script
+msgid "1000630462エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_30].Script
+msgid "1000630463エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage02e_2_31].Script
+msgid "1000630464エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_1].BG_Description
+msgid "1000630228エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_1].Script
+msgid "1000629219エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_2].Script
+msgid "1000629220エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_3].Script
+msgid "1000629221エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_4].Script
+msgid "1000629222エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_5].Script
+msgid "1000629223エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_6].Script
+msgid "1000629224エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_7].Script
+msgid "1000629225エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_8].Script
+msgid "1000629226エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_9].Script
+msgid "1000629227エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_10].Script
+msgid "1000629228エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_11].Script
+msgid "1000629229エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_12].Script
+msgid "1000629230エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_13].Script
+msgid "1000629231エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_14].Script
+msgid "1000629232エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_15].Script
+msgid "1000629233エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_16].Script
+msgid "1000629234エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_17].Script
+msgid "1000629235エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_18].Script
+msgid "1000629236エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_19].Script
+msgid "1000629237エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_20].Script
+msgid "1000629238エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_21].Script
+msgid "1000629239エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_22].Script
+msgid "1000629240エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_23].Script
+msgid "1000629241エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_24].Script
+msgid "1000629242エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_25].Script
+msgid "1000629243エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_26].Script
+msgid "1000629244エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_27].Script
+msgid "1000629245エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_28].Script
+msgid "1000629246エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_29].Script
+msgid "1000629247エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_30].Script
+msgid "1000629248エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_31].Script
+msgid "1000629249エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_32].Script
+msgid "1000629250エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_33].Script
+msgid "1000629251エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_34].Script
+msgid "1000629252エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_35].Script
+msgid "1000629253エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_36].Script
+msgid "1000629254エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_37].Script
+msgid "1000629255エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_38].Script
+msgid "1000629256エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_39].Script
+msgid "1000629257エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_40].Script
+msgid "1000629258エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_41].Script
+msgid "1000629259エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_42].Script
+msgid "1000629260エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_43].Script
+msgid "1000629261エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_44].Script
+msgid "1000629262エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_45].Script
+msgid "1000629263エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_46].Script
+msgid "1000629264エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_47].Script
+msgid "1000629265エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_48].Script
+msgid "1000629266エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_49].Script
+msgid "1000629267エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_50].Script
+msgid "1000629268エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_51].Script
+msgid "1000629269エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_52].Script
+msgid "1000629270エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_53].Script
+msgid "1000629271エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_54].Script
+msgid "1000629272エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_55].Script
+msgid "1000629273エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_56].Script
+msgid "1000629274エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_57].Script
+msgid "1000629275エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_58].Script
+msgid "1000629276エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_59].Script
+msgid "1000629277エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_60].Script
+msgid "1000629278エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_1_61].Script
+msgid "1000629279エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_1].Script
+msgid "1000629280エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_2].Script
+msgid "1000629281エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_3].Script
+msgid "1000629282エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_4].Script
+msgid "1000629283エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_5].Script
+msgid "1000629284エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_6].Script
+msgid "1000629285エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_7].Script
+msgid "1000629286エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_8].Script
+msgid "1000629287エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_9].Script
+msgid "1000629288エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_10].Script
+msgid "1000629289エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_11].Script
+msgid "1000629290エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_12].Script
+msgid "1000629291エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_13].Script
+msgid "1000629292エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_14].Script
+msgid "1000629293エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_15].Script
+msgid "1000629294エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_16].Script
+msgid "1000629295エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_17].Script
+msgid "1000629296エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_18].Script
+msgid "1000629297エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_19].Script
+msgid "1000629298エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_20].Script
+msgid "1000629299エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_21].Script
+msgid "1000629300エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_22].Script
+msgid "1000629301エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_23].Script
+msgid "1000629302エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_24].Script
+msgid "1000629303エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_25].Script
+msgid "1000629304エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_26].Script
+msgid "1000629305エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_27].Script
+msgid "1000629306エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_28].Script
+msgid "1000629307エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_29].Script
+msgid "1000629308エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_30].Script
+msgid "1000629309エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_31].Script
+msgid "1000629310エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_32].Script
+msgid "1000629311エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_33].Script
+msgid "1000629312エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_34].Script
+msgid "1000629313エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_35].Script
+msgid "1000629314エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_36].Script
+msgid "1000629315エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_37].Script
+msgid "1000629316エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_38].Script
+msgid "1000629317エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_39].Script
+msgid "1000629318エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_40].Script
+msgid "1000629319エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_41].Script
+msgid "1000629320エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_42].Script
+msgid "1000629321エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_43].Script
+msgid "1000629322エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_44].Script
+msgid "1000629323エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_44].SelectionIndex[1]
+msgid "1000630106エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_45].Script
+msgid "1000629324エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_46].Script
+msgid "1000629325エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_46].SelectionIndex[1]
+msgid "1000630107エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_47].Script
+msgid "1000629326エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_47].SelectionIndex[1]
+msgid "1000630108エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_48].Script
+msgid "1000629327エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_48].SelectionIndex[1]
+msgid "1000630109エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_49].Script
+msgid "1000629328エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_50].Script
+msgid "1000629329エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_51].Script
+msgid "1000629330エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_51].SelectionIndex[1]
+msgid "1000630110エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_52].Script
+msgid "1000629331エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_52].SelectionIndex[1]
+msgid "1000630111エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_53].Script
+msgid "1000629332エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_54].Script
+msgid "1000629333エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_54].SelectionIndex[1]
+msgid "1000630112エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03_2_55].Script
+msgid "1000629334エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_1].Script
+msgid "1000629981エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_2].Script
+msgid "1000629982エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_3].Script
+msgid "1000629983エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_4].Script
+msgid "1000629984エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_5].Script
+msgid "1000629985エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_6].Script
+msgid "1000629986エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_7].Script
+msgid "1000629987エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_8].Script
+msgid "1000629988エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_9].Script
+msgid "1000629989エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_10].Script
+msgid "1000629990エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_11].Script
+msgid "1000629991エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_12].Script
+msgid "1000629992エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_13].Script
+msgid "1000629993エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_14].Script
+msgid "1000629994エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_15].Script
+msgid "1000629995エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_16].Script
+msgid "1000629996エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_17].Script
+msgid "1000629997エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_18].Script
+msgid "1000629998エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_19].Script
+msgid "1000629999エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_20].Script
+msgid "1000630000エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_21].Script
+msgid "1000630001エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_22].Script
+msgid "1000630002エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_23].Script
+msgid "1000630003エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_24].Script
+msgid "1000630004エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_25].Script
+msgid "1000630005エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_26].Script
+msgid "1000630006エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_27].Script
+msgid "1000630007エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_28].Script
+msgid "1000630008エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_29].Script
+msgid "1000630009エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_30].Script
+msgid "1000630010エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_31].Script
+msgid "1000630011エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_32].Script
+msgid "1000630012エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_33].Script
+msgid "1000630013エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_34].Script
+msgid "1000630014エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_35].Script
+msgid "1000630015エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_36].Script
+msgid "1000630016エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_37].Script
+msgid "1000630017エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_1_38].Script
+msgid "1000630018エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_1].Script
+msgid "1000630019エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_2].Script
+msgid "1000630020エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_3].Script
+msgid "1000630021エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_4].Script
+msgid "1000630022エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_5].Script
+msgid "1000630023エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_6].Script
+msgid "1000630024エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_7].Script
+msgid "1000630025エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_8].Script
+msgid "1000630026エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_9].Script
+msgid "1000630027エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_10].Script
+msgid "1000630028エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_11].Script
+msgid "1000630029エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_12].Script
+msgid "1000630030エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_13].Script
+msgid "1000630031エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_14].Script
+msgid "1000630032エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_15].Script
+msgid "1000630033エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_16].Script
+msgid "1000630034エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_17].Script
+msgid "1000630035エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_18].Script
+msgid "1000630036エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_19].Script
+msgid "1000630037エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_20].Script
+msgid "1000630038エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_21].Script
+msgid "1000630039エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_22].Script
+msgid "1000630040エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_23].Script
+msgid "1000630041エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_24].Script
+msgid "1000630042エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_25].Script
+msgid "1000630043エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_26].Script
+msgid "1000630044エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_27].Script
+msgid "1000630045エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_28].Script
+msgid "1000630046エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_29].Script
+msgid "1000630047エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_30].Script
+msgid "1000630048エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_31].Script
+msgid "1000630049エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_32].Script
+msgid "1000630050エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_33].Script
+msgid "1000630051エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_34].Script
+msgid "1000630052エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_35].Script
+msgid "1000630053エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage03b_2_36].Script
+msgid "1000630054エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_1].Script
+msgid "1000629335エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_2].Script
+msgid "1000629336エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_3].Script
+msgid "1000629337エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_4].Script
+msgid "1000629338エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_5].Script
+msgid "1000629339エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_6].Script
+msgid "1000629340エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_7].Script
+msgid "1000629341エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_8].Script
+msgid "1000629342エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_9].Script
+msgid "1000629343エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_10].Script
+msgid "1000629344エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_11].Script
+msgid "1000629345エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_12].Script
+msgid "1000629346エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_13].Script
+msgid "1000629347エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_14].Script
+msgid "1000629348エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_15].Script
+msgid "1000629349エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_16].Script
+msgid "1000629350エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_17].Script
+msgid "1000629351エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_18].Char_Name_C
+msgid "1000630229エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_18].Script
+msgid "1000629352エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_19].Script
+msgid "1000629353エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_20].Script
+msgid "1000629354エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_21].Script
+msgid "1000629355エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_22].Script
+msgid "1000629356エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_23].Script
+msgid "1000629357エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_24].Script
+msgid "1000629358エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_25].Script
+msgid "1000629359エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_26].Script
+msgid "1000629360エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_27].Script
+msgid "1000629361エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_28].Script
+msgid "1000629362エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_29].Script
+msgid "1000629363エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_30].Script
+msgid "1000629364エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_31].Script
+msgid "1000629365エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_32].Script
+msgid "1000629366エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_33].Script
+msgid "1000629367エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_34].Script
+msgid "1000629368エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_35].Script
+msgid "1000629369エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_36].Script
+msgid "1000629370エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_37].Script
+msgid "1000629371エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_38].Script
+msgid "1000629372エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_39].Script
+msgid "1000629373エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_40].Script
+msgid "1000629374エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_41].Script
+msgid "1000629375エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_42].Script
+msgid "1000629376エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_43].Script
+msgid "1000629377エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_1_44].Script
+msgid "1000629378エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_1].Script
+msgid "1000629379エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_2].Script
+msgid "1000629380エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_2].SelectionIndex[1]
+msgid "1000630113エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_3].Script
+msgid "1000629381エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_3].SelectionIndex[1]
+msgid "1000630114エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_4].Script
+msgid "1000629382エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_4].SelectionIndex[1]
+msgid "1000630115エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_5].Script
+msgid "1000629383エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_6].Script
+msgid "1000629384エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_6].SelectionIndex[1]
+msgid "1000630116エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_7].Script
+msgid "1000629385エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_8].Script
+msgid "1000629386エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_9].Script
+msgid "1000629387エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_10].Script
+msgid "1000629388エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_11].Script
+msgid "1000629389エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_12].Script
+msgid "1000629390エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_13].Script
+msgid "1000629391エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_13].SelectionIndex[1]
+msgid "1000630117エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_14].Script
+msgid "1000629392エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_15].Script
+msgid "1000629393エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_16].Script
+msgid "1000629394エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_16].SelectionIndex[1]
+msgid "1000630118エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_17].Script
+msgid "1000629395エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_17].SelectionIndex[1]
+msgid "1000630119エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_18].Script
+msgid "1000629396エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_19].Script
+msgid "1000629397エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_19].SelectionIndex[1]
+msgid "1000630120エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_20].Script
+msgid "1000629398エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_20].SelectionIndex[1]
+msgid "1000630121エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_2_21].Script
+msgid "1000629399エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_1].Script
+msgid "1000629400エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_1].SelectionIndex[1]
+msgid "1000630122エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_2].Script
+msgid "1000629401エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_2].SelectionIndex[1]
+msgid "1000630123エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_3].Script
+msgid "1000629402エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_4].Script
+msgid "1000629403エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_4].SelectionIndex[1]
+msgid "1000630124エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04_3_5].Script
+msgid "1000629404エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_1].Script
+msgid "1000630235エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_2].Script
+msgid "1000630236エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_3].Script
+msgid "1000630237エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_4].Script
+msgid "1000630238エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_5].Script
+msgid "1000630239エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_6].Script
+msgid "1000630240エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_7].Script
+msgid "1000630241エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_8].Script
+msgid "1000630242エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_9].Script
+msgid "1000630243エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_10].Script
+msgid "1000630244エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_11].Script
+msgid "1000630245エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_12].Script
+msgid "1000630246エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_13].Script
+msgid "1000630247エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_14].Script
+msgid "1000630248エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_15].Script
+msgid "1000630249エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_16].Script
+msgid "1000630250エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_17].Script
+msgid "1000630251エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_18].Script
+msgid "1000630252エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_19].Script
+msgid "1000630253エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_20].Script
+msgid "1000630254エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_21].Script
+msgid "1000630255エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_22].Script
+msgid "1000630256エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_23].Script
+msgid "1000630257エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_24].Script
+msgid "1000630258エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_25].Script
+msgid "1000630259エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_26].Script
+msgid "1000630260エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_27].Script
+msgid "1000630261エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_28].Script
+msgid "1000630262エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_29].Script
+msgid "1000630263エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_30].Script
+msgid "1000630264エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_31].Script
+msgid "1000630265エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_32].Script
+msgid "1000630266エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_33].Script
+msgid "1000630267エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_34].Script
+msgid "1000630268エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_35].Script
+msgid "1000630269エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_36].Script
+msgid "1000630270エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_37].Script
+msgid "1000630271エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_38].Script
+msgid "1000630272エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_39].Script
+msgid "1000630273エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_40].Script
+msgid "1000630274エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_1_41].Script
+msgid "1000630275エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_1].Script
+msgid "1000630276エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_2].Script
+msgid "1000630277エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_3].Script
+msgid "1000630278エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_4].Script
+msgid "1000630279エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_5].Script
+msgid "1000630280エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_6].Script
+msgid "1000630281エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_7].Script
+msgid "1000630282エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_8].Script
+msgid "1000630283エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_9].Script
+msgid "1000630284エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_10].Script
+msgid "1000630285エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_11].Script
+msgid "1000630286エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_12].Script
+msgid "1000630287エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_13].Script
+msgid "1000630288エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_14].Script
+msgid "1000630289エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_15].Script
+msgid "1000630290エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_16].Script
+msgid "1000630291エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_17].Script
+msgid "1000630292エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_18].Script
+msgid "1000630293エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_19].Script
+msgid "1000630294エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_20].Script
+msgid "1000630295エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_21].Script
+msgid "1000630296エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_22].Script
+msgid "1000630297エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_23].Script
+msgid "1000630298エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_24].Script
+msgid "1000630299エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_25].Script
+msgid "1000630300エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_26].Script
+msgid "1000630301エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_27].Script
+msgid "1000630302エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_28].Script
+msgid "1000630303エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_29].Script
+msgid "1000630304エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_30].Script
+msgid "1000630305エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_31].Script
+msgid "1000630306エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_32].Script
+msgid "1000630307エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_33].Script
+msgid "1000630308エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_34].Script
+msgid "1000630309エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_35].Script
+msgid "1000630310エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_36].Script
+msgid "1000630311エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_37].Script
+msgid "1000630312エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_38].Script
+msgid "1000630313エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_39].Script
+msgid "1000630314エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_40].Script
+msgid "1000630315エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_41].Script
+msgid "1000630316エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_42].Script
+msgid "1000630317エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_43].Script
+msgid "1000630318エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_44].Script
+msgid "1000630319エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_45].Script
+msgid "1000630320エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_46].Script
+msgid "1000630321エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_47].Script
+msgid "1000630322エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_48].Script
+msgid "1000630323エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_49].Script
+msgid "1000630324エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_50].Script
+msgid "1000630325エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage04b_2_51].Script
+msgid "1000630326エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_1].Script
+msgid "1000629405エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_2].Script
+msgid "1000629406エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_3].Script
+msgid "1000629407エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_3].SelectionIndex[1]
+msgid "1000630125エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_4].Script
+msgid "1000629408エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_5].Script
+msgid "1000629409エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_5].SelectionIndex[1]
+msgid "1000630126エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_6].Script
+msgid "1000629410エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_7].Script
+msgid "1000629411エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_7].SelectionIndex[1]
+msgid "1000630127エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_8].Script
+msgid "1000629412エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_9].Script
+msgid "1000629413エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_9].SelectionIndex[1]
+msgid "1000630128エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_10].Script
+msgid "1000629414エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_11].Script
+msgid "1000629415エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_11].SelectionIndex[1]
+msgid "1000630129エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_12].Script
+msgid "1000629416エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_12].SelectionIndex[1]
+msgid "1000630130エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_13].Script
+msgid "1000629417エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_14].Script
+msgid "1000629418エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_15].Script
+msgid "1000629419エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_15].SelectionIndex[1]
+msgid "1000630131エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_16].Script
+msgid "1000629420エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_16].SelectionIndex[1]
+msgid "1000630132エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_17].Script
+msgid "1000629421エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_18].Script
+msgid "1000629422エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_19].Script
+msgid "1000629423エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_19].SelectionIndex[1]
+msgid "1000630133エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_20].Script
+msgid "1000629424エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_20].SelectionIndex[1]
+msgid "1000630134エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_21].Script
+msgid "1000629425エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_22].Script
+msgid "1000629426エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_22].SelectionIndex[1]
+msgid "1000630135エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_23].Script
+msgid "1000629427エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_24].Script
+msgid "1000629428エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_25].Script
+msgid "1000629429エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_26].Script
+msgid "1000629430エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_27].Script
+msgid "1000629431エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_27].SelectionIndex[1]
+msgid "1000630136エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_28].Script
+msgid "1000629432エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_29].Script
+msgid "1000629433エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_30].Script
+msgid "1000629434エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_31].Script
+msgid "1000629435エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_31].SelectionIndex[1]
+msgid "1000630137エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_32].Script
+msgid "1000629436エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_33].Script
+msgid "1000629437エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_34].Script
+msgid "1000629438エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_35].Script
+msgid "1000629439エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_35].SelectionIndex[1]
+msgid "1000630138エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_36].Script
+msgid "1000629440エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_37].Script
+msgid "1000629441エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_38].Script
+msgid "1000629442エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_38].SelectionIndex[1]
+msgid "1000630139エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_39].Script
+msgid "1000629443エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_40].Script
+msgid "1000629444エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_41].Script
+msgid "1000629445エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_41].SelectionIndex[1]
+msgid "1000630140エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_1_42].Script
+msgid "1000629446エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_1].Script
+msgid "1000629447エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_2].Script
+msgid "1000629448エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_2].SelectionIndex[1]
+msgid "1000630141エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_3].Script
+msgid "1000629449エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_3].SelectionIndex[1]
+msgid "1000630142エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_4].Script
+msgid "1000629450エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_4].SelectionIndex[1]
+msgid "1000630143エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_5].Script
+msgid "1000629451エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_6].Script
+msgid "1000629452エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_6].SelectionIndex[1]
+msgid "1000630144エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_7].Script
+msgid "1000629453エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_8].Script
+msgid "1000629454エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_8].SelectionIndex[1]
+msgid "1000630145エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_9].Script
+msgid "1000629455エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_10].Script
+msgid "1000629456エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_10].SelectionIndex[1]
+msgid "1000630146エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_11].Script
+msgid "1000629457エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_12].Script
+msgid "1000629458エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_12].SelectionIndex[1]
+msgid "1000630147エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_13].Script
+msgid "1000629459エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_14].Script
+msgid "1000629460エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_14].SelectionIndex[1]
+msgid "1000630148エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_15].Script
+msgid "1000629461エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_16].Script
+msgid "1000629462エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_17].Script
+msgid "1000629463エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_18].Script
+msgid "1000629464エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_19].Script
+msgid "1000629465エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_20].Script
+msgid "1000629466エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_21].Script
+msgid "1000629467エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_22].Script
+msgid "1000629468エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_23].Script
+msgid "1000629469エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_24].Script
+msgid "1000629470エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_25].Script
+msgid "1000629471エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_26].Script
+msgid "1000629472エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_27].Script
+msgid "1000629473エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_28].Script
+msgid "1000629474エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_29].Script
+msgid "1000629475エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_30].Script
+msgid "1000629476エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_30].SelectionIndex[1]
+msgid "1000630149エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_31].Script
+msgid "1000629477エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_31].SelectionIndex[1]
+msgid "1000630150エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_32].Script
+msgid "1000629478エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_32].SelectionIndex[1]
+msgid "1000630151エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_33].Script
+msgid "1000629479エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_33].SelectionIndex[1]
+msgid "1000630152エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_34].Script
+msgid "1000629480エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_34].SelectionIndex[1]
+msgid "1000630153エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_35].Script
+msgid "1000629481エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_36].Script
+msgid "1000629482エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_37].Script
+msgid "1000629483エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_37].SelectionIndex[1]
+msgid "1000630154エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_38].Script
+msgid "1000629484エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_39].Script
+msgid "1000629485エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_39].SelectionIndex[1]
+msgid "1000630155エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_40].Script
+msgid "1000629486エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_40].SelectionIndex[1]
+msgid "1000630156エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_41].Script
+msgid "1000629487エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_41].SelectionIndex[1]
+msgid "1000630157エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_42].Script
+msgid "1000629488エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_43].Script
+msgid "1000629489エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_43].SelectionIndex[1]
+msgid "1000630158エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_44].Script
+msgid "1000629490エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage05_2_45].Script
+msgid "1000629491エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_1].Script
+msgid "1000629492エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_2].Script
+msgid "1000629493エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_3].Script
+msgid "1000629494エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_4].Script
+msgid "1000629495エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_5].Script
+msgid "1000629496エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_5].SelectionIndex[1]
+msgid "1000630159エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_6].Script
+msgid "1000629497エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_7].Script
+msgid "1000629498エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_8].Script
+msgid "1000629499エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_9].Script
+msgid "1000629500エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_9].SelectionIndex[1]
+msgid "1000630160エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_10].Script
+msgid "1000629501エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_11].Script
+msgid "1000629502エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_11].SelectionIndex[1]
+msgid "1000630161エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_12].Script
+msgid "1000629503エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_13].Script
+msgid "1000629504エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_13].SelectionIndex[1]
+msgid "1000630162エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_14].Script
+msgid "1000629505エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_15].Script
+msgid "1000629506エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_16].Script
+msgid "1000629507エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_17].Script
+msgid "1000629508エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_18].Script
+msgid "1000629509エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_19].Script
+msgid "1000629510エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_20].Script
+msgid "1000629511エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_21].Script
+msgid "1000629512エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_21].SelectionIndex[1]
+msgid "1000630163エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_22].Script
+msgid "1000629513エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_23].Script
+msgid "1000629514エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_23].SelectionIndex[1]
+msgid "1000630164エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_24].Script
+msgid "1000629515エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_25].Script
+msgid "1000629516エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_25].SelectionIndex[1]
+msgid "1000630165エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_26].Script
+msgid "1000629517エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_27].Script
+msgid "1000629518エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_28].Script
+msgid "1000629519エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_29].Script
+msgid "1000629520エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_30].Script
+msgid "1000629521エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_30].SelectionIndex[1]
+msgid "1000630166エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_31].Script
+msgid "1000629522エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_32].Script
+msgid "1000629523エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_33].Script
+msgid "1000629524エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_33].SelectionIndex[1]
+msgid "1000630167エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_34].Script
+msgid "1000629525エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_35].Script
+msgid "1000629526エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_36].Script
+msgid "1000629527エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_37].Script
+msgid "1000629528エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_38].Script
+msgid "1000629529エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_39].Script
+msgid "1000629530エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_39].SelectionIndex[1]
+msgid "1000630168エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_40].Script
+msgid "1000629531エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_41].Script
+msgid "1000629532エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_42].Script
+msgid "1000629533エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_43].Script
+msgid "1000629534エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_44].Script
+msgid "1000629535エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_45].Script
+msgid "1000629536エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_46].Script
+msgid "1000629537エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_46].SelectionIndex[1]
+msgid "1000630169エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_47].Script
+msgid "1000629538エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_48].Script
+msgid "1000629539エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_48].SelectionIndex[1]
+msgid "1000630170エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_49].Script
+msgid "1000629540エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_1_50].Script
+msgid "1000629541エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_1].Script
+msgid "1000629542エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_2].Script
+msgid "1000629543エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_3].Script
+msgid "1000629544エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_4].Script
+msgid "1000629545エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_5].Script
+msgid "1000629546エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_6].Script
+msgid "1000629547エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_7].Script
+msgid "1000629548エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_7].SelectionIndex[1]
+msgid "1000630171エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_8].Script
+msgid "1000629549エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_9].Script
+msgid "1000629550エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_9].SelectionIndex[1]
+msgid "1000630172エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_10].Script
+msgid "1000629551エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_10].SelectionIndex[1]
+msgid "1000630173エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_11].Script
+msgid "1000629552エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_11].SelectionIndex[1]
+msgid "1000630174エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_12].Script
+msgid "1000629553エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_13].Script
+msgid "1000629554エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_13].SelectionIndex[1]
+msgid "1000630175エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_14].Script
+msgid "1000629555エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_14].SelectionIndex[1]
+msgid "1000630176エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_15].Script
+msgid "1000629556エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_16].Script
+msgid "1000629557エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_17].Script
+msgid "1000629558エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_18].Script
+msgid "1000629559エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_19].Script
+msgid "1000629560エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_20].Script
+msgid "1000629561エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_21].Script
+msgid "1000629562エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_21].SelectionIndex[1]
+msgid "1000630177エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_22].Script
+msgid "1000629563エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_23].Script
+msgid "1000629564エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_24].Script
+msgid "1000629565エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_25].Script
+msgid "1000629566エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_26].Script
+msgid "1000629567エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_27].Script
+msgid "1000629568エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_27].SelectionIndex[1]
+msgid "1000630178エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_28].Script
+msgid "1000629569エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_29].Script
+msgid "1000629570エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_30].Script
+msgid "1000629571エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_31].Script
+msgid "1000629572エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_32].Script
+msgid "1000629573エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_33].Script
+msgid "1000629574エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_34].Script
+msgid "1000629575エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_34].SelectionIndex[1]
+msgid "1000630179エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_35].Script
+msgid "1000629576エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_36].Script
+msgid "1000629577エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_37].Script
+msgid "1000629578エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_38].Script
+msgid "1000629579エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_39].Script
+msgid "1000629580エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_39].SelectionIndex[1]
+msgid "1000630180エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_40].Script
+msgid "1000629581エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_41].Script
+msgid "1000629582エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_41].SelectionIndex[1]
+msgid "1000630181エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_42].Script
+msgid "1000629583エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_43].Script
+msgid "1000629584エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_44].Script
+msgid "1000629585エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_45].Script
+msgid "1000629586エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_46].Script
+msgid "1000629587エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_46].SelectionIndex[1]
+msgid "1000630182エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_47].Script
+msgid "1000629588エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_48].Script
+msgid "1000629589エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_48].SelectionIndex[1]
+msgid "1000630183エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_49].Script
+msgid "1000629590エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_49].SelectionIndex[1]
+msgid "1000630184エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_50].Script
+msgid "1000629591エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_51].Script
+msgid "1000629592エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_51].SelectionIndex[1]
+msgid "1000630185エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_52].Script
+msgid "1000629593エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_52].SelectionIndex[1]
+msgid "1000630186エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage06_2_53].Script
+msgid "1000629594エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_1].Script
+msgid "1000629595エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_2].Script
+msgid "1000629596エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_3].Script
+msgid "1000629597エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_4].Script
+msgid "1000629598エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_5].Script
+msgid "1000629599エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_6].Script
+msgid "1000629600エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_7].Script
+msgid "1000629601エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_8].Script
+msgid "1000629602エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_9].Script
+msgid "1000629603エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_10].Script
+msgid "1000629604エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_11].Script
+msgid "1000629605エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_12].Script
+msgid "1000629606エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_13].Script
+msgid "1000629607エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_14].Script
+msgid "1000629608エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_15].Script
+msgid "1000629609エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_16].Script
+msgid "1000629610エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_17].Script
+msgid "1000629611エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_18].Script
+msgid "1000629612エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_19].Script
+msgid "1000629613エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_20].Script
+msgid "1000629614エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_21].Script
+msgid "1000629615エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_22].Script
+msgid "1000629616エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_23].Script
+msgid "1000629617エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_24].Script
+msgid "1000629618エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_25].Script
+msgid "1000629619エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_26].Script
+msgid "1000629620エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_27].Script
+msgid "1000629621エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_28].Script
+msgid "1000629622エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_29].Script
+msgid "1000629623エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_30].Script
+msgid "1000629624エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_31].Script
+msgid "1000629625エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_32].Script
+msgid "1000629626エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_33].Script
+msgid "1000629627エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_34].Script
+msgid "1000629628エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_35].Script
+msgid "1000629629エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_36].Script
+msgid "1000629630エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_37].Script
+msgid "1000629631エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_38].Script
+msgid "1000629632エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_39].Script
+msgid "1000629633エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_40].Script
+msgid "1000629634エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_41].Script
+msgid "1000629635エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_42].Script
+msgid "1000629636エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_43].Script
+msgid "1000629637エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_44].Script
+msgid "1000629638エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_45].Script
+msgid "1000629639エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_1_46].Script
+msgid "1000629640エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_1].Script
+msgid "1000629641エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_1].SelectionIndex[1]
+msgid "1000630187エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_2].Script
+msgid "1000629642エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_3].Script
+msgid "1000629643エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_4].Script
+msgid "1000629644エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_4].SelectionIndex[1]
+msgid "1000630188エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_5].Script
+msgid "1000629645エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_5].SelectionIndex[1]
+msgid "1000630189エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_6].Script
+msgid "1000629646エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_7].Script
+msgid "1000629647エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_7].SelectionIndex[1]
+msgid "1000630190エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_8].Script
+msgid "1000629648エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_9].Script
+msgid "1000629649エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_9].SelectionIndex[1]
+msgid "1000630191エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_10].Script
+msgid "1000629650エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_10].SelectionIndex[1]
+msgid "1000630192エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_11].Script
+msgid "1000629651エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_11].SelectionIndex[1]
+msgid "1000630193エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_12].Script
+msgid "1000629652エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_12].SelectionIndex[1]
+msgid "1000630194エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_13].Script
+msgid "1000629653エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_13].SelectionIndex[1]
+msgid "1000630195エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage07_2_14].Script
+msgid "1000629654エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_1].Script
+msgid "1000629655エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_2].Script
+msgid "1000629656エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_2].SelectionIndex[1]
+msgid "1000630196エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_3].Script
+msgid "1000629657エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_4].Script
+msgid "1000629658エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_5].Script
+msgid "1000629659エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_6].Script
+msgid "1000629660エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_7].Script
+msgid "1000629661エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_8].Script
+msgid "1000629662エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_9].Script
+msgid "1000629663エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_10].Script
+msgid "1000629664エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_10].SelectionIndex[1]
+msgid "1000630197エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_11].Script
+msgid "1000629665エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_12].Script
+msgid "1000629666エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_13].Script
+msgid "1000629667エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_14].Script
+msgid "1000629668エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_14].SelectionIndex[1]
+msgid "1000630198エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_15].Script
+msgid "1000629669エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_16].Script
+msgid "1000629670エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_17].Script
+msgid "1000629671エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_18].Script
+msgid "1000629672エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_19].Script
+msgid "1000629673エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_20].Script
+msgid "1000629674エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_21].Script
+msgid "1000629675エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_22].Script
+msgid "1000629676エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_23].Script
+msgid "1000629677エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_24].Script
+msgid "1000629678エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_25].Script
+msgid "1000629679エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_26].Script
+msgid "1000629680エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_27].Script
+msgid "1000629681エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_28].Script
+msgid "1000629682エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_29].Script
+msgid "1000629683エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_29].SelectionIndex[1]
+msgid "1000630199エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_30].Script
+msgid "1000629684エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_31].Script
+msgid "1000629685エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_31].SelectionIndex[1]
+msgid "1000630200エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_32].Script
+msgid "1000629686エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_32].SelectionIndex[1]
+msgid "1000630201エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_1_33].Script
+msgid "1000629687エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_1].Script
+msgid "1000629688エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_2].Script
+msgid "1000629689エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_3].Script
+msgid "1000629690エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_4].Script
+msgid "1000629691エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_5].Script
+msgid "1000629692エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_6].Script
+msgid "1000629693エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_7].Script
+msgid "1000629694エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_8].Script
+msgid "1000629695エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_9].Script
+msgid "1000629696エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_9].SelectionIndex[1]
+msgid "1000630202エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_10].Script
+msgid "1000629697エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_11].Script
+msgid "1000629698エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_12].Script
+msgid "1000629699エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_12].SelectionIndex[1]
+msgid "1000630203エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_13].Script
+msgid "1000629700エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_14].Script
+msgid "1000629701エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_15].Script
+msgid "1000629702エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_16].Script
+msgid "1000629703エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_17].Script
+msgid "1000629704エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_17].SelectionIndex[1]
+msgid "1000630204エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_18].Script
+msgid "1000629705エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_18].SelectionIndex[1]
+msgid "1000630205エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_19].Script
+msgid "1000629706エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_20].Script
+msgid "1000629707エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_21].Script
+msgid "1000629708エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_21].SelectionIndex[1]
+msgid "1000630206エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_22].Script
+msgid "1000629709エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_23].Script
+msgid "1000629710エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_23].SelectionIndex[1]
+msgid "1000630207エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_24].Script
+msgid "1000629711エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_25].Script
+msgid "1000629712エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_26].Script
+msgid "1000629713エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_26].SelectionIndex[1]
+msgid "1000630208エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_27].Script
+msgid "1000629714エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_28].Script
+msgid "1000629715エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_29].Script
+msgid "1000629716エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_30].Script
+msgid "1000629717エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_30].SelectionIndex[1]
+msgid "1000630209エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_31].Script
+msgid "1000629718エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_31].SelectionIndex[1]
+msgid "1000630210エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_32].Script
+msgid "1000629719エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_32].SelectionIndex[1]
+msgid "1000630211エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_33].Script
+msgid "1000629720エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_34].Script
+msgid "1000629721エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_34].SelectionIndex[1]
+msgid "1000630212エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage08_2_35].Script
+msgid "1000629722エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_1].Script
+msgid "1000629723エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_1].SelectionIndex[1]
+msgid "1000630213エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_2].Script
+msgid "1000629724エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_3].Script
+msgid "1000629725エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_4].Script
+msgid "1000629726エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_5].Script
+msgid "1000629727エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_6].Script
+msgid "1000629728エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_7].Script
+msgid "1000629729エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_7].SelectionIndex[1]
+msgid "1000630214エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_8].Script
+msgid "1000629730エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_9].Script
+msgid "1000629731エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_10].Script
+msgid "1000629732エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_10].SelectionIndex[1]
+msgid "1000630215エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_11].Script
+msgid "1000629733エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_12].Script
+msgid "1000629734エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_13].Script
+msgid "1000629735エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_14].Script
+msgid "1000629736エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_15].Script
+msgid "1000629737エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_16].Script
+msgid "1000629738エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_17].Script
+msgid "1000629739エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_17].SelectionIndex[1]
+msgid "1000630216エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_18].Script
+msgid "1000629740エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_19].Script
+msgid "1000629741エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_20].Script
+msgid "1000629742エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_21].Script
+msgid "1000629743エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_22].Script
+msgid "1000629744エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_23].Script
+msgid "1000629745エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_24].Script
+msgid "1000629746エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_24].SelectionIndex[1]
+msgid "1000630217エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_25].Script
+msgid "1000629747エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_26].Char_Name_C
+msgid "1000630231エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_26].Script
+msgid "1000629748エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_27].Script
+msgid "1000629749エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_28].Script
+msgid "1000629750エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_29].Script
+msgid "1000629751エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_30].Script
+msgid "1000629752エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_31].Script
+msgid "1000629753エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_32].Char_Name_C
+msgid "1000630232エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_32].Script
+msgid "1000629754エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_33].Script
+msgid "1000629755エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_34].Script
+msgid "1000629756エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_35].Script
+msgid "1000629757エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_36].Char_Name_C
+msgid "1000630233エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_36].Script
+msgid "1000629758エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_37].Script
+msgid "1000629759エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_38].Script
+msgid "1000629760エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_39].Script
+msgid "1000629761エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_40].Script
+msgid "1000629762エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_41].Script
+msgid "1000629763エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_42].Script
+msgid "1000629764エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_43].Script
+msgid "1000629765エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_44].Script
+msgid "1000629766エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_45].Script
+msgid "1000629767エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_46].Script
+msgid "1000629768エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_47].Script
+msgid "1000629769エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_1_48].Script
+msgid "1000629770エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_1].Script
+msgid "1000629771エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_2].Script
+msgid "1000629772エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_3].Script
+msgid "1000629773エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_4].Script
+msgid "1000629774エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_5].Script
+msgid "1000629775エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_6].Script
+msgid "1000629776エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_7].Script
+msgid "1000629777エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_7].SelectionIndex[1]
+msgid "1000630218エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_8].Script
+msgid "1000629778エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_9].Script
+msgid "1000629779エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_10].Script
+msgid "1000629780エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_11].Script
+msgid "1000629781エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_12].Script
+msgid "1000629782エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_13].Script
+msgid "1000629783エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_14].Script
+msgid "1000629784エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_15].Script
+msgid "1000629785エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_15].SelectionIndex[1]
+msgid "1000630219エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_16].Script
+msgid "1000629786エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_17].Script
+msgid "1000629787エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_18].Script
+msgid "1000629788エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_19].Script
+msgid "1000629789エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_19].SelectionIndex[1]
+msgid "1000630220エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_20].Script
+msgid "1000629790エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_21].Script
+msgid "1000629791エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_21].SelectionIndex[1]
+msgid "1000630221エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_22].Script
+msgid "1000629792エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_23].Script
+msgid "1000629793エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_24].Script
+msgid "1000629794エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_24].SelectionIndex[1]
+msgid "1000630222エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_25].Script
+msgid "1000629795エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_26].Script
+msgid "1000629796エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_27].Script
+msgid "1000629797エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_28].Script
+msgid "1000629798エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_29].Script
+msgid "1000629799エラーが発生しました。"
 msgstr ""

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-26 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1061,24 +1061,24 @@ msgstr ""
 "Open Wound: Defense Penetration / Damage Up inversely proportional to enemy "
 "HP%"
 
-#  Generated Partial Match; Korean Text: '손 빌려주기 : AP+{0}'
+#  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_5].BuffEffectType1_Desc
-msgid "救いの手：AP+{0}"
+msgid "猫の手：AP+{0}"
 msgstr "Lend a Hand: AP+{0}"
 
-#  Generated Partial Match; Korean Text: '손 빌려주기 : 공격 지원'
+#  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_5].BuffEffectType2_Desc
-msgid "救いの手：攻撃支援"
+msgid "猫の手：攻撃支援"
 msgstr "Lend a Hand: Follow-up Attack"
 
-#  Generated Partial Match; Korean Text: '손 빌려주기 : 지정 대상 보호'
+#  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_5].BuffEffectType3_Desc
-msgid "救いの手：指定対象保護"
+msgid "猫の手：指定対象保護"
 msgstr "Lend a Hand: Protect Target"
 
-#  Generated Partial Match; Korean Text: '손 빌려주기 : AP 증가 / 지정 대상 보호 / 공격 지원'
+#  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_5].Name
-msgid "救いの手：AP増加/指定対象保護/攻撃支援"
+msgid "猫の手：AP増加/指定対象保護/攻撃支援"
 msgstr "Lend a Hand: AP Up / Protect Target / Follow-up Attack"
 
 #  Generated Partial Match; Korean Text: '깨어난 본능 : 받는 피해 {0}% 감소'
@@ -1103,17 +1103,17 @@ msgstr "Flexibility: Damage Reduction / Evasion Up / Counterattack"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_16].Name
-msgid "救いの手：AP増加(攻撃時)"
+msgid "猫の手：AP増加(攻撃時)"
 msgstr "Lend a Hand: AP Up (On attack)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_17].BuffEffectType1_Desc
-msgid "救いの手：敵のHP%が低いほどダメージ量+{0}%"
+msgid "猫の手：敵のHP%が低いほどダメージ量+{0}%"
 msgstr "Lend a Hand: Damage increases +{0}% as enemy HP decreases"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_CSPerrault_N_17].Name
-msgid "救いの手：敵のHP%が低いほどダメージ量増加"
+msgid "猫の手：敵のHP%が低いほどダメージ量増加"
 msgstr "Lend a Hand: 敵のHP%が低いほどダメージ量増加"
 
 #  Korean Text: '내부 파괴 : 기본 공격력 {0}% 고정 피해'
@@ -1188,6 +1188,14 @@ msgstr "Keen Eyes: Range +{0}"
 #: BuffEffect[Effect_3P_Daphne_N_14].Name
 msgid "観察眼：自分射程距離増加"
 msgstr "Keen Eyes: Increased Own Range"
+
+#: BuffEffect[Effect_3P_DummyP01_N_4].BuffEffectType1_Desc
+msgid "1000109145エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_3P_DummyP01_N_4].Name
+msgid "1000109130エラーが発生しました。"
+msgstr ""
 
 #  Generated Partial Match; Korean Text: '덤벼랏! : 대상 도발 (펜리르)'
 #: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType1_Desc
@@ -1857,6 +1865,11 @@ msgstr ""
 #: BuffEffect[Effect_3P_Poi_N_38].BuffEffectType1_Desc
 msgid "過興奮状態：ドキドキ除去"
 msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_3P_Poi_N_52].BuffEffectType1_Desc
+msgid "9つの命：攻撃支援"
+msgstr "9つの命: Follow-up Attack"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_3P_Ran_N_1].BuffEffectType1_Desc
@@ -5952,15 +5965,13 @@ msgstr ""
 msgid "統合抗戦情報処理：クリティカル率+{0}%"
 msgstr "統合抗戦情報処理: Critical Hit Rate +{0}%"
 
-#  Generated Partial Match
 #: BuffEffect[Effect_BR_Harpy_N_4].BuffEffectType3_Desc
-msgid "統合抗戦情報処理：命中率+{0}%"
-msgstr "統合抗戦情報処理: Accuracy +{0}%"
+msgid "統合抗戦情報処理：命中+{0}%"
+msgstr ""
 
-#  Generated Partial Match
 #: BuffEffect[Effect_BR_Harpy_N_4].BuffEffectType4_Desc
-msgid "統合抗戦情報処理：回避率+{0}%"
-msgstr "統合抗戦情報処理: Evasion +{0}%"
+msgid "統合抗戦情報処理：回避+{0}%"
+msgstr ""
 
 #  Generated Partial Match
 #: BuffEffect[Effect_BR_Harpy_N_4].Name
@@ -10096,9 +10107,10 @@ msgstr "レーダージャマ―: Accuracy {0}%"
 msgid "レーダー ジャマ―：回避率{0}%"
 msgstr "レーダー ジャマ―: Evasion {0}%"
 
+#  Generated Partial Match
 #: BuffEffect[Effect_BR_TalonFeather_N_2].BuffEffectType4_Desc
-msgid "レーダージャマ―：射程距離 {0}"
-msgstr ""
+msgid "レーダージャマ―：射程距離{0}"
+msgstr "レーダージャマ―: Range {0}"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_BR_TalonFeather_N_2].Name
@@ -16679,6 +16691,138 @@ msgstr "暴走誘導システムOS: Attack +{0}%"
 msgid "暴走誘導システムOS：敵破壊時、攻撃力増加"
 msgstr ""
 
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_1].BuffEffectType1_Desc
+msgid "1000109090エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_1].BuffEffectType2_Desc
+msgid "1000109101エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_1].Name
+msgid "1000109079エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_2].BuffEffectType1_Desc
+msgid "1000109091エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_2].BuffEffectType2_Desc
+msgid "1000109102エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_2].Name
+msgid "1000109080エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_3].BuffEffectType1_Desc
+msgid "1000109092エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_3].BuffEffectType2_Desc
+msgid "1000109103エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_3].Name
+msgid "1000109081エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_4].BuffEffectType1_Desc
+msgid "1000109093エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_4].BuffEffectType2_Desc
+msgid "1000109104エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_4].Name
+msgid "1000109082エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_5].BuffEffectType1_Desc
+msgid "1000109094エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_5].BuffEffectType2_Desc
+msgid "1000109105エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_5].Name
+msgid "1000109083エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_6].BuffEffectType1_Desc
+msgid "1000109095エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_6].BuffEffectType2_Desc
+msgid "1000109106エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_6].Name
+msgid "1000109084エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_7].BuffEffectType1_Desc
+msgid "1000109096エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_7].BuffEffectType2_Desc
+msgid "1000109107エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_7].Name
+msgid "1000109085エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_8].BuffEffectType1_Desc
+msgid "1000109097エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_8].BuffEffectType2_Desc
+msgid "1000109108エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_8].Name
+msgid "1000109086エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_9].BuffEffectType1_Desc
+msgid "1000109098エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_9].BuffEffectType2_Desc
+msgid "1000109109エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_9].Name
+msgid "1000109087エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_10].BuffEffectType1_Desc
+msgid "1000109099エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_10].BuffEffectType2_Desc
+msgid "1000109110エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_10].Name
+msgid "1000109088エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_11].BuffEffectType1_Desc
+msgid "1000109100エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_11].BuffEffectType2_Desc
+msgid "1000109111エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_BUFF_ParticleAcceleratorATK_N_11].Name
+msgid "1000109089エラーが発生しました。"
+msgstr ""
+
 #: BuffEffect[Effect_BUFF_Precision_N_1].Name
 msgid "精密型観測装備：射程距離増加Lv.1"
 msgstr ""
@@ -19837,6 +19981,7 @@ msgstr "Update Reactive OS: Counterattack with {0}% damage"
 msgid "怒りのチックファイナルアタック：ダメージ量+{0}%"
 msgstr "怒りのチックファイナルアタック: Damage +{0}%"
 
+#  Korean Text: '칙 파이널 어택'
 #: BuffEffect[Effect_MP_EmperorChickSpCH_Challenge1_2].Name
 msgid "チックファイナルアタック"
 msgstr ""
@@ -19913,6 +20058,7 @@ msgstr "消えた怒り: Attack / Defense Reduction"
 msgid "敵軍死亡デバフ時、味方の死亡バフ解除"
 msgstr ""
 
+#  Korean Text: '칙 머신캐논'
 #: BuffEffect[Effect_MP_EmperorChickSpCH_N_1].Name
 msgid "チックマシンキャノン"
 msgstr ""
@@ -22538,6 +22684,7 @@ msgstr "鉄の恵み: Defense Penetration +{0}%"
 msgid "鉄の恵み：防御貫通増加"
 msgstr "鉄の恵み: Increased Defense Penetration"
 
+#  Korean Text: '과열'
 #: BuffEffect[Effect_MP_NestChaser_N_5].BuffEffectType1_Desc
 msgid "過熱"
 msgstr ""
@@ -22749,8 +22896,8 @@ msgstr "チック永久強化: Attack +{0}% (Cannot be released)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_MP_NightChick_C_12].BuffEffectType2_Desc
-msgid "チック永久強化：命中率+{0}%(解除不可)"
-msgstr "チック永久強化: Accuracy +{0}% (Cannot be released)"
+msgid "チック永久強化：命中+{0}%(解除不可)"
+msgstr "チック永久強化: 命中+{0}% (Cannot be released)"
 
 #  Generated Partial Match
 #: BuffEffect[Effect_MP_NightChick_C_12].BuffEffectType3_Desc
@@ -24382,6 +24529,7 @@ msgstr ""
 msgid "3ラウンド以上の場合、1番パッシブのバフキー値削除"
 msgstr ""
 
+#  Korean Text: '없음'
 #: BuffEffect[Effect_MP_NightChickSpCH_B0208_5].BuffEffectType1_Desc
 msgid "なし"
 msgstr "No Item"
@@ -24399,6 +24547,7 @@ msgstr ""
 msgid "マシンガン牽制射撃：防御力{0}%"
 msgstr "マシンガン牽制射撃: Defense {0}%"
 
+#  Korean Text: '머신건 견제 사격'
 #: BuffEffect[Effect_MP_NightChickSpCH_N_1].Name
 msgid "マシンガン牽制射撃"
 msgstr ""
@@ -24408,6 +24557,7 @@ msgstr ""
 msgid "マシンガン連射：受けるダメージ+{0}%"
 msgstr "マシンガン連射: Damage Taken +{0}%"
 
+#  Korean Text: '머신건 연사'
 #: BuffEffect[Effect_MP_NightChickSpCH_N_2].Name
 msgid "マシンガン連射"
 msgstr ""
@@ -28759,6 +28909,262 @@ msgstr "致命的魅力: Critical Hit Rate +{0}%"
 msgid "衣装製作：攻撃力/クリティカル率増加"
 msgstr "衣装製作: Attack / Critical Hit Rate"
 
+#: BuffEffect[Effect_PECS_Azaz_N_1].BuffEffectType1_Desc
+msgid "1000109040エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_1].BuffEffectType2_Desc
+msgid "1000109066エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_1].Name
+msgid "1000109014エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_2].BuffEffectType1_Desc
+msgid "1000109041エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_2].Name
+msgid "1000109015エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_3].BuffEffectType1_Desc
+msgid "1000109042エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_3].BuffEffectType2_Desc
+msgid "1000109068エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_3].Name
+msgid "1000109016エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_4].BuffEffectType1_Desc
+msgid "1000109043エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_4].Name
+msgid "1000109017エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_5].BuffEffectType1_Desc
+msgid "1000109044エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_5].BuffEffectType2_Desc
+msgid "1000109069エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_5].BuffEffectType3_Desc
+msgid "1000109076エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_5].Name
+msgid "1000109018エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_13].BuffEffectType1_Desc
+msgid "1000109047エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_13].Name
+msgid "1000109021エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_14].BuffEffectType1_Desc
+msgid "1000109071エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_14].Name
+msgid "1000109019エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_31].BuffEffectType1_Desc
+msgid "1000109051エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_31].Name
+msgid "1000109025エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_32].BuffEffectType1_Desc
+msgid "1000109045エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_33].BuffEffectType1_Desc
+msgid "1000109046エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_33].BuffEffectType2_Desc
+msgid "1000109070エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_33].Name
+msgid "1000109020エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_41].BuffEffectType1_Desc
+msgid "1000109052エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_41].Name
+msgid "1000109026エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_42].BuffEffectType1_Desc
+msgid "1000109053エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_42].Name
+msgid "1000109027エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_43].BuffEffectType1_Desc
+msgid "1000109054エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_43].Name
+msgid "1000109028エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_44].BuffEffectType1_Desc
+msgid "1000109055エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_44].Name
+msgid "1000109029エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_45].BuffEffectType1_Desc
+msgid "1000109056エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_45].Name
+msgid "1000109030エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_46].BuffEffectType1_Desc
+msgid "1000109057エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_46].Name
+msgid "1000109031エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_47].BuffEffectType1_Desc
+msgid "1000109058エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_47].Name
+msgid "1000109032エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_48].BuffEffectType1_Desc
+msgid "1000109059エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_48].Name
+msgid "1000109033エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_51].BuffEffectType1_Desc
+msgid "1000109060エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_51].BuffEffectType2_Desc
+msgid "1000109074エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_51].BuffEffectType3_Desc
+msgid "1000109078エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_51].Name
+msgid "1000109034エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_53].BuffEffectType1_Desc
+msgid "1000109048エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_53].Name
+msgid "1000109022エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_54].BuffEffectType1_Desc
+msgid "1000109062エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_54].Name
+msgid "1000109036エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_55].BuffEffectType1_Desc
+msgid "1000109061エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_56].BuffEffectType1_Desc
+msgid "1000109063エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_57].BuffEffectType1_Desc
+msgid "1000109112エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_58].BuffEffectType1_Desc
+msgid "1000109067エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_58].Name
+msgid "1000109037エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_59].BuffEffectType1_Desc
+msgid "1000109050エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_95].BuffEffectType1_Desc
+msgid "1000109065エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_95].Name
+msgid "1000109039エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_96].BuffEffectType1_Desc
+msgid "1000109064エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_96].Name
+msgid "1000109038エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_97].BuffEffectType2_Desc
+msgid "1000109073エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_97].BuffEffectType3_Desc
+msgid "1000109077エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_97].Name
+msgid "1000109024エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_98].BuffEffectType1_Desc
+msgid "1000109049エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_98].BuffEffectType2_Desc
+msgid "1000109072エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Azaz_N_98].Name
+msgid "1000109023エラーが発生しました。"
+msgstr ""
+
 #  Generated Partial Match
 #: BuffEffect[Effect_PECS_Babariana_N_1].BuffEffectType1_Desc
 msgid "招かざる客制圧：対象挑発(ババリアナ)"
@@ -29235,6 +29641,92 @@ msgstr "総攻撃準備！: {0}% Damage Reduction"
 #: BuffEffect[Effect_PECS_Cerberus_N_16].Name
 msgid "総攻撃です！：自分の受けるダメージ減少/反撃"
 msgstr "総攻撃です！: 自分の受けるダメージ減少 / Counterattack"
+
+#: BuffEffect[Effect_PECS_Cerberus_N_31].BuffEffectType1_Desc
+msgid "1000109138エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_31].Name
+msgid "1000109123エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_32].BuffEffectType1_Desc
+msgid "1000109139エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_32].Name
+msgid "1000109124エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_33].BuffEffectType1_Desc
+msgid "1000109140エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_33].Name
+msgid "1000109125エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_41].BuffEffectType1_Desc
+msgid "1000109141エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_41].BuffEffectType2_Desc
+msgid "1000109147エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_41].BuffEffectType3_Desc
+msgid "1000109152エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_41].Name
+msgid "1000109126エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_42].BuffEffectType1_Desc
+msgid "1000109142エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_42].Name
+msgid "1000109127エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_52].BuffEffectType1_Desc
+msgid "1000109144エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Cerberus_N_52].Name
+msgid "1000109129エラーが発生しました。"
+msgstr ""
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_Cerberus_N_213].BuffEffectType2_Desc
+msgid "スターンロッド：対象挑発(ケルベロス)"
+msgstr "スターンロッド: Taunt Target (ケルベロス)"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_Cerberus_N_213].BuffEffectType4_Desc
+msgid "スタンロッド：電気耐性{0}%"
+msgstr "スタンロッド: Resist Electric {0}%"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_Cerberus_N_214].BuffEffectType2_Desc
+msgid "護衛支援：攻撃支援"
+msgstr "護衛支援: Follow-up Attack"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_Cerberus_N_214].BuffEffectType3_Desc
+msgid "護衛支援：クリティカル率+{0}%"
+msgstr "護衛支援: Critical Hit Rate +{0}%"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_Cerberus_N_215].BuffEffectType5_Desc
+msgid "総攻撃準備！：受けるダメージ{0}%減少(自分)"
+msgstr "総攻撃準備！: {0}% Damage Reduction (Self)"
+
+#  Generated Partial Match
+#: BuffEffect[Effect_PECS_Cerberus_N_215].Name
+msgid "総攻撃です！：攻撃支援を受ける味方の攻撃力/命中率/行動力増加"
+msgstr "総攻撃です！: 攻撃支援を受ける味方の攻撃力 / Accuracy / Action Speed Up"
 
 #  Generated Partial Match; Korean Text: '호박 세례 : 표식 지정'
 #: BuffEffect[Effect_PECS_Circe_N_1].BuffEffectType1_Desc
@@ -30540,6 +31032,10 @@ msgstr ""
 msgid "検挙完了!：攻撃力/クリティカル率/命中率増加"
 msgstr "Arrest Complete!: Attack / Critical Chance / Accuracy Up"
 
+#: BuffEffect[Effect_PECS_Sadius_N_21].BuffEffectType1_Desc
+msgid "1000109115エラーが発生しました。"
+msgstr ""
+
 #  Generated Partial Match
 #: BuffEffect[Effect_PECS_Saetti_N_1].BuffEffectType1_Desc
 msgid "視野遮断：攻撃力{0}%"
@@ -31721,6 +32217,14 @@ msgstr ""
 #  Korean Text: '기폭 폭발 : 기폭 시 범위 폭발'
 #: BuffEffect[Effect_SU_C4Bomb_N_2].Name
 msgid "起爆爆発：起爆時、範囲爆発"
+msgstr ""
+
+#: BuffEffect[Effect_SU_GoldenFactory_N_1].BuffEffectType1_Desc
+msgid "1000109114エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_SU_GoldenFactory_N_1].Name
+msgid "1000109035エラーが発生しました。"
 msgstr ""
 
 #: BuffEffect[Effect_SU_HoloTiger_N_1].BuffEffectType1_Desc

@@ -7,17 +7,17 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-23 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
 
-#  Korean Text: '적중+{0}%'
+#  Korean Text: '적중 +{0}%'
 #: CoreLinkBonus[Core_Bonus_ACC_5].CoreLink_Bonus_String
 msgid "命中率+{0}%"
 msgstr "Accuracy +{0}%"
 
-#  Korean Text: '공격력+{0}%'
+#  Korean Text: '공격력 +{0}%'
 #: CoreLinkBonus[Core_Bonus_ATK_10].CoreLink_Bonus_String
 msgid "攻撃力+{0}%"
 msgstr "Attack +{0}%"

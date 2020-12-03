@@ -7,11 +7,12 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
 
+#  Korean Text: '지고의 저녁 식사'
 #: MapChapter[Chapter_01Ev].ChapterName
 msgid "至高の晩餐"
 msgstr "Supreme Dinner"
@@ -20,12 +21,18 @@ msgstr "Supreme Dinner"
 msgid "リオボロスの遺産1部"
 msgstr "Legacy of Rioboros Part 1"
 
+#  Korean Text: '만월의 야상곡'
 #: MapChapter[Chapter_01Ev3].ChapterName
 msgid "満月の夜想曲"
 msgstr "Full Moon Nocturne"
 
+#  Korean Text: '할로윈 파크 패닉!'
 #: MapChapter[Chapter_01Ev4].ChapterName
 msgid "ハロウィンパークパニック！"
+msgstr ""
+
+#: MapChapter[Chapter_01Ev5].ChapterName
+msgid "セントオルカの秘密作戦1部"
 msgstr ""
 
 #  Korean Text: '지구의 마지막 인간'

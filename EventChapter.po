@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-10-21 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -55,7 +55,7 @@ msgid "ハロウィンパークパニック！"
 msgstr ""
 
 #: EventChapter[Event_Chapter_07].Event_CategoryDesc
-msgid "忘年会準備中の司令官に忍び寄る魔の手の正体は！？"
+msgid "クリスマスパーティー準備中の司令官に忍び寄る魔の手の正体は！？"
 msgstr ""
 
 #: EventChapter[Event_Chapter_07].Event_CategoryName

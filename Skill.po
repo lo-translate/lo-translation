@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-26 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -678,9 +678,8 @@ msgstr ""
 msgid "傷切り"
 msgstr "Open Wound"
 
-#  Korean Text: '전투 개시 시, 자신과 같은 행의 두 칸 뒤에 위치한 아군의 AP를 증가시킵니다. 라운드 개시 시마다 대상에게 공격 지원 / 지정 대상 보호 효과를 줍니다.'
 #: Skill[Skill_3P_CSPerrault_N_5].SkillDescription
-msgid "戦闘開始時、自分と同じ列の2マス後ろにある味方のAPを増加させます。ラウンド開始するたびに対象に攻撃支援/指定対象保護効果を与えます。"
+msgid "戦闘開始時、自分と同じ列の2マス後ろにある味方のAPを増加させます。ラウンド開始毎に対象に攻撃支援/指定対象保護効果を与えます。"
 msgstr ""
 
 #  Korean Text: '지정 위치 아군 AP 증가 / 공격 지원 / 대상 보호'
@@ -688,9 +687,8 @@ msgstr ""
 msgid "指定味方のAP増加/攻撃支援/対象保護"
 msgstr ""
 
-#  Korean Text: '손 빌려주기'
 #: Skill[Skill_3P_CSPerrault_N_5].SkillName
-msgid "救いの手"
+msgid "猫の手"
 msgstr ""
 
 #  Korean Text: '단분자 클로 (추가 피해 더미)'
@@ -713,17 +711,16 @@ msgstr ""
 msgid "柔軟性(常時ダミー)"
 msgstr ""
 
-#  Korean Text: '손 빌려주기 (더미)'
 #: Skill[Skill_3P_CSPerrault_N_15].SkillName
-msgid "救いの手(ダミー)"
+msgid "猫の手(ダミー)"
 msgstr ""
 
 #: Skill[Skill_3P_CSPerrault_N_16].SkillName
-msgid "救いの手(HP％ダメージ量)"
+msgid "猫の手(HP％ダメージ量)"
 msgstr ""
 
 #: Skill[Skill_3P_CSPerrault_N_17].SkillName
-msgid "救いの手(攻撃AP)"
+msgid "猫の手(攻撃AP)"
 msgstr ""
 
 #  Korean Text: '마이크로 페어리로 대상을 부식시켜 {0} 피해를 주고, 3라운드 동안 방어력 / 행동력 감소 / 지속 고정 피해를 입는 상태로 만듭니다 (최대 3 중첩). 해당 효과 중첩 적용 시, 기본 공격력에 비례한 고정 피해를 입으며 받는 피해가 증가합니다.'
@@ -3222,7 +3219,7 @@ msgstr ""
 msgid "敵撃破時、次の攻撃の攻撃力増加"
 msgstr ""
 
-#  Korean Text: '사냥 개시'
+#  Korean Text: '사냥 시작'
 #: Skill[Skill_BR_BeastHunter_N_3].SkillName
 msgid "ハンティングスタート"
 msgstr ""
@@ -4503,7 +4500,8 @@ msgid "火器不法改造(射程距離)"
 msgstr ""
 
 #: Skill[Skill_BR_Harpy_N_1].SkillDescription
-msgid "指定範囲に{0}ダメージを与え、2ラウンドの間、対象たちの回避を下げます。対象が機動型か標的/移動不可状態なら与えるダメージが増加します。"
+msgid ""
+"指定範囲に{0}ダメージを与え、2ラウンドの間、対象たちの回避を減少させます。対象が機動型または標的/移動不可状態の場合、与えるダメージが増加します。"
 msgstr ""
 
 #: Skill[Skill_BR_Harpy_N_1].SkillDescriptionSimple
@@ -4873,7 +4871,7 @@ msgstr ""
 msgid "攻撃時、攻撃指揮に転換"
 msgstr ""
 
-#  Korean Text: '공격 지휘 전환'
+#  Korean Text: '방어 지휘 (공격) : 공격력+{0}%'
 #: Skill[Skill_BR_Leona_CH_4].SkillName
 msgid "攻撃指揮転換"
 msgstr "Switch to Attack Command"
@@ -4946,7 +4944,7 @@ msgstr ""
 msgid "待機時、防御指揮に転換"
 msgstr ""
 
-#  Korean Text: '방어 지휘 전환'
+#  Korean Text: '공격 지휘 (방어) : 받는 피해 {0}% 감소'
 #: Skill[Skill_BR_Leona_N_4].SkillName
 msgid "防御指揮転換"
 msgstr ""
@@ -6274,7 +6272,7 @@ msgstr ""
 msgid "空中砲撃支援(APダミー)"
 msgstr ""
 
-#  Korean Text: '공중 포격 지원 (중장)'
+#  Korean Text: '공중 포격 지원 : 공격 지원 (중장)'
 #: Skill[Skill_BR_Phoenix_N_14].SkillName
 msgid "空中砲撃支援：攻撃支援(重装型)"
 msgstr ""
@@ -6622,7 +6620,7 @@ msgid "砲撃観測(命中ダミー)"
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_1].SkillDescription
-msgid "対象に{0}ダメージを与えて、2ラウンドの間、対象の攻撃力/クリティカルを下げます。防御力/回避減少対象に与えるダメージが増加します。"
+msgid "対象に{0}ダメージを与え、2ラウンドの間、対象の攻撃力/クリティカルを減少させます。防御力/回避減少対象に与えるダメージが増加します。"
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_1].SkillDescriptionSimple
@@ -6630,7 +6628,7 @@ msgid "単一対象に{0}ダメージ。攻撃力/クリティカルが減少。
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_1].SkillName
-msgid "四連奏機関砲"
+msgid "四連装機関砲"
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_2].SkillDescription
@@ -6643,6 +6641,12 @@ msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_2].SkillName
 msgid "我に続け！"
+msgstr ""
+
+#: Skill[Skill_BR_RedHood_N_3].SkillDescription
+msgid ""
+"範囲内の味方の攻撃力/状態異常耐性/行動力を増加させます。待機時、対象になる味方のHPが25％以上なら固定ダメージを与えAPを増加させます。自分が戦闘不能に"
+"なった場合、対象に固定ダメージを与えずAP増加効果を二倍に適用します。"
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_3].SkillDescriptionSimple
@@ -6668,7 +6672,7 @@ msgid "撤退は無い！"
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_11].SkillName
-msgid "四連奏機関砲(ダメージ量)"
+msgid "四連装機関砲(ダメージ量)"
 msgstr ""
 
 #: Skill[Skill_BR_RedHood_N_12].SkillName
@@ -7495,7 +7499,7 @@ msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_2].SkillDescription
 msgid ""
-"指定範囲に{0}保護無視ダメージを与えて、2ラウンドの間、対象のクリティカル/命中/回避/射程距離を減少させます。キルレベルごとに+30％の命中補正が適用さ"
+"指定範囲に{0}保護無視ダメージを与え、2ラウンドの間、対象のクリティカル/命中/回避/射程距離を減少させます。スキルレベルごとに+30％の命中補正が適用さ"
 "れます。スキルレベル10で範囲が増加します。"
 msgstr ""
 
@@ -7504,11 +7508,11 @@ msgid "指定範囲に{0}保護無視ダメージ。クリティカル/命中/�
 msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_2].SkillName
-msgid "レーダージャマ-"
+msgid "レーダージャマー"
 msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_3].SkillDescription
-msgid "戦闘開始時、前列に配置された軽装型/重装型のAPが増加します。偵察が活性化たら当効果の50％が毎ラウンドに適用されます。"
+msgid "戦闘開始時、前列に配置された軽装型/重装型のAPが増加します。偵察活性化状態の場合、ラウンド毎に当効果の50％が適用されます。"
 msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_3].SkillDescriptionSimple
@@ -7521,8 +7525,8 @@ msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_4].SkillDescription
 msgid ""
-"ラウンド開始時、範囲内の軽装型/重装型味方の攻撃力/クリティカル/行動力が増加します。偵察で次に現れる敵の情報が確認が分かり、敵陣営と遠いほど自分の回避が増"
-"加します。"
+"ラウンド開始時、範囲内の軽装型/重装型味方の攻撃力/クリティカル/行動力が増加します。偵察で次の出現する敵情報が確認でき、敵陣営と遠いほど自分の回避が増加し"
+"ます。"
 msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_4].SkillDescriptionSimple
@@ -7542,7 +7546,7 @@ msgid "XV-5オートターレット(ダメージ追加)"
 msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_13].SkillName
-msgid "レーダージャマ-(射程距離)"
+msgid "レーダージャマー(射程距離)"
 msgstr ""
 
 #: Skill[Skill_BR_TalonFeather_N_14].SkillName
@@ -17338,6 +17342,7 @@ msgstr ""
 msgid "対応狙撃"
 msgstr ""
 
+#  Korean Text: '없음'
 #: Skill[Skill_MP_NightChickSpCH_B0308_3].SkillDescription
 msgid "なし"
 msgstr "No Item"
@@ -19907,6 +19912,7 @@ msgstr "Initialization"
 msgid "獲物探索"
 msgstr ""
 
+#  Korean Text: '포효'
 #: Skill[Skill_MP_Tyrant_Challenge1_5].SkillName
 msgid "咆哮"
 msgstr ""

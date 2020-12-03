@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -208,6 +208,7 @@ msgid ""
 "以上！私の紹介はここまで。じゃあ…ご主人様？今日一日いい子にしてるから、お肉もっとくれない？"
 msgstr ""
 
+#  Korean Text: '펜리르'
 #: CharCollection[Char_3P_Fenrir_N].Char_Name
 msgid "フェンリル"
 msgstr "Fenrir"
@@ -292,7 +293,7 @@ msgstr ""
 
 #: CharCollection[Char_3P_Poi_N].Char_Desc
 msgid ""
-"うふふ！お待たせしました、ご主人様！コンパニオンシリーズの最高傑作！ポイが参りました！\n"
+"ニャハハッ！お待たせしました、ご主人様！コンパニオンシリーズの最高傑作！ポイが参りました！\n"
 "\n"
 "ミャッ？もしかして、ご主人様は私がペロのプロトタイプだったってことが気になってます？ニャハハ！意外と心配性なんですね？ご安心を。そんなことでポイをバカにして"
 "きた子たちは全員、この爪でわからせてきました。\n"
@@ -346,6 +347,7 @@ msgid ""
 "早速ですが、ご主人様？この私をお使いになる準備はできましたか？"
 msgstr ""
 
+#  Korean Text: '레아'
 #: CharCollection[Char_3P_Rhea_N].Char_Name
 msgid "オベロニア･レア"
 msgstr "Rhea"
@@ -503,6 +505,7 @@ msgid ""
 "今でも私は司令官閣下と仲間のAGS、味方のバイオロイドの防壁となるため、戦闘を継続しています。戦闘中に休息が必要な時はいつでも私をご利用ください。"
 msgstr ""
 
+#  Korean Text: '포트리스'
 #: CharCollection[Char_AGS_Fortress_N].Char_Name
 msgid "CT103フォトレス"
 msgstr "CT-103 Fortress"
@@ -563,6 +566,7 @@ msgid ""
 "どうです？司令官閣下。あなたはこの私を従えるに値する高貴な存在ですか？"
 msgstr ""
 
+#  Korean Text: 'RF87 로크'
 #: CharCollection[Char_AGS_Roc_N].Char_Name
 msgid "RF87ロク"
 msgstr "RF87 Roc"
@@ -630,14 +634,17 @@ msgid ""
 "自分たちの生産体制が整い始めましたので安心してください。"
 msgstr ""
 
+#  Korean Text: '스파르탄 어썰트'
 #: CharCollection[Char_AGS_SpartanA_N].Char_Name
 msgid "S25Aスパルタンアサルト"
 msgstr "S25A Spartan Assault"
 
+#  Korean Text: '스파르탄 부머'
 #: CharCollection[Char_AGS_SpartanB_N].Char_Name
 msgid "S25Bスパルタンブーマー"
 msgstr "S25B Spartan Boomer"
 
+#  Korean Text: '스파르탄 캡틴'
 #: CharCollection[Char_AGS_SpartanC_N].Char_Name
 msgid "S25スパルタンキャプテン"
 msgstr "S25 Spartan Captain"
@@ -658,6 +665,7 @@ msgid ""
 "ゃまたね～！"
 msgstr ""
 
+#  Korean Text: 'T-13 알비스'
 #: CharCollection[Char_BR_Alvis_N].Char_Name
 msgid "T-13アルヴィス"
 msgstr "T-13 Alvis"
@@ -735,6 +743,7 @@ msgid ""
 "ね？"
 msgstr ""
 
+#  Korean Text: 'T-12 베라'
 #: CharCollection[Char_BR_Bheur_N].Char_Name
 msgid "T-12カリアフ・ベラ"
 msgstr "T-12 Bheur"
@@ -917,6 +926,7 @@ msgid ""
 "…あなたを含めてね…"
 msgstr ""
 
+#  Korean Text: '에키드나'
 #: CharCollection[Char_BR_Echidna_N].Char_Name
 msgid "エキドナ"
 msgstr "Echidna"
@@ -1012,6 +1022,27 @@ msgstr ""
 #: CharCollection[Char_BR_Gremlin_N].Char_Name
 msgid "T-9グレムリン"
 msgstr "T-9 Gremlin"
+
+#: CharCollection[Char_BR_Harpy_N].Char_Desc
+msgid ""
+"こんにちは。私はP-"
+"22ハルピュイアよ。スカイナイツの主力機なの。\n"
+"\n"
+"今までの経験と数多くの試験機を使って培ってきたノウハウの集大成が私ってことね！当然だけど製作と運用に莫大な費用が発生したけれど、私たちの性能を確認した人間様"
+"たちは実戦投入をためらわなかったわ。\n"
+"\n"
+"その結果は言うまでもなく大成功～！でした！私たちはその当時、最強の戦闘機として有名だったの！そして、ブラックリバー社が第２次連合戦争開戦まで、制空権を失わな"
+"かった原動力にもなったわ。私の優れたステルス性能と統合情報処理能力の前では、敵機は攻撃されたという事実もわからないまま撃墜されていったわ。\n"
+"\n"
+"ここだけの話だけど…もう少し控えめな外観だったなら、ステルス性能がもっと向上したんじゃないかなって思うの。でも人間様たちは私たちに象徴性を与えたかったみたい"
+"。だから外見だけで判断しちゃだめよ？\n"
+"\n"
+"先に見つけ、先に撃ち、先に倒す。私たちのこの戦い方は鉄虫たちにも有効よ！空の安全は私に任せてちょうだい！"
+msgstr ""
+
+#: CharCollection[Char_BR_Harpy_N].Char_Name
+msgid "P-22ハルピュイア"
+msgstr "P-22 Harpyia"
 
 #  Korean Text: '안녕, 동지! 난 AA-7 임펫, 어쩐지 자꾸 스틸라인에서 잊혀지긴 하지만 우릴 잊지 말라구. 뭐, 우리가 스틸라인에 너무 늦게 합류한 때문이겠지만. \n\n원래 스틸라인은 공중 지원을 주로 헬기형 건쉽의 보조를 받아서 싸웠어. 후후. 하지만 헬기로 브라우니나 레프리콘의 기동력을 따라갈 수 있을 리가 없잖아? 좀더 작고 가벼운 게 유리하기도 하고. 게다가 브라우니와 레프리콘 분대의 천적인 장갑 유닛들을 상대할 필요도 있었지. 그래서 내가 온 거야. 이해 돼?\n\n단발형 자체 추진 로켓 런처를 갖춘 우리는 한 번에 퍼부을 수 있는 화력은 그저그랬지만 기동력 하나는 끝내줬고 기동 보급 유닛 하나만 있으면 화력도 지속할 수 있었지. 게다가 헬기 한 대를 운용할 비용이면 우리는 20명도 넘게 운용할 수 있었거든? 우린 연합 전쟁 내내 대량으로 사용되었다고. 인간들이 멸망 때까지도 말야.\n\n라비아타와 마리 대장 덕분에 우린 다시 복원되었고 지금도 임무를 충실하게 수행하고 있어. 우리가 조금 인간을 너무 좋아하고 폭발도 너무 좋아한다는 험담도 있지만… 걱정마. 동지. 우리가 인간들을 좋아하는 것만큼이나 다른 자매들도 사랑하니까. 우리의 엄호가 동지를 지켜줄 거야!\n'
 #: CharCollection[Char_BR_Impet_N].Char_Desc
@@ -1139,6 +1170,7 @@ msgid ""
 "世界が滅亡したことなんて関係ありません！リンティはこの世界をリンティだけの可愛らしさで染めてみせます。司令官もリンティに協力してくれますよね？"
 msgstr ""
 
+#  Korean Text: 'P-29 린트블룸'
 #: CharCollection[Char_BR_Lindwurm_N].Char_Name
 msgid "P-29リントヴルム"
 msgstr "P-29 Lindwurm"
@@ -1453,9 +1485,28 @@ msgid ""
 "あっ、そうそう、お姉ちゃんはちょっと用事があるの。今日はここまで。またね、司令官。"
 msgstr ""
 
+#  Korean Text: 'AO-2 레이븐'
 #: CharCollection[Char_BR_Raven_N].Char_Name
 msgid "AO-2レイヴン"
 msgstr "AO-2 Raven"
+
+#: CharCollection[Char_BR_RedHood_N].Char_Desc
+msgid ""
+"自分にどうか戦場で尊い死をお与えください！\n"
+"\n"
+"お初にお目にかかります！自分はスチールライン突撃連隊の連隊長であり、監察将校を務めるレッドフードであります！旗を翻し、死を以て突撃するため生きる軍人です！"
+"\n"
+"\n"
+"我々はスチールラインの全兵士にマリー隊長の命令を伝え、彼女らを指針に従って指揮するために製造されました。！見えない死が待ち構える戦場では、あれほど勇猛なブラ"
+"ウニーとノームもすくんでしまうもの！我々は拡声器と拳銃で彼女らを激励し！重機関銃とともに突撃し！彼女らに自分の死を以て模範となります！\n"
+"\n"
+"ひょっとすると野蛮に思うかもしれませんね…。でもこれだけは忘れないでください。我々スチールラインの兵士と将校の死が、鉄虫のいない未来へと続く扉を開ける、勝利"
+"の鍵であることを！"
+msgstr ""
+
+#: CharCollection[Char_BR_RedHood_N].Char_Name
+msgid "C-77レッドフード"
+msgstr "C-77 Red Hood"
 
 #  Korean Text: '모든 장갑 유닛의 공포, 하늘에서 모래 대신 총탄을 뿌려 적을 잠재우는 기동형 전투 유닛인 저, 샌드걸은 지상전의 주공이 되는 장갑 유닛을 막기 위해 태어났죠. 연합전쟁에서 블랙리버사는 제공권을 장악했지만 안타깝게도 지상전에서는 승기를 잡지 못하고 있었고 그러한 상황을 타개하기 위해 대공 능력은 없지만 대지 공격 능력을 충실하게 갖춘 화력 지원 기동 유닛이 절실하게 필요해졌으니까요.\n\n사실 우린 기동 유닛으로 보기엔 꽤 느린 편입니다. 대신 강력한 장갑과 오랜 체공 시간을 갖췄고 덕분에 연합 전쟁 내내 땅을 기어 다니는 로봇 녀석들에게 신나게 총알을 퍼부어 줄 수 있었죠. 철충과의 싸움에서도 충분히 활약했지만 적은 숫자는 극복할 수 없었고 결국은 모두 허공의 재가 되어 사라졌지만 말이죠.\n\n다시 태어난 우리는 이전보다는 훨씬 유기적으로 움직이고 있어요. 과거와 달리 방어전의 기회가 많은 만큼 우리는 그렘린이나 님프의 화력을 무시하고 들어오는 장갑 유닛의 요격을 맡아 맹활약을 하고 있죠.\n덕분에 꽤 재밌는 시간을 보내고 있고 그래서 더 이상은 생각을 하지 않으려고 해요. 어차피 결말은 점점 파멸을 향해 가고 있으니까요.\n'
 #: CharCollection[Char_BR_SandMan_N].Char_Desc
@@ -1539,6 +1590,7 @@ msgid ""
 "そして今…、鉄虫と戦う準備は出来ています。司令官が私を信じて、全てを任せていただけるなら、私セイレーンは絶対に司令官を失望させません！"
 msgstr ""
 
+#  Korean Text: 'AG-2C 세이렌'
 #: CharCollection[Char_BR_Sirene_N].Char_Name
 msgid "AG-2Cセイレーン"
 msgstr "AG-2C Sirene"
@@ -1591,6 +1643,7 @@ msgid ""
 "あっちの方でちょっとお喋りしない？早く～！"
 msgstr ""
 
+#  Korean Text: 'A-14B 스프리건'
 #: CharCollection[Char_BR_Spriggan_N].Char_Name
 msgid "A-14Bスプリガン"
 msgstr "A-14B Spriggan"
@@ -1611,6 +1664,29 @@ msgstr ""
 #: CharCollection[Char_BR_Sylphid_N].Char_Name
 msgid "P-18シルフィード"
 msgstr "P-18 Sylphid"
+
+#: CharCollection[Char_BR_TalonFeather_N].Char_Desc
+msgid ""
+"こんにちは、司令官様。私の名前はタロンフェザーと申します。アンガーオブホードで偵察任務を担当しています。\n"
+"\n"
+"私たちは元々空中戦闘用バイオロイドでしたが、カーン隊長の下に転入した後、追加の改造が加えられました。 "
+"その後に勃発した第２次連合戦争では、戦闘も兼ねた低高度強行偵察を主に担当していたんですが、ヴァルハラの狙撃手たちがとても優秀だったため、成果に比べて犠牲が多"
+"かったと言われています。\n"
+"\n"
+"そのため、メイン武装だったミサイルを全て取り外し、燃料タンクを追加で搭載、飛行アルゴリズムを改善するなど、追加改造を行い航続距離と飛行性能を高めました。その"
+"おかげで高高度から安全に偵察任務を遂行できるようになりました。\n"
+"\n"
+"人間様たちは偵察機であろうとも最小限の武装が必要だとお考えになられたのか、この自動照準ミニガンを装備してくださいました…ですが命中率があまり高くなく…私はこ"
+"のパネルで照準を合わせて射撃しています。\n"
+"\n"
+"このパネルは射撃コントロールの他にも、色々な機能が搭載されています。例えばこうやって写真を…まぁ～、よく撮れました。\n"
+"\n"
+"これからよろしくお願いしますね。司令官様。"
+msgstr ""
+
+#: CharCollection[Char_BR_TalonFeather_N].Char_Name
+msgid "E-16タロンフェザー"
+msgstr "E-16 Talon Feather"
 
 #  Korean Text: '안녕, 내 이름은 토모. 바로 학생들의 영원한 친구야. 아, 진짜 정체? 후후… 감당할 수 있어? 사실 내 정체는 바로 첩보원. 영어론 SPI라고 하지.\n\n사실 학생인 건 은폐를 위해서야. 연합 전쟁 후반에 고위층의 자녀를 노린 테러가 많아지면서 전세계의 학교엔 내가 파견되었지 물론 외모는 적당히 어레인지되었지만. 난 학생들과 함께 공부하면서 최대한 학생처럼 지내다가 위기의 순간에 ‘짜잔!’하고 나타나는 거야. 내 덕분에 살아난 학생의 수를 들으면 깜짝 놀랄걸?\n\n어쨌든 지금은 학교도 학생도 없으니까 첩보원 노릇을 하진 않지만 학생들을 보호하던 전투 능력을 살려서 철충들과 싸우고 있지. 아, 걱정마. 성적우수, 재기발랄, 초미소녀 여고생인 내 본질은 조금도 변하지 않으니까. 후후, 반해버렸어?'
 #: CharCollection[Char_BR_Tomoe_N].Char_Desc
@@ -1741,6 +1817,7 @@ msgid ""
 "慈悲深い陛下の横に並び立つことをお許しいただけるのなら、私は全ての能力を総動員し、陛下がこの戦いに勝利できるよう最善を尽くすつもりです。"
 msgstr ""
 
+#  Korean Text: '아르망'
 #: CharCollection[Char_DS_Arman_N].Char_Name
 msgid "アルマン枢機卿"
 msgstr "Armand"
@@ -1790,6 +1867,7 @@ msgid ""
 "それが「光」を信じなければならない理由なのです。"
 msgstr ""
 
+#  Korean Text: '아자젤'
 #: CharCollection[Char_DS_Azazel_N].Char_Name
 msgid "アザゼル"
 msgstr "Azazel"
@@ -1812,6 +1890,7 @@ msgid ""
 "悪には屈しないと！"
 msgstr ""
 
+#  Korean Text: '매지컬 백토'
 #: CharCollection[Char_DS_Baekto_N].Char_Name
 msgid "魔法少女マジカル白兎"
 msgstr "Magical BaekTo"
@@ -1841,6 +1920,7 @@ msgid ""
 "陛下のためにトップクラスの護衛をお約束いたします。"
 msgstr ""
 
+#  Korean Text: '샬럿'
 #: CharCollection[Char_DS_Charlotte_N].Char_Name
 msgid "シャーロット"
 msgstr "Charlotte"
@@ -1861,6 +1941,7 @@ msgid ""
 "ふむ…まずは…ん？今、演…（D-エンターテインメントにより検閲されました）"
 msgstr ""
 
+#  Korean Text: '뽀끄루 대마왕'
 #: CharCollection[Char_DS_Faucre_N].Char_Name
 msgid "ポックル大魔王"
 msgstr "Evil Overlord Faucre"
@@ -1951,6 +2032,7 @@ msgid ""
 "大変ではありますが、通信兵として一生懸命お役に立ちますよ。なんたって私は万能キャリアウーマンですから。"
 msgstr ""
 
+#  Korean Text: '커넥터 유미'
 #: CharCollection[Char_PECS_BS_N].Char_Name
 msgid "コネクターユミ"
 msgstr "Connector Yumi"
@@ -2026,6 +2108,7 @@ msgid ""
 "分になって…もっと楽しいこともして差し上げられますわよ…？うふふ～！"
 msgstr ""
 
+#  Korean Text: '키르케'
 #: CharCollection[Char_PECS_Circe_N].Char_Name
 msgid "キルケー"
 msgstr "Circe"
@@ -2066,6 +2149,7 @@ msgid ""
 "え？森林資源の管理にショットガンが何で必要だったかって？それは…PECSに聞いた方が早いと思うわ。"
 msgstr ""
 
+#  Korean Text: '다크엘븐 포레스트레인저'
 #: CharCollection[Char_PECS_DarkElf_N].Char_Name
 msgid "ダークエルブンフォレストレンジャー"
 msgstr "DarkElven ForestRanger"
@@ -2155,6 +2239,7 @@ msgid ""
 "別に悲しくはありませんよ？お気遣いありがとうございます。これ、ストレスも解消できて気に入ってるんです。えへへ。"
 msgstr ""
 
+#  Korean Text: '엘븐 포레스트메이커'
 #: CharCollection[Char_PECS_ElvenForestmaker_N].Char_Name
 msgid "エルブン･フォレストメーカー"
 msgstr "Elven ForestMaker"
@@ -2175,6 +2260,7 @@ msgid ""
 "あとペンギンの姿をしてるけど卵は産めないの！勘違いしたらダメなの！"
 msgstr ""
 
+#  Korean Text: '엠프리스'
 #: CharCollection[Char_PECS_Empress_N].Char_Name
 msgid "エンプレス"
 msgstr "Empress"
@@ -2238,6 +2324,7 @@ msgid ""
 "私は今、戦っています。今は…とても悲しい世界です…廃棄物を燃やすだけの…もっと良い、静かな世界になることを夢見て戦っています。"
 msgstr ""
 
+#  Korean Text: '이그니스'
 #: CharCollection[Char_PECS_Ignis_N].Char_Name
 msgid "イグニス"
 msgstr "Ignis"
@@ -2416,6 +2503,7 @@ msgid ""
 "どこまでも続く深い海の中でも心配ご無用！私に囁きかけてくれるお魚ちゃんたちがいる限り、たとえ海の中に光が差し込まなくても、道に迷うことはないわ!"
 msgstr ""
 
+#  Korean Text: '트리아이나'
 #: CharCollection[Char_PECS_Triaina_N].Char_Name
 msgid "トリアイナ"
 msgstr "Triana"
@@ -2435,6 +2523,7 @@ msgid ""
 "この堕落した世界を救うことができるのは、鋭利な武器でも頑丈な肉体でもありません。決して壊れることのない、鋼鉄のような意志と信念のみなのです。"
 msgstr ""
 
+#  Korean Text: '베로니카'
 #: CharCollection[Char_PECS_Veronica_N].Char_Name
 msgid "ヴェロニカ"
 msgstr "Veronica"
@@ -2481,6 +2570,7 @@ msgid ""
 "初めての実戦となりますが何も心配いりません、司令官。全て…私一人で解決してみせます。"
 msgstr ""
 
+#  Korean Text: 'X-00 티아맷'
 #: CharCollection[Char_ST_Tiamat_N].Char_Name
 msgid "X-00ティアマト"
 msgstr "X-00 Tiamat"

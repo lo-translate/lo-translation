@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -634,7 +634,7 @@ msgstr "Fenrir"
 msgid "炉端のポルティーヤを支給します。"
 msgstr "Given Fortia"
 
-#  Korean Text: '포티아'
+#  Korean Text: '화롯가의 포티아'
 #: ItemConsumable[CharTicket_Char_3P_Fotia_N].ItemName
 msgid "炉端のポルティーヤ"
 msgstr "Fotia of Fireside"
@@ -654,7 +654,7 @@ msgstr "Hachiko of Castling"
 msgid "ラビアタプロトタイプを支給します。"
 msgstr "Given Labiata"
 
-#  Korean Text: '라비아타'
+#  Korean Text: '라비아타 프로토타입'
 #: ItemConsumable[CharTicket_Char_3P_Labiata_N].ItemName
 msgid "ラビアタプロトタイプ"
 msgstr "Labiata"
@@ -736,7 +736,7 @@ msgstr "Vanilla A1"
 msgid "エイダーType-Gを支給します。"
 msgstr "Given Aeda Type-G"
 
-#  Korean Text: '에이다'
+#  Korean Text: '에이다 Type-G'
 #: ItemConsumable[CharTicket_Char_AGS_Aeda_N].ItemName
 msgid "エイダーType-G"
 msgstr "Aeda Type-G"
@@ -746,7 +746,7 @@ msgstr "Aeda Type-G"
 msgid "HQ1アルバトロスを支給します。"
 msgstr "Given HQ1 Albatross"
 
-#  Korean Text: '알바트로스'
+#  Korean Text: 'HQ1 알바트로스'
 #: ItemConsumable[CharTicket_Char_AGS_Albatross_N].ItemName
 msgid "HQ1アルバトロス"
 msgstr "HQ1 Albatross"
@@ -756,7 +756,7 @@ msgstr "HQ1 Albatross"
 msgid "CT2199Wフォールンを支給します。"
 msgstr "Given CT2199W Fallen"
 
-#  Korean Text: '폴른'
+#  Korean Text: 'CT2199W 폴른'
 #: ItemConsumable[CharTicket_Char_AGS_Fallen_N].ItemName
 msgid "CT2199Wフォールン"
 msgstr "CT2199W Fallen"
@@ -766,7 +766,7 @@ msgstr "CT2199W Fallen"
 msgid "S5ギガンテスを支給します。"
 msgstr "Given S5 Gigantes"
 
-#  Korean Text: '기간테스'
+#  Korean Text: 'S5 기간테스'
 #: ItemConsumable[CharTicket_Char_AGS_Gigantes_N].ItemName
 msgid "S5ギガンテス"
 msgstr "S5 Gigantes"
@@ -776,7 +776,7 @@ msgstr "S5 Gigantes"
 msgid "CT66ランパートを支給します。"
 msgstr "Given CT66 Rampart"
 
-#  Korean Text: '램파트'
+#  Korean Text: 'CT66 램파트'
 #: ItemConsumable[CharTicket_Char_AGS_Rampart_N].ItemName
 msgid "CT66ランパート"
 msgstr "CT66 Rampart"
@@ -785,6 +785,7 @@ msgstr "CT66 Rampart"
 msgid "塗料900個"
 msgstr ""
 
+#  Korean Text: '전력 1840개 + 3160개'
 #: ItemConsumable[CharTicket_Char_AGS_RheinRitter_N].ItemName
 msgid "デッキでの誓約式"
 msgstr ""
@@ -804,7 +805,7 @@ msgstr "RF87 Roc"
 msgid "K180セルジュークを支給します。"
 msgstr "Given K180 Seljuq"
 
-#  Korean Text: '셀주크'
+#  Korean Text: 'K180 셀주크'
 #: ItemConsumable[CharTicket_Char_AGS_Seljuq_N].ItemName
 msgid "K180セルジューク"
 msgstr "K180 Seljuq"
@@ -814,7 +815,7 @@ msgstr "K180 Seljuq"
 msgid "S12シェードを支給します。"
 msgstr "Given S12 Shade"
 
-#  Korean Text: '쉐이드'
+#  Korean Text: 'S12 쉐이드'
 #: ItemConsumable[CharTicket_Char_AGS_Shade_N].ItemName
 msgid "S12シェード"
 msgstr "S12 Shade"
@@ -1046,7 +1047,7 @@ msgid "P-22ハルピュイアを迎え入れます。"
 msgstr ""
 
 #: ItemConsumable[CharTicket_Char_BR_Harpy_N].ItemName
-msgid "P-22ハルフェイア"
+msgid "P-22ハルピュイア"
 msgstr "P-22 Harpyia"
 
 #: ItemConsumable[CharTicket_Char_BR_HongRyun_N].ItemDesc
@@ -1107,6 +1108,7 @@ msgstr "Given T-3 Leprechaun"
 msgid "T-3レプリコン"
 msgstr "T-3 Leprechaun"
 
+#  Korean Text: 'P-29 린트블룸'
 #: ItemConsumable[CharTicket_Char_BR_Lindwurm_N].ItemName
 msgid "P-29リントヴルム"
 msgstr "P-29 Lindwurm"
@@ -1444,7 +1446,7 @@ msgstr "Armand"
 msgid "疾走するアタランテを支給します。"
 msgstr "Given Atalanta"
 
-#  Korean Text: '아탈란테'
+#  Korean Text: '질주하는 아탈란테'
 #: ItemConsumable[CharTicket_Char_DS_Atalanta_N].ItemName
 msgid "疾走するアタランテ"
 msgstr "Atalanta"
@@ -1508,7 +1510,7 @@ msgstr ""
 msgid "魔法少女マジカルモモを支給します。"
 msgstr "Given Magical MoMo"
 
-#  Korean Text: '매지컬 모모'
+#  Korean Text: '마법소녀 매지컬 모모'
 #: ItemConsumable[CharTicket_Char_DS_MoMo_N].ItemName
 msgid "魔法少女マジカルモモ"
 msgstr "Magical MoMo"
@@ -1755,7 +1757,7 @@ msgstr "Light Defender Module EX"
 msgid "オードリードリームウィーバーを支給します"
 msgstr "Given Audrey"
 
-#  Korean Text: '오드리'
+#  Korean Text: '오드리 드림위버'
 #: ItemConsumable[CharTicket_Char_PECS_Audrey_N].ItemName
 msgid "オードリードリームウィーバー"
 msgstr "Audrey"
@@ -1833,7 +1835,7 @@ msgstr "DarkElven ForestRanger"
 msgid "ドローン08を支給します。"
 msgstr "Given Drone 08"
 
-#  Korean Text: '드론'
+#  Korean Text: '드론 08'
 #: ItemConsumable[CharTicket_Char_PECS_Drone_N].ItemName
 msgid "ドローン08"
 msgstr "Drone 08"
@@ -1935,7 +1937,7 @@ msgstr "Given Miss Safety"
 msgid "SD3Mポップヘッドを支給します。"
 msgstr "Given SD3M Pupp Head"
 
-#  Korean Text: '펍 헤드'
+#  Korean Text: 'SD3M 펍 헤드'
 #: ItemConsumable[CharTicket_Char_PECS_PuppHead_N].ItemName
 msgid "SD3Mポップヘッド"
 msgstr "SD3M Pupp Head"
@@ -1967,7 +1969,7 @@ msgstr "Spartoia"
 msgid "CM67スティンガーを支給します。"
 msgstr "Given CM67 Stinger"
 
-#  Korean Text: '스팅어'
+#  Korean Text: 'CM67 스팅어'
 #: ItemConsumable[CharTicket_Char_PECS_Stinger_N].ItemName
 msgid "CM67スティンガー"
 msgstr "CM67 Stinger"
@@ -2048,6 +2050,7 @@ msgstr ""
 msgid "ベッドルーム背景を活性化します。"
 msgstr ""
 
+#  Korean Text: '영양 14640개 + 35360개'
 #: ItemConsumable[Consumable_BG_Bedroom].ItemName
 msgid "ロマンティックベッドルーム"
 msgstr ""
@@ -4710,7 +4713,7 @@ msgid "真夏の妖精"
 msgstr "Midsummer Fairy"
 
 #: ItemConsumable[Shop_Package_3P_Fotia_1].ItemDesc
-msgid "フォティア用のトナカイさんコスチュームと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
+msgid "ポルティーヤ用のトナカイさんコスチュームと手作りケーキ1個、チョコレート2個、合成ペロペロキャンディ3個が入ったパックです。"
 msgstr ""
 
 #: ItemConsumable[Shop_Package_3P_Fotia_1].ItemName
@@ -6025,8 +6028,8 @@ msgstr "War Arm (Rampart)"
 
 #: ItemConsumable[Skin_AGS_Seljuq_1].ItemDesc
 msgid ""
-"AIを改善し別途のアップグレードを実行した独立戦闘型モデル、K 180 "
-"Eセルジュークです。感情モジュールとホログラムモジュールも搭載されているそうですが、その理由が気になりますね。그"
+"AIを改善し別途アップグレードを実行した独立戦闘型モデル、K 180 "
+"Eセルジュークです。感情モジュールとホログラムモジュールも搭載されているそうですが、その理由が気になりますね。"
 msgstr ""
 
 #: ItemConsumable[Skin_AGS_Seljuq_1].ItemName
