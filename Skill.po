@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -271,63 +271,78 @@ msgstr ""
 msgid "殺傷力強化(10レベル待機)"
 msgstr ""
 
+#  Korean Text: '지정 범위에 보호 무시 {0} 피해를 주고, 2라운드 동안 도발 / 공격력 / 적중 감소 상태로 만듭니다. 대상이 표식 / 회피 감소 상태면 피해량이 증가합니다.'
 #: Skill[Skill_3P_Annie_N_1].SkillDescription
 msgid ""
 "指定範囲に{0}保護無視ダメージを与え、2ラウンドの間、挑発と攻撃力/命中減少状態にします。対象が標的/回避減少状態なら与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 {0} 보호 무시 피해. 도발 / 공격력 / 적중 감소. 표식 / 회피 감소 대상 피해량 증가'
 #: Skill[Skill_3P_Annie_N_1].SkillDescriptionSimple
 msgid "指定範囲に{0}保護無視ダメージ。挑発。攻撃力/命中減少。標的/回避減少対象に与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '매그넘 난사'
 #: Skill[Skill_3P_Annie_N_1].SkillName
 msgid "マグナム乱射"
 msgstr ""
 
+#  Korean Text: '3라운드 동안 자신에게 방어막이 적용되며, 대상이 보호기가 아닐 경우, 대상을 지정 보호합니다. 대상과 자신의 공격력 / 행동력이 증가합니다. '
 #: Skill[Skill_3P_Annie_N_2].SkillDescription
 msgid "3ラウンドの間、自分にバリアが適用され、対象が保護機ではない場合、対象を指定保護します。対象と自分の攻撃力/行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '자신에게 방어막 적용. 자신과 지정 아군 공격력 / 행동력 증가. 보호기가 아닐 경우, 지정 보호'
 #: Skill[Skill_3P_Annie_N_2].SkillDescriptionSimple
 msgid "自分にバリア適用。自分と指定味方の攻撃力/行動力が増加。保護機を除いて指定保護"
 msgstr ""
 
+#  Korean Text: '카운티 가드'
 #: Skill[Skill_3P_Annie_N_2].SkillName
 msgid "カウンティガード"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 열 보호 / 회피 증가 / 효과 저항 증가 / 받는 피해 감소 효과가 적용됩니다.'
 #: Skill[Skill_3P_Annie_N_3].SkillDescription
 msgid "ラウンド開始時、列保護/回避増加/状態異常耐性増加/受けるダメージ減少効果が適用されます。"
 msgstr ""
 
+#  Korean Text: '열 보호 / 회피 / 효과 저항 증가 / 받는 피해 감소'
 #: Skill[Skill_3P_Annie_N_3].SkillDescriptionSimple
 msgid "列保護/回避/状態異常耐性が増加。受けるダメージ減少"
 msgstr ""
 
+#  Korean Text: '과감한 드리프트'
 #: Skill[Skill_3P_Annie_N_3].SkillName
 msgid "思い切ったドリフト"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 도발 상태인 적을 표식 / 받는 피해 증가 / 회피 감소 상태로 만듭니다.'
 #: Skill[Skill_3P_Annie_N_4].SkillDescription
 msgid "ラウンド開始時、挑発状態の敵を標的に設定し、受けるダメージ増加/回避減少状態にします。"
 msgstr ""
 
+#  Korean Text: '도발 상태인 적 표식 / 받는 피해 증가 / 회피 감소'
 #: Skill[Skill_3P_Annie_N_4].SkillDescriptionSimple
 msgid "挑発状態の敵を標的に設定し、受けるダメージ増加/回避減少"
 msgstr ""
 
+#  Korean Text: '범죄자 체포'
 #: Skill[Skill_3P_Annie_N_4].SkillName
 msgid "犯罪者逮捕"
 msgstr ""
 
+#  Korean Text: '매그넘 난사 (피해량)'
 #: Skill[Skill_3P_Annie_N_11].SkillName
 msgid "マグナム乱射(ダメージ量)"
 msgstr ""
 
+#  Korean Text: '카운티 가드 (아군 공/행)'
 #: Skill[Skill_3P_Annie_N_12].SkillName
 msgid "カウンティガード(味方攻/行)"
 msgstr ""
 
+#  Korean Text: '카운티 가드 (아군 지정 보호)'
 #: Skill[Skill_3P_Annie_N_13].SkillName
 msgid "カウンティガード(味方指定保護)"
 msgstr ""
@@ -525,6 +540,7 @@ msgstr ""
 msgid "ストーキング(命中減少ダミー)"
 msgstr ""
 
+#  Korean Text: '피학성향 (최대 중첩 속행)'
 #: Skill[Skill_3P_BlackLilith_N_23].SkillName
 msgid "被虐性向(最大重複続行)"
 msgstr ""
@@ -678,6 +694,7 @@ msgstr ""
 msgid "傷切り"
 msgstr "Open Wound"
 
+#  Korean Text: '전투 개시 시, 자신과 같은 행의 두 칸 뒤에 위치한 아군의 AP를 증가시킵니다. 라운드 개시 시마다 대상에게 공격 지원 / 지정 대상 보호 효과를 줍니다.'
 #: Skill[Skill_3P_CSPerrault_N_5].SkillDescription
 msgid "戦闘開始時、自分と同じ列の2マス後ろにある味方のAPを増加させます。ラウンド開始毎に対象に攻撃支援/指定対象保護効果を与えます。"
 msgstr ""
@@ -687,6 +704,7 @@ msgstr ""
 msgid "指定味方のAP増加/攻撃支援/対象保護"
 msgstr ""
 
+#  Korean Text: '손 빌려주기'
 #: Skill[Skill_3P_CSPerrault_N_5].SkillName
 msgid "猫の手"
 msgstr ""
@@ -711,14 +729,17 @@ msgstr ""
 msgid "柔軟性(常時ダミー)"
 msgstr ""
 
+#  Korean Text: '손 빌려주기 (더미)'
 #: Skill[Skill_3P_CSPerrault_N_15].SkillName
 msgid "猫の手(ダミー)"
 msgstr ""
 
+#  Korean Text: '손 빌려주기 (공격 AP)'
 #: Skill[Skill_3P_CSPerrault_N_16].SkillName
 msgid "猫の手(HP％ダメージ量)"
 msgstr ""
 
+#  Korean Text: '손 빌려주기 (HP% 피해량)'
 #: Skill[Skill_3P_CSPerrault_N_17].SkillName
 msgid "猫の手(攻撃AP)"
 msgstr ""
@@ -1159,263 +1180,327 @@ msgstr "Reliable Big Sis"
 msgid "強化筋力(ダミー)"
 msgstr ""
 
+#  Korean Text: '철충 파괴 (피해량)'
 #: Skill[Skill_3P_Labiata_N_12].SkillName
 msgid "鉄虫破壊(ダメージ量)"
 msgstr ""
 
+#  Korean Text: '제네레이터 활성화 (추가)'
 #: Skill[Skill_3P_Labiata_N_13].SkillName
 msgid "ゼネレーター活性化(追加)"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 주고, 2라운드 동안 적중 대상을 도발하며 공격력 / 치명타 / 행동력을 낮춥니다.'
 #: Skill[Skill_3P_Maria_N_1].SkillDescription
 msgid "対象に{0}ダメージを与えて、2ラウンドの間、命中された対象を挑発し攻撃力/クリティカル/行動力を下げます。"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 피해. 도발 / 공격력 / 치명타 / 행동력 감소'
 #: Skill[Skill_3P_Maria_N_1].SkillDescriptionSimple
 msgid "単一対象に{0}ダメージ。挑発。攻撃力/クリティカル/行動力減少"
 msgstr ""
 
+#  Korean Text: '공격 견제'
 #: Skill[Skill_3P_Maria_N_1].SkillName
 msgid "攻撃牽制"
 msgstr ""
 
+#  Korean Text: '자신과 지정 아군에게 3라운드 동안 방어막 / 받는 피해 감소 효과를 줍니다. 대상이 보호기가 아닐 경우, 지정 보호 효과가 추가됩니다.'
 #: Skill[Skill_3P_Maria_N_2].SkillDescription
 msgid "自分と指定味方に3ラウンドの間、バリア/受けるダメージ減少効果を与えます。対象が保護機ではない場合、指定保護が追加されます。"
 msgstr ""
 
+#  Korean Text: '자신과 지정 아군 방어막 / 받는 피해 감소. 보호기가 아니면 지정 보호'
 #: Skill[Skill_3P_Maria_N_2].SkillDescriptionSimple
 msgid "自分と指定味方にバリア/受けるダメージ減少。保護機を除いて指定保護"
 msgstr ""
 
+#  Korean Text: '형상기억 스커트'
 #: Skill[Skill_3P_Maria_N_2].SkillName
 msgid "形状記憶スカート"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 인접한 아군에게 대기하기 전까지 스킬 사용 불가 효과를 줍니다. 라운드 개시 시, 대상들의 공격력 / 치명타 / 적중 / 행동력이 증가합니다.'
 #: Skill[Skill_3P_Maria_N_3].SkillDescription
 msgid "戦闘開始時、隣接した味方に待機するまでのスキル使用不可効果を与えます。ラウンド開始時、対象たちの攻撃力/クリティカル/命中/行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '인접한 아군 대기 전까지 스킬 사용 불가. 대상 공격력 / 치명타 / 적중 / 행동력 증가'
 #: Skill[Skill_3P_Maria_N_3].SkillDescriptionSimple
 msgid "隣接した味方は待機するまでスキルが使用不可。対象の攻撃力/クリティカル/行動力増加"
 msgstr ""
 
+#  Korean Text: '준비물 확인'
 #: Skill[Skill_3P_Maria_N_3].SkillName
 msgid "準備物確認"
 msgstr ""
 
+#  Korean Text: '형상기억 스커트 (피감)'
 #: Skill[Skill_3P_Maria_N_11].SkillName
 msgid "形状記憶スカート(ダメージ減少)"
 msgstr ""
 
+#  Korean Text: '형상기억 스커트 (지정 보호)'
 #: Skill[Skill_3P_Maria_N_12].SkillName
 msgid "形状記憶スカート(指定保護)"
 msgstr ""
 
+#  Korean Text: '형상기억 스커트 (자신 피감)'
 #: Skill[Skill_3P_Maria_N_13].SkillName
 msgid "形状記憶スカート(自分ダメージ減少)"
 msgstr ""
 
+#  Korean Text: '형상기억 스커트 (자신 방어막)'
 #: Skill[Skill_3P_Maria_N_14].SkillName
 msgid "形状記憶スカート(自分バリア)"
 msgstr ""
 
+#  Korean Text: '준비물 확인 (스킬 봉인)'
 #: Skill[Skill_3P_Maria_N_15].SkillName
 msgid "準備物確認(行動封印)"
 msgstr ""
 
+#  Korean Text: '적에게 {0} 방어막 / 피해 감소 무시 피해를 주고, 과흥분 상태일 시 추가 피해를 입힙니다.'
 #: Skill[Skill_3P_Poi_N_1].SkillDescription
 msgid "敵に{0}のバリア/ダメージ減少無視ダメージを与え、過興奮状態の場合、追加ダメージを与えます。"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 피해. 방어막 / 피해 감소, 과흥분 시 추가 피해'
 #: Skill[Skill_3P_Poi_N_1].SkillDescriptionSimple
 msgid "単一対象に{0}のダメージ。バリア/ダメージ減少、過興奮時追加ダメージ。"
 msgstr ""
 
+#  Korean Text: '단분자 클로 프로토'
 #: Skill[Skill_3P_Poi_N_1].SkillName
 msgid "単分子クロープロト"
 msgstr ""
 
+#  Korean Text: '지정 범위 적에게 {0} 보호 무시 피해를 주고, 적중 / 방어력을 감소시킵니다.'
 #: Skill[Skill_3P_Poi_N_2].SkillDescription
 msgid "指定範囲の敵に{0}の保護無視ダメージを与え、命中率/防御力を減少させます。"
 msgstr ""
 
+#  Korean Text: '보호 무시, 적 적중 / 방어력 감소'
 #: Skill[Skill_3P_Poi_N_2].SkillDescriptionSimple
 msgid "保護無視、敵の命中率/防御力減少。"
 msgstr ""
 
+#  Korean Text: '무자비한 고양이'
 #: Skill[Skill_3P_Poi_N_2].SkillName
 msgid "無慈悲な猫"
 msgstr ""
 
+#  Korean Text: '라운드 시작 시 과흥분 상태가 됩니다. 피격 시 과흥분 상태가 해제되고, 2회 대기 후 라운드 시작 시 과흥분 상태가 재활성화 됩니다. 자신의 공격력이 증가하며 과흥분 상태일 시 방어 관통이 추가로 증가합니다.'
 #: Skill[Skill_3P_Poi_N_3].SkillDescription
 msgid ""
 "ラウンド開始時、過興奮状態になります。攻撃を受けると過興奮状態が解除され、2回待機後のラウンドの開始時、過興奮状態が再活性化されます。自分の攻撃力が増加し、"
 "過興奮状態の場合、防御貫通が追加で増加します。"
 msgstr ""
 
+#  Korean Text: '과흥분 버프, 자신 공격력 증가, 과흥분 시 방어 관통 증가'
 #: Skill[Skill_3P_Poi_N_3].SkillDescriptionSimple
 msgid "過興奮バフ、自分の攻撃力増加、過興奮時防御貫通増加。"
 msgstr ""
 
+#  Korean Text: '과 흥분 상태'
 #: Skill[Skill_3P_Poi_N_3].SkillName
 msgid "過興奮状態"
 msgstr ""
 
+#  Korean Text: '자신의 행동력이 증가합니다. 과흥분 상태일 시 행동력이 추가로 증가합니다.'
 #: Skill[Skill_3P_Poi_N_4].SkillDescription
 msgid "自分の行動力が増加します。過興奮状態の場合、行動力が追加で増加します。"
 msgstr ""
 
+#  Korean Text: '자신 행동력 증가, 과흥분 시 행동력 추가 증가'
 #: Skill[Skill_3P_Poi_N_4].SkillDescriptionSimple
 msgid "自分の行動力増加、過興奮時行動力追加増加。"
 msgstr ""
 
+#  Korean Text: '사냥감 포착'
 #: Skill[Skill_3P_Poi_N_4].SkillName
 msgid "獲物捕捉"
 msgstr ""
 
+#  Korean Text: '경장형 보호기와 컴패니언 소속 캐릭터를 지원 공격합니다. 자신의 회피율이 증가하며 과흥분 상태가 해제되면 회피율이 추가로 증가합니다.'
 #: Skill[Skill_3P_Poi_N_5].SkillDescription
 msgid "軽装型保護機のキャラクターを支援攻撃します。自分の回避率が増加し、過興奮状態が解除されると回避率が追加で増加します。"
 msgstr ""
 
+#  Korean Text: '경장형 보호기/컴패니언 소속 지원 공격, 자신 회피율 증가, 과흥분 해제 시 회피율 추가 증가'
 #: Skill[Skill_3P_Poi_N_5].SkillDescriptionSimple
 msgid "軽装型保護機支援攻撃、自分の回避率増、過興奮状態解除時回避率追加増加。"
 msgstr ""
 
+#  Korean Text: '9개의 목숨'
 #: Skill[Skill_3P_Poi_N_5].SkillName
 msgid "9つの命"
 msgstr ""
 
+#  Korean Text: '단분자 클로 프로토(추가 피해)'
 #: Skill[Skill_3P_Poi_N_11].SkillName
 msgid "単分子クロープロト(追加ダメージ)"
 msgstr ""
 
+#  Korean Text: '무자비한 고양이(적중)'
 #: Skill[Skill_3P_Poi_N_21].SkillName
 msgid "無慈悲な猫(命中率)"
 msgstr ""
 
+#  Korean Text: '과 흥분 상태(흥분 조절)'
 #: Skill[Skill_3P_Poi_N_31].SkillName
 msgid "過興奮状態(興奮調節)"
 msgstr ""
 
+#  Korean Text: '과 흥분 상태(두근 두근)'
 #: Skill[Skill_3P_Poi_N_32].SkillName
 msgid "過興奮状態(ドキドキ)"
 msgstr ""
 
+#  Korean Text: '과 흥분 상태(흥분 조절 해제)'
 #: Skill[Skill_3P_Poi_N_33].SkillName
 msgid "過興奮状態(興奮調節解除)"
 msgstr ""
 
+#  Korean Text: '과 흥분 상태(공격력)'
 #: Skill[Skill_3P_Poi_N_34].SkillName
 msgid "過興奮状態(攻撃力)"
 msgstr ""
 
+#  Korean Text: '과 흥분 상태(방어 관통)'
 #: Skill[Skill_3P_Poi_N_35].SkillName
 msgid "過興奮状態(防御貫通)"
 msgstr ""
 
+#  Korean Text: '사냥감 포착(행동력 추가)'
 #: Skill[Skill_3P_Poi_N_41].SkillName
 msgid "獲物捕捉(行動力追加)"
 msgstr ""
 
+#  Korean Text: '경장형 보호기와 컴패니언 소속 캐릭터를 지원 공격합니다. 자신의 회피율이 증가하며 과흥분 상태가 해제되면 회피율이 추가로 증가합니다.'
 #: Skill[Skill_3P_Poi_N_51].SkillDescription
 msgid "軽装型保護機キャラクターを支援攻撃します。自分の回避率が増加し、過興奮状態が解除されると回避率が追加で増加します。"
 msgstr ""
 
+#  Korean Text: '9개의 목숨(경장형 보호기 지원공격)'
 #: Skill[Skill_3P_Poi_N_51].SkillName
 msgid "9つの命(軽装型保護機支援攻撃)"
 msgstr ""
 
+#  Korean Text: '9개의 목숨(자신 회피율 증가)'
 #: Skill[Skill_3P_Poi_N_53].SkillName
 msgid "9つの命(自分の回避率増加)"
 msgstr ""
 
+#  Korean Text: '9개의 목숨(회피율 추가 증가)'
 #: Skill[Skill_3P_Poi_N_54].SkillName
 msgid "9つの命(回避率追加増加)"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 회피 / 행동력을 낮춥니다. 치명타 시, 피해량이 증가합니다.'
 #: Skill[Skill_3P_Ran_N_1].SkillDescription
 msgid "対象に{0}のダメージを与え、2ラウンドの間、対象を挑発し回避率/行動力を減少させます。クリティカル時、ダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 피해. 도발 / 회피 / 행동력 감소. 치명타 시, 피해량 증가'
 #: Skill[Skill_3P_Ran_N_1].SkillDescriptionSimple
 msgid "単一対象に{0}ダメージ。挑発。回避/行動力減少。クリティカル時、与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '찰나 베기'
 #: Skill[Skill_3P_Ran_N_1].SkillName
 msgid "刹那切り"
 msgstr ""
 
+#  Korean Text: '3라운드 동안 공격력 / 적중 / 사거리 / 받는 피해가 증가합니다. 스킬 레벨 10에서 사거리가 추가로 증가합니다.'
 #: Skill[Skill_3P_Ran_N_2].SkillDescription
 msgid "3ラウンドの間、攻撃力/命中率/射程距離/受けるダメージが増加します。スキルレベル10で射程距離が追加で増加します。"
 msgstr ""
 
+#  Korean Text: '스킬 사용 시, 공격력 / 적중 / 사거리 / 받는 피해 증가'
 #: Skill[Skill_3P_Ran_N_2].SkillDescriptionSimple
 msgid "スキル使用時、攻撃力/命中/射程距離/受けるダメージ増加"
 msgstr ""
 
+#  Korean Text: '명경지수'
 #: Skill[Skill_3P_Ran_N_2].SkillName
 msgid "明鏡止水"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 전열에 배치된 경장 / 기동형 아군을 지정 보호하며 대상의 적중 / 행동력을 상승시킵니다.'
 #: Skill[Skill_3P_Ran_N_3].SkillDescription
 msgid ""
 "ラウンド開始時、前列に配置された軽装型/機動型の味方を指定保護し、対象の命中率/行動力を増加します。自分が前列に配置された場合、同様の効果が適用されます。"
 msgstr ""
 
+#  Korean Text: '전열에 배치된 경장 / 기동형 아군 지정 보호 / 적중 / 행동력 증가'
 #: Skill[Skill_3P_Ran_N_3].SkillDescriptionSimple
 msgid "前列に配置された軽装型/機動型の味方に指定保護/命中率/行動力増加"
 msgstr ""
 
+#  Korean Text: '그림자 호위'
 #: Skill[Skill_3P_Ran_N_3].SkillName
 msgid "影の護衛"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 치명타 / 적중 / 회피가 증가하며, 적의 공격을 회피하면 반격합니다. 자신이 전열이거나 <명경지수> 상태인 경우, 해당 효과로 인한 회피 증가 효과가 30% 추가 적용됩니다.'
 #: Skill[Skill_3P_Ran_N_4].SkillDescription
 msgid ""
 "ラウンド開始時、クリティカル率/命中率/回避率が増加し、敵の攻撃を回避すると反撃します。自分が前列または<明鏡止水>状態の場合、回避率増加効果が効果値の30"
 "％分追加で適用されます。"
 msgstr ""
 
+#  Korean Text: '치명타 / 적중 / 회피 증가. 회피 시, 반격. 전열이거나 <명경지수> 상태인 경우, 회피 추가 증가'
 #: Skill[Skill_3P_Ran_N_4].SkillDescriptionSimple
 msgid "クリティカル率/命中率/回避率が増加。回避時、反撃。前列または<明鏡止水>状態の場合、回避追加で増加"
 msgstr ""
 
+#  Korean Text: '예리한 감각'
 #: Skill[Skill_3P_Ran_N_4].SkillName
 msgid "鋭い感覚"
 msgstr ""
 
+#  Korean Text: '쾌속 베기 (크리)'
 #: Skill[Skill_3P_Ran_N_11].SkillName
 msgid "快速切り(クリ)"
 msgstr ""
 
+#  Korean Text: '명경지수 (사거리 기본)'
 #: Skill[Skill_3P_Ran_N_12].SkillName
 msgid "明鏡止水(射程距離基本)"
 msgstr ""
 
+#  Korean Text: '3라운드 동안 공격력 / 적중 / 사거리 / 받는 피해가 증가합니다.'
 #: Skill[Skill_3P_Ran_N_13].SkillDescription
 msgid "3ラウンドの間、攻撃力/命中率/射程距離/受けるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '공격력 / 적중 / 사거리 / 받는 피해 증가'
 #: Skill[Skill_3P_Ran_N_13].SkillDescriptionSimple
 msgid "攻撃力/命中率/射程距離/受けるダメージ増加"
 msgstr ""
 
+#  Korean Text: '명경지수 (사거리 10렙)'
 #: Skill[Skill_3P_Ran_N_13].SkillName
 msgid "明鏡止水(射程距離Lv10)"
 msgstr ""
 
+#  Korean Text: '명경지수 (피해 증폭)'
 #: Skill[Skill_3P_Ran_N_14].SkillName
 msgid "明鏡止水(ダメージ増幅)"
 msgstr ""
 
+#  Korean Text: '명경지수 (적중)'
 #: Skill[Skill_3P_Ran_N_15].SkillName
 msgid "明鏡止水(命中)"
 msgstr ""
 
+#  Korean Text: '예리한 감각 (반격)'
 #: Skill[Skill_3P_Ran_N_16].SkillName
 msgid "鋭い感覚(反撃)"
 msgstr ""
 
+#  Korean Text: '예리한 감각 (추가 회피)'
 #: Skill[Skill_3P_Ran_N_17].SkillName
 msgid "鋭い感覚(追加回避)"
 msgstr ""
@@ -1620,6 +1705,7 @@ msgstr ""
 msgid "害虫駆除(キルダミー)"
 msgstr ""
 
+#  Korean Text: '해충 처리 (소완)'
 #: Skill[Skill_3P_ScissorsLise_N_16].SkillName
 msgid "害虫駆除(ソワン)"
 msgstr ""
@@ -2501,6 +2587,7 @@ msgstr ""
 msgid "市民の友達"
 msgstr ""
 
+#  Korean Text: '군용 현대화 개수'
 #: Skill[Skill_AGS_Rampart_N_4].SkillName
 msgid "軍用現代化改修"
 msgstr ""
@@ -2520,10 +2607,12 @@ msgstr ""
 msgid "市民護衛(APダミー)"
 msgstr ""
 
+#  Korean Text: '목표 견제 (위력 증가)'
 #: Skill[Skill_AGS_Rampart_N_13].SkillName
 msgid "目標牽制(威力増加)"
 msgstr ""
 
+#  Korean Text: '군용 현대화 개수 (반격)'
 #: Skill[Skill_AGS_Rampart_N_14].SkillName
 msgid "軍用現代化改修(反撃)"
 msgstr ""
@@ -2651,6 +2740,7 @@ msgstr ""
 msgid "電磁気誘導(回避減少ダミー)"
 msgstr ""
 
+#  Korean Text: '유피텔 스트라이크 (강화)'
 #: Skill[Skill_AGS_Roc_N_20].SkillName
 msgid "ユピテルストライク(強化)"
 msgstr ""
@@ -2712,6 +2802,7 @@ msgstr ""
 msgid "203mm曲射砲着弾"
 msgstr ""
 
+#  Korean Text: '203mm 곡사포 착탄 (피해 감소 무시)'
 #: Skill[Skill_AGS_Seljuq_N_11].SkillName
 msgid "203mm曲射砲着弾(ダメージ減少無視)"
 msgstr ""
@@ -2995,18 +3086,22 @@ msgstr ""
 msgid "通さないよ！(防御力ダミー)"
 msgstr ""
 
+#  Korean Text: '뭉게뭉게! (자신 회피)'
 #: Skill[Skill_BR_Alvis_N_14].SkillName
 msgid "もくもく！(自分回避)"
 msgstr ""
 
+#  Korean Text: '뭉게뭉게! (자신 피감)'
 #: Skill[Skill_BR_Alvis_N_15].SkillName
 msgid "もくもく！(自分ダメージ減少)"
 msgstr ""
 
+#  Korean Text: '범위 내 경장형 공격기 / 지원기를 보호하고, 전투 개시 시 보호 대상들의 AP를 올려줍니다. 라운드 개시 시, 자신의 방어력과 냉기 저항이 증가합니다.'
 #: Skill[Skill_BR_Alvis_N_16].SkillDescription
 msgid "範囲内の軽装型攻撃機/支援機を保護し、戦闘開始時、保護対象のAPを上げます。ラウンド開始時、自分の防御力と冷気耐性が増加します。"
 msgstr ""
 
+#  Korean Text: '못 지나갈걸? (AP)'
 #: Skill[Skill_BR_Alvis_N_16].SkillName
 msgid "通さないよ！(AP)"
 msgstr ""
@@ -3152,18 +3247,22 @@ msgstr ""
 msgid "全員突撃!(攻撃バフ)"
 msgstr ""
 
+#  Korean Text: '대형 방패 전개 (효과 저항)'
 #: Skill[Skill_BR_AS12TurtleDragon_N_14].SkillName
 msgid "ライオットシールド(状態異常耐性)"
 msgstr ""
 
+#  Korean Text: '전원 돌격! (반격)'
 #: Skill[Skill_BR_AS12TurtleDragon_N_15].SkillName
 msgid "全員突撃！(反撃)"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 피해. 공격력 / 행동력 감소. 10% 확률 행동 불가. 치명타 시, 피해량 증가'
 #: Skill[Skill_BR_AS12TurtleDragon_N_16].SkillDescriptionSimple
 msgid "単一対象に{0}ダメージ。攻撃力/行動力減少。10％確率不可。クリティカル時、与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '제압 사격 (치명타)'
 #: Skill[Skill_BR_AS12TurtleDragon_N_16].SkillName
 msgid "制圧射撃(クリ)"
 msgstr ""
@@ -3173,6 +3272,7 @@ msgstr ""
 msgid "指定範囲に{0}ダメージ。対象が標的/移動不可状態ならダメージ増加"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 보호 무시 피해. 표식 / 이동 불가 대상 피해량 증가'
 #: Skill[Skill_BR_Banshee_N_2].SkillDescriptionSimple
 msgid "単一対象に{0}保護無視ダメージ。標的/移動不可対象に与えるダメージが増加"
 msgstr ""
@@ -4000,22 +4100,27 @@ msgstr ""
 msgid "出力展開です!(10レベルダミー)"
 msgstr ""
 
+#  Korean Text: '새 발명품이에요! (적중 더미)'
 #: Skill[Skill_BR_DrM_N_17].SkillName
 msgid "新しい発明品です！(命中ダミー)"
 msgstr ""
 
+#  Korean Text: '새 발명품이에요! (행동력 더미)'
 #: Skill[Skill_BR_DrM_N_18].SkillName
 msgid "新しい発明品です！(行動力ダミー)"
 msgstr ""
 
+#  Korean Text: '새 발명품이에요! (피감 더미)'
 #: Skill[Skill_BR_DrM_N_19].SkillName
 msgid "新しい発明品です！(ダメージ減少ダミー)"
 msgstr ""
 
+#  Korean Text: '실험 대상 모집해요! (50% 해제)'
 #: Skill[Skill_BR_DrM_N_20].SkillName
 msgid "実験対象募集します！(50％解除)"
 msgstr ""
 
+#  Korean Text: '분석했어요! (정찰)'
 #: Skill[Skill_BR_DrM_N_21].SkillName
 msgid "分析しました！(偵察)"
 msgstr ""
@@ -4211,18 +4316,22 @@ msgstr ""
 msgid "迫撃砲着弾"
 msgstr ""
 
+#  Korean Text: '140mm 고폭탄 (AP 감소)'
 #: Skill[Skill_BR_Efreeti_N_11].SkillName
 msgid "140mm高爆弾(AP減少)"
 msgstr ""
 
+#  Korean Text: '140mm 고폭탄 (피해량)'
 #: Skill[Skill_BR_Efreeti_N_12].SkillName
 msgid "140mm高爆弾(ダメージ量)"
 msgstr ""
 
+#  Korean Text: '곡사 포격 (피해 증폭)'
 #: Skill[Skill_BR_Efreeti_N_13].SkillName
 msgid "曲射砲撃(ダメージ増幅)"
 msgstr ""
 
+#  Korean Text: '강선형 박격포 (후열)'
 #: Skill[Skill_BR_Efreeti_N_15].SkillName
 msgid "腔線型迫撃砲(後列)"
 msgstr ""
@@ -4499,109 +4608,134 @@ msgstr ""
 msgid "火器不法改造(射程距離)"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 피해를 주고, 2라운드 동안 대상들의 회피를 감소시킵니다. 대상이 기동형이거나 표식 / 이동 불가 상태면 피해량이 증가합니다.'
 #: Skill[Skill_BR_Harpy_N_1].SkillDescription
 msgid ""
 "指定範囲に{0}ダメージを与え、2ラウンドの間、対象たちの回避を減少させます。対象が機動型または標的/移動不可状態の場合、与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 {0} 피해. 회피 감소. 기동형 / 표식 / 이동 불가 대상 피해량 증가'
 #: Skill[Skill_BR_Harpy_N_1].SkillDescriptionSimple
 msgid "指定範囲に{0}ダメージ。回避減少。機動型/標的/移動不可対象に与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: 'NARAAK 미사일'
 #: Skill[Skill_BR_Harpy_N_1].SkillName
 msgid "NARAAKミサイル"
 msgstr ""
 
+#  Korean Text: '지정 대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시, 피해량이 증가합니다. 해당 스킬이 적중한 라운드에는 자신이 장착한 대 타입 피해량 증가 장비 효과가 증폭됩니다. 스킬 레벨 당 +4%의 적중 보정이 적용됩니다.'
 #: Skill[Skill_BR_Harpy_N_2].SkillDescription
 msgid ""
 "指定対象に{0}保護無視ダメージを与えます。クリティカル時、与えるダメージが増加します。当スキルが命中したラウンドには自分が装着した対タイプダメージ増加装備"
 "の効果が増幅します。スキルレベルごとに+4％の命中補正が入ります。"
 msgstr ""
 
+#  Korean Text: '지정 대상 {0} 보호 무시 피해. 치명타 시, 피해량 증가. 대 타입 피해량 장비 효과 증폭'
 #: Skill[Skill_BR_Harpy_N_2].SkillDescriptionSimple
 msgid "指定対象に{0}保護無視ダメージ。クリティカル時、与えるダメージが増加。対タイプダメージ増加の効果が増幅"
 msgstr ""
 
+#  Korean Text: '풀 버스트'
 #: Skill[Skill_BR_Harpy_N_2].SkillName
 msgid "フルバースト"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시 회피가 증가합니다. 전투 개시 시, <스텔스 위장> 상태가 되어 피격 시 받는 피해가 1회 최소화됩니다. 피해 최소화 횟수는 스킬 레벨 10에서 1회 증가합니다. <스텔스 위장> 활성화 상태에선 공격력이 증가합니다.'
 #: Skill[Skill_BR_Harpy_N_3].SkillDescription
 msgid ""
 "ラウンド開始時、回避が増加します。戦闘開始時、<ステルス偽装>状態になり被撃時受けるダメージが1回最少化します。受けるダメージ最少化はスキルレベル10で1回"
 "増えます。<ステルス偽装>活性化状態では攻撃力が増加します。"
 msgstr ""
 
+#  Korean Text: '피해 최소화 (횟수) / 회피 증가. <스텔스 위장> 상태에선 공격력 증가'
 #: Skill[Skill_BR_Harpy_N_3].SkillDescriptionSimple
 msgid "ダメージ最少化(回数)/回避増加。<ステルス偽装>状態なら攻撃力が増加"
 msgstr ""
 
+#  Korean Text: '스텔스 기동'
 #: Skill[Skill_BR_Harpy_N_3].SkillName
 msgid "ステルス機動"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 범위 내에 있는 기동형 아군들의 AP를 증가시킵니다. 라운드 개시 시, 범위 내 아군들의 치명타 / 적중 / 회피가 증가합니다. 대상이 기동형이 아닐 경우, 효과가 50% 감소합니다.'
 #: Skill[Skill_BR_Harpy_N_4].SkillDescription
 msgid ""
 "戦闘開始時、範囲内にいる起動型味方たちのAPが増加します。ラウンド開始時、範囲内味方たちのクリティカル/命中/回避が増加します。対象が機動型ではない場合、効"
 "果が50％減少します。"
 msgstr ""
 
+#  Korean Text: '범위 내 기동형 아군 AP 증가. 범위 내 아군 치명타 / 적중 / 회피 증가. 기동형이 아니면 효과 감소'
 #: Skill[Skill_BR_Harpy_N_4].SkillDescriptionSimple
 msgid "範囲内の機動型味方のAPが増加。範囲内味方のクリティカル/命中/回避増加。機動型以外は効果が減少"
 msgstr ""
 
+#  Korean Text: '통합 항전 정보처리'
 #: Skill[Skill_BR_Harpy_N_4].SkillName
 msgid "統合航戦情報処理"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 공격력 / 행동력 / 방어 관통이 증가하며 사거리 감소 효과를 해제합니다.'
 #: Skill[Skill_BR_Harpy_N_5].SkillDescription
 msgid "ラウンド開始時、攻撃力/行動力/防御貫通が増加し射程距離減少効果を解除します。"
 msgstr ""
 
+#  Korean Text: '공격력 / 행동력 / 방어 관통 증가. 사거리 감소 해제'
 #: Skill[Skill_BR_Harpy_N_5].SkillDescriptionSimple
 msgid "攻撃力/行動力/防御貫通が増加。射程距離減少を解除"
 msgstr ""
 
+#  Korean Text: 'NVEL 시스템'
 #: Skill[Skill_BR_Harpy_N_5].SkillName
 msgid "NVELシステム"
 msgstr ""
 
+#  Korean Text: '나락 미사일 (피해량)'
 #: Skill[Skill_BR_Harpy_N_11].SkillName
 msgid "NARAAKミサイル(ダメージ量)"
 msgstr ""
 
+#  Korean Text: '비가시 폭격 (경장)'
 #: Skill[Skill_BR_Harpy_N_12].SkillName
 msgid "不可視爆撃(軽装型)"
 msgstr ""
 
+#  Korean Text: '비가시 폭격 (중장)'
 #: Skill[Skill_BR_Harpy_N_13].SkillName
 msgid "不可視爆撃(重装型)"
 msgstr ""
 
+#  Korean Text: '비가시 폭격 (기동)'
 #: Skill[Skill_BR_Harpy_N_14].SkillName
 msgid "不可視爆撃(機動型)"
 msgstr ""
 
+#  Korean Text: '스텔스 기동 (기본 최소화)'
 #: Skill[Skill_BR_Harpy_N_15].SkillName
 msgid "ステルス機動(基本最少化)"
 msgstr ""
 
+#  Korean Text: '스텔스 기동 (10렙 최소화)'
 #: Skill[Skill_BR_Harpy_N_16].SkillName
 msgid "ステルス機動(Lv10最少化)"
 msgstr ""
 
+#  Korean Text: '스텔스 기동 (공격력)'
 #: Skill[Skill_BR_Harpy_N_17].SkillName
 msgid "ステルス機動(攻撃力)"
 msgstr ""
 
+#  Korean Text: '통합 항전 정보처리 (기동)'
 #: Skill[Skill_BR_Harpy_N_18].SkillName
 msgid "統合航戦情報処理(機動型)"
 msgstr ""
 
+#  Korean Text: '통합 항전 정보처리 (비기동)'
 #: Skill[Skill_BR_Harpy_N_19].SkillName
 msgid "統合航戦情報処理(非機動)"
 msgstr ""
 
+#  Korean Text: '나락 미사일 (대 기동)'
 #: Skill[Skill_BR_Harpy_N_20].SkillName
 msgid "NARAAKミサイル(対機動)"
 msgstr ""
@@ -5042,6 +5176,7 @@ msgstr ""
 msgid "隊列再整備"
 msgstr ""
 
+#  Korean Text: '탄막 사격'
 #: Skill[Skill_BR_Leprechaun_N_4].SkillName
 msgid "弾幕射撃"
 msgstr ""
@@ -5056,14 +5191,17 @@ msgstr ""
 msgid "隊列再整備(自分バフダミー)"
 msgstr ""
 
+#  Korean Text: '탄막 사격 (1단계)'
 #: Skill[Skill_BR_Leprechaun_N_13].SkillName
 msgid "弾幕射撃(第1段階)"
 msgstr ""
 
+#  Korean Text: '탄막 사격 (2단계)'
 #: Skill[Skill_BR_Leprechaun_N_14].SkillName
 msgid "弾幕射撃(第2段階)"
 msgstr ""
 
+#  Korean Text: '탄막 사격 (3단계)'
 #: Skill[Skill_BR_Leprechaun_N_15].SkillName
 msgid "弾幕射撃(第3段階)"
 msgstr ""
@@ -5114,6 +5252,7 @@ msgstr ""
 msgid "圧倒的な可愛さ?"
 msgstr ""
 
+#  Korean Text: '모두 주목해주세요-!'
 #: Skill[Skill_BR_Lindwurm_N_4].SkillName
 msgid "みんな注目～！"
 msgstr ""
@@ -5148,14 +5287,17 @@ msgstr ""
 msgid "ドッグファイター(攻撃力バフ)"
 msgstr ""
 
+#  Korean Text: '모두 주목해주세요-!(10레벨)'
 #: Skill[Skill_BR_Lindwurm_N_17].SkillName
 msgid "みんな注目～！(Lv10)"
 msgstr ""
 
+#  Korean Text: '모두 주목해주세요-! (회피 AP)'
 #: Skill[Skill_BR_Lindwurm_N_19].SkillName
 msgid "みんな注目～！(回避AP)"
 msgstr ""
 
+#  Korean Text: '모두 주목해주세요-! (처치 AP)'
 #: Skill[Skill_BR_Lindwurm_N_20].SkillName
 msgid "みんな注目～！(キルAP)"
 msgstr ""
@@ -5490,6 +5632,7 @@ msgstr ""
 msgid "頭を下げろ！(自分バフダミー)"
 msgstr ""
 
+#  Korean Text: '마무리 저격 (피해량)'
 #: Skill[Skill_BR_Miho_N_13].SkillName
 msgid "フィニッシュスナイプ(ダメージ量)"
 msgstr ""
@@ -5718,22 +5861,27 @@ msgstr ""
 msgid "バトルジャンキー(ダミー)"
 msgstr ""
 
+#  Korean Text: '덤벼덤벼! (처치 공격력)'
 #: Skill[Skill_BR_Nereid_N_17].SkillName
 msgid "どんどんかかってこい！(キル攻撃力)"
 msgstr ""
 
+#  Korean Text: '덤벼덤벼! (피격 시)'
 #: Skill[Skill_BR_Nereid_N_18].SkillName
 msgid "どんどんかかってこい！(被撃時)"
 msgstr ""
 
+#  Korean Text: '전투 과몰입 (부활 공격력)'
 #: Skill[Skill_BR_Nereid_N_19].SkillName
 msgid "バトルジャンキー(復活攻撃力)"
 msgstr ""
 
+#  Korean Text: '전투 과몰입 (부활 속도)'
 #: Skill[Skill_BR_Nereid_N_20].SkillName
 msgid "バトルジャンキー(復活速度)"
 msgstr ""
 
+#  Korean Text: '전투 과몰입 (부활 피감 무시)'
 #: Skill[Skill_BR_Nereid_N_21].SkillName
 msgid "バトルジャンキー(復活ダメージ減少無視)"
 msgstr ""
@@ -5971,6 +6119,7 @@ msgstr "Coordinated Bombardment"
 msgid "偵察飛行(ダミー)"
 msgstr ""
 
+#  Korean Text: '정찰 비행 (정찰 시)'
 #: Skill[Skill_BR_PA00EL_N_12].SkillName
 msgid "偵察飛行(偵察時)"
 msgstr ""
@@ -6619,169 +6768,208 @@ msgstr ""
 msgid "砲撃観測(命中ダミー)"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 주고, 2라운드 동안 대상의 공격력 / 치명타를 낮춥니다. 방어력 / 회피 감소 대상에게 피해량이 증가합니다.'
 #: Skill[Skill_BR_RedHood_N_1].SkillDescription
 msgid "対象に{0}ダメージを与え、2ラウンドの間、対象の攻撃力/クリティカルを減少させます。防御力/回避減少対象に与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 피해. 공격력 / 치명타 감소. 방어력 / 회피 감소 대상 피해량 증가'
 #: Skill[Skill_BR_RedHood_N_1].SkillDescriptionSimple
 msgid "単一対象に{0}ダメージ。攻撃力/クリティカルが減少。防御力/回避減少対象に与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '4연장 기관포'
 #: Skill[Skill_BR_RedHood_N_1].SkillName
 msgid "四連装機関砲"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 화염 속성 피해를 주고, 3라운드 동안 지속 화염 피해를 입는 점화 상태로 만듭니다. 치명타 시, 피해량이 증가합니다.'
 #: Skill[Skill_BR_RedHood_N_2].SkillDescription
 msgid "指定範囲に{0}火炎属性ダメージを与え、3ラウンドの間、持続火炎ダメージを受ける点火状態にします。クリティカル時、与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 {0} 화염 속성 피해. 점화 효과. 치명타 시, 피해량 증가'
 #: Skill[Skill_BR_RedHood_N_2].SkillDescriptionSimple
 msgid "指定範囲に{0}火炎属性にダメージ。点火効果。クリティカル時、与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '나를 따르라!'
 #: Skill[Skill_BR_RedHood_N_2].SkillName
 msgid "我に続け！"
 msgstr ""
 
+#  Korean Text: '범위 내 아군의 공격력 / 효과 저항 / 행동력을 증가시킵니다. 대기 시, 대상의 HP가 25% 이상이면 고정 피해를 입히며 AP를 증가시킵니다. 자신 전투 불능 시, 고정 피해 없이 AP 증가 효과의 2배가 대상들에게 적용됩니다.'
 #: Skill[Skill_BR_RedHood_N_3].SkillDescription
 msgid ""
 "範囲内の味方の攻撃力/状態異常耐性/行動力を増加させます。待機時、対象になる味方のHPが25％以上なら固定ダメージを与えAPを増加させます。自分が戦闘不能に"
 "なった場合、対象に固定ダメージを与えずAP増加効果を二倍に適用します。"
 msgstr ""
 
+#  Korean Text: '아군 공격력 / 효과 저항 / 행동력 증가. 대기 시, HP 25% 이상 대상이면 고정 피해 / AP 증가'
 #: Skill[Skill_BR_RedHood_N_3].SkillDescriptionSimple
 msgid "味方の攻撃力/状態異常耐性/行動力が増加。待機時、HPが25％以上の対象には固定ダメージ/AP増加"
 msgstr ""
 
+#  Korean Text: '물러서지마라!'
 #: Skill[Skill_BR_RedHood_N_3].SkillName
 msgid "怯むな！"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 공격력 / 치명타 / 방어 관통이 증가하며 받는 피해가 감소합니다. 해당 효과는 후열일 경우, 효과가 50% 감소합니다. 같은 스쿼드에 브라우니가 있을 경우, 자신의 행동력이 증가합니다.'
 #: Skill[Skill_BR_RedHood_N_4].SkillDescription
 msgid ""
 "ラウンド開始時、攻撃力/クリティカル/防御貫通が増加し受けるダメージが減少します。当効果は後列の場合、50％減少します。同分隊にブラウニーがいる場合、自分の"
 "行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '공격력 / 치명타 / 방어 관통 증가. 받는 피해 감소. 스쿼드에 브라우니가 있으면 행동력 증가'
 #: Skill[Skill_BR_RedHood_N_4].SkillDescriptionSimple
 msgid "攻撃力/クリティカル/防御貫通が増加。受けるダメージ減少。分隊にブラウニーがいる場合、行動力が増加"
 msgstr ""
 
+#  Korean Text: '후퇴는 없다!'
 #: Skill[Skill_BR_RedHood_N_4].SkillName
 msgid "撤退は無い！"
 msgstr ""
 
+#  Korean Text: '4연장 기관포 (피해량)'
 #: Skill[Skill_BR_RedHood_N_11].SkillName
 msgid "四連装機関砲(ダメージ量)"
 msgstr ""
 
+#  Korean Text: '물러서지마라! (지속 피해)'
 #: Skill[Skill_BR_RedHood_N_12].SkillName
 msgid "怯むな！(持続ダメージ)"
 msgstr ""
 
+#  Korean Text: '물러서지마라! (자신 사망 시)'
 #: Skill[Skill_BR_RedHood_N_13].SkillName
 msgid "怯むな！(自分死亡時)"
 msgstr ""
 
+#  Korean Text: '후퇴는 없다! (중열)'
 #: Skill[Skill_BR_RedHood_N_14].SkillName
 msgid "撤退は無い！(中列)"
 msgstr ""
 
+#  Korean Text: '후퇴는 없다! (후열)'
 #: Skill[Skill_BR_RedHood_N_15].SkillName
 msgid "撤退は無い！(後列)"
 msgstr ""
 
+#  Korean Text: '후퇴는 없다! (브라우니)'
 #: Skill[Skill_BR_RedHood_N_16].SkillName
 msgid "撤退は無い！(ブラウニー)"
 msgstr ""
 
+#  Korean Text: '물러서지마라! (대기 AP)'
 #: Skill[Skill_BR_RedHood_N_17].SkillName
 msgid "怯むな！(待機AP)"
 msgstr ""
 
+#  Korean Text: '나를 따르라! (점화)'
 #: Skill[Skill_BR_RedHood_N_18].SkillName
 msgid "我に続け！(点火)"
 msgstr ""
 
+#  Korean Text: '저격으로 단일 대상에게 {0} 보호 무시 피해 주고, 2라운드 동안 대상을 표식 / 받는 피해 증가 상태로 만듭니다. 대상이 이동 불가 / 회피 감소 상태면 피해량이 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_1].SkillDescription
 msgid ""
 "狙撃で単一対象に{0}保護無視ダメージを与えて、2ラウンドの間、対象を標的に設定し、受けるダメージ増加状態にします。対象が移動不可/回避減少状態なら与えるダ"
 "メージが増加します。"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 보호 무시 피해. 표식 / 피해 증폭. 이동 불가 / 회피 감소 대상 피해량 증가'
 #: Skill[Skill_BR_RoyalArsenal_N_1].SkillDescriptionSimple
 msgid "単一対象に{0}保護無視ダメージ。標的に設定し、受けるダメージ増加。移動不可/回避減少対象に与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '20mm 대물 저격총'
 #: Skill[Skill_BR_RoyalArsenal_N_1].SkillName
 msgid "20mm対物狙撃銃"
 msgstr ""
 
+#  Korean Text: '플로팅 아머리를 전개해 지정 범위 내 아군의 AP를 올려주고, 2라운드 동안 공격력을 증가시킵니다. 효과가 적용된 대상은 1라운드 동안 공격 대상의 방어막 / 피해 감소 효과를 무시합니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_2].SkillDescription
 msgid ""
 "F.アーマーリを展開し指定範囲内の味方のAPを増加させ、2ラウンドの間、攻撃力を上げます。効果が適用された対象は1ラウンドの間、攻撃対象のバリア/受けるダメ"
 "ージ減少効果を無視します。スキルレベル10で範囲が増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 아군 AP / 공격력 증가. 대상의 공격에 방어막 / 피해 감소 무시 효과 부여'
 #: Skill[Skill_BR_RoyalArsenal_N_2].SkillDescriptionSimple
 msgid "指定範囲内味方のAP/攻撃力が増加。対象の攻撃にバリア/受けるダメージ減少無視効果を付与"
 msgstr ""
 
+#  Korean Text: 'F.아머리 전개'
 #: Skill[Skill_BR_RoyalArsenal_N_2].SkillName
 msgid "F.アーマーリ展開"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 범위 내 중장형 아군의 공격력 / 방어력이 증가하며 받는 피해가 감소합니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_3].SkillDescription
 msgid "ラウンド開始時、範囲内の重装型味方の攻撃力/防御力が増加し受けるダメージが減少します。スキルレベル10で範囲が増加します。"
 msgstr ""
 
+#  Korean Text: '범위 내 중장형 아군 공격력 / 방어력 증가 / 받는 피해 감소'
 #: Skill[Skill_BR_RoyalArsenal_N_3].SkillDescriptionSimple
 msgid "範囲内の重装型味方の攻撃力/防御力が増加。受けるダメージが減少"
 msgstr ""
 
+#  Korean Text: '중장부대 지휘'
 #: Skill[Skill_BR_RoyalArsenal_N_3].SkillName
 msgid "重装部隊指揮"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 범위 내 아군의 치명타 / 행동력이 증가합니다. 대상이 F.아머리 전개 효과를 받는 상태면 공격력 / 치명타 감소 효과를 해제합니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_4].SkillDescription
 msgid ""
 "ラウンド開始時、範囲内味方のクリティカル/行動力が増加します。対象がF.アーマーリの展開効果を受けている状態なら攻撃力/クリティカル減少効果を解除します。ス"
 "キルレベル10で範囲が増加します。"
 msgstr ""
 
+#  Korean Text: '범위 내 아군 치명타 / 행동력 증가. F.아머리 전개 상태면 공격력 / 치명타 감소 효과 해제'
 #: Skill[Skill_BR_RoyalArsenal_N_4].SkillDescriptionSimple
 msgid "範囲内味方のクリティカル/行動力が増加。F.アーマーリ展開状態なら攻撃力/クリティカル減少効果を解除"
 msgstr ""
 
+#  Korean Text: '무제한 보급 개시'
 #: Skill[Skill_BR_RoyalArsenal_N_4].SkillName
 msgid "無制限補給開始"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 스쿼드 내 아군 중장형 공격기의 공격력 / 적중 / 방어 관통이 증가합니다. 대상이 F.아머리 전개 효과를 받는 상태인 경우, 대상의 AP가 추가로 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_5].SkillDescription
 msgid ""
 "ラウンド開始時、分隊内の重装型攻撃機の攻撃力/命中/防御貫通が増加します。対象がF.アーマーリ展開効果を受けている状態なら、対象のAPが追加で増加します。"
 msgstr ""
 
+#  Korean Text: '범위 내 중장형 공격기 공격력 / 적중 / 방어 관통 증가. F.아머리 전개 효과 상태면 AP 증가'
 #: Skill[Skill_BR_RoyalArsenal_N_5].SkillDescriptionSimple
 msgid "範囲内重装型/攻撃機の攻撃力/命中/防御貫通増加。F.アーマーリ展開効果状態ならAP増加"
 msgstr ""
 
+#  Korean Text: '20mm 대물 저격총 (받는 피해 증가)'
 #: Skill[Skill_BR_RoyalArsenal_N_11].SkillName
 msgid "20mm対物狙撃銃(受けるダメージ増加)"
 msgstr ""
 
+#  Korean Text: '20mm 대물 저격총 (피해량)'
 #: Skill[Skill_BR_RoyalArsenal_N_12].SkillName
 msgid "20mm対物狙撃銃(ダメージ量)"
 msgstr ""
 
+#  Korean Text: 'F.아머리 전개 (공격력)'
 #: Skill[Skill_BR_RoyalArsenal_N_13].SkillName
 msgid "F.アーマーリ展開(攻撃力)"
 msgstr ""
 
+#  Korean Text: 'F.아머리 전개 (방어막 / 피해 감소 무시)'
 #: Skill[Skill_BR_RoyalArsenal_N_14].SkillName
 msgid "F.アーマーリ展開(バリア/ダメージ減少無視)"
 msgstr ""
 
+#  Korean Text: '무장 보급 개시 (해제)'
 #: Skill[Skill_BR_RoyalArsenal_N_15].SkillName
 msgid "武装補給開始(解除)"
 msgstr ""
@@ -7342,6 +7530,7 @@ msgstr ""
 msgid "スピード勝負よ!(5スタックダミー)"
 msgstr ""
 
+#  Korean Text: '한계돌파 (적중 감소)'
 #: Skill[Skill_BR_Sleipnir_N_19].SkillName
 msgid "限界突破(命中減少)"
 msgstr ""
@@ -7485,86 +7674,106 @@ msgstr ""
 msgid "爆撃編隊支援(自分命中)"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 지정해 받는 피해 증가 상태로 만듭니다. 방어력 / 회피 감소 대상에게 피해량이 증가합니다.'
 #: Skill[Skill_BR_TalonFeather_N_1].SkillDescription
 msgid "対象に{0}ダメージを与え、2ラウンドの間、対象を標的指定し受けるダメージ増加状態にします。防御力/回避減少対象に与えるダメージが増加すます。"
 msgstr ""
 
+#  Korean Text: '단일 대상 {0} 피해. 표식 / 피해 증폭. 방어력 / 회피 감소 대상 피해량 증가'
 #: Skill[Skill_BR_TalonFeather_N_1].SkillDescriptionSimple
 msgid "単一対象に{0}ダメージ。標的/受けるダメージ増幅。防御力/回避減少対象に与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: 'XV-5 오토 터렛'
 #: Skill[Skill_BR_TalonFeather_N_1].SkillName
 msgid "XV-5オートターレット"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 보호 무시 피해를 주고, 2라운드 동안 대상들의 치명타 / 적중 / 회피 / 사거리를 감소시킵니다. 스킬 레벨 당 +30%의 적중 보정이 적용됩니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_BR_TalonFeather_N_2].SkillDescription
 msgid ""
 "指定範囲に{0}保護無視ダメージを与え、2ラウンドの間、対象のクリティカル/命中/回避/射程距離を減少させます。スキルレベルごとに+30％の命中補正が適用さ"
 "れます。スキルレベル10で範囲が増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 {0} 보호 무시 피해. 치명타 / 적중 / 회피 / 사거리 감소'
 #: Skill[Skill_BR_TalonFeather_N_2].SkillDescriptionSimple
 msgid "指定範囲に{0}保護無視ダメージ。クリティカル/命中/回避/射程距離が減少"
 msgstr ""
 
+#  Korean Text: '레이더 재머'
 #: Skill[Skill_BR_TalonFeather_N_2].SkillName
 msgid "レーダージャマー"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 전열에 배치된 경장 / 중장형 아군의 AP가 증가합니다. 정찰 활성화 시, 해당 효과의 50%가 매 라운드 적용됩니다.'
 #: Skill[Skill_BR_TalonFeather_N_3].SkillDescription
 msgid "戦闘開始時、前列に配置された軽装型/重装型のAPが増加します。偵察活性化状態の場合、ラウンド毎に当効果の50％が適用されます。"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 전열 경장 / 중장형 아군 AP 증가'
 #: Skill[Skill_BR_TalonFeather_N_3].SkillDescriptionSimple
 msgid "戦闘開始時、前列の軽装型/重装型味方のAPが増加"
 msgstr ""
 
+#  Korean Text: '지상 공격대 지원'
 #: Skill[Skill_BR_TalonFeather_N_3].SkillName
 msgid "地上攻撃隊支援"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 범위 내 경장 / 중장형 아군의 공격력 / 치명타 / 행동력이 증가합니다. 정찰로 다음에 출현할 적을 확인할 수 있으며, 적 진영과 멀수록 자신의 회피가 증가합니다.'
 #: Skill[Skill_BR_TalonFeather_N_4].SkillDescription
 msgid ""
 "ラウンド開始時、範囲内の軽装型/重装型味方の攻撃力/クリティカル/行動力が増加します。偵察で次の出現する敵情報が確認でき、敵陣営と遠いほど自分の回避が増加し"
 "ます。"
 msgstr ""
 
+#  Korean Text: '경장 / 중장형 아군 공격력 / 치명타 / 행동력 증가. 자신 회피 증가 / 정찰 기능'
 #: Skill[Skill_BR_TalonFeather_N_4].SkillDescriptionSimple
 msgid "軽装型/重装型味方の攻撃力/クリティカル/行動力増加。自分の回避増加/偵察機能"
 msgstr ""
 
+#  Korean Text: '고고도 정찰'
 #: Skill[Skill_BR_TalonFeather_N_4].SkillName
 msgid "高高度偵察"
 msgstr ""
 
+#  Korean Text: 'XV-5 오토 터렛 (피해 증폭)'
 #: Skill[Skill_BR_TalonFeather_N_11].SkillName
 msgid "XV-5オートターレット(ダメージ増幅)"
 msgstr ""
 
+#  Korean Text: 'XV-5 오토 터렛 (추가 피해)'
 #: Skill[Skill_BR_TalonFeather_N_12].SkillName
 msgid "XV-5オートターレット(ダメージ追加)"
 msgstr ""
 
+#  Korean Text: '레이더 재머 (사거리)'
 #: Skill[Skill_BR_TalonFeather_N_13].SkillName
 msgid "レーダージャマー(射程距離)"
 msgstr ""
 
+#  Korean Text: '지상 공격대 지원 (라운드)'
 #: Skill[Skill_BR_TalonFeather_N_14].SkillName
 msgid "地上攻撃隊支援(ラウンド)"
 msgstr ""
 
+#  Korean Text: '고고도 정찰 (회피_후열)'
 #: Skill[Skill_BR_TalonFeather_N_15].SkillName
 msgid "高高度偵察(回避_後列)"
 msgstr ""
 
+#  Korean Text: '고고도 정찰 (회피_중열)'
 #: Skill[Skill_BR_TalonFeather_N_16].SkillName
 msgid "高高度偵察(回避_中列)"
 msgstr ""
 
+#  Korean Text: '고고도 정찰 (회피_전열)'
 #: Skill[Skill_BR_TalonFeather_N_17].SkillName
 msgid "高高度偵察(回避_前列)"
 msgstr ""
 
+#  Korean Text: '고고도 정찰 (정찰)'
 #: Skill[Skill_BR_TalonFeather_N_18].SkillName
 msgid "高高度偵察(偵察)"
 msgstr ""
@@ -7909,14 +8118,17 @@ msgstr ""
 msgid "かく乱射撃(追加回避)"
 msgstr ""
 
+#  Korean Text: '정밀 저격 (방어막 / 피감 무시)'
 #: Skill[Skill_BR_Valkyrie_N_13].SkillName
 msgid "精密射撃(バリア/ダメージ減少無視)"
 msgstr ""
 
+#  Korean Text: '핀 포인트 저격 (후열)'
 #: Skill[Skill_BR_Valkyrie_N_14].SkillName
 msgid "ピンポイント狙撃(後列)"
 msgstr ""
 
+#  Korean Text: '하얀 사신 (회피 감소 해제)'
 #: Skill[Skill_BR_Valkyrie_N_15].SkillName
 msgid "白い死神(回避減少解除＿"
 msgstr ""
@@ -8152,46 +8364,57 @@ msgstr ""
 msgid "命中強化の解除デバフダミー"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_AdvancedSys_N_1].SkillName
 msgid "改良型戦闘システムバフダミーLv.1"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_AdvancedSys_N_2].SkillName
 msgid "改良型戦闘システムバフダミーLv.2"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_AdvancedSys_N_3].SkillName
 msgid "改良型戦闘システムバフダミーLv.3"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_AdvancedSys_N_4].SkillName
 msgid "改良型戦闘システムバフダミーLv.4"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_AdvancedSys_N_5].SkillName
 msgid "改良型戦闘システムバフダミーLv.5"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_AdvancedSys_N_6].SkillName
 msgid "改良型戦闘システムバフダミーLv.6"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_AdvancedSys_N_7].SkillName
 msgid "改良型戦闘システムバフダミーLv.7"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_AdvancedSys_N_8].SkillName
 msgid "改良型戦闘システムバフダミーLv.8"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_AdvancedSys_N_9].SkillName
 msgid "改良型戦闘システムバフダミーLv.9"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_AdvancedSys_N_10].SkillName
 msgid "改良型戦闘システムバフダミーLv.10"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_AdvancedSys_N_11].SkillName
 msgid "改良型戦闘システムバフダミーLv.11"
 msgstr ""
@@ -11656,134 +11879,167 @@ msgstr "Nymph Unique Buff Lv.9"
 msgid "ニンフ専装バフLv.10"
 msgstr "Nymph Unique Buff Lv.10"
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_MiniHachiko_N_1].SkillName
 msgid "ミニハチコバフダミーLv.1"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_MiniHachiko_N_2].SkillName
 msgid "ミニハチコバフダミーLv.2"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_MiniHachiko_N_3].SkillName
 msgid "ミニハチコバフダミーLv.3"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_MiniHachiko_N_4].SkillName
 msgid "ミニハチコバフダミーLv.4"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_MiniHachiko_N_5].SkillName
 msgid "ミニハチコバフダミーLv.5"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_MiniHachiko_N_6].SkillName
 msgid "ミニハチコバフダミーLv.6"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_MiniHachiko_N_7].SkillName
 msgid "ミニハチコバフダミーLv.7"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_MiniHachiko_N_8].SkillName
 msgid "ミニハチコバフダミーLv.8"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_MiniHachiko_N_9].SkillName
 msgid "ミニハチコバフダミーLv.9"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_MiniHachiko_N_10].SkillName
 msgid "ミニハチコバフダミーLv.10"
 msgstr ""
 
+#  Korean Text: '미니 하치코 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_MiniHachiko_N_11].SkillName
 msgid "ミニハチコバフダミーLv.11"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_MiniLilith_N_1].SkillName
 msgid "ミニリリスバフダミーLv.1"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_MiniLilith_N_2].SkillName
 msgid "ミニリリスバフダミーLv.2"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_MiniLilith_N_3].SkillName
 msgid "ミニリリスバフダミーLv.3"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_MiniLilith_N_4].SkillName
 msgid "ミニリリスバフダミーLv.4"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_MiniLilith_N_5].SkillName
 msgid "ミニリリスバフダミーLv.5"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_MiniLilith_N_6].SkillName
 msgid "ミニリリスバフダミーLv.6"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_MiniLilith_N_7].SkillName
 msgid "ミニリリスバフダミーLv.7"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_MiniLilith_N_8].SkillName
 msgid "ミニリリスバフダミーLv.8"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_MiniLilith_N_9].SkillName
 msgid "ミニリリスバフダミーLv.9"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_MiniLilith_N_10].SkillName
 msgid "ミニリリスバフダミーLv.10"
 msgstr ""
 
+#  Korean Text: '미니 리리스 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_MiniLilith_N_11].SkillName
 msgid "ミニリリスバフダミーLv.11"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.1'
 #: Skill[Skill_BUFF_MiniPerrault_N_1].SkillName
 msgid "ミニペローバフダミーLv.1"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.2'
 #: Skill[Skill_BUFF_MiniPerrault_N_2].SkillName
 msgid "ミニペローバフダミーLv.2"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.3'
 #: Skill[Skill_BUFF_MiniPerrault_N_3].SkillName
 msgid "ミニペローバフダミーLv.3"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.4'
 #: Skill[Skill_BUFF_MiniPerrault_N_4].SkillName
 msgid "ミニペローバフダミーLv.4"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.5'
 #: Skill[Skill_BUFF_MiniPerrault_N_5].SkillName
 msgid "ミニペローバフダミーLv.5"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.6'
 #: Skill[Skill_BUFF_MiniPerrault_N_6].SkillName
 msgid "ミニペローバフダミーLv.6"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.7'
 #: Skill[Skill_BUFF_MiniPerrault_N_7].SkillName
 msgid "ミニペローバフダミーLv.7"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.8'
 #: Skill[Skill_BUFF_MiniPerrault_N_8].SkillName
 msgid "ミニペローバフダミーLv.8"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.9'
 #: Skill[Skill_BUFF_MiniPerrault_N_9].SkillName
 msgid "ミニペローバフダミーLv.9"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.10'
 #: Skill[Skill_BUFF_MiniPerrault_N_10].SkillName
 msgid "ミニペローバフダミーLv.10"
 msgstr ""
 
+#  Korean Text: '미니 페로 버프 더미 Lv.11'
 #: Skill[Skill_BUFF_MiniPerrault_N_11].SkillName
 msgid "ミニペローバフダミーLv.11"
 msgstr ""
@@ -11843,46 +12099,57 @@ msgstr ""
 msgid "月見餅バフダミーLv.11"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.1'
 #: Skill[Skill_BUFF_NitroEx3000_N_1].SkillName
 msgid "ニトロ3000デバフダミーLv.1"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.2'
 #: Skill[Skill_BUFF_NitroEx3000_N_2].SkillName
 msgid "ニトロ3000デバフダミーLv.2"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.3'
 #: Skill[Skill_BUFF_NitroEx3000_N_3].SkillName
 msgid "ニトロ3000デバフダミーLv.3"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.4'
 #: Skill[Skill_BUFF_NitroEx3000_N_4].SkillName
 msgid "ニトロ3000デバフダミーLv.4"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.5'
 #: Skill[Skill_BUFF_NitroEx3000_N_5].SkillName
 msgid "ニトロ3000デバフダミーLv.5"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.6'
 #: Skill[Skill_BUFF_NitroEx3000_N_6].SkillName
 msgid "ニトロ3000デバフダミーLv.6"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.7'
 #: Skill[Skill_BUFF_NitroEx3000_N_7].SkillName
 msgid "ニトロ3000デバフダミーLv.7"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.8'
 #: Skill[Skill_BUFF_NitroEx3000_N_8].SkillName
 msgid "ニトロ3000デバフダミーLv.8"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.9'
 #: Skill[Skill_BUFF_NitroEx3000_N_9].SkillName
 msgid "ニトロ3000デバフダミーLv.9"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.10'
 #: Skill[Skill_BUFF_NitroEx3000_N_10].SkillName
 msgid "ニトロ3000デバフダミーLv.10"
 msgstr ""
 
+#  Korean Text: '니트로 3000 디버프 더미 Lv.11'
 #: Skill[Skill_BUFF_NitroEx3000_N_11].SkillName
 msgid "ニトロ3000デバフダミーLv.11"
 msgstr ""
@@ -12547,6 +12814,7 @@ msgstr ""
 msgid "輝く勇猛(50% 反撃ダミー)"
 msgstr ""
 
+#  Korean Text: '전사의 창 (치명타 피해 증폭)'
 #: Skill[Skill_DS_Atalanta_N_18].SkillName
 msgid "戦士の槍(クリティカルダメージ増幅)"
 msgstr ""
@@ -12665,6 +12933,7 @@ msgstr ""
 msgid "再臨(味方保護ダミー)"
 msgstr ""
 
+#  Korean Text: '성전 (보호 더미)'
 #: Skill[Skill_DS_Azazel_N_18].SkillName
 msgid "聖戦(保護ダミー)"
 msgstr ""
@@ -12905,10 +13174,12 @@ msgstr ""
 msgid "デュエリスト(最大重複)"
 msgstr ""
 
+#  Korean Text: '듀얼리스트 (치명타)'
 #: Skill[Skill_DS_Charlotte_N_21].SkillName
 msgid "デュエリスト(クリ)"
 msgstr ""
 
+#  Korean Text: '앙 가르드 (적중 / 행동력 감소)'
 #: Skill[Skill_DS_Charlotte_N_22].SkillName
 msgid "アンガルド(命中/行動力減少)"
 msgstr ""
@@ -13801,46 +14072,57 @@ msgstr ""
 msgid "氷結コーティング(味方ダミー)"
 msgstr ""
 
+#  Korean Text: '대구경 집속 입자포'
 #: Skill[Skill_MP_Destroyer_N_1].SkillName
 msgid "大口径集束粒子砲"
 msgstr ""
 
+#  Korean Text: '에너지 충전을 개시해 <집속 에너지 필드>를 활성화합니다.'
 #: Skill[Skill_MP_Destroyer_N_2].SkillDescription
 msgid "エネルギー充電を始め<集束エネルギーフィールド>を活性化します。"
 msgstr ""
 
+#  Korean Text: '에너지 충전 개시'
 #: Skill[Skill_MP_Destroyer_N_2].SkillName
 msgid "エネルギー充電開始"
 msgstr ""
 
+#  Korean Text: '동작 패턴 분석'
 #: Skill[Skill_MP_Destroyer_N_3].SkillName
 msgid "動作パターン分析"
 msgstr ""
 
+#  Korean Text: '반응로 폭발'
 #: Skill[Skill_MP_Destroyer_N_4].SkillName
 msgid "反応炉爆発"
 msgstr ""
 
+#  Korean Text: '집속 에너지 필드'
 #: Skill[Skill_MP_Destroyer_N_5].SkillName
 msgid "集束エネルギーフィールド"
 msgstr ""
 
+#  Korean Text: '에너지 충전 개시 (효과 저항)'
 #: Skill[Skill_MP_Destroyer_N_11].SkillName
 msgid "エネルギー充電開始(状態異常耐性)"
 msgstr ""
 
+#  Korean Text: '동작 패턴 분석 오류'
 #: Skill[Skill_MP_Destroyer_N_12].SkillName
 msgid "動作パターン分析エラー"
 msgstr ""
 
+#  Korean Text: '집속 에너지 필드 해제'
 #: Skill[Skill_MP_Destroyer_N_15].SkillName
 msgid "集束エネルギーフィールド解除"
 msgstr ""
 
+#  Korean Text: '반응로 작동'
 #: Skill[Skill_MP_Destroyer_N_16].SkillName
 msgid "反応炉作動"
 msgstr ""
 
+#  Korean Text: '주변 철충에게서 에너지를 추출합니다. 그리고 에너지를 추출 당한 철충은 죽음을 맞이 합니다.'
 #: Skill[Skill_MP_DoomEater_N_EW_1].SkillDescription
 msgid "周辺の鉄虫からエネルギーを抽出します。エネルギーを抽出された鉄虫は死を迎えます。"
 msgstr ""
@@ -13850,6 +14132,7 @@ msgstr ""
 msgid "エネルギー抽出"
 msgstr ""
 
+#  Korean Text: '내부에 저장된 막대한 에너지를 모아, 범위 내 적들에게 {0} 보호 무시 피해를 주는 죽음의 에너지를 방사합니다. 피격 당한 적은 해제 불가의 지속 물리 피해를 입습니다. 해당 스킬을 사용 시 막대한 에너지를 소비하게 되어 <에너지 고갈> 상태에 빠지게 됩니다.'
 #: Skill[Skill_MP_DoomEater_N_EW_2].SkillDescription
 msgid ""
 "内部に蓄積された莫大なエネルギーを集めて、範囲内の敵に{0}保護無視ダメージを与える死のエネルギーを放射します。被撃された敵は解除不可の持続物理ダメージを受"
@@ -13861,28 +14144,34 @@ msgstr ""
 msgid "死のエネルギー"
 msgstr ""
 
+#  Korean Text: '오랫동안 에너지 섭취를 못해 굶주려 있어 주위의 모든 철충들을 먹어 치울 것입니다.'
 #: Skill[Skill_MP_DoomEater_N_EW_3].SkillDescription
 msgid "エネルギーを摂取できなくなって久しいのでとても飢えており、周りの鉄虫を全て食い散らかすでしょう。"
 msgstr ""
 
+#  Korean Text: '에너지 갈망'
 #: Skill[Skill_MP_DoomEater_N_EW_3].SkillName
 msgid "エネルギー渇望"
 msgstr ""
 
+#  Korean Text: '굶주린 둠이터의 눈에는 오로지 에너지 섭취를 위한 철충들을 찾는 것에 집중해 있어 도발에 넘어가지 않습니다.'
 #: Skill[Skill_MP_DoomEater_N_EW_4].SkillDescription
 msgid "飢えたドゥームイーターの目にはエネルギーを摂取するための鉄虫しか映らないので挑発には乗りません。"
 msgstr ""
 
+#  Korean Text: '포식 집중'
 #: Skill[Skill_MP_DoomEater_N_EW_4].SkillName
 msgid "捕食集中"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시 자신에게 <에너지 고갈> 상태가 적용돼 있을 시, <광폭화> 상태에 빠지게 되어 공격력 / 방어력 / 적중 / 효과 저항이 증가합니다. <에너지 고갈> 상태가 2중첩이라면 방어막과 피해 감소 효과를 무시 합니다. <광폭화> 능력은 중첩이 되며 해제 불가입니다.'
 #: Skill[Skill_MP_DoomEater_N_EW_5].SkillDescription
 msgid ""
 "ラウンド開始時、自分に<エネルギー枯渇>状態が適用されている場合、<凶暴化>状態になり防御力/命中/状態異常耐性が増加します。<エネルギー枯渇>状態が2重複"
 "ならバリアと受けるダメージ減少を無視します。<凶暴化>能力は重複できますが解除はできません。"
 msgstr ""
 
+#  Korean Text: '광폭화'
 #: Skill[Skill_MP_DoomEater_N_EW_5].SkillName
 msgid "狂暴化"
 msgstr ""
@@ -13892,6 +14181,7 @@ msgstr ""
 msgid "死のエネルギー(エネルギー枯渇)"
 msgstr ""
 
+#  Korean Text: '광폭화2단계'
 #: Skill[Skill_MP_DoomEater_N_EW_51].SkillName
 msgid "狂暴化2段階"
 msgstr ""
@@ -14173,50 +14463,62 @@ msgstr ""
 msgid "戦闘プログラム設定(反撃ダミー)"
 msgstr ""
 
+#  Korean Text: '끓어오르는 분노를 소모하여 중장형을 선 타겟으로 전 무장을 발사해 목표 범위에 {0} 피해를 줍니다. 목표 중심점 밖일수록 피해가 감소합니다.'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_2].SkillDescription
 msgid "湧き上がる怒りを消耗し重装型を先ターゲットにし全武装を発射して目標範囲に{0}ダメージを与えます。目標の中心から外にある程ダメージが減少します。"
 msgstr ""
 
+#  Korean Text: '분노의 칙 파이널 어택'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_2].SkillName
 msgid "怒りのチックファイナルアタック"
 msgstr ""
 
+#  Korean Text: '낙오자'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_3].SkillName
 msgid "落伍者"
 msgstr ""
 
+#  Korean Text: '지휘 집중'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_4].SkillName
 msgid "指揮集中"
 msgstr ""
 
+#  Korean Text: '솔져 칙들에게 공격 명령을 내립니다.'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_31].SkillDescription
 msgid "ソルジャーチックたちに攻撃命令を出します。"
 msgstr ""
 
+#  Korean Text: '명령'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_31].SkillName
 msgid "命令"
 msgstr ""
 
+#  Korean Text: '칙의 죽음'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_32].SkillDescription
 msgid "チックの死"
 msgstr ""
 
+#  Korean Text: '칙의 복수'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_33].SkillDescription
 msgid "チックの仇討"
 msgstr ""
 
+#  Korean Text: '칙의 복수(칙의 죽음 제거 아군 사망 시)'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_34].SkillName
 msgid "チックの仇討(味方死亡時、チックの死除去)"
 msgstr ""
 
+#  Korean Text: '적군 사망 디버프'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_35].SkillDescription
 msgid "敵死亡デバフ"
 msgstr ""
 
+#  Korean Text: '적군 사망 디버프 시 아군 사망 버프 해제'
 #: Skill[Skill_MP_EmperorChickSpCH_Challenge1_36].SkillDescription
 msgid "敵軍死亡デバフ時、味方の死亡バフ解除"
 msgstr ""
 
+#  Korean Text: '철충들이 낙오(파괴)될 때마다 <복수심>이 적용 되고 낙오한 철충이 10마리가 될 시 <끓어오르는 분노> 상태로 <분노의 칙 파이널 어택> 스킬을 사용합니다. 적 군이 사망 시 <사라진 분노>가 적용 되고 3라운드 동안 철충들이 낙오(파괴)되더라도 <복수심>이 발동되지 않습니다.\n\n복수심 : 공격력 / 방어력 / 적중률 증가\n끓어오르는 분노 : 해당 상태가 적용 되있을 시 <분노의 칙 파이널 어택> 스킬 사용\n사라진 분노 : 공격력 / 방어력 감소       낙오자 발생 : 철충들이 낙오(파괴) 된 상태'
 #: Skill[Skill_MP_EmperorChickSpCH_N_3].SkillDescription
 msgid ""
 "鉄虫たちが破壊される度に<復讐心>が適用され、破壊される鉄虫が10体になる場合、<湧き上がる怒り>状態で<怒りのチックファイナルアタック>スキルを使います。"
@@ -14225,24 +14527,29 @@ msgid ""
 "態"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시 철충들을 일사불란하게 지휘하기 위해\n<지휘 집중>이 적용 됩니다.\n\n지휘 집중 : 해제 불가의 해로운 효과 저항 적용'
 #: Skill[Skill_MP_EmperorChickSpCH_N_4].SkillDescription
 msgid "ラウンド開始時、鉄虫たちを一心不乱に指揮するために<指揮集中>が適用されます。&n&n指揮集中：解除不可の有害な効果耐性適用"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시 주위의 모든 철충들에게 쓰러져도 다시 일어날 수 있도록 <근성>을 부여하고 일정 확률로 <공격 명령>을 내립니다.\n\n근성 : 해제 불가의 전투 속행 효과\n공격 명령 : 높은 확률로 방어 관통 / 방어막 무시 / 피해 감소 무시 효과 적용'
 #: Skill[Skill_MP_EmperorChickSpCH_N_5].SkillDescription
 msgid ""
 "ラウンド開始時、周りの鉄虫たちに倒れても立ち上がれるように<根性>を付与し一定の確率で<攻撃命令>を出します。&n&n根性：解除不可の戦闘続行効果&n攻撃命"
 "令：高確率で防御貫通/バリア無視/受けるダメージ減少無視効果適用"
 msgstr ""
 
+#  Korean Text: '일정 확률로 모든 솔져 칙들에게 공격 명령을 내립니다.'
 #: Skill[Skill_MP_EmperorChickSpCH_N_51].SkillDescription
 msgid "一定確率で全てのソルジャーチックに攻撃命令を出します。"
 msgstr ""
 
+#  Korean Text: '근성 부여'
 #: Skill[Skill_MP_EmperorChickSpCH_N_51].SkillName
 msgid "根性付与"
 msgstr ""
 
+#  Korean Text: '특수 방어 관통 버프'
 #: Skill[Skill_MP_EmperorChickSpCH_N_52].SkillName
 msgid "特殊防御貫通貫通"
 msgstr ""
@@ -14965,56 +15272,69 @@ msgstr ""
 msgid "振動粉砕弾(追加ダメージダミー)"
 msgstr ""
 
+#  Korean Text: '지정 대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시합니다. 대상이 빙결 상태일 경우, 피해량이 증가합니다.'
 #: Skill[Skill_MP_Frostbite_N_1].SkillDescription
 msgid "指定対象に{0}ダメージを与えます。対象のバリア/受けるダメージ減少効果を無視します。対象が氷結状態である場合、与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '파쇄탄 발사'
 #: Skill[Skill_MP_Frostbite_N_1].SkillName
 msgid "破砕弾発射"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 보호 무시 냉기 피해를 줍니다. 3라운드 동안 대상들은 지속 냉기 피해를 입으며, 50% 확률로 회피 / 행동력이 감소합니다. 125%의 적중 보정이 적용됩니다.'
 #: Skill[Skill_MP_Frostbite_N_2].SkillDescription
 msgid ""
 "指定対象に{0}保護無視の冷気ダメージを与えます。3ラウンドの間、対象たちは持続冷気ダメージを受け、50％の確率で回避/行動力が減少します。125％の命中補"
 "正が適用されます。"
 msgstr ""
 
+#  Korean Text: '냉각제 분사'
 #: Skill[Skill_MP_Frostbite_N_2].SkillName
 msgid "冷却剤噴射"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, <침수> 상태인 바이오로이드들에게 50% 확률로 받는 피해 증가 / 효과 저항 / AP / 회피 감소 상태가 적용됩니다.'
 #: Skill[Skill_MP_Frostbite_N_3].SkillDescription
 msgid "ラウンド開始時、<浸水>状態のバイオロイドたちは50％の確率で受けるダメージ増加と状態異常耐性/AP/回避減少状態が適用されます。"
 msgstr ""
 
+#  Korean Text: '기온 저하'
 #: Skill[Skill_MP_Frostbite_N_3].SkillName
 msgid "気温低下"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 범위 내 아군에게 <한랭지 적응> 효과가 있으면 대상의 공격력 / 적중 / 회피 / 행동력이 증가합니다.'
 #: Skill[Skill_MP_Frostbite_N_4].SkillDescription
 msgid "ラウンド開始時、範囲内の味方に<寒冷地適応>効果があれば対象の攻撃力/命中/回避/行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '혹한'
 #: Skill[Skill_MP_Frostbite_N_4].SkillName
 msgid "酷寒"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 방어력이 대폭 증가합니다. 해당 효과는 강화 효과 해제로 해제할 수 없으며, 화염 속성 공격 피격 시 해제됩니다.'
 #: Skill[Skill_MP_Frostbite_N_5].SkillDescription
 msgid "戦闘開始時、防御力が大幅増加します。当効果は強化効果解除で解除できませんが、火炎属性に被撃されると解除されます。"
 msgstr ""
 
+#  Korean Text: '강화 빙결 코팅'
 #: Skill[Skill_MP_Frostbite_N_5].SkillName
 msgid "強化氷結コーティング"
 msgstr ""
 
+#  Korean Text: '파쇄탄 발사 (피감 무시)'
 #: Skill[Skill_MP_Frostbite_N_11].SkillName
 msgid "破砕弾発射(ダメージ減少無視)"
 msgstr ""
 
+#  Korean Text: '혹한 (한랭지 적응)'
 #: Skill[Skill_MP_Frostbite_N_12].SkillName
 msgid "酷寒(寒冷地適応)"
 msgstr ""
 
+#  Korean Text: '기온 저하 (AP 감소)'
 #: Skill[Skill_MP_Frostbite_N_13].SkillName
 msgid "気温低下(AP減少)"
 msgstr ""
@@ -15607,44 +15927,54 @@ msgstr ""
 msgid "支援射撃"
 msgstr "Fire Support"
 
+#  Korean Text: '미니건을 발사해 {0} 피해를 줍니다. 치명타 시, 2라운드 동안 대상이 받는 피해가 증가하며 50% 확률로 강화 효과를 해제합니다.'
 #: Skill[Skill_MP_LegionMk2_N_1].SkillDescription
 msgid "ミニガンを撃ち{0}ダメージを与えます。クリティカル時、2ラウンドの間、対象の受けるダメージが増加し50％確率で強化効果を解除します。"
 msgstr ""
 
+#  Korean Text: '개량형 미니건'
 #: Skill[Skill_MP_LegionMk2_N_1].SkillName
 msgid "改良型ミニガン"
 msgstr ""
 
+#  Korean Text: '포획탄을 발사해 {0} 피해를 주고, 50% 확률로 3라운드 동안 대상을 이동 불가 / 공격력 / 치명타 / 회피 / 행동력 감소 상태로 만듭니다. 스킬 사용 시, 3라운드 동안 자신의 적중이 증가합니다.'
 #: Skill[Skill_MP_LegionMk2_N_2].SkillDescription
 msgid ""
 "捕獲弾を撃ち{0}ダメージを与え。50％確率で3ラウンドの間、対象を移動不可にし攻撃力/クリティカル/回避/行動力減少状態にします。スキル使用時、3ラウンド"
 "の間、自分ね命中が増加します。"
 msgstr ""
 
+#  Korean Text: '재밍 포획탄'
 #: Skill[Skill_MP_LegionMk2_N_2].SkillName
 msgid "ジャミング捕獲弾"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 범위 내 아군의 AP가 증가합니다. 라운드 개시 시, 대상의 공격을 지원하며 치명타 / 적중을 증가시킵니다.'
 #: Skill[Skill_MP_LegionMk2_N_3].SkillDescription
 msgid "戦闘開始時、範囲内味方のAPが増加します。ラウンド開始時、対象の攻撃を支援しクリティカル/命中を上げます。"
 msgstr ""
 
+#  Korean Text: '요격 포메이션'
 #: Skill[Skill_MP_LegionMk2_N_3].SkillName
 msgid "迎撃フォーメーション"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 25% 확률로 적의 회피가 감소하며 받는 피해가 증가합니다.'
 #: Skill[Skill_MP_LegionMk2_N_4].SkillDescription
 msgid "ラウンド開始時、25％確率で敵の回避が減少し受けるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '회피 패턴 분석'
 #: Skill[Skill_MP_LegionMk2_N_4].SkillName
 msgid "回避パターン分析"
 msgstr ""
 
+#  Korean Text: '요격 포메이션 (라운드 버프)'
 #: Skill[Skill_MP_LegionMk2_N_11].SkillName
 msgid "迎撃フォーメーション(ラウンドバフ)"
 msgstr ""
 
+#  Korean Text: '재밍 포획탄 (자신 적중)'
 #: Skill[Skill_MP_LegionMk2_N_12].SkillName
 msgid "ジャミング捕獲弾(自分命中)"
 msgstr ""
@@ -15835,44 +16165,54 @@ msgstr ""
 msgid "2連装曲射砲(着弾)"
 msgstr ""
 
+#  Korean Text: '포격으로 지정 범위에 {0} 피해를 줍니다. 대상이 회피 / 방어력 감소 상태면 피해량이 증가합니다.'
 #: Skill[Skill_MP_MammothW_N_1].SkillDescription
 msgid "砲撃で指定範囲に{0}ダメージを与えます。対象が回避/防御力減少状態なら与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '확산 포격'
 #: Skill[Skill_MP_MammothW_N_1].SkillName
 msgid "拡散砲撃"
 msgstr ""
 
+#  Korean Text: '1라운드 뒤에 착탄하는 포격으로 지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점은 50% 피해만 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.'
 #: Skill[Skill_MP_MammothW_N_2].SkillDescription
 msgid ""
 "1ラウンド後に着弾する砲撃で指定範囲に{0}保護無視ダメージを与えます。目標地点は50％のダメージだけ与えます。対象が標的/移動不可対象に与えるダメージが増"
 "加します。"
 msgstr ""
 
+#  Korean Text: '클러스터 캐논'
 #: Skill[Skill_MP_MammothW_N_2].SkillName
 msgid "クラスターキャノン"
 msgstr ""
 
+#  Korean Text: '냉기 속성 저항이 증가하며, <혹한> 효과를 받는 상태에선 방어력 / 효과 저항이 증가합니다.'
 #: Skill[Skill_MP_MammothW_N_3].SkillDescription
 msgid "冷気属性耐性が増加し、<酷寒>効果を受ける状態なら防御力/状態異常耐性が増加します。"
 msgstr ""
 
+#  Korean Text: '설원 위장'
 #: Skill[Skill_MP_MammothW_N_3].SkillName
 msgid "雪原偽装"
 msgstr ""
 
+#  Korean Text: '공격 후, 포신을 냉각해 3라운드 동안 행동력이 증가합니다.'
 #: Skill[Skill_MP_MammothW_N_4].SkillDescription
 msgid "攻撃後、砲身を冷却し3ラウンドの間、行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '포신 급속 냉각'
 #: Skill[Skill_MP_MammothW_N_4].SkillName
 msgid "砲身急速冷却"
 msgstr ""
 
+#  Korean Text: '포격으로 지정 범위에 {0} 보호 무시 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.'
 #: Skill[Skill_MP_MammothW_N_7].SkillDescription
 msgid "砲撃で指定範囲に{0}保護無視ダメージを与えます。対象が標的/移動不可対象なら与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '클러스터 캐논 (착탄)'
 #: Skill[Skill_MP_MammothW_N_7].SkillName
 msgid "クラスターキャノン(着弾)"
 msgstr ""
@@ -15950,42 +16290,52 @@ msgstr ""
 msgid "バトルジャンキー(HP減無視)"
 msgstr ""
 
+#  Korean Text: '배리어 전개'
 #: Skill[Skill_MP_Nest_B07_4].SkillName
 msgid "バリア展開"
 msgstr ""
 
+#  Korean Text: '사출 시스템 파괴'
 #: Skill[Skill_MP_Nest_B07_5].SkillName
 msgid "射出システム破壊"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 피해를 주고, 2라운드 동안 대상에게 표식 / 받는 피해 증가 / 공격력 / 치명타 감소 효과를 줍니다.'
 #: Skill[Skill_MP_NestGuardian_N_1].SkillDescription
 msgid "指定範囲に{0}ダメージを与え、2ラウンドの間、対象を標的に設定し、受けるダメージ増加/攻撃力/クリティカル減少効果を与えます。"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 줍니다. 치명타 시, 75% 확률로 대상의 강화 효과를 해제하며 5라운드 동안 회피를 감소시키고 받는 피해를 증가시킵니다.'
 #: Skill[Skill_MP_NightChick_C_1].SkillDescription
 msgid "対象に{0}ダメージを与えます。クリティカル時、75％確率で対象の強化効果を解除し5ラウンドの間、回避を減少させ受けるダメージを増加させます。"
 msgstr ""
 
+#  Korean Text: '칙 머신건'
 #: Skill[Skill_MP_NightChick_C_1].SkillName
 msgid "チックマシンガン"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 보호 무시 피해를 줍니다. 대상이 기동형인 경우 강화 효과를 해제하며 피해량이 증가하고, 2라운드 동안 행동 불가 상태로 만듭니다.'
 #: Skill[Skill_MP_NightChick_C_2].SkillDescription
 msgid "対象に{0}保護無視ダメージを与えます。対象が機動型の場合、強化効果を解除して与えるダメージが増加し、2ラウンドの間、行動不可状態にします。"
 msgstr ""
 
+#  Korean Text: '칙 머신건 속사'
 #: Skill[Skill_MP_NightChick_C_2].SkillName
 msgid "チックマシンガン速射"
 msgstr ""
 
+#  Korean Text: '자신과 같은 열에 인접한 아군의 대 기동형 피해량 / 적중 / 회피 / 행동력을 증가시킵니다.'
 #: Skill[Skill_MP_NightChick_C_3].SkillDescription
 msgid "自分と同じ列にいる隣接した味方の対機動型ダメージ/命中/回避/行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '칙 포메이션'
 #: Skill[Skill_MP_NightChick_C_3].SkillName
 msgid "チックフォーメーション"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 나이트 칙 실더???의 <복원 시스템 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <복원 시스템 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다.'
 #: Skill[Skill_MP_NightChick_C_4].SkillDescription
 msgid ""
 "ラウンド開始時、ナイトチックシールダー？？？の<復元システム制御>効果を受ける状態なら状態異常耐性が増加し、戦闘続行効果が適用されます。<復元システム制御>"
@@ -15993,22 +16343,27 @@ msgid ""
 "動力が増加します。当効果たちは強化解除効果では解除されません。"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템'
 #: Skill[Skill_MP_NightChick_C_4].SkillName
 msgid "チック復元システム"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, <복원 시스템 오류> 상태면 받는 피해가 증가하며 전투 속행 효과가 제거됩니다.'
 #: Skill[Skill_MP_NightChick_C_5].SkillDescription
 msgid "ラウンド開始時、<復元システムエラー>状態なら受けるダメージが増加し戦闘続行効果が除去されます。"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 오류'
 #: Skill[Skill_MP_NightChick_C_5].SkillName
 msgid "チック復元システムエラー"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 (속행)'
 #: Skill[Skill_MP_NightChick_C_11].SkillName
 msgid "チック復元システム(続行)"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 (속행 강화)'
 #: Skill[Skill_MP_NightChick_C_12].SkillName
 msgid "チック復元システム(続行強化)"
 msgstr ""
@@ -16168,6 +16523,7 @@ msgstr ""
 msgid "指定範囲に{0}の冷気属性ダメージを与えます。命中した対象は浸水状態になります。"
 msgstr ""
 
+#  Korean Text: '칙 고압 분사'
 #: Skill[Skill_MP_NightChickAQ_C_1].SkillName
 msgid "チック高圧噴射"
 msgstr ""
@@ -16177,6 +16533,7 @@ msgstr ""
 msgid "指定範囲の味方を再整備し、有害な効果を解除しAP/命中率/状態異常耐性を増加させます。"
 msgstr ""
 
+#  Korean Text: '칙 재 정비'
 #: Skill[Skill_MP_NightChickAQ_C_2].SkillName
 msgid "チック再整備"
 msgstr ""
@@ -16186,6 +16543,7 @@ msgstr ""
 msgid "冷気耐性/状態異常耐性が増加し、受けるダメージが減少します。浸水状態の場合、制御を失って回避率/行動力が大幅に増加し命中率が大幅に減少します。"
 msgstr ""
 
+#  Korean Text: '심해용 장갑'
 #: Skill[Skill_MP_NightChickAQ_C_3].SkillName
 msgid "深海用装甲"
 msgstr ""
@@ -16200,6 +16558,7 @@ msgstr ""
 msgid "漏水"
 msgstr ""
 
+#  Korean Text: '수분 증발'
 #: Skill[Skill_MP_NightChickAQ_C_5].SkillName
 msgid "水分蒸発"
 msgstr ""
@@ -16229,10 +16588,12 @@ msgstr ""
 msgid "火炎放射により{0}の火炎属性ダメージを与え、一定確率で3ラウンドの間、対象を点火状態にして持続火炎ダメージを与えます。"
 msgstr ""
 
+#  Korean Text: '칙 헬 파이어'
 #: Skill[Skill_MP_NightChickC_C_1].SkillName
 msgid "チックヘルファイア"
 msgstr ""
 
+#  Korean Text: '칙 롱 레인지 캐논'
 #: Skill[Skill_MP_NightChickC_C_2].SkillName
 msgid "チックロングレンジキャノン"
 msgstr ""
@@ -16242,6 +16603,7 @@ msgstr ""
 msgid "死亡時、燃料タンクが誘爆し周辺に壊滅的なダメージを与えダメージ減少効果を解除します。"
 msgstr ""
 
+#  Korean Text: '연료 침수'
 #: Skill[Skill_MP_NightChickC_C_3].SkillName
 msgid "燃料浸水"
 msgstr ""
@@ -16251,14 +16613,17 @@ msgstr ""
 msgid "1ラウンド後に着弾する曲射砲を発射し目標範囲に{0}のダメージを与えます。対象が移動不可状態ならダメージ量が増加します。"
 msgstr ""
 
+#  Korean Text: '칙 화력 강화'
 #: Skill[Skill_MP_NightChickC_C_4].SkillName
 msgid "チック火力強化"
 msgstr ""
 
+#  Korean Text: '칙 대폭발'
 #: Skill[Skill_MP_NightChickC_C_5].SkillName
 msgid "チック大爆発"
 msgstr ""
 
+#  Korean Text: '칙 캐논포 착탄'
 #: Skill[Skill_MP_NightChickC_C_7].SkillName
 msgid "チックキャノン砲着弾"
 msgstr ""
@@ -16501,50 +16866,61 @@ msgstr ""
 msgid "レーダージャミング"
 msgstr ""
 
+#  Korean Text: '교란 파장으로 {0} 보호 무시 피해를 줍니다. 범위 내 대상들은 2라운드 동안 회피 감소 / 받는 피해 증가 상태가 됩니다. 대상이 기동형일 경우, 효과가 2배가 되며 회피 증가 효과를 해제합니다.'
 #: Skill[Skill_MP_NightChickDEAA_N_1].SkillDescription
 msgid ""
 "攪乱波長で{0}保護無視ダメージを与えます。範囲内の対象たちは2ラウンドの間、回避減少/受けるダメージ増加状態になります。対象が機動型の場合、効果が2倍にな"
 "り回避増加効果を解除します。"
 msgstr ""
 
+#  Korean Text: '레이더 교란 파장'
 #: Skill[Skill_MP_NightChickDEAA_N_1].SkillName
 msgid "レーダー攪乱波長"
 msgstr ""
 
+#  Korean Text: '섬광탄으로 지정 범위에 {0} 보호 무시 피해를 줍니다. 적중 대상은 3라운드 동안 치명타 / 적중 / 방어 관통 감소 상태가 됩니다. 3라운드 동안 자신의 행동력이 증가합니다.'
 #: Skill[Skill_MP_NightChickDEAA_N_2].SkillDescription
 msgid ""
 "閃光弾で指定範囲に{0}保護無視ダメージを与えます。命中された対象は3ラウンドの間、クリティカル/命中/防御貫通減少状態になります。3ラウンドの間、自分の行"
 "動力が増加します。"
 msgstr ""
 
+#  Korean Text: '조준 방해'
 #: Skill[Skill_MP_NightChickDEAA_N_2].SkillName
 msgid "照準妨害"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 범위 내 아군의 AP가 증가합니다. 라운드 개시 시, 범위 내 아군의 적중 / 대 기동형 피해량이 증가하며 적중 감소 효과가 해제됩니다.'
 #: Skill[Skill_MP_NightChickDEAA_N_3].SkillDescription
 msgid "戦闘開始時、範囲内味方のAPが増加します。ラウンド開始時、範囲内味方の命中/対機動型ダメージが増加し、命中減少効果が解除されます。"
 msgstr ""
 
+#  Korean Text: '대공 레이더망'
 #: Skill[Skill_MP_NightChickDEAA_N_3].SkillName
 msgid "対空レーダー網"
 msgstr ""
 
+#  Korean Text: '침수 상태로 라운드 개시 시, 자신과 주변 아군의 행동력이 감소하며 10% 확률로 행동 불가 상태가 됩니다.'
 #: Skill[Skill_MP_NightChickDEAA_N_4].SkillDescription
 msgid "浸水状態でラウンド開始時、自分と味方の行動力が減少し10％確率で行動不可状態になります。"
 msgstr ""
 
+#  Korean Text: '통신 오류'
 #: Skill[Skill_MP_NightChickDEAA_N_4].SkillName
 msgid "通信エラー"
 msgstr ""
 
+#  Korean Text: '레이더 교란 파장 (기동)'
 #: Skill[Skill_MP_NightChickDEAA_N_11].SkillName
 msgid "レーダー攪乱波長(機動型)"
 msgstr ""
 
+#  Korean Text: '대공 레이더망 (부가 효과)'
 #: Skill[Skill_MP_NightChickDEAA_N_12].SkillName
 msgid "対空レーダー網(付加効果)"
 msgstr ""
 
+#  Korean Text: '조준 방해 (자신 행동력)'
 #: Skill[Skill_MP_NightChickDEAA_N_13].SkillName
 msgid "照準妨害(自分行動力)"
 msgstr ""
@@ -16783,31 +17159,38 @@ msgstr ""
 msgid "チック精密照準"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 줍니다. 치명타 시, 75% 확률로 대상의 강화 효과를 해제하며 5라운드 동안 방어력을 감소시키고 받는 피해를 증가시킵니다.'
 #: Skill[Skill_MP_NightChickM_C_1].SkillDescription
 msgid "対象に{0}ダメージを与えます。クリティカル時、75％確率で対象の強化効果を解除し、5ラウンドの間、防御力を下げて受けるダメージ増加にします。"
 msgstr ""
 
+#  Korean Text: '칙 미사일'
 #: Skill[Skill_MP_NightChickM_C_1].SkillName
 msgid "チックミサイル"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 보호 무시 피해를 줍니다. 대상이 중장형일 경우 강화 효과를 해제하며 피해량이 증가하고, 2라운드 동안 방어력 감소 / 행동 불가 상태로 만듭니다.'
 #: Skill[Skill_MP_NightChickM_C_2].SkillDescription
 msgid ""
 "対象に{0}保護無視ダメージを与えます。対象が重装型の場合、強化効果を解除して与えるダメージが増加し、2ラウンドの間、防御力減少/行動不可状態にします。"
 msgstr ""
 
+#  Korean Text: '풀 오픈 칙 미사일'
 #: Skill[Skill_MP_NightChickM_C_2].SkillName
 msgid "フルオープンチックミサイル"
 msgstr ""
 
+#  Korean Text: '자신 앞 / 뒤에 인접한 아군의 공격력 / 치명타 / 행동력을 증가시킵니다.'
 #: Skill[Skill_MP_NightChickM_C_3].SkillDescription
 msgid "自分の前後に隣接した味方の攻撃力/クリティカル/行動力を上げます。"
 msgstr ""
 
+#  Korean Text: '칙 포메이션 (런쳐)'
 #: Skill[Skill_MP_NightChickM_C_3].SkillName
 msgid "チックフォーメーション(ランチャー)"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 (속행 : 런처)'
 #: Skill[Skill_MP_NightChickM_C_11].SkillName
 msgid "チック復元システム(続行：ランチャー)"
 msgstr ""
@@ -17074,46 +17457,55 @@ msgstr ""
 msgid "武装供給(クリティカルダミー)"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 보호 무시 피해를 줍니다. 대상이 <나이트 칙?> 또는 <나이트 칙 런쳐??>의 해로운 효과가 적용된 상태면 강화 효과를 해제하며 피해량이 크게 증가합니다.'
 #: Skill[Skill_MP_NightChickS_C_1].SkillDescription
 msgid ""
 "対象に{0}保護無視ダメージを与えます。対象が<ナイトチック？>または<ナイトチックランチャー？？>の有害な効果が適用された状態なら強化効果を解除し与えるダ"
 "メージが大幅増加します。"
 msgstr ""
 
+#  Korean Text: '칙 마무리 강타'
 #: Skill[Skill_MP_NightChickS_C_1].SkillName
 msgid "チック仕上げ強打"
 msgstr ""
 
+#  Korean Text: '5라운드 동안 대상을 지정 보호하며 <칙 업그레이드 준비> 효과가 적용됩니다. <칙 업그레이드 준비> 상태인 대상은 다음 라운드부터 <칙 업그레이드> 효과를 받아 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다.'
 #: Skill[Skill_MP_NightChickS_C_2].SkillDescription
 msgid ""
 "5ラウンドの間、対象を指定保護し<チックアップグレード準備>効果が適用されます。<チックアップグレード準備>状態の対象は次のラウンドから<チックアップグレー"
 "ド>効果が適用され攻撃力/命中/クリティカル/回避/行動力が増加します。"
 msgstr ""
 
+#  Korean Text: '칙 업그레이드 준비'
 #: Skill[Skill_MP_NightChickS_C_2].SkillName
 msgid "チックアップグレード準備"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 모든 저항이 증가하며 해로운 효과를 해제합니다. 피격 시, <칙 방패 올리기> 효과가 발동해 2라운드 동안 방어력이 증가합니다. <칙 방패 올리기> 방어력 중첩이 7 이상인 상태에서 추가 피격 시, 해당 효과를 해제하고 해당 라운드 동안 해제 불가능한 피해 최소화 / 반격 효과가 적용됩니다.'
 #: Skill[Skill_MP_NightChickS_C_3].SkillDescription
 msgid ""
 "ラウンド開始時、全耐性が増加し有害な効果を解除します。被撃時、<チックシールドアップ>効果が発動し2ラウンドの間、防御力が増加します。<チックシールドアップ"
 ">の防御力重複が7以上の状態で追加で被撃されたら、当効果を解除し当ラウンドの間、解除不可の受けるダメージ最少化/反撃効果が適用されます。"
 msgstr ""
 
+#  Korean Text: '칙 방패 방어술 (고급)'
 #: Skill[Skill_MP_NightChickS_C_3].SkillName
 msgid "チック盾防御術(高級)"
 msgstr ""
 
+#  Korean Text: '전투 개시 시, 주변 아군들에게 <칙 복원 시스템> 효과가 적용됩니다. 라운드 개시 시, <칙 방패 올리기>중첩이 7 이면 <복원 시스템 오류> 상태가 되어 주변 아군의 <칙 복원 시스템>을 해제합니다. <칙 복원 시스템>은 자신이 <복원 시스템 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다.'
 #: Skill[Skill_MP_NightChickS_C_4].SkillDescription
 msgid ""
 "戦闘開始時、周りの味方たちに<チック復元システム>効果が適用されます。ラウンド開始時、<チックシールドアップ>重複が7以上なら<復元システムエラー>状態にな"
 "り周辺味方の<チック復元システム>を解除します。<チック復元システム>は自分が<復元システムエラー>状態でないならラウンド開始時、また活性化します。"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 제어'
 #: Skill[Skill_MP_NightChickS_C_4].SkillName
 msgid "チック復元システム制御"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, <칙 업그레이드 준비> 상태인 공격기와 지원기의 공격력 / 적중 / 회피 / 치명타 / 행동력이 증가합니다. 공격력 업그레이드가 4단계 이상인 경우, 대상의 공격은 방어력 / 방어막 / 피해 감소 효과를 무시합니다. 대상이 보호기일 경우, 강화 효과가 적용되지 않고 받는 피해가 크게 증가하며 강화 효과가 해제됩니다.'
 #: Skill[Skill_MP_NightChickS_C_5].SkillDescription
 msgid ""
 "ラウンド開始時、<チックアップグレード準備>状態の攻撃機と支援機の攻撃力/命中/回避/クリティカル/行動力が増加します。攻撃力アップグレードが4段階以上の場"
@@ -17121,38 +17513,47 @@ msgid ""
 "ます。"
 msgstr ""
 
+#  Korean Text: '칙 업그레이드'
 #: Skill[Skill_MP_NightChickS_C_5].SkillName
 msgid "チックアップグレード"
 msgstr ""
 
+#  Korean Text: '칙 방패 방어술 (방어력)'
 #: Skill[Skill_MP_NightChickS_C_11].SkillName
 msgid "チック盾防御術(防御力)"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 제어 (오류)'
 #: Skill[Skill_MP_NightChickS_C_12].SkillName
 msgid "チック復元システム制御(エラー)"
 msgstr ""
 
+#  Korean Text: '칙 업그레이드 (보호기)'
 #: Skill[Skill_MP_NightChickS_C_13].SkillName
 msgid "チックアップグレード(保護機)"
 msgstr ""
 
+#  Korean Text: '칙 방패 방어술 (추가 효과)'
 #: Skill[Skill_MP_NightChickS_C_14].SkillName
 msgid "チック盾防御術(追加効果)"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 제어 (라운드)'
 #: Skill[Skill_MP_NightChickS_C_15].SkillName
 msgid "チック復元システム制御(ラウンド)"
 msgstr ""
 
+#  Korean Text: '칙 복원 시스템 제어 (속행 해제)'
 #: Skill[Skill_MP_NightChickS_C_16].SkillName
 msgid "チック復元システム制御(続行解除)"
 msgstr ""
 
+#  Korean Text: '칙 업그레이드 (공격력)'
 #: Skill[Skill_MP_NightChickS_C_17].SkillName
 msgid "チックアップグレード(攻撃力)"
 msgstr ""
 
+#  Korean Text: '칙 업그레이드 (특수 관통)'
 #: Skill[Skill_MP_NightChickS_C_18].SkillName
 msgid "チックアップグレード(特殊貫通)"
 msgstr ""
@@ -17347,91 +17748,112 @@ msgstr ""
 msgid "なし"
 msgstr "No Item"
 
+#  Korean Text: '머신건 견제 사격으로 {0} 피해를 주며 방어력을 3라운드 동안 감소 시킵니다.'
 #: Skill[Skill_MP_NightChickSpCH_N_1].SkillDescription
 msgid "マシンガン牽制射撃で{0}ダメージを与え、防御力を3ラウンドの間、減少させます。"
 msgstr ""
 
+#  Korean Text: '머신건을 조준 사격해 {0} 피해를 줍니다. 3라운드 동안 받는 피해가 증가하는 상태로 만듭니다.'
 #: Skill[Skill_MP_NightChickSpCH_N_2].SkillDescription
 msgid "マシンガンを照準射撃し{0}ダメージを与えます。3ラウンドの間、受けるダメージ増加状態にします。"
 msgstr ""
 
+#  Korean Text: '솔져 칙들은 낙오(파괴) 되더라도 칙 커맨더가 존재한다면 <근성>으로 다시 일어나 싸웁니다.\n\n근성 : 해제 불가의 전투 속행 효과'
 #: Skill[Skill_MP_NightChickSpCH_N_3].SkillDescription
 msgid "ソルジャーチックたちは破壊されてもチックコマンダーが存在するなら<根性>でまた立ち上がり戦います。&n&n根性：解除不可の戦闘続行"
 msgstr ""
 
+#  Korean Text: '근성'
 #: Skill[Skill_MP_NightChickSpCH_N_3].SkillName
 msgid "根性"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시 칙 커맨더의 명령을 따르기 위해 <명령 집중>이 적용 되고 <공격 명령>을 받기 전까지 칙 커맨더를 호위하기 위해 주위를 돌아다니다가 간혹 <과부하>에 걸립니다.\n\n명령 집중 : 해제 불가의 해로운 효과 저항 적용\n과부하 : 스스로에게 일정량 피해'
 #: Skill[Skill_MP_NightChickSpCH_N_4].SkillDescription
 msgid ""
 "ラウンド開始時、チックコマンダーの命令に従うため<命令集中>が適用され<攻撃命令>を受けるまで、チックコマンダーを護衛するため見回りし続け時々<過負荷>にな"
 "ります。&n&n命令集中：解除不可の有害な効果耐性適用&n過負荷：自分に一定のダメージ"
 msgstr ""
 
+#  Korean Text: '호위'
 #: Skill[Skill_MP_NightChickSpCH_N_4].SkillName
 msgid "護衛"
 msgstr ""
 
+#  Korean Text: '전열에 있는 경우 자신의 몸을 바쳐 칙 커맨더를 보호할 수 있도록 행 보호가 적용 됩니다.'
 #: Skill[Skill_MP_NightChickSpCH_N_5].SkillDescription
 msgid "前列にいる場合、自分の身を擲ってチックコマンダーを保護できるように行保護が適用されます。"
 msgstr ""
 
+#  Korean Text: '희생'
 #: Skill[Skill_MP_NightChickSpCH_N_5].SkillName
 msgid "犠牲"
 msgstr ""
 
+#  Korean Text: '근성(부활 시)'
 #: Skill[Skill_MP_NightChickSpCH_N_31].SkillName
 msgid "根性(復活時)"
 msgstr ""
 
+#  Korean Text: '명령 최우선(효과 저항)'
 #: Skill[Skill_MP_NightChickSpCH_N_32].SkillName
 msgid "命令最優先(状態異常耐性)"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시 피해량이 증가하며, 자신이 전열일 경우 대상의 방어막 / 피해 감소 효과를 무시합니다.'
 #: Skill[Skill_MP_NightChickSPW_N_1].SkillDescription
 msgid ""
 "対象に{0}保護無視ダメージを与えます。クリティカル時、与えるダメージが増加し、自分が前列の場合対象のバリア/受けるダメージ減少効果を無視します。"
 msgstr ""
 
+#  Korean Text: '약점 저격'
 #: Skill[Skill_MP_NightChickSPW_N_1].SkillName
 msgid "弱点狙撃"
 msgstr ""
 
+#  Korean Text: '대상에게 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 지정해 받는 피해 증가 / 회피 감소 상태로 만듭니다. 자신은 3라운드 동안 적중 / 회피 / 행동력이 증가합니다.'
 #: Skill[Skill_MP_NightChickSPW_N_2].SkillDescription
 msgid ""
 "対象に{0}ダメージを与えて、2ラウンドの間、対象を標的指定し受けるダメージ増加/回避減少状態にします。自分は3ラウンドの間、命中/回避/行動力が増加します"
 "。"
 msgstr ""
 
+#  Korean Text: '저격 목표 포착'
 #: Skill[Skill_MP_NightChickSPW_N_2].SkillName
 msgid "狙撃目標捕捉"
 msgstr ""
 
+#  Korean Text: '냉기 속성 저항이 증가하며, <혹한> 효과를 받는 상태에선 회피가 증가하며 받는 피해가 감소합니다.'
 #: Skill[Skill_MP_NightChickSPW_N_3].SkillDescription
 msgid "冷気属性耐性が増加し、<酷寒>効果が適用されつ状態なら回避が増加し受けるダメージが減少します。"
 msgstr ""
 
+#  Korean Text: '설원 매복'
 #: Skill[Skill_MP_NightChickSPW_N_3].SkillName
 msgid "雪原待ち伏せ"
 msgstr ""
 
+#  Korean Text: '공격 회피 시, 반격합니다. 해당 효과 발동 시, 3라운드 동안 치명타가 증가합니다.'
 #: Skill[Skill_MP_NightChickSPW_N_4].SkillDescription
 msgid "攻撃回避時、反撃します。当効果発動時、3ラウンドの間、クリティカルが増加します。"
 msgstr ""
 
+#  Korean Text: '역공 준비'
 #: Skill[Skill_MP_NightChickSPW_N_4].SkillName
 msgid "逆襲準備"
 msgstr ""
 
+#  Korean Text: '약점 저격 (방어막 피감 무시)'
 #: Skill[Skill_MP_NightChickSPW_N_11].SkillName
 msgid "弱点狙撃(バリアダメージ減少無視)"
 msgstr ""
 
+#  Korean Text: '역공 준비 (크리)'
 #: Skill[Skill_MP_NightChickSPW_N_12].SkillName
 msgid "逆襲準備(クリティカル)"
 msgstr ""
 
+#  Korean Text: '목표 포착 (자신 적중)'
 #: Skill[Skill_MP_NightChickSPW_N_13].SkillName
 msgid "目標捕捉(自分命中)"
 msgstr ""
@@ -17443,6 +17865,7 @@ msgid ""
 "確率で行動不可状態にします。"
 msgstr ""
 
+#  Korean Text: '칙 콜 라이트닝'
 #: Skill[Skill_MP_NightChickTD_C_1].SkillName
 msgid "チックコールライトニング"
 msgstr ""
@@ -17454,6 +17877,7 @@ msgid ""
 "ダメージ減少状態を解除します。"
 msgstr ""
 
+#  Korean Text: '칙 전격 방사'
 #: Skill[Skill_MP_NightChickTD_C_2].SkillName
 msgid "チック電撃放射"
 msgstr ""
@@ -17463,6 +17887,7 @@ msgstr ""
 msgid "電気属性攻撃を受けるとチャージ状態になり、攻撃力/命中率/回避率/AP/行動力が大幅に増加します。"
 msgstr ""
 
+#  Korean Text: '전압상승'
 #: Skill[Skill_MP_NightChickTD_C_3].SkillName
 msgid "電圧上昇"
 msgstr ""
@@ -17474,10 +17899,12 @@ msgid ""
 "になります。"
 msgstr ""
 
+#  Korean Text: '전압강하'
 #: Skill[Skill_MP_NightChickTD_C_4].SkillName
 msgid "電圧降下"
 msgstr ""
 
+#  Korean Text: '과전압 누전'
 #: Skill[Skill_MP_NightChickTD_C_5].SkillName
 msgid "過電圧漏電"
 msgstr ""
@@ -18637,6 +19064,7 @@ msgstr ""
 msgid "緊急支援要請"
 msgstr ""
 
+#  Korean Text: '약점 분석'
 #: Skill[Skill_MP_Robert_Challenge1_1].SkillName
 msgid "弱点分析"
 msgstr ""
@@ -19234,6 +19662,7 @@ msgstr ""
 msgid "レーダー警報"
 msgstr ""
 
+#  Korean Text: '사운드 출력 강화'
 #: Skill[Skill_MP_Speaker_N_3].SkillName
 msgid "サウンド出力強化"
 msgstr ""
@@ -19908,6 +20337,7 @@ msgstr ""
 msgid "初期化"
 msgstr "Initialization"
 
+#  Korean Text: '먹잇감 탐색'
 #: Skill[Skill_MP_Tyrant_Challenge1_3].SkillName
 msgid "獲物探索"
 msgstr ""
@@ -20678,32 +21108,39 @@ msgstr ""
 msgid "審美探求(外列)"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 피해를 주고, 2라운드 동안 도발 / 공격력 / 치명타 감소 상태로 만듭니다. 치명타 시, 피해량이 증가합니다.'
 #: Skill[Skill_PECS_Babariana_N_1].SkillDescription
 msgid "指定範囲に{0}ダメージを与え、2ラウンドの間、挑発と攻撃力/クリティカル減少状態にします。クリティカル時、与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 {0} 피해. 도발 / 공격력 / 치명타 감소. 치명타 시, 피해량 증가'
 #: Skill[Skill_PECS_Babariana_N_1].SkillDescriptionSimple
 msgid "指定範囲に{0}ダメージ。挑発/攻撃力/クリティカル減少。クリティカル時、与えるダメージが増加"
 msgstr ""
 
+#  Korean Text: '불청객 제압'
 #: Skill[Skill_PECS_Babariana_N_1].SkillName
 msgid "招かれざる客制圧"
 msgstr ""
 
+#  Korean Text: '지정 대상에게 {0} 피해를 주고, 2라운드 동안 방어력을 감소시킵니다. 치명타 시, 대상에게 걸려있는 방어력 증가 / 받는 피해 감소 효과를 해제하며 2라운드 동안 대상이 받는 피해가 증가합니다.'
 #: Skill[Skill_PECS_Babariana_N_2].SkillDescription
 msgid ""
 "指定対象に{0}ダメージを与え、2ラウンドの間、防御力を下げます。クリティカル時、対象にかかっている防御力増加/受けるダメージ減少効果を解除して2ラウンドの"
 "間、与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '지정 대상 {0} 피해. 방어력 감소. 치명타 시, 방어력 증가 / 받는 피해 감소 해제 / 피해 증폭'
 #: Skill[Skill_PECS_Babariana_N_2].SkillDescriptionSimple
 msgid "指定対象に{0}ダメージ。防御力減少。クリティカル時、防御力増加/受けるダメージ減少解除/ダメージ増幅"
 msgstr ""
 
+#  Korean Text: '철거 개시'
 #: Skill[Skill_PECS_Babariana_N_2].SkillName
 msgid "撤去開始"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 공격력 / 치명타 / 방어 관통이 증가합니다.'
 #: Skill[Skill_PECS_Babariana_N_3].SkillDescription
 msgid "ラウンド開始時、攻撃力/クリティカル/防御貫通が増加します。"
 msgstr ""
@@ -20713,42 +21150,52 @@ msgstr ""
 msgid "攻撃力/クリティカル率/防御貫通増加"
 msgstr ""
 
+#  Korean Text: '숙련된 철거 기술'
 #: Skill[Skill_PECS_Babariana_N_3].SkillName
 msgid "熟練された撤去技術"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 후열의 공격기 / 지원기를 지정 보호합니다. 후열 아군들의 방어 관통이 증가하며, 자신은 받는 피해가 감소하며 효과 저항이 증가합니다.'
 #: Skill[Skill_PECS_Babariana_N_4].SkillDescription
 msgid "ラウンド開始時、後列の攻撃機/支援機を指定保護します。後列味方たちの防御貫通が増加し。自分は受けるダメージ減少/状態異常耐性増加状態になります。"
 msgstr ""
 
+#  Korean Text: '후열 아군 방어 관통 증가. 후열 공격기 / 지원기 지정 대상 보호. 자신의 받는 피해 감소 / 효과 저항 증가'
 #: Skill[Skill_PECS_Babariana_N_4].SkillDescriptionSimple
 msgid "後列味方の防御貫通が増加。後列の攻撃機/支援機を指定対象保護。自分の受けるダメージを減少/状態異常耐性増加"
 msgstr ""
 
+#  Korean Text: '철거 준비'
 #: Skill[Skill_PECS_Babariana_N_4].SkillName
 msgid "列挙準備"
 msgstr ""
 
+#  Korean Text: '불청객 제압 (피해량)'
 #: Skill[Skill_PECS_Babariana_N_11].SkillName
 msgid "招かれざる客制圧(ダメージ量)"
 msgstr ""
 
+#  Korean Text: '철거 개시 (치명타)'
 #: Skill[Skill_PECS_Babariana_N_12].SkillName
 msgid "撤去開始(クリ)"
 msgstr ""
 
+#  Korean Text: '철거 준비 (지정 보호)'
 #: Skill[Skill_PECS_Babariana_N_13].SkillName
 msgid "撤去準備(指定保護)"
 msgstr ""
 
+#  Korean Text: '숙련된 철거 기술 (처치 AP)'
 #: Skill[Skill_PECS_Babariana_N_14].SkillName
 msgid "熟練された撤去技術(キルAP)"
 msgstr ""
 
+#  Korean Text: '철거 준비 (자신 피감)'
 #: Skill[Skill_PECS_Babariana_N_15].SkillName
 msgid "撤去準備(自分ダメージ減少)"
 msgstr ""
 
+#  Korean Text: '철거 개시 (치명타 피해 증폭)'
 #: Skill[Skill_PECS_Babariana_N_16].SkillName
 msgid "撤去開始(クリティカルダメージ増幅)"
 msgstr ""
@@ -21032,10 +21479,12 @@ msgstr ""
 msgid "地獄の番人(味方保護ダミー)"
 msgstr ""
 
+#  Korean Text: '지옥의 파수꾼 (사거리)'
 #: Skill[Skill_PECS_Cerberus_N_14].SkillName
 msgid "地獄の番人(射程距離)"
 msgstr ""
 
+#  Korean Text: '총공격이에요! (공격기)'
 #: Skill[Skill_PECS_Cerberus_N_15].SkillName
 msgid "総攻撃です！(攻撃機)"
 msgstr ""
@@ -21307,6 +21756,7 @@ msgstr ""
 msgid "熟練された採掘"
 msgstr ""
 
+#  Korean Text: '신형 채굴 장비'
 #: Skill[Skill_PECS_DutchGirl_N_4].SkillName
 msgid "新型採掘装備"
 msgstr ""
@@ -21326,6 +21776,7 @@ msgstr ""
 msgid "スクリューバンカーショット(致命防減ダミー)"
 msgstr ""
 
+#  Korean Text: '신형 채굴 장비 (피해 증폭)'
 #: Skill[Skill_PECS_DutchGirl_N_14].SkillName
 msgid "新型採掘装備(ダメージ増幅)"
 msgstr ""
@@ -21744,6 +22195,7 @@ msgstr ""
 msgid "要員掩蔽(待機ダミー)"
 msgstr ""
 
+#  Korean Text: '적에게 {0} 보호 무시 피해를 주고 표식을 남깁니다. 피격된 적은 공격력과 회피가 감소합니다. 스쿼드 내 미스세이프티가 있을 시, 대상에게 <고압 가스탄> 스킬 협동 공격을 합니다. '
 #: Skill[Skill_PECS_Leanne_N_1].SkillDescription
 msgid "対象を目標に指定し{0}の保護無視ダメージを与えます。攻撃を受けた対象は攻撃力と回避率が減少します。"
 msgstr ""
@@ -21806,14 +22258,17 @@ msgstr ""
 msgid "デッドリーヘイズ"
 msgstr "Dance of Death"
 
+#  Korean Text: '사이클롭스 이터널 빔 (공치 강화 해제)'
 #: Skill[Skill_PECS_LRL_N_12].SkillName
 msgid "サイクロプスエターナルビーム(功クリ強化解除)"
 msgstr ""
 
+#  Korean Text: '액스 오브 다크니스 (방어 효과 무시)'
 #: Skill[Skill_PECS_LRL_N_13].SkillName
 msgid "アクス・オブ・ダークネス(防御効果無視)"
 msgstr ""
 
+#  Korean Text: '사이클롭스 이터널 빔 (적중 강화 해제)'
 #: Skill[Skill_PECS_LRL_N_14].SkillName
 msgid "サイクロプスエターナルビーム(命中効強化解除)"
 msgstr ""
@@ -22035,68 +22490,84 @@ msgstr ""
 msgid "不屈の消防官(行動力増加ダミー)"
 msgstr ""
 
+#  Korean Text: '지정 범위에 {0} 보호 무시 피해를 줍니다. 치명타 시, 피해 감소 효과를 해제하며 피해량이 증가합니다.'
 #: Skill[Skill_PECS_Spartoia_N_1].SkillDescription
 msgid "指定範囲に{0}保護無視ダメージを与えます。クリティカル時、受けるダメージ減少効果を解除し与えるダメージが増加します。"
 msgstr ""
 
+#  Korean Text: '지정 범위 {0} 보호 무시 피해. 치명타 시, 피해 감소 해제 / 피해량 증가'
 #: Skill[Skill_PECS_Spartoia_N_1].SkillDescriptionSimple
 msgid "指定範囲に{0}保護無視ダメージ。クリティカル時、受けるダメージ減少を解除/受けるダメージが増加"
 msgstr ""
 
+#  Korean Text: '슈팅스타'
 #: Skill[Skill_PECS_Spartoia_N_1].SkillName
 msgid "シューティングスター"
 msgstr ""
 
+#  Korean Text: '지정 대상에게 {0} 피해를 줍니다. 자신의 현재 HP%가 낮을수록 피해량이 증가하며, 방어막 / 피해 감소 효과를 무시합니다.'
 #: Skill[Skill_PECS_Spartoia_N_2].SkillDescription
 msgid "指定対象に{0}ダメージを与えます。自分の現在HP％が低いほど与えるダメージが増加し、バリア/受けるダメージ減少効果を無視します。"
 msgstr ""
 
+#  Korean Text: '지정 대상 {0} 피해. 자신 현재 HP% 낮을수록 피해량 증가. 방어막 / 피해 감소 효과 무시'
 #: Skill[Skill_PECS_Spartoia_N_2].SkillDescriptionSimple
 msgid "指定対象に{0}ダメージ。自分の現在HP％が低いほど与えるダメージが増加。バリア/受けるダメージ減少を無視"
 msgstr ""
 
+#  Korean Text: 'CQB 돌입'
 #: Skill[Skill_PECS_Spartoia_N_2].SkillName
 msgid "CQB突入"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 최대 2회까지 치명타 / 적중이 증가합니다. 적중 증가 중첩이 최대인 경우, 라운드 개시 시 적중 감소 효과를 해제합니다. 치명타 증가 중첩이 최대인 경우, 라운드 개시 시 공격력이 증가합니다.'
 #: Skill[Skill_PECS_Spartoia_N_3].SkillDescription
 msgid ""
 "ラウンド開始時、最大2回までクリティカル/命中が増加します。命中増加重複が最大ならラウンド開始時、命中減少効果を解除します。クリティカル重複が最大ならラウン"
 "ド開始時、攻撃力が増加します。"
 msgstr ""
 
+#  Korean Text: '치명타 / 적중 증가 (최대 2회). 각 효과 2중첩 시, 적중 감소 해제 / 공격력 증가'
 #: Skill[Skill_PECS_Spartoia_N_3].SkillDescriptionSimple
 msgid "クリティカル/命中が増加(最大2回)。各効果が2重複時、命中減少を解除/攻撃力増加"
 msgstr ""
 
+#  Korean Text: '관측 데이터 수신'
 #: Skill[Skill_PECS_Spartoia_N_3].SkillName
 msgid "観測データ受信"
 msgstr ""
 
+#  Korean Text: '라운드 개시 시, 방어력 / 모든 저항이 증가하며 받는 피해가 감소합니다.'
 #: Skill[Skill_PECS_Spartoia_N_4].SkillDescription
 msgid "ラウンド開始時、防御力/全耐性が増加し受けるダメージが減少します。"
 msgstr ""
 
+#  Korean Text: '방어력 / 모든 저항 증가. 받는 피해 감소'
 #: Skill[Skill_PECS_Spartoia_N_4].SkillDescriptionSimple
 msgid "防御力/全耐性増加。受けるダメージ減少"
 msgstr ""
 
+#  Korean Text: '우주용 컴뱃 아머'
 #: Skill[Skill_PECS_Spartoia_N_4].SkillName
 msgid "宇宙用コンバットアーマー"
 msgstr ""
 
+#  Korean Text: '관측 데이터 수신 (적중)'
 #: Skill[Skill_PECS_Spartoia_N_11].SkillName
 msgid "観測データ受信(命中)"
 msgstr ""
 
+#  Korean Text: '관측 데이터 수신 (적감 해제)'
 #: Skill[Skill_PECS_Spartoia_N_12].SkillName
 msgid "観測データ受信(的減解除)"
 msgstr ""
 
+#  Korean Text: '관측 데이터 수신 (공격력)'
 #: Skill[Skill_PECS_Spartoia_N_13].SkillName
 msgid "観測データ受信(攻撃力)"
 msgstr ""
 
+#  Korean Text: '우주용 컴뱃 아머 (저항)'
 #: Skill[Skill_PECS_Spartoia_N_14].SkillName
 msgid "宇宙用コンバットアーマー(耐性)"
 msgstr ""
@@ -22126,14 +22597,17 @@ msgstr ""
 msgid "敵攻撃時、攻撃力/行動力/回避率増加"
 msgstr ""
 
+#  Korean Text: '긍정적인 사고방식 (회피 증가)'
 #: Skill[Skill_PECS_Sunny_N_14].SkillName
 msgid "ポジティブ思考(回避増加)"
 msgstr ""
 
+#  Korean Text: '긍정적인 사고방식 (받는 피해 감소)'
 #: Skill[Skill_PECS_Sunny_N_15].SkillName
 msgid "ポジティブ思考(受けるダメージ減少)"
 msgstr ""
 
+#  Korean Text: '긍정적인 사고방식 (효과 저항 증가)'
 #: Skill[Skill_PECS_Sunny_N_16].SkillName
 msgid "ポジティブ思考(状態異常耐性増加)"
 msgstr ""
@@ -22324,14 +22798,17 @@ msgstr ""
 msgid "深海適応(浸水ダミー)"
 msgstr ""
 
+#  Korean Text: '사이클론 스트림 (강화 해제)'
 #: Skill[Skill_PECS_Triaina_N_16].SkillName
 msgid "サイクロンストリーム(強化解除)"
 msgstr ""
 
+#  Korean Text: '프런티어 리더 (중열)'
 #: Skill[Skill_PECS_Triaina_N_17].SkillName
 msgid "フロンティアリーダー(中列)"
 msgstr ""
 
+#  Korean Text: '프런티어 리더 (전열)'
 #: Skill[Skill_PECS_Triaina_N_18].SkillName
 msgid "フロンティアリーダー(前列)"
 msgstr ""
@@ -22658,6 +23135,7 @@ msgstr ""
 msgid "対装甲ブレード(対軽装型)"
 msgstr ""
 
+#  Korean Text: '풀 웨폰 어썰트 (대 중장)'
 #: Skill[Skill_ST_Tiamat_N_22].SkillName
 msgid "フルウェポンアサルト(対重装)"
 msgstr ""

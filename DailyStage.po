@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -81,28 +81,44 @@ msgstr ""
 msgid "模擬戦闘"
 msgstr "Battle Simulation"
 
+#  Korean Text: '임의의 적 부대와 모의 전투 훈련을 수행합니다.&n전투원 경험치와 스킬 경험치를 얻을 수 있으며, 전투 일지와 훈련 교본을 획득할 수 있습니다.'
 #: DailyStage[DailyTraining_Battle_Training_1].DailySubDesc_1
 msgid "任意の敵部隊と模擬戦闘訓練を遂行します。&n戦闘員の経験値とスキル経験値をを多く獲得でき、完了時、戦闘日誌と、訓練教本を獲得します。"
 msgstr ""
+"Perform mock combat drills with random enemy units&nYou'll get Combat XP and "
+"Skill XP, and you'll get Battle Logs and Training Manuals."
 
 #  Korean Text: '기능 강화'
 #: DailyStage[DailyTraining_Skill_Training_1].Daily_MainName
 msgid "機能強化"
 msgstr "Functional Enhancement"
 
+#  Korean Text: '상급 철충 상대로 모의 훈련을 수행합니다.&n기능 강화용 데이터를 얻기 위한 훈련으로, 오리진 더스트를 얻을 수 있습니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
 #: DailyStage[DailyTraining_Skill_Training_1].DailySubDesc_1
 msgid ""
 "上級鉄虫を相手に模擬訓練を遂行します。&n機能強化用データを獲得するのが目的であり、オリジンダストを獲得できます。&n各報酬は訓練完了後に獲得できます。"
 msgstr ""
+"Perform mock drills against advanced Iron Parasites.&nAs an exercise to "
+"obtain data for enhancing capabilities, you can obtain Origin Dust.&nRewards "
+"can only be obtained by completing the training."
 
+#  Korean Text: '상급 철충 상대로 모의 훈련을 수행합니다.&n기능 강화용 데이터를 얻기 위한 훈련으로, 오리진 더스트와 고급 오리진 더스트를 얻을 수 있습니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
 #: DailyStage[DailyTraining_Skill_Training_1].DailySubDesc_2
 msgid ""
 "上級鉄虫を相手に模擬訓練を遂行します。&n機能強化用データを獲得するのが目的であり、オリジンダストと高級オリジンダストを獲得できます。&n各報酬は訓練完了後"
 "に獲得できます。"
 msgstr ""
+"Perform mock drills against advanced Iron Parasites.&nAs an exercise to "
+"obtain data for enhancing capabilities, you can obtain Origin Dust and "
+"Advanced Origin Dust.&nRewards can only be obtained by completing the "
+"training."
 
+#  Korean Text: '상급 철충 상대로 모의 훈련을 수행합니다.&n기능 강화용 데이터를 얻기 위한 훈련으로, 모든 종류의 오리진 더스트를 얻을 수 있습니다.&n각 보상은 훈련을 완료해야 얻을 수 있습니다.'
 #: DailyStage[DailyTraining_Skill_Training_1].DailySubDesc_4
 msgid ""
 "上級鉄虫を相手に模擬訓練を遂行します。&n機能強化用データを獲得するのが目的であり、全種類のオリジンダストを獲得できます。&n各報酬は訓練完了後に獲得できま"
 "す。"
 msgstr ""
+"Perform mock drills against advanced Iron Parasites.&nAs an exercise to "
+"obtain data for enhancing capabilities, you can obtain all kinds of origin "
+"dust.&nRewards can only be obtained by completing the training."

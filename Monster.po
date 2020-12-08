@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -194,10 +194,12 @@ msgstr ""
 msgid "チラー"
 msgstr "Chiller"
 
+#  Korean Text: '디스트로이어'
 #: Monster[MOB_MP_Destroyer_N].Name
 msgid "デストロイヤー"
 msgstr ""
 
+#  Korean Text: '오랫동안 에너지 섭취를 못해 매우 굶주려 있는 상태로 주위에 있는 모든 철충들을 닥치는 대로 먹어치워 버릴 것입니다. 더 이상 먹어치울 철충이 없을 경우 광폭화에 빠지게 되어 막을 수 없을지도 모릅니다.\n\n\n보고자 ???'
 #: Monster[MOB_MP_DoomEater_N_EW].Mob_Info
 msgid ""
 "エネルギーを吸収できなくなって久しいのでとても飢えており、周りにある鉄虫を手当たり次第で食い散らかすでしょう。食える鉄虫が無くなったら凶暴化して手に負えなく"
@@ -207,6 +209,7 @@ msgid ""
 "報告者：？？？"
 msgstr ""
 
+#  Korean Text: '굶주린 둠 이터'
 #: Monster[MOB_MP_DoomEater_N_EW].Name
 msgid "飢えたドゥームイーター"
 msgstr ""
@@ -254,6 +257,7 @@ msgstr "Drone Custom"
 msgid "チックエンペラー"
 msgstr "Chick Emperor"
 
+#  Korean Text: '칙 커맨더'
 #: Monster[MOB_MP_EmperorChickSpCH_C].Name
 msgid "チックコマンダー"
 msgstr ""
@@ -364,6 +368,7 @@ msgstr ""
 msgid "フォールンカスタム"
 msgstr "Fallen Custom"
 
+#  Korean Text: '유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.\n\n\n- 기간테스 보고함'
 #: Monster[MOB_MP_Frostbite_EW].Mob_Info
 msgid ""
 "有機生命体、気温低下時、作戦能力低下。特殊材質装甲、熱兵器の支援が必要。\n"
@@ -372,6 +377,7 @@ msgid ""
 "報告者：ギガンテス"
 msgstr ""
 
+#  Korean Text: '프로스트바이트'
 #: Monster[MOB_MP_Frostbite_EW].Name
 msgid "フロストバイト"
 msgstr ""
@@ -534,6 +540,7 @@ msgstr ""
 msgid "レギオンマインレイヤー"
 msgstr "Legion Minelayer"
 
+#  Korean Text: '레기온의 개량형인 것 같군요. 적의 움직임을 예측해 공격하니 대응할 장비가 필요해 보이네요. 공격 연계 능력도 높아졌으니 먼저 처리해 변수를 줄이는 게 좋겠습니다.\n\n\n- 아르망 보고함'
 #: Monster[MOB_MP_LegionMk2_N].Mob_Info
 msgid ""
 "改良型レギオンのようですね。敵の動きを予測して攻撃しますのでそれに対応する装備が必要そうです。攻撃連携能力が上がってますので早めに処理して変数を減らしたほう"
@@ -543,6 +550,7 @@ msgid ""
 "報告者：アルマン"
 msgstr ""
 
+#  Korean Text: '레기온 Mk.II'
 #: Monster[MOB_MP_LegionMk2_N].Name
 msgid "レギオンMk.II"
 msgstr ""
@@ -585,6 +593,7 @@ msgstr "Mammoth"
 msgid "改良型マンモス"
 msgstr "Modified Mammoth"
 
+#  Korean Text: '일반 매머드보다 포격의 위력은 줄었지만, 장전 속도가 빨라진 것 같아요. 설원에서는 방호력이 증가하는 특성이 있으니 촬영 자료를 참조해 주세요.\n\n\n- 탈론페더 보고함'
 #: Monster[MOB_MP_MammothW_N].Mob_Info
 msgid ""
 "普通のマンモスより砲撃は弱まってますが、装填速度が速くなっています。雪原では防御力が上がる生態を持ちますので撮影資料をご参照ください。\n"
@@ -593,6 +602,7 @@ msgid ""
 "報告者：タロンフェザー"
 msgstr ""
 
+#  Korean Text: '한랭지형 매머드'
 #: Monster[MOB_MP_MammothW_N].Name
 msgid "寒冷地型マンモス"
 msgstr ""
@@ -639,10 +649,12 @@ msgstr ""
 msgid "ナイトチック"
 msgstr "Night Chick"
 
+#  Korean Text: '기동형을 상대하기 위해 반만년 동안 패스트 드로우를 수련한 나이트 칙이라는 것 같다. 이 녀석들도 영화를 보는 건가…?'
 #: Monster[MOB_MP_NightChick_C].Mob_Info
 msgid "機動型を相手するために五千年間ファストドローを鍛えてきたナイトチックだそうだ。こいつらも映画を観るのか…？"
 msgstr ""
 
+#  Korean Text: '나이트 칙?'
 #: Monster[MOB_MP_NightChick_C].Name
 msgid "ナイトチック？"
 msgstr ""
@@ -652,6 +664,7 @@ msgstr ""
 msgid "ナイトチックType-S"
 msgstr ""
 
+#  Korean Text: '아쿠아 칙?'
 #: Monster[MOB_MP_NightChickAQ_C].Name
 msgid "アクアチック？"
 msgstr ""
@@ -676,6 +689,7 @@ msgstr ""
 msgid "アクアチック"
 msgstr "Aqua Chick"
 
+#  Korean Text: '나이트 칙 캐논?'
 #: Monster[MOB_MP_NightChickC_C].Name
 msgid "ナイトチックキャノン？"
 msgstr ""
@@ -752,6 +766,7 @@ msgid ""
 "報告者：可愛いお姉さんフォーチュンが報告するわ～！"
 msgstr ""
 
+#  Korean Text: '대공 교란용 적인가? 상관없다! 선제 공격을 맞아도 버티고 섬멸하면 그만이다! 돌격!!!\n\n\n- 레드후드의 명령을 브라우니가 기록함'
 #: Monster[MOB_MP_NightChickDEAA_N].Mob_Info
 msgid ""
 "対空攪乱用の敵か？構わん！先手を撃たれても耐えて殲滅すれば良いだけのこと！突貫！！！\n"
@@ -760,6 +775,7 @@ msgid ""
 "報告者：レッドフードの命令をブラウニーが記録"
 msgstr ""
 
+#  Korean Text: '나이트 칙 디텍터 AA'
 #: Monster[MOB_MP_NightChickDEAA_N].Name
 msgid "ナイトチックディレクターAA"
 msgstr ""
@@ -778,6 +794,7 @@ msgid ""
 "報告者：ダイカ"
 msgstr ""
 
+#  Korean Text: '강한 방패 전파를 쏴서 귀찮긴 한데, 냉기에 약한지 기온이 내려가면 이상을 일으켜 오히려 도움이 되는 것 같아.\n\n\n- 엠프리스 보고함'
 #: Monster[MOB_MP_NightChickDEX_N].Mob_Info
 msgid ""
 "強いジャマ-を発生して邪魔なんだけど、冷気に弱いらしく気温が下がったら状態異常を起こすからむしろお得な感じかな？\n"
@@ -796,10 +813,12 @@ msgstr "Improved Chick Detector"
 msgid "強化型ナイトチック"
 msgstr ""
 
+#  Korean Text: '중장형을 상대하기 위해 반만년 동안 수련해 기동 공격기가 된 나이트 칙 런처라는 것 같다. 어떤 바이오로이드가 부러워 할 것 같다…'
 #: Monster[MOB_MP_NightChickM_C].Mob_Info
 msgid "重装型を相手するために五千年間鍛えて機動攻撃機になったナイトチックランチャーだそうだ。とあるバイオロイドが羨ましがりそうだ…"
 msgstr ""
 
+#  Korean Text: '나이트 칙 런처??'
 #: Monster[MOB_MP_NightChickM_C].Name
 msgid "ナイトチックランチャー？？"
 msgstr ""
@@ -847,10 +866,12 @@ msgstr "<No battle reports available>"
 msgid "改良型チッククォーターマスター"
 msgstr ""
 
+#  Korean Text: '진정한 보호기가 되기 위해 반만년 동안 수련하여 중장형으로 체급을 올린 나이트 칙 실더라는 것 같다. 누구의 장난인지는 몰라도 찾으면 혼내줘야겠다…'
 #: Monster[MOB_MP_NightChickS_C].Mob_Info
 msgid "真の守護神になるべく五千年間鍛えてヘビークラスになったナイトチックシールダーだそうだ。誰の悪戯か知らんが見つけたら大目玉食わせたやる。"
 msgstr ""
 
+#  Korean Text: '나이트 칙 실더???'
 #: Monster[MOB_MP_NightChickS_C].Name
 msgid "ナイトチックシールダー？？？"
 msgstr ""
@@ -920,6 +941,7 @@ msgid ""
 "報告者：ヴァルキリー"
 msgstr "<No battle reports available>"
 
+#  Korean Text: '솔져 칙은 칙 커맨더의 명령에 따라 움직이며 자신의 몸체를 던져 칙 커맨더를 보호하기도 합니다. 그리고 칙 커맨더가 있는 한 쓰러지지 않고 근성으로 일어나 다시 싸웁니다.\n\n\n보고자 ???'
 #: Monster[MOB_MP_NightChickSpCH_C].Mob_Info
 msgid ""
 "ソルジャーチックはチックコマンダーの命令通りに動き、自分の身を擲ってチックコマンダーを守ったりします。そしてチックコマンダーが倒れない限り根性で立ち上がりま"
@@ -929,6 +951,7 @@ msgid ""
 "報告者：？？？"
 msgstr ""
 
+#  Korean Text: '솔져 칙'
 #: Monster[MOB_MP_NightChickSpCH_C].Name
 msgid "ソルジャーチック？"
 msgstr ""
@@ -938,6 +961,7 @@ msgstr ""
 msgid "ベテランチックスナイパー"
 msgstr "Veteran Chick Sniper"
 
+#  Korean Text: '보기보다 잽싼 녀석이야! 발키리 언니처럼 가까운 거리에선 사격이 더 정밀해지니 주의해야 해. 설원에선 찾기 힘드니 베라 언니한테 도와달라고 하는 게 좋을 거야.\n\n\n- 알비스 보고함'
 #: Monster[MOB_MP_NightChickSPW_EW].Mob_Info
 msgid ""
 "見方に寄らず素早い奴だよ！ヴァルキリーお姉ちゃんみたいに近づくと射撃が精密になるから気を付けないといけないの！雪原では上手く見つからないからベラお姉ちゃんに"
@@ -947,10 +971,12 @@ msgid ""
 "報告者：アルヴィス"
 msgstr ""
 
+#  Korean Text: '한랭지형 칙 스나이퍼'
 #: Monster[MOB_MP_NightChickSPW_EW].Name
 msgid "寒冷地型チックスナイパー"
 msgstr ""
 
+#  Korean Text: '썬더 칙?'
 #: Monster[MOB_MP_NightChickTD_C].Name
 msgid "サンダーチック？"
 msgstr ""
@@ -1437,6 +1463,7 @@ msgstr "A model of Night Chick, used for practice."
 msgid "標的ダミー"
 msgstr "Target Dummy"
 
+#  Korean Text: '타이런트'
 #: Monster[MOB_MP_Tyrant_N].Name
 msgid "タイラント"
 msgstr "Tyrant"

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -57,6 +57,7 @@ msgstr ""
 msgid "前列一般"
 msgstr ""
 
+#  Korean Text: '후열후방'
 #: Grid[Grid_100ee100ee100eeFX].GridName
 msgid "後列後方"
 msgstr ""
@@ -71,6 +72,7 @@ msgstr ""
 msgid "扇形隣接"
 msgstr ""
 
+#  Korean Text: '중행전열'
 #: Grid[Grid_100ee100100100100ee].GridName
 msgid "中行前列"
 msgstr ""
@@ -80,6 +82,7 @@ msgstr ""
 msgid "後列除外"
 msgstr ""
 
+#  Korean Text: '중열전열'
 #: Grid[Grid_50100e50100e50100e].GridName
 msgid "中列前例"
 msgstr ""
@@ -129,6 +132,7 @@ msgstr ""
 msgid "全体前除外"
 msgstr ""
 
+#  Korean Text: '전체앞제외고정'
 #: Grid[Grid_100100100100ee100100100F].GridName
 msgid "全体前以外固定"
 msgstr ""
@@ -238,10 +242,12 @@ msgstr ""
 msgid "中列後方"
 msgstr ""
 
+#  Korean Text: '중열후방F'
 #: Grid[Grid_e100e100100ee100eF].GridName
 msgid "中列後方F"
 msgstr ""
 
+#  Korean Text: '십자역방향'
 #: Grid[Grid_e100e10050100e100e].GridName
 msgid "十字逆方向"
 msgstr ""
@@ -251,6 +257,7 @@ msgstr ""
 msgid "十字一般"
 msgstr ""
 
+#  Korean Text: '십자전방'
 #: Grid[Grid_e100e100100100e100eF].GridName
 msgid "十字前方"
 msgstr ""
@@ -260,6 +267,7 @@ msgstr ""
 msgid "十字固定"
 msgstr ""
 
+#  Korean Text: '하행중열'
 #: Grid[Grid_e100ee100e100100100].GridName
 msgid "下行中列"
 msgstr ""
@@ -269,6 +277,7 @@ msgstr ""
 msgid "中列一般"
 msgstr ""
 
+#  Korean Text: '중열우측'
 #: Grid[Grid_e100ee100ee100eT].GridName
 msgid "中列右側"
 msgstr ""
@@ -283,6 +292,7 @@ msgstr ""
 msgid "中列除外"
 msgstr ""
 
+#  Korean Text: '중열전방'
 #: Grid[Grid_e100ee100100e100e].GridName
 msgid "中列前方"
 msgstr ""
@@ -357,10 +367,12 @@ msgstr ""
 msgid "後列前除外"
 msgstr ""
 
+#  Korean Text: '중행후열'
 #: Grid[Grid_ee100100100100ee100].GridName
 msgid "中行後列"
 msgstr ""
 
+#  Korean Text: '중행후열F'
 #: Grid[Grid_ee100100100100ee100F].GridName
 msgid "中行後列F"
 msgstr ""
@@ -410,6 +422,7 @@ msgstr ""
 msgid "中行中爆発"
 msgstr ""
 
+#  Korean Text: '중행중앙'
 #: Grid[Grid_eee100100100eeeC].GridName
 msgid "中行中央"
 msgstr ""
@@ -454,10 +467,12 @@ msgstr ""
 msgid "1マス後方一般"
 msgstr ""
 
+#  Korean Text: '자신뒤일반'
 #: Grid[Grid_eeee100100eeeC].GridName
 msgid "自分後方一般"
 msgstr ""
 
+#  Korean Text: '전열전방'
 #: Grid[Grid_eeeee100ee100].GridName
 msgid "前列前方"
 msgstr ""

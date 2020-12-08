@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -432,130 +432,162 @@ msgstr ""
 msgid "ハロウィンの準備Ⅵ"
 msgstr ""
 
+#  Korean Text: '연말을 맞은 사령관은 일도 걱정도 태산입니다.'
 #: MapStage[Ch01Ev5Stage01].StageDesc
 msgid "年末を迎える司令官は悩みがちです。"
 msgstr ""
 
+#  Korean Text: '세인트 오르카?'
 #: MapStage[Ch01Ev5Stage01].StageName
 msgid "セントオルカ？"
 msgstr ""
 
+#  Korean Text: '레오나는 일 년간 고생한 주인공을 위해 선물을 구하기로 결심하고, 발할라 자매단을 투입시킨다.'
 #: MapStage[Ch01Ev5Stage01B].StageDesc
 msgid "レオナは、1年間頑張った司令官の為にプレゼントを用意することにし、ヴァルハラの姉妹たちを送り出す。"
 msgstr ""
 
+#  Korean Text: '특별한 사람이 되어줘'
 #: MapStage[Ch01Ev5Stage01B].StageName
 msgid "特別な人になって欲しい"
 msgstr ""
 
+#  Korean Text: '선물로 쓸만한 물건들을 찾아보자.'
 #: MapStage[Ch01Ev5Stage01Ex].StageDesc
 msgid "プレゼントに使えるものを探そう。"
 msgstr ""
 
+#  Korean Text: '선물 찾기 I'
 #: MapStage[Ch01Ev5Stage01Ex].StageName
 msgid "プレゼント探索Ⅰ"
 msgstr ""
 
+#  Korean Text: '오르카의 정보통을 담당했던 '선생님'의 정체는...?'
 #: MapStage[Ch01Ev5Stage02].StageDesc
 msgid "オルカの情報屋を自称している「先生」の正体は…？"
 msgstr ""
 
+#  Korean Text: '시크릿 네트워크'
 #: MapStage[Ch01Ev5Stage02].StageName
 msgid "シークレット・ネットワーク"
 msgstr ""
 
+#  Korean Text: '레오나는 발할라 부대원들에게 특별한 지시를 내린다.'
 #: MapStage[Ch01Ev5Stage02B].StageDesc
 msgid "レオナはヴァルハラの姉妹たちに特別な指令を出す。"
 msgstr ""
 
+#  Korean Text: '후방 지원은 지긋지긋해'
 #: MapStage[Ch01Ev5Stage02B].StageName
 msgid "後方支援はもううんざりよ"
 msgstr ""
 
+#  Korean Text: '선물 찾기 II'
 #: MapStage[Ch01Ev5Stage02Ex].StageName
 msgid "プレゼント探索Ⅱ"
 msgstr ""
 
+#  Korean Text: '참된 스승은 속내를 드러내지 않는 법이죠.'
 #: MapStage[Ch01Ev5Stage03].StageDesc
 msgid "真の教育者たる者、簡単に本音は見せないものです。"
 msgstr ""
 
+#  Korean Text: '이 순록에는 슬픈 전설이 있어'
 #: MapStage[Ch01Ev5Stage03].StageName
 msgid "このトナカイには悲しい伝説がある"
 msgstr ""
 
+#  Korean Text: '주인공의 뒤를 밟으며 도시로 향하는 발할라의 앞에 나타난것은…'
 #: MapStage[Ch01Ev5Stage03B].StageDesc
 msgid "司令官を追って都市へ入ったヴァルハラの前に現れたのは…"
 msgstr ""
 
+#  Korean Text: '사막과 설원'
 #: MapStage[Ch01Ev5Stage03B].StageName
 msgid "砂漠と雪原"
 msgstr ""
 
+#  Korean Text: '선물 찾기 III'
 #: MapStage[Ch01Ev5Stage03Ex].StageName
 msgid "プレゼント探索Ⅲ"
 msgstr ""
 
+#  Korean Text: '하지만 사령관에게는 따뜻하겠지…'
 #: MapStage[Ch01Ev5Stage04].StageDesc
 msgid "しかし司令官には温かいだろう…"
 msgstr ""
 
+#  Korean Text: '금주령'
 #: MapStage[Ch01Ev5Stage04].StageName
 msgid "禁酒令"
 msgstr ""
 
+#  Korean Text: '발할라 인원들이 폐허 도시를 발견한다.'
 #: MapStage[Ch01Ev5Stage04B].StageDesc
 msgid "ヴァルハラの姉妹たちは廃墟都市を発見する。"
 msgstr ""
 
+#  Korean Text: '설원의 끝'
 #: MapStage[Ch01Ev5Stage04B].StageName
 msgid "雪原の果て"
 msgstr ""
 
+#  Korean Text: '선물 찾기 IV'
 #: MapStage[Ch01Ev5Stage04Ex].StageName
 msgid "プレゼント探索Ⅳ"
 msgstr ""
 
+#  Korean Text: '주인공은 오르카를 빠져나가는 호드를 보고 몰래 뒤를 밟는다.'
 #: MapStage[Ch01Ev5Stage05].StageDesc
 msgid "司令官はオルカを出るホードをこっそり追う。"
 msgstr ""
 
+#  Korean Text: '메탈 기어 리퀴드'
 #: MapStage[Ch01Ev5Stage05].StageName
 msgid "メタルギアリキュール"
 msgstr ""
 
+#  Korean Text: '선물 찾기 V'
 #: MapStage[Ch01Ev5Stage05Ex].StageName
 msgid "プレゼント探索Ⅴ"
 msgstr ""
 
+#  Korean Text: '닥터의 부탁을 받고 오르카를 빠져나온 호드. '산타클로스'의 부품을 탈취해간 철충들을 뒤쫓는다.'
 #: MapStage[Ch01Ev5Stage06].StageDesc
 msgid "ドクターの頼みでオルカから出たホード。「サンタクロース」の部品を奪った鉄虫を追う。"
 msgstr ""
 
+#  Korean Text: '에너미 엣 더 엑시트'
 #: MapStage[Ch01Ev5Stage06].StageName
 msgid "エネミー・アット・ザ・エグジット"
 msgstr ""
 
+#  Korean Text: '선물 찾기 VI'
 #: MapStage[Ch01Ev5Stage06Ex].StageName
 msgid "プレゼント探索Ⅵ"
 msgstr ""
 
+#  Korean Text: '파견나와있던 발할라 대원에게 괜찮은 것을 발견했다는 연락을 받은 호드는 쇼핑몰로 향한다.'
 #: MapStage[Ch01Ev5Stage07].StageDesc
 msgid "派遣中のヴァルハラの隊員から良い物を見つけた聞き、ホードはショッピングモールへ向かう。"
 msgstr ""
 
+#  Korean Text: '조우'
 #: MapStage[Ch01Ev5Stage07].StageName
 msgid "遭遇"
 msgstr ""
 
+#  Korean Text: '선물 찾기 VII'
 #: MapStage[Ch01Ev5Stage07Ex].StageName
 msgid "プレゼント探索Ⅶ"
 msgstr ""
 
+#  Korean Text: '돌아온 주인공에게 크리스마스 파티를 준비 제안을 받는다.'
 #: MapStage[Ch01Ev5Stage08].StageDesc
 msgid "帰ってきた司令官からクリスマスパーティーの準備を提案される。"
 msgstr ""
 
+#  Korean Text: '의 좋은 남매'
 #: MapStage[Ch01Ev5Stage08].StageName
 msgid "仲良し兄妹"
 msgstr ""
@@ -985,126 +1017,157 @@ msgstr ""
 msgid "オルカチャレンジⅡ"
 msgstr ""
 
+#  Korean Text: '사령관은 오늘도 열심입니다. 좋은 평가를 받을 수 있겠죠?'
 #: MapStage[Ch02Ev5Stage01].StageDesc
 msgid "司令官は今日も頑張っています。もっといい評価が得られるでしょうか。"
 msgstr ""
 
+#  Korean Text: '아시는지 모르겠네요. 하늘에선 때때로 쓰레기가 내리곤 합니다.'
 #: MapStage[Ch02Ev5Stage01B].StageDesc
 msgid "ご存知でしたか。空からゴミが降ってくる時もあるということを…"
 msgstr ""
 
+#  Korean Text: '제설은 즐거워'
 #: MapStage[Ch02Ev5Stage01B].StageName
 msgid "除雪って楽しいな"
 msgstr ""
 
+#  Korean Text: '<??의 메시지> 해피 칙 이어! 친숙한 녀석들과의 전투 시뮬레이션이야! 반만년 동안 수련한 그들을 과연 당해낼 수 있을까?!'
 #: MapStage[Ch02Ev5Stage01C].StageDesc
 msgid "<？？のメッセージ>ハッピーチックイヤー！馴染みある奴らとの戦闘シミュレーションだよ！五千年間鍛えてきた彼らに敵うのは誰だ！？"
 msgstr ""
 
+#  Korean Text: '오르카 챌린지 III'
 #: MapStage[Ch02Ev5Stage01C].StageName
 msgid "オルカチャレンジIII"
 msgstr ""
 
+#  Korean Text: '두 지휘관은 비슷한 성격이지만 어느새 이렇게나 차이가 벌어지고 말았습니다. 어디서부터 잘못된 걸까요…'
 #: MapStage[Ch02Ev5Stage01S].StageDesc
 msgid "指揮官二人は似た者同士ですが、いつの間にかここまで差が広がりました。どこから間違ったのでしょう…"
 msgstr ""
 
+#  Korean Text: '무대의 뒷편에서'
 #: MapStage[Ch02Ev5Stage01S].StageName
 msgid "舞台裏で"
 msgstr ""
 
+#  Korean Text: '유행이 지난 지 100년도 더 됐지만 그녀들은 깨닫지 못하고 있습니다.'
 #: MapStage[Ch02Ev5Stage02].StageDesc
 msgid "もう100年前に過ぎた流行ですが、彼女たちは気づいていません。"
 msgstr ""
 
+#  Korean Text: '새침데기 주의보'
 #: MapStage[Ch02Ev5Stage02].StageName
 msgid "ツンデレ注意報"
 msgstr ""
 
+#  Korean Text: '검증되지 않은 뜬소문입니다만, 자매들에겐 솔깃할 겁니다.'
 #: MapStage[Ch02Ev5Stage02B].StageDesc
 msgid "まだ検証されてない事ですが、信じたい姉妹にとってはそれが真実でしょう。"
 msgstr ""
 
+#  Korean Text: '맛있게 먹으면 0칼로리'
 #: MapStage[Ch02Ev5Stage02B].StageName
 msgid "美味しいから大丈夫！"
 msgstr ""
 
+#  Korean Text: '정찰대의 신종 철충 보고를 분석해 만든 시뮬레이션입니다. 실제와는 다를 수도 있겠지만, 대비는 해봐야겠지요?'
 #: MapStage[Ch02Ev5Stage02C].StageDesc
 msgid "偵察からの鉄虫新種報告を分析して作ったシミュレーションです。実際とは異なるかも知れませんが、備えあれば患いなしです。"
 msgstr ""
 
+#  Korean Text: '오르카 챌린지 IV'
 #: MapStage[Ch02Ev5Stage02C].StageName
 msgid "オルカチャレンジIV"
 msgstr ""
 
+#  Korean Text: '숙취에는 역시 뜨끈한 국밥 한 그릇이 최고죠. 먹는 동안 그동안 못 했던 이야기도 나눠 볼까요?'
 #: MapStage[Ch02Ev5Stage02S].StageDesc
 msgid "二日酔いにはやっぱりあったかいものが一番ですよね。食べる間、言えなかったことでも話し合いましょうか。"
 msgstr ""
 
+#  Korean Text: '못 다한 이야기'
 #: MapStage[Ch02Ev5Stage02S].StageName
 msgid "言えなかった物語"
 msgstr ""
 
+#  Korean Text: '물의 정령은 치유 능력을 가지고 있는 경우가 많다고 합니다. 오르카에선 어떨까요?'
 #: MapStage[Ch02Ev5Stage03].StageDesc
 msgid "水の精霊は治癒魔法が使える場合が多いようです。オルカのはどうでしょうか。"
 msgstr ""
 
+#  Korean Text: '아픈 것아, 날아가라'
 #: MapStage[Ch02Ev5Stage03].StageName
 msgid "痛いの痛いの飛んでけ～"
 msgstr ""
 
+#  Korean Text: '오르카의 미스터리 중 하나의 진상이 밝혀졌습니다. 의외라면 의외네요.'
 #: MapStage[Ch02Ev5Stage03B].StageDesc
 msgid "オルカ七不思議の一つが明かされましたが、意外といえば意外でしたね。"
 msgstr ""
 
+#  Korean Text: '오르카의 미스터리'
 #: MapStage[Ch02Ev5Stage03B].StageName
 msgid "オルカ七不思議"
 msgstr ""
 
+#  Korean Text: '혼수상태로 실려가는 것보단 제발로 가는게 낫겠죠.'
 #: MapStage[Ch02Ev5Stage04].StageDesc
 msgid "昏睡状態で運ばれるより、自分の足で歩くほうが良いでしょう。"
 msgstr ""
 
+#  Korean Text: '뜻밖의 여정'
 #: MapStage[Ch02Ev5Stage04].StageName
 msgid "予想外の旅"
 msgstr ""
 
+#  Korean Text: '지옥의 주방장은 이런 상황에서도 여유롭습니다.'
 #: MapStage[Ch02Ev5Stage04B].StageDesc
 msgid "地獄の厨房長はこんな状況下でもまだ余裕あり気な態度です。"
 msgstr ""
 
+#  Korean Text: '지옥의 주방'
 #: MapStage[Ch02Ev5Stage04B].StageName
 msgid "地獄絵図の厨房"
 msgstr ""
 
+#  Korean Text: '퀵 카멜이 친구를 잘 붙들고 있어야 할 텐데요…'
 #: MapStage[Ch02Ev5Stage05].StageDesc
 msgid "クイックキャメルが仲間を制御できればいいのですが…"
 msgstr ""
 
+#  Korean Text: '좋은 밤 되세요'
 #: MapStage[Ch02Ev5Stage05].StageName
 msgid "グッドナイト"
 msgstr ""
 
+#  Korean Text: '사실 셋입니다. ...아니, 넷일지도?'
 #: MapStage[Ch02Ev5Stage06].StageDesc
 msgid "本当は3人でした。…いいえ、4人かも？"
 msgstr ""
 
+#  Korean Text: '둘만의 로맨틱'
 #: MapStage[Ch02Ev5Stage06].StageName
 msgid "二人きりのロマンチック"
 msgstr ""
 
+#  Korean Text: '추억을 남기는데엔 사진만한 것이 없습니다. 거기에 소중한 사람들과 함께라면 더할나위 없죠.'
 #: MapStage[Ch02Ev5Stage07].StageDesc
 msgid "思い出を残すときは写真が一番でしょう。特に大事な人たちと一緒だともっと嬉しいです。"
 msgstr ""
 
+#  Korean Text: '우정과 추억'
 #: MapStage[Ch02Ev5Stage07].StageName
 msgid "友情と思い出"
 msgstr ""
 
+#  Korean Text: '올 한 해, 고생 많으셨습니다. 내년에도 잘 부탁드려요.'
 #: MapStage[Ch02Ev5Stage08].StageDesc
 msgid "今年一年、お疲れさまでした。来年もよろしくお願いします。"
 msgstr ""
 
+#  Korean Text: '세인트 오르카'
 #: MapStage[Ch02Ev5Stage08].StageName
 msgid "セントオルカ"
 msgstr ""
@@ -2109,26 +2172,32 @@ msgstr "Efreeti's Tale I"
 msgid "イフリート物語II"
 msgstr "Efreeti's Tale II"
 
+#  Korean Text: '부끄러움은 사령관의 몫.'
 #: MapStage[ChCS-05Stage01].StageDesc
 msgid "恥ずかしさは司令官が背負うもの。"
 msgstr ""
 
+#  Korean Text: '마왕님의 꿈'
 #: MapStage[ChCS-05Stage01].StageName
 msgid "魔王様の夢"
 msgstr ""
 
+#  Korean Text: '사령관은 대원들이 변화하는 모습에 뿌듯함을 느끼고 있습니다.'
 #: MapStage[ChCS-06Stage01].StageDesc
 msgid "司令官は隊員たちの成長っぷりに遣り甲斐を感じています。"
 msgstr ""
 
+#  Korean Text: '달의 마력이 담긴…'
 #: MapStage[ChCS-06Stage01].StageName
 msgid "月の魔力の秘められし…"
 msgstr ""
 
+#  Korean Text: '늑대와 우유'
 #: MapStage[ChCS-07Stage01].StageName
 msgid "狼とミルク"
 msgstr ""
 
+#  Korean Text: '기억과 용서'
 #: MapStage[ChCS-08Stage01].StageName
 msgid "記憶と贖罪"
 msgstr ""
@@ -2141,6 +2210,7 @@ msgstr "Eliminate all enemies"
 msgid "특정 아군 스쿼드의 전멸"
 msgstr "Elimination of a specific squad"
 
+#  Korean Text: '하치코 도움 대작전'
 #: MapStage[ChCS-09Stage01].StageDesc
 msgid "ハチコ手伝い大作戦"
 msgstr ""

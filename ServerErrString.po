@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2295,6 +2295,7 @@ msgstr ""
 msgid "유효하지 않은 package name입니다."
 msgstr ""
 
+#  Korean Text: '유효하지 않은 package name입니다.'
 #: ServerErrString[9100].Msg
 msgid "有効でないパッケージㅡ名です。"
 msgstr ""
@@ -2303,6 +2304,7 @@ msgstr ""
 msgid "검색조건 규칙을 확인해 주시기 바랍니다."
 msgstr ""
 
+#  Korean Text: '검색조건 규칙을 확인해 주시기 바랍니다.'
 #: ServerErrString[9101].Msg
 msgid "検索条件の設定を確認してください。"
 msgstr ""
@@ -2311,6 +2313,7 @@ msgstr ""
 msgid "구매내역이 존재하지 않거나, 구매완료 상태가 아닙니다."
 msgstr ""
 
+#  Korean Text: '구매내역이 존재하지 않거나, 구매완료 상태가 아닙니다.'
 #: ServerErrString[9200].Msg
 msgid "購買内訳が存在しないか、購買完了状態ではありません。"
 msgstr ""
@@ -2319,6 +2322,7 @@ msgstr ""
 msgid "소비상태 변경이 불가하거나, 이미 변경완료 되었습니다."
 msgstr ""
 
+#  Korean Text: '소비상태 변경이 불가하거나, 이미 변경완료 되었습니다.'
 #: ServerErrString[9201].Msg
 msgid "消費状態変更が不可であるか、既に変更が完了されています。"
 msgstr ""
@@ -2336,6 +2340,7 @@ msgstr ""
 msgid "정의되지 않은 오류가 발생하였습니다."
 msgstr ""
 
+#  Korean Text: '정의되지 않은 오류가 발생하였습니다.'
 #: ServerErrString[9999].Msg
 msgid "定義されていないエラーが発生しました。"
 msgstr ""

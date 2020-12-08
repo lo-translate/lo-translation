@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -32,6 +32,7 @@ msgstr ""
 msgid "セラピアス･アリス"
 msgstr "Alice"
 
+#  Korean Text: '아이언 애니'
 #: PC[Char_3P_Annie_N].Name
 msgid "アイアンアニー"
 msgstr "Iron Annie"
@@ -126,26 +127,32 @@ msgstr ""
 msgid "ラビアタプロトタイプ"
 msgstr "Labiata"
 
+#  Korean Text: '네 주인님. 앞으로는 제가 모실게요.'
 #: PC[Char_3P_Maria_N].DialogJoin
 msgid "はい、ご主人様。これからは私がお世話いたします。"
 msgstr ""
 
+#  Korean Text: '보속의 마리아'
 #: PC[Char_3P_Maria_N].Name
 msgid "補贖のマリア"
 msgstr "Maria of Redemption"
 
+#  Korean Text: '당신이 제 주인님? 흐음… 재밌을 것 같아♪'
 #: PC[Char_3P_Poi_N].DialogJoin
 msgid "あなたがポイのご主人様？ふ～ん…面白そう♪"
 msgstr ""
 
+#  Korean Text: '포이'
 #: PC[Char_3P_Poi_N].Name
 msgid "ポイ"
 msgstr ""
 
+#  Korean Text: '불초 금란, 주인님께 인사올립니다.'
 #: PC[Char_3P_Ran_N].DialogJoin
 msgid "不肖、金蘭、主様にご挨拶申し上げます。"
 msgstr ""
 
+#  Korean Text: '금란 S7'
 #: PC[Char_3P_Ran_N].Name
 msgid "金蘭S7"
 msgstr "KeumRan S7"
@@ -170,6 +177,7 @@ msgstr ""
 msgid "シザーズリーゼ"
 msgstr "Scissors Lise"
 
+#  Korean Text: '스노우 페더'
 #: PC[Char_3P_SnowFeather_N].Name
 msgid "スノーフェザー"
 msgstr "Snow Feather"
@@ -334,6 +342,7 @@ msgstr "S25B Spartan Boomer"
 msgid "S25スパルタンキャプテン"
 msgstr "S25 Spartan Captain"
 
+#  Korean Text: '타이런트'
 #: PC[Char_AGS_Tyrant_N].Name
 msgid "タイラント"
 msgstr "Tyrant"
@@ -518,10 +527,12 @@ msgstr ""
 msgid "T-9グレムリン"
 msgstr "T-9 Gremlin"
 
+#  Korean Text: 'P-22 하르페이아야. 제공권 장악은 맡겨줘.'
 #: PC[Char_BR_Harpy_N].DialogJoin
 msgid "P-22ハルピュイアよ。制空権の掌握なら任せて。"
 msgstr ""
 
+#  Korean Text: 'P-22 하르페이아'
 #: PC[Char_BR_Harpy_N].Name
 msgid "P-22ハルピュイア"
 msgstr "P-22 Harpyia"
@@ -737,18 +748,22 @@ msgstr ""
 msgid "AO-2レイヴン"
 msgstr "AO-2 Raven"
 
+#  Korean Text: '제 이름은 C-77 레드후드. 모시게되어 영광입니다 사령관님.'
 #: PC[Char_BR_RedHood_N].DialogJoin
 msgid "自分の名前はC-77レッドフード。お仕えできて光栄です、司令官閣下！"
 msgstr ""
 
+#  Korean Text: 'C-77 레드후드'
 #: PC[Char_BR_RedHood_N].Name
 msgid "C-77レッドフード"
 msgstr "C-77 Red Hood"
 
+#  Korean Text: '신은 최강의 포병대를 가진 쪽에 서는 법이다.'
 #: PC[Char_BR_RoyalArsenal_N].DialogJoin
 msgid "神は最強の砲兵隊を持つ側に味方をするのだ。"
 msgstr ""
 
+#  Korean Text: '로열 아스널'
 #: PC[Char_BR_RoyalArsenal_N].Name
 msgid "ロイヤルアスナル"
 msgstr "Royal Arsenal"
@@ -823,10 +838,12 @@ msgstr ""
 msgid "P-18シルフィード"
 msgstr "P-18 Sylphid"
 
+#  Korean Text: '호드의 눈, 탈론페더랍니다. 페더라고 불러주세요.'
 #: PC[Char_BR_TalonFeather_N].DialogJoin
 msgid "ホードの目、タロンフェザーです。気軽にフェザーと呼んでください。"
 msgstr ""
 
+#  Korean Text: 'E-16 탈론페더'
 #: PC[Char_BR_TalonFeather_N].Name
 msgid "E-16タロンフェザー"
 msgstr "E-16 Talon Feather"
@@ -1216,6 +1233,7 @@ msgstr ""
 msgid "オードリードリームウィーバー"
 msgstr "Audrey"
 
+#  Korean Text: '바바리아나'
 #: PC[Char_PECS_Babariana_N].Name
 msgid "ババリアナ"
 msgstr "Babariana"
@@ -1340,6 +1358,7 @@ msgstr ""
 msgid "フォーチュン"
 msgstr "Fortune"
 
+#  Korean Text: '생명의 세레스티아'
 #: PC[Char_PECS_HighElven_N].Name
 msgid "生命のセレスティア"
 msgstr ""
@@ -1394,10 +1413,12 @@ msgstr ""
 msgid "フロストサーペント"
 msgstr "Frost Serpent"
 
+#  Korean Text: '반가워, 대장! 앞길을 막는 건 내가 모조리 날려버릴게!'
 #: PC[Char_PECS_Spartoia_N].DialogJoin
 msgid "ヤッホー、隊長！俺の邪魔をするやつは全部ぶっ飛ばしちゃうから！"
 msgstr ""
 
+#  Korean Text: '스파토이아'
 #: PC[Char_PECS_Spartoia_N].Name
 msgid "スパトイア"
 msgstr "Spartoia"

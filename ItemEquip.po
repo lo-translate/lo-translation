@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -42,6 +42,7 @@ msgstr "CPU Enhancement Circuit SP"
 msgid "演算強化回路EX"
 msgstr "CPU Enhancement Circuit EX"
 
+#  Korean Text: '연산 성능을 강화해 적중을 높입니다. 오버 클럭으로 방어력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_AccTypeB_T1].ItemDesc_Detail
 msgid "演算機能を強化し命中を上げます。オーバークロックでHPが減少します。"
 msgstr ""
@@ -110,10 +111,12 @@ msgstr "Output Enhancement Circuit SP"
 msgid "出力強化回路EX"
 msgstr "Output Enhancement Circuit EX"
 
+#  Korean Text: '공격력이 증가하지만, 치명타는 감소하는 회로입니다.'
 #: ItemEquip[Equip_Chip_AtkControl_T1].ItemDesc_Detail
 msgid "攻撃力が増加しますが、クリティカルは下がる回路です。"
 msgstr ""
 
+#  Korean Text: '출력 제어 회로 EX'
 #: ItemEquip[Equip_Chip_AtkControl_T4].ItemName
 msgid "出力制御回路EX"
 msgstr ""
@@ -180,16 +183,19 @@ msgstr "Analysis Circuit SP"
 msgid "分析回路EX"
 msgstr "Analysis Circuit EX"
 
+#  Korean Text: '치명타+{0} / 적중+{1}'
 #: ItemEquip[Equip_Chip_CriAccEx_T4].ItemDesc
 msgid "クリティカル+{0}/命中+{1}"
 msgstr ""
 
+#  Korean Text: '신소재로 강화된 분석 회로입니다.\n치명타와 적중이 증가합니다.'
 #: ItemEquip[Equip_Chip_CriAccEx_T4].ItemDesc_Detail
 msgid ""
 "新素材で強化された分析回路です。\n"
 "クリティカルと命中が増加します。"
 msgstr ""
 
+#  Korean Text: '개량형 분석 회로 EX'
 #: ItemEquip[Equip_Chip_CriAccEx_T4].ItemName
 msgid "改良型分析回路EX"
 msgstr ""
@@ -271,6 +277,7 @@ msgstr "Anti-Impact Enhancement Circuit SP"
 msgid "耐衝撃回路EX"
 msgstr "Anti-Impact Enhancement Circuit EX"
 
+#  Korean Text: '내 충격 성능을 강화해 방어를 높입니다. 오버 클럭으로 공격력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_DefTypeB_T1].ItemDesc_Detail
 msgid "耐衝撃性能を強化し防御を上げます。オーバークロックでHPが減少します。"
 msgstr ""
@@ -370,6 +377,7 @@ msgstr "Reaction Enhancement Circuit SP"
 msgid "反応強化回路EX"
 msgstr "Reaction Enhancement Circuit EX"
 
+#  Korean Text: '반응 속도를 향상시켜 회피를 높입니다. 오버 클럭으로 공격력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_EvTypeB_T1].ItemDesc_Detail
 msgid "反応速度を向上させ回避を上げます。オーバークロックでHPが減少します。"
 msgstr ""
@@ -399,6 +407,7 @@ msgstr "Durability Enhancement Circuit SP"
 msgid "回路耐久強化EX"
 msgstr "Durability Enhancement Circuit EX"
 
+#  Korean Text: '회로 내구도를 높여 HP가 증가합니다. 오버 클럭으로 공격력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_HpTypeB_T1].ItemDesc_Detail
 msgid "回路耐久度を高めてHPが増加します。オーバークロックで攻撃力が減少します。"
 msgstr ""
@@ -543,6 +552,7 @@ msgstr "Optimization Circuit SP"
 msgid "回路最適化EX"
 msgstr "Optimization Circuit EX"
 
+#  Korean Text: '각 처리 성능을 향상시켜 행동력이 증가합니다. 오버 클럭으로 회피가 감소 합니다.'
 #: ItemEquip[Equip_Chip_SpdTypeB_T1].ItemDesc_Detail
 msgid "各処理性能を向上させ行動力が増加します。オーバークロックでHPが減少します。"
 msgstr ""
@@ -1124,6 +1134,7 @@ msgstr ""
 msgid "運命の水晶玉EX"
 msgstr ""
 
+#  Korean Text: '그랑크뤼 초콜릿'
 #: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemName
 msgid "グランクリュチョコレート"
 msgstr ""
@@ -1278,10 +1289,12 @@ msgstr "MG80 modification kit for T-10 Nymph."
 msgid "MG80用改造キット"
 msgstr "MG80 Modification Kit"
 
+#  Korean Text: 'HP+{0} / 방어력+{1}'
 #: ItemEquip[Equip_Sub_MiniHachiko_T4].ItemDesc
 msgid "HP+{0}/防御力+{1}"
 msgstr ""
 
+#  Korean Text: '미니 하치코가 들어 있는 상자입니다. 전투에서 쉽게 쓰러지지 않도록 도와줍니다.\n\n- 녹색 빛을 띠는 미트 파이를 끊임없이 만듭니다.'
 #: ItemEquip[Equip_Sub_MiniHachiko_T4].ItemDesc_Detail
 msgid ""
 "ミニハチコの入った箱です。戦闘で倒れないように手伝ってくれます。\n"
@@ -1289,14 +1302,17 @@ msgid ""
 "-緑色のミントパイを無限に作ります。"
 msgstr ""
 
+#  Korean Text: '미니 하치코'
 #: ItemEquip[Equip_Sub_MiniHachiko_T4].ItemName
 msgid "ミニハチコ"
 msgstr ""
 
+#  Korean Text: '공격력+{0} / 적중+{1}'
 #: ItemEquip[Equip_Sub_MiniLilith_T4].ItemDesc
 msgid "攻撃力+{0}/命中+{1}"
 msgstr ""
 
+#  Korean Text: '미니 블랙 리리스가 들어 있는 상자입니다. 공격을 보조하며, 적의 공격 위력을 경감시키는 역장을 생성해줍니다.\n\n- 가끔 묘한 시선이 느껴집니다…'
 #: ItemEquip[Equip_Sub_MiniLilith_T4].ItemDesc_Detail
 msgid ""
 "ミニブラックリリスの入った箱です。攻撃を手伝うだけでなく、敵からのダメージを軽減させるバリアを張ります。\n"
@@ -1304,14 +1320,17 @@ msgid ""
 "-時々妙な視線を感じます。"
 msgstr ""
 
+#  Korean Text: '미니 블랙 리리스'
 #: ItemEquip[Equip_Sub_MiniLilith_T4].ItemName
 msgid "ミニブラックリリス"
 msgstr ""
 
+#  Korean Text: '회피+{0} / 적중+{1}'
 #: ItemEquip[Equip_Sub_MiniPerrault_T4].ItemDesc
 msgid "回避+{0}/命中+{1}"
 msgstr ""
 
+#  Korean Text: '미니 페로가 들어 있는 상자입니다. 적에게 민첩하게 대응할 수 있도록 도와주며, 스킬 사용 시 꾹꾹이로 빠른 피로 회복을 도와줍니다.\n\n-  왠지 모르겠지만, 기계에도 효과가 있는 듯합니다.'
 #: ItemEquip[Equip_Sub_MiniPerrault_T4].ItemDesc_Detail
 msgid ""
 "ミニペローの入った箱です。敵に俊敏に対応できるように手伝うだけでなく、スキル使用時、マッサージして疲労回復にも役立ちます。\n"
@@ -1319,6 +1338,7 @@ msgid ""
 "-理由は分かりませんが、何故かロボットにも効果があるようです。"
 msgstr ""
 
+#  Korean Text: '미니 페로'
 #: ItemEquip[Equip_Sub_MiniPerrault_T4].ItemName
 msgid "ミニペロー"
 msgstr ""
@@ -1340,10 +1360,12 @@ msgstr ""
 msgid "月の魔力が封印された月見餅EX"
 msgstr "Half-Moon Rice Cake of Lunar Magic EX"
 
+#  Korean Text: '냉기 저항+{0} / 회피+{1} / 행동력+{2}'
 #: ItemEquip[Equip_Sub_NitroEx3000_T4].ItemDesc
 msgid "冷気耐性+{0}/回避+{1}/行動力+{2}"
 msgstr ""
 
+#  Korean Text: '<최대 속력 마하 2.45! 선물 전달을 위한 필수 장비!>\n<주의 : 탑승자의 안전은 보장하지 않습니다>\n바이오로이드가 장착 시, 가끔 멀미 때문에 적중이 감소합니다. (해로운 효과)'
 #: ItemEquip[Equip_Sub_NitroEx3000_T4].ItemDesc_Detail
 msgid ""
 "<最大速力2.45!プレゼント配達員の必須装備！>\n"
@@ -1351,6 +1373,7 @@ msgid ""
 "バイオロイドが装着した場合、時々酔ってしまい命中率が減少します。(有害な効果)"
 msgstr ""
 
+#  Korean Text: '니트로 EX 3000'
 #: ItemEquip[Equip_Sub_NitroEx3000_T4].ItemName
 msgid "ニトロEX3000"
 msgstr ""
@@ -1404,6 +1427,7 @@ msgstr "Increase Accuracy / Range Lv.4"
 msgid "観測装備EX"
 msgstr "Observation Equipment EX"
 
+#  Korean Text: 'O.D 증폭기 EX'
 #: ItemEquip[Equip_Sub_Odamplifier_T4].ItemName
 msgid "O.D増幅器EX"
 msgstr ""
@@ -1458,14 +1482,17 @@ msgstr "Increase Attack / Action Speed / Take Fixed Damage Lv.4"
 msgid "出力制限解除装置EX"
 msgstr "Output Limit Remover EX"
 
+#  Korean Text: '공격기 전용 장비입니다. 라운드 개시 시, 고에너지를 생성해 공격력이 크게 증가하지만 받는 피해도 함께 증가합니다.'
 #: ItemEquip[Equip_Sub_ParticleAcceleratorATK_T4].ItemDesc_Detail
 msgid "1002600578エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: '사거리 증가 기능이 특화된 관측 장비 입니다. 사거리 감소 효과를 해제하며 사거리가 증가합니다.'
 #: ItemEquip[Equip_Sub_Precision_T4].ItemDesc_Detail
 msgid "射程距離増加機能に特化された観測装備です。射程距離減少効果を解除し射程距離が増加します。"
 msgstr ""
 
+#  Korean Text: '레인저용 전투장비 세트'
 #: ItemEquip[Equip_Sub_RangerSet_T4].ItemName
 msgid "レンジャー用の戦闘装備セット"
 msgstr ""
@@ -1844,24 +1871,29 @@ msgstr ""
 msgid "テロ鎮圧用アーマー"
 msgstr "Terror Suppression Armor Plating"
 
+#  Korean Text: '특수 대원용 가시 목걸이'
 #: ItemEquip[Equip_Sub_ThornNecklace_T4].ItemName
 msgid "特殊隊員用の棘首輪"
 msgstr ""
 
+#  Korean Text: '험지용 특수 프레임'
 #: ItemEquip[Equip_Sub_UnevenTerrain_T4].ItemName
 msgid "険地用の特殊フレーム"
 msgstr ""
 
+#  Korean Text: '공격력 / 회피 / 행동력 증가 / 받는 피해 감소'
 #: ItemEquip[Equip_System_Advanced_T4].ItemDesc
 msgid "攻撃力/回避/行動力増加/受けるダメージ減少"
 msgstr ""
 
+#  Korean Text: '전장에서의 전투 기록을 분석해 제작한 개량형 전투 OS입니다. 공격력 / 회피 / 행동력을 올려주며, 받는 피해가 감소합니다.\n해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다.'
 #: ItemEquip[Equip_System_Advanced_T4].ItemDesc_Detail
 msgid ""
 "戦場での戦闘記録を分析して作った改良型戦闘OSです。攻撃力/回避/行動力が増加し、受けるダメージが減少します。\n"
 "当OSの効果は、スキル付与効果発動に必要な条件を満たすことができます。"
 msgstr ""
 
+#  Korean Text: '개량형 전투 시스템 EX'
 #: ItemEquip[Equip_System_Advanced_T4].ItemName
 msgid "改良型戦闘システムEX"
 msgstr ""
@@ -1911,6 +1943,7 @@ msgstr "Anti-Air Attack Lv.4"
 msgid "対機動戦闘システムEX"
 msgstr "Anti-Air Combat System EX"
 
+#  Korean Text: '기동형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다.'
 #: ItemEquip[Equip_System_AntiAirTypeB_T1].ItemDesc_Detail
 msgid "機動型に対応するための戦闘OSです。オーバークロックで持続固定ダメージを受けます。"
 msgstr ""
@@ -1960,6 +1993,7 @@ msgstr "Anti-Heavy Attack Lv.4"
 msgid "対重装戦闘システムEX"
 msgstr "Anti-Heavy Combat System EX"
 
+#  Korean Text: '중장형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다.'
 #: ItemEquip[Equip_System_AntiArmorTypeB_T1].ItemDesc_Detail
 msgid "重装型に対応するための戦闘OSです。オーバークロックで持続固定ダメージを受けます。"
 msgstr ""
@@ -2009,6 +2043,7 @@ msgstr "Anti-Light Attack Lv.4"
 msgid "対軽装戦闘システムEX"
 msgstr "Anti-Light Combat System EX"
 
+#  Korean Text: '경장형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다.'
 #: ItemEquip[Equip_System_AntiTrooperTypeB_T1].ItemDesc_Detail
 msgid "軽装型に対応するための戦闘OSです。オーバークロックで持続固定ダメージを受けます。"
 msgstr ""
@@ -2403,6 +2438,7 @@ msgstr "Increased Capabilities Lv.4"
 msgid "標準型戦闘システムEX"
 msgstr "Standard Combat System EX"
 
+#  Korean Text: '폭주 유도 시스템 OS'
 #: ItemEquip[Equip_System_OverFlow_T4].ItemName
 msgid "暴走誘導システムOS"
 msgstr ""

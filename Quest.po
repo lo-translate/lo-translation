@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2827,9 +2827,10 @@ msgstr "(Research) Special Production_Bioroid Production"
 msgid "Sランクバイオロイド3機製造"
 msgstr "Build 3 S-Class Bioroids"
 
+#  Korean Text: '(연구) 특수 제작_S등급바이오로이드 제작'
 #: Quest[Research_Fac_Quest_035].QuestTitle
 msgid "(研究)特殊製作_Ｓランクバイオロイド製作"
-msgstr ""
+msgstr "(Research) Special Production_S-Class Bioroid Production"
 
 #  Korean Text: '중장형 전투원을 2 종류 이상 보유'
 #: Quest[Research_Fac_Quest_036].QuestDesc

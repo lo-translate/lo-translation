@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -54,34 +54,42 @@ msgstr "Don't dwell in the past! Enjoy the moment!"
 msgid "ハロウィンパークパニック！"
 msgstr ""
 
+#  Korean Text: '연말 파티를 준비하는 사령관에게 뻗쳐오는 마수는?'
 #: EventChapter[Event_Chapter_07].Event_CategoryDesc
 msgid "クリスマスパーティー準備中の司令官に忍び寄る魔の手の正体は！？"
 msgstr ""
 
+#  Korean Text: '세인트 오르카의 비밀작전'
 #: EventChapter[Event_Chapter_07].Event_CategoryName
 msgid "セントオルカの秘密作戦"
 msgstr ""
 
+#  Korean Text: '티아멧은 '초코 여왕'과 얽힌 멸망 전 인류의 일그러짐과 마주하는데..'
 #: EventChapter[Event_Chapter_09].Event_CategoryDesc
 msgid "ティアマトは「チョコ女王」にまつわる滅亡前人類の歪みと向き合うことになるが…"
 msgstr ""
 
+#  Korean Text: '이상한 나라의 초코 여왕'
 #: EventChapter[Event_Chapter_09].Event_CategoryName
 msgid "不思議の国のチョコ女王"
 msgstr ""
 
+#  Korean Text: '가벼운 마음으로 요정 마을로 향한 사령관에게...?'
 #: EventChapter[Event_Chapter_11].Event_CategoryDesc
 msgid "軽い気持ちで妖精の村に向かった司令官に…？"
 msgstr ""
 
+#  Korean Text: '요정 마을의 아리아'
 #: EventChapter[Event_Chapter_11].Event_CategoryName
 msgid "妖精の村のアリア"
 msgstr ""
 
+#  Korean Text: '여름이벤트 2부~~'
 #: EventChapter[Event_Chapter_12].Event_CategoryDesc
 msgid "夏イベント2部～～"
 msgstr ""
 
+#  Korean Text: '여름이벤트 3부~~'
 #: EventChapter[Event_Chapter_13].Event_CategoryDesc
 msgid "夏イベント3部～～"
 msgstr ""

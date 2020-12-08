@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -17,6 +17,7 @@ msgstr ""
 msgid "至高の晩餐"
 msgstr "Supreme Dinner"
 
+#  Korean Text: '리오보로스의 유산 1부'
 #: MapChapter[Chapter_01Ev2].ChapterName
 msgid "リオボロスの遺産1部"
 msgstr "Legacy of Rioboros Part 1"
@@ -31,6 +32,7 @@ msgstr "Full Moon Nocturne"
 msgid "ハロウィンパークパニック！"
 msgstr ""
 
+#  Korean Text: '세인트 오르카의 비밀작전 1부'
 #: MapChapter[Chapter_01Ev5].ChapterName
 msgid "セントオルカの秘密作戦1部"
 msgstr ""
@@ -40,6 +42,7 @@ msgstr ""
 msgid "地球上最後の人間"
 msgstr "The Last Human on Earth"
 
+#  Korean Text: '외전 1편'
 #: MapChapter[Chapter_01S].ChapterName
 msgid "外伝1"
 msgstr ""
@@ -48,6 +51,7 @@ msgstr ""
 msgid "외전01"
 msgstr ""
 
+#  Korean Text: '리오보로스의 유산 탐사'
 #: MapChapter[Chapter_02Ev2].ChapterName
 msgid "リオボロスの遺産探査"
 msgstr "Legacy of Rioboros Exploration"
@@ -57,6 +61,7 @@ msgstr "Legacy of Rioboros Exploration"
 msgid "楽しい我が家"
 msgstr ""
 
+#  Korean Text: '리오보로스의 유산 2부'
 #: MapChapter[Chapter_03Ev2].ChapterName
 msgid "リオボロスの遺産2部"
 msgstr "Legacy of Rioboros Part 2"
@@ -71,10 +76,12 @@ msgstr ""
 msgid "深い深い迷宮"
 msgstr ""
 
+#  Korean Text: '기억 보관소'
 #: MapChapter[Chapter_05N].ChapterName
 msgid "記憶保管所"
 msgstr ""
 
+#  Korean Text: '두 개의 묘'
 #: MapChapter[Chapter_06N].ChapterName
 msgid "ふたつの墓"
 msgstr ""

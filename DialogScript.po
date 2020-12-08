@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2020-12-08 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -524,6 +524,7 @@ msgstr ""
 msgid "- 現在の状況で安全な選択を断る理由はない。"
 msgstr ""
 
+#  Korean Text: '문제없다.'
 #: DialogScript[DG_Ch01Stage01_2_37].SelectionIndex[1]
 msgid "問題ない。"
 msgstr ""
@@ -22754,14 +22755,17 @@ msgstr ""
 msgid "はい…。これからもこの身を尽くしてお仕えいたします。ご主人様。"
 msgstr ""
 
+#  Korean Text: '- 새로운 몸을 얻고 난 뒤 계속되는 고열에 희미해지는 의식을 간신히 유지하고 있다.'
 #: DialogScript[DG_Ch06Stage09e_1_1].Script
 msgid "- 新しい体となってから続く高熱のせいで、遠のく意識を何とか維持している。"
 msgstr ""
 
+#  Korean Text: '- 바이오로이드들이 구해온 항생제와 백신도 결국 임시방편.'
 #: DialogScript[DG_Ch06Stage09e_1_2].Script
 msgid "- バイオロイドたちが入手してくれた抗生剤とワクチンも所詮は一時しのぎに過ぎない。"
 msgstr ""
 
+#  Korean Text: '- 지금 할 수 있는 것은 그저 몸이 적응할때까지 견뎌내는 것 뿐이다.'
 #: DialogScript[DG_Ch06Stage09e_1_3].Script
 msgid "- 今できることは体が環境に適応するまで耐えることだけだ。"
 msgstr ""
@@ -22771,82 +22775,102 @@ msgstr ""
 msgid "艦長室"
 msgstr "Commander's Room"
 
+#  Korean Text: '스카디양. 주인님의 몸 상태는……'
 #: DialogScript[DG_Ch06Stage09e_1_4].Script
 msgid "スカディさん、ご主人様のお体の状態は…"
 msgstr ""
 
+#  Korean Text: '이제는 스스로 새로운 몸에 적응하실 때까지 기다리는 방법 뿐이에요.'
 #: DialogScript[DG_Ch06Stage09e_1_5].Script
 msgid "あとは新しい体に適応するまで待つしかないですね…。"
 msgstr ""
 
+#  Korean Text: '믿고 기다리는 수밖엔...'
 #: DialogScript[DG_Ch06Stage09e_1_6].Script
 msgid "ご主人様を信じて待つしかないってこと…？"
 msgstr ""
 
+#  Korean Text: '...주인님께 아무것도 해드릴 수가 없다는 게 너무 힘들어요.'
 #: DialogScript[DG_Ch06Stage09e_1_7].Script
 msgid "…ご主人様に何もして差し上げられないなんて悲しすぎます…。"
 msgstr ""
 
+#  Korean Text: '너무 조급해 하지마. 할 수 있는 건 다했으니, 주인님도 이해해주실거야.'
 #: DialogScript[DG_Ch06Stage09e_1_8].Script
 msgid "そんなに悲観することないわ。できることは全部やった。ご主人様もわかってくださるはずよ。"
 msgstr ""
 
+#  Korean Text: '정 그러면 주변이라도 둘러보고 오는 게 어떠니?'
 #: DialogScript[DG_Ch06Stage09e_1_10].Script
 msgid "待っている間、ちょっと周辺を見回ってくるのはどうかしら？"
 msgstr ""
 
+#  Korean Text: '주인님이 아프신 지금 철충의 기습이 있으면 위험할테니까, 미리 정찰을 해두는 게 좋겠어.'
 #: DialogScript[DG_Ch06Stage09e_1_11].Script
 msgid "ご主人様がこんな状態の時に鉄虫に奇襲されては大変でしょ？念のため、先に偵察しておく方がいいと思うわ？"
 msgstr ""
 
+#  Korean Text: '언니 말이 맞아요. 주인님을 위험에 처하게 둘 수는 없어요.'
 #: DialogScript[DG_Ch06Stage09e_1_13].Script
 msgid "そうですね。わかりました…。ご主人様を危険な目に遭わせるわけにはいきません。"
 msgstr ""
 
+#  Korean Text: '그리폰과 함께 주위를 둘러보고 올게요.'
 #: DialogScript[DG_Ch06Stage09e_1_14].Script
 msgid "グリフォンと一緒に近くを偵察してきます。"
 msgstr ""
 
+#  Korean Text: '무덤지기가 더 있었다니! 우리가 먼저 발견하지 못했다면 큰 피해를 입을 뻔했어!'
 #: DialogScript[DG_Ch06Stage09e_2_1].Script
 msgid "墓の番人がまだいたなんて！私たちが先に発見したからいいものの…大変なことになるところだったわ！"
 msgstr ""
 
+#  Korean Text: '설마 했지만... 앞으로도 계속 경계 해야겠어요.'
 #: DialogScript[DG_Ch06Stage09e_2_2].Script
 msgid "まさかとは思ったけど…これからも気をつけた方がよさそうね…。"
 msgstr ""
 
+#  Korean Text: '주인님! 정신이 드신 건가요?'
 #: DialogScript[DG_Ch06Stage09e_2_3].Script
 msgid "ご主人様！少しはお加減よくなられましたか！？"
 msgstr ""
 
+#  Korean Text: '- 좀 더 말을 해야 하겠지만... 어떤 말을 해야하는지 생각이 나질 않는다.'
 #: DialogScript[DG_Ch06Stage09e_2_4].Script
 msgid "- もう少し何か言ってあげたかったが…何と言えばいいのか思いつかない…。"
 msgstr ""
 
+#  Korean Text: '정말 다행이에요...'
 #: DialogScript[DG_Ch06Stage09e_2_5].Script
 msgid "本当によかったです…"
 msgstr ""
 
+#  Korean Text: '정말 다행...!'
 #: DialogScript[DG_Ch06Stage09e_2_6].Script
 msgid "本当によかっ……！"
 msgstr ""
 
+#  Korean Text: '- 아직 몸이 다 낫지 않은 건지, 아니면 다른 이유 때문인지...'
 #: DialogScript[DG_Ch06Stage09e_2_8].Script
 msgid "- まだ完全に回復していないだけなのか、それとも他に何か理由があるのか…"
 msgstr ""
 
+#  Korean Text: '- 바이오로이드들에게 둘러싸인 내 몸에서 미열이 느껴지는 것 같았다.'
 #: DialogScript[DG_Ch06Stage09e_2_9].Script
 msgid "- バイオロイドたちに囲まれた俺の体はまだ熱っぽかった。"
 msgstr ""
 
+#  Korean Text: '흠…'
 #: DialogScript[DG_Ch07Stage01_1_41].Script
 msgid "ふむ…"
 msgstr ""
 
+#  Korean Text: '응? 뭐가?'
 #: DialogScript[DG_Ch07Stage01e_1_7].Script
 msgid "ん？何が？"
 msgstr ""
 
+#  Korean Text: '무슨 문제라도 있어?'
 #: DialogScript[DG_Ch07Stage01e_1_13].Script
 msgid "なんかまずいのか？"
 msgstr ""
@@ -22863,6 +22887,7 @@ msgstr ""
 msgid "次に"
 msgstr ""
 
+#  Korean Text: '그게 무슨 소리야?'
 #: DialogScript[DG_Ch07Stage02e_2_25].Script
 msgid "何だいきなり？"
 msgstr ""
@@ -22872,6 +22897,7 @@ msgstr ""
 msgid "今です！発射！"
 msgstr ""
 
+#  Korean Text: '로열 아스널'
 #: DialogScript[DG_Ch07Stage03_2_25].Char_Name_L
 msgid "ロイヤルアスナル"
 msgstr "Royal Arsenal"
