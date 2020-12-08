@@ -51193,7 +51193,7 @@ msgstr "Royal Arsenal"
 #  Korean Text: '포이'
 #: DialogScript[DG_Marriage01Stage125_1_7].Char_Name_C
 msgid "ポイ"
-msgstr ""
+msgstr "Poi"
 
 #  Korean Text: '레모네이드 알파'
 #: DialogScript[DG_Marriage01Stage127_1_7].Char_Name_C

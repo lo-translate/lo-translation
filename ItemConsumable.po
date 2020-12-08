@@ -726,7 +726,7 @@ msgstr ""
 #  Korean Text: '포이'
 #: ItemConsumable[CharTicket_Char_3P_Poi_N].ItemName
 msgid "ポイ"
-msgstr ""
+msgstr "Poi"
 
 #  Korean Text: '금란 S7를 영입합니다.'
 #: ItemConsumable[CharTicket_Char_3P_Ran_N].ItemDesc

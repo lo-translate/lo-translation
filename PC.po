@@ -145,7 +145,7 @@ msgstr ""
 #  Korean Text: '포이'
 #: PC[Char_3P_Poi_N].Name
 msgid "ポイ"
-msgstr ""
+msgstr "Poi"
 
 #  Korean Text: '불초 금란, 주인님께 인사올립니다.'
 #: PC[Char_3P_Ran_N].DialogJoin

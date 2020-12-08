@@ -6959,7 +6959,7 @@ msgstr ""
 #  Korean Text: '포이'
 #: ShopDesc[21039].ProductName
 msgid "ポイ"
-msgstr ""
+msgstr "Poi"
 
 #  Korean Text: '보물 상자의 봉인을 해제합니다.'
 #: ShopDesc[22001].NPCDescription
