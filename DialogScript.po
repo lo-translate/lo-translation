@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2020-12-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -22872,7 +22872,7 @@ msgstr ""
 
 #  Korean Text: '무슨 문제라도 있어?'
 #: DialogScript[DG_Ch07Stage01e_1_13].Script
-msgid "なんかまずいのか？"
+msgid "いいんじゃない？なんかダメなの？"
 msgstr ""
 
 #: DialogScript[DG_Ch07Stage02_1_17].SelectionIndex[1]
@@ -22899,7 +22899,7 @@ msgstr ""
 
 #  Korean Text: '로열 아스널'
 #: DialogScript[DG_Ch07Stage03_2_25].Char_Name_L
-msgid "ロイヤルアスナル"
+msgid "ロイヤル・アーセナル"
 msgstr "Royal Arsenal"
 
 #  Korean Text: 'AT-100 비스트헌터'

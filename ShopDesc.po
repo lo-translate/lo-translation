@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2020-12-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -4581,12 +4581,12 @@ msgstr "KeumRan S7"
 
 #  Korean Text: '보속의 마리아를 영입합니다.'
 #: ShopDesc[15113].NPCDescription
-msgid "補贖のマリアを迎え入れます。"
+msgid "贖罪のマリアを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '보속의 마리아'
 #: ShopDesc[15113].ProductName
-msgid "補贖のマリア"
+msgid "贖罪のマリア"
 msgstr "Maria of Redemption"
 
 #  Korean Text: 'P-22 하르페이아을 영입합니다.'
@@ -4636,7 +4636,7 @@ msgstr ""
 
 #  Korean Text: '로열 아스널'
 #: ShopDesc[15118].ProductName
-msgid "ロイヤルアスナル"
+msgid "ロイヤル・アーセナル"
 msgstr "Royal Arsenal"
 
 #  Korean Text: '아우로라를 영입합니다.'

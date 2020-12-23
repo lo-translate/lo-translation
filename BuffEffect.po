@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2020-12-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -9261,8 +9261,8 @@ msgstr ""
 
 #  Generated Partial Match; Korean Text: '20mm 대물 저격총 : 표식 지정'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_1].BuffEffectType1_Desc
-msgid "20mm大物狙撃銃총：標的指定"
-msgstr "20mm大物狙撃銃총: Mark Target"
+msgid "20mm大物狙撃銃：標的指定"
+msgstr "20mm大物狙撃銃: Mark Target"
 
 #  Generated Partial Match; Korean Text: '20mm 대물 저격총 : 받는 피해+{0}%'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_1].BuffEffectType2_Desc
@@ -9281,23 +9281,23 @@ msgstr "20mm大物狙撃銃: Mark / 受けるダメージ増加"
 
 #  Korean Text: 'F.아머리 전개 : AP+{0}'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_2].BuffEffectType1_Desc
-msgid "F.アモリ―展開：AP+{0}"
+msgid "F.アーマリ―展開：AP+{0}"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: 'F.아머리 전개 : 공격력+{0}%'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_2].BuffEffectType2_Desc
-msgid "F.アモリ―展開：攻撃力+{0}%"
-msgstr "F.アモリ―展開: Attack +{0}%"
+msgid "F.アーマリ―展開：攻撃力+{0}%"
+msgstr "F.アーマリ―展開: Attack +{0}%"
 
 #  Generated Partial Match; Korean Text: 'F.아머리 전개 : 방어막 / 피해 감소 무시'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_2].BuffEffectType3_Desc
-msgid "F.アーモリー展開：バリア/ダメー減少無視"
-msgstr "F.アーモリー展開: Shield / ダメー減少無視"
+msgid "F.アーマリー展開：バリア/ダメー減少無視"
+msgstr "F.アーマリー展開: Shield / ダメー減少無視"
 
 #  Generated Partial Match; Korean Text: 'F.아머리 전개 : AP / 공격력 증가 / 방어막 & 피해 감소 무시'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_2].Name
-msgid "F.アーモリー展開：AP/攻撃力増加/バリア&ダメージ減少無視"
-msgstr "F.アーモリー展開: AP / Attack Up / バリア&ダメージ減少無視"
+msgid "F.アーマリー展開：AP/攻撃力増加/バリア&ダメージ減少無視"
+msgstr "F.アーマリー展開: AP / Attack Up / バリア&ダメージ減少無視"
 
 #  Generated Partial Match; Korean Text: '중장부대 지휘 : 공격력+{0}% (중장)'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_3].BuffEffectType1_Desc
@@ -9331,12 +9331,12 @@ msgstr "無制限補給開始: Action Speed +{0}%"
 
 #  Korean Text: '무장 재보급 : 공격력 감소 해제 (F.아머리 상태)'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_4].BuffEffectType3_Desc
-msgid "武装再補給：攻撃力減少解除(F.アモリ―状態)"
+msgid "武装再補給：攻撃力減少解除(F.アーマリ―状態)"
 msgstr ""
 
 #  Korean Text: '무장 재보급 : 치명타 감소 해제 (F.아머리 상태)'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_4].BuffEffectType4_Desc
-msgid "武装再補給：クリティカル率減少解除(F.アモリ―状態)"
+msgid "武装再補給：クリティカル率減少解除(F.アーマリ―状態)"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '무제한 보급 개시 : 치명타 / 행동력 증가'
@@ -9356,18 +9356,18 @@ msgstr "CTCS: Accuracy +{0}% (重装攻撃機)"
 
 #  Generated Partial Match; Korean Text: 'CTCS : 방어 관통+{0}% (중장 공격기)'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_5].BuffEffectType3_Desc
-msgid "CTCS：防御貫通+{0}%(重装 攻撃機)"
-msgstr "CTCS: Defense Penetration +{0}% (重装 攻撃機)"
+msgid "CTCS：防御貫通+{0}%(重装攻撃機)"
+msgstr "CTCS: Defense Penetration +{0}% (重装攻撃機)"
 
 #  Korean Text: '재방열 : AP+{0} (F.아머리 상태 중장 공격기)'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_5].BuffEffectType4_Desc
-msgid "再放熱：AP+{0}(F.アモリ―状態重装攻撃機)"
+msgid "再放熱：AP+{0}(F.アーマリ―状態重装攻撃機)"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: 'CTCS : 중장 공격기 공격력 / 적중 / 방어 관통 증가'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_5].Name
-msgid "CTCS：重装攻撃機の攻撃力/命中率/防御貫通増加"
-msgstr "CTCS: 重装攻撃機の攻撃力 / Accuracy / Increased Defense Penetration"
+msgid "CTCS：重装攻撃機の攻撃力/命中/防御貫通増加"
+msgstr "CTCS: 重装攻撃機の攻撃力 / 命中 / Increased Defense Penetration"
 
 #  Korean Text: '20mm 대물 저격총 : 받는 피해 증가'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_11].Name
@@ -9381,8 +9381,8 @@ msgstr "20mm大物狙撃銃: Rooted / 回避率減少対象のダメージ量増
 
 #  Generated Partial Match; Korean Text: 'F.아머리 전개 : 공격력 증가'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_13].Name
-msgid "F.アーモリー展開：攻撃力増加"
-msgstr "F.アーモリー展開: Attack Up"
+msgid "F.アーマリー展開：攻撃力増加"
+msgstr "F.アーマリー展開: Attack Up"
 
 #  Korean Text: '무장 재보급 : 공격력 감소 해제'
 #: BuffEffect[Effect_BR_RoyalArsenal_N_15].BuffEffectType1_Desc

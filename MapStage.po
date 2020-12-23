@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2020-12-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1104,12 +1104,12 @@ msgstr ""
 
 #  Korean Text: '오르카의 미스터리 중 하나의 진상이 밝혀졌습니다. 의외라면 의외네요.'
 #: MapStage[Ch02Ev5Stage03B].StageDesc
-msgid "オルカ七不思議の一つが明かされましたが、意外といえば意外でしたね。"
+msgid "オルカ7大ミステリーの一つが明かされましたが、意外といえば意外でしたね。"
 msgstr ""
 
 #  Korean Text: '오르카의 미스터리'
 #: MapStage[Ch02Ev5Stage03B].StageName
-msgid "オルカ七不思議"
+msgid "オルカ7大ミステリー"
 msgstr ""
 
 #  Korean Text: '혼수상태로 실려가는 것보단 제발로 가는게 낫겠죠.'
@@ -1124,7 +1124,7 @@ msgstr ""
 
 #  Korean Text: '지옥의 주방장은 이런 상황에서도 여유롭습니다.'
 #: MapStage[Ch02Ev5Stage04B].StageDesc
-msgid "地獄の厨房長はこんな状況下でもまだ余裕あり気な態度です。"
+msgid "地獄の料理長はこんな状況下でもまだ余裕あり気な態度です。"
 msgstr ""
 
 #  Korean Text: '지옥의 주방'

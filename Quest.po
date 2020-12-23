@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2020-12-23 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -2192,6 +2192,14 @@ msgstr "Clear 10 main stages"
 msgid "区域巡察"
 msgstr "Zone Patrol"
 
+#: Quest[DailyQuest_Fix_001_Event].QuestDesc
+msgid "イベントステージを10回クリア"
+msgstr "Complete 10 event stages"
+
+#: Quest[DailyQuest_Fix_001_Event].QuestTitle
+msgid "区域巡察 (イベント)"
+msgstr "Zone Patrol (Event)"
+
 #  Korean Text: '철충 50기 파괴'
 #: Quest[DailyQuest_Fix_002].QuestDesc
 msgid "鉄虫を50機破壊"
@@ -3191,6 +3199,14 @@ msgstr "Clear 50 main stages"
 #: Quest[WeeklyQuest_Fix_001].QuestTitle
 msgid "区域巡回"
 msgstr "Tour of the Zone"
+
+#: Quest[WeeklyQuest_Fix_001_Event].QuestDesc
+msgid "イベントステージを50回クリア"
+msgstr "Clear 50 event stages"
+
+#: Quest[WeeklyQuest_Fix_001_Event].QuestTitle
+msgid "区域巡回 (イベント)"
+msgstr "Tour of the Zone (Event)"
 
 #  Korean Text: '철충 200기 파괴'
 #: Quest[WeeklyQuest_Fix_002].QuestDesc
