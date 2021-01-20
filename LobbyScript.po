@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -107,6 +107,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Alice_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "ふふ…早く寝た方がいいと思いますけど…？夢の中なら…これよりもっと素敵なことが、たくさんできるんですよ…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScript1[1](Affection<100)
+msgid "幼く見えるって？犯罪者を油断させるこれ以上のスキルはないわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScript1[2](Affection<100)
+msgid "私がそういう風に設計されてるから、こういうクラシックな趣味があるんだと思うの…。でもそれとは関係なく気に入ってるわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScript1[3](Affection<100)
+msgid "私のバイクどう？塗装も私がしたのよ。マフラー？あぁ、これはただの飾り。いかしてるでしょ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScript2[1](Affection>40)
+msgid "司令官もそろそろ私の実力がわかったわよね？だ、だからもう頭撫でたりしないで！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScript3[3](Affection>70)
+msgid "後ろに乗ってみる？ここは特別な人しか乗せないんだからね…。…ちょ、ちょっとくっつき過ぎじゃない？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScript4[2](Affection=100)
+msgid "いつかは今の姿もクラシックになっちゃうんだと思うわ…。その時まで…よろしくお願いね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ひゃぁ！？撃つわよ！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Annie].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "もう癖になっちゃったみたいね…でも運転中はちょっと我慢してくれるかしら？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Aqua].LobbyScript1[1](Affection<100)
@@ -618,6 +650,40 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Ran].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "くっ…あ…、何でもございません。苦しいわけではございませんので、そのまま続きを…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScript1[1](Affection<100)
+msgid "護衛である拙がこんな醜態をお見せしてしまい、主様に合わせる顔が…そ、そんなに見つめられては困ります…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScript1[2](Affection<100)
+msgid "主様が誘ってくださった外出なのにこんな失敗を…申し訳ございません。いささか緊張してしまい…足がよろけてしまいました。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScript1[3](Affection<100)
+msgid "主様、服を着替えたいのですが、手伝っていただけますか…？一人ではとても…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScript2[1](Affection>40)
+msgid "仰る通り、目を開けていると少し辛いのでございます…。ですが…少しでも主様のお姿をこの目で見たくて…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScript3[3](Affection>70)
+msgid "はぁ、はぁ…。そんなにゆっくりされては夜が明けてしまいます。拙は…、覚悟出来ておりますので、一思いに…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScript4[2](Affection=100)
+msgid ""
+"香り、音、色、そして… うっ、感触…すべてが主様で満たされています。\n"
+"最後のひとつも…満たしてくださいますか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "あうっ…だ、大丈夫でございます。普段よりも感覚が敏感になってしまい…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Ran_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うっ、くっ…せ、拙は大丈夫でございます…。ただ、主様まで濡れてしまうのではないかと…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Rhea].LobbyScript1[1](Affection<100)
@@ -1863,6 +1929,41 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Lindwurm].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "可愛いだけじゃ…満足できないんですか？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScript1[1](Affection<100)
+msgid "リンティを可愛く盛れるアクセ探すの、めちゃくちゃ大変だったんですよ～？どうですか？鬼カワじゃないですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScript1[2](Affection<100)
+msgid ""
+"はぁ～…アルマンは真面目すぎるんです。ボクのスカートが短すぎるって大騒ぎして…あの子と喋るとボクの可愛さが薄れる気がするんです！気のせいですかねぇ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScript1[3](Affection<100)
+msgid "ギャルになりたくてこんな格好したわけじゃないんです～。この服ならリンティの可愛さを極限まで高めることができると思って～"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScript2[1](Affection>40)
+msgid "司令官にもひとつ付けてあげますね？キャハハハ！カワイイ～！他のも付けてみましょうかぁ！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScript3[3](Affection>70)
+msgid ""
+"この格好、気に入りましたかぁ？えへへ、じゃあ…センパイって呼びましょうか？それともセンセイ？あはっ、何言わせるんですかぁ～！な～んかアブナイな感じがする～☆"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScript4[2](Affection=100)
+msgid ""
+"これは手遅れになる前にリンティの「可愛い成分」を補給しないとですね…？何をすればいいかわかってますよね？…そうです…リンティの…名前を呼んでください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "はい、ストップー！今日は見るだけにしてくださいね～！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Lindwurm_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "見るだけじゃ満足できないってことくらい、わかってますよ…"
 msgstr ""
 
 #  From Affection Doc
@@ -3221,6 +3322,44 @@ msgstr ""
 #  Korean Text: '폐, 폐하...'
 #: LobbyScript[LobbyScript_DS_Arman].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "へ、陛下…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScript1[1](Affection<100)
+msgid "最近、オルカの風紀がひどく乱れています。特にリントヴルムさんといったら…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScript1[2](Affection<100)
+msgid "厳しすぎるだなんて言わないでください。私がいなければオルカは…はぁ、また頭痛が…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScript1[3](Affection<100)
+msgid "記録によれば、風紀の乱れを正すにはこの服装が最も適しているそうです。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScript2[1](Affection>40)
+msgid ""
+"陛下はあのような不健全な方たちに感化されてはいけません。\n"
+"わ、私がお傍にいて差し上げます。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScript3[3](Affection>70)
+msgid ""
+"か、可愛いとおっしゃいましたか？そんなことを狙った服装ではありません、陛下！ですから、\n"
+"そ、そんな感想は…やめてください…うぅっ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScript4[2](Affection=100)
+msgid ""
+"ど、どうして突然抱き寄せられるのですか…あ……では少しだけ…息抜きしましょうか。\n"
+"…う～ん、陛下…ふふっ… "
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "きゃっ？！……陛下にも指導が必要なようですね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_DS_Arman_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "きゃっ…？……こういうことは他の方の目がない場所で…お願い…いたします…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_DS_Atalanta].LobbyScript1[1](Affection<100)

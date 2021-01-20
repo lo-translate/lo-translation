@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -192,6 +192,16 @@ msgstr ""
 #  Korean Text: '한겨울의 만찬 라비아타'
 #: CharSkin[Skin_3P_Labiata_1].SkinName
 msgid "真冬の晩餐ラビアタ"
+msgstr ""
+
+#  Korean Text: '뛰어난 검객인 금란이 발을 헛디뎌서 물에 빠지다니… 감추려고 하지만 아마 고즈넉한 곳에서 당신과 단 둘이라는 것 때문에 긴장한 탓이겠죠.'
+#: CharSkin[Skin_3P_Ran_1].SkinDesc
+msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちるなんて…平静を装っていますが、静かな場所で貴方と二人きりになり緊張してしまったのでしょう。"
+msgstr ""
+
+#  Korean Text: '봄맞이 나들이'
+#: CharSkin[Skin_3P_Ran_1].SkinName
+msgid "春のお出かけ"
 msgstr ""
 
 #  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 아마 달토끼와 관계된 것 같다고 하니 아마 이 복장이 맞을 겁니다. 아마도요... 수많은 잡지에서도 이 복장이 널리 입혀졌다는 것이 증명되고 있고요.'
@@ -469,6 +479,16 @@ msgstr ""
 #: CharSkin[Skin_BR_Leprechaun_1].SkinName
 msgid "夏季戦闘服レプリコン"
 msgstr "Summer Combat Uniform Leprechaun"
+
+#  Korean Text: '다행히도 못된 짓을 일삼지는 않지만, 선생님을 유혹하려는 린트블룸을 보며 아르망의 근심은 하루하루 늘어만 갑니다…'
+#: CharSkin[Skin_BR_Lindwurm_1].SkinDesc
+msgid "何か特別大それたことをするわけではありませんが、先生を誘惑しようとするリントヴルムを前にしてアルマンの心配は日に日に増していきます…"
+msgstr ""
+
+#  Korean Text: '불량소녀 같은 게 아니야!'
+#: CharSkin[Skin_BR_Lindwurm_1].SkinName
+msgid "不良少女なんかじゃない！"
+msgstr ""
 
 #  Korean Text: '학생회장 마리의 수줍은 고백을 받아 주세요!'
 #: CharSkin[Skin_BR_Marie_1].SkinDesc
@@ -800,6 +820,16 @@ msgstr ""
 #: CharSkin[Skin_Brownie_01].SkinName
 msgid "夏季戦闘服ブラウニー"
 msgstr "Summer Combat Uniform Brownie"
+
+#  Korean Text: '오르카의 풍기문란을 보다못한 아르망이 나섰습니다. 거기! 복장불량입니다!'
+#: CharSkin[Skin_DS_Arman_1].SkinDesc
+msgid "オルカの風紀紊乱を見かねてアルマンが立ち上がりました。そこ！服装が乱れています！"
+msgstr ""
+
+#  Korean Text: '추기경님은 선도하고 싶어'
+#: CharSkin[Skin_DS_Arman_1].SkinName
+msgid "枢機卿様は先導したい"
+msgstr ""
 
 #  Korean Text: '아무리 늠름한 아탈란테라도 이 의상을 입은 채로는 당당한 포즈를 취할 수 없었습니다…'
 #: CharSkin[Skin_DS_Atalanta_1].SkinDesc

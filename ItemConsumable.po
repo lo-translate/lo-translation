@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -278,7 +278,7 @@ msgstr "20 Battle Module Resets"
 #  Korean Text: '안녕하세요. 아까 잠깐 만났죠? 아우로라에요. 아, 사령관님이 이걸 보실 때면 이미 다시 만난 후일까요?\n기능 점검 삼아 이것저것 만들어 본 김에 발렌타인데이 선물도 준비해봤어요. 입맛에 맞으셨으면 좋겠어요.\n\n...격식을 차리려니 편지로도 조금 어색하네. 음, 곧 다시 만날 사령관은 어떤 인간님일까? 의지할-(알아볼 수 없도록 지워져 있습니다.) 앞으로 잘 부탁해.'
 #: ItemConsumable[CharLetter_Char_3P_Aurora_N_1].ItemDesc
 msgid ""
-"さっき会いましたよね？アウロラです。\n"
+"さっき会いましたよね？アウローラです。\n"
 "あ、司令官がこれを読んでる頃には\n"
 "再会した後でしょうか。\n"
 "機能確認がてら色々作るついでに\n"
@@ -292,7 +292,7 @@ msgstr ""
 
 #  Korean Text: '아우로라의 편지'
 #: ItemConsumable[CharLetter_Char_3P_Aurora_N_1].ItemName
-msgid "アウロラからの手紙"
+msgid "アウローラからの手紙"
 msgstr ""
 
 #  Korean Text: '사령관, 안녕? 이왕이면 직접 주고 싶었는데… 몇 번이나 기회를 놓쳐서 이렇게 편지를 남겨. 사령관은 혼자 있는 시간이 거의 없네…\n그래도 그 덕분에 사령관이 어떤 인간님인지 조금 알게된 것 같아. 처음에는 이상하다고 생각했었는데 다른분들이 사령관을 어떻게 대하는지 보니까… 응, 알 것 같아.\n그래도 저번처럼… 그, 있잖아. 사령관 휴가내기 전날… 아, 싫은건 절대 절대 아니야. 아닌데… 그때는 너무 놀라고 부끄러워서… 그래서 나도 모르게 도망간 거니까 오해하지 않았으면 좋겠어.\n\n더 쓰고 싶은데 주방장님 호출이야. 있지, 주방장님이 요새 조금 이상하셔. 굉장히 상냥해지셔서 좋긴 한데, 요리를 하시다가도 갑자기 멍해지시거나 얼굴을 붉히시거나…\n이제 진짜 가야겠어. 오늘 디저트, 기대해줘.'
@@ -309,7 +309,7 @@ msgstr ""
 
 #  Korean Text: '아우로라의 두 번째 편지'
 #: ItemConsumable[CharLetter_Char_3P_Aurora_N_2].ItemName
-msgid "アウロラからの二通目の手紙"
+msgid "アウローラからの二通目の手紙"
 msgstr ""
 
 #  Korean Text: '사랑하는 주인님께♥\n지난 겨울에 제가 초코과자를 드리지 못한 거, 기억하시나요? 그때 제가 얼마나 분했는지 주인님은 아마 모르실거예요. 그래서 이번에는 우리 고양이의 도움을 받아, 정성을 들여서 초콜릿을 만들어 봤답니다.\n어서 이 초콜릿을 음미해주세요. 아주 천천히, 구석구석까지...\n\nP.S. 어머, 주인님. 자리를 비우셨네요? 이 편지를 직접 읽어드리고 싶었는데… 이걸 보시면 바로 저를 불러주셔야 해요? 착한 리리스는 기다리고 있을게요♥'
@@ -600,7 +600,7 @@ msgstr "Alice"
 
 #  Korean Text: '아이언 애니를 영입합니다.'
 #: ItemConsumable[CharTicket_Char_3P_Annie_N].ItemDesc
-msgid "アイアン・アニーを迎え入れます。"
+msgid "アイアンアニーを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '아이언 애니'
@@ -620,7 +620,7 @@ msgstr "Aqua"
 
 #  Korean Text: '아우로라를 영입합니다.'
 #: ItemConsumable[CharTicket_Char_3P_Aurora_N].ItemDesc
-msgid "アウロラを迎え入れます。"
+msgid "アウローラを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '블랙 리리스을 지급합니다'
@@ -637,6 +637,11 @@ msgstr "Black Lilith"
 #: ItemConsumable[CharTicket_Char_3P_BlackWyrm_N].ItemDesc
 msgid "ブラックワームS9を迎え入れます。"
 msgstr ""
+
+#  Korean Text: '블랙웜 S9'
+#: ItemConsumable[CharTicket_Char_3P_BlackWyrm_N].ItemName
+msgid "ブラックワームS9"
+msgstr "Black Wyrm S9"
 
 #  Korean Text: '콘스탄챠 S2을 지급합니다'
 #: ItemConsumable[CharTicket_Char_3P_ConstantiaS2_N].ItemDesc
@@ -953,6 +958,11 @@ msgstr "AS-12 Steel Draco"
 msgid "A-87バンシーを迎え入れます。"
 msgstr ""
 
+#  Korean Text: 'A-87 밴시'
+#: ItemConsumable[CharTicket_Char_BR_Banshee_N].ItemName
+msgid "A-87バンシー"
+msgstr "A-87 Banshee"
+
 #  Korean Text: 'AT-100 비스트헌터을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_BeastHunter_N].ItemDesc
 msgid "AT-100ビーストハンターを支給します。"
@@ -1118,6 +1128,11 @@ msgstr "P-22 Harpyia"
 msgid "紅蓮を迎え入れます。"
 msgstr ""
 
+#  Korean Text: '홍련'
+#: ItemConsumable[CharTicket_Char_BR_HongRyun_N].ItemName
+msgid "紅蓮"
+msgstr "C-77 HongRyeon"
+
 #  Korean Text: 'AA-7 임펫을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Impet_N].ItemDesc
 msgid "AA-7インペットを支給します。"
@@ -1132,6 +1147,11 @@ msgstr "AA-7 Impet"
 #: ItemConsumable[CharTicket_Char_BR_InvDragon_N].ItemDesc
 msgid "無敵の龍を迎え入れます。"
 msgstr ""
+
+#  Korean Text: '무적의 용'
+#: ItemConsumable[CharTicket_Char_BR_InvDragon_N].ItemName
+msgid "無敵の竜"
+msgstr "Invincible Dragon"
 
 #  Korean Text: 'A-6 이오을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Io_N].ItemDesc
@@ -1433,6 +1453,11 @@ msgstr "E-16 Talon Feather"
 msgid "MH-4テティスを迎え入れます。"
 msgstr ""
 
+#  Korean Text: 'MH-4 테티스'
+#: ItemConsumable[CharTicket_Char_BR_Thetis_N].ItemName
+msgid "MH-4テティス"
+msgstr "MH-4 Thetis"
+
 #  Korean Text: '토모을 지급합니다'
 #: ItemConsumable[CharTicket_Char_BR_Tomoe_N].ItemDesc
 msgid "トモを支給します。"
@@ -1577,6 +1602,11 @@ msgstr "Prester Johanna"
 #: ItemConsumable[CharTicket_Char_DS_KunoichiZero_N].ItemDesc
 msgid "くのいち・ゼロを迎え入れます。"
 msgstr ""
+
+#  Korean Text: '쿠노이치 제로'
+#: ItemConsumable[CharTicket_Char_DS_KunoichiZero_N].ItemName
+msgid "クノイチゼロ"
+msgstr "Kunoichi Zero"
 
 #  Korean Text: '매지컬 모모를 지급합니다'
 #: ItemConsumable[CharTicket_Char_DS_MoMo_N].ItemDesc
@@ -1837,7 +1867,7 @@ msgstr "Audrey"
 
 #  Korean Text: '바바리아나를 영입합니다.'
 #: ItemConsumable[CharTicket_Char_PECS_Babariana_N].ItemDesc
-msgid "バーバリアナを迎え入れます。"
+msgid "ババリアナを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '바바리아나'
@@ -1995,6 +2025,11 @@ msgstr "Given LRL"
 msgid "ランバージェーンを迎え入れます。"
 msgstr ""
 
+#  Korean Text: '럼버제인'
+#: ItemConsumable[CharTicket_Char_PECS_Lumberjane_N].ItemName
+msgid "ランバージェイン"
+msgstr "Lumberjane"
+
 #  Korean Text: '마이티R을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_MightyR_N].ItemDesc
 msgid "マイティRを支給します。"
@@ -2024,6 +2059,11 @@ msgstr "SD3M Pupp Head"
 #: ItemConsumable[CharTicket_Char_PECS_Saetti_N].ItemDesc
 msgid "セッティを迎え入れます。"
 msgstr ""
+
+#  Korean Text: '세띠'
+#: ItemConsumable[CharTicket_Char_PECS_Saetti_N].ItemName
+msgid "セティ"
+msgstr "Saetti"
 
 #  Korean Text: '프로스트 서펀트을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_Serpent_N].ItemDesc
@@ -2059,6 +2099,11 @@ msgstr "CM67 Stinger"
 #: ItemConsumable[CharTicket_Char_PECS_Sunny_N].ItemDesc
 msgid "アクロバティック・サニーを迎え入れます。"
 msgstr ""
+
+#  Korean Text: '아크로바틱 써니'
+#: ItemConsumable[CharTicket_Char_PECS_Sunny_N].ItemName
+msgid "アクロバティック・サニー"
+msgstr "Acrobatic Sunny"
 
 #  Korean Text: '티에치엔을 지급합니다'
 #: ItemConsumable[CharTicket_Char_PECS_Tiequan_N].ItemDesc
@@ -2665,22 +2710,22 @@ msgstr ""
 
 #  Korean Text: '아우로라가 만든 수제 초콜릿입니다.'
 #: ItemConsumable[Ev_Chocolate_3P_Aurora].ItemDesc
-msgid "アウロラの作った手作りチョコレートです。"
+msgid "アウローラの作った手作りチョコレートです。"
 msgstr ""
 
 #  Korean Text: '수제 초콜릿 (아우로라)'
 #: ItemConsumable[Ev_Chocolate_3P_Aurora].ItemName
-msgid "手作りチョコレート(アウロラ)"
+msgid "手作りチョコレート(アウローラ)"
 msgstr ""
 
 #  Korean Text: '아우로라가 정성들여 만든 수제 초콜릿입니다.'
 #: ItemConsumable[Ev_Chocolate_3P_Aurora_2].ItemDesc
-msgid "アウロラが頑張って作ったチョコレートです。"
+msgid "アウローラが頑張って作ったチョコレートです。"
 msgstr ""
 
 #  Korean Text: '마음을 담은 초콜릿 (아우로라)'
 #: ItemConsumable[Ev_Chocolate_3P_Aurora_2].ItemName
-msgid "気持ちを込めたチョコレート(アウロラ)"
+msgid "気持ちを込めたチョコレート(アウローラ)"
 msgstr ""
 
 #  Korean Text: '블랙 리리스가 만든 초대형 화이트 초콜릿입니다.'
@@ -5298,7 +5343,7 @@ msgstr ""
 
 #  Korean Text: '봄맞이 나들이'
 #: ItemConsumable[Shop_Package_Skin_3P_Ran_1].ItemName
-msgid "春迎えお出かけ"
+msgid "春のお出かけ"
 msgstr ""
 
 #  Korean Text: '레아용 웨딩드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -6255,7 +6300,7 @@ msgstr ""
 
 #  Korean Text: '뛰어난 검객인 금란이 발을 헛디뎌서 물에 빠지다니… 감추려고 하지만 아마 고즈넉한 곳에서 당신과 단 둘이라는 것 때문에 긴장한 탓이겠죠.'
 #: ItemConsumable[Skin_3P_Ran_1].ItemDesc
-msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちるなんて…隠そうとしてますが、静かな場所で貴方と二人で緊張したせいでしょう。"
+msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちるなんて…平静を装っていますが、静かな場所で貴方と二人きりになり緊張してしまったのでしょう。"
 msgstr ""
 
 #  Korean Text: '물에 젖은 한복 (금란)'
@@ -6655,7 +6700,7 @@ msgstr "Summer Combat Uniform (Leprechaun)"
 
 #  Korean Text: '다행히도 못된 짓을 일삼지는 않지만, 선생님을 유혹하려는 린트블룸을 보며 아르망의 근심은 하루하루 늘어만 갑니다…'
 #: ItemConsumable[Skin_BR_Lindwurm_1].ItemDesc
-msgid "幸いにも悪事を常に働くことはありませんが、先生を誘惑しようとするリントヴルムを前にしてアルマンの心配は日に日に増していきます…"
+msgid "何か特別大それたことをするわけではありませんが、先生を誘惑しようとするリントヴルムを前にしてアルマンの心配は日に日に増していきます…"
 msgstr ""
 
 #  Korean Text: '귀~여운 교복 (린트블룸)'
@@ -7051,7 +7096,7 @@ msgstr "Summer Combat Suit (Brownie)"
 
 #  Korean Text: '오르카의 풍기문란을 보다못한 아르망이 나섰습니다. 거기! 복장불량입니다!'
 #: ItemConsumable[Skin_DS_Arman_1].ItemDesc
-msgid "オルカの風紀紊乱を見かねたアルマンが立ち上がりました。そこ！服装が乱れています！"
+msgid "オルカの風紀紊乱を見かねてアルマンが立ち上がりました。そこ！服装が乱れています！"
 msgstr ""
 
 #  Korean Text: '선도부 교복 (아르망)'

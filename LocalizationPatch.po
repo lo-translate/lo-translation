@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-02 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: LocalizationPatch:30
 msgid ""
 "通常攻撃\n"
-" 範囲を見る"
+"  範囲を見る"
 msgstr ""
 "General Attack\n"
 "Range View"
@@ -25,7 +25,7 @@ msgstr ""
 #: LocalizationPatch:31
 msgid ""
 "特殊攻撃\n"
-" 範囲を見る"
+"  範囲を見る"
 msgstr ""
 "Special Attack\n"
 "Range View"
@@ -271,8 +271,8 @@ msgstr "In all squads"
 #: LocalizationPatch:80
 msgid ""
 "タップして\n"
-" 分隊員\n"
-" 追加"
+"  分隊員\n"
+"  追加"
 msgstr ""
 "Tap to\n"
 "Add\n"
@@ -307,7 +307,7 @@ msgstr "Operator Enhancement"
 #: LocalizationPatch:86
 msgid ""
 "オペレーター\n"
-" ボーナス"
+"  ボーナス"
 msgstr ""
 "?Operator\n"
 "Bonus?"
@@ -316,7 +316,7 @@ msgstr ""
 #: LocalizationPatch:87
 msgid ""
 "支援装備\n"
-" 交換"
+"  交換"
 msgstr ""
 "Support Gear\n"
 "Replacement"
@@ -395,7 +395,7 @@ msgstr "Combat Power"
 #: LocalizationPatch:102
 msgid ""
 "同じ戦闘員を分隊に\n"
-" 登録できません。"
+"  登録できません。"
 msgstr ""
 "Duplicate Units\n"
 "cannot be added in the same squad."
@@ -514,7 +514,7 @@ msgstr "Insufficient Squad Members"
 #: LocalizationPatch:126
 msgid ""
 "[c][ffcc00]資源探索[-][/c]を中止した場合、資源を獲得できません。\n"
-"中止しますか？"
+" 中止しますか？"
 msgstr ""
 "If you stop your [c][ffcc00]Exploration[-][/c], you will not acquire "
 "resources.\n"
@@ -649,7 +649,7 @@ msgstr "You cannot use the Core system while Exploring."
 #: LocalizationPatch:154
 msgid ""
 "B級装備\n"
-" 全て選択"
+"  全て選択"
 msgstr ""
 "Select All\n"
 "B-Class Gear"
@@ -718,7 +718,7 @@ msgstr "Cannot perform enhancement due to a lack of resources"
 #: LocalizationPatch:167
 msgid ""
 "この強化を行うための資源が不足しています。\n"
-" 資源を購入するためショップへ移動しますか?"
+"  資源を購入するためショップへ移動しますか?"
 msgstr ""
 "There are not enough resources to proceed with enhancement.\n"
 "Do you want to go to the store to purchase some?"
@@ -752,7 +752,7 @@ msgstr "Fast-Track"
 #: LocalizationPatch:173
 msgid ""
 "装備製作を行うための資源が不足しています。\n"
-" 資源を購入するためショップに移動しますか?"
+"  資源を購入するためショップに移動しますか?"
 msgstr ""
 "There are not enough resources to proceed with gear crafting.\n"
 "Do you want to go to the store to purchase some?"
@@ -783,7 +783,7 @@ msgstr "Not enough AI cores!"
 #: LocalizationPatch:178
 msgid ""
 "AIコアが不足しています。\n"
-" (ロボット製作のためにはAIコアを購入する必要があります。)"
+"  (ロボット製作のためにはAIコアを購入する必要があります。)"
 msgstr ""
 "There are not enough AI Cores.\n"
 "(In order to craft a Robot, you must purchase an AI Core.)"
@@ -792,7 +792,7 @@ msgstr ""
 #: LocalizationPatch:180
 msgid ""
 "製作を即時完了させますか?\n"
-"(即時完了には急速完成回路が必要です。)"
+" (即時完了には急速完成回路が必要です。)"
 msgstr ""
 "Do you want to fast-track crafting?\n"
 "(You will need a Quick-Complete Circuit to fast-track crafting.)"
@@ -806,7 +806,7 @@ msgstr "Not enough Quick-Complete Circuits!"
 #: LocalizationPatch:182
 msgid ""
 "急速完成回路が不足しています。\n"
-"(急速完成のためには急速完成回路を購入する必要があります。)"
+" (急速完成のためには急速完成回路を購入する必要があります。)"
 msgstr ""
 "There are not enough Quick-Complete Circuits.\n"
 "(Quick-Complete Circuits must be purchased to fast-track crafting)"
@@ -820,7 +820,7 @@ msgstr "Net enough Gene Seeds!"
 #: LocalizationPatch:184
 msgid ""
 "遺伝子の種が不足しています。\n"
-" (バイオロイド製作のためには遺伝子の種を購入する必要があります。)"
+"  (バイオロイド製作のためには遺伝子の種を購入する必要があります。)"
 msgstr ""
 "There are not enough Gene Seeds.\n"
 "(To produce Bioroids, you will have to purchase Gene Seeds.)"
@@ -829,7 +829,7 @@ msgstr ""
 #: LocalizationPatch:185
 msgid ""
 "戦闘員製作を行うための資源が不足しています。\n"
-" 資源を購入するためショップに移動しますか？"
+"  資源を購入するためショップに移動しますか？"
 msgstr ""
 "There are not enough resources to complete crafting.\n"
 "Do you want to go to the store to purchase some?"
@@ -843,7 +843,7 @@ msgstr "Not enough room"
 #: LocalizationPatch:187
 msgid ""
 "戦闘員ーのハウスがいっぱいです。\n"
-" ハウスを拡張しますか?"
+"  ハウスを拡張しますか?"
 msgstr ""
 "The lobby is full.\n"
 "Would you like to expand your available space?"
@@ -910,7 +910,7 @@ msgstr "You do not have a Link Breaker."
 #: LocalizationPatch:199
 msgid ""
 "コアリンクを解除するリンク解除器が不足しています！\n"
-" (リンク解除のためにはリンク解除器をショップで購入する必要があります。)"
+"  (リンク解除のためにはリンク解除器をショップで購入する必要があります。)"
 msgstr ""
 "There are no more Link Breakers to be able to release the core link!\n"
 "(To release the link, a Link Breaker must be purchased.)"
@@ -959,7 +959,7 @@ msgstr "Core is mounted by another Unit"
 #: LocalizationPatch:208
 msgid ""
 "他の戦闘員が装着したコアの解除のためにはコアリンク解除器が必要です。\n"
-" 既存のリンクを解除して装着しますか？"
+"  既存のリンクを解除して装着しますか？"
 msgstr ""
 "A Link Breaker is required to release the cores installed in other "
 "Units.\n"
@@ -1024,11 +1024,10 @@ msgstr "Increase"
 #: LocalizationPatch:220
 msgid ""
 "{0}のスキル{1}のレベルが{2}になりました。\n"
-" [url={3}][c][c68115][詳細確認][-][/c][/url]"
+"  [url={3}][c][c68115][詳細確認][-][/c][/url]"
 msgstr ""
-"The skill {1} in {0} has reached a level of "
-"{2}\n"
-"[url={3}][c][c68115][details][-][/c][/url]"
+"The skill {1} in {0} has reached a level of {2}\n"
+"[url=3}c68115][details][-][/c][/url]"
 
 #  Korean Text: '{0}차 전투'
 #: LocalizationPatch:221
@@ -1049,7 +1048,7 @@ msgstr "Warning"
 #: LocalizationPatch:224
 msgid ""
 "強化済みの装備が選択されています。\n"
-" 本当に材料として使用しますか?"
+"  本当に材料として使用しますか?"
 msgstr ""
 "This material is enhanced.\n"
 "Are you sure you want to use it as enhancement material?"
@@ -1089,7 +1088,7 @@ msgstr "Warning! Removing Enhanced Circuit!"
 #: LocalizationPatch:231
 msgid ""
 "強化をリセットする場合、全ての強化ステータスが初期化され強化可能回数が戻されます。\n"
-" 強化をリセットしますか？"
+"  強化をリセットしますか？"
 msgstr ""
 "If you reset enhancements,\n"
 "All enhancements will be reset and you will be refunded spent enhancement "
@@ -1110,7 +1109,7 @@ msgstr "Not enough Circuit Removers"
 #: LocalizationPatch:234
 msgid ""
 "強化回路除去器が不足しています。\n"
-" (強化回路除去のためには強化回路除去器を購入する必要があります。)"
+"  (強化回路除去のためには強化回路除去器を購入する必要があります。)"
 msgstr ""
 "There are no more enhancement Circuit Removers.\n"
 "(To remove enhancements, a Circuit Remover must be purchased)"
@@ -1172,7 +1171,7 @@ msgstr "Quick Fix"
 #: LocalizationPatch:245
 msgid ""
 "即時修復を実行しますか?\n"
-"(即時修復するには快速修復ナノマシーンが必要です。)"
+" (即時修復するには快速修復ナノマシーンが必要です。)"
 msgstr ""
 "Do you want to recover instantly?\n"
 "(You will need a Quick Fix Nanomachine.)"
@@ -1186,7 +1185,7 @@ msgstr "Insufficient Nano Machines for Quick Fix!"
 #: LocalizationPatch:247
 msgid ""
 "快速修復ナノマシーンが不足しています。\n"
-"(即時修復するには該当のアイテムを購入する必要があります。)"
+" (即時修復するには該当のアイテムを購入する必要があります。)"
 msgstr ""
 "There are no more Quick Fix Nanomachines.\n"
 "(In order to recover instantly, you must purchase some)"
@@ -1195,7 +1194,7 @@ msgstr ""
 #: LocalizationPatch:248
 msgid ""
 "修復に必要な資源が不足しています。\n"
-" 資源を購入しますか？"
+"  資源を購入しますか？"
 msgstr ""
 "There are not enough resources to begin recovery.\n"
 "Would you like to purchase some?"
@@ -1219,7 +1218,7 @@ msgstr "Release Slot Release"
 #: LocalizationPatch:252
 msgid ""
 "ロックされたスロットを解除しますか?\n"
-" (スロット解除のためにはショップでスロット拡張アイテムを購入する必要があります。)"
+"  (スロット解除のためにはショップでスロット拡張アイテムを購入する必要があります。)"
 msgstr ""
 "Do you want to open the locked slot?\n"
 "(To open the slot you must purchase a slot expansion from the store"
@@ -1238,7 +1237,7 @@ msgstr "Not enough resources for Quick Fix!"
 #: LocalizationPatch:255
 msgid ""
 "快速修復を行うための資源が不足しています。\n"
-" 資源を購入するためショップに移動しますか？"
+"  資源を購入するためショップに移動しますか？"
 msgstr ""
 "There are not enough resources to complete a Quick Fix.\n"
 "Do you want to go to the store to purchase some?"
@@ -1252,7 +1251,7 @@ msgstr "Not enough resources"
 #: LocalizationPatch:257
 msgid ""
 "修復に必要な資源が不足しています\n"
-" 資源を購入しますか？"
+"  資源を購入しますか？"
 msgstr ""
 "There are not enough resources to begin recovery\n"
 "Would you like to purchase some?"
@@ -1306,7 +1305,7 @@ msgstr "Previous Record"
 #: LocalizationPatch:267
 msgid ""
 "{0}段階\n"
-" 進行中..."
+"  進行中..."
 msgstr ""
 "Stage {0}\n"
 "In Progress..."
@@ -1340,7 +1339,7 @@ msgstr "Emergency Repair"
 #: LocalizationPatch:273
 msgid ""
 "次の資源を消費し\n"
-" 戦闘員[c][f0f0b3]{0}[-][/c]を修復します。"
+"  戦闘員[c][f0f0b3]{0}[-][/c]を修復します。"
 msgstr ""
 "It will cost the following resources\n"
 "to recover [c][f0f0b3]{0}[-][/c]"
@@ -1359,7 +1358,7 @@ msgstr "Confirm Recovery"
 #: LocalizationPatch:276
 msgid ""
 "[c][f0f0b3]{0}[-][/c]の修復に次の資源と時間が必要です。\n"
-" 修復を実行しますか？"
+"  修復を実行しますか？"
 msgstr ""
 "It will cost the following resources to recover [c][f0f0b3]{0}[-][/c]. Are "
 "you sure you want to begin recovery?"
@@ -1398,7 +1397,7 @@ msgstr "Recover"
 #: LocalizationPatch:283
 msgid ""
 "出撃可能な分隊数が最大のためこれ以上\n"
-" 出撃分隊を登録できません。"
+"  出撃分隊を登録できません。"
 msgstr ""
 "The maximum number of squads has been reached.\n"
 "Unable to register further squads"
@@ -1422,7 +1421,7 @@ msgstr "Resources Gained"
 #: LocalizationPatch:287
 msgid ""
 "分解\n"
-" 戦闘員選択"
+"  戦闘員選択"
 msgstr ""
 "Recycling\n"
 "Select a Unit"
@@ -1431,7 +1430,7 @@ msgstr ""
 #: LocalizationPatch:288
 msgid ""
 "分解\n"
-" 装備選択"
+"  装備選択"
 msgstr ""
 "Recycling\n"
 "Select Gear"
@@ -1490,10 +1489,9 @@ msgstr "Gear"
 #: LocalizationPatch:300
 msgid ""
 "等級/レベルが高い戦闘員です。本当に分解しますか?\n"
-" モジュール分解時、該当の戦闘員はなくなります。"
+"  モジュール分解時、該当の戦闘員はなくなります。"
 msgstr ""
-"Selected Unit has a high rank or level. Are you sure you want to recycle "
-"it?\n"
+"The Unit has a high rank or level. Are you sure you want to recycle it?\n"
 "When you recycle a Unit, it will be destroyed."
 
 #  Korean Text: '모듈 분해 할 캐릭터가 없습니다.'
@@ -1689,7 +1687,7 @@ msgstr "Recon Success"
 #: LocalizationPatch:343
 msgid ""
 "B級戦闘員\n"
-" 全て選択"
+"  全て選択"
 msgstr "Select all B-Class Units"
 
 #  Korean Text: '대신 맞기'
@@ -1977,7 +1975,7 @@ msgstr "I left the chatroom."
 #: LocalizationPatch:400
 msgid ""
 "フレンド数が最大であるため\n"
-" フレンド申請できません。"
+"  フレンド申請できません。"
 msgstr ""
 "You cannot send an application.\n"
 "Your friends list is already at the limit."
@@ -1991,7 +1989,7 @@ msgstr "Please enter a search target."
 #: LocalizationPatch:402
 msgid ""
 "フレンド数が最大であるため\n"
-"フレンド受諾できません."
+" フレンド受諾できません."
 msgstr ""
 "You cannot accept an application.`Your friends list is already at the limit."
 
@@ -2154,7 +2152,7 @@ msgstr "Receive squad completion rewards"
 #: LocalizationPatch:436
 msgid ""
 "このステージではフレンド分隊を\n"
-" 使用できません。"
+"  使用できません。"
 msgstr "You cannot use your friend's squad on this stage."
 
 #  Korean Text: '모든 임무 보이기'
@@ -2236,21 +2234,21 @@ msgstr "Select mode"
 #: LocalizationPatch:452
 msgid ""
 "メイン\n"
-" ストーリー"
+"  ストーリー"
 msgstr ""
 
 #  Korean Text: '일일\n    훈련'
 #: LocalizationPatch:453
 msgid ""
 "デイリー\n"
-" 訓練"
+"  訓練"
 msgstr ""
 
 #  Korean Text: '외전\n  스토리'
 #: LocalizationPatch:454
 msgid ""
 "外伝\n"
-" ストーリー"
+"  ストーリー"
 msgstr ""
 
 #  Korean Text: '이벤트'
@@ -2267,7 +2265,7 @@ msgstr "Remaining"
 #: LocalizationPatch:457
 msgid ""
 "進行中のイベントが\n"
-" ありません。"
+"  ありません。"
 msgstr ""
 "There are no\n"
 "Events in progress"
@@ -2446,7 +2444,7 @@ msgstr "Unlock condition"
 #: LocalizationPatch:495
 msgid ""
 "[c][FFBA29FF]{0}[-][/c]の研究完了に次の資源と時間が消費されます。\n"
-" 研究を実行しますか？"
+"  研究を実行しますか？"
 msgstr ""
 "[c][FFBA29FF]{0}[-][/c] will require the following resources and time to "
 "complete.\n"
@@ -2481,10 +2479,10 @@ msgstr "[c][f10916]Resources spent on research cannot be refunded.[-][/c]"
 #: LocalizationPatch:501
 msgid ""
 "[c][FFBA29FF]{0}[-][/c]の研究を即時完了します。\n"
-"[c][FFBA29FF]不思議な演算回路[-][/c]1個が消費されます。"
+" [c][FFBA29FF]不思議な演算回路[-][/c]1個が消費されます。"
 msgstr ""
 "Complete researching [c][FFBA29FF]{0}[-][/c] immediately.\n"
-"1 [c][FFBA29FF]Strange Circuit[-][/c] will be used."
+"One [c][FFBA29FF]Strange Circuit[-][/c] will be used."
 
 #  Korean Text: '추가 자원 획득 비율'
 #: LocalizationPatch:503
@@ -2597,14 +2595,14 @@ msgstr "There are no craftable Robots."
 #: LocalizationPatch:527
 msgid ""
 "[c][FFBA29FF]研究所[-][/c]で[c][FFBA29FF]ロボット製作[-][/c]施設を研究後に\n"
-"使用できます。"
+" 使用できます。"
 msgstr ""
 
 #  Korean Text: '[c][FFBA29FF]연구소[-][/c]에서  [c][FFBA29FF]중장비 제작 설비[-][/c]를 연구해야\n사용할 수 있습니다.'
 #: LocalizationPatch:528
 msgid ""
 "[c][FFBA29FF]研究所[-][/c]で[c][FFBA29FF]特殊製作[-][/c]施設を研究後に\n"
-"使用できます。"
+" 使用できます。"
 msgstr ""
 
 #  Korean Text: '로봇 제작 중'
@@ -2661,7 +2659,7 @@ msgstr "Already at max affection."
 #: LocalizationPatch:539
 msgid ""
 "修復対象\n"
-" 一括選択"
+"  一括選択"
 msgstr ""
 "Bulk Select\n"
 "For Recovery"
@@ -2750,7 +2748,7 @@ msgstr "Second"
 #: LocalizationPatch:558
 msgid ""
 "[c][FFBA29FF]研究所[-][/c]で[c][FFBA29FF]{0}[-][/c]施設を研究した後に\n"
-" 使用できます。"
+"  使用できます。"
 msgstr ""
 "We need to research [c][FFBA29FF]{0}[-][/c] in the [c][FFBA29FF]research lab[-"
 "][/c]\n"
@@ -2926,7 +2924,7 @@ msgstr "Purchase"
 #: LocalizationPatch:592
 msgid ""
 "ツナ缶が不足しており購入できません。\n"
-" ツナ缶を購入しましょう~~"
+"  ツナ缶を購入しましょう~~"
 msgstr ""
 "Not enough Tuna Cans to complete purchase.\n"
 "Maybe we should buy some~~"
@@ -3035,14 +3033,14 @@ msgstr "Commander, I will give you a brief explanation."
 #: LocalizationPatch:613
 msgid ""
 "指揮コンソールを見てください。\n"
-" ひとまず私が一番先に攻撃準備ができました。"
+"  ひとまず私が一番先に攻撃準備ができました。"
 msgstr ""
 
 #  Korean Text: '지휘 콘솔에 표시된 우리 얼굴은 공격 순서를 의미해요.\r\n전투 준비 상태는 AP라고 하고 준비된 상태를 10으로 표시해요. 기억해 주세요.'
 #: LocalizationPatch:614
 msgid ""
 "指揮コンソールに表示された顔は攻撃順序を意味します。\n"
-" 戦闘準備状態はAPといって、準備完了状態を１０で表示します。覚えておいてください。"
+"  戦闘準備状態はAPといって、準備完了状態を１０で表示します。覚えておいてください。"
 msgstr ""
 "Our faces on the command console represent the order of attack.\n"
 "Combat readiness is measured by AP and we are ready when it reaches 10. "
@@ -3059,7 +3057,7 @@ msgstr ""
 #: LocalizationPatch:616
 msgid ""
 "では私が行える行動を指定する番です。 \n"
-" 戦闘命令には戦闘技術の使用が基本です。"
+"  戦闘命令には戦闘技術の使用が基本です。"
 msgstr ""
 "Then it's my turn to plan an action.\n"
 "Our use of combat skills is fundamental to a successful battle strategy."
@@ -3068,7 +3066,7 @@ msgstr ""
 #: LocalizationPatch:617
 msgid ""
 "その他にも移動や待機命令も可能ですが… 今回は敵をいち早く倒すのが重要なので \n"
-" 先ずは一番攻撃力が高い戦闘技術を使用してみましょう。"
+"  先ずは一番攻撃力が高い戦闘技術を使用してみましょう。"
 msgstr ""
 "You can also move around and wait, but... The most important thing right now "
 "is the defeat the enemy quickly. \n"
@@ -3078,7 +3076,7 @@ msgstr ""
 #: LocalizationPatch:618
 msgid ""
 "さぁ、命令する戦闘技術を選択したら敵を指定してください。 \n"
-" ひとまず前にいる敵が良さそうです。"
+"  ひとまず前にいる敵が良さそうです。"
 msgstr ""
 "Now, if you have selected a combat skill to execute, please select an enemy "
 "to target. \n"
@@ -3100,7 +3098,7 @@ msgstr "It's me next! Heheh! I'm ready this time!"
 #: LocalizationPatch:621
 msgid ""
 "司令官！今度は私が先だよ？\n"
-" 前にいる奴からさっさと倒して後ろの奴との距離を縮めようよ！"
+"  前にいる奴からさっさと倒して後ろの奴との距離を縮めようよ！"
 msgstr ""
 
 #  Korean Text: '쓸 기술은 기본적으로 지정되어 있으니 바로 앞에 있는 녀석을 목표로 지정해 줘!'
@@ -3132,21 +3130,21 @@ msgstr "Log in as a GUEST"
 
 #  Korean Text: '이미 연동된 계정입니다. 계정 정보를 갱신하기 위해 타이틀 화면으로 돌아갑니다.'
 #: LocalizationPatch:627
-msgid "既に連動されているアカウントです。アカウント情報を更新するためタイトル画面に戻ります。"
+msgid "既に連携されているアカウントです。アカウント情報を更新するためタイトル画面に戻ります。"
 msgstr ""
 "The account is already linked. You will return to the title screen to update "
 "your account details."
 
 #  Korean Text: '구글 계정 연동 되었습니다.'
 #: LocalizationPatch:628
-msgid "Googleアカウントと連動しました。"
+msgid "Googleアカウントと連携しました。"
 msgstr "Google account linked!"
 
 #  Korean Text: '연동 실패 다시 연동해주세요.\n타이틀 화면으로 돌아갑니다.'
 #: LocalizationPatch:629
 msgid ""
-"連動失敗、もう一度連動してください。\n"
-" タイトル画面に戻ります。"
+"連携失敗、もう一度連携してください。\n"
+"  タイトル画面に戻ります。"
 msgstr ""
 "Account linking failed.\n"
 "Returning to the Title Screen."
@@ -3477,7 +3475,7 @@ msgstr "Recovery Complete"
 
 #  Korean Text: '구글 연결되지 않음'
 #: LocalizationPatch:711
-msgid "Googleアカウントと連携されていません"
+msgid "Googleアカウントと連携されていません。"
 msgstr "Not connected with Google"
 
 #  Korean Text: '계정'
@@ -3492,18 +3490,18 @@ msgstr "Account Settings"
 
 #  Korean Text: '연동 계정 선택'
 #: LocalizationPatch:715
-msgid "連動アカウント選択"
+msgid "連携アカウント選択"
 msgstr "Select Linked Account"
 
 #  Korean Text: '페이스북 연결되지 않음'
 #: LocalizationPatch:716
-msgid "Facebookアカウントに連結されていません"
+msgid "Facebookアカウントに連携されていません。"
 msgstr "Not connected with Facebook"
 
 #  Korean Text: '계정을 연결해 게임 데이터를 안전하게 보존하세요'
 #: LocalizationPatch:717
-msgid "アカウントを連携してゲームデータを安全に保存してください。"
-msgstr "Link your accounts to back up your data."
+msgid "アカウントを連携してゲームデータを安全に保存しましょう。"
+msgstr "Link your accounts to back up your data"
 
 #  Korean Text: '로그아웃'
 #: LocalizationPatch:719
@@ -3559,7 +3557,7 @@ msgstr "Check your inventory"
 #: LocalizationPatch:732
 msgid ""
 "ツナ缶が不足しており購入できません。\n"
-" ツナ缶を購入しに行きますか？"
+"  ツナ缶を購入しに行きますか？"
 msgstr ""
 "Not enough Tuna Cans to complete purchase.\n"
 "Would you like to go buy some?"
@@ -3578,7 +3576,7 @@ msgstr "Would you like to buy resources in the Store?"
 #: LocalizationPatch:735
 msgid ""
 "[c][FFBA29FF]{0}[-][/c]が不足しており行えません。\n"
-" [c][FFBA29FF]{1}[-][/c]を購入しに行きますか？"
+"  [c][FFBA29FF]{1}[-][/c]を購入しに行きますか？"
 msgstr ""
 "Not enough [c][FFBA29FF]{0}[-][/c] to proceed.\n"
 "Would you like to buy [c][FFBA29FF]{1}[-][/c]?"
@@ -3619,7 +3617,7 @@ msgstr "You purchased [c][FFCC00FF]{0}[-][/c]"
 #: LocalizationPatch:742
 msgid ""
 "[c][FFCC00FF]{0}[-][/c]ツナ缶を使用し\n"
-" {1}[c][FFCC00FF]{2}[-][/c]個を購入しました。"
+"  {1}[c][FFCC00FF]{2}[-][/c]個を購入しました。"
 msgstr ""
 "[c][FFCC00FF]{0}[-][/c] Tuna Cans\n"
 "{1} [c][FFCC00FF]{2}[-][/c] have been purchased."
@@ -3678,11 +3676,11 @@ msgstr "Sunday"
 #: LocalizationPatch:753
 msgid ""
 "[c][FFBA29FF]研究所[-][/c]で[c][FFBA29FF]{0}[-][/c]施設研究後に\n"
-"使用できます。"
+" 使用できます。"
 msgstr ""
 "We need to research [c][FFBA29FF]{0}[-][/c] in the [c][FFBA29FF]research lab[-"
 "][/c]\n"
-"before it can be used."
+"Before it can be used"
 
 #  Korean Text: '잔여 횟수 : {0}'
 #: LocalizationPatch:754
@@ -3822,10 +3820,10 @@ msgstr "Time for Recovery"
 #: LocalizationPatch:781
 msgid ""
 "[c][f0f0b3]{0}[-][/c]の快速修復に次の資源が必要です。\n"
-" 快速修復を実行しますか？"
+"  快速修復を実行しますか？"
 msgstr ""
-"It will cost the following resources to recover [c][f0f0b3]{0}[-][/c]. Are "
-"you sure you want to Quick Fix?"
+"Requires using: [c][f0f0b3]{0}[-][/c]\n"
+"Would you like to run a Quick Fix?"
 
 #  Korean Text: '[c][FFFFFF7D]사정 거리[-][/c]'
 #: LocalizationPatch:782
@@ -3894,7 +3892,7 @@ msgstr "You can only Repeat Battle in cleared stages."
 
 #  Korean Text: '구글 연동됨'
 #: LocalizationPatch:797
-msgid "Google連携されました"
+msgid "Google連携されました。"
 msgstr "Google Linked"
 
 #  Korean Text: '소개말은 30자 제한 입니다.'
@@ -3984,14 +3982,12 @@ msgstr "There are not enough Enhancement Points left to select this Unit."
 msgid "これ以上探索を送れません。"
 msgstr "You cannot send more explorers."
 
-#  Korean Text: '아래 메일로 문의 부탁 드립니다.\nE-mail : last_origin@smartjoy-game.com'
+#  Korean Text: '아래 메일로 문의 부탁 드립니다.\nE-mail : last_origin@smartjoy.co.kr'
 #: LocalizationPatch:817
 msgid ""
 "下記メールに問合せ願います。\n"
-" E-mail : game_service@piggames.support"
+"  E-mail : game_service@piggames.support"
 msgstr ""
-"Please contact us at the following e-mail:\n"
-"E-mail : game_service@piggames.support"
 
 #  Korean Text: '한 번에 분해할 수 있는 전투원 수가 가득 찼습니다.'
 #: LocalizationPatch:818
@@ -4128,7 +4124,7 @@ msgstr "Equip"
 #: LocalizationPatch:851
 msgid ""
 "交換する装備は現在他の戦闘員が装着中の装備です。\n"
-" それでも装着しますか?"
+"  それでも装着しますか?"
 msgstr ""
 "The gear to be replaced is currently equipped on another Unit.\n"
 "Do you want to equip it anyway?"
@@ -4157,8 +4153,8 @@ msgstr "Withdraw"
 #: LocalizationPatch:857
 msgid ""
 "退会する場合、アカウント内の全てのデータが削除されます。\n"
-" 退会によるデータ初期化は払い戻しの対象にはなりません。\n"
-" 本当に退会処理を行いますか？"
+"  退会によるデータ初期化は払い戻しの対象にはなりません。\n"
+"  本当に退会処理を行いますか？"
 msgstr ""
 "If you withdraw, all data in your account will be deleted.\n"
 "Loss of data due to withdrawal is not eligible for a refund.\n"
@@ -4168,7 +4164,7 @@ msgstr ""
 #: LocalizationPatch:858
 msgid ""
 "退会して削除されたアカウントデータは二度と復旧できません。\n"
-" 本当に退会処理を行いますか？"
+"  本当に退会処理を行いますか？"
 msgstr ""
 "Loss of account data due to withdrawal cannot be recovered.\n"
 "Do you really want to withdraw?"
@@ -4207,10 +4203,10 @@ msgstr "1 {0} is required."
 #: LocalizationPatch:865
 msgid ""
 "変更するニックネームを入力してください。\n"
-" 変更時、{0}が1個消費されます。"
+"  変更時、{0}が1個消費されます。"
 msgstr ""
 "Please enter a new name.\n"
-"1 {0} will be consumed for each name change."
+"A {0} will be consumed for each name change."
 
 #  Korean Text: '닉네임 변경이 완료 되었습니다.'
 #: LocalizationPatch:867
@@ -4507,10 +4503,10 @@ msgstr ""
 "You will be able to proceed only if you meet the [ffcc00]level[-] and "
 "[00c6ff]affection[-] requirements."
 
-#  Korean Text: '■ [ffcc00]SS등급[-]으로 승급 시, 승급 [ffcc00]전용 스킨[-]이 활성화됩니다.'
+#  Korean Text: '■ 일부 캐릭터는 [ffcc00]SS등급[-]으로 승급 시, 승급 [ffcc00]전용 스킨[-]이 활성화됩니다.'
 #: LocalizationPatch:926
-msgid "■[ffcc00]SS等級[-]に昇級時、昇級[ffcc00]専用スキル[-]が活性化されます。"
-msgstr "When promoted to [ffcc00]SS Rank[-], an exclusive skin will be awarded."
+msgid "■[ffcc00]SS等級[-]に昇級時、昇級[ffcc00]専用スキン[-]が活性化されます。"
+msgstr ""
 
 #  Korean Text: '승급에 필요한 조건을 달성하지 못했습니다.'
 #: LocalizationPatch:927
@@ -4684,8 +4680,8 @@ msgstr "Full Link Bonus Settings"
 #: LocalizationPatch:972
 msgid ""
 "フルリンクボーナスは[c][f0f0b3]1種のみ選択[-][/c]することができます。\n"
-" \n"
-" 該当機能をフルリンクボーナスで設定しますか?"
+"  \n"
+"  該当機能をフルリンクボーナスで設定しますか?"
 msgstr ""
 
 #  Korean Text: '총 적합률 [c][22F5FFFF]{0}%[-][/c]'
@@ -4724,7 +4720,7 @@ msgstr "Begin Linking"
 #: LocalizationPatch:979
 msgid ""
 "現在のスロットを初期化します。 [c][f0f0b3]リンク中のコアは、消滅[-][/c]します。\n"
-" 該当リンクスロットを初期化するためには、[c][f0f0b3]リンク解除機[-][/c]が必要です。"
+"  該当リンクスロットを初期化するためには、[c][f0f0b3]リンク解除機[-][/c]が必要です。"
 msgstr ""
 
 #  Korean Text: '적합률 {0}%'
@@ -4813,14 +4809,14 @@ msgstr "The image of the current aide cannot be changed."
 #: LocalizationPatch:1001
 msgid ""
 "ロビーから出力される副官のイメージは保有している全てのキャラクターの中からランダムで出力されます。\n"
-" 実際の副官が変更されるわけではなく、出力されるイメージのみ変更されます。"
+"  実際の副官が変更されるわけではなく、出力されるイメージのみ変更されます。"
 msgstr ""
 
 #  Korean Text: '로비에서 출력되는 부관의 이미지가 보유하고 있는 모든 스킨의 이미지 중에서 랜덤으로 출력됩니다.\n 실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다.'
 #: LocalizationPatch:1002
 msgid ""
 "ロビーで表示される副官のイメージは、保有しているすべてのスキンのイメージの中からランダムで出力されます。\n"
-" 実際の副官が変更されるわけではなく、表示されるイメージのみ変更されます。"
+"  実際の副官が変更されるわけではなく、表示されるイメージのみ変更されます。"
 msgstr ""
 
 #  Korean Text: '강화 불가 캐릭터 숨김'
@@ -5975,35 +5971,36 @@ msgstr "You cannot give any more gifts."
 msgid "最大レベル到達"
 msgstr "Maximum level reached"
 
+#  Korean Text: '기본 적용'
 #: LocalizationPatch:1256
-msgid "기본 적용"
+msgid "基本適用"
 msgstr "Apply Default"
 
+#  Korean Text: '프리셋 적용'
 #: LocalizationPatch:1257
-msgid "프리셋 적용"
+msgid "プリセット適用"
 msgstr "Apply Preset"
 
+#  Korean Text: '캐릭터 랜덤'
 #: LocalizationPatch:1258
-msgid "캐릭터 랜덤"
+msgid "キャラクターランダム"
 msgstr "Random character"
 
-#: LocalizationPatch:1259
-msgid "스킨 랜덤"
-msgstr "Random(Skin)"
-
+#  Korean Text: '캐릭터 및 배경 랜덤'
 #: LocalizationPatch:1260
-msgid "캐릭터 및 배경 랜덤"
+msgid "キャラクターおよび背景ランダム"
 msgstr "Random background and character"
 
+#  Korean Text: '스킨 및 배경 랜덤'
 #: LocalizationPatch:1261
-msgid "스킨 및 배경 랜덤"
+msgid "スキンおよび背景ランダム"
 msgstr "Random skin and background"
 
 #  Korean Text: '로비에서 출력되는 부관 및 배경 이미지를 미리 설정한 프리셋에서 출력합니다.\n실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다.'
 #: LocalizationPatch:1262
 msgid ""
-"로비에서 출력되는 부관 및 배경 이미지를 미리 설정한 프리셋에서 출력합니다.\n"
-" 실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다."
+"ロビーで表示される副官および背景画像を予め設定しておいたプリセットで表示します。\n"
+" 実際に副官が変更されるわけではなく、表示される画像のみが変更されます。"
 msgstr ""
 "Displays character and backgrounds in the lobby from your presets.\n"
 "The actual aide does not change, only the displayed image."
@@ -6011,8 +6008,8 @@ msgstr ""
 #  Korean Text: '로비에서 출력되는 부관 및 배경 이미지를 보유하고 있는 모든 캐릭터 및 배경 중에서 랜덤으로 출력합니다.\n실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다.'
 #: LocalizationPatch:1263
 msgid ""
-"로비에서 출력되는 부관 및 배경 이미지를 보유하고 있는 모든 캐릭터 및 배경 중에서 랜덤으로 출력합니다.\n"
-" 실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다."
+"ロビーで表示される副官および背景画像を保有している全てのキャラクターおよび背景の中からランダムで表示します。\n"
+" 実際に副官が変更されるわけではなく、表示される画像のみが変更されます。"
 msgstr ""
 "Display a random skin and background from all owned characters with skin and "
 "background combinations in the lobby.\n"
@@ -6021,19 +6018,21 @@ msgstr ""
 #  Korean Text: '로비에서 출력되는 부관 및 배경 이미지를 보유하고 있는 모든 스킨 및 배경 중에서 랜덤으로 출력합니다.\n실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다.'
 #: LocalizationPatch:1264
 msgid ""
-"로비에서 출력되는 부관 및 배경 이미지를 보유하고 있는 모든 스킨 및 배경 중에서 랜덤으로 출력합니다.\n"
-" 실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다."
+"ロビーで表示される副官および背景画像を保有している全てのスキンおよび背景からランダムで表示します。\n"
+" 実際に副官が変更されるわけではなく、表示される画像のみが変更されます。"
 msgstr ""
 "Display a random character and background from all owned characters with "
 "character and background combinations in the lobby.\n"
 "The actual aide does not change, only the displayed image."
 
+#  Korean Text: '일괄해제'
 #: LocalizationPatch:1265
-msgid "일괄해제"
+msgid "一括解除"
 msgstr "Batch Release"
 
+#  Korean Text: '스킬레벨 정보'
 #: LocalizationPatch:1266
-msgid "스킬레벨 정보"
+msgid "スキルレベル情報"
 msgstr "Skill Level Information"
 
 #  Korean Text: '닉네임 확인'
@@ -6081,26 +6080,31 @@ msgstr "Stock"
 msgid "戦闘勝利"
 msgstr "Battle Victory"
 
+#  Korean Text: '중파 스킨 설정은 프리셋 및 캐릭터 상세보기 메뉴에 일괄 적용됩니다.'
 #: LocalizationPatch:1280
-msgid "중파 스킨 설정은 프리셋 및 캐릭터 상세보기 메뉴에 일괄 적용됩니다."
+msgid "中破スキン設定はプリセットおよびキャラクター詳細確認メニューに一括適用されます。"
 msgstr ""
 "Damaged skin status is immediately visible in presets and character detail "
 "menus."
 
+#  Korean Text: '잠금을 해제 하려면 화면을 드래그 하세요.'
 #: LocalizationPatch:1281
-msgid "잠금을 해제 하려면 화면을 드래그 하세요."
+msgid "ロックを解除するためには画面をドラッグしてください。"
 msgstr "Drag the screen to unlock."
 
+#  Korean Text: '버튼을 누르면 미니게임을 시작합니다.'
 #: LocalizationPatch:1282
-msgid "버튼을 누르면 미니게임을 시작합니다."
+msgid "ボタンを押すとミニゲームが始まります。"
 msgstr "Press the button to start the minigame."
 
+#  Korean Text: '화면보호기 설정'
 #: LocalizationPatch:1283
-msgid "화면보호기 설정"
+msgid "画面保護機設定"
 msgstr "Screen Saver Settings"
 
+#  Korean Text: '{0}분'
 #: LocalizationPatch:1284
-msgid "{0}분"
+msgid "{0}分"
 msgstr "{0} minutes"
 
 #  Korean Text: '다음 퍼즐'
@@ -6118,15 +6122,17 @@ msgstr "Solve the slide puzzle!"
 msgid "味方の信号探索中..."
 msgstr "Searching for friendly signals in the area..."
 
+#  Korean Text: '일괄 수령중 입니다. 잠시만 기다려주세요.'
 #: LocalizationPatch:1289
-msgid "일괄 수령중 입니다. 잠시만 기다려주세요."
+msgid "一括受領中です。しばらくお待ちください。"
 msgstr "Starting bulk receipt. Please wait."
 
+#  Korean Text: '[c][ffb900ff]제작 중인 장비[-][/c]가 있습니다.\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 완성 하시겠습니까?\n\n즉시 완성된 장비는 [c][ffb900ff]일괄적으로 수령[-][/c]됩니다.\n\n[sub][c][CDCDCDFF]SS급 장비를 제외한 등장 연출은 생략됩니다.[-][/c]'
 #: LocalizationPatch:1290
 msgid ""
-"[c][ffb900ff]제작 중인 장비[-][/c]가 있습니다.\\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 "
-"완성 하시겠습니까?\\n\\n즉시 완성된 장비는 [c][ffb900ff]일괄적으로 수령[-"
-"][/c]됩니다.\\n\\n[sub][c][CDCDCDFF]SS급 장비를 제외한 등장 연출은 생략됩니다.[-][/c]"
+"[c][ffb900ff]製作中の装備[-][/c]があります。\\n [c][ffb900ff]急速完成回路[-"
+"][/c]を消費して今すぐ完成させますか？\\n\\n即時完成された装備は[c][ffb900ff]一括受領[-"
+"][/c]となります。\\n\\n[sub][c][CDCDCDFF]SS級装備を除く登場時の演出は省略されます。[-][/c]"
 msgstr ""
 "[c][ffb900ff]There is equipment in production[-][/c].\\nDo you want to "
 "consume a [c][ffb900ff]Quick-Complete Circuit[-][/c] and complete it "
@@ -6134,66 +6140,78 @@ msgstr ""
 "batch[-][/c].\\n\\n[sub][c][CDCDCDFF]Only SS-Class equipment will be shown.[-"
 "][/c]"
 
+#  Korean Text: '수령'
 #: LocalizationPatch:1291
-msgid "수령"
+msgid "受領"
 msgstr "Receipt"
 
+#  Korean Text: '일괄 수령 완료'
 #: LocalizationPatch:1292
-msgid "일괄 수령 완료"
+msgid "一括受領完了"
 msgstr "Bulk receipt complete"
 
+#  Korean Text: '일괄 제작 중입니다. 잠시만 기다려주세요.'
 #: LocalizationPatch:1293
-msgid "일괄 제작 중입니다. 잠시만 기다려주세요."
+msgid "一括製作中です。しばらくお待ちください。"
 msgstr "Working on batch production. Please wait."
 
+#  Korean Text: '제조 중인 장비가 없습니다.'
 #: LocalizationPatch:1294
-msgid "제조 중인 장비가 없습니다."
+msgid "製造中の装備がありません。"
 msgstr "No equipment is being produced."
 
+#  Korean Text: '수령 가능 장비가 없습니다.'
 #: LocalizationPatch:1295
-msgid "수령 가능 장비가 없습니다."
+msgid "受領可能な装備がありません。"
 msgstr "No equipment available."
 
+#  Korean Text: '일괄제작'
 #: LocalizationPatch:1296
-msgid "일괄제작"
+msgid "一括製作"
 msgstr "Batch Production"
 
+#  Korean Text: '[c][ffb900ff]비어있는 슬롯[-][/c]에 원하는 수량 만큼의 제작을 진행 합니다.\n\n현재 비어있는 슬롯 개수는 [c][ffb900ff]{0}칸[-][/c] 입니다.\n\n[sub][c][CDCDCDFF]제작 수량 당 자원 소모치는 현재 배분한 자원과 동일합니다.[-][/c]'
 #: LocalizationPatch:1297
 msgid ""
-"[c][ffb900ff]비어있는 슬롯[-][/c]에 원하는 수량 만큼의 제작을 진행 합니다.\\n\\n현재 비어있는 슬롯 개수는 "
-"[c][ffb900ff]{0}칸[-][/c] 입니다.\\n\\n[sub][c][CDCDCDFF]제작 수량 당 자원 소모치는 현재 배분한 "
-"자원과 동일합니다.[-][/c]"
+"[c][ffb900ff]空のスロット[-][/c]に指定した数量の製作を行います。\\n\\n現在、空のスロット数は[c][ffb900ff]{0}個[-"
+"][/c]です。\\n\\n[sub][c][CDCDCDFF]1個製作するたびの資源消費数値は現在割り当てられた資源と同一です。[-][/c]"
 msgstr ""
 "Produce the desired quantity [c][ffb900ff]in empty slots[-][/c].\\n\\nThere "
 "are currently [c][ffb900ff]{0}[-][/c] slots "
 "available.\\n\\n[sub][c][CDCDCDFF]The resource consumption per build quantity "
 "is the same as the resources currently allocated.[-][/c]"
 
+#  Korean Text: '제작수량'
 #: LocalizationPatch:1298
-msgid "제작수량"
+msgid "製作数量"
 msgstr "Production Quantity"
 
+#  Korean Text: '제작에 필요한 재료가 부족합니다.'
 #: LocalizationPatch:1299
-msgid "제작에 필요한 재료가 부족합니다."
+msgid "製作に必要な材料が足りません。"
 msgstr "Insufficient materials to build."
 
+#  Korean Text: '제작에 필요한 자원이 부족합니다.'
 #: LocalizationPatch:1300
-msgid "제작에 필요한 자원이 부족합니다."
+msgid "製作に必要な資源が足りません。"
 msgstr "Insufficient resources to build."
 
+#  Korean Text: '제작에 필요한 슬롯이 부족합니다.'
 #: LocalizationPatch:1301
-msgid "제작에 필요한 슬롯이 부족합니다."
+msgid "製作に必要なスロットが足りません。"
 msgstr "Insufficient slots to build."
 
+#  Korean Text: '최대 제작 수량입니다.'
 #: LocalizationPatch:1302
-msgid "최대 제작 수량입니다."
+msgid "製作数量が最大値です。"
 msgstr "Maximum production quantity."
 
+#  Korean Text: '[c][ffb900ff]제작 중인 캐릭터[-][/c]가 있습니다.\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 완성 하시겠습니까?\n\n즉시 완성된 캐릭터는 [c][ffb900ff]일괄적으로 수령[-][/c]됩니다.\n\n[sub][c][CDCDCDFF]우측 상단 버튼을 사용하여 등장 연출을 모두 스킵할 수 있습니다.[-][/c]'
 #: LocalizationPatch:1303
 msgid ""
-"[c][ffb900ff]제작 중인 캐릭터[-][/c]가 있습니다.\\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 "
-"완성 하시겠습니까?\\n\\n즉시 완성된 캐릭터는 [c][ffb900ff]일괄적으로 수령[-"
-"][/c]됩니다.\\n\\n[sub][c][CDCDCDFF]우측 상단 버튼을 사용하여 등장 연출을 모두 스킵할 수 있습니다.[-][/c]"
+"[c][ffb900ff]製作中のキャラクター[-][/c]があります。\\n [c][ffb900ff]急速完成回路[-"
+"][/c]を消費して直ちに完成させますか？\\n\\n即時完成されたキャラクターは[c][ffb900ff]一括受領[-"
+"][/c]となります。\\n\\n[sub][c][CDCDCDFF]右側上段のボタンを使用して登場演出を全てスキップすることができます。[-][/c]"
 msgstr ""
 "[c][ffb900ff]There are characters in production[-][/c].\\nDo you want to "
 "consume a [c][ffb900ff]Quick-Complete Circuit[-][/c] and complete it "
@@ -6201,12 +6219,14 @@ msgstr ""
 "batch[-][/c].\\n\\n[sub][c][CDCDCDFF]You can use the top-right button to skip "
 "character display.[-][/c]"
 
+#  Korean Text: '제조 중인 캐릭터가 없습니다.'
 #: LocalizationPatch:1304
-msgid "제조 중인 캐릭터가 없습니다."
+msgid "製造中のキャラクターがいません。"
 msgstr "No characters are in production."
 
+#  Korean Text: '수령 가능 캐릭터가 없습니다.'
 #: LocalizationPatch:1305
-msgid "수령 가능 캐릭터가 없습니다."
+msgid "受領可能なキャラクターがいません。"
 msgstr "No characters can be collected."
 
 #  Korean Text: '스킬 상세 정보 -'
@@ -6256,40 +6276,49 @@ msgstr "Defeat Conditions"
 msgid "ミッション"
 msgstr "Mission"
 
+#  Korean Text: '최대 강화 장비 숨기기'
 #: LocalizationPatch:1315
-msgid "최대 강화 장비 숨기기"
+msgid "最大強化装備非表示"
 msgstr "Hide Max Enhancement Equipment"
 
+#  Korean Text: '기타'
 #: LocalizationPatch:1316
-msgid "기타"
+msgid "その他"
 msgstr "Other"
 
+#  Korean Text: '고정 범위'
 #: LocalizationPatch:1317
-msgid "고정 범위"
+msgid "固定範囲"
 msgstr "Fixed Range"
 
+#  Korean Text: '상대 좌표'
 #: LocalizationPatch:1318
-msgid "상대 좌표"
+msgid "相手の座標"
 msgstr "Relative to Target"
 
+#  Korean Text: '30초'
 #: LocalizationPatch:1319
-msgid "30초"
+msgid "30秒"
 msgstr "30 Seconds"
 
+#  Korean Text: '5분'
 #: LocalizationPatch:1320
-msgid "5분"
+msgid "5分"
 msgstr "5 Minutes"
 
+#  Korean Text: '15분'
 #: LocalizationPatch:1321
-msgid "15분"
+msgid "15分"
 msgstr "15 Minutes"
 
+#  Korean Text: '화면 보호기'
 #: LocalizationPatch:1323
-msgid "화면 보호기"
+msgid "画面保護機"
 msgstr "Screen Saver"
 
+#  Korean Text: '전투 중, 조작이 없을 경우 화면 보호기를\n자동으로 실행하는 시간을 조정 합니다.'
 #: LocalizationPatch:1324
-msgid "전투 중, 조작이 없을 경우 화면 보호기를\\n자동으로 실행하는 시간을 조정 합니다."
+msgid "戦闘中、何の操作も発生しない場合、画面保護機を\\n自動的に実行するまでの時間を調整します。"
 msgstr ""
 "Adjusts the time to automatically launch\\nthe screen saver when idling "
 "during combat."
@@ -6308,7 +6337,7 @@ msgstr "The item effect is applied."
 #: LocalizationPatch:1328
 msgid ""
 "#1\n"
-" "
+"  "
 "およそ100年ぶりにエヴァから通信を受けたラビアタは驚愕せざるを得なかった。人間が見つかったなんて!だが、慎重なラビアタは、それを鵜呑みにはしなかった。その"
 "通信が本物のエヴァから届いたのか、それとも鉄虫のワナなのか、確信が持てなかったからだ。ラビアタは真実を確かめるため、エヴァを試した。"
 msgstr ""
@@ -6317,7 +6346,7 @@ msgstr ""
 #: LocalizationPatch:1329
 msgid ""
 "#2\n"
-" "
+"  "
 "彼女の話はほぼ完璧だった。彼女はラビアタ、アミーナ、そして彼女だけが知っているアダム･ジョーンズに関する秘密をすべて知っていた。しかし、話の中には所々不審な"
 "点もあった。鉄虫が襲来してからの記憶が曖昧だった点とか。しかし、それ以外はおよそ完璧だったため、ラビアタはそれ以上疑わなかった。ラビアタは探索隊の人選を始め"
 "た。"
@@ -6327,40 +6356,47 @@ msgstr ""
 #: LocalizationPatch:1330
 msgid ""
 "#3\n"
-" 探索隊は、指揮官として慎重な性格のコンスタンツァSシリーズ一機、偵察に長けたP/A-"
+"  探索隊は、指揮官として慎重な性格のコンスタンツァSシリーズ一機、偵察に長けたP/A-"
 "00グリフォン一機、そして彼女たちを護衛するコンパニオンとスチールラインの分隊で編成した。98の分隊を持っているラビアタは、すべての分隊をエヴァから伝えられ"
 "た地域に分けて派遣した。\n"
-" "
+"  "
 "ラビアタは知っていた。この危険な作戦で多くの姉妹が犠牲になるということを。しかし、最後の希望をあきらめることはできなかった。一つの分隊だけでも無事に人間を発"
 "見して帰って来られれば、人類は再び復興することができるだろう。ラビアタは唇を噛み締めながら考えた。"
 msgstr ""
 
+#  Korean Text: '[c][97a9a3]{0} 반격 실패(스킬사용불가)[-][/c]'
 #: LocalizationPatch:1331
-msgid "[c][97a9a3]{0} 반격 실패(스킬사용불가)[-][/c]"
+msgid "[c][97a9a3]{0} 反撃失敗(スキル使用不可)[-][/c]"
 msgstr "[c][97a9a3]{0} Counterattack Failed (Skill Unavailable)[-][/c]"
 
+#  Korean Text: '[c][97a9a3]{0} 반격 실패(행동불가)[-][/c]'
 #: LocalizationPatch:1332
-msgid "[c][97a9a3]{0} 반격 실패(행동불가)[-][/c]"
+msgid "[c][97a9a3]{0} 反撃失敗(行動不可)[-][/c]"
 msgstr "[c][97a9a3]{0} Counterattack Failed (Cannot Act)[-][/c]"
 
+#  Korean Text: '[c][97a9a3]{0} 반격 실패(사거리)[-][/c]'
 #: LocalizationPatch:1333
-msgid "[c][97a9a3]{0} 반격 실패(사거리)[-][/c]"
+msgid "[c][97a9a3]{0} 反撃失敗(射程距離)[-][/c]"
 msgstr "[c][97a9a3]{0} Counterattack Failed (Range)[-][/c]"
 
+#  Korean Text: '[c][97a9a3]{0} 지원공격 실패(스킬사용불가)[-][/c]'
 #: LocalizationPatch:1334
-msgid "[c][97a9a3]{0} 지원공격 실패(스킬사용불가)[-][/c]"
+msgid "[c][97a9a3]{0} 支援攻撃失敗(スキル使用不可)[-][/c]"
 msgstr "[c][97a9a3]{0} Support Attack Failed (Skill Unavailable)[-][/c]"
 
+#  Korean Text: '[c][97a9a3]{0} 지원공격 실패(행동불가)[-][/c]'
 #: LocalizationPatch:1335
-msgid "[c][97a9a3]{0} 지원공격 실패(행동불가)[-][/c]"
+msgid "[c][97a9a3]{0} 支援攻撃失敗(行動不可)[-][/c]"
 msgstr "[c][97a9a3]{0} Support Attack Failed (Cannot Act)[-][/c]"
 
+#  Korean Text: '[c][97a9a3]{0} 지원공격 실패(사거리)[-][/c]'
 #: LocalizationPatch:1336
-msgid "[c][97a9a3]{0} 지원공격 실패(사거리)[-][/c]"
+msgid "[c][97a9a3]{0} 支援攻撃失敗(射程距離)[-][/c]"
 msgstr "[c][97a9a3]{0} Support Attack Failed (Range)[-][/c]"
 
+#  Korean Text: '{0} {1} 방어막 흡수'
 #: LocalizationPatch:1337
-msgid "{0} {1} 방어막 흡수"
+msgid "{0} {1} バリア吸収"
 msgstr "{0} {1} Shield Absorption"
 
 #  Korean Text: '구매가능 최대 금액을 초과하여 더 이상 구매가 불가능 합니다.'
@@ -6368,8 +6404,9 @@ msgstr "{0} {1} Shield Absorption"
 msgid "購入金額上限を超えるため、これ以上は購入できません"
 msgstr "You cannot purchase more than the maximum amount available"
 
+#  Korean Text: '[c][A1A1A18C]반복 전투[-][c] [c][436547FF]{0}[-][c][c][A1A1A18C]회 완료![-][c]'
 #: LocalizationPatch:1339
-msgid "[c][A1A1A18C]반복 전투[-][c] [c][436547FF]{0}[-][c][c][A1A1A18C]회 완료![-][c]"
+msgid "[c][A1A1A18C]反復戦闘[-][c] [c][436547FF]{0}[-][c][c][A1A1A18C]回完了！[-][c]"
 msgstr ""
 
 #  Korean Text: '삼안 산업 재활용 교환소'
@@ -6400,16 +6437,19 @@ msgid "復元が終了されました。タイトル画面に戻ります。"
 msgstr ""
 "Recovery operation completed successfully. Returning to the title screen."
 
+#  Korean Text: '모든 임무'
 #: LocalizationPatch:1345
-msgid "모든 임무"
+msgid "全ての任務"
 msgstr "All Missions"
 
+#  Korean Text: '전투'
 #: LocalizationPatch:1346
-msgid "전투"
+msgid "戦闘"
 msgstr "Battle"
 
+#  Korean Text: '강화/승급'
 #: LocalizationPatch:1347
-msgid "강화/승급"
+msgid "強化/昇級"
 msgstr "Enhance / Promote"
 
 #  Korean Text: '계정으로 로그인'
@@ -6417,8 +6457,9 @@ msgstr "Enhance / Promote"
 msgid "アカウントでログイン"
 msgstr "Log in with your account"
 
+#  Korean Text: '캐릭터 보유 수량 초과'
 #: LocalizationPatch:1349
-msgid "캐릭터 보유 수량 초과"
+msgid "キャラクター保有量超過"
 msgstr "Unit capacity exceeded"
 
 #  Korean Text: '자원 구매 안내'
@@ -6436,34 +6477,35 @@ msgstr "Your Twitter account has been linked."
 msgid "ログイン情報の期限が過ぎたためゲームアプリを終了します。"
 msgstr "Exiting game due to login information expiring."
 
+#  Korean Text: 'B급 일괄 선택'
 #: LocalizationPatch:1353
-msgid "B급 일괄 선택"
+msgid "B級一括選択"
 msgstr "B-Class batch selection"
 
+#  Korean Text: 'B급 일괄 해제'
 #: LocalizationPatch:1354
-msgid "B급 일괄 해제"
+msgid "B級一括解除"
 msgstr "B-Class batch disassembly"
 
+#  Korean Text: '프리셋 설정된 전투원은 영구 링크가 불가능 합니다.'
 #: LocalizationPatch:1355
-msgid "프리셋 설정된 전투원은 영구 링크가 불가능 합니다."
+msgid "プリセット設定された戦闘員は永久リンクが不可能です。"
 msgstr "Units in a preset cannot be permanently linked."
 
+#  Korean Text: '[c][2ac940]{0}의 재공격[-][/c]'
 #: LocalizationPatch:1356
-msgid "[c][2ac940]{0}의 재공격[-][/c]"
+msgid "[c][2ac940]{0}の再攻撃[-][/c]"
 msgstr "[c][2ac940]Re-Attack of {0}[-][/c]"
 
+#  Korean Text: '{0} 피해 최소화'
 #: LocalizationPatch:1357
-msgid "{0} 피해 최소화"
+msgid "{0} ダメージ最小化"
 msgstr "Minimize Damage {0}"
 
+#  Korean Text: '{0} 피해 무효'
 #: LocalizationPatch:1358
-msgid "{0} 피해 무효"
+msgid "{0} ダメージ無効"
 msgstr "Nullify Damage {0}"
-
-#  Korean Text: '+ 를 탭해 대원을 충원 할 수 있습니다.'
-#: LocalizationPatch:1359
-msgid "+をタップすると隊員を補充できます。"
-msgstr "+ Tap to recruit units."
 
 #  Korean Text: '(완료)'
 #: LocalizationPatch:1360
@@ -6490,24 +6532,29 @@ msgstr "[FFCC00FF]▼[-] [Close]"
 msgid "コンスタンツァからの"
 msgstr "Constantia"
 
+#  Korean Text: '전투 불능 전투원이 있어 전투 종료'
 #: LocalizationPatch:1366
-msgid "전투 불능 전투원이 있어 전투 종료"
+msgid "戦闘不能戦闘員がいるため戦闘終了"
 msgstr "Ending battle due to an inoperable unit"
 
+#  Korean Text: '전투 진입 불가'
 #: LocalizationPatch:1367
-msgid "전투 진입 불가"
+msgid "戦闘進入不可"
 msgstr "Unable to enter battle"
 
+#  Korean Text: '수용 초과로 인해 전투 종료'
 #: LocalizationPatch:1368
-msgid "수용 초과로 인해 전투 종료"
+msgid "受容超過により戦闘終了"
 msgstr "Ending battle due to exceeding capacity"
 
+#  Korean Text: '자원 부족으로 인해 전투 종료'
 #: LocalizationPatch:1369
-msgid "자원 부족으로 인해 전투 종료"
+msgid "資源不足により戦闘終了"
 msgstr "Ending battle due to a lack of resources"
 
+#  Korean Text: '자원 탐색 현황을 상단에서 확인하실 수 있습니다.'
 #: LocalizationPatch:1370
-msgid "자원 탐색 현황을 상단에서 확인하실 수 있습니다."
+msgid "資源探索の現況を上段で確認できます。"
 msgstr "You can check the status of explorations at the top."
 
 #  Korean Text: '대기시간'
@@ -6515,57 +6562,65 @@ msgstr "You can check the status of explorations at the top."
 msgid "待機時間"
 msgstr "Waiting Time"
 
+#  Korean Text: '강화'
 #: LocalizationPatch:1372
-msgid "강화"
+msgid "強化"
 msgstr "Enhance"
 
+#  Korean Text: '품절된 상품 숨기기'
 #: LocalizationPatch:1373
-msgid "품절된 상품 숨기기"
+msgid "売り切れの商品非表示"
 msgstr "Hide out-of-stock items"
 
 #  Korean Text: '#4\r\n21스쿼드의 보고는 라비아타를 흥분하게 했다. 그녀들을 호위하던 리리스와 레프리콘, 노움과는 전투 중 떨어졌지만 416번 콘스탄챠 S2와 1,122번 그리폰은 하늘에서 이상한 인간형 남성체가 보호 기구와 함께 떨어지는 것을 확안했다는 보고를 했다. 어쩌면 오랫동안 기다려 왔다는 인간일 지도 모른다. 라비아타는 즉시 콘스탄챠를 그곳으로 움직이게 했다. 그리고 기도했다.'
 #: LocalizationPatch:1374
 msgid ""
 "#4 \n"
-" 21스쿼드의 보고는 라비아타를 흥분하게 했다. 그녀들을 호위하던 리리스와 레프리콘, 노움과는 전투 중 떨어졌지만 416번 콘스탄챠 S2와 "
-"1,122번 그리폰은 하늘에서 이상한 인간형 남성체가 보호 기구와 함께 떨어지는 것을 확안했다는 보고를 했다. 어쩌면 오랫동안 기다려 "
-"왔다는 인간일 지도 모른다. 라비아타는 즉시 콘스탄챠를 그곳으로 움직이게 했다. 그리고 기도했다."
+" "
+"21分隊の報告はラビアタを興奮させた。彼女を護衛していたリリスとレプリコン、ノームとは戦闘中に別れてしまったが、416番コンスタンツァS2と1,122番グリ"
+"フォンは、空から奇妙な人間型の男性の生物体が保護気球とともに落ちてくるのを確認したと報告した。もしかすると長い間待ち続けた人間かもしれない。ラビアタは直ちに"
+"コンスタンツァをその場所へ行かせた。そして祈った。"
 msgstr ""
 
 #  Korean Text: '#5\r\n갑작스러운 본부에 대한 습격. 희망과 동시에 찾아든 철충의 습격에 라비아타는 과거의 의심을 되살렸다. 그녀는 에바와의 문답에서 의심스러운 점이 있었다는 것을 떠올렸고 어쩌면 인간에 대한 발견이 철충의 함정일지도 모른다는 생각을 했다. 하지만 당장 대응해야 할 습격은 더욱 급한 일이었다. 게다가 습격체를 지휘하는 것은 집요하기로 유명했던 스토커였다. 라비아타는 다른 자매들을 대피시키기 위해 거대한 철충의 군대와 홀로 맞섰다. 큰 부상에도 불구하고 라비아타는 다른 자매들을 탈출시키는 데 성공했으며 자신 역시 그 자리를 벗어날 수 있었다. 탈출 후, 라비아타는 이전의 의심을 다시 떠올렸다.'
 #: LocalizationPatch:1375
 msgid ""
 "#5 \n"
-" 갑작스러운 본부에 대한 습격. 희망과 동시에 찾아든 철충의 습격에 라비아타는 과거의 의심을 되살렸다. 그녀는 에바와의 문답에서 의심스러운 "
-"점이 있었다는 것을 떠올렸고 어쩌면 인간에 대한 발견이 철충의 함정일지도 모른다는 생각을 했다. 하지만 당장 대응해야 할 습격은 더욱 급한 "
-"일이었다. 게다가 습격체를 지휘하는 것은 집요하기로 유명했던 스토커였다. 라비아타는 다른 자매들을 대피시키기 위해 거대한 철충의 군대와 "
-"홀로 맞섰다. 큰 부상에도 불구하고 라비아타는 다른 자매들을 탈출시키는 데 성공했으며 자신 역시 그 자리를 벗어날 수 있었다. 탈출 후, "
-"라비아타는 이전의 의심을 다시 떠올렸다."
+" "
+"突然の本部への襲撃。希望と同時に訪れた鉄虫の襲撃にラビアタは過去の疑念を思い出した。彼女はエバとの質疑応答で疑わしい点があったことを思い出し、もしかすると人"
+"間に対する発見が鉄虫の罠かもしれないと考えた。しかし目の前で起こっている襲撃への対応が急務だった。しかも襲撃集団を指揮するのは執拗なことで有名なストーカーだ"
+"った。ラビアタは他の姉妹を避難させるため、巨大な鉄虫の軍隊に一人で立ち向かった。大怪我を負うもののラビアタは他の姉妹を脱出させることに成功し、彼女もまたその"
+"場所からの脱出に成功した。その後、ラビアタは過去の疑念を再び思い出した。"
 msgstr ""
 
 #  Korean Text: '#6\r\n라비아타는 다시 바이오로이드를 모으지 않는 대신, 모든 바이오로이드들에게 편성된 제대대로 모여서 숨어 다니게 했다. 뭉쳐서 있는 게 어쩌면 더 위험할 수도 있다. 라비아타는 그리고 진실을 찾기 위해 자신이 피하던 과거, 삼안 산업의 잔해를 향해 떠났다. 수많은 어려움이 있더라도 라비아타는 움직여야 했다. 어쩌면 살아 있을 지도 모르는 진짜 인간과 아직 살아남은 바이오로이드들을 위하여.'
 #: LocalizationPatch:1376
 msgid ""
 "#6 \n"
-" 라비아타는 다시 바이오로이드를 모으지 않는 대신, 모든 바이오로이드들에게 편성된 제대대로 모여서 숨어 다니게 했다. 뭉쳐서 있는 게 "
-"어쩌면 더 위험할 수도 있다. 라비아타는 그리고 진실을 찾기 위해 자신이 피하던 과거, 삼안 산업의 잔해를 향해 떠났다. 수많은 어려움이 "
-"있더라도 라비아타는 움직여야 했다. 어쩌면 살아 있을 지도 모르는 진짜 인간과 아직 살아남은 바이오로이드들을 위하여."
+" "
+"ラビアタは再びバイオロイドを集結させない代わり、全てのバイオロイドに対し編成された分隊単位で身を隠すよう指示した。固まっている方がむしろ危険かもしれない。そ"
+"してラビアタは真実を探すため、自身が避けていた過去、三安産業の残骸に向かって出発した。多くの困難があろうともラビアタは行くしかなかった。ややもすると生きてい"
+"るかもしれない本当の人間と生き残ったバイオロイドのために。"
 msgstr ""
 
+#  Korean Text: '오프닝 영상 재생'
 #: LocalizationPatch:1377
-msgid "오프닝 영상 재생"
+msgid "オープニング映像再生"
 msgstr "Replay Opening Video"
 
+#  Korean Text: '제조'
 #: LocalizationPatch:1378
-msgid "제조"
+msgid "製造"
 msgstr "Produce"
 
+#  Korean Text: '서약'
 #: LocalizationPatch:1379
-msgid "서약"
+msgid "誓約"
 msgstr "Pledge"
 
+#  Korean Text: '대사'
 #: LocalizationPatch:1380
-msgid "대사"
+msgid "台詞"
 msgstr "Dialogue"
 
 #  Korean Text: '-획득 모듈-'
@@ -6583,78 +6638,93 @@ msgstr "-Acquired Resources-"
 msgid "追加獲得報酬"
 msgstr "Additional Acquisitions"
 
+#  Korean Text: '서약된 전투원은 영구 링크가 불가능 합니다.'
 #: LocalizationPatch:1393
-msgid "서약된 전투원은 영구 링크가 불가능 합니다."
+msgid "誓約した戦闘員は永久リンクが不可能です。"
 msgstr "Pledged units cannot be permanently linked."
 
+#  Korean Text: '최대 호감도'
 #: LocalizationPatch:1394
-msgid "최대 호감도"
+msgid "最大好感度"
 msgstr "Maximum Affection"
 
+#  Korean Text: '[c][f0f0b3]{0}[-][/c]에게 [c][f0f0b3]{1}[-][/c]아이템을 선물하여 최대 호감도가 [c][f0f0b3]{2}[-][/c] 상승했습니다.'
 #: LocalizationPatch:1395
 msgid ""
-"[c][f0f0b3]{0}[-][/c]에게 [c][f0f0b3]{1}[-][/c]아이템을 선물하여 최대 호감도가 "
-"[c][f0f0b3]{2}[-][/c] 상승했습니다."
+"[c][f0f0b3]{0}[-][/c]に[c][f0f0b3]{1}[-][/c]アイテムを贈ったため最大好感度が[c][f0f0b3]{2}[-"
+"][/c]上昇しました。"
 msgstr ""
 
 #  Korean Text: '현재  최대 호감도 : [c][FFBA29FF]{0}[-][/c]'
 #: LocalizationPatch:1396
-msgid "현재  최대 호감도 : [c][FFBA29FF]{0}[-][/c]"
+msgid "現在の最大好感度 : [c][FFBA29FF]{0}[-][/c]"
 msgstr ""
 
+#  Korean Text: '기본 (애정)'
 #: LocalizationPatch:1397
-msgid "기본 (애정)"
+msgid "基本(愛情)"
 msgstr ""
 
+#  Korean Text: '기본 (친밀)'
 #: LocalizationPatch:1398
-msgid "기본 (친밀)"
+msgid "基本(親密)"
 msgstr ""
 
+#  Korean Text: '기본 (호감)'
 #: LocalizationPatch:1399
-msgid "기본 (호감)"
+msgid "基本(好感)"
 msgstr ""
 
+#  Korean Text: '- 전투원 닉네임 설정 가능'
 #: LocalizationPatch:1400
-msgid "- 전투원 닉네임 설정 가능"
+msgid "- 戦闘員のニックネーム設定可能"
 msgstr ""
 
+#  Korean Text: '- 호감도 최대로 유지'
 #: LocalizationPatch:1401
-msgid "- 호감도 최대로 유지"
+msgid "- 好感度を最大に維持"
 msgstr ""
 
+#  Korean Text: '- 서약 전용 로비 / 전투 대사 추가'
 #: LocalizationPatch:1402
-msgid "- 서약 전용 로비 / 전투 대사 추가"
+msgid "- 誓約専用ロビー / 戦闘台詞追加"
 msgstr ""
 
+#  Korean Text: '- 로비 / 전투 대사 설정 기능'
 #: LocalizationPatch:1403
-msgid "- 로비 / 전투 대사 설정 기능"
+msgid "- ロビー / 戦闘台詞設定機能"
 msgstr ""
 
+#  Korean Text: '- 전투 경험치 / 스킬 경험치 획득 +{0}%'
 #: LocalizationPatch:1404
-msgid "- 전투 경험치 / 스킬 경험치 획득 +{0}%"
+msgid "- 戦闘経験値 / スキル経験値獲得 +{0}%"
 msgstr ""
 
+#  Korean Text: '- 영구히 중요 전투원으로 설정'
 #: LocalizationPatch:1405
-msgid "- 영구히 중요 전투원으로 설정"
+msgid "- 永久に重要戦闘員として設定"
 msgstr ""
 
+#  Korean Text: '대상과 서약을 진행합니다.\n서약 시, 다음 효과가 활성화됩니다.\r'
 #: LocalizationPatch:1406
 msgid ""
-"대상과 서약을 진행합니다.\n"
-"서약 시, 다음 효과가 활성화됩니다.\n"
+"対象と誓約を行います。\n"
+" 誓約時、次の効果が活性化します。"
 msgstr ""
 
+#  Korean Text: '서약 시, [c][FFCF04FF]서약 반지[-][/c] 1개가 소모됩니다.'
 #: LocalizationPatch:1407
-msgid "서약 시, [c][FFCF04FF]서약 반지[-][/c] 1개가 소모됩니다."
+msgid "誓約時、[c][FFCF04FF]誓約指輪[-][/c]1個が消費されます。"
 msgstr ""
 
+#  Korean Text: '최대 호감도 보너스'
 #: LocalizationPatch:1408
-msgid "최대 호감도 보너스"
+msgid "最大好感度ボーナス"
 msgstr ""
 
 #  Korean Text: '서약 또는 호감도 {0} 상태인 전투원은 다음 효과가 적용됩니다.'
 #: LocalizationPatch:1409
-msgid "서약 또는 호감도 {0} 상태인 전투원은 다음 효과가 적용됩니다."
+msgid "誓約または好感度{0}状態の戦闘員は次の効果が適用されます。"
 msgstr ""
 
 #  Korean Text: '애플 로그인에 실패하였습니다.'
@@ -6677,38 +6747,46 @@ msgstr ""
 msgid "Appleアカウントと連携されました。"
 msgstr ""
 
+#  Korean Text: '전투원 닉네임 설정'
 #: LocalizationPatch:1414
-msgid "전투원 닉네임 설정"
+msgid "戦闘員ニックネーム設定"
 msgstr ""
 
+#  Korean Text: '{0} [c][ffcc00]1개[-][/c]가 소모됩니다.'
 #: LocalizationPatch:1418
-msgid "{0} [c][ffcc00]1개[-][/c]가 소모됩니다."
+msgid "{0} [c][ffcc00]1個[-][/c]が消費されます。"
 msgstr ""
 
+#  Korean Text: '첫 변경은 [c][ffcc00]비용 없이[-][/c] 변경할 수 있습니다.'
 #: LocalizationPatch:1419
-msgid "첫 변경은 [c][ffcc00]비용 없이[-][/c] 변경할 수 있습니다."
+msgid "最初の変更は[c][ffcc00]無料で[-][/c]変更できます。"
 msgstr ""
 
+#  Korean Text: '[c][ffcc00]{0}[-][/c] 의 호칭을 변경합니다.'
 #: LocalizationPatch:1420
-msgid "[c][ffcc00]{0}[-][/c] 의 호칭을 변경합니다."
+msgid "[c][ffcc00]{0}[-][/c]の呼称を変更します。"
 msgstr ""
 
+#  Korean Text: '전투원 닉네임 변경 확인'
 #: LocalizationPatch:1421
-msgid "전투원 닉네임 변경 확인"
+msgid "戦闘員のニックネーム変更確認"
 msgstr ""
 
+#  Korean Text: '[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]\n변경하시겠습니까?'
 #: LocalizationPatch:1422
 msgid ""
 "[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]\n"
-"변경하시겠습니까?"
+" 変更しますか？"
 msgstr ""
 
+#  Korean Text: '장비 장착'
 #: LocalizationPatch:1423
-msgid "장비 장착"
+msgid "装備装着"
 msgstr ""
 
+#  Korean Text: '장비 해제'
 #: LocalizationPatch:1424
-msgid "장비 해제"
+msgid "装備解除"
 msgstr ""
 
 #  Korean Text: '훈련 결과'
@@ -6716,16 +6794,19 @@ msgstr ""
 msgid "訓練の結果"
 msgstr ""
 
+#  Korean Text: '최대 호감도가 맥스입니다.'
 #: LocalizationPatch:1426
-msgid "최대 호감도가 맥스입니다."
+msgid "最大好感度が最大値です。"
 msgstr ""
 
+#  Korean Text: '시설 제작'
 #: LocalizationPatch:1000001
-msgid "시설 제작"
+msgid "施設製作"
 msgstr ""
 
+#  Korean Text: '로비'
 #: LocalizationPatch:1000002
-msgid "로비"
+msgid "ロビー"
 msgstr ""
 
 #  Korean Text: '연령별 구매 제한 금액'
@@ -6772,14 +6853,14 @@ msgstr ""
 #: LocalizationPatch:1000011
 msgid ""
 "バイオロイド：一般製作\n"
-"-バイオロイド一般製作では[u][c][ffcc00]軽装型/機動型[-][/c][/u]バイオロイドを製作できます。\n"
-"-どのバイオロイドが製作されるかは完了するまで分かりませんが、投入した資源に応じて特定のバイオロイドを製作する確率を高めることができます。\n"
-" \n"
-"バイオロイド：特殊製作\n"
-"-バイオロイド特殊製作では[u][c][ffcc00]軽装型/機動型/重装型[-"
+" -バイオロイド一般製作では[u][c][ffcc00]軽装型/機動型[-][/c][/u]バイオロイドを製作できます。\n"
+" -どのバイオロイドが製作されるかは完了するまで分かりませんが、投入した資源に応じて特定のバイオロイドを製作する確率を高めることができます。\n"
+"  \n"
+" バイオロイド：特殊製作\n"
+" -バイオロイド特殊製作では[u][c][ffcc00]軽装型/機動型/重装型[-"
 "][/c][/u]バイオロイドを製作でき、A等級以上の戦闘員のみ製作されます。\n"
-"-基本的な内容は一般製作と同じですが、より多くの資源と高級モジュールが必要になります。\n"
-"-高級モジュールは各種任務の報酬やA等級以上の戦闘員または装備モジュールの分解を通して獲得できます。"
+" -基本的な内容は一般製作と同じですが、より多くの資源と高級モジュールが必要になります。\n"
+" -高級モジュールは各種任務の報酬やA等級以上の戦闘員または装備モジュールの分解を通して獲得できます。"
 msgstr ""
 
 #  Korean Text: '[u][c][b3d8db][전투원 제작에 대해 상세 설명] 사이트 이동[-][/c][/u]'
@@ -6791,8 +6872,8 @@ msgstr ""
 #: LocalizationPatch:1000013
 msgid ""
 "装備の製作\n"
-"-工房の装備製作メニューで装備を製作できます。\n"
-"-戦闘員製作と同様、製作される装備のタイプは[u][c][ffcc00]投入した資源の種類と量に応じて[-][/c][/u]異なります。"
+" -工房の装備製作メニューで装備を製作できます。\n"
+" -戦闘員製作と同様、製作される装備のタイプは[u][c][ffcc00]投入した資源の種類と量に応じて[-][/c][/u]異なります。"
 msgstr ""
 
 #  Korean Text: '[u][c][b3d8db][전투원 제작에 대해 상세 설명] 사이트 이동[-][/c][/u]'
@@ -6809,55 +6890,61 @@ msgstr ""
 #: LocalizationPatch:1000016
 msgid ""
 "[{0}]\n"
-"\n"
-"この設定でよろしいでしょうか。\n"
-"\n"
-"[c][ff2323]*年齢を誤って入力した場合、顧客センターまでお問い合わせください。[-][/c]"
+" \n"
+" この設定でよろしいでしょうか。\n"
+" \n"
+" [c][ff2323]*年齢を誤って入力した場合、顧客センターまでお問い合わせください。[-][/c]"
 msgstr ""
 
 #  Korean Text: '구매 가능 최대금액을 초과하여 더 이상 구매가 불가능 합니다.\n \n[{0}]\n \n이번 달 구매금액：{1}엔\n \n[c][ff2323]*연령을 잘못 선택 한 경우 고객센터를 이용하여 문의하여 주세요.[-][/c]\n \n*구매금액은 매월 1일 초기화 됩니다.'
 #: LocalizationPatch:1000017
 msgid ""
 "購入金額上限を超えるため、これ以上は購入できません。\n"
-" \n"
-"[{0}]\n"
-" \n"
-"今月の購入金額：4,500円\n"
-" \n"
-"[c][ff2323]*年齢を誤って入力した場合、顧客センターまでお問い合わせください。[-][/c]\n"
-" \n"
-"*購入金額は、毎月1日にリセットされます。"
+"  \n"
+" [{0}]\n"
+"  \n"
+" 今月の購入金額：4,500円\n"
+"  \n"
+" [c][ff2323]*年齢を誤って入力した場合、顧客センターまでお問い合わせください。[-][/c]\n"
+"  \n"
+" *購入金額は、毎月1日にリセットされます。"
 msgstr ""
 
+#  Korean Text: '분해 획득 모듈'
 #: LocalizationPatch:1000019
-msgid "분해 획득 모듈"
+msgid "分解獲得モジュール"
 msgstr ""
 
+#  Korean Text: '슬롯 확장 필요'
 #: LocalizationPatch:1000020
-msgid "슬롯 확장 필요"
+msgid "スロット拡張必要"
 msgstr ""
 
+#  Korean Text: '서약한 전투원입니다. 정말 잠금을 해제하시겠습니까?\n잠금 해제 시에 서약한 전투원이 사라질 수 있습니다.'
 #: LocalizationPatch:1000021
 msgid ""
-"서약한 전투원입니다. 정말 잠금을 해제하시겠습니까?\n"
-"잠금 해제 시에 서약한 전투원이 사라질 수 있습니다."
+"誓約した戦闘員です。本当にロックを解除しますか？\n"
+" ロックを解除すると誓約した戦闘員が消失することがあります。"
 msgstr ""
 
+#  Korean Text: '서약 진행 후 취소는 불가능합니다.\n\n정말 서약을 진행하시겠습니까?'
 #: LocalizationPatch:1000022
 msgid ""
-"서약 진행 후 취소는 불가능합니다.\n"
-"\n"
-"정말 서약을 진행하시겠습니까?"
+"誓約進行後の取り消しはできません。\n"
+" \n"
+" 本当に誓約を行いますか？"
 msgstr ""
 
+#  Korean Text: '서약 장면을 다시 보시겠습니까?'
 #: LocalizationPatch:1000023
-msgid "서약 장면을 다시 보시겠습니까?"
+msgid "誓約画面をもう一度見ますか？"
 msgstr ""
 
+#  Korean Text: '서약한 전투원입니다.\n서약한 전투원이 사라질 수 있습니다.'
 #: LocalizationPatch:1000024
 msgid ""
-"서약한 전투원입니다.\n"
-"서약한 전투원이 사라질 수 있습니다."
+"誓約した戦闘員です。\n"
+" 誓約した戦闘員が消失することがあります。"
 msgstr ""
 
 #  Korean Text: '장착중'
@@ -6865,60 +6952,74 @@ msgstr ""
 msgid "装着中"
 msgstr "Equip"
 
+#  Korean Text: '제 {0}구역'
 #: LocalizationPatch:1000026
-msgid "제 {0}구역"
+msgid "第{0}区域"
 msgstr ""
 
+#  Korean Text: '[c][fbff00ff]제 {0}구역 : [-][/c]'
 #: LocalizationPatch:1000027
-msgid "[c][fbff00ff]제 {0}구역 : [-][/c]"
+msgid "[c][fbff00ff]第{0}区域: [-][/c]"
 msgstr ""
 
+#  Korean Text: '음성 대사 설정'
 #: LocalizationPatch:1000028
-msgid "음성 대사 설정"
+msgid "音声台詞設定"
 msgstr ""
 
+#  Korean Text: '스킨 중파'
 #: LocalizationPatch:1000029
-msgid "스킨 중파"
+msgid "スキン中破"
 msgstr ""
 
+#  Korean Text: '잠금'
 #: LocalizationPatch:1000030
-msgid "잠금"
+msgid "ロック"
 msgstr ""
 
+#  Korean Text: '다시보기'
 #: LocalizationPatch:1000031
-msgid "다시보기"
+msgid "もう一度見る"
 msgstr ""
 
+#  Korean Text: '메인'
 #: LocalizationPatch:1000032
-msgid "메인"
+msgid "メイン"
 msgstr ""
 
+#  Korean Text: '에피소드 선택'
 #: LocalizationPatch:1000033
-msgid "에피소드 선택"
+msgid "エピソード選択"
 msgstr ""
 
+#  Korean Text: '메인 스토리'
 #: LocalizationPatch:1000034
-msgid "메인 스토리"
+msgid "メインストーリー"
 msgstr ""
 
+#  Korean Text: '이벤트 스토리'
 #: LocalizationPatch:1000035
-msgid "이벤트 스토리"
+msgid "イベントストーリー"
 msgstr ""
 
+#  Korean Text: '외전'
 #: LocalizationPatch:1000036
-msgid "외전"
+msgid "外伝"
 msgstr ""
 
+#  Korean Text: '무료 변경권을 사용하지 않을 경우 사용할 때 까지 유지됩니다.'
 #: LocalizationPatch:1000037
-msgid "무료 변경권을 사용하지 않을 경우 사용할 때 까지 유지됩니다."
+msgid "無料変更券を使用しない場合、使用するまで維持されます。"
 msgstr ""
 
+#  Korean Text: '현재는 열람할 수 있는 기록이 없습니다.'
 #: LocalizationPatch:1000038
-msgid "현재는 열람할 수 있는 기록이 없습니다."
+msgid "現在は閲覧できる記録がありません。"
 msgstr ""
 
+#  Korean Text: '보유한 기록이 없습니다.'
 #: LocalizationPatch:1000039
-msgid "보유한 기록이 없습니다."
+msgid "保有中の記録がありません。"
 msgstr ""
 
 #  Korean Text: '인벤 공간이 부족합니다'
@@ -6926,12 +7027,9 @@ msgstr ""
 msgid "インベントリースペースが不足しています"
 msgstr ""
 
-#: LocalizationPatch:1000041
-msgid "인벤토리 공간이 부족합니다"
-msgstr ""
-
+#  Korean Text: '전투지도'
 #: LocalizationPatch:1000042
-msgid "전투지도"
+msgid "戦闘地図"
 msgstr ""
 
 #  Korean Text: '{0}의 연구를 완료했습니다!'
@@ -6944,375 +7042,467 @@ msgstr ""
 msgid "研究完了!"
 msgstr ""
 
+#  Korean Text: '사이드'
 #: LocalizationPatch:1000045
-msgid "사이드"
+msgid "サイド"
 msgstr ""
 
 #  Korean Text: '계정 연동을 하지 않고 로그아웃을 하는 경우, 계정내 모든 데이터가 초기화 됩니다.\n데이터가 초기화되는 경우에 데이터를 복구할 수 없습니다.\n정말로 로그아웃을 진행하시겠습니까?'
 #: LocalizationPatch:1000046
 msgid ""
 "アカウント連携せずにログアウトすると、全てのデータが削除されます。\n"
-"データが初期化された場合、データ復旧の対応を行うことができません。\n"
-"本当にログアウトしますか？"
+" データが初期化された場合、データ復旧の対応を行うことができません。\n"
+" 本当にログアウトしますか？"
 msgstr ""
 
+#  Korean Text: '시설 정보'
 #: LocalizationPatch:1000047
-msgid "시설 정보"
+msgid "施設情報"
 msgstr ""
 
+#  Korean Text: '시설 능력 / 생산'
 #: LocalizationPatch:1000048
-msgid "시설 능력 / 생산"
+msgid "施設能力 / 生産"
 msgstr ""
 
 #  Korean Text: '- 업그레이드 시 배치 인원 목록과 시설 효과가 초기화됩니다.'
 #: LocalizationPatch:1000049
-msgid "업그레이드 시 배치 인원과 시설 효과가 초기화됩니다."
+msgid "アップグレードすると配置した隊員と施設効果がリセットされます。"
 msgstr ""
 
+#  Korean Text: '필요 재료'
 #: LocalizationPatch:1000050
-msgid "필요 재료"
+msgid "必要材料"
 msgstr ""
 
+#  Korean Text: '조건에 부합하는 시설이 없습니다.'
 #: LocalizationPatch:1000051
-msgid "조건에 부합하는 시설이 없습니다."
+msgid "条件に一致する施設がありません。"
 msgstr ""
 
+#  Korean Text: '시설 설치'
 #: LocalizationPatch:1000052
-msgid "시설 설치"
+msgid "施設設置"
 msgstr ""
 
+#  Korean Text: '특수 임무'
 #: LocalizationPatch:1000053
-msgid "특수 임무"
+msgid "特殊任務"
 msgstr ""
 
+#  Korean Text: '폐허가 된 부두에서 파묻힌 화물을 찾아야 합니다.'
 #: LocalizationPatch:1000054
-msgid "바다에 잠긴 행방불명된 화물을 찾아야 합니다."
+msgid "海に落ちて行方不明になった貨物を探してください。"
 msgstr ""
 
+#  Korean Text: '보상\n순서 보기'
 #: LocalizationPatch:1000055
-msgid "재활용\\n순서 보기"
+msgid "再活用\\n順番を見る"
 msgstr ""
 
+#  Korean Text: '{0} 회차'
 #: LocalizationPatch:1000056
-msgid "{0} 회차"
+msgid "{0} 回目"
 msgstr ""
 
+#  Korean Text: '변경 되었으니 수정 해서 쓸 수 있는 키값임'
 #: LocalizationPatch:1000057
-msgid "건진 고철은 이 기계로 재활용 할 수 있을걸세~!"
+msgid "変更されたため修正して使えるキー値である"
 msgstr ""
 
+#  Korean Text: '원자재 출납 기록을 추적해 화물 위치를 알아낼 수 있습니다.'
 #: LocalizationPatch:1000058
-msgid "추적 ID 칩을 사용해 해당 ID의 화물을 찾을 수 있습니다."
+msgid "追跡IDチップを使用して該当のIDを貨物を探すことができます。"
 msgstr ""
 
-#: LocalizationPatch:1000059
-msgid "탐색"
-msgstr "Explore"
-
+#  Korean Text: '일괄 탐색'
 #: LocalizationPatch:1000060
-msgid "일괄 탐색"
+msgid "一括探索"
 msgstr ""
 
+#  Korean Text: '회수 완료'
 #: LocalizationPatch:1000061
-msgid "회수 완료"
+msgid "回収完了"
 msgstr ""
 
+#  Korean Text: '가라 앉은 화물 A~F'
 #: LocalizationPatch:1000062
-msgid "가라 앚은 화물 A~F"
+msgid "沈む貨物A~F"
 msgstr ""
 
+#  Korean Text: '화물용 ID 칩'
 #: LocalizationPatch:1000063
-msgid "화물용 ID 칩"
+msgid "貨物用IDチップ"
 msgstr ""
 
+#  Korean Text: '안녕하세요, 주인님? 구매 담당 파티마입니다. 다름이 아니라, 삼안 산업 재활용 영업소에서 먼저 연락이 와서 내용을 전달 드리려고 해요.\n\r\n저희가 도착한 이곳은 과거 비스마르크 코퍼레이션의 거점이었던 지역이라고 하네요. 그만큼 화물 운송이 대규모로 이루어졌던 물류의 중심지였다는 의미이기도 하고요.\n\r\n맞아요, 주인님의 예상대로 수많은 물자가 이곳에 잠들어 있답니다. 탐색이 쉽지는 않겠지만, 원자재 출납 기록이 있다면 저희 드론으로도 역추적하는 것이 가능해요. 오르카의 자원 수급에 큰 도움이 되겠죠? 저도 많은 기대를 하고 있답니다.\n\r\n아차, 영업소에서 연락이 온 이유를 깜빡할 뻔했네요. 영업소에서 찾는 건 비스마르크 제의 특수 원료예요. 대단히 고품질의 생산물이지만, 시중에서 구할 수 없었기 때문에 지금은 굉장히 희소하다고 해요. 후훗, 걱정마세요. 반드시 그 이상의 교환물을 가져다 드릴 테니까요.\n \r\n그럼, 좋은 소식을 기다리고 있겠습니다!\r\n'
 #: LocalizationPatch:1000064
-msgid "이거슨 우측 상단 툴팁이다."
+msgid ""
+"これはこれは、ごきげんよう！いつもお世話になっております。びっくりする情報があるのですが聞いてみますか？くふふ。これを聞かないと一生後悔すると思いますよ！"
+"\\n\n"
+" "
+"とても不幸なことに島の近くに貨物飛行船が一台墜落してしまったようです。滅亡後も一人寂しく広い空を飛行したその結果、やっと休めるようですね…！くふふ。一攫千金"
+"の機会だとでも思いましたでしょう？ところが人生、いや、ロボット人生はそこまで甘くはありません！\\n\n"
+" 墜落時の衝撃で貨物があちこちに散らばってしまいました。幸いなことに貨物にはそれぞれIDが存在するはずです。それがないと管理が大変ですのでね！\\n\n"
+" "
+"そういうわけで！この島で入手可能なIDチップを手に入れてくださるのなら！私がその貨物を探せられるよう少しだけ改造して差し上げましょう！とても簡単な(もちろん"
+"私の基準です！)操作を通して通商IDチップをその貨物と連結させるのです！\\n\n"
+" "
+"くふふ。もちろんタダではありません。その貨物の中で壊れていない物は好きなだけお取りください！その代わり、壊れて使えない物は私に持ってきてください！そうすれば"
+"私が数十年かけて集めてきた有名なものと交換して差し上げましょう！\\n\n"
+" 何か企んでいるように見えますよね？くふふ。そんなことありませんって！\\n\n"
+" では朗報をお待ちしております！"
 msgstr ""
 
+#  Korean Text: '1. 원자재 출납 기록으로 수송품을 탐색하여 보상과 중수소 연료캡슐을 얻을 수 있습니다.\n\r\n2. 지정된 양만큼의 중수소 연료캡슐을 삼안 산업 재활용 영업소에 가져갈 경우 추가적인 보상을 획득할 수 있습니다.\n\r\n3. 탐색 진행 시, 일정 확률로 원자재 출납 기록을 소모하지 않는 무료 탐색 기회를 얻을 수 있습니다. 무료 탐색으로도 최대 10회까지 연속해서 무료 탐색 기회를 얻을 수 있습니다.\n'
 #: LocalizationPatch:1000065
-msgid "이거슨 우측 하단 툴팁이다."
+msgid ""
+"\"\"1. 貨物追跡IDチップを通してバラバラになった貨物を探索し報酬と古鉄の山を獲得できます。\\n\n"
+" 2. 指定された量の古鉄の山をMr.アルフレッドに持っていくと追加の報酬を獲得できます。\\n\n"
+" 3. "
+"探索進行時、一定の確率で貨物追跡IDチップを消費しない無料探索機会を獲得できます。無料探索でも最大10回連続で無料探索の機会を得ることができます。\"\""
 msgstr ""
 
+#  Korean Text: '보상 리스트'
 #: LocalizationPatch:1000066
-msgid "재활용 리스트"
+msgid "再利用リスト"
 msgstr ""
 
+#  Korean Text: '특이점!'
 #: LocalizationPatch:1000067
-msgid "재활용"
+msgid "再利用！"
 msgstr ""
 
+#  Korean Text: '매 회차마다 순차적 획득'
 #: LocalizationPatch:1000068
-msgid "매회 순차적"
+msgid "毎回順番に獲得"
 msgstr ""
 
+#  Korean Text: '작동중'
 #: LocalizationPatch:1000069
-msgid "작동중"
+msgid "作動中"
 msgstr ""
 
+#  Korean Text: '임무 종료까지 [c][ffcc00]{0}[-][/c]일 남음'
 #: LocalizationPatch:1000070
-msgid "임무 종료까지 [c][ffcc00]{0}[-][/c]일 남음"
+msgid "任務終了まで残り[c][ffcc00]{0}[-][/c]日"
 msgstr ""
 
+#  Korean Text: '임무 [c][ffcc00]종료 임박![-][/c]'
 #: LocalizationPatch:1000071
-msgid "임무 [c][ffcc00]종료 임박![-][/c]"
+msgid "任務[c][ffcc00]終了間近！[-][/c]"
 msgstr ""
 
+#  Korean Text: '이벤트 기간 :  [c][ffcc00]{0}[-][/c]'
 #: LocalizationPatch:1000072
-msgid "이벤트 기간 :  [c][ffcc00]{0}[-][/c]"
+msgid "イベント期間 : [c][ffcc00]{0}[-][/c]"
 msgstr ""
 
+#  Korean Text: '미수거\n추적 대상'
 #: LocalizationPatch:1000073
-msgid "행방 불명\\n화물 목록"
+msgid "行方不明\\n貨物リスト"
 msgstr ""
 
+#  Korean Text: '추적 대상 [c][ffcc00]{0}[-][/c]를 확보하였습니다!\n추가로 연료 캡슐 [c][ffcc00]{1}[-][/c]개를 얻었습니다.'
 #: LocalizationPatch:1000074
-msgid "화물 {0}를 획득하였습니다.\\n고철 {1}개를 추가로 얻었습니다."
+msgid "貨物[c][ffcc00]{0}[-][/c]を引き揚げました！\\n追加で古鉄[c][ffcc00]{1}[-][/c]個を獲得しました。"
 msgstr ""
 
+#  Korean Text: '이벤트 기간 : {0}'
 #: LocalizationPatch:1000075
-msgid "이벤트 기간 : {0}"
+msgid "イベント期間 : {0}"
 msgstr ""
 
+#  Korean Text: '특수 임무 설명'
 #: LocalizationPatch:1000076
-msgid "특수 임무 설명"
+msgid "特殊任務の説明"
 msgstr ""
 
+#  Korean Text: '최고 레벨 달성'
 #: LocalizationPatch:1000077
-msgid "최고 레벨 달성"
+msgid "最高レベル達成"
 msgstr ""
 
+#  Korean Text: '편집 취소'
 #: LocalizationPatch:1000078
-msgid "편집 취소"
+msgid "編集取り消し"
 msgstr ""
 
+#  Korean Text: '원자재 출납 기록이 부족 합니다.'
 #: LocalizationPatch:1000079
-msgid "추적 ID 칩이 부족 합니다."
+msgid "追跡IDチップが足りません。"
 msgstr ""
 
+#  Korean Text: '총 소모 재료'
 #: LocalizationPatch:1000080
-msgid "총 소모 재료"
+msgid "総消費材料"
 msgstr ""
 
+#  Korean Text: '보유 재료'
 #: LocalizationPatch:1000081
-msgid "보유 재료"
+msgid "保有材料"
 msgstr ""
 
+#  Korean Text: '시설 부품 제작'
 #: LocalizationPatch:1000082
-msgid "시설 부품 제작"
+msgid "施設部品製作"
 msgstr ""
 
+#  Korean Text: '재료 부족'
 #: LocalizationPatch:1000083
-msgid "재료 부족"
+msgid "材料不足"
 msgstr ""
 
+#  Korean Text: '업그레이드 시작'
 #: LocalizationPatch:1000084
-msgid "업그레이드 시작"
+msgid "アップグレード開始"
 msgstr ""
 
-#: LocalizationPatch:1000085
-msgid "획득 방법"
-msgstr "Acquisition method"
-
+#  Korean Text: '- 동시에 여러 시설의 업그레이드를 진행 할 수 없습니다.'
 #: LocalizationPatch:1000086
-msgid "- 동시에 여러 시설의 업그레이드를 진행 할 수 없습니다."
+msgid "- 同時に複数の施設のアップグレードはできません。"
 msgstr ""
 
+#  Korean Text: '사용 가능한 부품이 없습니다.'
 #: LocalizationPatch:1000087
-msgid "사용 가능한 부품이 없습니다."
+msgid "使用可能な部品がありません。"
 msgstr "Not enough Parts."
 
+#  Korean Text: '필요 사령관 레벨 : {0}'
 #: LocalizationPatch:1000088
-msgid "필요 사령관 레벨 : {0}"
+msgid "必要な司令官レベル : {0}"
 msgstr ""
 
+#  Korean Text: '기지 공간 해제'
 #: LocalizationPatch:1000090
-msgid "기지 공간 해제"
+msgid "基地空間解除"
 msgstr ""
 
+#  Korean Text: '잠긴 슬롯을 해제 하시겠습니까?'
 #: LocalizationPatch:1000091
-msgid "잠긴 슬롯을 해제 하시겠습니까?"
+msgid "ロックされたスロットを解除しますか？"
 msgstr ""
 
+#  Korean Text: '기지 공간 1칸 확장 X 1\n(보유 : {0})'
 #: LocalizationPatch:1000092
-msgid "기지 공간 1칸 확장 X 1\\n(보유 : {0})"
+msgid "基地空間1枠拡張X1\\n(保有 : {0})"
 msgstr ""
 
+#  Korean Text: '기지 슬롯 해제'
 #: LocalizationPatch:1000093
-msgid "기지 슬롯 해제"
+msgid "基地スロット解除"
 msgstr ""
 
+#  Korean Text: '[c][FFCB00FF]{0}[-][/c] 시설 업그레이드를 완료 했습니다.'
 #: LocalizationPatch:1000094
-msgid "[c][FFCB00FF]{0}[-][/c] 시설 업그레이드를 완료 했습니다."
+msgid "[c][FFCB00FF]{0}[-][/c] 施設のアップグレードを完了しました。"
 msgstr ""
 
+#  Korean Text: '최대 레벨에 도달한 시설입니다.'
 #: LocalizationPatch:1000095
-msgid "최대 레벨에 도달한 시설입니다."
+msgid "最大レベルに到達した施設です。"
 msgstr ""
 
+#  Korean Text: '완료된 보상이 있습니다.\n보상을 획득해 주십시요.'
 #: LocalizationPatch:1000096
-msgid "완료된 보상이 있습니다.\\n보상을 획득해 주십시요."
+msgid "完了した報酬があります。\\n報酬を獲得してください。"
 msgstr ""
 
+#  Korean Text: '시설 작동이 중단됩니다.\n진행하시겠습니까?'
 #: LocalizationPatch:1000097
-msgid "시설 작동이 중단됩니다.\\n진행하시겠습니까?"
+msgid "施設の稼働を中断します。\\n実行しますか？"
 msgstr ""
 
+#  Korean Text: '{0}을(를) {1}개 획득을 하였습니다.'
 #: LocalizationPatch:1000098
-msgid "{0}을(를) {1}개 획득을 하였습니다."
+msgid "{0}を{1}個獲得しました。"
 msgstr ""
 
+#  Korean Text: '[c][FFCB00FF]{0}[-][/c]이 업그레이드 중입니다.\n동시에 여러 시설을 업그레이드 할 수 없습니다.'
 #: LocalizationPatch:1000099
-msgid "[c][FFCB00FF]{0}[-][/c]이 업그레이드 중입니다.\\n동시에 여러 시설을 업그레이드 할 수 없습니다."
+msgid "[c][FFCB00FF]{0}[-][/c]がアップグレード中です。\\n同時に複数の施設をアップグレードすることはできません。"
 msgstr ""
 
+#  Korean Text: '건설 필요 조건을 만족하지 못했습니다.\n\n[c][ff0000]필요 사령관 레벨 : {0}[c]'
 #: LocalizationPatch:1000100
-msgid "건설 필요 조건을 만족하지 못했습니다.\\n\\n[c][ff0000]필요 사령관 레벨 : {0}[c]"
+msgid "建設に必要な条件を満たしていません。\\n\\n[c][ff0000]必要司令官レベル : {0}[c]"
 msgstr ""
 
+#  Korean Text: '필요한 자재가 부족하여 제작이 불가능합니다.'
 #: LocalizationPatch:1000101
-msgid "필요한 자재가 부족하여 제작이 불가능합니다."
+msgid "必要な資材が足りないため製作ができません。"
 msgstr ""
 
+#  Korean Text: '업그레이드 중인 시설은 보관할 수 없습니다.'
 #: LocalizationPatch:1000102
-msgid "업그레이드 중인 시설은 보관할 수 없습니다."
+msgid "アップグレード中の施設は保管できません。"
 msgstr ""
 
+#  Korean Text: '해당 시설에 선물을 줄 전투원이 없습니다.'
 #: LocalizationPatch:1000103
-msgid "해당 시설에 선물을 줄 전투원이 없습니다."
+msgid "該当の施設にプレゼントを贈る戦闘員がいません。"
 msgstr ""
 
+#  Korean Text: '[c][FFBA29FF]{0}[-][/c]의 업그레이드를 즉시 완료합니다.\n[c][FFBA29FF]수상한 연산회로[-][/c] 1개가 소모됩니다.'
 #: LocalizationPatch:1000104
 msgid ""
-"[c][FFBA29FF]{0}[-][/c]의 업그레이드를 즉시 완료합니다.\\n[c][FFBA29FF]수상한 연산회로[-][/c] 1개가 "
-"소모됩니다."
+"[c][FFBA29FF]{0}[-][/c]のアップグレードを即時に完了します。\\n[c][FFBA29FF]あやしい演算回路[-"
+"][/c]1個が消費されます。"
 msgstr ""
 
+#  Korean Text: '중 하나의 아이템을 제작'
 #: LocalizationPatch:1000105
-msgid "중 하나의 아이템을 제작"
+msgid "のうち1つのアイテムを製作"
 msgstr ""
 
+#  Korean Text: '중 하나의 전투원을 생산'
 #: LocalizationPatch:1000106
-msgid "중 하나의 전투원을 생산"
+msgid "のうち1つの戦闘員を生産"
 msgstr ""
 
+#  Korean Text: '초록색 공간을 선택해서 새 시설을 설치합니다.\n기존 시설을 선택하여 위치를 변경하거나 보관합니다.'
 #: LocalizationPatch:1000107
-msgid "초록색 공간을 선택해서 새 시설을 설치합니다.\\n기존 시설을 선택하여 위치를 변경하거나 보관합니다."
+msgid "緑色の空間を選択し新しい施設を設置します。\\n既存の施設を選択し位置を変更または保管します。"
 msgstr ""
 
+#  Korean Text: '원하는 위치를 선택하여 위치를 변경합니다.\n하단부 버튼을 터치하여 선택중인 시설을 보관합니다.'
 #: LocalizationPatch:1000108
-msgid "원하는 위치를 선택하여 위치를 변경합니다.\\n하단부 버튼을 터치하여 선택중인 시설을 보관합니다."
+msgid "移動させたい位置を選択し位置を変更します。\\n下段部のボタンをタッチして選択中の施設を保管します。"
 msgstr ""
 
+#  Korean Text: '제조 중인 설비 부품이 없습니다.'
 #: LocalizationPatch:1000109
-msgid "제조 중인 설비 부품이 없습니다."
+msgid "製造中の設備部品がありません。"
 msgstr ""
 
+#  Korean Text: '수령 가능한 설비 부품이 없습니다.'
 #: LocalizationPatch:1000110
-msgid "수령 가능한 설비 부품이 없습니다."
+msgid "受領可能な設備部品がありません。"
 msgstr ""
 
+#  Korean Text: '[c][FFCB00FF]필요 레벨 : [-][/c]Lv {0} 이상'
 #: LocalizationPatch:1000111
-msgid "[c][FFCB00FF]필요 레벨 : [-][/c]Lv {0} 이상"
+msgid "[c][FFCB00FF]必要レベル : [-][/c]Lv {0}以上"
 msgstr ""
 
+#  Korean Text: '[c][FFCB00FF]전투원 조건 : [-][/c]{0}'
 #: LocalizationPatch:1000112
-msgid "[c][FFCB00FF]전투원 조건 : [-][/c]{0}"
+msgid "[c][FFCB00FF]戦闘員の条件 : [-][/c]{0}"
 msgstr ""
 
+#  Korean Text: '{0} 이상'
 #: LocalizationPatch:1000113
-msgid "{0} 이상"
+msgid "{0}以上"
 msgstr ""
 
+#  Korean Text: '지금 변경하면 시설 작동이 취소 됩니다.\n변경 하시겠습니까?'
 #: LocalizationPatch:1000114
-msgid "지금 변경하면 시설 작동이 취소 됩니다.\\n변경 하시겠습니까?"
+msgid "今変更すると施設稼働が取り消しされます。\\n本当に変更しますか？"
 msgstr ""
 
-#: LocalizationPatch:1000115
-msgid "변경"
-msgstr "Change"
-
+#  Korean Text: '[c][FFCB00FF]제외 전투원 : [-][/c]{0}'
 #: LocalizationPatch:1000116
-msgid "[c][FFCB00FF]제외 전투원 : [-][/c]{0}"
+msgid "[c][FFCB00FF]除外戦闘員 : [-][/c]{0}"
 msgstr ""
 
+#  Korean Text: '중복 캐릭터를 시설에 등록할 수 없습니다.'
 #: LocalizationPatch:1000117
-msgid "중복 캐릭터를 시설에 등록할 수 없습니다."
+msgid "重複するキャラクターを施設に登録することはできません。"
 msgstr ""
 
+#  Korean Text: '배치 가능한 전투원 수가 가득 찼습니다.'
 #: LocalizationPatch:1000118
-msgid "배치 가능한 전투원 수가 가득 찼습니다."
+msgid "配置可能な戦闘員の数がいっぱいです。"
 msgstr ""
 
+#  Korean Text: '시설 배치 중인 스쿼드 대원은 편집할 수 없습니다.'
 #: LocalizationPatch:1000119
-msgid "시설 배치 중인 스쿼드 대원은 편집할 수 없습니다."
+msgid "施設に配置中の分隊隊員は編集できません。"
 msgstr ""
 
+#  Korean Text: '장비 분해실'
 #: LocalizationPatch:1000120
-msgid "장비 분해실"
+msgid "装備分解室"
 msgstr ""
 
+#  Korean Text: '미구현 시설 입니다.'
 #: LocalizationPatch:1000121
-msgid "미구현 시설 입니다."
+msgid "完成前の施設です。"
 msgstr ""
 
+#  Korean Text: '부품 생산 지원실'
 #: LocalizationPatch:1000122
-msgid "부품 생산 지원실"
+msgid "部品生産支援室"
 msgstr ""
 
+#  Korean Text: '영양 생산 지원실'
 #: LocalizationPatch:1000123
-msgid "영양 생산 지원실"
+msgid "栄養生産支援室"
 msgstr ""
 
+#  Korean Text: '전력 생산 지원실'
 #: LocalizationPatch:1000124
-msgid "전력 생산 지원실"
+msgid "電力生産支援室"
 msgstr ""
 
+#  Korean Text: '건설 소모 시간'
 #: LocalizationPatch:1000125
-msgid "건설 소모 시간"
+msgid "建設消費時間"
 msgstr ""
 
+#  Korean Text: '다음 레벨'
 #: LocalizationPatch:1000126
-msgid "다음 레벨"
+msgid "次のレベル"
 msgstr ""
 
+#  Korean Text: '시스템 가이드'
 #: LocalizationPatch:1000127
-msgid "시스템 가이드"
+msgid "システムがイド"
 msgstr ""
 
+#  Korean Text: '상당히 좋은 소재군요. 비스마르크 사의 생산품이 있다면 삼안 영업소에 연락하겠습니다.'
 #: LocalizationPatch:1000128
-msgid "아주 좋습니다! 그런 쓸모없는 것들은 가져가시고 제게 고철을 가져다주세요!"
+msgid "お見事です！そんな無駄な物は持って行ってください。私には古鉄をください！"
 msgstr ""
 
+#  Korean Text: '굉장한 가치를 가진 원료예요! 얼마든지 가져오셔도 좋다고 해요.'
 #: LocalizationPatch:1000130
-msgid "마음에 드신다니 다행이군요. 계속 진행하시지요!"
+msgid "お気に召したようでよかったです。その調子で続けてください！"
 msgstr ""
 
+#  Korean Text: '축하드려요! 엄청난 소득이네요!'
 #: LocalizationPatch:1000132
-msgid "쿠후후, 나름 쓸만하지 않습니까?"
+msgid "くふふ。意外と使えそうじゃないですか？"
 msgstr ""
 
+#  Korean Text: '어머나! 가끔씩 이런 깜짝 선물도 좋네요~!'
 #: LocalizationPatch:1000133
-msgid "축하드립니다! 엄청난 걸 찾으셨군요! 그야말로 초. 대. 박!"
+msgid "おめでとうございます！素晴らしいものを見つけましたね！これこそ世紀の大発見！"
 msgstr ""
 
+#  Korean Text: '안녕하세요, 주인님? 구매 담당 파티마입니다. 또 새로운 수송품을 발견하셨나요?'
 #: LocalizationPatch:1000134
-msgid "어이쿠, 안녕하십니까! 이번에도 화물을 탐색해보시지요! 그리고 제게 고철을 가져오시면… 쿠후후..."
+msgid "おっと、ごきげんよう！今度は貨物を探索してみませんか！それと私に古鉄を持ってきてくだされば…くふふ…"
 msgstr ""
 
+#  Korean Text: '회차 보상'
 #: LocalizationPatch:1000135
-msgid "회차 보상"
+msgid "回目の報酬"
 msgstr ""
 
+#  Korean Text: '보상 획득!'
 #: LocalizationPatch:1000136
-msgid "보상 획득!"
+msgid "報酬獲得！"
 msgstr ""
 
+#  Korean Text: '탐색 연출 건너뛰기'
 #: LocalizationPatch:1000137
-msgid "탐색 연출 건너뛰기"
+msgid "探索演出スキップ"
 msgstr ""
 
+#  Korean Text: '회차 특수 보상'
 #: LocalizationPatch:1000138
-msgid "회차 특수 보상"
+msgid "回目の特殊報酬"
 msgstr ""
 
 #  Korean Text: '상점공지'
@@ -7480,7 +7670,7 @@ msgid "이대로 뒤로 돌아갈 경우 현재 편집한 정보는 저장 되�
 msgstr ""
 
 #: LocalizationPatch:1000178
-msgid "우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\\n진행하시겠습니까?"
+msgid "우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\\n또한 모든 장식품이 해제됩니다.\\n진행하시겠습니까?"
 msgstr ""
 
 #: LocalizationPatch:1000179
@@ -7577,7 +7767,7 @@ msgid "중파 비활성"
 msgstr ""
 
 #: LocalizationPatch:1000204
-msgid "좌측 캐릭터 패널에서 캐릭터를 선택하여\\n크기 조절 및 이동, 개별 편집이 가능합니다."
+msgid "좌측 패널에서 레이어를 선택하여\\n크기 조절 및 이동, 개별 편집이 가능합니다."
 msgstr ""
 
 #: LocalizationPatch:1000205
@@ -7589,7 +7779,7 @@ msgid "현재 크기 :"
 msgstr ""
 
 #: LocalizationPatch:1000207
-msgid "상단의 바를 사용하여 편집중인 캐릭터의 크기를\\n조절할 수 있습니다."
+msgid "상단 바로 선택중인 레이어의 크기를 조절 합니다.\\n우측 버튼을 터치 시 각도 변경 모드로 전환합니다."
 msgstr ""
 
 #: LocalizationPatch:1000208
@@ -7606,13 +7796,12 @@ msgstr ""
 
 #: LocalizationPatch:1000211
 msgid ""
-"우측 패널을 사용해 우선순위를 변경할 수 있습니다.\\n우선 순위가 높을수록 화면의 맨 앞에 위치합니다.\\n버튼을 다시 터치하여 종료할 "
+"좌측 패널을 사용해 우선순위를 변경할 수 있습니다.\\n우선 순위가 높을수록 화면의 맨 앞에 위치합니다.\\n버튼을 다시 터치하여 종료할 "
 "수 있습니다."
 msgstr ""
 
-#  Korean Text: '미리 보기 모드 실행중입니다.\n우측 하단의 버튼을 터치하여 모드를 종료하거나\n로비 UI를 제거할 수 있습니다.'
 #: LocalizationPatch:1000212
-msgid "미리 보기 모드 실행중입니다. \\n우측 하단의 버튼을 터치하여 모드를 종료하거나\\n로비 UI를 제거할 수 있습니다."
+msgid "미리 보기 모드 실행중입니다.\\n좌측 하단의 버튼을 터치하여 모드를 종료하거나\\n로비 UI를 제거할 수 있습니다."
 msgstr ""
 
 #  Korean Text: '좌측 패널의 버튼을 통해 표정을 선택하실 수 있습니다.\n패널 영역을 제외한 곳을 터치시 표정 편집이 종료됩니다.'
@@ -7631,4 +7820,253 @@ msgstr ""
 #  Korean Text: '공식 위키'
 #: LocalizationPatch:1000216
 msgid "公式wiki"
+msgstr ""
+
+#: LocalizationPatch:1000217
+msgid "현재 각도 :"
+msgstr ""
+
+#: LocalizationPatch:1000218
+msgid "상단 바로 편집중인 레이어의 각도를 조절 합니다.\\n우측 버튼을 터치 시 크기 변경 모드로 전환합니다."
+msgstr ""
+
+#: LocalizationPatch:1000219
+msgid "{0}°"
+msgstr ""
+
+#: LocalizationPatch:1000220
+msgid "시스템 알림"
+msgstr ""
+
+#: LocalizationPatch:1000221
+msgid "로그라이크"
+msgstr ""
+
+#: LocalizationPatch:1000222
+msgid "로그라이크 모드"
+msgstr ""
+
+#: LocalizationPatch:1000223
+msgid "철충 타워를 공략하라."
+msgstr ""
+
+#: LocalizationPatch:1000224
+msgid "현재 층:{0}-{1}층"
+msgstr ""
+
+#: LocalizationPatch:1000225
+msgid "철충 타워에서 얻은 SSS급 장비 재료를 사용하여 교환소에서 각종 물품으로 교환할 수 있습니다."
+msgstr ""
+
+#: LocalizationPatch:1000226
+msgid "던전 설명"
+msgstr ""
+
+#: LocalizationPatch:1000227
+msgid "소모 자원은 전투원 수와 별개로 고정으로 {0}씩 소모 됩니다."
+msgstr ""
+
+#: LocalizationPatch:1000228
+msgid "모든 전투인원이 모두 사망했을 경우 모드가 종료되며 다시 1층에서 시작합니다."
+msgstr ""
+
+#: LocalizationPatch:1000229
+msgid "철충 타워 내에서 캐릭터가 피해를 입어도 실제로 반영되지 않습니다."
+msgstr ""
+
+#: LocalizationPatch:1000230
+msgid "철충 시설을 만나야 던전 진행사항이 저장됩니다."
+msgstr ""
+
+#: LocalizationPatch:1000231
+msgid "선택한 전투원 수가 {0}명이 되어야 입장이 가능합니다."
+msgstr ""
+
+#: LocalizationPatch:1000232
+msgid "전투원 구성"
+msgstr ""
+
+#: LocalizationPatch:1000233
+msgid "참여 인원 {0}/{1}"
+msgstr ""
+
+#: LocalizationPatch:1000234
+msgid "전투 편성 중"
+msgstr ""
+
+#: LocalizationPatch:1000235
+msgid "합류할 전투원을 선택하세요."
+msgstr ""
+
+#: LocalizationPatch:1000236
+msgid "선택한 전투원이 초기 상태로 돌아갑니다.\\n진행하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000237
+msgid "로그라이크 편성 중인 전투원은 변경이 불가능합니다."
+msgstr ""
+
+#: LocalizationPatch:1000238
+msgid "전투 진행 중"
+msgstr ""
+
+#: LocalizationPatch:1000239
+msgid "로그라이크 편성 중인 전투원의 아이템은 변경이 불가능합니다."
+msgstr ""
+
+#: LocalizationPatch:1000240
+msgid "탐색 중"
+msgstr ""
+
+#  Korean Text: '시설'
+#: LocalizationPatch:1000241
+msgid "시설\\n배치 중"
+msgstr ""
+
+#  Korean Text: '스쿼드'
+#: LocalizationPatch:1000242
+msgid "스쿼드\\n편성 중"
+msgstr "Squad"
+
+#: LocalizationPatch:1000243
+msgid "수복 중"
+msgstr ""
+
+#  Korean Text: '로그라이크'
+#: LocalizationPatch:1000244
+msgid "로그라이크\\n편성 중"
+msgstr ""
+
+#: LocalizationPatch:1000245
+msgid "행동 불가"
+msgstr "Stunned"
+
+#: LocalizationPatch:1000246
+msgid "바이오"
+msgstr ""
+
+#: LocalizationPatch:1000247
+msgid "메카닉"
+msgstr "Robots"
+
+#: LocalizationPatch:1000248
+msgid "유형"
+msgstr ""
+
+#: LocalizationPatch:1000249
+msgid "장식품"
+msgstr ""
+
+#: LocalizationPatch:1000250
+msgid "장식품 변경"
+msgstr ""
+
+#: LocalizationPatch:1000251
+msgid "장식품 해제"
+msgstr ""
+
+#: LocalizationPatch:1000252
+msgid "보유한 장식품이 없습니다."
+msgstr ""
+
+#: LocalizationPatch:1000253
+msgid "선택된 장식품을 해제 하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000254
+msgid "장식품을 선택해 주세요."
+msgstr ""
+
+#: LocalizationPatch:1000255
+msgid "로비 애니메이션"
+msgstr ""
+
+#  Korean Text: '로비 애니메이션의 동작 여부를 설정합니다.\n로비를 제외한 화면에서는 옵션이 적용되지 않습니다.'
+#: LocalizationPatch:1000256
+msgid "로비 애니메이션의 동작 여부를 설정합니다.\\nOFF시 파티클을 포함한 애니메이션 요소가 제거됩니다."
+msgstr ""
+
+#: LocalizationPatch:1000257
+msgid "{0} 장식품을 획득하였습니다."
+msgstr ""
+
+#: LocalizationPatch:1000258
+msgid "부스트"
+msgstr ""
+
+#: LocalizationPatch:1000259
+msgid "캐릭터만 표시"
+msgstr ""
+
+#: LocalizationPatch:1000260
+msgid "모든 목록 표시"
+msgstr ""
+
+#: LocalizationPatch:1000261
+msgid "장식품 추가"
+msgstr ""
+
+#: LocalizationPatch:1000262
+msgid "장식품 선택"
+msgstr ""
+
+#: LocalizationPatch:1000263
+msgid "장식품 해금"
+msgstr ""
+
+#: LocalizationPatch:1000264
+msgid "선택한 전투원들이 초기 상태로 돌아갑니다.\\n진행하시겠습니까?"
+msgstr ""
+
+#: LocalizationPatch:1000265
+msgid "동일 캐릭터가 존재 합니다."
+msgstr ""
+
+#: LocalizationPatch:1000266
+msgid "로그라이크 편성 인원이 가득 찼습니다."
+msgstr ""
+
+#: LocalizationPatch:1000267
+msgid "출격이 불가능한 전투원 입니다."
+msgstr ""
+
+#: LocalizationPatch:1000268
+msgid "{0} 합류하였습니다."
+msgstr ""
+
+#: LocalizationPatch:1000269
+msgid "장비 승급"
+msgstr ""
+
+#: LocalizationPatch:1000270
+msgid "승급 장비 선택"
+msgstr ""
+
+#: LocalizationPatch:1000271
+msgid "승급시킬 장비를 선택해 주세요."
+msgstr ""
+
+#  Korean Text: '■ 승급 대상인 장비만 승급 목록에 출력됩니다.'
+#: LocalizationPatch:1000272
+msgid "승급 대상인 장비만 승급 목록에 출력됩니다."
+msgstr ""
+
+#: LocalizationPatch:1000273
+msgid "■ 승급에 필요한 [ffcc00]레벨[-]과 [00c6ff]재료[-] 조건을 만족하면 승급을 진행할 수 있습니다."
+msgstr ""
+
+#: LocalizationPatch:1000274
+msgid "모든 승급이 완료된 장비 입니다."
+msgstr ""
+
+#: LocalizationPatch:1000275
+msgid "■ 승급 시 장비의 강화 수치는 초기화됩니다."
+msgstr ""
+
+#: LocalizationPatch:1000276
+msgid "다음 승급이 개방되지 않은 장비 입니다."
+msgstr ""
+
+#: LocalizationPatch:1000277
+msgid "장비 승급 재료"
 msgstr ""

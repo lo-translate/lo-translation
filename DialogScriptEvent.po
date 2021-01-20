@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -11238,7 +11238,7 @@ msgstr ""
 
 #  Korean Text: '- ... 살고 싶다...'
 #: DialogScript[DG_Ch01Ev4Stage01_1_1].Script
-msgid "- …生きていたい…"
+msgid "'- …生きていたい…"
 msgstr ""
 
 #  Korean Text: '- 나는 살고 싶다... 지금 상황에서 내가 얼마나 버틸 수 있을까?'
@@ -18498,7 +18498,7 @@ msgstr ""
 
 #  Korean Text: '- 그나마도 웬만큼 중요한 것 아니면 지휘관들 선에서 처리해주는데도 이정도라니...'
 #: DialogScript[DG_Ch01Ev5Stage01_1_6].Script
-msgid "- 指揮官バイオロイドたちがある程度処理してくれていたのに&nまだこんなにあるのか…"
+msgid "'- 指揮官バイオロイドたちがある程度処理してくれていたのに&nまだこんなにあるのか…"
 msgstr ""
 
 #  Korean Text: '- 굳어버린 목을 대충 풀고 다시 일을 시작하려는 순간 누군가가 다가왔다.'
@@ -18527,7 +18527,7 @@ msgstr ""
 
 #  Korean Text: '- 콘스탄챠가 단말을 빽빽하게 채운 글자들을 들여다보고 한숨을 내쉬었다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_11].Script
-msgid "- コンスタンツァが端末を覗き込んで、画面を埋め尽くさんばかりの&n文字の羅列に溜息をつく。"
+msgid "'- コンスタンツァが端末を覗き込んで、画面を埋め尽くさんばかりの&n文字の羅列に溜息をつく。"
 msgstr ""
 
 #  Korean Text: '이렇게까지 신경써주시지 않아도 괜찮은데...'
@@ -18546,7 +18546,7 @@ msgstr ""
 
 #  Korean Text: '- 반사적으로 괜찮다고 말하려다 콘스탄챠의 걱정스러운 표정에 말을 삼켰다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_14].Script
-msgid "- 反射的に「大丈夫だ」と断ろうとしたが、&nコンスタンツァの心配そうな顔に言葉を飲み込む。"
+msgid "'- 反射的に「大丈夫だ」と断ろうとしたが、&nコンスタンツァの心配そうな顔に言葉を飲み込む。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage01_1_14].SelectionIndex[1]
@@ -18618,7 +18618,7 @@ msgstr ""
 
 #  Korean Text: '- 닥터를 닮은 바이오로이드는 나를 지나쳐 다른 대원들에게 인사를 건네고 있다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_26].Script
-msgid "- ドクターによく似たバイオロイドが俺とすれ違った後、&n他の隊員たちと挨拶を交わしている。"
+msgid "'- ドクターによく似たバイオロイドが俺とすれ違った後、&n他の隊員たちと挨拶を交わしている。"
 msgstr ""
 
 #  Korean Text: '- 목소리는 미묘하게 달라진 것 같지만 저... 땋은 머리는 분명...'
@@ -18762,7 +18762,7 @@ msgstr ""
 
 #  Korean Text: '- 구석구석까지 꼼꼼하게 채워진 장식에서 정성이 전해진다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_49].Script
-msgid "- 隅々まで丁寧に飾ってくれているのを見ていると&n不思議とみんなの気持ちが伝わってくるようだった。"
+msgid "'- 隅々まで丁寧に飾ってくれているのを見ていると&n不思議とみんなの気持ちが伝わってくるようだった。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage01_1_49].SelectionIndex[1]
@@ -18858,7 +18858,7 @@ msgstr ""
 
 #  Korean Text: '- 예전같았으면 귀엽기만 했겠지만 지금은 지적인 아우라가 팍팍 느껴진다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_66].Script
-msgid "- 以前までならただただ可愛いだけだったのだが、&n今は知的な美女のオーラを醸し出している…。"
+msgid "'- 以前までならただただ可愛いだけだったのだが、&n今は知的な美女のオーラを醸し出している…。"
 msgstr ""
 
 #  Korean Text: '첫 임상실험에 성공하긴 했어도, 진짜는 이제부터 시작이라구~'
@@ -18907,7 +18907,7 @@ msgstr ""
 
 #  Korean Text: '- 조금전엔 어떻게든 관심을 돌려놓는 데 성공했지만, 점점 닥터와 내 몸의 접촉 면적이 증가하고 있다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_75].Script
-msgid "- 何とか気を逸らし続けることが出来ていたのだが、&nだんだんとドクターと俺の接触面積が広がっていく…。"
+msgid "'- 何とか気を逸らし続けることが出来ていたのだが、&nだんだんとドクターと俺の接触面積が広がっていく…。"
 msgstr ""
 
 #  Korean Text: '- 필사적으로 다른 화제를 떠올리다 문득 좋은 생각이 떠올랐다.'
@@ -18930,7 +18930,7 @@ msgstr ""
 
 #  Korean Text: '- 몸을 틀어 나를 올려다보던 닥터가 눈을 깜빡였다.'
 #: DialogScript[DG_Ch01Ev5Stage01_1_78].Script
-msgid "- 下を向いていたドクターはピクリと止まり、&nそのまま上目遣いで両目をぱちぱちさせた。"
+msgid "'- 下を向いていたドクターはピクリと止まり、&nそのまま上目遣いで両目をぱちぱちさせた。"
 msgstr ""
 
 #  Korean Text: '...오빠, 어디 아파?'
@@ -19223,12 +19223,12 @@ msgstr ""
 
 #  Korean Text: '- 닥터는 어느새 자기만의 세상에 푹 빠져있었다.'
 #: DialogScript[DG_Ch01Ev5Stage01_2_17].Script
-msgid "- ドクターはいつの間にか自分だけの世界に入り込んでいた…。&nこれでとりあえず危機は去ったか…？"
+msgid "'- ドクターはいつの間にか自分だけの世界に入り込んでいた…。&nこれでとりあえず危機は去ったか…？"
 msgstr ""
 
 #  Korean Text: '- 혼잣말을 하며 생각을 정리하는 모습은 자주 봐왔지만, 이렇게 훌쩍 자란 모습으로 보니 감회가 새롭다.'
 #: DialogScript[DG_Ch01Ev5Stage01_2_18].Script
-msgid "- 独り言を言いながら考えをまとめている姿はよく見てきたけど、&nこうやって大人になった姿で見ると、なんだか感慨深い。"
+msgid "'- 独り言を言いながら考えをまとめている姿はよく見てきたけど、&nこうやって大人になった姿で見ると、なんだか感慨深い。"
 msgstr ""
 
 #  Korean Text: '- 이렇게... 훌쩍...'
@@ -19256,7 +19256,7 @@ msgstr ""
 
 #  Korean Text: '- 그런 시각적 자극엔 익숙해졌다고 생각했었지만, 크나큰 착각이었군...'
 #: DialogScript[DG_Ch01Ev5Stage01_2_22].Script
-msgid "- そういった視覚的刺激には慣れたと思っていたのだが、それは大きな勘違い&n…いや、慢心していたのかもしれない。"
+msgid "'- そういった視覚的刺激には慣れたと思っていたのだが、それは大きな勘違い&n…いや、慢心していたのかもしれない。"
 msgstr ""
 
 #  Korean Text: '- 지금 닥터의 모습은 내 정신건강에 몹시 해롭다.'
@@ -20092,7 +20092,7 @@ msgstr ""
 
 #  Korean Text: '- 발견한지는 조금 됐지만 우선순위에서 밀리는 바람에 그간 제대로 정찰하지 못했었다.'
 #: DialogScript[DG_Ch01Ev5Stage02_1_7].Script
-msgid "- 発見して結構時間が経つが、優先順位が低いせいで&nまだちゃんとした偵察を行っていなかった場所だ。"
+msgid "'- 発見して結構時間が経つが、優先順位が低いせいで&nまだちゃんとした偵察を行っていなかった場所だ。"
 msgstr ""
 
 #  Korean Text: '응. 오빠도 알지?'
@@ -20111,7 +20111,7 @@ msgstr ""
 
 #  Korean Text: '- 그 도시는 멸망 전쟁의 피해를 거의 입지 않은 것 같다는 정찰 보고서의 내용이 기억난다.'
 #: DialogScript[DG_Ch01Ev5Stage02_1_10].Script
-msgid "- この街は滅亡戦争の被害をほとんど受けていないと判断される…&nって偵察報告書にはあったと記憶している。"
+msgid "'- この街は滅亡戦争の被害をほとんど受けていないと判断される…&nって偵察報告書にはあったと記憶している。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage02_1_10].SelectionIndex[1]
@@ -20158,7 +20158,7 @@ msgstr ""
 
 #  Korean Text: '- 과장스럽게 한숨을 내쉬는 닥터의 머리에 살짝 꿀밤을 먹였다.'
 #: DialogScript[DG_Ch01Ev5Stage02_1_17].Script
-msgid "- 芝居じみた仕草で溜息をつくドクターに&nコツンとゲンコツをサプライズプレゼント。"
+msgid "'- 芝居じみた仕草で溜息をつくドクターに&nコツンとゲンコツをサプライズプレゼント。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage02_1_17].SelectionIndex[1]
@@ -20347,7 +20347,7 @@ msgstr ""
 
 #  Korean Text: '- 대원들이 방을 꾸며주면서 물건들의 배치가 바뀌는 바람에 조금 헤매는 사이에 노크소리가 울렸다.'
 #: DialogScript[DG_Ch01Ev5Stage02_2_2].Script
-msgid "- 隊員たちが部屋を飾った結果、家具の位置が完全に変わってしまい、&nどうしたものかと少し戸惑っていたら扉を誰かがノックした。"
+msgid "'- 隊員たちが部屋を飾った結果、家具の位置が完全に変わってしまい、&nどうしたものかと少し戸惑っていたら扉を誰かがノックした。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage02_2_2].SelectionIndex[1]
@@ -20389,7 +20389,7 @@ msgstr ""
 
 #  Korean Text: '- 페더를 따라온 나는... 오르카 어딘가에 있는 작은 틈새에 들어와있다.'
 #: DialogScript[DG_Ch01Ev5Stage02_2_9].Script
-msgid "- フェザーに言われるがままについてきた俺は…&nオルカのどこかにある狭い隙間のような場所に潜っていた。"
+msgid "'- フェザーに言われるがままについてきた俺は…&nオルカのどこかにある狭い隙間のような場所に潜っていた。"
 msgstr ""
 
 #  Korean Text: '- 칠흙같은 어둠 속에서 페더의 얼굴 윤곽만이 간신히 보인다.'
@@ -20408,7 +20408,7 @@ msgstr ""
 
 #  Korean Text: '- 조금씩 눈이 어둠에 익숙해진다. 그리고... 벽을 빽빽히 메운... 사진...?'
 #: DialogScript[DG_Ch01Ev5Stage02_2_12].Script
-msgid "- 少しずつ眼が暗闇に慣れてきた…。&nそして…壁にいっぱいに何かが張り付けられている…。&nこれは…写真…？"
+msgid "'- 少しずつ眼が暗闇に慣れてきた…。&nそして…壁にいっぱいに何かが張り付けられている…。&nこれは…写真…？"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage02_2_12].SelectionIndex[1]
@@ -20422,7 +20422,7 @@ msgstr ""
 
 #  Korean Text: '- 임무 수행중에 상공에서 찍은 것 같아보이는 사진부터 숙소에서 옷을 갈아입는...'
 #: DialogScript[DG_Ch01Ev5Stage02_2_14].Script
-msgid "- 任務遂行中に上空から撮ったと思われる写真から&n任務後、宿舎で着替えている写真まで…&nさらには…"
+msgid "'- 任務遂行中に上空から撮ったと思われる写真から&n任務後、宿舎で着替えている写真まで…&nさらには…"
 msgstr ""
 
 #  Korean Text: '- 잠깐만, 이런 각도가 나올 수가 있나?'
@@ -20504,7 +20504,7 @@ msgstr ""
 
 #  Korean Text: '- 패널에 떠오른건 여러 장소, 여러 각도에서 찍은 내 사진이었다.'
 #: DialogScript[DG_Ch01Ev5Stage02_2_28].Script
-msgid "- パネルの画面には様々な場所、様々な角度から&n撮られた俺の写真が表示されていた。"
+msgid "'- パネルの画面には様々な場所、様々な角度から&n撮られた俺の写真が表示されていた。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage02_2_28].SelectionIndex[1]
@@ -20581,7 +20581,7 @@ msgstr ""
 
 #  Korean Text: '후후, 후후후... 저기, 사령관님? 혹시 칸 대장님이랑 침실에 드실 땐 꼭 말씀을 해주세요.'
 #: DialogScript[DG_Ch01Ev5Stage02_2_41].Script
-msgid "ふへ、ふへへへ…司令官様？&nカーン隊長と共寝される時は私に必ず一言お願いしますね？"
+msgid "ふへ、ふへへへ…司令官様？&nカーン隊長と同衾される時は私に必ず一言お願いしますね？"
 msgstr ""
 
 #  Korean Text: '그 장면을 놓쳤다간 저는...'
@@ -20605,7 +20605,7 @@ msgstr ""
 
 #  Korean Text: '- 홍조를 띄우고 망상에 빠져있던 탈론페더는 순식간에 원래 모습으로 돌아왔다.'
 #: DialogScript[DG_Ch01Ev5Stage02_2_45].Script
-msgid "- 今まで顔を赤くして妄想に浸っていたタロンフェザーは、&n一瞬にして元の真面目な顔に戻った。"
+msgid "'- 今まで顔を赤くして妄想に浸っていたタロンフェザーは、&n一瞬にして元の真面目な顔に戻った。"
 msgstr ""
 
 #  Korean Text: '- 아니, 애초에 어느쪽이 원래 모습인건지 모르겠다.'
@@ -20635,7 +20635,7 @@ msgstr ""
 
 #  Korean Text: '- 함장실과 함교는 물론이고, 대원들 숙소 중 일부, 그리고 으슥한 곳들까지...'
 #: DialogScript[DG_Ch01Ev5Stage02_2_51].Script
-msgid "- 艦長室と艦橋はもちろん隊員たちの宿舎の一部、そして…秘密の部屋まで…"
+msgid "'- 艦長室と艦橋はもちろん隊員たちの宿舎の一部、そして…秘密の部屋まで…"
 msgstr ""
 
 #  Korean Text: '- 얼굴이 화끈거린다. 전부 기억에 남아있는 장소들이다. 아니, 대체 어떻게 안 거야?'
@@ -21292,7 +21292,7 @@ msgstr ""
 
 #  Korean Text: '- 그... 시크릿 네트워크 덕분에 우리는 아무에게도 들키지 않고 오르카 밖으로 나오는 데 성공했다.'
 #: DialogScript[DG_Ch01Ev5Stage03_1_2].Script
-msgid "- あの盗さ…シークレットネットワークのおかげで&n俺たちは誰にも気づかれずにオルカの外へ出ることができた。"
+msgid "'- あの盗さ…シークレットネットワークのおかげで&n俺たちは誰にも気づかれずにオルカの外へ出ることができた。"
 msgstr ""
 
 #  Korean Text: '- 오르카 호가 정박한 곳 근처에 어느새 닥터가 준비해둔 배낭을 챙기고&n산뜻한 마음으로 목표로 한 도시로 출발했지만 영 속도가 나지 않았다.'
@@ -21318,7 +21318,7 @@ msgstr ""
 
 #  Korean Text: '- 그것과 추위는 큰 문제가 되지 않지만 허리높이까지 쌓인 눈이 발걸음을 늦춘다.'
 #: DialogScript[DG_Ch01Ev5Stage03_1_6].Script
-msgid "- 寒さも大した問題ではなかったのだが、&n腰の高さまで積もった雪のせいで思ったよりも速度が出なかった。"
+msgid "'- 寒さも大した問題ではなかったのだが、&n腰の高さまで積もった雪のせいで思ったよりも速度が出なかった。"
 msgstr ""
 
 #  Korean Text: '제가 사령관님을 꼬옥 안고... 날아서 가면 좋겠는데, 그러기엔 출력이 부족해요.'
@@ -21438,7 +21438,7 @@ msgstr ""
 
 #  Korean Text: '- 놀라 엉덩방아를 찧은 내 옆으로 다가온 포티아가 눈 덮인 바닥에 엎드렸다.'
 #: DialogScript[DG_Ch01Ev5Stage03_1_26].Script
-msgid "- 驚いて尻餅をついてしまった俺の隣に近づいたポルティーヤが、&n雪が積もった地面に四つん這いになった。"
+msgid "'- 驚いて尻餅をついてしまった俺の隣に近づいたポルティーヤが、&n雪が積もった地面に四つん這いになった。"
 msgstr ""
 
 #  Korean Text: '어서요. 저, 드디어 주인님께 도움이 될 수 있어요!'
@@ -21521,7 +21521,7 @@ msgstr ""
 
 #  Korean Text: '- 관자놀이를 꾹꾹 누르며 상황을 타개할 방법을 찾던 중, 좋은 생각이 떠올랐다.'
 #: DialogScript[DG_Ch01Ev5Stage03_1_41].Script
-msgid "- こめかみを押さえながら、このトンデモ状況の打開策を思案してみたら、&nちょうどいい案を思いついた。"
+msgid "'- こめかみを押さえながら、このトンデモ状況の打開策を思案してみたら、&nちょうどいい案を思いついた。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage03_1_41].SelectionIndex[1]
@@ -21559,7 +21559,7 @@ msgstr ""
 
 #  Korean Text: '- 포티아가 신이나서 눈을 녹이러 가자, 알렉산드라가 보란듯이 한숨을 내쉬었다.'
 #: DialogScript[DG_Ch01Ev5Stage03_1_47].Script
-msgid "- 嬉しそうにポルティーヤが雪を溶かしに行くと、&nアレクサンドラがこれ見よがしにため息を吐いた。"
+msgid "'- 嬉しそうにポルティーヤが雪を溶かしに行くと、&nアレクサンドラがこれ見よがしにため息を吐いた。"
 msgstr ""
 
 #  Korean Text: '하아... 주인님은 너무 상냥하세요.'
@@ -21647,7 +21647,7 @@ msgstr ""
 
 #  Korean Text: '- 계속해서 눈을 녹이며 전진하는 바람에 녹초가 된 포티아가 바닥에 털썩 주저앉았다.'
 #: DialogScript[DG_Ch01Ev5Stage03_2_2].Script
-msgid "- ずっと雪を溶かしながら進んだせいで&n流石にクタクタになったポルティーヤが地面に座り込んだ。"
+msgid "'- ずっと雪を溶かしながら進んだせいで&n流石にクタクタになったポルティーヤが地面に座り込んだ。"
 msgstr ""
 
 #  Korean Text: '하아, 하아, 도착, 했어요오...'
@@ -21719,7 +21719,7 @@ msgstr ""
 
 #  Korean Text: '- 귀금속 가게였는지, 깨진 진열장 안에 드문드문 남아있는 악세서리들이 보인다.'
 #: DialogScript[DG_Ch01Ev5Stage03_2_15].Script
-msgid "- 貴金属を扱う店だったのか、&n割れたショーケースにはアクセサリーがまだ飾られていた。"
+msgid "'- 貴金属を扱う店だったのか、&n割れたショーケースにはアクセサリーがまだ飾られていた。"
 msgstr ""
 
 #  Korean Text: '- 대원들을 떠올리고 무심코 집어들었다가 다시 제자리에 돌려놓았다.'
@@ -22623,7 +22623,7 @@ msgstr ""
 
 #  Korean Text: '- 묵직한 배낭을 내려놓자 마자 닥터가 달려들어 내용물을 확인했다.'
 #: DialogScript[DG_Ch01Ev5Stage04_2_12].Script
-msgid "- 俺がすっかり重たくなったバックパックをゆっくり降ろすと、&nドクターがすぐに中身を確認する。"
+msgid "'- 俺がすっかり重たくなったバックパックをゆっくり降ろすと、&nドクターがすぐに中身を確認する。"
 msgstr ""
 
 #  Korean Text: '좋았어, 일단 이정도면 충분해. 비축 물자도 있으니까.'
@@ -23308,7 +23308,7 @@ msgstr ""
 
 #  Korean Text: '- 페더가 뒤따라 들어와 상자를 바닥에 내려놓자 작게 뚫린 손잡이용 구멍으로 들어오는 빛을 빼곤 우리는 어둠에 휩싸였다.'
 #: DialogScript[DG_Ch01Ev5Stage05_1_17].Script
-msgid "- フェザーが俺にくっついて箱を完全に被ると、&n小さく開いた穴から入る光を除いては完全な闇と化した。"
+msgid "'- フェザーが俺にくっついて箱を完全に被ると、&n小さく開いた穴から入る光を除いては完全な闇と化した。"
 msgstr ""
 
 #  Korean Text: '이제 누가 오기를 기다려보죠.'
@@ -23318,7 +23318,7 @@ msgstr ""
 
 #  Korean Text: '- 함교에 덩그러니 놓여 있는 골판지 상자는 누가 봐도 수상해 보일 테지.'
 #: DialogScript[DG_Ch01Ev5Stage05_1_19].Script
-msgid "- 艦橋にポツンと置かれた段ボールとか、どう考えても怪しいと思うんだけど…"
+msgid "'- 艦橋にポツンと置かれた段ボールとか、どう考えても怪しいと思うんだけど…"
 msgstr ""
 
 #  Korean Text: '- 만약 장난이면 닥터의 이마에 대왕꿀밤을 놓아 주겠다는 생각을 하고 있는데, 페더가 살며시 몸을 기대왔다.'
@@ -23419,7 +23419,7 @@ msgstr ""
 
 #  Korean Text: '- 작은 틈으로 내다보자 세이렌과 운디네가 낡은 잡지를 들고 이야기를 나누고 있다.'
 #: DialogScript[DG_Ch01Ev5Stage05_1_36].Script
-msgid "- 小さな隙間を覗き込むと、&nセイレーンとウンディーネが何やら古い本を読みながら話していた。"
+msgid "'- 小さな隙間を覗き込むと、&nセイレーンとウンディーネが何やら古い本を読みながら話していた。"
 msgstr ""
 
 #  Korean Text: '그런데 츤... 데레? 이건 무슨 뜻이죠?'
@@ -23645,7 +23645,7 @@ msgstr ""
 
 #  Korean Text: '- 나도 뒤따라 일어나 굳은 다리를 풀며 워울프와 카멜이 사라진 출구쪽으로 시선을 향했다.'
 #: DialogScript[DG_Ch01Ev5Stage05_1_78].Script
-msgid "- 俺もそれに従って立ち上がる。固まってしまった足を軽く解してから&nウェアウルフとキャメルが消えた出口を見つめた。"
+msgid "'- 俺もそれに従って立ち上がる。固まってしまった足を軽く解してから&nウェアウルフとキャメルが消えた出口を見つめた。"
 msgstr ""
 
 #: DialogScript[DG_Ch01Ev5Stage05_1_78].SelectionIndex[1]
@@ -23730,7 +23730,7 @@ msgstr ""
 
 #  Korean Text: '- 몰래 뒤쫓아 나온 것까진 좋았지만, 호드의 이동속도는 상상을 초월했다.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_3].Script
-msgid "- またこっそりとオルカから出るまではよかったものの、&nホードの移動速度は俺の予想を遥かに超えるものだった…。"
+msgid "'- またこっそりとオルカから出るまではよかったものの、&nホードの移動速度は俺の予想を遥かに超えるものだった…。"
 msgstr ""
 
 #  Korean Text: '- 허겁지겁 뒤쫓아가길 몇 분, 호드의 모습은 결국 밤의 어둠 속으로 사라져 버렸다.'
@@ -23745,12 +23745,12 @@ msgstr ""
 
 #  Korean Text: '- 두 번째는, 호드를 뒤쫓는 데에만 정신이 팔려 항상 우리 근처에 있는 위협에 대해 생각하지 못한 것.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_6].Script
-msgid "- 二つ目の落ち度は、ホードを追いかけることに気を取られて、&n常に俺たちの近くにいる「脅威」のことを失念していたことだ。"
+msgid "'- 二つ目の落ち度は、ホードを追いかけることに気を取られて、&n常に俺たちの近くにいる「脅威」のことを失念していたことだ。"
 msgstr ""
 
 #  Korean Text: '- 터덜터덜 오르카로 돌아가던 중, 페더가 목소리를 낮추며 위험을 알려왔다.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_7].Script
-msgid "- 二人で肩を落としてオルカへ帰る途中、&nフェザーが声を潜めて危険を知らせてきた。"
+msgid "'- 二人で肩を落としてオルカへ帰る途中、&nフェザーが声を潜めて危険を知らせてきた。"
 msgstr ""
 
 #  Korean Text: '- 이 근처엔 철충이 적다지만 이쪽은 비전투 인원인 페더와 나 둘 뿐.'
@@ -23760,12 +23760,12 @@ msgstr ""
 
 #  Korean Text: '- 지니고 다니던 개인 화기를 꺼내야하나 고민하던 중 날아든 저격에 철충 하나가 쓰러졌다.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_9].Script
-msgid "- 俺が持っている護身用火器を取り出すべきかと考えていたら、&n一番近くにいた鉄虫一体が突然の狙撃に倒れた。"
+msgid "'- 俺が持っている護身用火器を取り出すべきかと考えていたら、&n一番近くにいた鉄虫一体が突然の狙撃に倒れた。"
 msgstr ""
 
 #  Korean Text: '- 페더가 철충을 교란하는 사이 저격수는 철충을 차례차례 처리했다.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_10].Script
-msgid "- それを合図にフェザーが攪乱している間、&n狙撃手が次々と鉄虫を葬っていったのだ。"
+msgid "'- それを合図にフェザーが攪乱している間、&n狙撃手が次々と鉄虫を葬っていったのだ。"
 msgstr ""
 
 #  Korean Text: '- 그리고 지금, 그 저격수가 눈 앞에 나타났다.'
@@ -23833,7 +23833,7 @@ msgstr ""
 
 #  Korean Text: '- 내 말을 끊은 미호가 옷자락을 만지작거리며 발 끝으로 바닥을 툭툭 쳤다.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_22].Script
-msgid "- 俺の言葉を遮ったミホが、&n自分の裾をモジモジといじりながら足元の積もった雪をイジイジと崩していた。"
+msgid "'- 俺の言葉を遮ったミホが、&n自分の裾をモジモジといじりながら足元の積もった雪をイジイジと崩していた。"
 msgstr ""
 
 #  Korean Text: '사령관, 있잖아...'
@@ -23876,7 +23876,7 @@ msgstr ""
 
 #  Korean Text: '- 찝찝한 기분을 애써 지우며 오르카로 돌아왔다.'
 #: DialogScript[DG_Ch01Ev5Stage05_2_29].Script
-msgid "- 何とも言えない後味の悪さを我慢してオルカへ帰った。"
+msgid "'- 何とも言えない後味の悪さを我慢してオルカへ帰った。"
 msgstr ""
 
 #  Korean Text: '네? 사령관님, 다시 생각해보시는게...'
@@ -25189,7 +25189,7 @@ msgstr ""
 
 #  Korean Text: '- 한쪽에 내려둔 배낭을 맸다. 처음 맸을 때보다 조금 더 무겁게 느껴진다.'
 #: DialogScript[DG_Ch01Ev5Stage08_2_30].Script
-msgid "- 隅に置いておいたバックパックを背負う。&n初めて背負ったときよりなんだか重く感じる。"
+msgid "'- 隅に置いておいたバックパックを背負う。&n初めて背負ったときよりなんだか重く感じる。"
 msgstr ""
 
 #  Korean Text: '- 피로가 쌓이긴 했나... 그래도 도중에 그만둘 순 없지.'
@@ -31216,7 +31216,7 @@ msgstr ""
 
 #  Korean Text: '아, 노움. 발포 콘크리트 지원 고마웠어요.'
 #: DialogScript[DG_Ch02Ev5Stage01B_2_9].Script
-msgid "ああ、ノーム。発砲コンクリートの支援、ありがとうございました。"
+msgid "ああ、ノーム。発泡コンクリートの支援、ありがとうございました。"
 msgstr ""
 
 #  Korean Text: '별말씀을요, 가족끼리.'
@@ -34126,7 +34126,7 @@ msgstr ""
 
 #  Korean Text: '음... 이 기회에 평소에 주인님과 함께 할 기회가 없으셨던 분들을...'
 #: DialogScript[DG_Ch02Ev5Stage03_2_51].Script
-msgid "うーん…この際ですしご主人様と同衿する機会がなかった方々を…"
+msgid "うーん…この際ですしご主人様と同衾する機会がなかった方々を…"
 msgstr ""
 
 #  Korean Text: '좋은 생각이군요.'
@@ -34543,7 +34543,7 @@ msgstr ""
 
 #  Korean Text: '눈을 감고 두통을 참는 모습이 눈에 선하군.'
 #: DialogScript[DG_Ch02Ev5Stage03B_2_28].Script
-msgid "目と瞑ってこめかみを押さえている姿が目に浮かぶようだ。"
+msgid "目を瞑ってこめかみを押さえている姿が目に浮かぶようだ。"
 msgstr ""
 
 #  Korean Text: '호드 분들의 모습을 상상하면 유쾌한 기분이 듭니다.'
@@ -36258,7 +36258,7 @@ msgstr ""
 
 #  Korean Text: '- 어쨌든 내가 술에 약하다는 소문이 퍼진 후로 대원들은 너나할 것 없이 술을 권해왔었다.'
 #: DialogScript[DG_Ch02Ev5Stage06_1_18].Script
-msgid "- とにかく俺がお酒に弱いという噂が広がり、隊員たちが&n我先にと俺にお酒を勧めてきた。あの勢いは本当にすごかった…。"
+msgid "'- とにかく俺がお酒に弱いという噂が広がり、隊員たちが&n我先にと俺にお酒を勧めてきた。あの勢いは本当にすごかった…。"
 msgstr ""
 
 #  Korean Text: '물론 그 분들을 폄하하는 건 아니에요. 그만큼 사령관을 원한다는 거겠죠.'
@@ -36316,7 +36316,7 @@ msgstr ""
 
 #  Korean Text: '- 건네는 잔을 받고 살짝 부딪히자 조용한 설원에 맑은 울림이 퍼졌다.'
 #: DialogScript[DG_Ch02Ev5Stage06_1_28].Script
-msgid "- 渡されたグラスをオードリーのグラスに軽く当てると静かな雪原に澄んだ音が&n辺りに響いた。"
+msgid "'- 渡されたグラスをオードリーのグラスに軽く当てると静かな雪原に澄んだ音が&n辺りに響いた。"
 msgstr ""
 
 #  Korean Text: '아무도 없는 설원에... 이렇게 단 둘이...'
@@ -36365,7 +36365,7 @@ msgstr ""
 
 #  Korean Text: '- 은근한 말투로 묻는 오드리의 모습에 또다시 장난기가 솟았다.'
 #: DialogScript[DG_Ch02Ev5Stage06_1_37].Script
-msgid "- 意味深にそう言うオードリーに思わず意地悪したくなった。"
+msgid "'- 意味深にそう言うオードリーに思わず意地悪したくなった。"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev5Stage06_1_37].SelectionIndex[1]
@@ -36454,7 +36454,7 @@ msgstr ""
 
 #  Korean Text: '- 마침내 함장실에 도착해 조명을 켜려는 내 손을 오드리가 붙잡았다.'
 #: DialogScript[DG_Ch02Ev5Stage06_2_6].Script
-msgid "- ようやく館長室に到着し、灯りを点けようとする俺の手をオードリーが掴んだ。"
+msgid "'- ようやく艦長室に到着し、灯りを点けようとする俺の手をオードリーが掴んだ。"
 msgstr ""
 
 #  Korean Text: '보는 건 아까 많이 봤으니까, 지금은 그냥 이렇게...'
@@ -36541,7 +36541,7 @@ msgstr ""
 
 #  Korean Text: '- 조명이 들어오고, 한숨을 내쉬는 오드리 밑에서 바둥거리는 팔다리가 보인다.'
 #: DialogScript[DG_Ch02Ev5Stage06_2_25].Script
-msgid "- 照明を点けて明るくなると、ため息を吐くオードリーの下でジタバタしている&n手足が見えた。"
+msgid "'- 照明を点けて明るくなると、ため息を吐くオードリーの下でジタバタしている&n手足が見えた。"
 msgstr ""
 
 #  Korean Text: '- 오드리가 일어나자...'
@@ -37514,7 +37514,7 @@ msgstr ""
 
 #  Korean Text: '- 걱정스러운 마음에 통신을 연결해보려 할 때 레오나가 다가와 파티의 피날레가 준비됐다고 알렸다.'
 #: DialogScript[DG_Ch02Ev5Stage08_2_2].Script
-msgid "- 流石に心配になってきて通信で呼び出そうとしたら、&nレオナがパーティーのフィナーレの準備ができたと俺に報告に来た。"
+msgid "'- 流石に心配になってきて通信で呼び出そうとしたら、&nレオナがパーティーのフィナーレの準備ができたと俺に報告に来た。"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev5Stage08_2_2].SelectionIndex[1]
@@ -38009,6 +38009,11 @@ msgstr "Black Lilith"
 #: DialogScript[DG_Ch02Ev6Stage08_1_27].SelectionIndex[1]
 msgid "ペロ？"
 msgstr ""
+
+#  Korean Text: '스노우 페더'
+#: DialogScript[DG_Ch02Ev7Stage03S_2_62].Char_Name_C
+msgid "スノーフェザー"
+msgstr "Snow Feather"
 
 #  Korean Text: '다들 안녕?! 내가 새로 부임한 탐사 대장님이야! 박수로 맞이해주면 좋겠어.'
 #: DialogScript[DG_Ch03Ev2Stage01_1_1].Script
@@ -50859,380 +50864,1234 @@ msgstr "Circe"
 msgid "戦闘現場"
 msgstr ""
 
+#  Korean Text: '마침내 찾아온 그날.'
+#: DialogScript[DG_Marriage01Stage01_1_2].Script
+msgid "ついに訪れたその日。"
+msgstr ""
+
+#  Korean Text: '엘리베이터를 타고 있는 고작 십여초가 너무나 길게 느껴진다.'
+#: DialogScript[DG_Marriage01Stage01_1_3].Script
+msgid "エレベーターに乗っている僅か数十秒がとても長く感じる。"
+msgstr ""
+
+#  Korean Text: '심호흡을 하고 마음의 준비를 마치는 것과 동시에 엘리베이터 문이 열렸다.'
+#: DialogScript[DG_Marriage01Stage01_1_4].Script
+msgid "深呼吸をして心の準備を終えると同時にエレバーターのドアが開いた。"
+msgstr ""
+
+#  Korean Text: '아름답게 장식된 갑판에서 나를 기다리고 있던 그녀의 앞으로 다가섰다.'
+#: DialogScript[DG_Marriage01Stage01_1_6].Script
+msgid "美しく飾られた甲板で俺を待っていた彼女の前に近づいた。"
+msgstr ""
+
+#: DialogScript[DG_Marriage01Stage01_1_6].SelectionIndex[1]
+msgid "（大事にしまっておいた指輪をケースから取り出す。）"
+msgstr ""
+
 #  Korean Text: 'P/A-00 그리폰'
 #: DialogScript[DG_Marriage01Stage01_1_7].Char_Name_C
 msgid "P/A-00グリフォン"
 msgstr "P/A-00 Griffon"
+
+#  Korean Text: '뭐야? 인간? 이거? 설마… 내가 생각하는 그거야? 헤헤… 헤헤… 인간 이거 서약 맞지?&n… 이 정도까지 했는데 거절하면… 불쌍하니까 받아줄게. 그러니까 불쌍하니까… 알겠지?'
+#: DialogScript[DG_Marriage01Stage01_1_8].Script
+msgid ""
+"何？人間？これは？まさか…私の予想的中？へへ…へへ…人間、これって誓約だよね？&n…そこまで言うのに断るのは…可哀そうだから受け取ってあげる。もう一度言うけ"
+"ど可哀そうだからだよ…わかった？"
+msgstr ""
+
+#: DialogScript[DG_Marriage01Stage01_1_8].SelectionIndex[1]
+msgid "（彼女に…指輪をはめてあげる。）"
+msgstr ""
 
 #  Korean Text: '콘스탄챠 S2'
 #: DialogScript[DG_Marriage01Stage02_1_7].Char_Name_C
 msgid "コンスタンツァS2"
 msgstr "Constantia S2"
 
+#  Korean Text: '제가… 전 메이드일 뿐인데… 이런 걸 받을 줄은… 정말 몰랐어요. 주인님, 그런데…&n이건 제가 주인님의 것이란 증표겠죠?'
+#: DialogScript[DG_Marriage01Stage02_1_8].Script
+msgid ""
+"私なんかが…私はただのメイドに過ぎません…こんなものをもらうなんて…夢にも思っていませんでした。ご主人様、ところで…&nこれは私がもうご主人様のものであるこ"
+"との証ですよね？"
+msgstr ""
+
 #  Korean Text: '프레스터 요안나'
 #: DialogScript[DG_Marriage01Stage03_1_7].Char_Name_C
 msgid "プレスターヨアンナ"
 msgstr "Prester Johanna"
+
+#  Korean Text: '이건… 주군… 그대의 마음은 짐작하고 있었지만… 기사된 몸으로 포기를 하고 있었다네.&n하지만… 이렇게까지 하면… 그럴 수가 없지 않은가?'
+#: DialogScript[DG_Marriage01Stage03_1_8].Script
+msgid ""
+"これは…主君…そなたの想いには薄々気づいてはいたが…騎士たる者、最初から諦めていた。&nだが…ここまでされては…そうもいかないのではないだろうか？"
+msgstr ""
 
 #  Korean Text: '에이미 레이저'
 #: DialogScript[DG_Marriage01Stage04_1_7].Char_Name_C
 msgid "エイミーレイザー"
 msgstr "Amy the Razor"
 
+#  Korean Text: '어머… 자기… 설마 이제까지 제가 했던 말을 진짜 믿은 거예요? 후후…. 잘했어요.&n전부 제 마음이었으니까… 그럼… 자기… 앞으로도 잘 부탁해요.'
+#: DialogScript[DG_Marriage01Stage04_1_8].Script
+msgid ""
+"まぁ…あなたったら…まさか今までの私の言葉を本気にしていたんですか？ふふふ…。さすがですわ。&n全部私の正直な想いでしたから…では…ハニー…これからもよろし"
+"く頼みますわ。"
+msgstr ""
+
 #  Korean Text: '코코 인 화이트셸'
 #: DialogScript[DG_Marriage01Stage05_1_7].Char_Name_C
 msgid "ココ･イン･ホワイトシェル"
 msgstr "CoCo & WhiteShell"
+
+#  Korean Text: '에??? 화이트 쉘에게 주는 건가요? 아니면… 설마 저한테?&n우우… 좀 더 어른이었으면 좋았을 텐데… 지금은 사령관 님의 마음만 확인해야 하니까…'
+#: DialogScript[DG_Marriage01Stage05_1_8].Script
+msgid ""
+"え？？？ホワイトシェルにくれるんですか？それとも…まさか私に？&nうぅ…もう少し大人だったらよかったのに…今は司令官様の気持ちの確認しかできないから…"
+msgstr ""
 
 #  Korean Text: '불굴의 마리'
 #: DialogScript[DG_Marriage01Stage06_1_7].Char_Name_C
 msgid "不屈のマリー"
 msgstr "Indomitable Marie"
 
+#  Korean Text: '전 군인입니다. 이런 건… 각하의 명령이니 받을 수 밖에 없지만…&n싫어서 드리는 말씀이 아닙니다. 물론 저도… 아닙니다. 각하도 짓궂으시군요. '
+#: DialogScript[DG_Marriage01Stage06_1_8].Script
+msgid ""
+"私は軍人です。こんなものは…閣下の命令ですから受け取ることは受け取りますが…&n嫌というわけではありません。もちろん私も…いえ、何でもありません。閣下も意地"
+"が悪いのですね。"
+msgstr ""
+
+#  Korean Text: '그것은 무엇이지? 어리석은 인… 응? 어? 사령관? 이거 나 주는 거야? 정말?&n사령관! 정말 최고야! 히히! 오늘 진짜 최고야! 혹시 꿈 아니지?'
+#: DialogScript[DG_Marriage01Stage07_1_8].Script
+msgid "それは何だ？愚かな人…え？うそ？司令官？これ私にくれるの？本当に？&n司令官！最高すぎる！ひひひ！今日は最高の日だよ！夢じゃないよね？"
+msgstr ""
+
+#  Korean Text: '네? 이건… 공공 임무를 수행하는 제겐 어울리지 않습니다. 하지만… 이젠 공공이 없으니…&n조금 제 욕심을 차려도 되겠지요? 감사합니다. 소중히 간직하겠습니다.'
+#: DialogScript[DG_Marriage01Stage08_1_8].Script
+msgid ""
+"はい？これは…公共任務を務める私には相応しくないものです。ですが…今となっては公共の意味など特に意味はありませんので…&n少しは私の個人的な欲求を満たしても"
+"いいですよね？ありがとうございます。大切にします。"
+msgstr ""
+
+#  Korean Text: '에? 저… 저 말임까? 전 그냥 병사지 말입니다… 군인이 연애해도 되는지는…&n으… 모르겠슴다. 눈이 그냥 막 빙글빙글 돕니다. 그… 좋은 쪽으로 말임다.'
+#: DialogScript[DG_Marriage01Stage09_1_8].Script
+msgid ""
+"はい？私…この私にっすか？私はただの兵士っす…軍人が恋愛をしてもいいのかは…&nうっ…よくわからないっす。目がぐるぐる回るっす。その…お好きなようにしてくだ"
+"さいっす。"
+msgstr ""
+
 #  Korean Text: '마이티R'
 #: DialogScript[DG_Marriage01Stage10_1_7].Char_Name_C
 msgid "マイティR"
 msgstr "Mighty R"
+
+#  Korean Text: '전… 어느 정도 알고 있었어요. 왜냐면... 저도 사령관님 생각만... 하고 있었거든요... &n앞으로는 제가, 책임지고 사령관님을 보살펴 드리죠. 대신… 각오하셔야 할 거예요. 후후.'
+#: DialogScript[DG_Marriage01Stage10_1_8].Script
+msgid ""
+"私は…ある程度はわかっていました。何故なら…私も司令官様のことだけを…考えていましたから…&nこれからは私が責任をもって司令官様をお世話いたします。その代わ"
+"り…覚悟してくださいね。ふふふ。"
+msgstr ""
 
 #  Korean Text: '더치걸'
 #: DialogScript[DG_Marriage01Stage11_1_7].Char_Name_C
 msgid "ダッチガール"
 msgstr "Dutch Girl"
 
+#  Korean Text: '날 다른 사람으로 착각한 거 아니지? 사령관… 정말? 말도 안돼.&n나, 사는 동안 나쁜 일만 있을 줄 알았는데… 고마워, 사령관. 이건 내 유일한 좋은 기억이야.'
+#: DialogScript[DG_Marriage01Stage11_1_8].Script
+msgid ""
+"私を他の人と勘違いしてるんじゃないよね？司令官…本当なの？信じられない。&n私、人生って悪いことばかりあるものだと思ってたのに…ありがとう、司令官。これは私"
+"の人生で唯一のいい思い出よ。"
+msgstr ""
+
 #  Korean Text: '다프네'
 #: DialogScript[DG_Marriage01Stage12_1_7].Char_Name_C
 msgid "ダフネ"
 msgstr "Daphne"
+
+#  Korean Text: '서약, 제게 이런 일이 있을 줄은 몰랐는데…&n앞으로도 영원히 주인님의 정원을 가꿔 드리겠습니다.'
+#: DialogScript[DG_Marriage01Stage12_1_8].Script
+msgid "誓約、私にこんなことが起こるなんて夢にも思っていませんでした…&nこれからも永遠にご主人様の庭園を管理いたします。"
+msgstr ""
+
+#  Korean Text: '참… 사령관이 누날 그런 눈으로 보는 건 알고 있었지만… 응응. 누나 마음도 같으니까… &n그…. 사령관이랑 같이 있고 싶은 건… 누나도 마찬가지니까… 몰라. 어쨌든…'
+#: DialogScript[DG_Marriage01Stage13_1_8].Script
+msgid ""
+"もう…司令官がお姉さんのことをそんな目で見ていたことは全部知ってたけど…わかるわ。お姉さんの気持ちも同じだから…&nその…司令官と一緒にいたいって気持ちは…"
+"お姉さんも同じ…もう、知らないんだから。とにかく…"
+msgstr ""
+
+#  Korean Text: '이건… 아닌데… 제 얼굴… 모르겠습니다… 제 표정이 어떤지…&n이런 일은 혼자서 상상만 했던 거라… 사령관 각하, 저 혹시 울고 있나요?'
+#: DialogScript[DG_Marriage01Stage14_1_8].Script
+msgid ""
+"これは…違う…私の顔…何が何だかわかりません…私の表情はどういう状態でしょうか…&nこんなことは想像しかしてこなかったので…司令官閣下、私、もしかして泣いて"
+"いますか？"
+msgstr ""
+
+#  Korean Text: '네? 이걸… 아, 누구에게 전달하는 임무인가요? 네? 제게 주신다고요? 이걸? 말도 안돼…&n살면서 한 번도 생각을 하지 못한 일인데... 주인님, 부족하지만 절대로 실망시키지 않겠어요.'
+#: DialogScript[DG_Marriage01Stage15_1_8].Script
+msgid ""
+"はい？これを…あ、誰かに配達すればいいんですか？え？私にくれるんですか？これをですか？嘘…&n今まで一度もこんなこと考えてもみなかった…ご主事様、色々物足り"
+"ないところもありますが絶対に失望させません。"
+msgstr ""
+
+#  Korean Text: '기다리고 있었어요. 주인님… 자, 저도 준비했으니… 이 반지를 받아 주세요…&n우린… 서로에게 영원히 짝이 되는 거예요… 둘이서만…'
+#: DialogScript[DG_Marriage01Stage16_1_8].Script
+msgid ""
+"お待ちしておりました。ご主人様…これを、私も準備いたしましたので…この指輪を受け取ってください…&n私たちは…お互いに永遠につがいとなるのです…二人だけで…"
+msgstr ""
 
 #  Korean Text: 'P-24 핀토'
 #: DialogScript[DG_Marriage01Stage17_1_7].Char_Name_C
 msgid "P-24ピント"
 msgstr "P-24 Pinto"
 
+#  Korean Text: '이런 거… 나하곤 상관 없을 줄 알았는데. 이거 꿈 아니지? 사령관… 응?&n정말 좋아. 정말 좋아요! 사령관! '
+#: DialogScript[DG_Marriage01Stage17_1_8].Script
+msgid "こういうの…私には関係ないことだと思っていたのに。これ夢じゃないよね？司令官…ねぇ？&nすごく気分いい。最高に気分がいいです！司令官！"
+msgstr ""
+
 #  Korean Text: 'AS-12 스틸 드라코'
 #: DialogScript[DG_Marriage01Stage18_1_7].Char_Name_C
 msgid "AS-12スチールドラコ"
 msgstr "AS-12 Steel Draco"
+
+#  Korean Text: '응? 이거? 예뻐… 근데 무슨 뜻이야? 응? 사령관, 얼굴은 왜 그렇게 빨개?&n무슨 뜻? 무슨 뜻? 이거 주는 이유가 있어?'
+#: DialogScript[DG_Marriage01Stage18_1_8].Script
+msgid "え？これ？綺麗だね…ところでこれ何でくれるの？何で？司令官、何でそんなに顔が真っ赤なの？&nどういう意味なの？どういう意味？何でこれくれるの？"
+msgstr ""
 
 #  Korean Text: 'AG-1 네레이드'
 #: DialogScript[DG_Marriage01Stage19_1_7].Char_Name_C
 msgid "AG-1ネレイド"
 msgstr "AG-1 Nereid"
 
+#  Korean Text: '왜 그래? 그런 얼굴로… 설마… 어제 밤에 얼굴에 낙서한 것 때문에? 응? 그런데… 이거… 어? 응? 사령관… 나… 나한테 이런 걸 줘도 돼?&n기뻐… 기쁜데… 나중에 사령관이 날 싫어하게 되면 어쩌지? 응? 싫어하지 않을 거지?'
+#: DialogScript[DG_Marriage01Stage19_1_8].Script
+msgid ""
+"どうしたの？そんな顔して…まさか…昨日の夜、顔に落書きしたことまだ怒ってる？え？それなのに…これ…え？え？司令官…私…私にこんなものくれてもいいの？&n嬉し"
+"い…嬉しいけど…あとで司令官が私のこと嫌いになったらどうしよう？そんなことないよね？そうだよね？"
+msgstr ""
+
+#  Korean Text: '이걸 저에게…? ...이런게 없어도 전 평생 주인님을 모실겁니다. 하지만… 정말 기쁘네요.&n영원히 제 주인님이 되어 주신다는 증표인거죠? 감사합니다. 소중히 간직하겠어요.'
+#: DialogScript[DG_Marriage01Stage20_1_8].Script
+msgid ""
+"これ、私にですか…？…こんなものがなくても私は一生ご主人様にお仕えいたします。ですが…本当に嬉しいです。&n永遠に私のご主人様でいてくださるという証ですよね"
+"？ありがとうございます。大切にします。"
+msgstr ""
+
 #  Korean Text: '티에치엔'
 #: DialogScript[DG_Marriage01Stage21_1_7].Char_Name_C
 msgid "ティエ･チュァン"
 msgstr "Tiequan"
+
+#  Korean Text: '에? 반한 건 알겠어… 반한 건… 으아… 주인! 나도 주인처럼 생각하고 있었는데!&n함께 출세의 길을 걸어가자고! 목표는… 세계 정복 쯤으로 할까?'
+#: DialogScript[DG_Marriage01Stage21_1_8].Script
+msgid ""
+"え？私に惚れたってことはわかった…惚れたのは…うあっ…ご主人様！私もご主人様と同じこと考えてたんだ！&n一緒に出世街道に出発だ！目標は…世界征服くらいにしと"
+"く？"
+msgstr ""
 
 #  Korean Text: 'AT-100 비스트헌터'
 #: DialogScript[DG_Marriage01Stage22_1_7].Char_Name_C
 msgid "AT-100ビーストハンター"
 msgstr "AT-100 Beast Hunter"
 
+#  Korean Text: '마음의 결정을 하셨군요. 사령관 님. 저도 이 순간을 기다려 왔어요.&n오늘은 사령관 님을 단련시켜 드리죠. 아주 특별한 경험일 거예요.'
+#: DialogScript[DG_Marriage01Stage22_1_8].Script
+msgid ""
+"大変な決断をされたようですね。司令官様。私もこの瞬間をずっと待っていました。&n今日は司令官様を訓練して差し上げます。今までにない特別な経験となることでしょ"
+"う。"
+msgstr ""
+
 #  Korean Text: 'M-5 이프리트'
 #: DialogScript[DG_Marriage01Stage23_1_7].Char_Name_C
 msgid "M-5イフリート"
 msgstr "M-5 Efreeti"
+
+#  Korean Text: '에? 중요한 일? 자는 것 보다 중요한 게… 어… 있네? 사령관 님… 괜찮아? 나한테 줘도?&n물론… 지금 시대에 경찰서는 없지만… 거절 아냐. 그냥… 이럴 땐 뭐라고 말해야 할 지&n모르겠어. … 고마워 사령관님.'
+#: DialogScript[DG_Marriage01Stage23_1_8].Script
+msgid ""
+"え？大切なこと？寝ることよりも大事なことが…え…あるんだね？司令官様…いいの？私にくれても？&nもちろん…今の時代には警察署はないけど…断るってことじゃない"
+"よ。ただ…こういう時に何と言えばいいのか&nわからなくて。…ありがとう、司令官様。"
+msgstr ""
 
 #  Korean Text: 'AA-7 임펫'
 #: DialogScript[DG_Marriage01Stage24_1_7].Char_Name_C
 msgid "AA-7インペット"
 msgstr "AA-7 Impet"
 
+#  Korean Text: '후후… 사령관 님, 드디어 용기를 낸 거야? 내 대답 같은 거 필요도 없지?&n사령관… 정말 오래 기다렸어… 기다린 만큼 보상은 해주겠지?'
+#: DialogScript[DG_Marriage01Stage24_1_8].Script
+msgid ""
+"ふふふ…司令官様、ついに勇気を出したみたいね？私の答えは必要ないでしょ？&n司令官…随分待たせてくれたわね…その分たっぷりと楽しませてもらうわよ？"
+msgstr ""
+
 #  Korean Text: 'T-8W 발키리'
 #: DialogScript[DG_Marriage01Stage25_1_7].Char_Name_C
 msgid "T-8Wヴァルキリー"
 msgstr "T-8W Valkyrie"
+
+#  Korean Text: '… 서약이군요. 약속… 사령관님… 이 순간과 이 약속이 영원하길 바랍니다.'
+#: DialogScript[DG_Marriage01Stage25_1_8].Script
+msgid "…誓約ですから。約束…司令官様…この瞬間とこの約束が永遠であることを願います。"
+msgstr ""
 
 #  Korean Text: '토모'
 #: DialogScript[DG_Marriage01Stage26_1_7].Char_Name_C
 msgid "トモ"
 msgstr "Tomo"
 
+#  Korean Text: '서약의 반지면… 사령관, 괜찮아? 그… 윤리적으로 말야. 나한테 이런 걸 주는 건…&n물론 내가 진짜 고교생은 아니지만… 그래! 건전하게 함께 있는 건 되는 거지?&n손만 잡고 있는 거… 옛날에 봤는데? 아! 손만 잡고 자자! 사령관!'
+#: DialogScript[DG_Marriage01Stage26_1_8].Script
+msgid ""
+"誓約の指輪ってことは…司令官、大丈夫なの？だから…倫理的に。私にこんなものあげるってことは…&nもちろん私は本当の高校生ではないけど…そうだ！健全にただ一緒"
+"にいるってことなら問題ないよね？&n手だけ繋ぐあれ…昔どっかで見たよ？ほら！手だけ繋ごう！司令官！"
+msgstr ""
+
 #  Korean Text: '라비아타 프로토타입'
 #: DialogScript[DG_Marriage01Stage27_1_7].Char_Name_C
 msgid "ラビアタプロトタイプ"
 msgstr "Labiata"
+
+#  Korean Text: '이런 건… 제게 다시 이런 날이 올 거라곤 한 번도 생각해 본 적 없었어요.&n주인님…  제가 영원히 지켜 드릴게요.'
+#: DialogScript[DG_Marriage01Stage27_1_8].Script
+msgid "これは…私に再びこんな日が来るとは一度たりとも考えたことがありませんでした。&nご主人様…私が最後の最後までお守りいたします。"
+msgstr ""
 
 #  Korean Text: 'A-6 이오'
 #: DialogScript[DG_Marriage01Stage28_1_7].Char_Name_C
 msgid "A-6イオ"
 msgstr "A-6 Io"
 
+#  Korean Text: '저같은 애한테… 이런 걸 주셔도…&n사령관 님… 죄송해요. 그리고… 정말, 열심히 할게요. 정말로.'
+#: DialogScript[DG_Marriage01Stage28_1_8].Script
+msgid "私みたいな子に…こんなものをくれるなんて…&n司令官様…すみません。それから…本当に、一生懸命やります。本当です。"
+msgstr ""
+
+#  Korean Text: '이 선물의 의미는… 혹시? 기쁩니다. 어쩌면… 제가 언젠가 전투에 죽더라도&n사령관 각하께서 기억해 주신다는 뜻이니까요. 그리고… 제가 눈을 감을 때 이 기억을&n가지고 갈 수 있을 테니.'
+#: DialogScript[DG_Marriage01Stage29_1_8].Script
+msgid ""
+"このプレゼントの意味は…まさか？嬉しいです。万が一…私がいつか戦死しても&n司令官閣下が私のことを覚えていてくれるという意味ですよね。そして…私があの世に行"
+"く時もこの記憶を&n持っていけるということですよね。"
+msgstr ""
+
 #  Korean Text: 'T-10 님프'
 #: DialogScript[DG_Marriage01Stage30_1_7].Char_Name_C
 msgid "T-10ニンフ"
 msgstr "T-10 Nymph"
+
+#  Korean Text: '어머… 사령관 님께서 제게 이렇게 깊은 마음을 품고 계실 줄은… 제 대답이요?&n정말… 그런 걸 어떻게… ... 저도 같은 마음이에요. … 정말, 이렇게 여자에게 직접&n말을 하게 하시다니… 사령관 각하는 나쁜 사람입니다.'
+#: DialogScript[DG_Marriage01Stage30_1_8].Script
+msgid ""
+"まぁ…司令官様が私のことをここまで想っていらっしゃったとは…私の答えですか？&n本当にもう…そんなことをどうやって……私も同じです。…よくも女にそんなことを"
+"&n言わせられますわね…司令官閣下は意地悪な方です。"
+msgstr ""
 
 #  Korean Text: 'T-9 그렘린'
 #: DialogScript[DG_Marriage01Stage31_1_7].Char_Name_C
 msgid "T-9グレムリン"
 msgstr "T-9 Gremlin"
 
+#  Korean Text: '이걸 저한테 주시는 건가요? 맙소사! 꿈이 이뤄졌어! 드디어… 비밀 친구 놀이 시작이야!&n사령관님, 자, 오세요! 우리… 이제 비밀 친구인 거죠? '
+#: DialogScript[DG_Marriage01Stage31_1_8].Script
+msgid ""
+"これを私にくれるんですか？オーマイガー！夢が叶った！ついに…秘密の友達ごっこの始まりだ！&n司令官様、こっちに来てください！私たち…これからは秘密の友達です"
+"よ？"
+msgstr ""
+
 #  Korean Text: '바닐라 A1'
 #: DialogScript[DG_Marriage01Stage32_1_7].Char_Name_C
 msgid "バニラA1"
 msgstr "Vanilla A1"
+
+#  Korean Text: '…...정말 악취미로군요. 이런 장난을 치셔서 즐거우십니까? 정말 오만정이 다 떨어- 지, 진심&n이신거군요. 실례했습니다. 저 같은 것에게 이런 일이 생길줄은 몰라서… 대답, 말입니까?&n...그런 건 당연하지 않습니까. 조, 좋아, 하니까 한심한 주인님의 뒷바라지를 한거라구요.'
+#: DialogScript[DG_Marriage01Stage32_1_8].Script
+msgid ""
+"……悪趣味もいいところです。こんないたずらをして楽しいんですか？もういい加減愛想が尽き―ほ、本気&nなんですか？失礼いたしました。私なんかにこんな日が来るな"
+"んて思ってもみなくて…答え、ですか？&n…それはわかりきったことです。す、好きだから、情けないご主人様のお世話をしてきたんです。"
+msgstr ""
 
 #  Korean Text: 'A-1 블러디 팬서'
 #: DialogScript[DG_Marriage01Stage33_1_7].Char_Name_C
 msgid "A-1ブラッディパンサー"
 msgstr "A-1 Bloody Panther"
 
+#  Korean Text: '에? 장난인 거 다 알지 말입니다? 에? 진짭니까? 에? 거짓말…&n으으… 간부랑 특별한 관계가 되면 안 되는 건데… 이런 거… 거절 못하는 거 알면서&n이런 건 반칙입니다…'
+#: DialogScript[DG_Marriage01Stage33_1_8].Script
+msgid ""
+"はい？悪ふざけだってわかってますけど？はい？本当ですか？嘘…&nうぅ…幹部と特別な関係になってはいけないのに…こんなことって…断れないって知りながら&nこれ"
+"は反則です…"
+msgstr ""
+
+#  Korean Text: '뭐야? 날 이런곳으로 불러내다니. 이 장식들 하며… 아, 그래? 드디어 날 특별 대우해줄&n마음이 들었나보네? 뭐, 일단은 받아줄게. 사령관이 날 위해 애써 준비해줬는데 버리는 건&n좀 그러니까. 그리고… 기, 기념할만한 날이니까 조금 더… 같이… 있어 줄 수도 있어.'
+#: DialogScript[DG_Marriage01Stage34_1_8].Script
+msgid ""
+"何なの？私をこんな所に呼び出すなんて。この飾りといい…あ、そういうこと？ついに私を特別に待遇する&n気持ちになったみたいね？まぁ、気持ちは受け取ってあげるわ"
+"。司令官が私のために一生懸命準備してくれたんだから&n誠意は無駄にしちゃだめだしね。それから…き、記念すべき日だからもう少しだけ…一緒に…いてあげるわ。"
+msgstr ""
+
 #  Korean Text: '켈베로스'
 #: DialogScript[DG_Marriage01Stage35_1_7].Char_Name_C
 msgid "ケルベロス"
 msgstr "Cerberus"
+
+#  Korean Text: '어? 어? 어? 진짜 제 꺼예요? 히힛! 헤헤헤!! 사령관님, 잠깐만.... 저 너무 기뻐서 그러는데…&n조금만 달리고 올게요… 그 다음엔… 에헤헷!'
+#: DialogScript[DG_Marriage01Stage35_1_8].Script
+msgid "え？え？え？本当に私のものなんですか？ひひひ！へへへ！！司令官様、ちょっとだけ…私、嬉しすぎて…&n少しだけ走ってきます…そのあとは…えへへ！"
+msgstr ""
 
 #  Korean Text: 'B-11 나이트 앤젤'
 #: DialogScript[DG_Marriage01Stage36_1_7].Char_Name_C
 msgid "B-11ナイトエンジェル"
 msgstr "B-11 Night Angel"
 
+#  Korean Text: '응? 괜찮아요? 저예요. 사령관, 혹시 잘못 찾아온 건 아니죠? 정말 저?&n맙소사!!! 가슴을 뛰어넘을 정도로 제가 좋다니! 네 저도… 너무 좋아요! 사령관! '
+#: DialogScript[DG_Marriage01Stage36_1_8].Script
+msgid ""
+"あれ？大丈夫ですか？私です。司令官、もしかして場所を間違えてはいませんか？本当に私に？&n信じられない！！！胸を飛び越えるほどに私が好きだなんて！実は私も…"
+"大好きです！司令官！"
+msgstr ""
+
+#  Korean Text: '사령관… 이거… 나랑 계속 같이 있고 싶어서 주는 거지? 사령관은 나랑 있는 게 좋아? &n그럼 나도 좋아… 그리고 사령관… 나 지금 어떻게 해야 할 지 모르겠지만…&n나 기쁜게 뭔지 알 것 같아.'
+#: DialogScript[DG_Marriage01Stage37_1_8].Script
+msgid ""
+"司令官…これって…私とずっと一緒にいたくてくれるんでしょ？司令官は私と一緒にいれて嬉しい？&nなら私も嬉しいわ…それから司令官…私、今、どうすればいいかわか"
+"らないけど…&n私、嬉しいってどういうことかわかる気がするわ。"
+msgstr ""
+
+#  Korean Text: '역시… 사령관 내 매력에는 저항하지 못한 거구나. 이해해. 나도 사령관이 싫지 않으니까.&n사령관, 그럼 우린 이제 서로에게 특별한 관계가 된 거지? 사령관, 상을 줄까? 응?'
+#: DialogScript[DG_Marriage01Stage38_1_8].Script
+msgid ""
+"やはり…司令官は私の魅力にはかなわないようね。無理もないわ。私も司令官のことは嫌いじゃないから。&n司令官、私たちはもうお互いに特別な関係ってことね？司令官"
+"、ご褒美あげようか？ご褒美欲しい？"
+msgstr ""
+
+#  Korean Text: '… 이제야 주다니… 너무 늦었어. 사령관, 기다리게 한 대가는 치뤄야 할 거야.&n아, 그렇지만… 너무 서둘러서… 분위기를 깨진 말도록.'
+#: DialogScript[DG_Marriage01Stage39_1_8].Script
+msgid ""
+"…やっと渡してくれたわね…待ちくたびれたじゃない。司令官、私を待たせた代価はきちんと払ってもらうわ。&nあ、でも…焦った挙句…ムードを壊すことはしないでね。"
+msgstr ""
+
+#  Korean Text: '헷! 이거 사실? 리얼? 정말 정말?&n고마워 사령관님! 이런 날이 올 때만 기다리고 있었어. 절대로 실망시키지 않을 테니까.'
+#: DialogScript[DG_Marriage01Stage40_1_8].Script
+msgid "えっ！なにこれ、本当なの？本当に本当に本当なの？&nありがとう、司令官様！この日が来るのを今か今かと待っていたわ。絶対に失望させないんだから。"
+msgstr ""
+
 #  Korean Text: '프로스트 서펀트'
 #: DialogScript[DG_Marriage01Stage41_1_7].Char_Name_C
 msgid "フロストサーペント"
 msgstr "Frost Serpent"
+
+#  Korean Text: '사령관… 날 그런 눈으로 보고 있었구나. 아 내가 한 발 늦었네. 내가 먼저 말했어야&n하는데 말야. 사령관, 행복하게 해줄게. 꽃길만 걷도록. 좋지?'
+#: DialogScript[DG_Marriage01Stage41_1_8].Script
+msgid ""
+"司令官…私をそんな風に思っていたなんて。あぁ、これはもう、してやられたわ。私から先に言おうと&n思っていたのに。司令官、幸せにしてあげる。これからはいいこと"
+"だけ起こるはず。私と一緒ならね。"
+msgstr ""
 
 #  Korean Text: 'P-18 실피드'
 #: DialogScript[DG_Marriage01Stage42_1_7].Char_Name_C
 msgid "P-18シルフィード"
 msgstr "P-18 Sylphid"
 
+#  Korean Text: '사령관, 진짜 만약인데… 혹시 이거 내가 잘 나가는 느낌이라서 주는 거야?&n그런 거면… 혹시 나중에 좀 생각한 거와 다르면 실망할 거야? 실망하지 않겠다고&n약속하면… 그럼 괜찮아. 나도 사령관이 좋으니까.'
+#: DialogScript[DG_Marriage01Stage42_1_8].Script
+msgid ""
+"司令官、念のために聞くけど…まさかこれって私が人気者だからくれるの？&nだったら…もしもあとで私が思ったよりすごくなかったら失望しちゃう？そんなことないって"
+"&n約束してくれるなら…それならいいわ。私も司令官のことが好きだから。"
+msgstr ""
+
 #  Korean Text: '스카디'
 #: DialogScript[DG_Marriage01Stage43_1_7].Char_Name_C
 msgid "スカディー"
 msgstr "Scathy"
+
+#  Korean Text: '사령관 님을 마음 아프게 하고 싶진 않지만… 여자가 한 번에 함락될 수는 없는 거잖아요?&n얼른 성의를 보여 주세요. 제 마음이 좀 더 움직이게. 네? 빨리요.'
+#: DialogScript[DG_Marriage01Stage43_1_8].Script
+msgid ""
+"司令官様の心を痛めることはしたくありませんが…女が一回で落ちるなんてできません。&n早く誠意を見せていただけますか？私の気持ちがもっと動くように。ほら、早く"
+"お願いします。"
+msgstr ""
+
+#  Korean Text: '… 괜찮습니까? 제게 이런 걸 주셔도? 전 서투른데… 약하게 보이는 게 무서운 겁쟁이인데…&n이런 제가 사령관 옆에 있어도 괜찮을까요?'
+#: DialogScript[DG_Marriage01Stage44_1_8].Script
+msgid ""
+"…大丈夫ですか？私にこんなものをくださるなんて…私は不器用で…ただの強がりで本当は臆病者ですのに…&nこんな私が司令官のお傍にいてもいいのでしょうか？"
+msgstr ""
+
+#  Korean Text: '주인님…! 리리스는 알고 있었어요. 믿고 있었어요. 주인님께서 결국 리리스를 선택해주실&n거라는걸요…! 후후, 후후후… 주인님과 나의 사랑의 증표… 주인님? 주인님은 그릇이 크신&n분이니까 가끔씩은 다른 분들과 놀아주셔도 괜찮아요. 그래도… 그 이상으로 리리스를&n사랑해주셔야 해요. 아셨죠?'
+#: DialogScript[DG_Marriage01Stage45_1_8].Script
+msgid ""
+"ご主人様…！リリスは知っていました。信じていました。ご主人様が最後にはリリスを選択してくださる&nはずだと…！ふふ、ふふふ…ご主人様と私の愛の証…ご主人様？"
+"ご主人様は器の大きい&nお方ですから、たまには他の方とお遊びになっても構いません。でも…それ以上にリリスを&n愛してくださいね。おわかりですね？"
+msgstr ""
 
 #  Korean Text: '공진의 알렉산드라'
 #: DialogScript[DG_Marriage01Stage46_1_7].Char_Name_C
 msgid "共振のアレクサンドラ"
 msgstr "Resonant Alexandra"
 
+#  Korean Text: '이게 무, 무슨… 주인님! 주인님은 학생이고 전 선생입니다. 다른 마음이 들어도&n참아야 해요. 물론… 이것… 보관은 제가 하고 있겠습니다. 보관만입니다. 보관만.'
+#: DialogScript[DG_Marriage01Stage46_1_8].Script
+msgid ""
+"これはえっと、どういう…ご主人様！ご主人様は生徒であり私は教師です。それ以外の感情が生まれたとしても&n我慢しなければいけません。もちろん…これは…私が保管"
+"しておきます。あくまでも保管するだけです。単なる保管ですからね。"
+msgstr ""
+
 #  Korean Text: 'P-49 슬레이프니르'
 #: DialogScript[DG_Marriage01Stage47_1_7].Char_Name_C
 msgid "P-49スレイプニール"
 msgstr "P-49 Sleipnir"
+
+#  Korean Text: '사령관? 뭐야? 이건… 서, 서약식? 흐, 흥… 이걸로 내 마음을… 마음을…&n몰라! 사령관! 나중에 딴 소리 안 할 거지? 무르기 없기야! 알지?'
+#: DialogScript[DG_Marriage01Stage47_1_8].Script
+msgid ""
+"司令官？何なの？これは…せ、誓約式？う、う～ん…これで私の想いを…想いを…&nもう知らない！司令官！あとになって変わったりしないわよね？待ったなしだよ？わか"
+"ったね？"
+msgstr ""
 
 #  Korean Text: '네오딤'
 #: DialogScript[DG_Marriage01Stage48_1_7].Char_Name_C
 msgid "ネオディム"
 msgstr "Neodym"
 
+#  Korean Text: '사령관… 이런 것까지 준비한 거야? 내 마음도… 사령관 마음과 다르지 않아. &n음… 좋은데… 놀라서 어떻게 해야 할지 모르는 것 같아. 나 어떻게 할까?'
+#: DialogScript[DG_Marriage01Stage48_1_8].Script
+msgid ""
+"司令官…こんなものまで準備したの？私の気持ちも…司令官の気持ちと変わらないわ。&nうん…嬉しいんだけど…びっくりしちゃってどうしたらいいかわからない。私、ど"
+"うしたらいいかな？"
+msgstr ""
+
 #  Korean Text: '익스프레스 76'
 #: DialogScript[DG_Marriage01Stage49_1_7].Char_Name_C
 msgid "エクスプレス76"
 msgstr "Express 76"
+
+#  Korean Text: '나… 매일 바빴잖아… 같이 있어 주지도 못했는걸? 나 밉지 않았어? &n바… 바보야!  어서... 안아줘… &n지금 안아 주면, 영원히 사령관 옆에만 있을게… 고마워... 사령관.'
+#: DialogScript[DG_Marriage01Stage49_1_8].Script
+msgid ""
+"私ってさ…いっつも忙しかったじゃない…傍にいてあげることもできなかったんだよ？私が憎くなかった？&nもう…このバカ！ほら…早く抱いて…&n今抱いてくれたら、"
+"ずっと司令官の傍にいるから…ありがとう…司令官。"
+msgstr ""
+
+#  Korean Text: '주인님? 저는 주인님이 어딜 가시든 평생 따라다닐게요.&n그리고 나중에는~ 주인님을 닮은 예쁘고... 쪼끄만한… 흐아앙~!!&n하치코는 열심히 노력하겠어요! 주인님도 모두를 위해 열심히 노력해 주세요~!'
+#: DialogScript[DG_Marriage01Stage50_1_8].Script
+msgid ""
+"ご主人様？私はご主人様がどこに行こうと一生ついて行きます。&nそれからいつかは～ご主人様に似た可愛くて…ちっちゃな…ふぁぁ～ん！！&nハチコ、一生懸命頑張り"
+"ます！ご主人様もみんなのために一生懸命頑張ってください～！"
+msgstr ""
 
 #  Korean Text: 'P-2000 지니야'
 #: DialogScript[DG_Marriage01Stage51_1_7].Char_Name_C
 msgid "P-2000ジニヤー"
 msgstr "P-2000 Djinnia"
 
+#  Korean Text: '어? 어? 서약이요? 정말 저한테? 헤헤. 사령관님 완전 좋아요. &n사령관님, 이제 우린 보통 사이 아니니까 맛있는 것도 많이 줄 거죠? 그쵸?'
+#: DialogScript[DG_Marriage01Stage51_1_8].Script
+msgid ""
+"え？ええ？誓約ですか？本当に私に？へへ。司令官様、心の底から大好きです。&n司令官様、もう私たちは普通の関係ではないんです。美味しいものもたっぷりくれるんで"
+"すよね？そうなんですよね？"
+msgstr ""
+
 #  Korean Text: 'P/A-8 블랙 하운드'
 #: DialogScript[DG_Marriage01Stage52_1_7].Char_Name_C
 msgid "P/A-8ブラックハウンド"
 msgstr "P/A-8 Blackhound"
+
+#  Korean Text: '서약... 헤헤, 충성스러운 수하만 받을 수 있다는 그 서약의 증표군요.&n걱정 마세요, 사령관님. 평생 사령관님만 바라보고 충성할 테니.'
+#: DialogScript[DG_Marriage01Stage52_1_8].Script
+msgid "誓約…へへ、忠誠心の高い部下だけがもらえるというあの誓約の証ですか。&nご心配いりません、司令官様。一生司令官様だけに忠誠を誓います。"
+msgstr ""
+
+#  Korean Text: '아, 오빠… 이건… 오빠는 이렇게나 우리를 믿어주는구나. 이 감정들은 전부, 만들어진 걸지도 모르는데… 에헤헷, 하나도 안 먹히네?&n응. 오빠의 마음도, 우리의 마음도… 전부 진짜인게 분명하니까. 장난쳐서 미안해. 나도 조금, 부끄러워서 그랬어. 용서해 줄거지?&n...헤헷. 저도, 정말정말 좋아해요. 오빠.'
+#: DialogScript[DG_Marriage01Stage53_1_8].Script
+msgid ""
+"あ、お兄ちゃん…これは…お兄ちゃんがここまで私たちのことを信じてくれているなんて。この感情も全部、作られたものかもしれないけど…えへへ、全然通用しないね？&"
+"nうん。お兄ちゃんの気持ちも、私たちの気持ちも…全部本物だってことは確かだから。ふざけてごめん。ちょっと照れくさくてさ。許してくれるよね？&n…へへ。私も、"
+"本当に本当に大好き。お兄ちゃん。"
+msgstr ""
 
 #  Korean Text: 'T-50 PX 실키'
 #: DialogScript[DG_Marriage01Stage54_1_7].Char_Name_C
 msgid "T-50PXシルキー"
 msgstr "T-50 PX Silky"
 
+#  Korean Text: '네에?! 너무… 빠른 것 아닌가요? 그러니까… 저는 아직… 음…&n저… 살림은 제가 할게요, 우리 사령관님은 업무에만 충실해 주세요. &n우리가 지낼 곳은... 작아도 좋아요. 둘이 같이 저녁을 먹을 수만 있다면… 저는 좋아요.'
+#: DialogScript[DG_Marriage01Stage54_1_8].Script
+msgid ""
+"はい？！ちょっと…早過ぎはしませんか？ですから…私はまだ…う～ん…&nあの…家事は私がしますから、司令官様は業務に集中してください。&n私たちが暮らす場所は"
+"…狭くても大丈夫です。二人で一緒に夕食を食べられる広さなら…私はそれで満足です。"
+msgstr ""
+
 #  Korean Text: 'T-14 미호'
 #: DialogScript[DG_Marriage01Stage55_1_7].Char_Name_C
 msgid "T-14ミホ"
 msgstr "T-14 Miho"
+
+#  Korean Text: '그게 뭔지는 알고 있었어… 근데! 그걸 들고 나한테 올 줄은 몰랐지~ 이걸... 어떻게 한다?&n후훗. 그런 걱정은 안해도 돼. 난 이제 사령관 거니까…&n...그렇다고 너무 긴장 풀면 안돼. 알지?'
+#: DialogScript[DG_Marriage01Stage55_1_8].Script
+msgid ""
+"それが何かは知ってたわ…でも！まさか私にくれるとは思ってもいなかったわ～これを…どうしたらいいのかしら？&nふふふ。その心配ならいらないわ。私はもう司令官の"
+"ものだから…&n…でも緊張を解き過ぎたらだめよ。わかったわね？"
+msgstr ""
 
 #  Korean Text: 'A-54 칼리스타'
 #: DialogScript[DG_Marriage01Stage56_1_7].Char_Name_C
 msgid "A-54カリスタ"
 msgstr "A-54 Calista"
 
+#  Korean Text: '가… 갑자기 무슨... 아~ 결국 이렇게 될 줄 알았어… 뭘… 그렇게 보고 있어 어서 줘봐... &n으음... 그러니까… 나도 사령관한테 잘 할테니… 앞으로…&n우리 행복하게 지내자, 사령관...님.'
+#: DialogScript[DG_Marriage01Stage56_1_8].Script
+msgid ""
+"い…いきなり何なの…あ～やっぱりね。こうなると思ったわ…何よ…ぼーっとしてないで早く渡してくれるかしら…&nう～ん…だから、その…私も司令官に尽くすわ…これ"
+"から…&n私たち幸せに過ごしましょうね、司令官…さま。"
+msgstr ""
+
 #  Korean Text: '37식 다이카'
 #: DialogScript[DG_Marriage01Stage57_1_7].Char_Name_C
 msgid "37式ダイカ"
 msgstr "Type37 Daika"
+
+#  Korean Text: '드디어… 제게 고백해 주셨군요… 기뻐요… 이렇게 기쁜데... 왜 자꾸 숨고 싶어지는지&n모르겠어요… 고마워요 사령관님… 앞으로도 저는… 사령관님만 바라보겠어요.'
+#: DialogScript[DG_Marriage01Stage57_1_8].Script
+msgid ""
+"ついに…私に告白してくれましたね…嬉しいです…こんなに嬉しいことなのに…何で隠れたくなるのかは&nよくわかりませんが…ありがとうございます、司令官様…これか"
+"らも私は…司令官様だけを見つめていきます。"
+msgstr ""
 
 #  Korean Text: '아쿠아'
 #: DialogScript[DG_Marriage01Stage58_1_7].Char_Name_C
 msgid "アクア"
 msgstr "Aqua"
 
+#  Korean Text: '뭐야~ 주인님. 으응? 이걸 왜 나한테...  주인님? 나 이제 어떻게 하지? … 응…&n나도 주인님이 좋아… 근데 어떻게 해야 할지 몰라서… 앞으로는 주인님이&n알려줘야돼. 난 뭐든 잘할 수... 있으니까. 헤헤.'
+#: DialogScript[DG_Marriage01Stage58_1_8].Script
+msgid ""
+"どういうことなの～ご主人様ったら？何でこれを私に…？私、これからはどうしたらいいの？…う～ん…&n私もご主人様が好き…でもどうすればいいのかわからなくて…こ"
+"れからはご主人様が&n教えてくれなきゃだめだよ。私、何だってできる…んだから。へへへ。"
+msgstr ""
+
 #  Korean Text: '레이시'
 #: DialogScript[DG_Marriage01Stage59_1_7].Char_Name_C
 msgid "レイシー"
 msgstr "Wraithy"
+
+#  Korean Text: '이렇게… 부탁할게요... 제 몸이 멀쩡해졌을때. 그 때 다시 찾아주실 수 있나요?&n...당신이 제게 실망하는걸 본다면, 전 망가져 버릴거에요.&n...그, 그렇게까지 하신다면… 제게 남은 시간을 당신께 전부 드릴게요. 고마워요.'
+#: DialogScript[DG_Marriage01Stage59_1_8].Script
+msgid ""
+"この通り…お願いします…私の体が正常な状態に戻った時。その時にもう一度来てくれますか？&n…あなたが私に失望することを考えると、もう狂ってしまいそうです。&"
+"n…そ、そこまでされるのでしたら…私に残された時間を全てあなたに捧げます。ありがとうございます。"
+msgstr ""
 
 #  Korean Text: 'T-60 불가사리'
 #: DialogScript[DG_Marriage01Stage60_1_7].Char_Name_C
 msgid "T-60ブルガサリ"
 msgstr "T-60 Bulgasari"
 
+#  Korean Text: '사령관도 참~ 바보네, 내가 뭐가 좋다고 이렇게까지 하는거야? … 내가 사령관을&n싫어할 리 없잖아 바보야. 용기 내줘서 고마워 사령관… 이제부턴, 기죽지 말고&n전부 말해줘. 내가 다~ 들어줄테니까. 알았지 사령관?'
+#: DialogScript[DG_Marriage01Stage60_1_8].Script
+msgid ""
+"司令官ったらもう～お馬鹿さんなんだから。私のどこがよくてここまでしてくれるの？…私が司令官を&n嫌いなわけがないでしょ？このバカ。勇気出してくれてありがとう"
+"、司令官…これからは、遠慮しないで&n何でも言ってちょうだい。私がぜ～んぶ聞いてあげるから。わかったね、司令官？"
+msgstr ""
+
+#  Korean Text: '어머, 이게 뭐야?! 난 못봤어, 못~봤어어~ &n정말~ 갑자기 이렇게 나오기야? 흐응... 너무 좋다~ 나도 사랑해~ 사령관. &n그러니까… 이제부터 우리가, 제일 가까운 사이지?'
+#: DialogScript[DG_Marriage01Stage61_1_8].Script
+msgid ""
+"まぁ、これは何？！私、何も見なかったわ、な～んにも見なかったわ～&nもう～突然こんなことするなんて。ふ～ん…すごく嬉しい～私も大好きよ～司令官。&nだから…"
+"これからは私たちが、一番近い関係ってことね？"
+msgstr ""
+
+#  Korean Text: '어…? 그, 사령관…? 지금... 장난 아니구나… 근데, 지금 대답 해야 되는거야? &n…그야, 당연히 … 좋지… 사령관. 늘 같이 있어줘서 고마워. 앞으로는 좀 더&n솔직하게 지내자. 이제… 우린 특별한 사이니까.'
+#: DialogScript[DG_Marriage01Stage62_1_8].Script
+msgid ""
+"え…？ちょっと、司令官…？今…冗談じゃないみたいね…でも、今すぐ答えを出さなきゃいけないの？&n…それはもう、もちろん…嬉しいよ…司令官。いつも一緒にいてく"
+"れてありがとう。これからはもう少し&nお互い正直になろう。もう…私たちは特別な関係なんだから。"
+msgstr ""
+
 #  Korean Text: '마법소녀 매지컬 모모'
 #: DialogScript[DG_Marriage01Stage63_1_7].Char_Name_C
 msgid "魔法少女マジカルモモ"
 msgstr "Magical MoMo"
+
+#  Korean Text: '저기… 모모는, 모두의 마법소녀는... 한 사람에게만 머무는 게 금지되어 있어요…&n그치만… 그치만… 어린이 여러분! 저는 오늘부로 마법소녀를 은퇴하겠습니다!'
+#: DialogScript[DG_Marriage01Stage63_1_8].Script
+msgid ""
+"あの…モモは、みんなの魔法少女なので…一人だけに尽くすことは禁止されているんです…&nでも…でも…よい子のみんな！私は今日で魔法少女を引退します！"
+msgstr ""
 
 #  Korean Text: '질주하는 아탈란테'
 #: DialogScript[DG_Marriage01Stage64_1_7].Char_Name_C
 msgid "疾走するアタランテ"
 msgstr "Atalanta"
 
+#  Korean Text: '저는 아르테미스께 순결을 맹세했었죠. 우리의 이런 행동은… 파멸을 가져올 지도 몰라요.&n하지만… 그대라면… 어떤 파멸도 두렵지 않습니다… 그대도 저와 같은가요?'
+#: DialogScript[DG_Marriage01Stage64_1_8].Script
+msgid ""
+"私はアルテミスに純潔を誓いました。今の私たちの行動は…破滅をもたらすかもしれません。&nですが…あなたとなら…どんな破滅であろうとも怖くありません…あなたも"
+"同じ想いでしょうか？"
+msgstr ""
+
 #  Korean Text: 'GS-130 피닉스'
 #: DialogScript[DG_Marriage01Stage65_1_7].Char_Name_C
 msgid "GS-130フェニックス"
 msgstr "GS-130 Phoenix"
+
+#  Korean Text: '열심히 단서를 흘린 보람이 있었네… 으응, 아무것도 아냐. 내 마음을 알아줘서 기뻐. 나는… 별로 솔직한 편은 아니니까.&n있잖아, 사령관. 오늘은 기념일이니까 조금 멀리 가볼까? 중간에 착륙해서… 좀 쉬다 오는 것도 좋겠구…&n...헤헷, 그럼 기다리고 있을게. 빨리 준비하고 와야 돼?'
+#: DialogScript[DG_Marriage01Stage65_1_8].Script
+msgid ""
+"一生懸命伏線を張っておいた甲斐があるわ…ううん、こっちの話。私の気持ちをわかってくれて嬉しいよ。私って…正直じゃないし表現も上手じゃないし。&nねぇ、司令官"
+"。今日は記念日だから少しだけ遠くに行かない？途中で着陸して…一休みしてきてもいいし…&n…へへへ、じゃ待ってるね。早く準備してきてね？"
+msgstr ""
 
 #  Korean Text: 'P-3M 운디네'
 #: DialogScript[DG_Marriage01Stage66_1_7].Char_Name_C
 msgid "P-3Mウンディーネ"
 msgstr "P-3M Undine"
 
+#  Korean Text: '사실... 아무도 나를 좋아해주지 않을까봐 걱정했어. 아무도 관심을 가져주지 않을까봐…!&n...으응, 이제 그런건 상관없어. 사령관이 그렇게 말해줬으니까. 앞으로도 날 계속 지켜봐줘, 사령관.'
+#: DialogScript[DG_Marriage01Stage66_1_8].Script
+msgid ""
+"実は…誰も私のことなんて好きになってくれないと心配してたの。誰も気にも留めてくれないんじゃないかって…！&n…でもね、もうそんなこと関係ないわ。司令官がそう"
+"言ってくれたから。これからも私をずっと見守ってね、司令官。"
+msgstr ""
+
 #  Korean Text: '캐럴라이나'
 #: DialogScript[DG_Marriage01Stage67_1_7].Char_Name_C
 msgid "キャロルライナ"
 msgstr "Carolina"
+
+#  Korean Text: '에헤헤… 우리 결국 이렇게 되는구나? 내가 해줄 수 있는건, 응원 말고도 엄-청 많거든?&n하나씩 천-천히 보여줄거니까, 기대해줘.'
+#: DialogScript[DG_Marriage01Stage67_1_8].Script
+msgid ""
+"えへへ…結局は私たちってこうなるんだね？私ができることには、応援以外にもい～っぱいあるんだよ？&nひとつずつゆ～っくりと見せてあげるから、楽しみにしててね。"
+msgstr ""
 
 #  Korean Text: '랜서 미나'
 #: DialogScript[DG_Marriage01Stage68_1_7].Char_Name_C
 msgid "ランサーミナ"
 msgstr "Lancer Mina"
 
+#  Korean Text: '안돼요, 정말… 해이해지면 안되는데… 비전투 유닛도 해낼 수 있다는 걸 보여줘야&n하는데… 사령관님은 바보에요. 사령관님 때문에… 제 목표가 흐려져 버려요. 다른&n생각을 못하게 해요.'
+#: DialogScript[DG_Marriage01Stage68_1_8].Script
+msgid ""
+"だめです、もう…気が緩んでしまってはいけないのに…非戦闘ユニットでも戦えるということを証明しなければ&nいけないのに…司令官様は愚か者です。司令官様のせいで"
+"…私の目標が揺らいでしまいます。他の&nことを考えられなくなります。"
+msgstr ""
+
 #  Korean Text: '오드리 드림위버'
 #: DialogScript[DG_Marriage01Stage69_1_7].Char_Name_C
 msgid "オードリードリームウィーバー"
 msgstr "Audrey"
+
+#  Korean Text: '처음엔… 센스가 꽝이라고 생각했는데… 으음… 확실히 많이 나아졌네요.&n그렇다고 좋아하진 말아요. 이제부턴 내가 옆에서 확실히 모두 관리할 테니.&n그리고… 고마워요.'
+#: DialogScript[DG_Marriage01Stage69_1_8].Script
+msgid ""
+"最初は…センスがないと思っていましたけど…そうですね…大分よくなりました。&nですが調子には乗らないでくださいね。これからは私が横でみっちりと一から十まで管"
+"理しますから。&nそれと…ありがとうございます。"
+msgstr ""
 
 #  Korean Text: 'T-20S 노움'
 #: DialogScript[DG_Marriage01Stage70_1_7].Char_Name_C
 msgid "T-20Sノーム"
 msgstr "T-20S Gnome"
 
+#  Korean Text: '네. 네? 우린… 가족이나 다름 없는데? 으… 가족끼리 이래도 되는 걸까요?&n정말… 으… 그래. 말하자면 의붓남매끼린 세이프니까… 사령관님과 저도&n세이프겠죠? 그렇죠?'
+#: DialogScript[DG_Marriage01Stage70_1_8].Script
+msgid ""
+"は、はい？私たちは…家族同然ではないのですか？うぅ…家族同士がこんなことをしてもいいのでしょうか？&n本当に…うぅ…多分大丈夫でしょう。腹違いの兄妹ならセー"
+"フですし…司令官様と私も&nセーフですよね？そうですよね？"
+msgstr ""
+
+#  Korean Text: '역시, 그럴 거라 생각했사옵니다. 결국 주인께서 소첩이 드리는 쾌락에서 벗어나지&n못한단 걸요. 걱정하지 마시옵소서. 제가 영원한 쾌락을 준비하겠사옵니다.'
+#: DialogScript[DG_Marriage01Stage71_1_8].Script
+msgid ""
+"やっぱりそうだと思っておりました。結局はご主人様は私が用意した快楽から抜け出すことは&nできないようですね。ご心配いりません。私が永遠の快楽を準備いたします"
+"。"
+msgstr ""
+
+#  Korean Text: '타… 타임! 너무 빠르잖아요. 진짜 진심이에요? 진짜로...?&n… 그럼 이제부턴... 제가 사령관님 괴롭혀도, 다~ 받아 주시는걸로 알고 있을께요. 헤헷.'
+#: DialogScript[DG_Marriage01Stage72_1_8].Script
+msgid ""
+"タ…ターイム！早すぎませんか？本気ですか？本当に…？&n…では今からは…私が司令官様をいじめても、ぜ～んぶ受け止めてくれるものだと思ってますね。へへへ。"
+msgstr ""
+
+#  Korean Text: '네? 이거… 제게 주시는거에요? 그럼 우리 이제… 으으… &n부… 부족하지만, 앞으로도 잘 부탁드려요 사령관님.'
+#: DialogScript[DG_Marriage01Stage73_1_8].Script
+msgid "え？これを…私が受け取ってもいのですか？ではもう私たちは…うぅ…&nみ…未熟者ですが、これからもよろしくお願いします。司令官様。"
+msgstr ""
+
 #  Korean Text: 'A-14B 스프리건'
 #: DialogScript[DG_Marriage01Stage74_1_7].Char_Name_C
 msgid "A-14Bスプリガン"
 msgstr "A-14B Spriggan"
+
+#  Korean Text: '어? 이건…!? 나, 나는! 아직 갖고싶은것도 많고, 하고싶은것도 많은데… 이렇게 되면...&n사령관님한테 전부 허락… 맡아야 되는거네…? 흠... 이거… 생각보다 괜찮을지도?'
+#: DialogScript[DG_Marriage01Stage74_1_8].Script
+msgid ""
+"え？これは…！？わ、私は！まだ欲しいものもたくさんあるし、やりたいことも山ほどあるのに…こうなってしまっては...&n司令官様に全部許可を…得てからってこと"
+"…？う～ん…これって…思ったよりも悪くないかも？"
+msgstr ""
+
+#  Korean Text: '폐하? 이건… ...다행이에요… 폐하가 저만 봐 주시길 바라며, 전 정말 최선을 다했어요. 드디어... 제 마음이 폐하께 닿았네요…&n이제, 폐하만을 위한 특별한 막이 오를거에요. 제가 준비한 모든걸 보여드릴테니, 오늘은 기대하셔도 좋아요.'
+#: DialogScript[DG_Marriage01Stage75_1_8].Script
+msgid ""
+"陛下？これは……よかったです…陛下が私だけを見てくれることを願い、今日の今日まで最善を尽くしてきました。ついに…この想いが陛下に届いたようですね...&nこ"
+"れで陛下のためだけの特別な幕を上げることができそうです。私が準備してきた全てをお見せしますので、今日は期待してもいいですよ。"
+msgstr ""
 
 #  Korean Text: 'AG-2C 세이렌'
 #: DialogScript[DG_Marriage01Stage76_1_7].Char_Name_C
 msgid "AG-2Cセイレーン"
 msgstr "AG-2C Sirene"
 
+#  Korean Text: '사령관님? 제 손을 잡아 주시겠어요?  … 고마워요. 언제나 제 어리광을 받아주셔서.&n… 오, 오늘은. 오늘은 정말 특별한 날이니까… 좀 더...  안아주시면... 안될까요?'
+#: DialogScript[DG_Marriage01Stage76_1_8].Script
+msgid ""
+"司令官様？私の手を握ってくださいますか？…ありがとうございます。いつも私のわがままを聞いてくださって。&n…きょ、今日は、今日は本当に特別な日ですので…もう"
+"少しだけ…抱いてくれませんか？"
+msgstr ""
+
 #  Korean Text: '아자젤'
 #: DialogScript[DG_Marriage01Stage77_1_7].Char_Name_C
 msgid "アザゼル"
 msgstr "Azazel"
+
+#  Korean Text: '… 이제 정말로 당신을 반려라고 부를 자격을 얻은 거군요. 이 순간을 오래 기다렸습니다. &n반려, 영원히 당신을 바라보며 당신과 함께 올바른 길로 나아가길... '
+#: DialogScript[DG_Marriage01Stage77_1_8].Script
+msgid ""
+"…これで本当にあなたを伴侶と呼べる資格を得たんですね。この瞬間をずっと待っておりました。&n伴侶、永遠にあなたを見つめ、あなたと一緒に正しい道を歩んでいけま"
+"すように…"
+msgstr ""
 
 #  Korean Text: '트리아이나'
 #: DialogScript[DG_Marriage01Stage78_1_7].Char_Name_C
 msgid "トリアイナ"
 msgstr "Triana"
 
+#  Korean Text: '아… 아하하, 이건 그거지? 이제 나도 제대로 정착할 때가 된거구나.&n...보물찾기? 음, 그건 좀 미뤄도 될 것 같아. 여기서… 훨씬 더 소중한 걸 찾은 것 같으니까.'
+#: DialogScript[DG_Marriage01Stage78_1_8].Script
+msgid ""
+"あ…あはは、これってあれでしょ？私もやっと落ち着く時がきたみたいね。&n…宝探し？う～ん、それはちょっと後回しにしようかな。ここで…もっと大切なものを探した"
+"から。"
+msgstr ""
+
 #  Korean Text: '레아'
 #: DialogScript[DG_Marriage01Stage79_1_7].Char_Name_C
 msgid "オベロニア･レア"
 msgstr "Rhea"
+
+#  Korean Text: '에? … 하지만… 전 동생들을 돌봐야 하는데… 이렇게 저만 행복해져 버리면…&n괜찮을까요? 정말로? 모두 실망할 텐데… ... 그래도… 조금쯤은… 제가 행복해져도…&n되겠죠? 비밀로만 하면 괜찮을 거예요. 그렇죠?'
+#: DialogScript[DG_Marriage01Stage79_1_8].Script
+msgid ""
+"え？…ですが…私は妹たちの世話をしなければ…こんな風に私だけ幸せになってしまっては…&n大丈夫でしょうか？本当ですか？みんなが失望するだろうに……でも…少し"
+"ぐらいなら…私も幸せになっても…&nいいですよね？秘密にすれば大丈夫でしょう。そうですよね？"
+msgstr ""
 
 #  Korean Text: '이그니스'
 #: DialogScript[DG_Marriage01Stage80_1_7].Char_Name_C
 msgid "イグニス"
 msgstr "Ignis"
 
+#  Korean Text: '무슨 말씀이신지… 잘 모르겠습니다… 무슨… 그러니까… 이걸 주신단 말씀은… 네? 그럴 리가… 전 그냥… 일만 하는 바이오로이드인데…&n제게… 이런 날이 올 줄은… 잠시만 기다려주십시오… 잠시만… 체온을 식힐 시간이 필요합니다…&n대답은… 이미 아시지 않습니까!'
+#: DialogScript[DG_Marriage01Stage80_1_8].Script
+msgid ""
+"どういうことなのか…よく分かりません…つまりは…ですから…これをくださるということはつまり…え？まさか…私はただの…任務を遂行するだけのバイオロイドなのに."
+"..&n私に…こんな日がくるなんて…ちょっとお待ちいただけますか…すぐに終わります…体温を下げる時間が必要です...&n答えは…もうご存知のくせに！"
+msgstr ""
+
 #  Korean Text: '엠프리스'
 #: DialogScript[DG_Marriage01Stage81_1_7].Char_Name_C
 msgid "エンプレス"
 msgstr "Empress"
+
+#  Korean Text: '에? 사령관… 이걸… 내게 준 건… 사령관도 드디어 나와 함께 하고 싶은 거구나!&n좋아! 우리 커플이 지구를 지켜보자구! 그럼 효과도 두 배! 애정도 두 배! '
+#: DialogScript[DG_Marriage01Stage81_1_8].Script
+msgid ""
+"え？司令官…これを…私にくれるということは…司令官もついに私と一緒になりたくなったのだな！&nわかった！私と司令官のカップルが地球を守るのだ！そうすれば効果"
+"も二倍！愛情も二倍！"
+msgstr ""
 
 #  Korean Text: '앨리스'
 #: DialogScript[DG_Marriage01Stage82_1_7].Char_Name_C
 msgid "セラピアス･アリス"
 msgstr "Alice"
 
+#  Korean Text: '정말… 주인님, 그런 취미가 있는 건가요? 절 감당하실 수 있으시겠어요? &n주인님께서 각오가 되어 있으시다면 좋아요. 저도 조금쯤은… 주인님께 맞춰 드리죠.'
+#: DialogScript[DG_Marriage01Stage82_1_8].Script
+msgid ""
+"そんな…ご主人様、そんなご趣味がおありでしたとは。果たして私に耐えられるでしょうか？&nご主人様の覚悟ができているのなら問題ありません。私も少しくらいなら…"
+"ご主人様に合わせて差し上げられますわ。"
+msgstr ""
+
 #  Korean Text: 'P-29 린트블룸'
 #: DialogScript[DG_Marriage01Stage83_1_7].Char_Name_C
 msgid "P-29リントヴルム"
 msgstr "P-29 Lindwurm"
+
+#  Korean Text: '제가 왜 귀여워지고 싶어 하는지… 눈치 채신 모양이네요? 조금, 늦, 늦었지만…&n봐드, 훌쩍, 봐드릴, 게요… 아, 안 울어요…! 히잉…&n사령관님. 오늘은 밤새도록… 린티의 이름을 불러주셔야해요, 아셨죠?'
+#: DialogScript[DG_Marriage01Stage83_1_8].Script
+msgid ""
+"私がどうして可愛くなりたがっているのか…お分かりのようですね？いささか、お、遅かったですが…&n大目に見て、うぅ、ぐすん、許してあげます…え、泣いてなんかい"
+"ませんってば！ひぃん…&n司令官様。今日は朝までずっと…リンティの名前を呼んでくださいね？分かりましたか？"
+msgstr ""
 
 #  Korean Text: '뽀끄루 대마왕'
 #: DialogScript[DG_Marriage01Stage84_1_7].Char_Name_C
 msgid "ポックル大魔王"
 msgstr "Evil Overlord Faucre"
 
+#  Korean Text: '모르겠어요. 사장님이… 절 좋아하시는지… 아니면… 섹시한 마왕을 원하시는 건지…&n무, 물론 전 준비돼 있어요! 피, 필요하다면 채찍을 들까요? 네?'
+#: DialogScript[DG_Marriage01Stage84_1_8].Script
+msgid ""
+"よく分かりません。社長が…私のことが好きなのか…それとも…セクシーな魔王をお望みなのか…&nも、もちろん私はいつでも準備ができています！ひ、必要ならムチでも"
+"持ちましょうか？どうします？"
+msgstr ""
+
 #  Korean Text: '매지컬 백토'
 #: DialogScript[DG_Marriage01Stage85_1_7].Char_Name_C
 msgid "魔法少女マジカル白兎"
 msgstr "Magical BaekTo"
+
+#  Korean Text: '아, 안돼요! 마법 소녀에겐…. 사랑 같은 건… 지금 넘어가 버리면… 안 되는데...&n 문 라이트 파워가 점점 희미해져 가요… 흑.... 이러면… 더 이상 마법 소녀 할 수 없는데…'
+#: DialogScript[DG_Marriage01Stage85_1_8].Script
+msgid ""
+"だ、だめですよ！魔法少女には…愛なんて…今ここで屈服しては…だめなのに…&nムーンライトパワーがどんどん弱くなっていきます…うぅ…このままだと…もう魔法少女"
+"ではなくなってしまいます…"
+msgstr ""
 
 #  Korean Text: 'T-12 베라'
 #: DialogScript[DG_Marriage01Stage86_1_7].Char_Name_C
 msgid "T-12カリアフ・ベラ"
 msgstr "T-12 Bheur"
 
+#  Korean Text: '고, 고백인가요?! 그렇다면.... 지금부터 사령관과 관련된 건 전부 제가 관리 하겠어요!&n아침 식사는 하셨어요? 속옷은요? 괘, 괜찮아요. 지금이라도 갈아 입- 읍?! … 으으응… &n…저, 사령관? …한번만 더… 해주면 안돼요? 키스, 말예요…'
+#: DialogScript[DG_Marriage01Stage86_1_8].Script
+msgid ""
+"こ、告白ですか？！ということは…今から司令官と関連したことは全部私が管理することにします！&n朝食は召し上がりましたか？下着は着替えましたか？だ、大丈夫です"
+"よ。今からでも着替えれ—うっ？！…うっ、…う～ん...&n…あの、司令官？…もう一回だけさっきの…やってくれませんか？キス、もう一回だけ…"
+msgstr ""
+
 #  Korean Text: '다크엘븐 포레스트레인저'
 #: DialogScript[DG_Marriage01Stage87_1_7].Char_Name_C
 msgid "ダークエルブンフォレストレンジャー"
 msgstr "DarkElven ForestRanger"
+
+#  Korean Text: '자, 잠깐! 이거... 진심이야? 당신. 이거 어떤 의미인지는 알고 있는거지?&n아, 아니야! 싫다는게 아니라… 그러니까… 그게… 아, 아무튼! 다른 여자한테&n눈 돌리면, 바로 쏴 버릴테니까. 늘 긴장하고 있는게 좋아. 알았지?'
+#: DialogScript[DG_Marriage01Stage87_1_8].Script
+msgid ""
+"ちょ、ちょっと！これ…本気なの？あんた、これがどういう意味だかちゃんとわかってるわよね？&nち、違うよ！嫌とかそういうのじゃなくて…だから…その…と、とにか"
+"く！他の女に&nよそ見したらすぐにぶちまけちゃうからね。常に緊張しているのが身のためよ。わかった？"
+msgstr ""
+
+#  Korean Text: '그거 알비스한테 주는 거야? 고마워 사령관님! 알비스 앞으로도 열심히 할게! 히힛~!&n자~! 오늘은 좋은 날이니까, 이거 둘이서 나눠먹자. 음… 알비스가 아까 먹던 거지만…&n이제 상관없지? 그치?'
+#: DialogScript[DG_Marriage01Stage88_1_8].Script
+msgid ""
+"それアルヴィスにくれるもの？ありがとう、司令官様！アルヴィス、これからも頑張るから！ひひひ～！&nは~い！今日は気分がいい日だから、これ二人で分けて食べよう"
+"。あ…アルヴィスがさっき食べてたやつだけど...&nもうそんなこと関係ないよね？そうでしょ？"
+msgstr ""
+
+#  Korean Text: '아아~ 꼬맹이 주제에 날 보는 눈이 심상찮더라니… 하아… 이걸 어떻게 한다? 후후…&n농담이야, 사령관. 사령관이 고백해줘서 나 너무 기쁜 거 있지? 사령관은 손 꼭 잡고&n날 따라오기만 해. 나머지는 이 누나가 전~부 알아서 해줄 테니까 말이야.'
+#: DialogScript[DG_Marriage01Stage89_1_8].Script
+msgid ""
+"あぁ～おちびのくせに私を見る目が尋常じゃないと思ったら…はぁ…これはどうしたものか？ふふ…&n冗談よ、司令官。司令官が告白してくれて私、すごく嬉しいのわかる"
+"わよね？司令官は私の手をぎゅっと握って&n一緒についてきてくれればいいわ。あとは私が全部ま～るく解決してあげるからね。"
+msgstr ""
 
 #  Korean Text: '펜리르'
 #: DialogScript[DG_Marriage01Stage90_1_7].Char_Name_C
 msgid "フェンリル"
 msgstr "Fenrir"
 
+#  Korean Text: '주인님은 매일 나한테 고기도 주고, 쓰다듬어주고, 착하고 얌전하다고 해줬어.&n나… 나는 주인님이… 너무 좋아. 그러니까. 나, 주인님 부인 시켜주면 안 돼?&n응? 서약이 뭐야? 그런 거 몰라. 그냥 부인 시켜주면 안 돼? 응?'
+#: DialogScript[DG_Marriage01Stage90_1_8].Script
+msgid ""
+"ご主人様は毎日私にお肉もくれて、いい子いい子もしてくれて、お利巧ちゃんだって言ってくれた。&n私…私はご主人様が…すごく好きだよ。だから、私、ご主人様の奥さ"
+"んにしてくれない？&nえ？誓約って何のこと？そんなの知らないよ。とにかく私を奥さんにしてちょうだい！お願い！"
+msgstr ""
+
 #  Korean Text: '아르망'
 #: DialogScript[DG_Marriage01Stage91_1_7].Char_Name_C
 msgid "アルマン枢機卿"
 msgstr "Armand"
+
+#  Korean Text: '폐하? 제가 감히 그걸 받아도 될까요? … 정말인가요? 제가 폐하의 옆에 있어도 될까요?&n...네! 저도 이 순간만을 기다려 왔어요. 영원히… 영원히 폐하의 의지가 되어 드릴게요.&n그리고… 제가 지쳤을 때… 제가 폐하께 기댈 수 있도록 허락해 주시겠어요?'
+#: DialogScript[DG_Marriage01Stage91_1_8].Script
+msgid ""
+"陛下？私がこんなものを受け取ってもよろしいのでしょうか？…本当ですか？私が陛下の横にいてもいいのですか？&n…はい！私もこの瞬間を今か今かと待っておりました"
+"。永遠に…永遠に陛下の支えになって差し上げます。&nそして…私が疲れた時は…私が陛下に寄りかかることも許可してくださいますか？"
+msgstr ""
+
+#  Korean Text: '전 그저 평범한 마녀였어요. 아무도 없는 곳에서 홀로 술이나 홀짝이고 있었죠.&n이젠 달라요. 제가 있을곳을 찾았거든요. 사령관님? 저와... 한 잔 해주실 수 있을까요?'
+#: DialogScript[DG_Marriage01Stage92_1_8].Script
+msgid ""
+"私はただの平凡な魔女でした。誰もいない場所で一人寂しく酒をすすっていました。&n今はもう違います。私がいるべき場所を探しましたから。司令官様？私と…一杯やっ"
+"てくれません？"
+msgstr ""
 
 #  Korean Text: '베로니카'
 #: DialogScript[DG_Marriage01Stage93_1_7].Char_Name_C
 msgid "ヴェロニカ"
 msgstr "Veronica"
 
+#  Korean Text: '고백이군요… 이렇게 되면… 모든걸 포기하고 도망치는 수 밖에 없는걸, 알고 계시나요?&n정말 저를 그렇게 원하신다면… 증명해 주세요. 저와 같이 우리 앞을 가로막는 모든걸&n베어버릴 의지를 보여주세요. 그리고… 마지막엔 절 안아주세요.'
+#: DialogScript[DG_Marriage01Stage93_1_8].Script
+msgid ""
+"告白ですか…こうなった以上…全てを諦めて逃げるしかないということはお分かりですか？&n私を本当にお望みならば…証明してください。私と一緒に私たちの行く手を邪"
+"魔する全てのものを&n斬り付ける意志を見せてください。その後で…私を抱きしめてください。"
+msgstr ""
+
+#  Korean Text: '아… 사령관, 이건… 굳이 이런 증표를 남기지 않아도 저는 당신의 전부를 믿고 있어요.&n그래도… 기뻐요. 당신이 제게 만들어준 믿음, 당신이 제게 준 믿음…&n전부 소중히 간직할게요.'
+#: DialogScript[DG_Marriage01Stage94_1_8].Script
+msgid ""
+"あ…司令官様、これは…わざわざこんな証を残さなくても私はあなたの全てを信じています。&nでも…嬉しいです。あなたが私に作ってくれた信頼、あなたが私にくれた信"
+"頼…&n全部大切にしていきます。"
+msgstr ""
+
 #  Korean Text: '에키드나'
 #: DialogScript[DG_Marriage01Stage95_1_7].Char_Name_C
 msgid "エキドナ"
 msgstr "Echidna"
+
+#  Korean Text: '아아, 당신… 정말 능숙하구나? 싸움도… 여자도… 후후후… &n아무튼, 이렇게 멋지게 자라줘서 고마워. 그럼 이제... 천~천히 맛볼 일만 남았네? 후훗...'
+#: DialogScript[DG_Marriage01Stage95_1_8].Script
+msgid ""
+"あぁ、あなたって…本当にプロフェッショナルなのね？戦闘も…女も…ふふふ…&nとにかく、こんなに立派に育ってくれて嬉しいわ。あとは…ゆっくりと味わう番ね？ふふ"
+"ふ…"
+msgstr ""
+
+#  Korean Text: '어머, 드디어 칸 대장님께 청혼하시는 건가요? ...네? 저, 저에게…? &n칸 대장님이… 후훗, 아니에요. 솔직하게 말할게요.&n제가 상상만 하던 걸 이뤄주셔서 감사해요, 사령관님.'
+#: DialogScript[DG_Marriage01Stage96_1_8].Script
+msgid ""
+"まぁ、ついにカーン隊長にプロポーズされるのですか？…はい？わ、私にですか…？&nカーン隊長が…ふふっ、何でもないです。正直に言いますね。&n私がずっと想像し"
+"てきたことを実現してくださりありがとうございます、司令官様。"
+msgstr ""
 
 #  Korean Text: 'C-77 레드후드'
 #: DialogScript[DG_Marriage01Stage97_1_7].Char_Name_C
 msgid "C-77レッドフード"
 msgstr "C-77 Red Hood"
 
+#  Korean Text: '사, 사령관님? 전 이해가 가지 않습니다. 저보다 더 매력있고 훌륭한 바이오로이드들이... &n아, 아닙니다… 이렇게 중요한 순간에… 멋없이 굴어서 죄송합니다.&n부족하지만 제가 할 수 있는 최선을 다하겠습니다.'
+#: DialogScript[DG_Marriage01Stage97_1_8].Script
+msgid ""
+"し、司令官様？私は理解に苦しみます。私よりももっと魅力的で立派なバイオロイドたちが…&nあ、何でもないです…こんなに重要な瞬間に…ムードを壊してしまってすみ"
+"ません。&n不束者ですが私にできる最善を尽くしてまいります。"
+msgstr ""
+
 #  Korean Text: '금란 S7'
 #: DialogScript[DG_Marriage01Stage98_1_7].Char_Name_C
 msgid "金蘭S7"
 msgstr "KeumRan S7"
+
+#  Korean Text: '...사실은 몇 번이고 소첩이 먼저 말씀드리고 싶었습니다. 하오나 주인님의 호위인 몸으로 그럴 수는 없다고 생각했기에, 떨리는 마음을... 홀로 삭였습니다.&n주인님. 소첩, 아니 신첩이 마음을 놓을 수 있는 곳은 오직 주인님의 곁 뿐입니다. 이 보잘것 없는 목숨이 다하는 그날까지… 부디, 곁에 두어 주세요.'
+#: DialogScript[DG_Marriage01Stage98_1_8].Script
+msgid ""
+"…実は何度も私から先に申し上げたかったことです。しかしご主人様の護衛である身でそうするわけにはいかないと思ったため、揺れる想いを…一人慰めておりました。&n"
+"ご主人様。私がこの想いを慰められる場所はご主人様のお傍しかございません。取るに足らないこの命が尽きるまで…どうか、お傍に置いてください。"
+msgstr ""
 
 #  Korean Text: '보속의 마리아'
 #: DialogScript[DG_Marriage01Stage99_1_7].Char_Name_C
 msgid "贖罪のマリア"
 msgstr "Maria of Redemption"
 
+#  Korean Text: '저…. 주인님이 절 그렇게 생각하고 계셨을 줄은.... 아, 아녜요! 싫다는 뜻이 아니라 그건...&n네… 주인님. 늘 그래왔듯, 전 언제나 주인님 곁에 있을거예요. 앞으로도 영원히…'
+#: DialogScript[DG_Marriage01Stage99_1_8].Script
+msgid ""
+"私…ご主人様が私のことをそんな風に想っていらっしゃったなんて…い、いいえ！嫌というわけではなくその…&nはい…ご主人様。今までそうであったように、これからも"
+"ご主人様のお傍にいさせてください。これからもずっと永遠に…"
+msgstr ""
+
 #  Korean Text: 'P-22 하르페이아'
 #: DialogScript[DG_Marriage01Stage100_1_7].Char_Name_C
 msgid "P-22ハルピュイア"
 msgstr "P-22 Harpyia"
+
+#  Korean Text: '이, 이걸 나한테 주는거야…? 소설 속 이야기인줄로만 알았는데… &n으응, 아니야. 너무 기뻐서… 사령관은 내 내면을 봐주는구나… &n자, 이 책이 내 대답이야. 꼼꼼하게 읽어줘? 나중에 검사할테니까♥'
+#: DialogScript[DG_Marriage01Stage100_1_8].Script
+msgid ""
+"こ、これを私にくれるって…？小説の中の話じゃなかったんだ…&nううん、何でもない。嬉しすぎて…司令官は私の内面を見てくれるのね…&nはい、どうぞ。この本が私"
+"の答えよ。一文一文吟味して読んでね？後で検査するんだから♥"
+msgstr ""
 
 #  Korean Text: '스파토이아'
 #: DialogScript[DG_Marriage01Stage101_1_7].Char_Name_C
 msgid "スパトイア"
 msgstr "Spartoia"
 
+#  Korean Text: '그거 알아? 화성에서는 원래 여자가 먼저 청혼하는거야. 그러니까 그거 이리 내. 두 개 다.&n우히히… 흠흠. 자, 받아. 이걸로 대장은 내 영원한 충성을 얻었어. 앞으로도 박살낼 게&n있으면 말만 하라고! ...히히힛.'
+#: DialogScript[DG_Marriage01Stage101_1_8].Script
+msgid ""
+"知ってた？火星では女からプロポーズするんだ。だからそれこっちにちょうだい。二つともね。&nうひひ…どれどれ。はい、これ受け取って。これにて隊長は私の永遠の忠"
+"誠を得たわ。これからも木っ端みじんにしたいものが&nあったら言って！…ひひひっ。"
+msgstr ""
+
 #  Korean Text: '아이언 애니'
 #: DialogScript[DG_Marriage01Stage102_1_7].Char_Name_C
 msgid "アイアンアニー"
 msgstr "Iron Annie"
+
+#  Korean Text: '뭘 이런 것 까지 주고 그래. 사령관 마음 다 아는데… 그래도 증표를 남기고 싶은 거야?&n뭐… 그렇다면 어쩔 수 없지. 일단 드라이브라도 하면서 앞으로 우리의 계획에 대해서&n얘기를 좀 해보자구. ...아, 그전에. …...고마워. 나도 좋아해.'
+#: DialogScript[DG_Marriage01Stage102_1_8].Script
+msgid ""
+"わざわざこんなものまでくれるほどのことかしら。司令官の気持ちは全部わかっているけど…それでも証を残したいの？&nまぁ…そういうことなら仕方ないわ。ひとまずド"
+"ライブでもしながらこれからの計画について&n話をしようじゃないの。…あ、その前に。……ありがとう。私も好きよ。"
+msgstr ""
 
 #  Korean Text: '바바리아나'
 #: DialogScript[DG_Marriage01Stage103_1_7].Char_Name_C
 msgid "ババリアナ"
 msgstr "Babariana"
 
+#  Korean Text: '하하! 이렇게 나오시겠다? … 좋아. 이번엔 내가 졌으니... 오늘은 사령관이&n하고 싶은 대로 해봐. 그게 뭐가 됐든 내가 전부 받아 줄 테니까.'
+#: DialogScript[DG_Marriage01Stage103_1_8].Script
+msgid "ははは！そう来る？…いいわ。今回は私の負けだから…今日は司令官が&nやりたいようにしてみて。それが何だろうと私が全部受け止めてあげるから。"
+msgstr ""
+
 #  Korean Text: '로열 아스널'
 #: DialogScript[DG_Marriage01Stage104_1_7].Char_Name_C
 msgid "ロイヤル・アーセナル"
 msgstr "Royal Arsenal"
+
+#  Korean Text: '...그대는 나를 많이 겪어봤지 않나? 마지막으로 철회할 기회를 주지. &n…...하아. 정말 고집스럽군. ...알겠다. 나또한 어느샌가 그대에게 애정을 품게 되었으니.&n각오를 단단히 해두는 게 좋을거다. 앞으로 날 감당하려면 말이야.'
+#: DialogScript[DG_Marriage01Stage104_1_8].Script
+msgid ""
+"…そなたは私と多くの時間を過ごしてきたはずだぞ？最後にもう一度機会を与えよう。&n……はぁ。じつに頑固だな。…わかった。私もいつの間にかそなたに愛情を抱くよ"
+"うになったからな。&nしっかりと覚悟しておくがいい。これから私の相手をするからにはな。"
+msgstr ""
+
+#  Korean Text: '사령관도 알겠지만… 나, 소심한데다가 서툴러서… 많이 피곤하게 할 지도 몰라. &n그래도… 사령관한테 의지해도 되는거야…? 꺅… 아하하, 이게 대답이구나…?&n...고마워.'
+#: DialogScript[DG_Marriage01Stage105_1_8].Script
+msgid ""
+"司令官もわかっているだろうけど…私、小心者なうえに不器用で…色々苦労させるかもしれないよ。&nそれでも…司令官に頼ってもいいの…？きゃっ…あはは、これが答え"
+"なんだね…？&n…ありがとう。"
+msgstr ""
+
+#  Korean Text: '홍련'
+#: DialogScript[DG_Marriage01Stage106_1_7].Char_Name_C
+msgid "紅蓮"
+msgstr "C-77 HongRyeon"
+
+#  Korean Text: '사령관님. 업무 시간에는 집중-아… 굳이 업무시간에 고백하시다니, 정말... 짓궂으시네요.&n이런 걸 받으면 표정이 풀어질 수밖에 없는데… 아...옷매무새를 정리할 시간까지 생각하면&n여유가 많지는 않네요. 이번만입니다. 다음부터는 이런건 퇴근 후에…'
+#: DialogScript[DG_Marriage01Stage106_1_8].Script
+msgid ""
+"司令官様。業務時間中は集中し—あ…よりによって業務時間中に告白だなんて、本当に…意地悪なんですから。&nこんなものを受け取ったら表情が緩んじゃうじゃないです"
+"か…あ…服装の乱れを正す時間まで考えたら&nあまり余裕はありませんね。今回だけですよ。次からはこういうことは退勤後に…"
+msgstr ""
+
+#  Korean Text: '세띠'
+#: DialogScript[DG_Marriage01Stage107_1_7].Char_Name_C
+msgid "セティ"
+msgstr "Saetti"
+
+#  Korean Text: '저는 겁쟁이인데다가 다른 아이들을 지켜야해서… 태어나서 한 번도 긴장을 풀어본 적이 없어요. 그런데 오르카에 오고, 사령관님을 만나고 나서…&n처음으로 보호받는다는 느낌을 받았어요. 우으, 눈물이 날 것 같아… 사령관님, 제 안식처가 되어주셔서 정말로 고마워요.'
+#: DialogScript[DG_Marriage01Stage107_1_8].Script
+msgid ""
+"私は臆病者なうえに他の仲間たちも守らなければいけないので…生まれてこのかた一度も緊張を解いたことがありません。ところがオルカに来て、司令官様に会ってからは…"
+"&n初めて守られているという感じがします。うぅ、私としたことが涙が…司令官様、私の心の拠り所になってくださって本当にありがとうございます。 "
+msgstr ""
+
+#  Korean Text: '아크로바틱 써니'
+#: DialogScript[DG_Marriage01Stage108_1_7].Char_Name_C
+msgid "アクロバティック・サニー"
+msgstr "Acrobatic Sunny"
+
+#  Korean Text: '와아, 진짜 저에게 주는 건가요? 정말 감사- 앗… 다, 다시 할게요. 너무 가볍게&n받아들이는 것처럼 보이니까요. 음… 어쩌지… 역시 이런건 저한테 안어울려요. &n정말 감사해요, 사령관. 오늘은… 사령관이 바라는 것 전부, OK에요.'
+#: DialogScript[DG_Marriage01Stage108_1_8].Script
+msgid ""
+"わぁ、本当に私にくれるのですか？本当にありが—あっ、…も、もう一度やります。何だかすごい簡単に&n受け入れるようにみえたくないので。う～ん…どうしよう…やっ"
+"ぱりこういうことは性に合いません。&n本当にありがとうございます、司令官。今日は…司令官がやってほしいことなら何でもOKです。"
+msgstr ""
+
+#  Korean Text: 'A-87 밴시'
+#: DialogScript[DG_Marriage01Stage109_1_7].Char_Name_C
+msgid "A-87バンシー"
+msgstr "A-87 Banshee"
+
+#  Korean Text: '...가장 가까운 부대원들에도 오해를 받고는 하지만, 저에게도 감정이 있습니다. 다만, 그것을 어떻게 표현해야하는지…&n잘 모르겠습니다. 사령관님은 이런 저라도 괜찮으신 겁니까…? ...미, 미소 말씀이십니까. ...사령관님께서 좋으시다면,&n앞으로 더 잘 웃도록… 노력하겠습니다.'
+#: DialogScript[DG_Marriage01Stage109_1_8].Script
+msgid ""
+"…一番近い部隊員たちからも誤解されることがありますが、私にも感情はあります。ただ、それをどうやって表現すればいいのか…&nよくわかりません。司令官様はこんな"
+"私でもよろしいのですか…？…え、笑顔ですか。…司令官様がお気に召すのなら、&nこれからもっとたくさん笑うよう…努力します。"
+msgstr ""
+
+#  Korean Text: 'MH-4 테티스'
+#: DialogScript[DG_Marriage01Stage110_1_7].Char_Name_C
+msgid "MH-4テティス"
+msgstr "MH-4 Thetis"
+
+#  Korean Text: '아하핫. 드디어 제 매력에 푹 빠지신 거예요? 흐~음… 어떻게 할- 읏, 자, 잠깐만요.&n아으, 자, 자꾸 그렇게 조, 좋아한다고 하지 마세요…! 사, 사령관한테 그런 말을&n들으면, 저… 으으… …...저, 저도 좋아해요...'
+#: DialogScript[DG_Marriage01Stage110_1_8].Script
+msgid ""
+"あはは。ついに私の魅力にはまってしまったようですね？さ～て…どうやって、うっ、ちょ、ちょっと待ってください。&nあ、う、そんな何度もす、好きだって言わないで"
+"ください…！し、司令官様からそんな言葉を&n聞くと、私…うぅぅ………わ、私も好きです…"
+msgstr ""
+
+#  Korean Text: '무적의 용'
+#: DialogScript[DG_Marriage01Stage111_1_7].Char_Name_C
+msgid "無敵の竜"
+msgstr "Invincible Dragon"
+
+#  Korean Text: '무, 무슨… 난 무인이오. 무인에게 이런 걸… 하지만… 그대가 원한다면 어쩔 수 없겠지.&n부디… 앞으로 이 몸을 부탁드리오. 아니, 부탁 드립니다. 저 역시 서방님의 견마가&n될 테니. 다만… 오늘의 일은 비밀로 해주시길… 부끄러움이 사라질 때까지.'
+#: DialogScript[DG_Marriage01Stage111_1_8].Script
+msgid ""
+"な、何事…私は武人だ。武人にこんなものは…しかし…そなたが望むのなら致し方ない。&nどうか…今後この体を頼む。いや、お願いいたしまする。私もまた旦那様の犬馬"
+"と&nなるであろうから。ただし…今日のことは秘密にしてくれ…恥ずかしい気持ちがなくなるまでは。"
+msgstr ""
+
+#  Korean Text: '럼버제인'
+#: DialogScript[DG_Marriage01Stage112_1_7].Char_Name_C
+msgid "ランバージェイン"
+msgstr "Lumberjane"
+
+#  Korean Text: '나한테 주는거야? 이거, 앞으로는 뭘 하든 열심히 해야겠는걸. 이제는 사령관의 명령이 아니라 남편의 부탁이니까 말이야.&n...저, 사령관. 기쁜 날이니까… 같이 한 잔, 할까?'
+#: DialogScript[DG_Marriage01Stage112_1_8].Script
+msgid ""
+"私にくれるの？ということはこれ、これからは何でも一生懸命頑張らなきゃ。これからは司令官からの命令じゃなくて、旦那様のお願いだからね。&n…ねぇ、司令官。嬉し"
+"い日だから…一緒に一杯どう？"
+msgstr ""
+
+#  Korean Text: '블랙웜 S9'
+#: DialogScript[DG_Marriage01Stage113_1_7].Char_Name_C
+msgid "ブラックワームS9"
+msgstr "Black Wyrm S9"
+
+#  Korean Text: '...이렇게 되지 않기를 바랬는데… 이러시면 저는 더이상… 이 마음을 억누를 수가 없습니다.&n조금만, 이 감정에 솔직해져도 되는 걸까요…? 불안한 미래가 아니라, 행복한 지금을 살아도 되는 걸까요…?'
+#: DialogScript[DG_Marriage01Stage113_1_8].Script
+msgid ""
+"…こうならないことを願っていたのに…こんなことをされては私はもう…この気持ちを抑えることができません。&n少しならこの感情に正直になってもいいでしょうか…？"
+"不安な未来ではなく、幸せな現実に生きてもいいのでしょうか…？"
+msgstr ""
+
+#  Korean Text: '쿠노이치 제로'
+#: DialogScript[DG_Marriage01Stage114_1_7].Char_Name_C
+msgid "クノイチゼロ"
+msgstr "Kunoichi Zero"
+
+#  Korean Text: '아, 안된다! 이런 걸 받아버리면 나는, 내 복수는…! ...주, 주공이 그렇게까지 말한다면…\n원래 나는 닌자로서, 본명을 밝혀서는 안된다. 하지만 주공에겐... 소녀의 이름은 스미레. 제비꽃이라는 뜻이어요.\n...주공, 소녀 또한 사모하여요. 소녀의 왕자님이… 되어주시겠사와요…?'
+#: DialogScript[DG_Marriage01Stage114_1_8].Script
+msgid ""
+"だ、だめだ！こんなものを受け取ってしまっては私は、私の復讐は…！…しゅ、主君がそこまで言うのならば…\n"
+"元々私は忍者であり、本名を明かしてはいかん。しかし主君には…拙者の名前はスミレ。花の名前に由来する。\n"
+"…主君、拙者も同じ想いである。拙者のご主人様に…なっていただけるだろうか…？"
+msgstr ""
+
+#  Korean Text: '네 사령관님. 제게 볼일이 있으신가요? 그럼, 이건 누구에게 전달해 드리면…&n… 이게 제 것이라고요? 고마워요 저도 이때가 오기만을 기다리고 있었어요.&n사령관님? 이제, 우리만의 비밀을 만들어가요. 누구에게도 말하지 못할... 그런 위험한 비밀을…'
+#: DialogScript[DG_Marriage01Stage115_1_8].Script
+msgid ""
+"はい、司令官様。私に何かご用ですか？ではこれは誰にお渡しすれば…&n…私へのものですって？ありがとうございます。私もこの瞬間が来ることをずっと待っていました"
+"。&n司令官様？これからは私たちだけの秘密を作っていきましょう。誰にも話すことのできない…とても危険な秘密を…"
+msgstr ""
+
+#  Korean Text: '...저는 주인님 덕분에 소중한 분들을 구할 수 있었어요. 단지 그것만으로도 평생 갚아야 할 일인데, 주인님께선 제게 이렇게까지…\n아, 아뇨! 그 일 때문에 주인님을 모시는 건 아니에요…! 정말로요! ...주인님을 마음속 깊이…\n사랑하고 있어요.'
+#: DialogScript[DG_Marriage01Stage116_1_8].Script
+msgid ""
+"…私はご主人様のおかげで大切な人たちを救うことができました。それだけでも一生かけて恩返ししなければならないのに、こんなことまでしてもらうなんて…\n"
+"ち、違います！あのことのせいでご主人様にお仕えするのではありません…！本当です！…ご主人様を心の底から愛してます。"
+msgstr ""
 
 #  Korean Text: '포이'
 #: DialogScript[DG_Marriage01Stage125_1_7].Char_Name_C

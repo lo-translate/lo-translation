@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -31,6 +31,11 @@ msgstr ""
 #: PC[Char_3P_Alice_N].Name
 msgid "セラピアス･アリス"
 msgstr "Alice"
+
+#  Korean Text: '반가워. 보안관 아이언 애니야.'
+#: PC[Char_3P_Annie_N].DialogJoin
+msgid "よろしくね。保安官のアイアンアニーよ。"
+msgstr ""
 
 #  Korean Text: '아이언 애니'
 #: PC[Char_3P_Annie_N].Name
@@ -56,6 +61,11 @@ msgstr "I finally found a man worth protecting."
 #: PC[Char_3P_BlackLilith_N].Name
 msgid "ブラックリリス"
 msgstr "Black Lilith"
+
+#  Korean Text: '블랙웜 S9'
+#: PC[Char_3P_BlackWyrm_N].Name
+msgid "ブラックワームS9"
+msgstr "Black Wyrm S9"
 
 #  Korean Text: '주인님, 이렇게 만나기만 기다렸어요!'
 #: PC[Char_3P_ConstantiaS2_N].DialogJoin
@@ -86,6 +96,56 @@ msgstr ""
 #: PC[Char_3P_Daphne_N].Name
 msgid "ダフネ"
 msgstr "Daphne"
+
+#  Korean Text: '테스트용 더미 A01입니다.'
+#: PC[Char_3P_DummyA01_N].DialogJoin
+msgid "テスト用ダミー A01です。"
+msgstr ""
+
+#  Korean Text: '더미A01_일반'
+#: PC[Char_3P_DummyA01_N].Name
+msgid "ダミーA01_一般"
+msgstr ""
+
+#  Korean Text: '테스트용 더미 A02입니다.'
+#: PC[Char_3P_DummyA02_N].DialogJoin
+msgid "テスト用ダミー A02です。"
+msgstr ""
+
+#  Korean Text: '더미A02_일반'
+#: PC[Char_3P_DummyA02_N].Name
+msgid "ダミーA02_一般"
+msgstr ""
+
+#  Korean Text: '테스트용 더미 P01입니다.'
+#: PC[Char_3P_DummyP01_N].DialogJoin
+msgid "テスト用ダミー P01です。"
+msgstr ""
+
+#  Korean Text: '더미P01_일반'
+#: PC[Char_3P_DummyP01_N].Name
+msgid "ダミーP01_一般"
+msgstr ""
+
+#  Korean Text: '테스트용 더미 P02입니다.'
+#: PC[Char_3P_DummyP02_N].DialogJoin
+msgid "テスト用ダミー P02です。"
+msgstr ""
+
+#  Korean Text: '더미P02_일반'
+#: PC[Char_3P_DummyP02_N].Name
+msgid "ダミーP02_一般"
+msgstr ""
+
+#  Korean Text: '테스트용 더미 T01입니다.'
+#: PC[Char_3P_DummyT01_N].DialogJoin
+msgid "テスト用ダミー T01です。"
+msgstr ""
+
+#  Korean Text: '더미T01_일반'
+#: PC[Char_3P_DummyT01_N].Name
+msgid "ダミーT01_一般"
+msgstr ""
 
 #  Korean Text: '난 컴패니언의 펜리르. 당신이 내 주인님이지?'
 #: PC[Char_3P_Fenrir_N].DialogJoin
@@ -377,6 +437,11 @@ msgstr ""
 msgid "AS-12スチールドラコ"
 msgstr "AS-12 Steel Draco"
 
+#  Korean Text: 'A-87 밴시'
+#: PC[Char_BR_Banshee_N].Name
+msgid "A-87バンシー"
+msgstr "A-87 Banshee"
+
 #  Korean Text: '대장갑 포병, 비스트 헌터. 임무 대기 중.'
 #: PC[Char_BR_BeastHunter_N].DialogJoin
 msgid "対裝甲砲兵ビーストハンター、任務待機中。"
@@ -537,6 +602,11 @@ msgstr ""
 msgid "P-22ハルピュイア"
 msgstr "P-22 Harpyia"
 
+#  Korean Text: '홍련'
+#: PC[Char_BR_HongRyun_N].Name
+msgid "紅蓮"
+msgstr "C-77 HongRyeon"
+
 #  Korean Text: '아, 동지가 왔네? 모두 화려하게 터지는 거 좋아해?'
 #: PC[Char_BR_Impet_N].DialogJoin
 msgid "やあ同志！派手に爆発するの好きでしょ？"
@@ -546,6 +616,11 @@ msgstr ""
 #: PC[Char_BR_Impet_N].Name
 msgid "AA-7インペット"
 msgstr "AA-7 Impet"
+
+#  Korean Text: '무적의 용'
+#: PC[Char_BR_InvDragon_N].Name
+msgid "無敵の竜"
+msgstr "Invincible Dragon"
 
 #  Korean Text: '저… 이오라고 합니다… 잘 부탁 드립니다….'
 #: PC[Char_BR_Io_N].DialogJoin
@@ -848,6 +923,11 @@ msgstr ""
 msgid "E-16タロンフェザー"
 msgstr "E-16 Talon Feather"
 
+#  Korean Text: 'MH-4 테티스'
+#: PC[Char_BR_Thetis_N].Name
+msgid "MH-4テティス"
+msgstr "MH-4 Thetis"
+
 #  Korean Text: '자, 친구 토모가 왔어! 완전 좋지?'
 #: PC[Char_BR_Tomoe_N].DialogJoin
 msgid "やほ～！みんなの友達、トモちゃん参上っ！マジヤバでしょ？"
@@ -987,6 +1067,11 @@ msgstr ""
 #: PC[Char_DS_Johanna_N].Name
 msgid "プレスターヨアンナ"
 msgstr "Prester Johanna"
+
+#  Korean Text: '쿠노이치 제로'
+#: PC[Char_DS_KunoichiZero_N].Name
+msgid "クノイチゼロ"
+msgstr "Kunoichi Zero"
 
 #  Korean Text: '마법의 시간이 돌아왔어요!'
 #: PC[Char_DS_MoMo_N].DialogJoin
@@ -1378,6 +1463,11 @@ msgstr "Ignis"
 msgid "ふっふっふっ～来たな…。余は悠久の時を経て待っていた！"
 msgstr ""
 
+#  Korean Text: '럼버제인'
+#: PC[Char_PECS_Lumberjane_N].Name
+msgid "ランバージェイン"
+msgstr "Lumberjane"
+
 #  Korean Text: '마이티 R, 합류했어요.'
 #: PC[Char_PECS_MightyR_N].DialogJoin
 msgid "マイティR、合流しました。"
@@ -1402,6 +1492,11 @@ msgstr ""
 #: PC[Char_PECS_PuppHead_N].Name
 msgid "SD3Mポップヘッド"
 msgstr "SD3M Pupp Head"
+
+#  Korean Text: '세띠'
+#: PC[Char_PECS_Saetti_N].Name
+msgid "セティ"
+msgstr "Saetti"
 
 #  Korean Text: '엽! 반가워. 사령관. 이제 사령관의 명령을 수행하면 되는 거지?'
 #: PC[Char_PECS_Serpent_N].DialogJoin
@@ -1432,6 +1527,11 @@ msgstr ""
 #: PC[Char_PECS_Stinger_N].Name
 msgid "CM67スティンガー"
 msgstr "CM67 Stinger"
+
+#  Korean Text: '아크로바틱 써니'
+#: PC[Char_PECS_Sunny_N].Name
+msgid "アクロバティック・サニー"
+msgstr "Acrobatic Sunny"
 
 #  Korean Text: '반가워! 이름은 들어봤겠지? 못들어 봤어도 상관 없어. 곧 듣게 될 테니.'
 #: PC[Char_PECS_Tiequan_N].DialogJoin

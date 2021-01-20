@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -823,6 +823,36 @@ msgstr ""
 #  Korean Text: '민감한 눈 (자신 사거리 더미)'
 #: Skill[Skill_3P_Daphne_N_14].SkillName
 msgid "観察眼(自分射程距離ダミー)"
+msgstr ""
+
+#  Korean Text: '멸망의 메이 협동 공격 1 유도'
+#: Skill[Skill_3P_DummyA01_N_1].SkillDescription
+msgid "滅亡のメイ協力攻撃1誘導"
+msgstr ""
+
+#  Korean Text: '멸망의 메이 협동 공격 1'
+#: Skill[Skill_3P_DummyA01_N_1].SkillDescriptionSimple
+msgid "滅亡のメイ協力攻撃1"
+msgstr ""
+
+#  Korean Text: '더미A01액티브01'
+#: Skill[Skill_3P_DummyA01_N_1].SkillName
+msgid "ダミーA01アクティブ01"
+msgstr ""
+
+#  Korean Text: '멸망의 메이 협동 공격 2 유도'
+#: Skill[Skill_3P_DummyA01_N_2].SkillDescription
+msgid "滅亡のメイ協力攻撃2誘導"
+msgstr ""
+
+#  Korean Text: '멸망의 메이 협동 공격 2'
+#: Skill[Skill_3P_DummyA01_N_2].SkillDescriptionSimple
+msgid "滅亡のメイ協力攻撃2"
+msgstr ""
+
+#  Korean Text: '더미A01액티브02'
+#: Skill[Skill_3P_DummyA01_N_2].SkillName
+msgid "ダミーA01アクティブ02"
 msgstr ""
 
 #  Korean Text: '체인 블레이드로 {0} 피해를 줍니다. 공격 적중 시, 2라운드 동안 대상을 도발 / 방어력 / 회피 감소 상태로 만듭니다. 치명타 시, 피해량이 증가합니다.'
@@ -6892,7 +6922,7 @@ msgstr ""
 #  Korean Text: '플로팅 아머리를 전개해 지정 범위 내 아군의 AP를 올려주고, 2라운드 동안 공격력을 증가시킵니다. 효과가 적용된 대상은 1라운드 동안 공격 대상의 방어막 / 피해 감소 효과를 무시합니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_2].SkillDescription
 msgid ""
-"F.アーマリーを展開し指定範囲内の味方のAPを増加させ、2ラウンドの間、攻撃力を上げます。効果が適用された対象は1ラウンドの間、攻撃対象のバリア/受けるダメ"
+"F.アーモリーを展開し指定範囲内の味方のAPを増加させ、2ラウンドの間、攻撃力を上げます。効果が適用された対象は1ラウンドの間、攻撃対象のバリア/受けるダメ"
 "ージ減少効果を無視します。スキルレベル10で範囲が増加します。"
 msgstr ""
 
@@ -6903,7 +6933,7 @@ msgstr ""
 
 #  Korean Text: 'F.아머리 전개'
 #: Skill[Skill_BR_RoyalArsenal_N_2].SkillName
-msgid "F.アーマリー展開"
+msgid "F.アーモリー展開"
 msgstr ""
 
 #  Korean Text: '라운드 개시 시, 범위 내 중장형 아군의 공격력 / 방어력이 증가하며 받는 피해가 감소합니다. 스킬 레벨 10에서 범위가 증가합니다.'
@@ -6924,13 +6954,13 @@ msgstr ""
 #  Korean Text: '라운드 개시 시, 범위 내 아군의 치명타 / 행동력이 증가합니다. 대상이 F.아머리 전개 효과를 받는 상태면 공격력 / 치명타 감소 효과를 해제합니다. 스킬 레벨 10에서 범위가 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_4].SkillDescription
 msgid ""
-"ラウンド開始時、範囲内味方のクリティカル/行動力が増加します。対象がF.アーマリーの展開効果を受けている状態なら攻撃力/クリティカル減少効果を解除します。ス"
+"ラウンド開始時、範囲内味方のクリティカル/行動力が増加します。対象がF.アーモリーの展開効果を受けている状態なら攻撃力/クリティカル減少効果を解除します。ス"
 "キルレベル10で範囲が増加します。"
 msgstr ""
 
 #  Korean Text: '범위 내 아군 치명타 / 행동력 증가. F.아머리 전개 상태면 공격력 / 치명타 감소 효과 해제'
 #: Skill[Skill_BR_RoyalArsenal_N_4].SkillDescriptionSimple
-msgid "範囲内味方のクリティカル/行動力が増加。F.アーマリー展開状態なら攻撃力/クリティカル減少効果を解除"
+msgid "範囲内味方のクリティカル/行動力が増加。F.アーモリー展開状態なら攻撃力/クリティカル減少効果を解除"
 msgstr ""
 
 #  Korean Text: '무제한 보급 개시'
@@ -6941,12 +6971,12 @@ msgstr ""
 #  Korean Text: '라운드 개시 시, 스쿼드 내 아군 중장형 공격기의 공격력 / 적중 / 방어 관통이 증가합니다. 대상이 F.아머리 전개 효과를 받는 상태인 경우, 대상의 AP가 추가로 증가합니다.'
 #: Skill[Skill_BR_RoyalArsenal_N_5].SkillDescription
 msgid ""
-"ラウンド開始時、分隊内の重装型攻撃機の攻撃力/命中/防御貫通が増加します。対象がF.アーマリー展開効果を受けている状態なら、対象のAPが追加で増加します。"
+"ラウンド開始時、分隊内の重装型攻撃機の攻撃力/命中/防御貫通が増加します。対象がF.アーモリー展開効果を受けている状態なら、対象のAPが追加で増加します。"
 msgstr ""
 
 #  Korean Text: '범위 내 중장형 공격기 공격력 / 적중 / 방어 관통 증가. F.아머리 전개 효과 상태면 AP 증가'
 #: Skill[Skill_BR_RoyalArsenal_N_5].SkillDescriptionSimple
-msgid "範囲内重装型/攻撃機の攻撃力/命中/防御貫通増加。F.アーマリー展開効果状態ならAP増加"
+msgid "範囲内重装型/攻撃機の攻撃力/命中/防御貫通増加。F.アーモリー展開効果状態ならAP増加"
 msgstr ""
 
 #  Korean Text: '20mm 대물 저격총 (받는 피해 증가)'
@@ -6961,12 +6991,12 @@ msgstr ""
 
 #  Korean Text: 'F.아머리 전개 (공격력)'
 #: Skill[Skill_BR_RoyalArsenal_N_13].SkillName
-msgid "F.アーマリー展開(攻撃力)"
+msgid "F.アーモリー展開(攻撃力)"
 msgstr ""
 
 #  Korean Text: 'F.아머리 전개 (방어막 / 피해 감소 무시)'
 #: Skill[Skill_BR_RoyalArsenal_N_14].SkillName
-msgid "F.アーマリー展開(バリア/ダメージ減少無視)"
+msgid "F.アーモリー展開(バリア/ダメージ減少無視)"
 msgstr ""
 
 #  Korean Text: '무장 보급 개시 (해제)'
@@ -15144,6 +15174,21 @@ msgstr ""
 #  Korean Text: '칙 반응 장갑'
 #: Skill[Skill_MP_FABigChick_Challenge1_3].SkillName
 msgid "チックリアクティブアーマー"
+msgstr ""
+
+#  Korean Text: '프레데터에 의해 아군이 사망할 경우, 극심한 공포에 빠져 시계 반대 방향으로 이동합니다. 프레데터와 같은 행으로는 이동하지 않습니다.'
+#: Skill[Skill_MP_FABigChick_Challenge1_4].SkillDescription
+msgid "プレデターにより味方が死亡する場合、極度の恐怖に陥り反時計回りに移動します。プレデターと同じラインには移動しません。"
+msgstr ""
+
+#  Korean Text: '공황 상태'
+#: Skill[Skill_MP_FABigChick_Challenge1_4].SkillName
+msgid "パニック状態"
+msgstr ""
+
+#  Korean Text: '프레데터에 의해 아군이 사망할 경우, 극심한 공포에 빠져 시계 방향으로 이동합니다. 프레데터와 같은 열로는 이동하지 않습니다.'
+#: Skill[Skill_MP_FABigChick_Challenge3_4].SkillDescription
+msgid "プレデターにより味方が死亡する場合、極度の恐怖に陥り反時計回りに移動します。プレデターと同じ列には移動しません。"
 msgstr ""
 
 #  Korean Text: '기관포로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.'

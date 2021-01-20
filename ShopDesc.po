@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1998,7 +1998,7 @@ msgstr ""
 
 #  Korean Text: '봄맞이 나들이'
 #: ShopDesc[197].ProductName
-msgid "春迎えお出かけ"
+msgid "春のお出かけ"
 msgstr ""
 
 #  Korean Text: '세이렌용 귀여운 원피스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다.'
@@ -4611,7 +4611,7 @@ msgstr "Spartoia"
 
 #  Korean Text: '아이언 애니를 영입합니다.'
 #: ShopDesc[15116].NPCDescription
-msgid "アイアン・アニーを迎え入れます。"
+msgid "アイアンアニーを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '아이언 애니'
@@ -4621,7 +4621,7 @@ msgstr "Iron Annie"
 
 #  Korean Text: '바바리아나를 영입합니다.'
 #: ShopDesc[15117].NPCDescription
-msgid "バーバリアナを迎え入れます。"
+msgid "ババリアナを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '바바리아나'
@@ -4641,7 +4641,7 @@ msgstr "Royal Arsenal"
 
 #  Korean Text: '아우로라를 영입합니다.'
 #: ShopDesc[15119].NPCDescription
-msgid "アウロラを迎え入れます。"
+msgid "アウローラを迎え入れます。"
 msgstr ""
 
 #  Korean Text: '홍련을 영입합니다.'
@@ -4649,15 +4649,30 @@ msgstr ""
 msgid "紅蓮を迎え入れます。"
 msgstr ""
 
+#  Korean Text: '홍련'
+#: ShopDesc[15120].ProductName
+msgid "紅蓮"
+msgstr "C-77 HongRyeon"
+
 #  Korean Text: '세띠를 영입합니다.'
 #: ShopDesc[15121].NPCDescription
 msgid "セッティを迎え入れます。"
 msgstr ""
 
+#  Korean Text: '세띠'
+#: ShopDesc[15121].ProductName
+msgid "セティ"
+msgstr "Saetti"
+
 #  Korean Text: '아크로바틱 써니를 영입합니다.'
 #: ShopDesc[15122].NPCDescription
 msgid "アクロバティック・サニーを迎え入れます。"
 msgstr ""
+
+#  Korean Text: '아크로바틱 써니'
+#: ShopDesc[15122].ProductName
+msgid "アクロバティック・サニー"
+msgstr "Acrobatic Sunny"
 
 #  Korean Text: '타이런트를 영입합니다.'
 #: ShopDesc[15123].NPCDescription
@@ -4674,6 +4689,11 @@ msgstr "Tyrant"
 msgid "ランバージェーンを迎え入れます。"
 msgstr ""
 
+#  Korean Text: '럼버제인'
+#: ShopDesc[15124].ProductName
+msgid "ランバージェイン"
+msgstr "Lumberjane"
+
 #  Korean Text: '블랙웜 S9을 영입합니다.'
 #: ShopDesc[15125].NPCDescription
 msgid "ブラックワームS9を迎え入れます。"
@@ -4682,7 +4702,7 @@ msgstr ""
 #  Korean Text: '블랙웜 S9'
 #: ShopDesc[15125].ProductName
 msgid "ブラックワームS9"
-msgstr ""
+msgstr "Black Wyrm S9"
 
 #  Korean Text: '스노우 페더를 영입합니다.'
 #: ShopDesc[15126].NPCDescription
@@ -4708,6 +4728,11 @@ msgstr ""
 #: ShopDesc[15128].ProductName
 msgid "生命のセレスティア"
 msgstr ""
+
+#  Korean Text: '쿠노이치 제로'
+#: ShopDesc[15129].ProductName
+msgid "クノイチゼロ"
+msgstr "Kunoichi Zero"
 
 #  Korean Text: '출력을 강화해 공격력을 높입니다.'
 #: ShopDesc[16001].NPCDescription
@@ -6205,7 +6230,7 @@ msgstr "Cute Bear Costume (Atalanta)"
 
 #  Korean Text: '오르카의 풍기문란을 보다못한 아르망이 나섰습니다. 거기! 복장불량입니다!'
 #: ShopDesc[17172].NPCDescription
-msgid "オルカの風紀紊乱を見かねたアルマンが立ち上がりました。そこ！服装が乱れています！"
+msgid "オルカの風紀紊乱を見かねてアルマンが立ち上がりました。そこ！服装が乱れています！"
 msgstr ""
 
 #  Korean Text: '선도부 교복 (아르망)'
@@ -6225,7 +6250,7 @@ msgstr ""
 
 #  Korean Text: '다행히도 못된 짓을 일삼지는 않지만, 선생님을 유혹하려는 린트블룸을 보며 아르망의 근심은 하루하루 늘어만 갑니다…'
 #: ShopDesc[17174].NPCDescription
-msgid "幸いにも悪事を常に働くことはありませんが、先生を誘惑しようとするリントヴルムを前にしてアルマンの心配は日に日に増していきます…"
+msgid "何か特別大それたことをするわけではありませんが、先生を誘惑しようとするリントヴルムを前にしてアルマンの心配は日に日に増していきます…"
 msgstr ""
 
 #  Korean Text: '귀~여운 교복 (린트블룸)'
@@ -6295,7 +6320,7 @@ msgstr ""
 
 #  Korean Text: '뛰어난 검객인 금란이 발을 헛디뎌서 물에 빠지다니… 감추려고 하지만 아마 고즈넉한 곳에서 당신과 단 둘이라는 것 때문에 긴장한 탓이겠죠.'
 #: ShopDesc[17181].NPCDescription
-msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちるなんて…隠そうとしてますが、静かな場所で貴方と二人で緊張したせいでしょう。"
+msgid "免許皆伝の剣客である金蘭が、足が滑って川に落ちるなんて…平静を装っていますが、静かな場所で貴方と二人きりになり緊張してしまったのでしょう。"
 msgstr ""
 
 #  Korean Text: '물에 젖은 한복 (금란)'

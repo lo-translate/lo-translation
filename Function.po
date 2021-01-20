@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-11-18 12:00-0400\n"
+"PO-Revision-Date: 2021-01-20 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -59,6 +59,14 @@ msgstr "Pack of 20 AI Cores"
 msgid "달빛이 비치는 요정을 활성화합니다."
 msgstr ""
 
+#: Function[BG_13].Desc
+msgid "익숙한 교문앞을 활성화합니다."
+msgstr ""
+
+#: Function[BG_14].Desc
+msgid "평화로운 초원 배경을 활성화합니다."
+msgstr ""
+
 #: Function[BG_2020SummerEv].Desc
 msgid "바다가 보이는 휴향지 배경을 활성화합니다."
 msgstr ""
@@ -99,6 +107,18 @@ msgstr ""
 msgid "크리스마스 배경 활성화"
 msgstr ""
 
+#: Function[BreakSearchBoost_ACTIVATE].Desc
+msgid "분해 탐색 재화 부스트 활성화"
+msgstr ""
+
+#: Function[BreakSearchBoost_ACTIVATE_14].Desc
+msgid "분해 탐색 재화 부스트 활성화_14일"
+msgstr ""
+
+#: Function[BreakSearchBoost_ACTIVATE_30].Desc
+msgid "분해 탐색 재화 부스트 활성화_30일"
+msgstr ""
+
 #: Function[CafeEvent_Reward_01].Desc
 msgid "레프리콘 하계 전투복 / 자원 1500 / 유전자 씨앗 5개 / 링크 해제기 3개 / 참치캔 50개가 포함된 팩입니다."
 msgstr ""
@@ -123,6 +143,22 @@ msgstr "10 Battle Module Resets"
 #: Function[Char_Enchant_Init_20].Desc
 msgid "전투 모듈 초기화 20개"
 msgstr "20 Battle Module Resets"
+
+#: Function[CharEquipBoost_ACTIVATE_30].Desc
+msgid "캐릭터 장비 획득 확률 활성화 30일"
+msgstr ""
+
+#: Function[CharRateBoost_ACTIVATE].Desc
+msgid "캐릭터 획득 확률 부스트 활성화"
+msgstr ""
+
+#: Function[CharRateBoost_ACTIVATE_14].Desc
+msgid "캐릭터 획득 확률 부스트 활성화_14일"
+msgstr ""
+
+#: Function[CharRateBoost_ACTIVATE_30].Desc
+msgid "캐릭터 획득 확률 부스트 활성화_30일"
+msgstr ""
 
 #: Function[CharTicket_Char_3P_Alexandra_N].Desc
 msgid "공진의 알렉산드라을 지급합니다"
@@ -404,6 +440,10 @@ msgstr "Given Bloodstained Leona"
 msgid "T-3 레프리콘을 지급합니다"
 msgstr "Given T-3 Leprechaun"
 
+#: Function[CharTicket_Char_BR_Lindwurm_N].Desc
+msgid "P-29 린트블룸을 지급합니다"
+msgstr ""
+
 #: Function[CharTicket_Char_BR_Marie_N].Desc
 msgid "불굴의 마리을 지급합니다"
 msgstr "Given Indomitable Marie"
@@ -470,6 +510,10 @@ msgstr ""
 
 #: Function[CharTicket_Char_BR_RoyalArsenal_N].Desc
 msgid "로열 아스널을 지급합니다"
+msgstr ""
+
+#: Function[CharTicket_Char_BR_Salamander_N].Desc
+msgid "A-15 샐러맨더을 지급합니다"
 msgstr ""
 
 #: Function[CharTicket_Char_BR_SandMan_N].Desc
@@ -724,6 +768,10 @@ msgstr "Given Light Defender Module EX"
 msgid "오드리를 지급합니다"
 msgstr "Given Audrey"
 
+#: Function[CharTicket_Char_PECS_Azaz_N].Desc
+msgid "해체자 아자즈을 지급합니다"
+msgstr ""
+
 #: Function[CharTicket_Char_PECS_Babariana_N].Desc
 msgid "바바리아나을 지급합니다"
 msgstr ""
@@ -752,6 +800,10 @@ msgstr "Given CoCo & WhiteShell"
 msgid "다크엘븐 포레스트레인저을 지급합니다"
 msgstr "Given DarkElven ForestRanger"
 
+#: Function[CharTicket_Char_PECS_Draculina_N].Desc
+msgid "드라큐리나을 지급합니다"
+msgstr ""
+
 #: Function[CharTicket_Char_PECS_Drone_N].Desc
 msgid "드론을 지급합니다"
 msgstr "Given Drone"
@@ -759,6 +811,10 @@ msgstr "Given Drone"
 #: Function[CharTicket_Char_PECS_DutchGirl_N].Desc
 msgid "더치걸을 지급합니다"
 msgstr "Given DutchGirl"
+
+#: Function[CharTicket_Char_PECS_Ella_N].Desc
+msgid "천공의 엘라을 지급합니다"
+msgstr ""
 
 #: Function[CharTicket_Char_PECS_ElvenForestmaker_N].Desc
 msgid "엘븐 포레스트메이커을 지급합니다"
@@ -788,12 +844,24 @@ msgstr ""
 msgid "자비로운 리앤을 지급합니다"
 msgstr ""
 
+#: Function[CharTicket_Char_PECS_LemonadeAlpha_N].Desc
+msgid "레모네이드 알파을 지급합니다"
+msgstr ""
+
 #: Function[CharTicket_Char_PECS_LRL_N].Desc
 msgid "LRL을 지급합니다"
 msgstr "Given LRL"
 
 #: Function[CharTicket_Char_PECS_Lumberjane_N].Desc
 msgid "럼버제인을 지급합니다"
+msgstr ""
+
+#: Function[CharTicket_Char_PECS_Machina_N].Desc
+msgid "마키나을 지급합니다"
+msgstr ""
+
+#: Function[CharTicket_Char_PECS_Mery_N].Desc
+msgid "메리을 지급합니다"
 msgstr ""
 
 #: Function[CharTicket_Char_PECS_MightyR_N].Desc
@@ -807,6 +875,10 @@ msgstr "Given Miss Safety"
 #: Function[CharTicket_Char_PECS_PuppHead_N].Desc
 msgid "펍 헤드을 지급합니다"
 msgstr "Given PuppHead"
+
+#: Function[CharTicket_Char_PECS_Rena_N].Desc
+msgid "레나 더 챔피언을 지급합니다"
+msgstr ""
 
 #: Function[CharTicket_Char_PECS_Sadius_N].Desc
 msgid "징벌의 사디어스을 지급합니다"
@@ -882,6 +954,10 @@ msgstr "10 Link Breakers"
 msgid "모든 자원을 30000개와 특수 대체 코어 1개가 들어있는 컨테이너입니다."
 msgstr ""
 
+#: Function[CoreResourcePack_100000_EV].Desc
+msgid "특수 대체 코어와 모든 자원 10만개가 들어 있는 패키지 입니다."
+msgstr ""
+
 #: Function[CostumeTicket_2].Desc
 msgid "교환소에서 사용할 수 있는 특수 티켓 20장입니다."
 msgstr "20 Special Tickets that can be used at the Exchange."
@@ -909,6 +985,14 @@ msgstr "70 Special Tickets that can be used at the Exchange."
 #: Function[CostumeTicket_8].Desc
 msgid "교환소에서 사용할 수 있는 특수 티켓 80장입니다."
 msgstr "80 Special Tickets that can be used at the Exchange."
+
+#: Function[DisMaterialPack_L].Desc
+msgid "모든 자재가 30,000+15,000개 들어있습니다."
+msgstr ""
+
+#: Function[DisMaterialPack_M].Desc
+msgid "모든 자재가 6,000+3,000개 들어있습니다."
+msgstr ""
 
 #: Function[EnchantCore_Init_EV].Desc
 msgid "전투 모듈 초기화 20개와 링크 해제기 5개가 들어있는 팩입니다."
@@ -951,6 +1035,42 @@ msgstr ""
 
 #: Function[Equip_MakingSlot_01].Desc
 msgid "장비 제조 슬롯 1칸 증가"
+msgstr ""
+
+#: Function[EquipRateBoost_ACTIVATE].Desc
+msgid "장비 획득 확률 부스트 활성화"
+msgstr ""
+
+#: Function[EquipRateBoost_ACTIVATE_14].Desc
+msgid "장비 획득 확률 부스트 활성화_14일"
+msgstr ""
+
+#: Function[EquipRateBoost_ACTIVATE_30].Desc
+msgid "장비 획득 확률 부스트 활성화_30일"
+msgstr ""
+
+#: Function[Ev_Consumable_BatteryAABag10].Desc
+msgid "소형 배터리 10개가 들어있습니다."
+msgstr ""
+
+#: Function[Ev_Consumable_BatteryAABag100].Desc
+msgid "소형 배터리 100개가 들어있습니다."
+msgstr ""
+
+#: Function[Ev_Consumable_BatteryAABag1000].Desc
+msgid "소형 배터리 1000개가 들어있습니다."
+msgstr ""
+
+#: Function[Ev_Consumable_BatteryFC-1Bag10].Desc
+msgid "중형 배터리 10개가 들어있습니다."
+msgstr ""
+
+#: Function[Ev_Consumable_BatteryFC-1Bag100].Desc
+msgid "중형 배터리 100개가 들어있습니다."
+msgstr ""
+
+#: Function[Ev_Consumable_BatteryFC-1Bag1000].Desc
+msgid "중형 배터리 1000개가 들어있습니다."
 msgstr ""
 
 #: Function[Ev_Consumable_BioMaking_BFSale].Desc
@@ -1013,9 +1133,10 @@ msgstr ""
 msgid "사소한 단서 1000개가 들어있습니다."
 msgstr ""
 
+#  Korean Text: '오리진 더스트 250개 / 고급 오리진 더스트 100개 / 특수 오리진 더스트 25개 / 멸망 전의 전쟁 기록 1개 / 멸망 전의 전술 교본 1개가 들어있는 컨테이너입니다.'
 #: Function[Ev_Consumable_OriginDust_BFSale].Desc
 msgid ""
-"오리진 더스트 250개 / 고급 오리진 더스트 100개 / 특수 오리진 더스트 25개 / 멸망 전의 전쟁 기록 1개 / 멸망 전의 전술 "
+"오리진 더스트 500개 / 고급 오리진 더스트 200개 / 특수 오리진 더스트 50개 / 멸망 전의 전쟁 기록 1개 / 멸망 전의 전술 "
 "교본 1개가 들어있는 컨테이너입니다."
 msgstr ""
 
@@ -1039,12 +1160,72 @@ msgstr ""
 msgid "시작형 파츠가 10개 들어있습니다."
 msgstr "Contains 10 Prototype parts."
 
+#: Function[ExpBoost_ACTIVATE].Desc
+msgid "경험치 부스트 활성화"
+msgstr ""
+
+#: Function[ExpBoost_ACTIVATE_14].Desc
+msgid "경험치 부스트 활성화 14일"
+msgstr ""
+
+#: Function[ExpBoost_ACTIVATE_30].Desc
+msgid "경험치 부스트 활성화 30일"
+msgstr ""
+
+#: Function[ExpSkillBoost_ACTIVATE_7].Desc
+msgid "경험치 스킬 경험치 활성화 7일"
+msgstr ""
+
+#: Function[ExpSkillBoost_ACTIVATE_14].Desc
+msgid "경험치 스킬 경험치 활성화 14일"
+msgstr ""
+
+#: Function[ExpSkillBoost_ACTIVATE_30].Desc
+msgid "경험치 스킬 경험치 활성화 30일"
+msgstr ""
+
 #: Function[Facility_Slot_01].Desc
 msgid "기지 1칸 증가"
 msgstr ""
 
 #: Function[FacilityPartsMaking_Slot_01].Desc
 msgid "설비 부품 제조 슬롯 1칸 증가"
+msgstr ""
+
+#: Function[FacilityPartsPack_H_1].Desc
+msgid ""
+"바이오로이드 제작실 시설품 (특수) 21개, 카페테리아 시설품 (특수) 21개, 자원 시설품 (특수) 21개, 시설 부품 제작지원실 시설품 "
+"(특수) 21개 가 들어 있는 컨테이너 입니다."
+msgstr ""
+
+#: Function[FacilityPartsPack_H_2].Desc
+msgid ""
+"제작 핵심 부품 생산소 시설품 (특수) 21개, 장비 연구실 시설품 (특수) 21개, 전투 분석실 시설품 (특수) 21개, 자재 시설품 "
+"(특수) 21개 가 들어 있는 컨테이너 입니다."
+msgstr ""
+
+#: Function[FacilityPartsPack_L_1].Desc
+msgid ""
+"바이오로이드 제작실 시설품 (일반) 348개, 카페테리아 시설품 (일반) 348개, 자원 시설품 (일반) 348개, 시설 부품 제작지원실 "
+"시설품 (일반) 348개 가 들어 있는 컨테이너 입니다."
+msgstr ""
+
+#: Function[FacilityPartsPack_L_2].Desc
+msgid ""
+"제작 핵심 부품 생산소 시설품 (일반) 348개, 장비 연구실 시설품 (일반) 348개, 전투 분석실 시설품 (일반) 348개, 자재 "
+"시설품 (일반) 348개 가 들어 있는 컨테이너 입니다."
+msgstr ""
+
+#: Function[FacilityPartsPack_M_1].Desc
+msgid ""
+"바이오로이드 제작실 시설품 (고급) 69개, 카페테리아 시설품 (고급) 69개, 자원 시설품 (고급) 69개, 시설 부품 제작지원실 시설품 "
+"(고급) 69개 가 들어 있는 컨테이너 입니다."
+msgstr ""
+
+#: Function[FacilityPartsPack_M_2].Desc
+msgid ""
+"제작 핵심 부품 생산소 시설품 (고급) 69개, 장비 연구실 시설품 (고급) 69개, 전투 분석실 시설품 (고급) 69개, 자재 시설품 "
+"(고급) 69개 가 들어 있는 컨테이너 입니다."
 msgstr ""
 
 #: Function[Favor_Cake_M].Desc
@@ -1153,6 +1334,10 @@ msgstr "Contains 41 of all advanced robot parts."
 #: Function[HQ_PARTS_L].Desc
 msgid "모든 고급 로봇 부품이 20개씩 들어있습니다."
 msgstr "Contains 20 of all advanced robot parts."
+
+#: Function[HQ_PARTS_L2].Desc
+msgid "시작형 파츠/중무장 파츠/고출력 부스터/초합금 장갑판/ 고밀도 연산제어 파츠가 30개씩 들어있는 팩입니다."
+msgstr ""
 
 #: Function[HQ_PARTS_M].Desc
 msgid "모든 고급 로봇 부품이 10개씩 들어있습니다."
@@ -1448,6 +1633,14 @@ msgstr ""
 msgid "특수 오리진 더스트 25개를 지급합니다."
 msgstr "Given 25 Special Origin Dusts."
 
+#: Function[Pack_NewUser_01].Desc
+msgid "신규 전투원 성장 패키지"
+msgstr ""
+
+#: Function[Pack_NewUser_02].Desc
+msgid "신규 전투원 강화 패키지"
+msgstr ""
+
 #: Function[PC_Inven_01].Desc
 msgid "캐릭터 인벤 10칸 증가"
 msgstr ""
@@ -1508,12 +1701,324 @@ msgstr "30000 Power"
 msgid "전력 50000개를 지급합니다."
 msgstr "Given 50000 Power."
 
+#: Function[PROP_angry_N].Desc
+msgid "화가난다"
+msgstr ""
+
+#: Function[PROP_AnimalEar_N].Desc
+msgid "동물귀"
+msgstr ""
+
+#: Function[PROP_AnimalEar02_N].Desc
+msgid "동물귀3"
+msgstr ""
+
+#: Function[PROP_BADKSticker_N].Desc
+msgid "뽀끄루 대마왕 스티커"
+msgstr "Faucre Sticker"
+
+#: Function[PROP_Banana].Desc
+msgid "바나나 활성화"
+msgstr ""
+
+#: Function[PROP_Banana_Item].Desc
+msgid "바나나 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Banana_N].Desc
+msgid "바나나"
+msgstr ""
+
+#: Function[PROP_Bouquet_N].Desc
+msgid "꽃다발"
+msgstr ""
+
+#: Function[PROP_Breath_N].Desc
+msgid "한숨"
+msgstr ""
+
+#: Function[PROP_BrokenHeart].Desc
+msgid "브로큰하트 활성화"
+msgstr ""
+
+#: Function[PROP_BrokenHeart_Item].Desc
+msgid "브로큰하트 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_BrokenHeart_N].Desc
+msgid "깨진하트"
+msgstr ""
+
+#: Function[PROP_BTSticker_N].Desc
+msgid "백토 스티커"
+msgstr "Baekto Sticker"
+
+#: Function[PROP_BubblePang].Desc
+msgid "버블팡 활성화"
+msgstr ""
+
+#: Function[PROP_BubblePang_Item].Desc
+msgid "버블팡 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_ChocolateBox_N].Desc
+msgid "초콜릿박스"
+msgstr ""
+
+#: Function[PROP_Complex_N].Desc
+msgid "복잡해"
+msgstr ""
+
+#: Function[PROP_Cup_N].Desc
+msgid "컵"
+msgstr ""
+
+#: Function[PROP_Dizzy_N].Desc
+msgid "어지러워"
+msgstr ""
+
+#: Function[PROP_Dynamite_N].Desc
+msgid "다이너마이트"
+msgstr ""
+
+#: Function[PROP_EmptyCartridge_N].Desc
+msgid "탄피"
+msgstr ""
+
+#: Function[PROP_FloralHairpin_N].Desc
+msgid "꽃핀"
+msgstr ""
+
+#: Function[PROP_Hachiko_N].Desc
+msgid "하치코"
+msgstr ""
+
+#: Function[PROP_HappyEmmo].Desc
+msgid "해피 활성화"
+msgstr ""
+
+#: Function[PROP_HappyEmmo_Item].Desc
+msgid "해피 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Heart].Desc
+msgid "하트 활성화"
+msgstr ""
+
+#: Function[PROP_Heart_Item].Desc
+msgid "하트 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Heart_N].Desc
+msgid "하트"
+msgstr ""
+
+#: Function[PROP_HugeShock_N].Desc
+msgid "대충격"
+msgstr ""
+
+#: Function[PROP_IceCream_N].Desc
+msgid "아이스크림"
+msgstr ""
+
+#: Function[PROP_Juice_N].Desc
+msgid "주스"
+msgstr ""
+
+#: Function[PROP_MachineGun_N].Desc
+msgid "기관총"
+msgstr ""
+
+#: Function[PROP_MMSticker_N].Desc
+msgid "모모 스티커"
+msgstr "Momo Sticker"
+
+#: Function[PROP_MusicMark].Desc
+msgid "뮤직마크 활성화"
+msgstr ""
+
+#: Function[PROP_MusicMark_Item].Desc
+msgid "뮤직마크 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Necomimi_N].Desc
+msgid "동물귀2"
+msgstr ""
+
+#: Function[PROP_Pistol_N].Desc
+msgid "권총"
+msgstr ""
+
+#: Function[PROP_QuestionMark_N].Desc
+msgid "물음표"
+msgstr ""
+
+#: Function[PROP_Ribbon_N].Desc
+msgid "리본"
+msgstr ""
+
+#: Function[PROP_Ribbon02_N].Desc
+msgid "리본2"
+msgstr ""
+
+#: Function[PROP_Shock_N].Desc
+msgid "충격"
+msgstr ""
+
+#: Function[PROP_Shy_N].Desc
+msgid "부끄러움"
+msgstr ""
+
+#: Function[PROP_Snow_N].Desc
+msgid "눈꽃"
+msgstr ""
+
+#: Function[PROP_Star].Desc
+msgid "별 활성화"
+msgstr ""
+
+#: Function[PROP_Star_Item].Desc
+msgid "별 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Sunglass_N].Desc
+msgid "선글래스"
+msgstr ""
+
+#: Function[PROP_Surprise_N].Desc
+msgid "놀람"
+msgstr ""
+
+#: Function[PROP_Surprise02_N].Desc
+msgid "놀람2"
+msgstr ""
+
+#: Function[PROP_Sweat_N].Desc
+msgid "땀"
+msgstr ""
+
+#: Function[PROP_Sweat02_N].Desc
+msgid "땀2"
+msgstr ""
+
+#: Function[PROP_SwimGrass].Desc
+msgid "물안경 활성화"
+msgstr ""
+
+#: Function[PROP_SwimGrass_Item].Desc
+msgid "물안경 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Thingking].Desc
+msgid "생각 활성화"
+msgstr ""
+
+#: Function[PROP_Thingking_Item].Desc
+msgid "생각 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROP_Toy_N].Desc
+msgid "장난감"
+msgstr ""
+
+#: Function[PROP_XmasAntler_N].Desc
+msgid "크리스마스 사슴뿔"
+msgstr ""
+
+#: Function[PROP_XmasBoom_N].Desc
+msgid "크리스마스 폭탄"
+msgstr ""
+
+#: Function[PROP_XmasCake_N].Desc
+msgid "크리스마스 케이크"
+msgstr ""
+
+#: Function[PROP_XmasGift_N].Desc
+msgid "크리스만스 선물"
+msgstr ""
+
+#: Function[PROP_XmasRibbon_N].Desc
+msgid "크리스마스 리본"
+msgstr ""
+
+#: Function[PROP_XmasSnowman_N].Desc
+msgid "크리스마스 눈사람"
+msgstr ""
+
+#: Function[PROP_XmasSocks_N].Desc
+msgid "크리스마스 양말"
+msgstr ""
+
+#: Function[PROP_XmasStar_N].Desc
+msgid "크리스마스 별"
+msgstr ""
+
+#: Function[PROPecomimi].Desc
+msgid "미미 활성화"
+msgstr ""
+
+#: Function[PROPecomimi_Item].Desc
+msgid "미미 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROPecoring].Desc
+msgid "네코링 활성화"
+msgstr ""
+
+#: Function[PROPecoring_Item].Desc
+msgid "네코링 아이템 아이템 지급"
+msgstr ""
+
+#: Function[PROPPack_AnimalEar].Desc
+msgid "장식품 패키지 장식품을 지급 합니다."
+msgstr ""
+
+#: Function[PROPPack_AnimalEar02].Desc
+msgid ""
+"\"동물귀3, 꽃핀, 리본2, 하치코, 선글라스\"\n"
+"장식품 인벤토리에서 사용할 수 있습니다."
+msgstr ""
+
+#: Function[PROPPack_ATS].Desc
+msgid "장남감  무기 패키지 장식품을 지급 합니다."
+msgstr ""
+
+#: Function[PROPPack_BADKSticker].Desc
+msgid "마법 소녀 스티커 패키지 장식품을 지급 합니다."
+msgstr ""
+
+#: Function[PROPPack_Banana].Desc
+msgid "달콤 달콤 음식 패키지 장식품을 지급 합니다."
+msgstr ""
+
+#: Function[PROPPack_Breath].Desc
+msgid "두근 두근 감정 표현 패키지 2 장식품을 지급 합니다."
+msgstr ""
+
+#: Function[PROPPack_BrokenHeart].Desc
+msgid "두근 두근 감정 표현 패키지 1 장식품을 지급 합니다."
+msgstr ""
+
+#: Function[PROPPack_Surprise02].Desc
+msgid ""
+"\"놀람2, 어지러워, 땀2, 화가난다, 대충격\"\n"
+"장식품 인벤토리에서 사용할 수 있습니다."
+msgstr ""
+
+#: Function[PROPPack_XmasAntler].Desc
+msgid "크리스 마스 장식 품 패키지 장식품을 지급 합니다."
+msgstr ""
+
 #: Function[RepairSlot_01].Desc
 msgid "수복실 슬롯 확장"
 msgstr ""
 
 #: Function[ResetPack_AprFool].Desc
 msgid "전투 모듈 초기화 장비 41개 / 코어 링크 해제기 41개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[ResetPack_BF_50].Desc
+msgid "전투 모듈 초기화 장비와 코어 링크 해제기가 들어 있는 패키지 입니다."
 msgstr ""
 
 #: Function[ResourceExpPack_T1].Desc
@@ -1648,6 +2153,10 @@ msgstr ""
 msgid "반지 2개 + 모든 자원을 100,000개 지급합니다."
 msgstr ""
 
+#: Function[RoguePcSquard_Slot_01].Desc
+msgid "로그라이크 스쿼드 슬롯 1칸 증가"
+msgstr ""
+
 #: Function[SAlloyArmor_S].Desc
 msgid "초합급 장갑판이 10개 들어있습니다."
 msgstr "Contains 10 super-alloy armor plates."
@@ -1760,6 +2269,10 @@ msgstr ""
 msgid "알렉산드라용 조련복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_3P_Alice_2].Desc
+msgid "앨리스용 앨리스 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_3P_Aurora_1].Desc
 msgid "아우로라용 바니걸 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
@@ -1788,6 +2301,10 @@ msgstr ""
 msgid "다프네용 간호사복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_3P_Eternity_1].Desc
+msgid "이터니티용 이티니티 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_3P_Fenrir_1].Desc
 msgid "야생의 펜리르와 초콜릿 5개가 들어있는 팩입니다."
 msgstr ""
@@ -1812,6 +2329,10 @@ msgstr ""
 msgid "마리아용 임프 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_3P_Poi_1].Desc
+msgid "포이용 와이셔츠 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_3P_Ran_1].Desc
 msgid "금란용 한복과 초콜릿 5개가 들어있는 팩입니다."
 msgstr ""
@@ -1832,6 +2353,10 @@ msgstr ""
 msgid "소완용 치파오 드레스와 초콜릿 5개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_3P_Sowan_3].Desc
+msgid "소완 용 연미복 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_3P_Vanilla_1].Desc
 msgid "데이트룩 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
@@ -1848,8 +2373,16 @@ msgstr ""
 msgid "램파트용 합체킷과 특수 모듈 1개, 고급 모듈 2개, 일반 모듈 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_AGS_RheinRitter_1].Desc
+msgid "RheinTiger 모델과 특수 모듈 1개, 고급 모듈 2개, 일반 모듈 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_AGS_Seljuq_1].Desc
 msgid "셀주크 스킨과 특수 모듈 1개, 고급 모듈 2개, 일반 모듈 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_BR_ALWraith_1].Desc
+msgid "AL 레이스용 레이스 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_BR_Amy_1].Desc
@@ -1926,6 +2459,14 @@ msgstr ""
 
 #: Function[Shop_Package_Skin_BR_InvDragon_1].Desc
 msgid "전용 모피 코트 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_BR_InvDragon_2].Desc
+msgid "무적의 용 세일러복 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_BR_Io_1].Desc
+msgid "A-6 이오용 프릴 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_BR_Khan_1].Desc
@@ -2084,6 +2625,10 @@ msgstr ""
 msgid "뽀끄루용 달토끼 부적 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_DS_KunoichiKaen_1].Desc
+msgid "쿠노이치 카엔용 접대 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_DS_KunoichiZero_1].Desc
 msgid "쿠노이치 제로용 접대 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
@@ -2112,12 +2657,20 @@ msgstr ""
 msgid "다크엘븐용 카우걸 비키니와 초콜릿 5개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_PECS_DarkElf_2].Desc
+msgid "초콜릿 드레스 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_PECS_DutchGirl_1].Desc
 msgid "더치걸용 행사복과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_PECS_ElvenForestmaker_1].Desc
 msgid "엘븐 포레스트메이커용 카우걸 비키니와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_PECS_ElvenForestmaker_2].Desc
+msgid "화이트 드레스 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_PECS_Fortune_1].Desc
@@ -2132,12 +2685,24 @@ msgstr ""
 msgid "이그니스용 드래곤 분장셋과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_PECS_Leanne_1].Desc
+msgid "데이트 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_PECS_LRL_1].Desc
 msgid "LRL용 고딕 드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_PECS_LRL_2].Desc
+msgid "교대 복귀자 보급품 1호와 합성 롤리팝 1개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_PECS_Lumberjane_1].Desc
 msgid "럼버 제인용 럼버 제인의 브이키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[Shop_Package_Skin_PECS_Sadius_1].Desc
+msgid "뇌전룡 의상 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
 #: Function[Shop_Package_Skin_PECS_Saetti_1].Desc
@@ -2160,8 +2725,24 @@ msgstr ""
 msgid "베로니카용 이단 심문관 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
 msgstr ""
 
+#: Function[Shop_Package_Skin_ST_Lancer_1].Desc
+msgid "랜서 미나 용 천상의 갑옷 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+msgstr ""
+
 #: Function[Shop_Package_Skin_ST_Tiamat_1].Desc
 msgid "티아멧용 메이드복과 초콜릿 5개가 들어있는 팩입니다."
+msgstr ""
+
+#: Function[SkillExpBoost_ACTIVATE].Desc
+msgid "스킬 경험치 부스트 활성화"
+msgstr ""
+
+#: Function[SkillExpBoost_ACTIVATE_14].Desc
+msgid "스킬 경험치 부스트 활성화_14일"
+msgstr ""
+
+#: Function[SkillExpBoost_ACTIVATE_30].Desc
+msgid "스킬 경험치 부스트 활성화_30일"
 msgstr ""
 
 #: Function[Skin_3P_Alexandra_1].Desc
@@ -2170,6 +2751,12 @@ msgstr "Enable Trainer Alexandra"
 
 #: Function[Skin_3P_Alice_1].Desc
 msgid "나이트 퀸 드레스 (앨리스) 활성화"
+msgstr ""
+
+#: Function[Skin_3P_Alice_2].Desc
+msgid ""
+"앨리스는 역시 샬럿이 과감한 차림으로 당신에게 대쉬했던 것이 마음에 안들었나 봅니다. 의상은 물론, 스타일 까지 똑같이 따라해서 자신이 더 "
+"아름답고 우아하다는 걸 증명하고 싶어하네요. 원하는 대답을 해준다면, 앨리스도 당신을 기쁘게 해줄지도요?"
 msgstr ""
 
 #: Function[Skin_3P_Aurora_1].Desc
@@ -2220,6 +2807,12 @@ msgstr "Enable Daphne Skin 01"
 msgid "다프네 비키니 활성화"
 msgstr ""
 
+#: Function[Skin_3P_Eternity_1].Desc
+msgid ""
+"지나가듯 던진 농담이었지만, 매사 진지한 이터니티는 있는 그대로 받아들이고 말았습니다. 단순히 복장 뿐만이 아니라, 행동도 배워온 것 "
+"같은데... 이렇게 된 이상, 그에 맞춰줄 수밖에 없지 않을까요?"
+msgstr ""
+
 #: Function[Skin_3P_Fenrir_1].Desc
 msgid "야생의 펜리르 스킨 활성화"
 msgstr ""
@@ -2256,6 +2849,12 @@ msgid ""
 "말았습니다. 꽁꽁 묶여있는 마리아는 지금쯤 어떤 생각을 하고 있을까요?"
 msgstr ""
 
+#: Function[Skin_3P_Poi_1].Desc
+msgid ""
+"저런! 포이가 우유를 훔쳐... 음... 표정을 보니 그건 아닌 것 같군요. 무시무시한 일이 벌어질 수도 있을 것 같으니, 마음 단단히 "
+"먹으세요!"
+msgstr ""
+
 #: Function[Skin_3P_Ran_1].Desc
 msgid "한복 (금란) 활성화"
 msgstr ""
@@ -2284,6 +2883,12 @@ msgstr ""
 msgid "치파오 드레스 (소완) 활성화"
 msgstr ""
 
+#: Function[Skin_3P_Sowan_3].Desc
+msgid ""
+"소완이 입버릇처럼 말하는, 당신의 미식을 위해서라면 진흙탕이라도 기쁘게 기겠다는 각오는 때와 장소를 가리지 않습니다. 만약 당신이 잠시, "
+"혹은 영원히 자리를 비우더라도 오르카의 주방장은 언제까지나 당신을 기다리며 따뜻한 식사를 준비해두고 있겠죠."
+msgstr ""
+
 #: Function[Skin_3P_Vanilla_1].Desc
 msgid ""
 "약간 철 지난듯한 이 복식은 멸망전 당시 유행하던 바닐라 모델의 외출 복장에 오드리만의 감각적인 포인트를 추가시켜 재설계한 데이트 전용 "
@@ -2310,12 +2915,22 @@ msgstr ""
 msgid "전투용 도장 (램파트) 활성화"
 msgstr "Enable Combat Paint (Rampart)"
 
+#: Function[Skin_AGS_RheinRitter_1].Desc
+msgid "RheinTiger 모델 (라인리터) 설명"
+msgstr ""
+
 #: Function[Skin_AGS_Seljuq_1].Desc
 msgid "셀주크 스킨 활성화"
 msgstr ""
 
 #: Function[Skin_BR_Alvis_1].Desc
 msgid "뱀파이어 드레스 (알비스) 활성화"
+msgstr ""
+
+#: Function[Skin_BR_ALWraith_1].Desc
+msgid ""
+"레이스의 욕망 중 하나는 역시 동경의 대상인 팬텀을 본받는 거겠죠. 그런 의미에서 이 복장은 그녀에게 아주 큰 선물이 될 겁니다. 사이즈는 "
+"조금 작은 것 같지만, 본인이 좋아하는 것 같으니 모른 척 해주는 게 좋겠네요."
 msgstr ""
 
 #: Function[Skin_BR_Amy_1].Desc
@@ -2415,6 +3030,18 @@ msgstr ""
 msgid ""
 "VR속에서 어둠의 세력을 평정하려던 무적의 용은 무언가의 문제로 의상 데이터가 로딩되지 않아, 급한대로 주변 가게에서 모피 코트를 가져와 "
 "걸쳤습니다. 그리고 안목이 훌륭한 오드리는 이 멋진 장면을 그대로 구현해 내기로 결심했습니다."
+msgstr ""
+
+#: Function[Skin_BR_InvDragon_2].Desc
+msgid ""
+"당신은 그 누구도 엄두를 내지 못했던 위업을 이루었습니다. 무적이라고 일컬어지던 바이오로이드가 당신의 말 한마디에 이런 옷을 입어줄줄 누가 "
+"상상이나 했을까요... 거기다 당신이 잘 설득한다면 다른 옷을 입어줄지도요?"
+msgstr ""
+
+#: Function[Skin_BR_Io_1].Desc
+msgid ""
+"부대원들의 응원에 용기를 낸 이오가 드디어 당신에게 수영복 차림을 보여주려 합니다. 부끄러움과 두려움에 눈도 제대로 못 마주치는 그녀를 "
+"안심시켜 주세요."
 msgstr ""
 
 #: Function[Skin_BR_Khan_1].Desc
@@ -2626,6 +3253,12 @@ msgid ""
 "영험한 효과가 있다고 하네요."
 msgstr ""
 
+#: Function[Skin_DS_KunoichiKaen_1].Desc
+msgid ""
+"흰 백지같던 카엔은 어느새 당신의 색으로 조금씩 물들어가고 있습니다. 조금씩 생기를 띄는 그녀의 목소리를 들으며, 양 팔에 한 송이씩 꽃을 "
+"안아 보세요."
+msgstr ""
+
 #: Function[Skin_DS_KunoichiZero_1].Desc
 msgid ""
 "쿠노이치 제로는 당신과의 데이트를 기대하며, 잠입 임무에 쓰이던 복장을 어렵게 구해왔습니다. 만개한 꽃을 표현한 이 복장은 옷매무새가 "
@@ -2676,12 +3309,24 @@ msgstr ""
 msgid "카우걸 비키니 (다크엘븐) 활성화"
 msgstr ""
 
+#: Function[Skin_PECS_DarkElf_2].Desc
+msgid ""
+"어디선가 달콤한 향기가 은은하게, 때로는 관능적으로 당신의 코를 자극하는 것만 같은 기분이 드는 것은 지금 당신 앞에 서 있는 다크 엘븐의 "
+"초콜릿 색 드레스 때문은 아닐까요?"
+msgstr ""
+
 #: Function[Skin_PECS_DutchGirl_1].Desc
 msgid "행사장 더치걸 활성화"
 msgstr ""
 
 #: Function[Skin_PECS_ElvenForestmaker_1].Desc
 msgid "카우걸 비키니 (엘븐 포레스트메이커) 활성화"
+msgstr ""
+
+#: Function[Skin_PECS_ElvenForestmaker_2].Desc
+msgid ""
+"하얀 우유에 몸을 담그듯이, 엘븐 포레스트 메이커는 새하얀 드레스를 몸에 걸치고 당신을 바라보고 있습니다. 흰색에 담겨있는 부드러움이 "
+"혀끝에 느껴지는 듯합니다."
 msgstr ""
 
 #: Function[Skin_PECS_Express76_1].Desc
@@ -2704,14 +3349,26 @@ msgstr ""
 msgid "드래곤 슈트 (이그니스) 활성화"
 msgstr ""
 
+#: Function[Skin_PECS_Leanne_1].Desc
+msgid "데이트 복장 (자비로운 리앤) 설명"
+msgstr ""
+
 #: Function[Skin_PECS_LRL_1].Desc
 msgid "LRL 스킨 01 활성화"
 msgstr "Enable LRL Skin 01"
+
+#: Function[Skin_PECS_LRL_2].Desc
+msgid "교대 복귀자 보급품 1호 (LRL) 활성화"
+msgstr ""
 
 #: Function[Skin_PECS_Lumberjane_1].Desc
 msgid ""
 "사소한 마찰이 있긴 했지만 럼버제인은 특기를 살려 휴가를 위한 평상을 뚝딱 만들어냈습니다. 야자수잎 그늘에서 같이 시원한 맥주라도 "
 "어떠신가요? 정작 럼버제인은 맥주 한 캔이면 취해서 쓰러지겠지만요."
+msgstr ""
+
+#: Function[Skin_PECS_Sadius_1].Desc
+msgid "뇌전룡 의상 (징벌의 사디어스) 설명"
 msgstr ""
 
 #: Function[Skin_PECS_Saetti_1].Desc
@@ -2740,8 +3397,18 @@ msgstr ""
 msgid "플레이트 아머 셋트 (베로니카) 활성화"
 msgstr ""
 
+#: Function[Skin_ST_Lancer_1].Desc
+msgid ""
+"오르카 최강 지휘관의 강하고 고귀한 모습을 동경했던 미나는, 당신과 아자즈의 도움으로 그 바람을 이룰 수 있었습니다. 영광스러운 승리를 "
+"당신에게 보여주고 싶어 하는 미나의 새로운 모습을 좀 더 가까이에서 지켜봐 주는 건 어떨까요?"
+msgstr ""
+
 #: Function[Skin_ST_Tiamat_1].Desc
 msgid "티아멧 메이드 스킨 활성화"
+msgstr ""
+
+#: Function[SkinPack_BF_01].Desc
+msgid "한겨울의 만찬, 밤의 여왕의 초대, 콘스탄차용 나이트 드레스와 케이크, 초콜릿 패키지 입니다."
 msgstr ""
 
 #: Function[SpModule_10].Desc
@@ -2869,6 +3536,10 @@ msgstr "Given 7 Tuna Cans."
 msgid "참치캔 10개를 지급합니다."
 msgstr "Given 10 Tuna Cans."
 
+#: Function[TunaCan_10_2].Desc
+msgid "참치캔 12개를 지급합니다."
+msgstr ""
+
 #: Function[TunaCan_18].Desc
 msgid "참치캔 15+3개를 지급합니다."
 msgstr "Given 15+3 Tuna Cans"
@@ -2890,6 +3561,10 @@ msgstr "Given 30 Tuna Cans."
 msgid "참치캔을 50개 획득합니다."
 msgstr "Obtain 50 Tuna Cans."
 
+#: Function[TunaCan_30_6].Desc
+msgid "참치캔 36개를 지급합니다."
+msgstr ""
+
 #: Function[TunaCan_30_15].Desc
 msgid "참치캔 45개를 지급합니다."
 msgstr ""
@@ -2897,6 +3572,10 @@ msgstr ""
 #: Function[TunaCan_32].Desc
 msgid "참치캔 32개를 지급합니다."
 msgstr "Given 32 Tuna Cans"
+
+#: Function[TunaCan_36_6].Desc
+msgid "참치캔 42개를 지급 합니다."
+msgstr ""
 
 #: Function[TunaCan_50].Desc
 msgid "참치캔 50개를 지급합니다."
@@ -2906,6 +3585,10 @@ msgstr "Given 50 Tuna Cans."
 #: Function[TunaCan_50_10].Desc
 msgid "참치캔 60개를 지급합니다."
 msgstr "Given 60 Tuna Cans."
+
+#: Function[TunaCan_54_10].Desc
+msgid "참치캔 64개를 지급 합니다."
+msgstr ""
 
 #: Function[TunaCan_60_30].Desc
 msgid "참치캔 90개를 지급합니다."
@@ -2918,6 +3601,10 @@ msgstr "Given 77 Tuna Cans."
 #: Function[TunaCan_100].Desc
 msgid "참치캔 100개를 지급합니다."
 msgstr "Given 100 Tuna Cans."
+
+#: Function[TunaCan_100_20].Desc
+msgid "참치캔 120개를 지급합니다."
+msgstr ""
 
 #  Korean Text: '참치캔을 96개 획득합니다.'
 #: Function[TunaCan_150_30].Desc
@@ -2945,6 +3632,10 @@ msgstr "Given 300 Tuna Cans."
 msgid "참치캔을 500개 획득합니다."
 msgstr "Obtain 500 Tuna Cans."
 
+#: Function[TunaCan_300_60].Desc
+msgid "참치캔 360개를 지급합니다."
+msgstr ""
+
 #: Function[TunaCan_300_150].Desc
 msgid "참치캔 450개를 지급합니다."
 msgstr ""
@@ -2969,6 +3660,14 @@ msgstr "Given 650 Tuna Cans"
 #: Function[TunaCan_777].Desc
 msgid "참치캔 777개를 지급합니다."
 msgstr "Given 777 Tuna Cans."
+
+#: Function[TunaCan_1000_200].Desc
+msgid "참치캔 1200개를 지급합니다."
+msgstr ""
+
+#: Function[TunaCan_1080_220].Desc
+msgid "참치캔 1300개를 지급 합니다."
+msgstr ""
 
 #: Function[TunaCan_10000].Desc
 msgid "참치캔 10000개를 지급합니다."
