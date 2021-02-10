@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -71,7 +71,7 @@ msgstr ""
 
 #  Korean Text: '이상한 나라의 초코 여왕'
 #: EventChapter[Event_Chapter_09].Event_CategoryName
-msgid "不思議の国のチョコ女王"
+msgid "不思議な国のチョコ女王"
 msgstr ""
 
 #  Korean Text: '가벼운 마음으로 요정 마을로 향한 사령관에게...?'

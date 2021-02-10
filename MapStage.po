@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -592,6 +592,136 @@ msgstr ""
 msgid "仲良し兄妹"
 msgstr ""
 
+#  Korean Text: '순순히 물러가니 되레 불안하네요. 무언가를 꾸미고 있는 걸까요?'
+#: MapStage[Ch01Ev6Stage01].StageDesc
+msgid "素直に引き下がったのがかえって不安になります。何か企んでいるのでしょうか？"
+msgstr ""
+
+#  Korean Text: '주방장님의 우울'
+#: MapStage[Ch01Ev6Stage01].StageName
+msgid "料理長の憂鬱"
+msgstr ""
+
+#  Korean Text: '초콜릿 재료를 수집하는 오르카 대원들'
+#: MapStage[Ch01Ev6Stage01Ex].StageDesc
+msgid "チョコレートの材料を集めるオルカの隊員たち"
+msgstr ""
+
+#  Korean Text: '영지 탐사 I'
+#: MapStage[Ch01Ev6Stage01Ex].StageName
+msgid "領地探査Ⅰ"
+msgstr ""
+
+#  Korean Text: '사령관의 오르카 챌린지 : 초콜릿 먹기 편'
+#: MapStage[Ch01Ev6Stage01S].StageDesc
+msgid "司令官のオルカミッション : 無限チョコレート編"
+msgstr ""
+
+#  Korean Text: '초코지옥'
+#: MapStage[Ch01Ev6Stage01S].StageName
+msgid "チョコ地獄"
+msgstr ""
+
+#  Korean Text: '오르카 속담: 물가에 에밀리 내놓은 것 같다.'
+#: MapStage[Ch01Ev6Stage02].StageDesc
+msgid "オルカのことわざ: 危うきことエミリーの如し。"
+msgstr ""
+
+#  Korean Text: '약속'
+#: MapStage[Ch01Ev6Stage02].StageName
+msgid "約束"
+msgstr ""
+
+#  Korean Text: '영지 탐사 II'
+#: MapStage[Ch01Ev6Stage02Ex].StageName
+msgid "領地探査Ⅱ"
+msgstr ""
+
+#  Korean Text: '이번에는 티아멧이 먼저 잠들었습니다. 아주 편안히요.'
+#: MapStage[Ch01Ev6Stage02S].StageDesc
+msgid "今回はティアマトが先に眠りにつきました。それもとても気持ちよさそうに…。"
+msgstr ""
+
+#  Korean Text: '상처를 치료해줄 사람'
+#: MapStage[Ch01Ev6Stage02S].StageName
+msgid "傷を癒してくれる人"
+msgstr ""
+
+#  Korean Text: '제녹스, 안녕?'
+#: MapStage[Ch01Ev6Stage03].StageDesc
+msgid "やぁ、ジェノクス！"
+msgstr ""
+
+#  Korean Text: '뜻밖의 여정, 두 번째'
+#: MapStage[Ch01Ev6Stage03].StageName
+msgid "予想外の旅、その２"
+msgstr ""
+
+#  Korean Text: '영지 탐사 III'
+#: MapStage[Ch01Ev6Stage03Ex].StageName
+msgid "領地探査Ⅲ"
+msgstr ""
+
+#  Korean Text: '아직까지는 예상했던 그대로입니다만…'
+#: MapStage[Ch01Ev6Stage04].StageDesc
+msgid "今のところはまだ予想通りですが…"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 영지'
+#: MapStage[Ch01Ev6Stage04].StageName
+msgid "チョコ女王の領地"
+msgstr ""
+
+#  Korean Text: '영지 탐사 IV'
+#: MapStage[Ch01Ev6Stage04Ex].StageName
+msgid "領地探査Ⅳ"
+msgstr ""
+
+#  Korean Text: '평생을 절망에 빠져있었다면 눈 앞의 기적을 의심하게 되는 것도 당연하겠죠.'
+#: MapStage[Ch01Ev6Stage05].StageDesc
+msgid "今まで全てに絶望してきた彼女が、目の前に現れた奇跡を疑うのも無理もありません。"
+msgstr ""
+
+#  Korean Text: '신뢰'
+#: MapStage[Ch01Ev6Stage05].StageName
+msgid "信頼"
+msgstr ""
+
+#  Korean Text: '영지 탐사 V'
+#: MapStage[Ch01Ev6Stage05Ex].StageName
+msgid "領地探査Ⅴ"
+msgstr ""
+
+#  Korean Text: '에밀리의 손에서 무시무시한 괴물이 탄생하고 말았습니다…'
+#: MapStage[Ch01Ev6Stage06].StageDesc
+msgid "エミリーの手からとんでもない怪物が生まれてしまいました…"
+msgstr ""
+
+#  Korean Text: '캐노니어의 우당탕탕 초코 대작전'
+#: MapStage[Ch01Ev6Stage06].StageName
+msgid "キャノニアのどたばたチョコ大作戦"
+msgstr ""
+
+#  Korean Text: '마침내 티아멧은 다른 대원들의 도움으로 마지막 한 걸음을 내딛습니다.'
+#: MapStage[Ch01Ev6Stage07].StageDesc
+msgid "ついにティアマトは皆のおかげで最後の一歩を踏み出しました。"
+msgstr ""
+
+#  Korean Text: '당신을 믿어도 될까요?'
+#: MapStage[Ch01Ev6Stage07].StageName
+msgid "貴方を信じてもいいですか？"
+msgstr ""
+
+#  Korean Text: ' 당신을 믿어요.'
+#: MapStage[Ch01Ev6Stage08].StageDesc
+msgid "貴方を信じます。"
+msgstr ""
+
+#  Korean Text: '마지막 인간님'
+#: MapStage[Ch01Ev6Stage08].StageName
+msgid "最後の人間様"
+msgstr ""
+
 #  Korean Text: '오르카는 소완으로 인해 혼란에 빠진다.'
 #: MapStage[Ch01EvStage01].StageDesc
 msgid "オルカ号はソワンにより混乱に陥る。"
@@ -1170,6 +1300,121 @@ msgstr ""
 #  Korean Text: '세인트 오르카'
 #: MapStage[Ch02Ev5Stage08].StageName
 msgid "セントオルカ"
+msgstr ""
+
+#  Korean Text: '오르카의 세 집착녀 중 두 명이 같이 움직입니다.'
+#: MapStage[Ch02Ev6Stage01].StageDesc
+msgid "オルカ三大執着女の二人が一緒に行動します。"
+msgstr ""
+
+#  Korean Text: '카카오를 찾아서'
+#: MapStage[Ch02Ev6Stage01].StageName
+msgid "カカオを求めて"
+msgstr ""
+
+#  Korean Text: '초콜릿을 노리는 침입자들을 격퇴하자'
+#: MapStage[Ch02Ev6Stage01Ex].StageDesc
+msgid "チョコレートを狙う侵入者を撃退しよう"
+msgstr ""
+
+#  Korean Text: '침입자 격퇴 I'
+#: MapStage[Ch02Ev6Stage01Ex].StageName
+msgid "侵入者撃退Ⅰ"
+msgstr ""
+
+#  Korean Text: '둘의 앞에서 소완은 한껏 여유를 부립니다. 격세지감이 느껴지네요.'
+#: MapStage[Ch02Ev6Stage01S].StageDesc
+msgid "二人にソワンはこれでもかと余裕をかまします。隔世の感を禁じ得ないですね。"
+msgstr ""
+
+#  Korean Text: '거짓말은 하지 않았사옵니다.'
+#: MapStage[Ch02Ev6Stage01S].StageName
+msgid "嘘はつきませんでしたわ。"
+msgstr ""
+
+#  Korean Text: '"제 동년배들은 전부 주인님을 좋아한답니다."'
+#: MapStage[Ch02Ev6Stage02].StageDesc
+msgid "「私と同い年の子はみんな、ご主人様が好きなんです。」"
+msgstr ""
+
+#  Korean Text: '동년배'
+#: MapStage[Ch02Ev6Stage02].StageName
+msgid "同い年"
+msgstr ""
+
+#  Korean Text: '침입자 격퇴 II'
+#: MapStage[Ch02Ev6Stage02Ex].StageName
+msgid "侵入者撃退Ⅱ"
+msgstr ""
+
+#  Korean Text: '사령관의 오르카 챌린지 : 쓰다듬기 편'
+#: MapStage[Ch02Ev6Stage02S].StageDesc
+msgid "司令官のオルカミッション : 無限なでなで編"
+msgstr ""
+
+#  Korean Text: '복실복실 천국'
+#: MapStage[Ch02Ev6Stage02S].StageName
+msgid "ふわふわ天国"
+msgstr ""
+
+#  Korean Text: '펜리르는 배가 고플땐 굉장히 논리적이 됩니다. 그런데 이 일지는...?'
+#: MapStage[Ch02Ev6Stage03].StageDesc
+msgid "フェンリルはお腹が空くととても論理的になります。ところでこの日誌は…？"
+msgstr ""
+
+#  Korean Text: '고기와 설탕'
+#: MapStage[Ch02Ev6Stage03].StageName
+msgid "肉と砂糖"
+msgstr ""
+
+#  Korean Text: '침입자 격퇴 III'
+#: MapStage[Ch02Ev6Stage03Ex].StageName
+msgid "侵入者撃退Ⅲ"
+msgstr ""
+
+#  Korean Text: '오늘도 오르카 대원들은 물밑에서 신경전을 벌이고 있습니다.'
+#: MapStage[Ch02Ev6Stage04].StageDesc
+msgid "今日もオルカの隊員たちは水面下で高度な情報戦を繰り広げます。"
+msgstr ""
+
+#  Korean Text: '사랑은 전쟁'
+#: MapStage[Ch02Ev6Stage04].StageName
+msgid "愛は戦争"
+msgstr ""
+
+#  Korean Text: '침입자 격퇴 IV'
+#: MapStage[Ch02Ev6Stage04Ex].StageName
+msgid "侵入者撃退Ⅳ"
+msgstr ""
+
+#  Korean Text: '충격적인 사실들이 연이어 밝혀지네요…'
+#: MapStage[Ch02Ev6Stage05].StageDesc
+msgid "衝撃的な事実が次々と明らかに…"
+msgstr ""
+
+#  Korean Text: '죽음의 부두'
+#: MapStage[Ch02Ev6Stage05].StageName
+msgid "死の波止場"
+msgstr ""
+
+#  Korean Text: '침입자 격퇴 Ⅴ'
+#: MapStage[Ch02Ev6Stage05Ex].StageName
+msgid "侵入者撃退Ⅴ"
+msgstr ""
+
+#  Korean Text: '해충과 스토커가 의기투합한 사이, 요리사는 조용히 미소짓습니다.'
+#: MapStage[Ch02Ev6Stage06].StageDesc
+msgid "害虫とストーカーが意気投合する中、料理人は一人静かに微笑みます。"
+msgstr ""
+
+#  Korean Text: '석양 엔딩'
+#: MapStage[Ch02Ev6Stage06].StageName
+msgid "夕焼けウエディング"
+msgstr ""
+
+#  Korean Text: '침입자 격퇴 Ⅵ'
+#: MapStage[Ch02Ev6Stage06Ex].StageName
+msgid "侵入者撃退Ⅵ"
 msgstr ""
 
 #  Korean Text: '바이오로이드는 새로운 동료를 만들기 위해 나선다.'
@@ -2190,6 +2435,11 @@ msgstr ""
 #  Korean Text: '달의 마력이 담긴…'
 #: MapStage[ChCS-06Stage01].StageName
 msgid "月の魔力の秘められし…"
+msgstr ""
+
+#  Korean Text: '사령관의 두 번째 상담 시간'
+#: MapStage[ChCS-07Stage01].StageDesc
+msgid "司令官の相談時間,その２"
 msgstr ""
 
 #  Korean Text: '늑대와 우유'

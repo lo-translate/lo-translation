@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-01-20 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -51,6 +51,16 @@ msgstr "Hello, master? Aqua is here to remove the pests!"
 #: PC[Char_3P_Aqua_N].Name
 msgid "アクア"
 msgstr "Aqua"
+
+#  Korean Text: '반가워요, 여러분! 달콤한 꿈을 꾸게 해드릴게요! 아하하, 이건 행사용 멘트. 잘 부탁해…'
+#: PC[Char_3P_Aurora_N].DialogJoin
+msgid "皆さん、こんにちは～！甘～い夢を見せてあげますね！…あはは、これはイベントの時のセリフ…。よろしくね…"
+msgstr ""
+
+#  Korean Text: '아우로라'
+#: PC[Char_3P_Aurora_N].Name
+msgid "アウローラ"
+msgstr "Aurora"
 
 #  Korean Text: '이제야 지킬 가치가 있는 분을 만났군요.'
 #: PC[Char_3P_BlackLilith_N].DialogJoin
@@ -96,6 +106,16 @@ msgstr ""
 #: PC[Char_3P_Daphne_N].Name
 msgid "ダフネ"
 msgstr "Daphne"
+
+#  Korean Text: '이제는 제가... 주인님의 곁을 지켜 드리겠어요.'
+#: PC[Char_3P_Dryad_N].DialogJoin
+msgid "これからは私が…ご主人様のお傍をお守りいたします。"
+msgstr ""
+
+#  Korean Text: '드리아드'
+#: PC[Char_3P_Dryad_N].Name
+msgid "ドリアード"
+msgstr "Dryad"
 
 #  Korean Text: '테스트용 더미 A01입니다.'
 #: PC[Char_3P_DummyA01_N].DialogJoin
@@ -352,6 +372,11 @@ msgstr ""
 msgid "CT66ランパート"
 msgstr "CT66 Rampart"
 
+#  Korean Text: '라인리터'
+#: PC[Char_AGS_RheinRitter_N].Name
+msgid "ラインリッター"
+msgstr "AT72 Rhein Ritter"
+
 #  Korean Text: '크크크. 새로운 주인이 오셨군요.'
 #: PC[Char_AGS_Roc_N].DialogJoin
 msgid "ククク…。あなたが私の新たな主人か。"
@@ -426,6 +451,16 @@ msgstr ""
 #: PC[Char_BR_Amy_N].Name
 msgid "エイミーレイザー"
 msgstr "Amy the Razor"
+
+#  Korean Text: '네! 사령관님. 보급은 저 안드바리에게 맡겨주세요.'
+#: PC[Char_BR_Andvari_N].DialogJoin
+msgid "はい！司令官様。補給ならこのアンドヴァリに任せてください。"
+msgstr ""
+
+#  Korean Text: 'C-33 안드바리'
+#: PC[Char_BR_Andvari_N].Name
+msgid "C-33アンドヴァリ"
+msgstr "C-33 Andvari"
 
 #  Korean Text: '엽! 스틸 드라코 등장! 모두 잘 해 보자고!'
 #: PC[Char_BR_AS12TurtleDragon_N].DialogJoin
@@ -602,9 +637,14 @@ msgstr ""
 msgid "P-22ハルピュイア"
 msgstr "P-22 Harpyia"
 
+#  Korean Text: '몽구스 팀의 작전관, 홍련입니다. 저희 아이들… 팀원들이 폐를 끼치진 않았나요?'
+#: PC[Char_BR_HongRyun_N].DialogJoin
+msgid "マングースチームの作戦官、紅蓮です。うちの子たち…いえ、隊員たちがご迷惑をおかけしていないでしょうか？"
+msgstr ""
+
 #  Korean Text: '홍련'
 #: PC[Char_BR_HongRyun_N].Name
-msgid "紅蓮"
+msgid "C-77紅蓮"
 msgstr "C-77 HongRyeon"
 
 #  Korean Text: '아, 동지가 왔네? 모두 화려하게 터지는 거 좋아해?'
@@ -1318,9 +1358,14 @@ msgstr ""
 msgid "オードリードリームウィーバー"
 msgstr "Audrey"
 
+#  Korean Text: '철거할게 있으면 내게 말만 해.'
+#: PC[Char_PECS_Babariana_N].DialogJoin
+msgid "壊したいものがあったらアタシに言って！"
+msgstr ""
+
 #  Korean Text: '바바리아나'
 #: PC[Char_PECS_Babariana_N].Name
-msgid "ババリアナ"
+msgid "バーバリアナ"
 msgstr "Babariana"
 
 #  Korean Text: '신호가 약한곳이 여기군요?'
@@ -1492,6 +1537,16 @@ msgstr ""
 #: PC[Char_PECS_PuppHead_N].Name
 msgid "SD3Mポップヘッド"
 msgstr "SD3M Pupp Head"
+
+#  Korean Text: '무엇을 도와드릴까요? 사령관님?'
+#: PC[Char_PECS_Sadius_N].DialogJoin
+msgid "何をお手伝いしましょうか？司令官様？"
+msgstr ""
+
+#  Korean Text: '징벌의 사디어스'
+#: PC[Char_PECS_Sadius_N].Name
+msgid "懲罰のサディアス"
+msgstr "Sadius of Retribution"
 
 #  Korean Text: '세띠'
 #: PC[Char_PECS_Saetti_N].Name

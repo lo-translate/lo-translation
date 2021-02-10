@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1134,6 +1134,16 @@ msgstr ""
 msgid "運命の水晶玉EX"
 msgstr ""
 
+#  Korean Text: '공격력+{0} / 회피+{1}'
+#: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemDesc
+msgid "攻撃力+{0} / 回避+{1}"
+msgstr ""
+
+#  Korean Text: '매우 맛이 뛰어난 초콜릿입니다. 정신없이 먹다보면 나중에 후회할 일이 생길지도 모릅니다…\n바이오로이드가 장착 시, 전투 시작 AP가 증가합니다.'
+#: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemDesc_Detail
+msgid "とても美味しいチョコレートです。我を忘れて食べ続けたら後で後悔するかもしれません…。バイオロイドが装着した場合、戦闘開始時にAPが増加します。"
+msgstr ""
+
 #  Korean Text: '그랑크뤼 초콜릿'
 #: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemName
 msgid "グランクリュチョコレート"
@@ -1490,6 +1500,11 @@ msgstr ""
 #  Korean Text: '사거리 증가 기능이 특화된 관측 장비 입니다. 사거리 감소 효과를 해제하며 사거리가 증가합니다.'
 #: ItemEquip[Equip_Sub_Precision_T4].ItemDesc_Detail
 msgid "射程距離増加機能に特化された観測装備です。射程距離減少効果を解除し射程距離が増加します。"
+msgstr ""
+
+#  Korean Text: '전투 관측 프레임'
+#: ItemEquip[Equip_Sub_QMObserver_T4].ItemName
+msgid "戦闘観測フレーム"
 msgstr ""
 
 #  Korean Text: '레인저용 전투장비 세트'

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-01-20 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -149,6 +149,16 @@ msgstr ""
 msgid "ダフネの優雅な水着"
 msgstr "Daphne's Elegant Swimsuit"
 
+#  Korean Text: '가엾은 펜리르… 몸이 뜨거워져도 어떻게 해야할지 모르고 있군요. 당신이 해결해 줄 수 있을 것 같은데요?'
+#: CharSkin[Skin_3P_Fenrir_1].SkinDesc
+msgid "可愛そうなフェンリル…体が火照ってもどうしたらいいか分かってないみたいですね。鎮められるのは貴方しかいないようですよ？"
+msgstr ""
+
+#  Korean Text: '봄맞이 늑대 펜리르'
+#: CharSkin[Skin_3P_Fenrir_1].SkinName
+msgid "春を迎える狼フェンリル"
+msgstr ""
+
 #  Korean Text: '알렉산드라에게 ‘교육’을 받아 새롭게 태어난 포티아의 의상입니다. 그런데… 음… 괜찮겠죠...?'
 #: CharSkin[Skin_3P_Fotia_1].SkinDesc
 msgid "アレクサンドラから「教育」を受け、新たに生まれ変わった炉端のポルティーヤの衣装です。ところで…まぁ…問題ありませんよね…？"
@@ -241,6 +251,16 @@ msgstr ""
 #: CharSkin[Skin_3P_Sowan_1].SkinName
 msgid "ソワンの罠"
 msgstr "Sowan's Trap"
+
+#  Korean Text: '그동안 바짝 엎드려 있던 소완이 두 라이벌이 자리를 비운 사이에 기회를 잡았습니다. 소완이 술의 힘을 빌려 전하는 진심을 들어보세요.'
+#: CharSkin[Skin_3P_Sowan_2].SkinDesc
+msgid "今まで息を潜めていたソワンが、ライバル二人の不在中にチャンスを掴みました。酒の力を借りて明かすソワンの本音を聞いてみてください。"
+msgstr ""
+
+#  Korean Text: '술잔과 진솔한 이야기'
+#: CharSkin[Skin_3P_Sowan_2].SkinName
+msgid "杯と素直な話"
+msgstr ""
 
 #  Korean Text: '과거, 대도시의 한가운데를 당당하게 지키고 서있던 알바트로스 모델입니다. 비록 정신감응전파나 기억소거용 섬광을 발하는 기능은 없지만, 랜드마크로서 혼란한 민심을 수습하는데는 큰 도움이 되었습니다.'
 #: CharSkin[Skin_AGS_Albatross_1].SkinDesc

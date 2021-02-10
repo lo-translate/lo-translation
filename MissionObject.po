@@ -7,10 +7,18 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
+
+#: MissionObject[Mission_Kill_BigChickEX_By_Baekto].Mission_ObjectString
+msgid "魔法少女マジカル白兎で試作型ビッグチックを撃破してクリア"
+msgstr ""
+
+#: MissionObject[Mission_Kill_BigChickS_By_Fenrir].Mission_ObjectString
+msgid "フェンリルで試作型ビッグチックシールダーを撃破してクリア"
+msgstr ""
 
 #  Korean Text: '램파트로 센츄리온을 처치 후 클리어'
 #: MissionObject[Mission_Kill_Cent_By_Rampart].Mission_ObjectString
@@ -21,6 +29,10 @@ msgstr "Clear after eliminating Centurion with Rampart"
 #: MissionObject[Mission_Kill_FABC_By_Fallen].Mission_ObjectString
 msgid "フォールンでフルアーマービックチックを撃破してクリア"
 msgstr "Clear after eliminating the Full-Armored Big Chick with Fallen"
+
+#: MissionObject[Mission_Kill_FABigChickEX_By_Fenrir].Mission_ObjectString
+msgid "フェンリルで試作型FAビッグチックIIを撃破してクリア"
+msgstr ""
 
 #  Korean Text: '램파트로 풀아머 빅 칙을 처치 후 클리어'
 #: MissionObject[Mission_Kill_FABigChicnk_By_Rampart].Mission_ObjectString
@@ -91,6 +103,10 @@ msgstr "Clear while sending 2 or fewer heavy units"
 #: MissionObject[Mission_StageClear_ARMOREDMore2].Mission_ObjectString
 msgid "重装型を2機以上編成してクリア"
 msgstr "Clear while sending 2 or more heavy units"
+
+#: MissionObject[Mission_StageClear_ARMOREDMore3].Mission_ObjectString
+msgid "重装型を3機以上編成してクリア"
+msgstr ""
 
 #  Korean Text: '중장형을 5기 이상 편성해 클리어'
 #: MissionObject[Mission_StageClear_ARMOREDMore5].Mission_ObjectString
@@ -312,6 +328,10 @@ msgstr "Clear while sending 1 or fewer flying units"
 msgid "機動型を2機以下編成してクリア"
 msgstr "Clear while sending 2 or fewer flying units"
 
+#: MissionObject[Mission_StageClear_MOBILITYMore2].Mission_ObjectString
+msgid "機動型を2機以上編成してクリア"
+msgstr ""
+
 #  Korean Text: '기동형을 3기 이상 편성해 클리어'
 #: MissionObject[Mission_StageClear_MOBILITYMore3].Mission_ObjectString
 msgid "機動型を3機以上編成してクリア"
@@ -493,6 +513,10 @@ msgstr "Clear while sending 2 or fewer light units"
 msgid "軽装型を2機以上編成してクリア"
 msgstr "Clear while sending 2 or more light units"
 
+#: MissionObject[Mission_StageClear_TrooperMore3].Mission_ObjectString
+msgid "軽装型を3機以上編成してクリア"
+msgstr ""
+
 #  Korean Text: '경장형을 4기 이상 편성해 클리어'
 #: MissionObject[Mission_StageClear_TrooperMore4].Mission_ObjectString
 msgid "軽装型を4機以上編成してクリア"
@@ -508,7 +532,31 @@ msgstr "Clear while sending 5 or more light units"
 msgid "グリフォンを編成してクリア"
 msgstr "Clear with Griffon in the squad"
 
+#: MissionObject[Mission_StageClear_With_Char_3P_Aurora_N].Mission_ObjectString
+msgid "アウローラを編成してクリア"
+msgstr ""
+
+#: MissionObject[Mission_StageClear_With_Char_3P_CSPerrault_N].Mission_ObjectString
+msgid "CSペロを編成してクリア"
+msgstr ""
+
+#: MissionObject[Mission_StageClear_With_Char_3P_Fenrir_N].Mission_ObjectString
+msgid "フェンリル編成してクリア"
+msgstr ""
+
 #  Korean Text: '램파트를 스쿼드에 포함해 클리어'
 #: MissionObject[Mission_StageClear_With_Char_AGS_Rampart_N].Mission_ObjectString
 msgid "ランパートを編成してクリア"
 msgstr "Clear with Rampart in the squad"
+
+#: MissionObject[Mission_StageClear_With_Char_DS_Baekto_N].Mission_ObjectString
+msgid "魔法少女マジカル白兎を編成してクリア"
+msgstr ""
+
+#: MissionObject[Mission_StageClear_With_Char_DS_Faucre_N].Mission_ObjectString
+msgid "ポックル大魔王を編成してクリア"
+msgstr ""
+
+#: MissionObject[Mission_StageClear_With_Char_ST_Tiamat_N].Mission_ObjectString
+msgid "X-00ティアマトを編成してクリア"
+msgstr ""

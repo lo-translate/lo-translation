@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-01-20 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -171,6 +171,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_3P_Aqua].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "うん… ど、どうしたの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScript1[1](Affection<100)
+msgid "この力場は意外とデザートを作るのに役立つわ。これといった道具も要らないし…司令官にも作ってあげようか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScript1[2](Affection<100)
+msgid "甘い香り…？あっ！ご、ごめんね…。言うのを忘れてたわ。これは…補助モジュールが血液に香水成分を供給する仕組みで…この匂い、嫌い…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScript1[3](Affection<100)
+msgid "料理長って、記録されている内容よりも優しい方だったわ…でも怒るとすごく怖いの…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScript2[1](Affection>40)
+msgid "じゃーん！今日はクレープシュクレを作ってみたの！中には苺と生クリームとチョコミントと…え！？な、なんで逃げるの？！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScript3[3](Affection>70)
+msgid "料理長の性格が穏やかになった理由がわかる気がする…。司令官のおかげなのね。…私も心の支えができ……あ、何でもないわ。何でも…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScript4[2](Affection=100)
+msgid "きゃっ！？何するの…？…あ、甘い香りがして気分が良くなってきたって…そ、そんなに近づかないでぇ……"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "わ、私たち、まだそういう関係じゃないと思うけど…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_3P_Aurora].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "はうっ…そ、その…触るのはいいけど…後ろから…お願いしてもいいかな…？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_3P_BlackLilith].LobbyScript1[1](Affection<100)
@@ -1737,6 +1769,39 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Harpy].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "し、司令官はじっとしてて。私が一人でやるから。 れんしゅ…わ、私は何でも上手なのよ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScript1[1](Affection<100)
+msgid "ドラコ！はぁ…ここで気の合う友人を見つけてしまったようです…。代わりにお詫び申し上げます…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScript1[2](Affection<100)
+msgid "ぎょ、業務時間中に隊員たちと…そんな行為は不適切です…司令官…。こ、これからは…私の隊員たちだけでも厳しく取り締まることにします。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScript1[3](Affection<100)
+msgid "見た目が冷淡なので怖いとよく言われますが…、特に気にしておりません。全て作戦官として必要な要素ですから。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScript2[1](Affection>40)
+msgid ""
+"これが親心というものなのかもしれませんね…。隊員たちが勝手な行動をすると怒りの感情が出てくるのですが、すぐにまた…あの子たちには秘密にしてください…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScript3[3](Affection>70)
+msgid "もしかして…司令官も私のことを冷酷だと感じられますか…？…そうですか…そうでしたら私は…それで十分です。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScript4[2](Affection=100)
+msgid "業務が終わるまでお待ちいただくことはできませんか…？…司令官だけが身を焦がしているわけではないということ…おわかりいただけると…嬉しいのですが。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "凍りたいのですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_HongRyun].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うっ…こ、この表情を維持するのが難しくなってきたので…もういい加減に…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Impet].LobbyScript1[1](Affection<100)
@@ -3744,6 +3809,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Audrey].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "本当に…グッド。しかしバッド。もっと静かな場所に行きましょう。ここでは他の姉妹たちが見てますわ。アンダースタン？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScript1[1](Affection<100)
+msgid "アタシは退屈が一番嫌いだって…言ってなかったっけ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScript1[2](Affection<100)
+msgid "心配してくれるのはいいけどさー、アタシ、身を護る装備とかには全く興味がないのよね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScript1[3](Affection<100)
+msgid "戦闘が終わって興奮が冷めるとさ…、たまに変な気分になることがあって…何なのかな…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScript2[1](Affection>40)
+msgid "面倒なことがあったらアタシに言いなさい。どんなもんでもアタシの手にかかったら全部木っ端微塵なんだから！はははっ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScript3[3](Affection>70)
+msgid "今夜のご褒美は…司令官のあれでお願い…ふん！…そう！そうよ！してもらわないと困る！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScript4[2](Affection=100)
+msgid "ふん…ただ見るだけで終わるつもりじゃないよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "ふふん！いつになったら触るのかな～って思ってたわ！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うっ……！いつまでそんな触り方なのよ！？男らしく一気にかかってきな！"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_BS].LobbyScript1[1](Affection<100)

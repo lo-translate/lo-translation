@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -21721,9 +21721,9 @@ msgstr ""
 msgid "そんなに気になるのならラビアタに直接聞いてみればいい。&nそれが一番早いだろう。"
 msgstr ""
 
-#  Korean Text: '네...'
+#  Korean Text: '네에...'
 #: DialogScript[DG_Ch06Stage07_1_12].Script
-msgid "そうですね…"
+msgid "はい…"
 msgstr ""
 
 #  Korean Text: '그럼, 사령관 각하. 출전 준비가 끝났습니다. 각하께서도 준비가 끝나셨다면&n출전을 명령해 주시기 바랍니다.'
@@ -22880,7 +22880,7 @@ msgid "え？俺が？"
 msgstr ""
 
 #: DialogScript[DG_Ch07Stage02_1_59].SelectionIndex[1]
-msgid "あ…あれ？"
+msgid "うん？"
 msgstr ""
 
 #: DialogScript[DG_Ch07Stage02_2_25].SelectionIndex[3]
@@ -22911,6 +22911,11 @@ msgstr "AT-100 Beast Hunter"
 msgid "すまない。"
 msgstr ""
 
+#  Korean Text: '그럼…'
+#: DialogScript[DG_Ch07Stage04_3_14].Script
+msgid "では…"
+msgstr ""
+
 #  Korean Text: 'P/A-8 블랙 하운드'
 #: DialogScript[DG_Ch07Stage04b_1_1].Char_Name_R
 msgid "P/A-8ブラックハウンド"
@@ -22930,6 +22935,11 @@ msgstr ""
 msgid "[c][57e137]しばらく経過した後。[-][/c]"
 msgstr ""
 
+#  Korean Text: '네? 하지만…'
+#: DialogScript[DG_Ch07Stage06_2_37].Script
+msgid "え…？ですが…"
+msgstr ""
+
 #  Korean Text: '칫...'
 #: DialogScript[DG_Ch07Stage07_1_30].Script
 msgid "ちっ…"
@@ -22939,9 +22949,18 @@ msgstr ""
 msgid "うーん…"
 msgstr ""
 
+#  Korean Text: '해안'
+#: DialogScript[DG_Ch07Stage08_1_1].BG_Name
+msgid "海岸"
+msgstr ""
+
 #  Korean Text: '- ... ...'
 #: DialogScript[DG_Ch07Stage08_1_48].Script
 msgid "- ……"
+msgstr ""
+
+#: DialogScript[DG_Ch07Stage08_2_67].SelectionIndex[1]
+msgid "頼んだ。"
 msgstr ""
 
 #: DialogScript[DG_Ch08Stage01_1_1].BG_Description

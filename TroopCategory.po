@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -114,6 +114,10 @@ msgstr ""
 msgid "エニウェアシリーズ"
 msgstr "Anywhere Series"
 
+#: TroopCategory[Squad_AnywhereSeries_2].Squad_Name
+msgid "エニウェアシリーズ II"
+msgstr ""
+
 #  Korean Text: '연합 전쟁 당시, 회사 측은 강력하게 요새화된 도시들을 공격하기 위해 방어력과 공격력을 고루 갖춘 부대를 창설하기 위해 여러 바이오로이드들을 소집해 개조 과정을 거쳐 강력한 장갑 포병 전력을 만들었다. 과거, 장갑차나 전차와 같은 역할을 맡은 이 부대는 무장한 처녀들이라는 이름을 얻었고 회사 측의 공성에 자주 동원되었다.'
 #: TroopCategory[Squad_ArmoredMaiden_1].Squad_Desc
 msgid ""
@@ -148,6 +152,10 @@ msgstr "Bermuda Team"
 #  Korean Text: '버뮤다 팀 II'
 #: TroopCategory[Squad_Bermuda_2].Squad_Name
 msgid "バミューダチームII"
+msgstr ""
+
+#: TroopCategory[Squad_Bismarck].Squad_Name
+msgid "ビスマルクコーポレーション"
 msgstr ""
 
 #  Korean Text: '펙스 콘소시엄은 공공 치안 분야에서는 독보적인 시장 점유율을 자랑했다. 개인의 안전에 치우친 고급 제품을 생산하던 삼안에 비해 펙스 콘소시엄은 생산성과 각종 상황에 대처하는 유연성이 좋은 것으로 유명했던 이 라인업은 테러리스트와도 맞설 수 있도록 설계되었다.'

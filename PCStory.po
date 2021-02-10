@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -106,6 +106,71 @@ msgstr ""
 #: PCStory[Story_Char_3P_ConstantiaS2_N_1_PECS_LRL_5].StoryFileName
 msgid "BDモジュール第22工場"
 msgstr "BD Module 22nd Factory"
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Aurora_5].DgStartTriggerString1
+msgid "ストーリーファイル「エルブンミルクの秘密」完了"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Aurora_5].StoryDesc
+msgid "アウローラの苦難はいつ終わるでしょうか…"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Aurora_5].StoryFileName
+msgid "試食会、その結末"
+msgstr ""
+
+#  Korean Text: '늑대와 우유'
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Aurora_5].StoryName
+msgid "狼とミルク"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_1].DgStartTriggerString1
+msgid "フェンリルの好感度80以上"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_1].StoryDesc
+msgid "今回の相談者は手強い相手です。"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_1].StoryFileName
+msgid "今回の相談者は？"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_2].DgStartTriggerString1
+msgid "ストーリーファイル「今回の相談者は？」完了"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_2].StoryDesc
+msgid "正直、みんな司令官と同じ考えだったのでしょう。"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_2].StoryFileName
+msgid "フェンリルvsWILD"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_3].DgStartTriggerString1
+msgid "ストーリーファイル「フェンリルvsWILD」完了"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_3].StoryDesc
+msgid "可愛そうなフェンリル…"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_3P_Fenrir_3].StoryFileName
+msgid "野生本能"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_PECS_ElvenForestmaker_4].DgStartTriggerString1
+msgid "ストーリーファイル「野生本能」完了"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_PECS_ElvenForestmaker_4].StoryDesc
+msgid "ブームを起こしたというエルブンミルク。その味の秘訣は？"
+msgstr ""
+
+#: PCStory[Story_Char_3P_Fenrir_N_8_PECS_ElvenForestmaker_4].StoryFileName
+msgid "エルブンミルクの秘密"
+msgstr ""
 
 #  Korean Text: '소완 호감도 80 이상'
 #: PCStory[Story_Char_3P_Sowan_N_5_3P_BlackLilith_1].DgStartTriggerString1

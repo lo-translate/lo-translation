@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-23 12:00-0400\n"
+"PO-Revision-Date: 2021-02-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -35,6 +35,10 @@ msgstr ""
 #  Korean Text: '세인트 오르카의 비밀작전 1부'
 #: MapChapter[Chapter_01Ev5].ChapterName
 msgid "セントオルカの秘密作戦1部"
+msgstr ""
+
+#: MapChapter[Chapter_01Ev6].ChapterName
+msgid "不思議な国のチョコ女王1部"
 msgstr ""
 
 #  Korean Text: '지구의 마지막 인간'
