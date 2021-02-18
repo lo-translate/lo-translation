@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-12-08 12:00-0400\n"
+"PO-Revision-Date: 2021-02-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -20,6 +20,16 @@ msgstr ""
 #  Korean Text: '경비용 AMG-11'
 #: Monster[MOB_MP_AMG11_TU2].Name
 msgid "警備用AMG-11"
+msgstr ""
+
+#  Korean Text: '초코 여왕이 경비용 AMG 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_AMG11_VT2].Mob_Info
+msgid "チョコ女王が警備用AMG機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 감시병'
+#: Monster[MOB_MP_AMG11_VT2].Name
+msgid "チョコ女王の監視兵"
 msgstr ""
 
 #  Korean Text: '오~ 이 녀석들 왠지 마음에 드는데? 몇 대 가져가서 네리의 부하로 쓰면 되겠어! 네리 대신 일하게 해야지!\n\n\n - 네레이드 보고함'
@@ -44,6 +54,20 @@ msgstr ""
 #  Korean Text: '네리의 부하'
 #: Monster[MOB_MP_AMG11AA_EV5].Name
 msgid "ネリの部下"
+msgstr ""
+
+#  Korean Text: '이 녀석들은 대공 능력에 특화된 녀석들이야. 물론 내 우수한 스텔스 능력에 비하면 분명 보잘것없는 능력이지만, 다른 친구들에게는 성가실 수 있으니 내가 먼저 처리해야겠어.\n\n\n - 하르페이아 보고함'
+#: Monster[MOB_MP_AMG11AA_SA2].Mob_Info
+msgid ""
+"こいつらは対空能力に特化されているわ。もちろん、私の優秀なステルスに比べたら大したことないけど、他の皆は手こずると思うの。私が先に片づけておくわ。\n"
+"\n"
+"\n"
+"報告者：ハルピュイア"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 정예 감시병'
+#: Monster[MOB_MP_AMG11AA_VT2].Name
+msgid "チョコ女王の精鋭監視兵"
 msgstr ""
 
 #  Korean Text: '<교전 기록 없음>'
@@ -238,6 +262,16 @@ msgstr ""
 msgid "警備用ドローン"
 msgstr ""
 
+#  Korean Text: '초코 여왕이 경비용 드론 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_Drone_VT2].Mob_Info
+msgid "チョコ女王が警備用ドローン機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 정찰병'
+#: Monster[MOB_MP_Drone_VT2].Name
+msgid "チョコ女王の偵察兵"
+msgstr ""
+
 #  Korean Text: '지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…\n\n\n - 익스프레스 76 보고함'
 #: Monster[MOB_MP_DroneM_B08].Mob_Info
 msgid ""
@@ -251,6 +285,11 @@ msgstr ""
 #: Monster[MOB_MP_DroneM_B08].Name
 msgid "ドローンカスタム"
 msgstr "Drone Custom"
+
+#  Korean Text: '초코 여왕의 정예 정찰병'
+#: Monster[MOB_MP_DroneM_VT2].Name
+msgid "チョコ女王の精鋭偵察兵"
+msgstr ""
 
 #  Korean Text: '칙 엠페러'
 #: Monster[MOB_MP_EmperorChick_EV1].Name
@@ -354,6 +393,16 @@ msgstr ""
 msgid "警備用フォールン"
 msgstr ""
 
+#  Korean Text: '초코 여왕이 경비용 폴른 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_Fallen_VT2].Mob_Info
+msgid "チョコ女王が警備用フォールン機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 보병'
+#: Monster[MOB_MP_Fallen_VT2].Name
+msgid "チョコ女王の歩兵"
+msgstr ""
+
 #  Korean Text: '조준은 엉망이지만 화력은 강력하니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.\n\n\n - 블랙 하운드 보고함'
 #: Monster[MOB_MP_FallenC_EV1].Mob_Info
 msgid ""
@@ -367,6 +416,20 @@ msgstr ""
 #: Monster[MOB_MP_FallenC_EV1].Name
 msgid "フォールンカスタム"
 msgstr "Fallen Custom"
+
+#  Korean Text: '공격 할 수록 점점 더 화력이 강력해지니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.\n\n\n - 블랙 하운드 보고함'
+#: Monster[MOB_MP_FallenC_SA2].Mob_Info
+msgid ""
+"攻撃するたびにどんどん火力が強くなるので注意してください。持久力はないので、回避に集中すると自滅すると思います。\n"
+"\n"
+"\n"
+" 報告者：ブラックハウンド"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 정예 보병'
+#: Monster[MOB_MP_FallenC_VT2].Name
+msgid "チョコ女王の精鋭歩兵"
+msgstr ""
 
 #  Korean Text: '유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.\n\n\n- 기간테스 보고함'
 #: Monster[MOB_MP_Frostbite_EW].Mob_Info
@@ -392,6 +455,16 @@ msgstr ""
 msgid "量産型ギガンテス"
 msgstr ""
 
+#  Korean Text: '초코 여왕이 양산형 기간테스 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_Gigantes_VT2].Mob_Info
+msgid "チョコ女王が量産型ギガンテス機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 근위병'
+#: Monster[MOB_MP_Gigantes_VT2].Name
+msgid "チョコ女王の近位兵"
+msgstr ""
+
 #  Korean Text: '거점 방어에 특화된 모델인건가? 행동은 굼떠보이지만 좀처럼 빈틈이 안보여. 하지만 내 소우 피쉬라면 해결할 수 있을걸?\n\n\n - 트리아이나 보고함'
 #: Monster[MOB_MP_GigantesC_EV1].Mob_Info
 msgid ""
@@ -405,6 +478,11 @@ msgstr ""
 #: Monster[MOB_MP_GigantesC_EV1].Name
 msgid "ギガンテスカスタム"
 msgstr "Gigantes Custom"
+
+#  Korean Text: '초코 여왕의 정예 근위병'
+#: Monster[MOB_MP_GigantesC_VT2].Name
+msgid "チョコ女王の精鋭近位兵"
+msgstr ""
 
 #  Korean Text: '아르바이트 중인 기간테스인 듯하다...'
 #: Monster[MOB_MP_GigantesDagon_N].Mob_Info
@@ -1125,6 +1203,16 @@ msgstr ""
 msgid "警備用ポップヘッド"
 msgstr ""
 
+#  Korean Text: '초코 여왕이 경비용 펍 헤드 기종을 도색해 만들어낸 애완기계입니다. '
+#: Monster[MOB_MP_PuppHead_VT2].Mob_Info
+msgid "チョコ女王が警備用ポップヘッド機種に色付けしたペット機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 애완기계'
+#: Monster[MOB_MP_PuppHead_VT2].Name
+msgid "チョコ女王の機械ペット"
+msgstr ""
+
 #  Korean Text: '이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.\n\n\n - 칸 보고함'
 #: Monster[MOB_MP_PuppHeadC_B08].Mob_Info
 msgid ""
@@ -1138,6 +1226,11 @@ msgstr ""
 #: Monster[MOB_MP_PuppHeadC_B08].Name
 msgid "ポップヘッドカスタム"
 msgstr "PupHead Custom"
+
+#  Korean Text: '초코 여왕의 귀여운 애완기계'
+#: Monster[MOB_MP_PuppHeadC_VT2].Name
+msgid "チョコ女王の可愛い機械ペット"
+msgstr ""
 
 #  Korean Text: '고속 교란용 연결체. 지휘 능력이 제법 뛰어나 대량의 철충 부대와 함께 다니기 때문에 주의하는 게 좋아. 보기보다 겁쟁이라 위협을 느끼면 닥치는대로 전격탄을 난사하니 대비하는 작전을 세우면 그럭저럭 상대할 만 할 거야.\n\n\n- 레오나'
 #: Monster[MOB_MP_Raider_B04].Mob_Info
@@ -1169,6 +1262,16 @@ msgstr ""
 msgid "警備用ランパート"
 msgstr ""
 
+#  Korean Text: '초코 여왕이 경비용 램파트 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_Rampart_VT2].Mob_Info
+msgid "チョコ女王が警備用ランパート機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 경비병'
+#: Monster[MOB_MP_Rampart_VT2].Name
+msgid "チョコ女王の警備兵"
+msgstr ""
+
 #  Korean Text: '불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.\n\n\n - 칼리스타 보고함'
 #: Monster[MOB_MP_RampartC_B08].Mob_Info
 msgid ""
@@ -1182,6 +1285,11 @@ msgstr ""
 #: Monster[MOB_MP_RampartC_B08].Name
 msgid "ランパートカスタム"
 msgstr "Rampart Custom"
+
+#  Korean Text: '초코 여왕의 정예 경비병'
+#: Monster[MOB_MP_RampartC_VT2].Name
+msgid "チョコ女王の精鋭警備兵"
+msgstr ""
 
 #  Korean Text: '큿… 제 레이더로도 포착하기 어려운 상대네요. 최대 충전 상태가 되면 강력한 공격을 하니 주의하시길. 상태를 보니 큰 피해를 입으면 어떤 꼬맹이처럼 성대하게 폭발할 것 같군요.\n\n\n- 나이트 앤젤 보고함'
 #: Monster[MOB_MP_RocC_EV1].Mob_Info
@@ -1277,6 +1385,16 @@ msgstr ""
 msgid "量産型セルジューク"
 msgstr ""
 
+#  Korean Text: '초코 여왕이 양산형 셀주크 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_Seljuq_VT2].Mob_Info
+msgid "チョコ女王が量産型セルジューク機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 포병'
+#: Monster[MOB_MP_Seljuq_VT2].Name
+msgid "チョコ女王の砲兵"
+msgstr ""
+
 #  Korean Text: '화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.\n\n\n - 세이렌 보고함'
 #: Monster[MOB_MP_SeljuqA_EV1].Mob_Info
 msgid ""
@@ -1290,6 +1408,11 @@ msgstr ""
 #  Korean Text: '셀주크 커스텀'
 #: Monster[MOB_MP_SeljuqA_EV1].Name
 msgid "セルジュークカスタム"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 정예 포병'
+#: Monster[MOB_MP_SeljuqA_VT2].Name
+msgid "チョコ女王の精鋭砲兵"
 msgstr ""
 
 #  Korean Text: '속이 아파오기 시작했어요… 제가 안 보면 대체 무슨 일을 할지...\n\n\n- 세이렌'
@@ -1380,6 +1503,16 @@ msgstr ""
 #  Korean Text: '양산형 스팅어'
 #: Monster[MOB_MP_Stinger_TU2].Name
 msgid "量産型スティンガー"
+msgstr ""
+
+#  Korean Text: '초코 여왕이 양산형 스팅어 기종을 도색해 만들어낸 기체입니다.'
+#: Monster[MOB_MP_Stinger_VT2].Mob_Info
+msgid "チョコ女王が量産型スティンガー機種に色付けした機体です。"
+msgstr ""
+
+#  Korean Text: '초코 여왕의 돌격병'
+#: Monster[MOB_MP_Stinger_VT2].Name
+msgid "チョコ女王の精鋭突撃兵"
 msgstr ""
 
 #  Korean Text: '극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.\n\n\n - 님프 보고함'

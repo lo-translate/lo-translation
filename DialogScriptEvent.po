@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-02-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -27806,7 +27806,7 @@ msgstr ""
 
 #  Korean Text: '- 확인사살과 장비 점검까지 끝마치고 근처의 벤치에 앉았습니다.'
 #: DialogScript[DG_Ch01Ev6Stage05_2_6].Script
-msgid "- 確認射殺と装備のチェックまでしっかり終えた後、近くのベンチに座りました。 "
+msgid "- 射殺の確認と装備のチェックまでしっかり終えた後、近くのベンチに座りました。"
 msgstr ""
 
 #  Korean Text: '- 신기하게 생긴 나무에, 분수대... 저, 저건 혹시 초콜릿일까요?'
@@ -29862,7 +29862,7 @@ msgstr ""
 
 #  Korean Text: '하아... 임무 중에 꼴이 그게 뭔가요.'
 #: DialogScript[DG_Ch01Ev6Stage09_1_40].Script
-msgid "はぁ…任務中に何ですか有り様は…。"
+msgid "はぁ…任務中に何ですかこの有り様は…。"
 msgstr ""
 
 #  Korean Text: '마음이 앞선 것도 정도가 있지. 이미 대장 머리속에선 아이를 12명 정도는 낳았나요?'
@@ -63848,7 +63848,7 @@ msgstr ""
 
 #  Korean Text: '그리고 이왕이면 우리 사령관님한텐 보존된 거 말고 신선한 걸로 먹여주고 싶어서. 그치, 다크엘븐?'
 #: DialogScript[DG_ChCS-12Stage04_1_30].Script
-msgid "せっかくなら、司令官には保存されてたミルクじゃなくて、&n搾りたてを飲ませてたくなるじゃない？&nねー、ダークエルブン？"
+msgid "せっかくなら、司令官には保存されてたミルクじゃなくて、&n搾りたてを飲ませたくなるじゃない？&nねー、ダークエルブン？"
 msgstr ""
 
 #  Korean Text: '저기, 혹시 괜찮으면 나도 해도 돼? 사령관한테 줄 거면...'
