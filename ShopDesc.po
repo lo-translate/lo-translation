@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-02-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -5277,7 +5277,7 @@ msgstr ""
 #  Korean Text: '운명의 수정구 EX'
 #: ShopDesc[16047].ProductName
 msgid "運命の水晶玉EX"
-msgstr ""
+msgstr "Crystal Ball of Fate EX"
 
 #  Korean Text: '적중 / 치명타 / 사거리가 증가하며, 강화 단계에 따라 일정 확률로 적중 / 사거리 감소 효과를 해제합니다.'
 #: ShopDesc[16048].NPCDescription
@@ -5328,7 +5328,7 @@ msgstr ""
 #  Korean Text: '니트로 EX 3000'
 #: ShopDesc[16052].ProductName
 msgid "ニトロEX3000"
-msgstr ""
+msgstr "Nitro EX 3000"
 
 #  Korean Text: '전장에서의 전투 기록을 분석해 제작한 개량형 전투 OS입니다. 공격력 / 회피 / 행동력을 올려주며, 받는 피해가 감소합니다. 해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다.'
 #: ShopDesc[16053].NPCDescription
@@ -5374,7 +5374,7 @@ msgstr ""
 #  Korean Text: '그랑크뤼 초콜릿'
 #: ShopDesc[16056].ProductName
 msgid "グランクリュチョコレート"
-msgstr ""
+msgstr "Grand Cru Chocolate"
 
 #  Korean Text: '신소재로 제작한 고출력 제네레이터입니다. 공격력이 증가하며, 라운드 개시 시 AP가 증가합니다.'
 #: ShopDesc[16057].NPCDescription

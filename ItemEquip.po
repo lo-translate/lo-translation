@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-02-18 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1120,7 +1120,7 @@ msgstr "Heavy Weapon Sights EX"
 #  Korean Text: '적중+{0} / 회피+{1}'
 #: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemDesc
 msgid "命中+{0}/回避+{1}"
-msgstr ""
+msgstr "Accuracy +{0} / Evasion +{1}"
 
 #  Korean Text: '수정구 형태의 연산장치입니다.\n전투 개시 시, 행동력이 증가하며 정찰 효과를 얻습니다.'
 #: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemDesc_Detail
@@ -1132,12 +1132,12 @@ msgstr ""
 #  Korean Text: '운명의 수정구 EX'
 #: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemName
 msgid "運命の水晶玉EX"
-msgstr ""
+msgstr "Crystal Ball of Fate EX"
 
 #  Korean Text: '공격력+{0} / 회피+{1}'
 #: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemDesc
 msgid "攻撃力+{0} / 回避+{1}"
-msgstr ""
+msgstr "Attack +{0} / Evasion +{1}"
 
 #  Korean Text: '매우 맛이 뛰어난 초콜릿입니다. 정신없이 먹다보면 나중에 후회할 일이 생길지도 모릅니다…\n바이오로이드가 장착 시, 전투 시작 AP가 증가합니다.'
 #: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemDesc_Detail
@@ -1147,7 +1147,7 @@ msgstr ""
 #  Korean Text: '그랑크뤼 초콜릿'
 #: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemName
 msgid "グランクリュチョコレート"
-msgstr ""
+msgstr "Grand Cru Chocolate"
 
 #  Korean Text: '회피+{0} / 피해 최소화 Lv.1'
 #: ItemEquip[Equip_Sub_Hologram_T1].ItemDesc
@@ -1373,7 +1373,7 @@ msgstr "Half-Moon Rice Cake of Lunar Magic EX"
 #  Korean Text: '냉기 저항+{0} / 회피+{1} / 행동력+{2}'
 #: ItemEquip[Equip_Sub_NitroEx3000_T4].ItemDesc
 msgid "冷気耐性+{0}/回避+{1}/行動力+{2}"
-msgstr ""
+msgstr "Ice Resist +{0} / EVA +{1} / SPD +{2}"
 
 #  Korean Text: '<최대 속력 마하 2.45! 선물 전달을 위한 필수 장비!>\n<주의 : 탑승자의 안전은 보장하지 않습니다>\n바이오로이드가 장착 시, 가끔 멀미 때문에 적중이 감소합니다. (해로운 효과)'
 #: ItemEquip[Equip_Sub_NitroEx3000_T4].ItemDesc_Detail
@@ -1386,7 +1386,7 @@ msgstr ""
 #  Korean Text: '니트로 EX 3000'
 #: ItemEquip[Equip_Sub_NitroEx3000_T4].ItemName
 msgid "ニトロEX3000"
-msgstr ""
+msgstr "Nitro EX 3000"
 
 #  Korean Text: '적중 / 사거리 증가 Lv.1'
 #: ItemEquip[Equip_Sub_Observer_T1].ItemDesc
