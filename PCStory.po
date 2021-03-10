@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -561,3 +561,65 @@ msgstr ""
 #: PCStory[Story_Char_BR_Tomoe_N_3_PECS_LRL_4].StoryFileName
 msgid "教科書"
 msgstr "Textbook"
+
+#: PCStory[Story_Char_DS_Faucre_N_6_3P_CSPerrault_4].DgStartTriggerString1
+msgid "ストーリーファイル「試験稼働＃1」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_3P_CSPerrault_4].StoryDesc
+msgid "奇襲的にゃんにゃんアタックの効果は抜群だ！"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_3P_CSPerrault_4].StoryFileName
+msgid "試験稼働＃2"
+msgstr ""
+
+#  Korean Text: '마왕님의 꿈'
+#: PCStory[Story_Char_DS_Faucre_N_6_3P_CSPerrault_4].StoryName
+msgid "魔王様の夢"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_BR_DrM_2].DgStartTriggerString1
+msgid "ストーリーファイル「魔法少女マジカル☆ポックル」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_BR_DrM_2].StoryDesc
+msgid "貴方の言葉なら、何でも。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_BR_DrM_2].StoryFileName
+msgid "貴方を信じています。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_1].DgStartTriggerString1
+msgid "ポックル大魔王の好感度80以上"
+msgstr ""
+
+#  Korean Text: '부끄러움은 사령관의 몫.'
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_1].StoryDesc
+msgid "恥ずかしさは司令官が背負うもの。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_1].StoryFileName
+msgid "魔法少女マジカル☆ポックル"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_3].DgStartTriggerString1
+msgid "ストーリーファイル「貴方を信じています。」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_3].StoryDesc
+msgid "これくらいの執着は、司令官には慣れっこです。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_3].StoryFileName
+msgid "試験稼働＃1"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_5].DgStartTriggerString1
+msgid "ストーリーファイル「試験稼働＃2」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Faucre_N_6_DS_Faucre_5].StoryDesc
+msgid "貴方の為に歌います。"
+msgstr ""

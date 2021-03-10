@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -98,6 +98,10 @@ msgstr "Clear while sending 1 or fewer heavy units"
 #: MissionObject[Mission_StageClear_ARMOREDLess2].Mission_ObjectString
 msgid "重装型を2機以下で編成してクリア"
 msgstr "Clear while sending 2 or fewer heavy units"
+
+#: MissionObject[Mission_StageClear_ARMOREDLess3].Mission_ObjectString
+msgid "重装型を3機以下編成せてクリア"
+msgstr ""
 
 #  Korean Text: '중장형을 2기 이상 편성해 클리어'
 #: MissionObject[Mission_StageClear_ARMOREDMore2].Mission_ObjectString
@@ -507,6 +511,10 @@ msgstr "Clear while sending 1 or fewer light units"
 #: MissionObject[Mission_StageClear_TrooperLess2].Mission_ObjectString
 msgid "軽装型を2機以下で編成してクリア"
 msgstr "Clear while sending 2 or fewer light units"
+
+#: MissionObject[Mission_StageClear_TrooperMore1].Mission_ObjectString
+msgid "軽装型を1機以上編成してクリア"
+msgstr ""
 
 #  Korean Text: '경장형을 2기 이상 편성해 클리어'
 #: MissionObject[Mission_StageClear_TrooperMore2].Mission_ObjectString

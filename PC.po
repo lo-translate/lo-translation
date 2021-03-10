@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1547,6 +1547,11 @@ msgstr ""
 #: PC[Char_PECS_Sadius_N].Name
 msgid "懲罰のサディアス"
 msgstr "Sadius of Retribution"
+
+#  Korean Text: '아, 안녕하세요. 여기도 제가 지켜야 할 아이들이 있나요…?'
+#: PC[Char_PECS_Saetti_N].DialogJoin
+msgid "あ…こんにちは。ここにも私を待っている動物がいるんですか…？"
+msgstr ""
 
 #  Korean Text: '세띠'
 #: PC[Char_PECS_Saetti_N].Name

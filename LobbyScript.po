@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1599,6 +1599,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Echidna].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "はぁ、そうね…私たちってかなりお似合いだと思うわ…あなたも…そう思うわよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScript1[1](Affection<100)
+msgid "この結び目をほどけばあなたは私を自由にできるのよ…？ふふ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScript1[2](Affection<100)
+msgid "バカらしいイベントだけど…今日一日だけは我慢してあげる。ほら…今日は私が…あなたのためのプレゼントよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScript1[3](Affection<100)
+msgid "ねぇ…？プレゼントをもらったらすぐに開けるのが礼儀よ？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScript2[1](Affection>40)
+msgid "あら？…私を見て興奮しているの？ふふふ…可愛いんだから…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScript3[3](Affection>70)
+msgid "ねぇ。このリボンをほどいたら…私をどうするつもり？あぁ…考えただけでもゾクゾクしてきたわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScript4[2](Affection=100)
+msgid "あぁ…感謝の言葉はもういいから、早くあなたのしたいようにしてちょうだい？…ほら…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "はぁ…その調子よ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_BR_Echidna_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "うっ…！いい感じよ…私をもっと喜ばせてちょうだい…"
 msgstr ""
 
 #: LobbyScript[LobbyScript_BR_Efreeti].LobbyScript1[1](Affection<100)
@@ -3291,6 +3323,10 @@ msgstr ""
 msgid "これは、、何の合図ですか？"
 msgstr ""
 
+#: LobbyScript[LobbyScript_BR_Valkyrie_NS3].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "(顔が真っ赤になり頭を抱え)……はぁぁ…"
+msgstr ""
+
 #: LobbyScript[LobbyScript_BR_WarWolf].LobbyScript1[1](Affection<100)
 msgid "司令官は何を考えているの？私は、昨日やらかしたことを思い出してた。"
 msgstr ""
@@ -3841,6 +3877,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Babariana].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "うっ……！いつまでそんな触り方なのよ！？男らしく一気にかかってきな！"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScript1[1](Affection<100)
+msgid "ちょっと窮屈だけど…まぁ、仕方ないわね…。最低限下着はつけろって可愛いお嬢ちゃんにキツく言われたのよ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScript1[2](Affection<100)
+msgid "はい、チョコレート。こういう可愛らしいことってあんまりしないんだけど…たまには悪くないわね。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScript1[3](Affection<100)
+msgid "衣装変更は慣れてるわ。昔…アタシの会社が商品のパッケージ撮影に熱心だったからね…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScript2[1](Affection>40)
+msgid "なんかアツい視線を感じるんだけど～？ふふふ、おとなしめの服選ばなくてよかったわ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScript3[3](Affection>70)
+msgid "設定とか必要？ねぇ、そこの可愛い後輩ちゃん、これあげるから先輩と…楽しいことしな～い？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScript4[2](Affection=100)
+msgid "美味しい？本当？じゃ、アタシも、んんんんん…ふふふ、とっても甘い。え、まさかこれくらいでドキドキしてるわけじゃないわよね？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "なにぐずぐずしてんの～？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Babariana_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "う～ん…すっごく上手いのは認めるわ…。でも…こんなんじゃお互い満足できないってこと、わかってる？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_BS].LobbyScript1[1](Affection<100)
@@ -4551,6 +4619,39 @@ msgstr ""
 msgid "実は僕は本当の体を持っていたんだ。いつかその体を取り戻せたらと思っている。"
 msgstr ""
 
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScript1[1](Affection<100)
+msgid ""
+"このチンチラはタイガーって言います。この子も私と同じ怖がり屋さんなのでいつも一緒に連れて歩いてるんです。えっ、タイガー…？司令官様のことが気に入ったの？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScript1[2](Affection<100)
+msgid "きゃっ…す、すみません。私、結構ビビりでして…うぅ、早くここに慣れなくちゃ…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScript1[3](Affection<100)
+msgid "私ってすっごく力持ちなんですよ？この防弾服も見た目よりずっと重たいですし、ガス爆弾とケージの重さまで合わせたら…結構重いんですよ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScript2[1](Affection>40)
+msgid "タイガー以外にも可愛い子がたくさんいますよ。この子はアイアイという猿でして、とっても…え？あんまり可愛くないですか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScript3[3](Affection>70)
+msgid "こ、怖いですけど…司令官様をお守りするためなら何だってできます…！私、すっごく頑丈ですから！あっ…、撫でてくれて…ありがとうございます…ふふ…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScript4[2](Affection=100)
+msgid "司令官様に抱かれていると守られている気がします。こうして緊張を解いていられるのは初めてです…もっと強く抱きしめてください。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "そ、そんなことしないでください…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Saetti].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "きゃっ！？あ、あの…これは…衝撃を吸収するために…うはぁっ！？お、おなかはだめですぅ…！"
+msgstr ""
+
 #: LobbyScript[LobbyScript_PECS_Serpent].LobbyScript1[1](Affection<100)
 msgid "ふわぁ～…あぁ…今日は暇だね～。"
 msgstr ""
@@ -4815,4 +4916,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_ST_Tiamat].LobbyScriptSp2[1](Affection=100,SpecialTouch)
 msgid "うぅっ、司令官…。あ…、そういうことですね？すぐに…準備してきます。こういう時のために準備しておいたものが…はい？そうじゃ…ないんですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScript1[1](Affection<100)
+msgid ""
+"最後にもう一回練習を…ご主人様？今日は私がお世話させていただきます。…よし！ちゃんとできるはず。\n"
+"え？司令官…？いつからそこに…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScript1[2](Affection<100)
+msgid "あ…今、お忙しい…ですか…？で、でしたら私は…こ、この辺に座っています。…はぁ。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScript1[3](Affection<100)
+msgid "「よくできましたキャンディ」のお礼にと私もチョコレートを準備しました。召し上がって…くださいますか…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScript2[1](Affection>40)
+msgid "…司令官がメイドの方たちと仲良くされているのを見かけました。これを着れば私もそうなれるかなと思って…本当ですか？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScript3[3](Affection>70)
+msgid "司令官、私が食べさせてあげます。あーん。…お味はいかがですか？…はぁ…よかった…。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScript4[2](Affection=100)
+msgid "お、重たくないですか？太ももが痛いとか……そう…ですか。では、頭を撫でてください…。…あっ、それだとお仕事ができなくなります…ね…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "やっぱり…こういうことがお好きなんですね…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_ST_Tiamat_NS1].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "ふふ、どうぞ。司令官ならいつでも…。…え？つ、続きはまた今度…ですか？あっ…わかりました。"
 msgstr ""

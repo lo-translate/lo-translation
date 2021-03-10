@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-18 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1953,7 +1953,7 @@ msgstr ""
 
 #  Korean Text: '티아멧용 메이드복과 초콜릿 5개가 들어있는 팩입니다.'
 #: ShopDesc[193].NPCDescription
-msgid "ティアマト用のメイド服とチョコレート5個が入ったパックです。"
+msgid "X-00ティアマト用のメイド服とチョコレート5個が入ったパックです。"
 msgstr ""
 
 #  Korean Text: '당신만의 일일 메이드'
@@ -1968,7 +1968,7 @@ msgstr ""
 
 #  Korean Text: '장난치는 갸루 바바리아나양'
 #: ShopDesc[194].ProductName
-msgid "やんちゃギャルバーバリアナさん"
+msgid "小悪魔ギャルバーバリアナ"
 msgstr ""
 
 #  Korean Text: '소완용 치파오 드레스와 초콜릿 5개가 들어있는 팩입니다.'
@@ -6335,7 +6335,7 @@ msgstr ""
 
 #  Korean Text: '메이드복 (티아멧)'
 #: ShopDesc[17176].ProductName
-msgid "メイド服(ティアマト)"
+msgid "メイド服(X-00ティアマト)"
 msgstr ""
 
 #  Korean Text: '언제나 진지하던 발키리는 어느새 당신 앞에서만은 편안한 모습을 보여주게 되었습니다.'
@@ -6350,7 +6350,8 @@ msgstr ""
 
 #  Korean Text: '이쪽 계열의 끝판왕이 나타나고 말았습니다. 아르망은 이 미래를 예측했을까요? 음, 놀란 얼굴을 보니 아닌 것 같군요.'
 #: ShopDesc[17178].NPCDescription
-msgid "こっち系のボスが現れました。アルマンはこの未来を予測できたんでしょうか。うーん…驚いています。予測できなかったようですね。"
+msgid ""
+"あっち系のラスボスが現れました。アルマンはこんな未来を予測できていたのでしょうか。あらら…動揺を隠しきれていません。どうやら予測できなかったみたいですね。"
 msgstr ""
 
 #  Korean Text: '무서운 누나 교복 (바바리아나)'

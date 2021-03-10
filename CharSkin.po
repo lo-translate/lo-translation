@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -918,6 +918,17 @@ msgstr ""
 msgid "真冬の女神オードリー"
 msgstr ""
 
+#  Korean Text: '이쪽 계열의 끝판왕이 나타나고 말았습니다. 아르망은 이 미래를 예측했을까요? 음, 놀란 얼굴을 보니 아닌 것 같군요.'
+#: CharSkin[Skin_PECS_Babariana_1].SkinDesc
+msgid ""
+"あっち系のラスボスが現れました。アルマンはこんな未来を予測できていたのでしょうか。あらら…動揺を隠しきれていません。どうやら予測できなかったみたいですね。"
+msgstr ""
+
+#  Korean Text: '장난치는 갸루 바바리아나양'
+#: CharSkin[Skin_PECS_Babariana_1].SkinName
+msgid "小悪魔ギャルバーバリアナ"
+msgstr ""
+
 #  Korean Text: '오드리가 복원한 과거 명절, <8월 대보름>의 전통복입니다. 하지만 옷 크기가... 그녀의 격렬한 응원에서 터지지 않고 버틸 수 있을까요…?'
 #: CharSkin[Skin_PECS_Carolina_1].SkinDesc
 msgid "オードリーが復元した過去の祭日、「中秋の名月」の伝統衣装です。彼女の激しいチアリーディングを服のサイズが耐えられるでしょうか…"
@@ -1069,3 +1080,13 @@ msgstr ""
 #: CharSkin[Skin_PECS_Triaina_1].SkinName
 msgid "オードリームーンコレクション<フロンティアラビット>"
 msgstr "Audrey Moon Collection <Frontier Rabbit>"
+
+#  Korean Text: '마침내 티아멧이 마음을 열었습니다. 당신의 평범한 행동이 티아멧에겐 구원이었던 거겠죠.'
+#: CharSkin[Skin_ST_Tiamat_1].SkinDesc
+msgid "やっとティアマトが心を開きました。貴方の何気ない日常がティアマトにとっては救いだったのでしょう。"
+msgstr ""
+
+#  Korean Text: '당신만의 일일 메이드'
+#: CharSkin[Skin_ST_Tiamat_1].SkinName
+msgid "貴方だけの一日メイド"
+msgstr ""

@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-18 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -44396,7 +44396,7 @@ msgstr ""
 
 #  Korean Text: '훗. 너 바보 아냐? 주인님이 장난감 좀 가지고 노는 걸로 내가 일일이 화낼 것 같아?'
 #: DialogScript[DG_Ch02Ev6Stage01_2_17].Script
-msgid "ふんっ。あなたって本当にバカね？ご主人様がおもちゃで遊ぶのをいちいち怒ってどうするの？"
+msgid "ふんっ。あなたって本当にバカね？&nご主人様がおもちゃで遊ぶのをいちいち怒ってどうするの？"
 msgstr ""
 
 #  Korean Text: '인간 남자 분들은 노리개 몇 쯤은 원래 가지고 있는 거야. 중요한 건 그 분의 조강지처… 아내가 누가 되느냐지.'
@@ -44408,7 +44408,7 @@ msgstr ""
 
 #  Korean Text: '네 해충 동생들도 모두 노리개야!'
 #: DialogScript[DG_Ch02Ev6Stage01_2_19].Script
-msgid "あんたみたいな害虫の妹たちもあんたも！全部そのおもちゃよ！"
+msgid "害虫の妹たちもあんたも！全部そのおもちゃよ！"
 msgstr ""
 
 #  Korean Text: '내 동생들은 노리개가 아니기 때문에 주인님께 함부로 들이대지 않고 참는 거야.'
@@ -44435,14 +44435,14 @@ msgstr ""
 
 #  Korean Text: '어쨌든 뭐? 해충, 말을 잘 해야 할 거야.'
 #: DialogScript[DG_Ch02Ev6Stage01_2_24].Script
-msgid "とにかく……何？害虫、話は最後までちゃんとしなさいよ！！&nさもないと…"
+msgid "とにかく……何？害虫、最後までちゃんと話しなさいよ！！&nさもないと…"
 msgstr ""
 
 #  Korean Text: '말을 못하면 뭐? 덤벼볼래? 훗… 너희 늙은 언니에게도 네가 함부로 덤비면 묶어놓은 후에 두고 간다는 말을 했으니… 덤비면 나야 좋은데…'
 #: DialogScript[DG_Ch02Ev6Stage01_2_25].Script
 msgid ""
 "さもないと…どうなるのかしら？ふふっ…あなたの年増のお姉さんにはあなたが&n飛びかかってきたら縛り付けた後にそこらへんに捨てて行くって言っておいたから…&n"
-"どうぞかかってきたら？私も邪魔がいなくなって良いことしかないわ…？"
+"どうぞかかってきたら？私も邪魔者がいなくなって良いことしかないわ…？"
 msgstr ""
 
 #  Korean Text: '흥… 해충… 네가 날?'
@@ -44484,8 +44484,8 @@ msgstr ""
 #  Korean Text: '5에서 7일간 발효한 후에 세척한 뒤에 다시 10일간 말린다… 그 후, 초컬릿 향이 난다. 다음은… 역시… 페로가 날 속일 리 없지.'
 #: DialogScript[DG_Ch02Ev6Stage01_2_33].Script
 msgid ""
-"7日間ほどの発酵させた後、洗ってまたさらに10日間乾燥させる…&nそうしてやっとチョコレートの香りがするようになる…。&nその後は…なるほど…やっぱりペロが"
-"私を騙すわけないのよ。"
+"7日間ほど発酵させた後、洗ってまたさらに10日間乾燥させる…&nそうしてやっとチョコレートの香りがするようになる…。&nその後は…なるほど…やっぱり猫ちゃん"
+"が私を騙すわけないのよ。"
 msgstr ""
 
 #  Korean Text: '… 해충… 그 다음은 뭐야?'
@@ -44500,7 +44500,7 @@ msgstr ""
 
 #  Korean Text: '뭐… 여기까진 페로를 시키면 되겠고… 페로도 당당하게 첩이 되려면 공을 좀 세워야 하니... 분쇄? 이건… 좀 곤란하겠는데?'
 #: DialogScript[DG_Ch02Ev6Stage01_2_36].Script
-msgid "まぁ…ここまではペロにさせればいいし…ペロも立派な愛人になるなら&nそれなりに苦労もしなくちゃね。…粉砕？これは…ちょっと困ったわ…？"
+msgid "まぁ…ここまでは猫ちゃんにさせればいいし…あの子も立派な愛人になるなら&nそれなりに苦労もしなくちゃね。…粉砕？これは…ちょっと困ったわ…？"
 msgstr ""
 
 #  Korean Text: '부수는 거라면 내가…'
@@ -44682,7 +44682,7 @@ msgstr ""
 
 #  Korean Text: '응? 레아는 나랑 나이가 비슷하니까. 친구 하기로 했어. 아 참! 그보다 급한 이야기가 있었는데…'
 #: DialogScript[DG_Ch02Ev6Stage02_1_28].Script
-msgid "うん！レアは私と年も近いから。お友達になることにしたの！あ、そうだった！&nそれより大変なことが！"
+msgid "うん！レアは私と年も近いから。お友達になることにしたんです！&nあ、そうだった！それより大変なことが！"
 msgstr ""
 
 #  Korean Text: '급한 이야기?'
@@ -44757,7 +44757,7 @@ msgstr ""
 
 #  Korean Text: '응. 빨리 전해줘. 페로, 우리도 준비하도록 해요. 두 사람이 마음 놓고 초콜릿을 찾을 수 있도록요.'
 #: DialogScript[DG_Ch02Ev6Stage02_1_43].Script
-msgid "うん。伝えておいて？ペロさん、私たちも準備が出来たらすぐに行きましょう。&n二人が安心してチョコレートを作れるように。"
+msgid "うん。伝えておいて？ペロさん、準備が出来たらすぐに行きましょう。&n二人が安心してチョコレートを作れるように。"
 msgstr ""
 
 #  Korean Text: '마지막 적까지 물리쳤습니다.'
@@ -44792,7 +44792,7 @@ msgstr ""
 
 #  Korean Text: '… 언니에게 온 메시지를 보니… &n카카오 닙스를 12톤 정도 만들어 달라고 했습니다. 휴…'
 #: DialogScript[DG_Ch02Ev6Stage02_2_7].Script
-msgid "…あとお姉さんからのメッセージを見ると…&nカカオニプスを12トンほど作れとのことで…。はぁ…"
+msgid "…あとお姉さんからのメッセージを見ると…&nカカオニブスを12トンほど作れとのことで…。はぁ…"
 msgstr ""
 
 #  Korean Text: '네? 페로 어떻게 해요? 12톤이나… &n아니 카카오 씨앗을 12톤이나 만들어서 뭘 하려고…'
@@ -44837,7 +44837,7 @@ msgstr ""
 
 #  Korean Text: '언니가 좀 폐쇄적인 데가 있어서… 전 남이 아니라고 생각할 거예요.'
 #: DialogScript[DG_Ch02Ev6Stage02_2_16].Script
-msgid "お姉さんはちょっと閉鎖的なところがあって…私は「他の人」にならないみたいです。"
+msgid "お姉さんはちょっと閉鎖的なところがあって…&n私は「他の人」にならないみたいです。"
 msgstr ""
 
 #  Korean Text: '사실… 그게 조금 기쁘기도 해요. 냉정한 언니지만… 저희 자매에겐 냉정하지 않으니까요.'
@@ -44862,7 +44862,7 @@ msgstr ""
 
 #  Korean Text: '그냥… 조금… 아, 아무 것도 아니에요.'
 #: DialogScript[DG_Ch02Ev6Stage02_2_21].Script
-msgid "ただ…ちょっと…ああ、何でもありません。"
+msgid "ただ…ちょっと…&nああ、いえ、何でもありません。"
 msgstr ""
 
 #  Korean Text: '후후. 리리스는 언제나 우리 고양이라고 페로를 부르던데… 혹시 그것 때문에…'
@@ -44963,12 +44963,12 @@ msgstr ""
 
 #  Korean Text: '그렇게 1차원적인 생각을 하면 안 되는 거야.'
 #: DialogScript[DG_Ch02Ev6Stage03_1_8].Script
-msgid "そういう1次元的な思考ではダメだよ。"
+msgid "そういう一次元的な思考ではダメよ。"
 msgstr ""
 
 #  Korean Text: '네? 1차원적인 생각이라뇨?'
 #: DialogScript[DG_Ch02Ev6Stage03_1_9].Script
-msgid "え！？いっ1次元的な思考！？"
+msgid "え！？いっ一次元的な思考！？"
 msgstr ""
 
 #  Korean Text: '생각을 해봐. 고기와 설탕 중 뭐가 더 맛있어?'
@@ -45112,7 +45112,7 @@ msgid "あの、ご主人様…食糧倉庫のお砂糖を少し使ってもよ�
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage03_2_3].SelectionIndex[1]
-msgid "砂糖が見つからなかったのか？今はどこにいるんだ？"
+msgid "砂糖が見つからなかったのか？今どこにいるんだ？"
 msgstr ""
 
 #  Korean Text: '저… 일단 리제 언니가 간 해군 기지의 식량 저장고 쪽에 있어요.'
@@ -45219,19 +45219,19 @@ msgid "その中に少し変わった備忘録がありまして…いくつか�
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage03_2_19].SelectionIndex[1]
-msgid "そうか…今読んでみてくれ。"
+msgid "そうか…読んでみてくれ。"
 msgstr ""
 
 #  Korean Text: '네. 네! 그럼 읽어 드릴게요.'
 #: DialogScript[DG_Ch02Ev6Stage03_2_20].Script
-msgid "はい。わかりました！では今からお読みします。"
+msgid "はい。わかりました！&nでは今からお読みします。"
 msgstr ""
 
 #  Korean Text: '[c][ffd130] 2082년 6월 4일. 블랙리버 해군 대장 올리버 필립스가 기록함. 결국, 오늘 무적의 용을 지구 해군 총사령관으로 임명했다. [-][/c]'
 #: DialogScript[DG_Ch02Ev6Stage03_2_21].Script
 msgid ""
 "[c][ffd130] "
-"2082年6月4日。&nブラックリバー海軍大将オリバー・フィリップスが記録する。&nついに今日、無敵の龍を地球海軍の総司令官に任命した。 [-][/c]"
+"2082年6月4日&nブラックリバー海軍大将オリバー・フィリップスが記録する。&nついに今日、無敵の龍を地球海軍の総司令官に任命した。 [-][/c]"
 msgstr ""
 
 #  Korean Text: '[c][ffd130] 우스운 일이다. 인간도 아닌 바이오로이드 따위에게 모든 함대를 맡긴다니…. [-][/c]'
@@ -45268,8 +45268,8 @@ msgstr ""
 #: DialogScript[DG_Ch02Ev6Stage03_2_27].Script
 msgid ""
 "[c][ffd130] "
-"2082年6月15日。&n悪夢を見る回数が増えてきた。おかしい。何故こんなに眠るようになったんだろう？&nそれはともかく無敵の龍というバイオロイドは今日も勝"
-"利を伝える報告を送ってきた。 [-][/c]"
+"2082年6月15日&n悪夢を見る回数が増えてきた。おかしい。何故こんなに眠るようになったんだろう？&nそれはともかく無敵の龍というバイオロイドは今日も勝利"
+"を伝える報告を送ってきた。 [-][/c]"
 msgstr ""
 
 #  Korean Text: '[c][ffd130] 하긴… 그런 거라도 잘 해야 바이오로이드는 가치가 있겠지. 어쨌든 총수에겐 아직도 연락이 없다. 한동안은 안전할 듯 하다. 잠을 자지 않도록 노력을 해봐야겠다. [-][/c]'
@@ -45283,7 +45283,7 @@ msgstr ""
 #  Korean Text: '[c][ffd130] 2082년 6월 30일. 오늘은 잠을 자지 않기 위해 노력했다. 악몽을 꾸지 않으니 기분이 좀 나아지는 것 같았다. 아침까지는… [-][/c]'
 #: DialogScript[DG_Ch02Ev6Stage03_2_29].Script
 msgid ""
-"[c][ffd130] 2082年6月30日。&n今日は眠らないように努力した。悪夢を見ないせいか気分が少しいい。&n朝まではそうだった。 [-][/c]"
+"[c][ffd130] 2082年6月30日&n今日は眠らないように努力した。悪夢を見ないせいか気分が少しいい。&n朝まではそうだった。 [-][/c]"
 msgstr ""
 
 #  Korean Text: '[c][ffd130] 오후에 아미나 존스란 멍청한 년이 해군 고위 관계자들을 모아 이상한 계획을 발표했다. [-][/c]'
@@ -45300,7 +45300,7 @@ msgstr ""
 #: DialogScript[DG_Ch02Ev6Stage03_2_32].Script
 msgid ""
 "[c][ffd130] "
-"誰かが発した我々の安全は誰が守るのかという質問に対し&n「鉄虫は海であれば上であろうが中であろうが絶対に来ることない、海が壁になる」&nと答えた。 [-"
+"誰かが発した「我々の安全は誰が守るのか」という質問に対し&n「鉄虫は海であれば上であろうが中であろうが絶対に来ることない、海が壁になる」&nと答えた。 [-"
 "][/c]"
 msgstr ""
 
@@ -45371,7 +45371,7 @@ msgstr ""
 
 #  Korean Text: '- 내 말에 다프네는 고개를 끄덕였다. 그리고 갑자기 살짝 얼굴을 붉힌다.'
 #: DialogScript[DG_Ch02Ev6Stage03_2_44].Script
-msgid "- 俺の言葉にダフネは首を縦に振った。そして何故か急に顔を赤らめた。"
+msgid "- 俺の言葉にダフネは頷く。そして何故か急に顔を赤らめた。"
 msgstr ""
 
 #  Korean Text: '네. 그리고… 저… 주인님… 부탁이 있는데...'
@@ -45437,7 +45437,7 @@ msgstr ""
 
 #  Korean Text: '후훗! 마법 숙… 소녀 레아, 이런 모험에 나를 따돌리다니… 너무하지 않은가?'
 #: DialogScript[DG_Ch02Ev6Stage04_1_6].Script
-msgid "フッフッフッ！魔法……少女レア、こんな冒険に私を置いて行くなんて…ひどくない？"
+msgid "フッフッフッ！魔法……………少女レア、こんな冒険に私を置いて行くなんて…&nひどくない？"
 msgstr ""
 
 #  Korean Text: '아, 트리아이나 양? 여긴…'
@@ -45783,7 +45783,7 @@ msgstr ""
 
 #  Korean Text: '인과응보입니다! 펜리르. 그보다, 하치코? 자료실은?'
 #: DialogScript[DG_Ch02Ev6Stage04_2_21].Script
-msgid "自業自得よ！フェンリル。それより、ハチコ？資料室の資料は大丈夫そう？"
+msgid "自業自得よ！フェンリル。&nそれより、ハチコ？資料室の資料は大丈夫そう？"
 msgstr ""
 
 #  Korean Text: '아! 맞아! 레아랑 같이 자료실은 다 뒤졌어! 자료를 잔뜩 찾았어.'
@@ -45798,7 +45798,7 @@ msgstr ""
 
 #  Korean Text: '레아가 자료는 자기가 챙겨서 주인님께 가져다 드릴 테니 안심하고 페로한테 보고하라던데?'
 #: DialogScript[DG_Ch02Ev6Stage04_2_24].Script
-msgid "レアは「資料はちゃんとご主人様に持っていくから、ハチコは安心してペロに報告して」&nって言ってましたけど？"
+msgid "レアは、資料はちゃんとご主人様に持っていくから、ハチコは安心してペロに報告して&nって言ってましたけど？"
 msgstr ""
 
 #  Korean Text: '그리고 레아가 그랬어. “사랑은 전쟁이야! 소녀의 순정은 때론 비겁하단다.”'
@@ -45883,7 +45883,7 @@ msgstr ""
 
 #  Korean Text: '나도 들은 적 있어. 적긴 하지만 호라이즌 소속 블랙 하운드도 있었으니까…'
 #: DialogScript[DG_Ch02Ev6Stage05_1_3].Script
-msgid "私も聞いたことがあります。少ないけどホライゾン所属のブラックハウンドもいたから…"
+msgid "私も聞いたことがあります。&n少ないけどホライゾン所属のブラックハウンドもいたから…"
 msgstr ""
 
 #  Korean Text: '그런데 아직도 남아 있을까? 동면한 언니들이라니…'
@@ -45933,7 +45933,7 @@ msgstr ""
 
 #  Korean Text: '파쇄기? 잠깐만… 혹시 세컨드 포트에 있는 스크래퍼를 이야기하는 거야?'
 #: DialogScript[DG_Ch02Ev6Stage05_1_14].Script
-msgid "え…？破砕機？ちょっと待って…もしかしてセカンドポートにある&nスクラッパーのことかしら？"
+msgid "え…？破砕機？ちょっと待って…もしかしてセカンドポートにある&n大型粉砕機のことかしら？"
 msgstr ""
 
 #  Korean Text: '세컨드 포트요?'
@@ -45943,12 +45943,12 @@ msgstr ""
 
 #  Korean Text: '제2부두 말이야.'
 #: DialogScript[DG_Ch02Ev6Stage05_1_16].Script
-msgid "第2埠頭のことよ。"
+msgid "第二埠頭のことよ。"
 msgstr ""
 
 #  Korean Text: '네. 맞을 거예요. 그런데 왜 갑자기...'
 #: DialogScript[DG_Ch02Ev6Stage05_1_17].Script
-msgid "はい…。多分スクラッパーだと思います。ところでそんなに慌ててどうしたんです…？"
+msgid "はい…。多分それだと思います。ところでそんなに慌ててどうしたんです…？"
 msgstr ""
 
 #  Korean Text: '이런… 빨리 움직여야 되겠는데?'
@@ -45963,7 +45963,7 @@ msgstr ""
 
 #  Korean Text: '아! 제 2부두면… 혹시 데스포트?'
 #: DialogScript[DG_Ch02Ev6Stage05_1_20].Script
-msgid "ああッ！第2埠頭…もしかしてデスポート！？"
+msgid "ああッ！第二埠頭…もしかしてデスポート！？"
 msgstr ""
 
 #  Korean Text: '아마 거기일 거야. 철충들이 드글거리는 곳 중 하나일 걸?'
@@ -46044,7 +46044,7 @@ msgstr ""
 
 #  Korean Text: '누구도 주인님을 위한 내 자이언트 하트 블러드 초콜릿을 방해할 순 없으니까.'
 #: DialogScript[DG_Ch02Ev6Stage05_2_10].Script
-msgid "ご主人様に贈る私のジャイアントハートブラッドチョコレートは誰にも邪魔させないわ！"
+msgid "ご主人様に贈る、&n私のジャイアントハートブラッドチョコレートは誰にも邪魔させないわ！"
 msgstr ""
 
 #  Korean Text: '훗. 말 잘했어. 스토커. 이번은 같은 생각이야.'
@@ -46280,7 +46280,7 @@ msgstr ""
 
 #  Korean Text: '- 난 조용히 리리스에게 스크래퍼를 노리는 것에 대해 물었다.'
 #: DialogScript[DG_Ch02Ev6Stage06_1_9].Script
-msgid "- リリスにスクラッパーを探していることについてそれとなく聞いてみた。"
+msgid "- リリスに大型粉砕機を探していることについてそれとなく聞いてみた。"
 msgstr ""
 
 #  Korean Text: '- 리리스는 처음에는 이런저런 핑계를 대며 가는 이유를 밝히지 않으려 했지만 결국은 모든 걸 털어놓을 수 밖에 없었다.'
@@ -46344,7 +46344,7 @@ msgstr ""
 
 #  Korean Text: '주인님… 착한 리리스가… 주인님을 정말로 깜짝 놀라게 해드리겠어요. 정말로…'
 #: DialogScript[DG_Ch02Ev6Stage06_1_19].Script
-msgid "ご主人様…！善いリリスが…ご主人様を本当にびっくりさせてみせます！&n本当にびっくりさせますから…！"
+msgid "ご主人様…！良い子のリリスが…ご主人様を本当にびっくりさせてみせます！&n本当にびっくりさせますから…！"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage06_1_19].SelectionIndex[1]
@@ -46354,7 +46354,7 @@ msgstr ""
 #  Korean Text: '- 이 방법 밖엔 없다. 아무래도… 리리스와 리제에게만 맡겨놓긴 불안하니까. &n내가 이 전투를 이기게 해줄 수 밖에.'
 #: DialogScript[DG_Ch02Ev6Stage06_1_20].Script
 msgid ""
-"- この方法しかないないだろう。&nやはり、そんな危険な場所の戦闘をリリスとリーゼだけに任せておくわけにはいかない。&n俺が戦闘に勝たせるしかないだろう。"
+"- この方法しかないないだろう。&nやはり、そんな危険な場所の戦闘をリリスとリーゼだけに任せておくわけにはいかない。&n俺が戦闘に勝たせるしかない。"
 msgstr ""
 
 #  Korean Text: '주인님… 주인님껜 리리스의 힘으로 모든 걸 해드리고 싶은데…'
@@ -46560,7 +46560,7 @@ msgstr ""
 
 #  Korean Text: '오늘은… 아니 오늘까진 착한 리리스가 될 것 같으니 말야.'
 #: DialogScript[DG_Ch02Ev6Stage06_2_34].Script
-msgid "今日は…今日だけは善いリリスでいてあげるから。"
+msgid "今日は…今日だけは良い子のリリスでいてあげるから。"
 msgstr ""
 
 #  Korean Text: '사령관을 기다리고 있는 소완'
@@ -46620,7 +46620,7 @@ msgstr ""
 
 #  Korean Text: '지금 주인께선 저와 선약이 있으시니, 다음에 찾아오시지요.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_12].Script
-msgid "ご主人様は私との先約がありますわ…、また今度お越しください。"
+msgid "ご主人様は私との先約がありますわ…、また今度お越しくださいですわ。"
 msgstr ""
 
 #  Korean Text: '아, 네... 언제쯤 끝나시나요?'
@@ -46645,7 +46645,7 @@ msgstr ""
 
 #  Korean Text: '사령관한테... 거짓말을 해버리다니...'
 #: DialogScript[DG_Ch02Ev6Stage07_1_18].Script
-msgid "司令官に…嘘を言うなんて…"
+msgid "司令官に…嘘を吐くなんて…"
 msgstr ""
 
 #  Korean Text: '무리한 부탁을 들어주셔서 감사하옵니다.'
@@ -46738,7 +46738,7 @@ msgstr ""
 
 #  Korean Text: '- 불투명한 병 안에서 정체모를 액체가 찰랑인다.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_38].Script
-msgid "- 微妙に透明な瓶の中で正体不明の液体が揺れている…。今日の悪だくみはアレか…。"
+msgid "- 微妙に透明な瓶の中で正体不明の液体が揺れている…。&n今日の悪だくみはアレか…。"
 msgstr ""
 
 #  Korean Text: '오셨사옵니까.'
@@ -46810,7 +46810,7 @@ msgstr ""
 
 #  Korean Text: '- 소완이 젓가락으로 안주를 집어들었다.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_50].Script
-msgid "- ソワンが箸でつまみをひとつを摘まんだ。"
+msgid "- ソワンが箸でおつまみをひとつを摘まんだ。"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage07_1_50].SelectionIndex[1]
@@ -46880,7 +46880,7 @@ msgstr ""
 
 #  Korean Text: '- 소완의 눈빛이 흔들렸다. 그것을 보며 안주를 한 점 집어들었다.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_63].Script
-msgid "- ソワンの瞳が揺れ動く…それを見て俺は確信した。&nそしておつまみをひとつ摘まみ上げた。"
+msgid "- ソワンの瞳が揺れ動く…それを見て俺はさらに確信した。&nそしておつまみをひとつ摘まみ上げた。"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage07_1_63].SelectionIndex[1]
@@ -47010,7 +47010,7 @@ msgstr ""
 
 #  Korean Text: '- 일부러 강경하게 말했지만, 소완은 숨을 헐떡이면서도 빙그레 웃었다.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_86].Script
-msgid "- ソワンは平気そうなフリをしてニッコリと笑っているが、&n息は絶え絶えになっている。"
+msgid "- ソワンは平気そうなフリをしてニッコリと笑っているが、&nかなり苦しそうに息をしている。"
 msgstr ""
 
 #  Korean Text: '후후... 주인께서 소첩의 진심을 알아주신다면... 앞으로 그럴 일은 없을 것이옵니다.'
@@ -47055,7 +47055,7 @@ msgstr ""
 
 #  Korean Text: '하오니 소첩과 함께하는 이 시간만... 소첩만의 주인이 되어 주시옵소서.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_96].Script
-msgid "ですから私と…一緒にいるこの時だけは…私だけのご主人様になってくださいませ…。"
+msgid "ですから私と…一緒にいるこの時だけは…&n私だけのご主人様になってくださいませ…。"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage07_1_96].SelectionIndex[1]
@@ -47191,7 +47191,7 @@ msgstr ""
 
 #  Korean Text: '- 그냥 평범한... 아니, 맛있는 안주일 뿐이다.'
 #: DialogScript[DG_Ch02Ev6Stage07_1_117].Script
-msgid "- 普通の…いや、美味しい酒のおつまみだった。"
+msgid "- 普通の…いや、美味しいおつまみだった。"
 msgstr ""
 
 #  Korean Text: '마, 만난지는 얼마 안됐어도...!'
@@ -47220,7 +47220,7 @@ msgstr ""
 
 #  Korean Text: '- 다시 한 번 소완이 준비한 안주를 먹어보았지만 여전히 멀쩡하다. 그렇다는건...'
 #: DialogScript[DG_Ch02Ev6Stage07_1_123].Script
-msgid "- もう一度ソワンが作ったおつまみを食べてみたがやはり何ともない。ということは…"
+msgid "- もう一度ソワンが作ったおつまみを食べてみたがやはり何ともない。&nということは…"
 msgstr ""
 
 #: DialogScript[DG_Ch02Ev6Stage07_1_123].SelectionIndex[1]
@@ -47409,7 +47409,7 @@ msgstr ""
 
 #  Korean Text: '그래도 너는 이러다간 평생 주인님의 노리개조차 되지 못할걸?'
 #: DialogScript[DG_Ch02Ev6Stage07_2_6].Script
-msgid "でもあなた、このままだとご主人様のおもちゃにもなれないかもしれないわよ？一生。"
+msgid "でもあなた、このままだとご主人様のおもちゃにもなれないかもしれないわよ？&n一生。"
 msgstr ""
 
 #  Korean Text: '가장 서열이 낮아도 컴패니언에 들어오면... 최소한도로는 보장해주겠어.'
@@ -47429,7 +47429,7 @@ msgstr ""
 
 #  Korean Text: '착한 리리스는 이제 끝. 다음은 없...'
 #: DialogScript[DG_Ch02Ev6Stage07_2_10].Script
-msgid "善いリリスはもう終わり。次はないと思って…"
+msgid "良い子のリリスはもう終わり。次はないと思って…"
 msgstr ""
 
 #  Korean Text: '안녕하시옵니까, 리제 양. 리리스 양.'
@@ -47824,7 +47824,7 @@ msgstr ""
 
 #  Korean Text: '맞아요. 주인님께선 전과는 비교도 안될 정도로 능숙해지셨으니까요.'
 #: DialogScript[DG_Ch02Ev6Stage08_2_13].Script
-msgid "そうです。ご主人様は以前とは比べ物にならないくらい、上手くなられましたから…。"
+msgid "そうです。&nご主人様は以前とは比べ物にならないくらい、上手くなられましたから…。"
 msgstr ""
 
 #  Korean Text: '......어머.'
@@ -47919,7 +47919,7 @@ msgstr ""
 
 #  Korean Text: '- 얼마지나지 않아 노크 소리가 울리고 함장실 문이 열렸다.'
 #: DialogScript[DG_Ch02Ev6Stage08_2_34].Script
-msgid "- すると間もなくノックの音が聞こえ艦長室のドアが開いた。"
+msgid "- するとすぐにノックの音が聞こえ艦長室のドアが開いた。"
 msgstr ""
 
 #  Korean Text: '- 인사도 받는둥 마는둥하고 척척 걸어온 페로는 책상 위에 떡하니 걸터앉았다.'
@@ -48153,6 +48153,11 @@ msgstr ""
 #: DialogScript[DG_Ch02Ev7Stage03S_2_62].Char_Name_C
 msgid "スノーフェザー"
 msgstr "Snow Feather"
+
+#  Korean Text: '위험해요!'
+#: DialogScript[DG_Ch02Ev7Stage05_1_14].Script
+msgid "危ないです！"
+msgstr ""
 
 #  Korean Text: '다들 안녕?! 내가 새로 부임한 탐사 대장님이야! 박수로 맞이해주면 좋겠어.'
 #: DialogScript[DG_Ch03Ev2Stage01_1_1].Script
@@ -60967,31 +60972,31 @@ msgstr ""
 
 #  Korean Text: '- 사령관으로서 내 주 업무는 물론 전투 지휘다. 우리들의 생존에 직결되어 있는 문제니까.'
 #: DialogScript[DG_ChCS-10Stage01_1_1].Script
-msgid "―司令官としての俺の任務は主に戦闘指揮である。生存に直結される事柄だからだ。"
+msgid "- 司令官としての最も重要な仕事といえばもちろん戦闘指揮である。&nなぜなら、これは俺たちの生存に直結している事柄だからだ。"
 msgstr ""
 
 #  Korean Text: '- 그것 외에 다른 업무도 많지만, 그 중에서도 특히 우선순위가 높은 것이 대원들의 멘탈 관리.'
 #: DialogScript[DG_ChCS-10Stage01_1_2].Script
-msgid "―それ以外の業務もあるが、その中でも特に優先順位が高いのが隊員たちのメンタルケア。"
+msgid "- それ以外にも重要な仕事はたくさんある、その中で特に優先すべきなのは&n隊員たちのメンタルケアだろう。"
 msgstr ""
 
 #  Korean Text: '- 또 그 중에서도 우선순위가 높은 것은 중간에 오르카로 합류한 대원들이다.'
 #: DialogScript[DG_ChCS-10Stage01_1_3].Script
-msgid "―またその中でも優先順位が高いのがオルカに合流して間もない隊員たちだ。"
+msgid "- そして、そのメンタルケアが一番必要なのが、&nオルカに合流して間もない隊員たちだ。"
 msgstr ""
 
 #  Korean Text: '- 이번 차례인 뽀끄루는 내 앞에서 즐겁게 이야기하고 있다.'
 #: DialogScript[DG_ChCS-10Stage01_1_4].Script
-msgid "―自分の番になったポックルが俺の前で楽しくお喋りしている。"
+msgid "- 今回、面談することとなったポックルは、楽しそうにお喋りしている。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_4].SelectionIndex[1]
-msgid "特に問題はないってことでいいんだね？"
+msgid "つまり…特に問題はないってことだな？"
 msgstr ""
 
 #  Korean Text: '네, 오르카에 오기 전이랑 비교하면... 지금은 너무 좋아요.'
 #: DialogScript[DG_ChCS-10Stage01_1_5].Script
-msgid "はい。オルカに来る前に比べたら…今は幸せすぎるくらいです。"
+msgid "はい。オルカに来る前に比べたら…今は幸せすぎるくらいですよ。"
 msgstr ""
 
 #  Korean Text: '아, 그리고.'
@@ -61001,7 +61006,7 @@ msgstr ""
 
 #  Korean Text: '사장님이 골라주신 이 의상도 이젠 익숙해졌어요. 원래 작게 입는 걸 좋아해서 그런지... 헤헷.'
 #: DialogScript[DG_ChCS-10Stage01_1_7].Script
-msgid "社長に選んでもらったこの衣装も、今はすっかり慣れてしまいました。元の服も面積少なかったから…へへ。"
+msgid "社長が選んでくださったこの衣装も、今はもうすっかり慣れました。&n元々きつめの服が好きだったので…えへへ。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_7].SelectionIndex[1]
@@ -61010,17 +61015,17 @@ msgstr ""
 
 #  Korean Text: '- 기쁘게 자신의 의상을 내려다보는 뽀끄루의 모습에 마음이 아파진다.'
 #: DialogScript[DG_ChCS-10Stage01_1_8].Script
-msgid "―自分の服を嬉しく見下ろすポックルの姿に良心が痛くなる。"
+msgid "- 自分の服を嬉しそうに見ているポックルの姿に心が痛くなった。"
 msgstr ""
 
 #  Korean Text: '- 조금 더 신경써서 골라줬어야 했는데... 상황이 상황이었으니까...'
 #: DialogScript[DG_ChCS-10Stage01_1_9].Script
-msgid "―もっと考えて選んであげるべきだったのに…状況が状況だったしな…"
+msgid "- もう少し考えて選んであげるべきだった…。&nまぁあの時は状況が状況だったからな…"
 msgstr ""
 
 #  Korean Text: '거기다 백토랑 모모랑 같이 연습해서, 마법소녀 일도 이제 잘 할 수 있어요. 보실래요?'
 #: DialogScript[DG_ChCS-10Stage01_1_10].Script
-msgid "それに白兎やモモと練習して、魔法少女の仕事にも慣れました。見ます？"
+msgid "それに白兎やモモと練習して、魔法少女も出来るようになりました。&n見ます？"
 msgstr ""
 
 #  Korean Text: '매지컬☆뽀끄루, 등장!'
@@ -61030,26 +61035,26 @@ msgstr ""
 
 #  Korean Text: '어떤가요? 사장, 아니, 매직 젠틀맨!'
 #: DialogScript[DG_ChCS-10Stage01_1_12].Script
-msgid "いかがですか、社ちょ…じゃなかった、マジックジェントルマン！"
+msgid "どうでしょう…？社長…じゃなかった、マジック・ジェントルマン！"
 msgstr ""
 
 #  Korean Text: '- 천진하게 웃으며 마법☆소녀 포즈를 취하는 뽀끄루에게 나는 무슨 말을 해줘야 하는걸까...'
 #: DialogScript[DG_ChCS-10Stage01_1_13].Script
-msgid "―天真爛漫に微笑んで魔法☆少女の決めポーズをとるポックルに、俺はいったい何を話しかけたら良いだろうか。"
+msgid "- 屈託のない笑顔で魔法☆少女の決めポーズをとるポックル…。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_13].SelectionIndex[1]
-msgid "俺の魔王様を返せ…！"
+msgid "じゃあそのままで大魔王のセリフを！"
 msgstr ""
 
 #  Korean Text: '- 생활에 별 문제가 없다는 것은 확인했지만, &n혹시나 하는 마음에 화제를 자연스레 자질구레한 것으로 흘려보냈다.'
 #: DialogScript[DG_ChCS-10Stage01_1_15].Script
-msgid "―生活に特に困ってないと確認できたのは良いが、もしものこともあるし、世間話のほうへ話題を変える。"
+msgid "- 生活に特に問題はないと確認できたのは良いが、本人が気付いていない&n問題もあるかもしれないので、違う話題に話を切り替えてみる。"
 msgstr ""
 
 #  Korean Text: '- 이런저런 이야기를 나누던 중, 뽀끄루가 노래에 관한 이야기를 꺼냈다.'
 #: DialogScript[DG_ChCS-10Stage01_1_16].Script
-msgid "―あれやこれやと話すうちに。ポックルが歌に関する話を持ち出した。"
+msgid "- いろいろなことを話すうちに、ポックルが歌について話し始めた。"
 msgstr ""
 
 #  Korean Text: '마법소녀들은 노래도 하더라구요.'
@@ -61058,54 +61063,54 @@ msgid "魔法少女は歌も歌うらしいですよ。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_17].SelectionIndex[1]
-msgid "歌を歌う…だと？"
+msgid "ほう、歌う…？"
 msgstr ""
 
 #  Korean Text: '- 뭔가 착각한 거 아닌가?'
 #: DialogScript[DG_ChCS-10Stage01_1_18].Script
-msgid "―何か勘違いしているのではないだろうか。"
+msgid "- 何かと勘違いしているのでなかろうか…？"
 msgstr ""
 
 #  Korean Text: '네! 이런 살랑거리는 옷을 입고 무대 위에서 멋진 조명을 받으면서요!'
 #: DialogScript[DG_ChCS-10Stage01_1_19].Script
-msgid "はい！こんなひらひらの服を着て、舞台の上でスポットライトを詫びながらです！"
+msgid "はい！こんな風なかわいい服を着て、&nステージの上でスポットライトを浴びながら！"
 msgstr ""
 
 #  Korean Text: '안무도 하고, 꽉 들어찬 관중분들이 환호하고...'
 #: DialogScript[DG_ChCS-10Stage01_1_20].Script
-msgid "振り付けもあるし、ドームいっぱい観客たちも歓声をあげて…"
+msgid "ちゃんと振り付けもあってですね、&nたくさんの観客たちも歓声をあげてくれて…"
 msgstr ""
 
 #  Korean Text: '그런 곳에서 한 번 노래를 불러봤으면...'
 #: DialogScript[DG_ChCS-10Stage01_1_21].Script
-msgid "一度でも良いからあんな場所で歌えたらいいな…"
+msgid "一度でいいからそんなところで歌ってみたいです…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_21].SelectionIndex[1]
-msgid "俺の知る限りジャンルがちょっと違…いいや。"
+msgid "俺の知る限り、それはなんか違うのでは……いや……"
 msgstr ""
 
 #  Korean Text: '- 이제와선 어차피 별 의미 없겠지. 뽀끄루가 즐거우면 그만이다.'
 #: DialogScript[DG_ChCS-10Stage01_1_22].Script
-msgid "―今更言っても仕方ないか。ポックルは楽しそうならそれでいいだろう。"
+msgid "- 今更それを言っても仕方ないだろう。&nポックルが楽しいのならそれでいい。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_22].SelectionIndex[1]
-msgid "じゃ歌える舞台を用意してあげようか。"
+msgid "じゃあ、歌えるようにステージを作ってみようか？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_23].SelectionIndex[1]
-msgid "うん。大して手間もかからないしね。"
+msgid "うん。そこまで難しくはなさそうだし。"
 msgstr ""
 
 #  Korean Text: '- 관객이야 얼마든지 있고, 또 그런 행사는 대원들 사기 진작에도 도움이 되겠지.'
 #: DialogScript[DG_ChCS-10Stage01_1_24].Script
-msgid "―観客やいくらでもいるし、士気を上げるにもちょうど良いだろう。"
+msgid "- 観客ならうちの隊員がいるし、みんなの士気を上げるのにも&nちょうど良いだろう。"
 msgstr ""
 
 #  Korean Text: '- 뽀끄루 외에도 지원자를 받아서...'
 #: DialogScript[DG_ChCS-10Stage01_1_25].Script
-msgid "―ポックル以外にも志願者を集めて…"
+msgid "- ポックル以外にも、志願者を集めて…"
 msgstr ""
 
 #  Korean Text: '아, 사장님. 그런데...'
@@ -61115,75 +61120,76 @@ msgstr ""
 
 #  Korean Text: '저는 그런 귀여운 노래는 못 불러서요...'
 #: DialogScript[DG_ChCS-10Stage01_1_27].Script
-msgid "私、あんな可愛げのある歌は苦手でして…"
+msgid "私、あんな風に可愛らしい歌は苦手でして…"
 msgstr ""
 
 #  Korean Text: '지금 부를 수 있는 건 잔잔한 노래들밖에...'
 #: DialogScript[DG_ChCS-10Stage01_1_28].Script
-msgid "バラードのほうは自信あるんですけど…"
+msgid "今歌えるとしたら、バラードくらいしか…"
 msgstr ""
 
 #  Korean Text: '- 그런 노래라도 충분히 좋을 것 같지만 본인의 의사가 그렇다면야...'
 #: DialogScript[DG_ChCS-10Stage01_1_29].Script
-msgid "―俺はそっちも全然いいけど、ポックルにも思うところがあるのだろう…"
+msgid "- 俺としては別にそれでもいい気がするんだけど、ポックルがそう思うのなら&n本人の意思に任せよう…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage01_1_29].SelectionIndex[1]
-msgid "ゆっくり練習するといいよ。俺はその間ステージを用意してみるから。"
+msgid "まぁゆっくり練習しておいてくれ。ステージは何とかしてみるからさ。"
 msgstr ""
 
 #  Korean Text: '와아, 진짜요? 역시 사장, 아니. 매직 젠틀맨이에요!'
 #: DialogScript[DG_ChCS-10Stage01_1_30].Script
-msgid "わーい、本当ですか！？さすが社ちょ――マジックジェントルマンです！"
+msgid "わぁ！本当ですか！？さすが社長……じゃなくて、マジック・ジェントルマンです！"
 msgstr ""
 
 #  Korean Text: '감사해요. 매지컬 문 라이트의 가호가 매직 젠틀맨에게 함께하길!'
 #: DialogScript[DG_ChCS-10Stage01_1_31].Script
-msgid "ありがとうございます。マジカルムーンライトのご加護がマジックジェントルマンにあらんことを！"
+msgid "ありがとうございます。&nマジカルムーンライトのご加護がマジック・ジェントルマンにあらんことを！"
 msgstr ""
 
 #  Korean Text: '- 그냥 사장님이라고 해줘...'
 #: DialogScript[DG_ChCS-10Stage01_1_32].Script
-msgid "―社長呼びに戻して…"
+msgid "- やっぱ社長って呼んでくれないかな…"
 msgstr ""
 
 #  Korean Text: '- 상담은 어느새 완전히 잡담으로 흘러갔다.'
 #: DialogScript[DG_ChCS-10Stage02_1_1].Script
-msgid "―相談はいつの間にか雑談に変わっていた。"
+msgid "- 面談はいつの間にか完全にただの雑談に変わっていた。"
 msgstr ""
 
 #  Korean Text: '- 신나게 이야기하는 뽀끄루의 모습을 보는 것은 즐거웠지만, 슬슬 자리를 마무리 하려던 중 함장실 문이 열렸다.'
 #: DialogScript[DG_ChCS-10Stage02_1_2].Script
-msgid "―ノリノリでお喋りするポックルを見守るのも楽しかったけど、時間の都合でお開きにしようとしたら、艦長室のドアが開いた。"
+msgid ""
+"- 楽しそうにお喋りするポックルを見ているのも楽しかったが、問題も&nなさそうだし、そろそろお開きにしようかと思っていたら、艦長室のドアが開いた。"
 msgstr ""
 
 #  Korean Text: '오빠 안녕~ 뽀끄루 언니도 안녕~'
 #: DialogScript[DG_ChCS-10Stage02_1_3].Script
-msgid "お兄ちゃん、こんちゃー。ポックルお姉ちゃんもこんちゃー"
+msgid "お兄ちゃん、こんにちは～。ポックルお姉ちゃんもこんにちは～"
 msgstr ""
 
 #  Korean Text: '아, 닥터. 안녕하세요.'
 #: DialogScript[DG_ChCS-10Stage02_1_4].Script
-msgid "あ、ドクター。こんにちは。"
+msgid "あ、博士さん。こんにちは。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_4].SelectionIndex[1]
-msgid "こんにちは。どうしたの？"
+msgid "こんにちは。どうした？"
 msgstr ""
 
 #  Korean Text: '저번에 말한 뽀끄루 언니의 뿔 연구가 다 끝났다구~!'
 #: DialogScript[DG_ChCS-10Stage02_1_5].Script
-msgid "件のポックルお姉ちゃんの角の研究が終わったよー！"
+msgid "前に言ってたポックルお姉ちゃんの角の研究が終わったよ～！"
 msgstr ""
 
 #  Korean Text: '여기, 레플리카를 만들어왔어.'
 #: DialogScript[DG_ChCS-10Stage02_1_6].Script
-msgid "はい、これ。レプリカを作ってみたの。"
+msgid "んで、はいコレ。レプリカを作ってみたよ。"
 msgstr ""
 
 #  Korean Text: '- 닥터가 내민 레플리카를 받아들었다. 그걸 본 뽀끄루의 안색이 조금 어두워졌다.'
 #: DialogScript[DG_ChCS-10Stage02_1_7].Script
-msgid "―ドクターからレプリカを受け取る。それを見たポックルの顔色が悪くなった。"
+msgid "- ドクターからレプリカを受け取る。&nそれを見たポックルの顔色が少し悪くなった。"
 msgstr ""
 
 #  Korean Text: '이, 이걸 다시 쓰는 건가요? 이젠 싫은데...'
@@ -61193,109 +61199,109 @@ msgstr ""
 
 #  Korean Text: '최종 조정을 위해서 원 사용자인 언니가 써 보긴 해야 돼.'
 #: DialogScript[DG_ChCS-10Stage02_1_9].Script
-msgid "最終調整のためにも元の持ち主であるお姉ちゃんが使ってみないといけないの。"
+msgid "最終調整のためにも、元の持ち主のお姉ちゃんに&n使ってもらわないといけないんだよ～。"
 msgstr ""
 
 #  Korean Text: '그래도 걱정하지 마. 원래 있던 세뇌 능력은 빼 버리고 일종의 보조 전투모듈처럼 기능하게 만들었어.'
 #: DialogScript[DG_ChCS-10Stage02_1_10].Script
-msgid "でも心配しないで。元の洗脳機能を除去してただの戦闘補助モジュールにしたから。"
+msgid "でも心配しないで。&n元々あった洗脳機能を排除して、ただの戦闘補助モジュールにしてるから。"
 msgstr ""
 
 #  Korean Text: '시간이 모자라서 부작용까지 완전히 없애진 못했는데, 위험하진 않을거야.'
 #: DialogScript[DG_ChCS-10Stage02_1_11].Script
-msgid "時間が足りなくて副作用までは消せなかったけど、まぁ危なくはないと思うよ？"
+msgid "時間が足りなくて、副作用までは完全に消せなかったけど、&nまぁ危険はないと思うよ？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_11].SelectionIndex[1]
-msgid "…元の研究目的って違うやつじゃなかった？"
+msgid "…前言ってた研究の目的と少し違わないか？"
 msgstr ""
 
 #  Korean Text: '- 굉장히 불온한 이야기를 들었던 것 같은데...'
 #: DialogScript[DG_ChCS-10Stage02_1_12].Script
-msgid "―聞き捨てならないことを言われた気がするけど…"
+msgid "- ……ん？&n今、サラっと聞き捨てならないことを言われた気がするんだけど…"
 msgstr ""
 
 #  Korean Text: '아, 그거? 그건 이제 됐어. 훨~씬 더 좋은 방법이 생겼으니까.'
 #: DialogScript[DG_ChCS-10Stage02_1_13].Script
-msgid "あ、それ？それはもう良いよ。も～っと良い方法があるから。"
+msgid "あ、そっち？そっちはもう良いんだ～。&nも～っと良い方法を思いついたから！"
 msgstr ""
 
 #  Korean Text: '그럼 마무리는 부탁해! 나는 마저 연구하러 가봐야 돼서 이만!'
 #: DialogScript[DG_ChCS-10Stage02_1_14].Script
-msgid "じゃ仕上げは頼んだよ！私は残りの研究もあるからこれで！"
+msgid "じゃあ、仕上げはお願いするね！&n私は残りの研究もあるからこれで！"
 msgstr ""
 
 #  Korean Text: '히힛, 그거만 완성시키면 어른이...!'
 #: DialogScript[DG_ChCS-10Stage02_1_15].Script
-msgid "ひひ、あれを完成したらやっと大人に…！"
+msgid "ひひ、あれが完成したら、ついに大人に…！"
 msgstr ""
 
 #  Korean Text: '- 붙잡을 새도 없이 닥터는 쌩 하고 사라져버렸다.'
 #: DialogScript[DG_ChCS-10Stage02_1_16].Script
-msgid "―掴む暇もなくドクターは消えてしまった。"
+msgid "- 取り付く島もなくドクターは消えてしまった。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_16].SelectionIndex[1]
-msgid "ま、待たんか！使い方は教えてから行け！"
+msgid "ちょ、ちょっと待て！使い方を教えてくれ！"
 msgstr ""
 
 #  Korean Text: '아, 맞다맞다.'
 #: DialogScript[DG_ChCS-10Stage02_1_17].Script
-msgid "あ、そうだったそうだった。"
+msgid "ああ、そうだったそうだった。"
 msgstr ""
 
 #  Korean Text: '자동으로 조정되게 짜 놨으니까 그걸 그냥 언니한테 씌우면 돼.'
 #: DialogScript[DG_ChCS-10Stage02_1_18].Script
-msgid "オートで調整されるからただ被ってるだけでいいよ。"
+msgid "自動で調整されるように組んでおいたから、&nただお姉ちゃんに被せるだけでいいよ。"
 msgstr ""
 
 #  Korean Text: '도중에 벗거나 하면 처음부터 다시 해야하니까 조심하고, 또...'
 #: DialogScript[DG_ChCS-10Stage02_1_19].Script
-msgid "途中で外したりしたら最初からやらないといけないから気を付けてね。あと…"
+msgid "途中で外したりしたら最初からやり直さないといけなくなるから気を付けてね。&nあと…"
 msgstr ""
 
 #  Korean Text: '조정 중에 아~주 사소~한 이상행동을 보일 수가 있는데, 너무 걱정하지 마. 정상이니까.'
 #: DialogScript[DG_ChCS-10Stage02_1_20].Script
-msgid "調整中にちょ～っと変な挙動を見せるかもしれないけど、気にしないで。仕様だから。"
+msgid "調整中にちょ～っとおかしな挙動を見せるかもしれないけど、&nあんまり気にしないでね。仕様だから。"
 msgstr ""
 
 #  Korean Text: '그럼 난 간다~ 흐흐흐...'
 #: DialogScript[DG_ChCS-10Stage02_1_21].Script
-msgid "じゃ、行くねー…ぐへへ…"
+msgid "じゃあ、私は行くね～…フヒヒ…"
 msgstr ""
 
 #  Korean Text: '- 속사포처럼 설명을 늘어놓은 닥터가 불길하게 웃으며 다시 사라졌다.'
 #: DialogScript[DG_ChCS-10Stage02_1_22].Script
-msgid "―マシンガンの如く説明を述べたドクターは、不気味な笑みとともに姿を消した。"
+msgid "- マシンガンの如く説明を述べたドクターは、不気味な笑みとともに姿を消した。"
 msgstr ""
 
 #  Korean Text: '- 한동안 멍하니 닥터가 사라진 곳을 보고 있던 뽀끄루가 울상을 지었다.'
 #: DialogScript[DG_ChCS-10Stage02_1_23].Script
-msgid "―暫くぼーっとして、ドクターが消えるのを見ていたポックルが泣き顔になる。"
+msgid "- しばらくぼーっとドクターが消えていくのを見ていたポックルは、&nドクターが完全に見えなくなるとじわっと泣き顔になった。"
 msgstr ""
 
 #  Korean Text: '사, 사장님... 어떻게 하죠...?'
 #: DialogScript[DG_ChCS-10Stage02_1_24].Script
-msgid "しゃ、社長…どうしましょう…"
+msgid "しゃ、社長…どうしましょう…？"
 msgstr ""
 
 #  Korean Text: '- 닥터가 아무리 엉뚱한 면이 있다고 해도 해가 되는 행동은 하지 않을 거라고 생각한다.'
 #: DialogScript[DG_ChCS-10Stage02_1_25].Script
-msgid "―まぁドクターが悪戯するときは良くあるけど、傷つけるようなことはしないと思う。"
+msgid "- まぁドクターはよく滅茶苦茶なことをするが、&nさすがに俺たちに害のあることはしないと思う。"
 msgstr ""
 
 #  Korean Text: '- 문제는, 뽀끄루도 그렇게 생각하느냐는 건데...'
 #: DialogScript[DG_ChCS-10Stage02_1_26].Script
-msgid "―問題は、ポックルもどう思ってるのかだけど…"
+msgid "- 問題は、ポックルもそう思ってるのかどうかだけど…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_26].SelectionIndex[1]
-msgid "まずは…"
+msgid "まぁ、そうだなぁ"
 msgstr ""
 
 #  Korean Text: '저기, 사장님. 사장님은 닥터 씨를 믿으시죠...?'
 #: DialogScript[DG_ChCS-10Stage02_1_27].Script
-msgid "あの、社長。社長はドクターを信じてますよね…？"
+msgid "あの、社長。社長は博士さんを信じてますよね…？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_27].SelectionIndex[1]
@@ -61304,50 +61310,50 @@ msgstr ""
 
 #  Korean Text: '그럼 괜찮아요. 닥터를 믿는 사장님을 믿을게요.'
 #: DialogScript[DG_ChCS-10Stage02_1_28].Script
-msgid "だったら大丈夫です。ドクターを信じる社長を信じます。"
+msgid "だから私は大丈夫です。博士さんを信じる社長を信じます。"
 msgstr ""
 
 #  Korean Text: '아앗, 그, 그렇다고 제가 닥터를 못믿는다는 건 아니구요...'
 #: DialogScript[DG_ChCS-10Stage02_1_29].Script
-msgid "はっ！？け、決してドクターが信用ならないってわけじゃないですから…！"
+msgid "ああっ！えっと！&nつまり…決して博士さんが信じられないってわけじゃないですよ…！"
 msgstr ""
 
 #  Korean Text: '그냥 저 뿔에 조금... 안 좋은 기억이 있으니까...'
 #: DialogScript[DG_ChCS-10Stage02_1_30].Script
-msgid "ただ、その…あの角には良い思い出がなくて…"
+msgid "ただ、あの角にはあんまり…良い思い出がなくてですね…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_30].SelectionIndex[1]
-msgid "わかった。俺を信じて。"
+msgid "わかってる。俺を信じて。"
 msgstr ""
 
 #  Korean Text: '- 내가 웃어주자 뽀끄루의 입가에도 미소가 피어났다.'
 #: DialogScript[DG_ChCS-10Stage02_1_31].Script
-msgid "―俺が笑い返すとポックルも微笑みを取り戻した。"
+msgid "- 俺が笑って言うと、ポックルもさっきの笑顔を取り戻し、頷いた。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage02_1_31].SelectionIndex[1]
-msgid "始めようか。"
+msgid "始めようか？"
 msgstr ""
 
 #  Korean Text: '- 다리를 모으고 눈을 감은 채 얌전히 앉아 있는 뽀끄루에게 다가섰다.'
 #: DialogScript[DG_ChCS-10Stage02_1_33].Script
-msgid "―目を瞑り足を揃えて大人しく座っているポックルに近づく。"
+msgid "- 目を閉じ、足を揃えて大人しく椅子に座るポックルに近づく。"
 msgstr ""
 
 #  Korean Text: '- 뽀끄루의 부스스하면서도 풍성한 머리에 뿔을 씌우자, 감겨 있던 두 눈이 번쩍 뜨였다.'
 #: DialogScript[DG_ChCS-10Stage02_1_34].Script
-msgid "―ポックルの毛量豊かな長いくせ毛に角を被せると、瞑っていた両目が、ぱっと開かれた。"
+msgid "- ポックルのボサボサして毛量のある髪に角を被せると、瞑っていた両目が、&nパッ！と開いた。"
 msgstr ""
 
 #  Korean Text: '- 뽀끄루의 눈은 왠지 생기가 없어 보였다.'
 #: DialogScript[DG_ChCS-10Stage03_1_1].Script
-msgid "―ポックルの目からハイライトが消えた。"
+msgid "- しかしすぐにポックルの目からは生気が消えて虚ろになった。"
 msgstr ""
 
 #  Korean Text: '- 이거, 리제한테서 많이 보던 눈빛인데...'
 #: DialogScript[DG_ChCS-10Stage03_1_2].Script
-msgid "―これ、リーゼから良く見る目なんだけど…"
+msgid "- これ、リーゼの目つきに似てる……！"
 msgstr ""
 
 #  Korean Text: '네, 사장님. 괜찮아요...'
@@ -61357,82 +61363,82 @@ msgstr ""
 
 #  Korean Text: '- 조금 위태로워 보이긴 하지만, 일단 큰 문제는 없어보인다.'
 #: DialogScript[DG_ChCS-10Stage03_1_4].Script
-msgid "―少し危うく見えるけど、大きな問題はなさそうだ。"
+msgid "- 少し危ない感じがするけど、大した問題はなさそうだ。"
 msgstr ""
 
 #  Korean Text: '- 멍하니 허공을 응시하고 있는 뽀끄루의 앞에 앉아 한숨을 내쉬었다.'
 #: DialogScript[DG_ChCS-10Stage03_1_5].Script
-msgid "―ぼーっと天井を見上げているポックルの前に座り溜息を吐く。"
+msgid "- ぼんやりと虚空を見つめているポックルの前に座って、ため息を吐く。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_5].SelectionIndex[1]
-msgid "次の日程は…キルケーと…　…っ！？"
+msgid "えーっと、次の面談は…キルケー……っと！？"
 msgstr ""
 
 #  Korean Text: '- 습관적으로 혼잣말을 되뇌이며 생각을 정리하던 도중 갑자기 손을 붙잡혔다.'
 #: DialogScript[DG_ChCS-10Stage03_1_6].Script
-msgid "―習慣的に一人言を呟いて考えをまとめていたら、いきなり手首を掴まれた。"
+msgid "- つい癖で、独り言を呟いて頭の中を整理していたら、いきなり手を掴まれた。"
 msgstr ""
 
 #  Korean Text: '사장님...? 지금 뭐라고 하셨죠...?'
 #: DialogScript[DG_ChCS-10Stage03_1_7].Script
-msgid "社長…？今、何と言いました…？"
+msgid "社長…？今、何と言いましたか…？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_7].SelectionIndex[1]
-msgid "あ、ごめん。独り言をちょっと…"
+msgid "ああ、ごめん。独り言をちょっと…"
 msgstr ""
 
 #  Korean Text: '아뇨... 말씀하시는 건 좋아요... 사장님의 목소리는... 헤헷...'
 #: DialogScript[DG_ChCS-10Stage03_1_8].Script
-msgid "いいえ…独り言なら良いです…社長の声なら…いくらでも…えへへ…"
+msgid "いいえ…独り言はいいんです…社長の声は…本当に…へへっ…"
 msgstr ""
 
 #  Korean Text: '그거 말고요.'
 #: DialogScript[DG_ChCS-10Stage03_1_9].Script
-msgid "でも違いますよね？"
+msgid "それじゃないです…"
 msgstr ""
 
 #  Korean Text: '다른 분의 이름을 입에 담으신 것 같은데요?'
 #: DialogScript[DG_ChCS-10Stage03_1_10].Script
-msgid "「他のおん…人の名前を口にしたような気がしますけど？"
+msgid "私以外の名前を口にしたような気がするんですけど？"
 msgstr ""
 
 #  Korean Text: '- 머릿속에서 경종이 울린다.'
 #: DialogScript[DG_ChCS-10Stage03_1_11].Script
-msgid "―頭の中で激しくアラムが鳴る。"
+msgid "- 頭の中で警報が激しく鳴っている。"
 msgstr ""
 
 #  Korean Text: '- 익숙한 상황이다. 침착하게 대처해야...'
 #: DialogScript[DG_ChCS-10Stage03_1_12].Script
-msgid "―俺はこの状況を知っている。気を付けないと…"
+msgid "- これはおなじみのあの状況だ…。落ち着いて対処しないと大変なことになる…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_12].SelectionIndex[1]
-msgid "そんなわけないだろ？俺にはポックルだけだよ。"
+msgid "そんなわけないだろ？俺にはポックルしかいないよ。"
 msgstr ""
 
 #  Korean Text: '- 미봉책이지만 일단 이 상황을 벗어나야 한다. 제대로 된 케어를 해주는 것은 그 다음이다.'
 #: DialogScript[DG_ChCS-10Stage03_1_13].Script
-msgid "―先ずはこの状況から脱するために取り繕おう。ちゃんとしたケアはその後だ。"
+msgid "- まずこの状況から脱するためには取り繕うしかない。&nちゃんとしたケアはその後だ。"
 msgstr ""
 
 #  Korean Text: '- 역시 효과가 있었는지 뽀끄루의 얼굴이 환해졌다.'
 #: DialogScript[DG_ChCS-10Stage03_1_14].Script
-msgid "―効果があったのかポックルの顔が明るくなった。"
+msgid "- 効果があったのかポックルの顔が明るくなった。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_15].SelectionIndex[1]
-msgid "ま、まずはこれを放してくれないかな…"
+msgid "ま、まずは手を放してくれないかな…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_16].SelectionIndex[1]
-msgid "ゑ…？"
+msgid "あっ…？"
 msgstr ""
 
 #  Korean Text: '거짓말을 하시네요, 사장님.'
 #: DialogScript[DG_ChCS-10Stage03_1_17].Script
-msgid "嘘。"
+msgid "嘘。&n嘘ですね、社長。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_17].SelectionIndex[1]
@@ -61441,46 +61447,46 @@ msgstr ""
 
 #  Korean Text: '- 순간적으로 몸을 당겨져 바닥에 쓰러졌다. 내 몸 위에 올라탄 뽀끄루의 흘러내린 머리카락이 얼굴을 간질인다.'
 #: DialogScript[DG_ChCS-10Stage03_1_18].Script
-msgid "―一気に引っ張られて床に倒された。俺に馬乗りにしたポックルから垂れた髪の毛が俺の顔を撫でる。"
+msgid "- 一気に体を引っ張られて床に倒された。&n仰向けの俺に馬乗りになったポックルから垂れる長い髪が、俺の顔をくすぐる。"
 msgstr ""
 
 #  Korean Text: '왜 저를 두고 다른 분에게 가시려는 거예요...?'
 #: DialogScript[DG_ChCS-10Stage03_1_19].Script
-msgid "なんで私を置いてけぼりにして、他の女のところへ行っちゃうのですか…？"
+msgid "どうして私を置いて、他の人のところに行こうとするんですか…？"
 msgstr ""
 
 #  Korean Text: '- 당연하지만 마법☆소녀가 되었음에도 뽀끄루의 신체 능력은 대마왕일 때보다 줄어들지 않았다.'
 #: DialogScript[DG_ChCS-10Stage03_1_20].Script
-msgid "―当たり前だが、魔法☆少女になってもポックル大魔王の身体能力は健在だ。"
+msgid "- 当たり前だが、ポックルの身体能力は魔法☆少女になっても大魔王のままだ。"
 msgstr ""
 
 #  Korean Text: '- 내 위에 올라탄 뽀끄루와 팽팽한 힘겨루기가 계속됐다.'
 #: DialogScript[DG_ChCS-10Stage03_1_21].Script
-msgid "―俺の上に乗ったポックルとの力比べが続く。"
+msgid "- 俺の上に乗ったままポックルとの力比べが続く。"
 msgstr ""
 
 #  Korean Text: '헤헷... 사장님은... 전부 제 거예요...'
 #: DialogScript[DG_ChCS-10Stage03_1_22].Script
-msgid "えへへ…社長の全ては…私のモノですから…"
+msgid "えへへっ…社長は…ぜんぶ私のモノですから…"
 msgstr ""
 
 #  Korean Text: '머리카락 한 올 부터... 세포 하나 하나... 전부...'
 #: DialogScript[DG_ChCS-10Stage03_1_23].Script
-msgid "髪の毛一本から…細胞一粒まで…全部…"
+msgid "髪の毛一本から…細胞一つ一つまで…ぜんぶ…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_23].SelectionIndex[1]
-msgid "うりゃぁぁぁぁー！！"
+msgid "ぬうおおおおおおおおー！！"
 msgstr ""
 
 #  Korean Text: '- 젖먹던 힘까지 짜내어 간신히 뽀끄루의 뿔을 벗겨냈다.'
 #: DialogScript[DG_ChCS-10Stage03_1_24].Script
-msgid "―火事場の力でやっとポックルから角を外した。"
+msgid "- 火事場の馬鹿力でなんとかポックルの頭から角を外した。"
 msgstr ""
 
 #  Korean Text: '- 그러자 뽀끄루는 내 위로 풀썩 무너져 내렸다.'
 #: DialogScript[DG_ChCS-10Stage03_1_26].Script
-msgid "―すると糸が切れたようにポックルが俺の上に崩れた。"
+msgid "- するとポックルは糸が切れたように俺の上で倒れた。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_26].SelectionIndex[1]
@@ -61489,12 +61495,12 @@ msgstr ""
 
 #  Korean Text: '- 고개만 들고 나를 멍하니 내려다보던 뽀끄루의 얼굴이 화악 붉어졌다.'
 #: DialogScript[DG_ChCS-10Stage03_1_27].Script
-msgid "―顔だけ上げて俺を見上げたポックルの顔が一気に赤くなる。"
+msgid "- 顔だけ上げて俺をぼんやり見ていたポックルは、&n俺と目が合うと顔が一気に赤くなった。"
 msgstr ""
 
 #  Korean Text: '사사사사사장님...?! 제, 제가 무슨 짓을...!'
 #: DialogScript[DG_ChCS-10Stage03_1_28].Script
-msgid "しゃしゃしゃしゃ社長…！？わ、私、いったい何を…！？"
+msgid "しゃしゃしゃ社長…！？わ、私、いったい何を……！？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_28].SelectionIndex[1]
@@ -61503,40 +61509,40 @@ msgstr ""
 
 #  Korean Text: '- 내 물음에 잠시 얼어붙었던 뽀끄루가 천천히 고개를 저었다.'
 #: DialogScript[DG_ChCS-10Stage03_1_29].Script
-msgid "―俺の問いかけに一瞬凍ってしまったポックルがゆっくる横に振る。"
+msgid "'- 俺の問いかけにしばらく凍りついていたが、&nポックルがゆっくりと首を横に振った。"
 msgstr ""
 
 #  Korean Text: '......다 기억나요... 우으, 그런 짓을 하다니...'
 #: DialogScript[DG_ChCS-10Stage03_1_30].Script
-msgid "……全部覚えています…うぅ…あんなことをするなんて…"
+msgid "……全部覚えています…うぅ…あんなことをしたなんて…"
 msgstr ""
 
 #  Korean Text: '죄송해요......'
 #: DialogScript[DG_ChCS-10Stage03_1_31].Script
-msgid "ごめんなさい……"
+msgid "申し訳ありません……"
 msgstr ""
 
 #  Korean Text: '- 울먹이는 뽀끄루의 팔을 조심스럽게 잡았다.'
 #: DialogScript[DG_ChCS-10Stage03_1_32].Script
-msgid "―泣き顔のポックルの腕をそっと掴む。"
+msgid "- 今にも泣きそうになっているポックルの腕をそっと撫でてあげる。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_32].SelectionIndex[1]
-msgid "怪我してたら二人で怒られただろうけど、違うだろ？大丈夫だよ。"
+msgid "怪我でもしたら皆に怒られる話だけど、違うだろ？大丈夫。"
 msgstr ""
 
 #  Korean Text: '흑... 네에...'
 #: DialogScript[DG_ChCS-10Stage03_1_33].Script
-msgid "くすん…はいぃ…"
+msgid "くすん…はい…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_33].SelectionIndex[1]
-msgid "起きよう。"
+msgid "起きようか。"
 msgstr ""
 
 #  Korean Text: '- 몸을 일으키려 했지만 뽀끄루는 날 꼭 붙잡고 놓아주지 않았다.'
 #: DialogScript[DG_ChCS-10Stage03_1_34].Script
-msgid "―体を起こそうとしたが、ポックルは俺を抱きしめて離れてくれない。"
+msgid "- 体を起こそうとしたが、ポックルは俺に抱きついて離れてくれない。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_34].SelectionIndex[1]
@@ -61545,79 +61551,79 @@ msgstr ""
 
 #  Korean Text: '저, 저기 사장님... 조금만...'
 #: DialogScript[DG_ChCS-10Stage03_1_35].Script
-msgid "あ、あの、社長…少しだけ…"
+msgid "あ、あの、社長…もう少しだけ…"
 msgstr ""
 
 #  Korean Text: '...조금만 더 이렇게 있으면... 안 될까요?'
 #: DialogScript[DG_ChCS-10Stage03_1_36].Script
-msgid "あと少しだけこうしていたら…駄目でしょうか。"
+msgid "あともう少しだけこうしてちゃ…駄目でしょうか？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage03_1_36].SelectionIndex[1]
-msgid "…駄目じゃないさ。"
+msgid "…駄目じゃないよ。"
 msgstr ""
 
 #  Korean Text: '네. 헤헷...'
 #: DialogScript[DG_ChCS-10Stage03_1_37].Script
-msgid "はい。えへへ…"
+msgid "はい。へへへ…"
 msgstr ""
 
 #  Korean Text: '- 뽀끄루가 작게 웃으며 내 어깨에 얼굴을 파묻었다.'
 #: DialogScript[DG_ChCS-10Stage03_1_38].Script
-msgid "―ポックルが柔らかく微笑み俺の肩に顔を埋めた。"
+msgid "- ポックルが嬉しそうに微笑んで、俺の肩に顔を埋めた。"
 msgstr ""
 
 #  Korean Text: '- 등에 닿는 딱딱하고 차가운 바닥의 감촉과 정반대로 부드럽고 따뜻한 뽀끄루를 살며시 끌어안았다.'
 #: DialogScript[DG_ChCS-10Stage03_1_39].Script
-msgid "―背中に当たる固い床の感触とは正反対で柔らくて温かなポックルをそっと抱きしめた。"
+msgid "- 背中に当たる固い床の感触とは対照的に、柔らくて温かみのあるポックルを&nそっと抱きしめた。"
 msgstr ""
 
 #  Korean Text: '- 조심스레 등을 쓸어주자 얇은 옷 너머로 느껴지는 심장박동이 천천히 안정을 되찾았다.'
 #: DialogScript[DG_ChCS-10Stage03_1_40].Script
-msgid "―ゆっくり背中を撫でると、薄い服の向こうから伝わってくる鼓動が段々安静を取り戻していった。"
+msgid "- ゆっくりと背中を撫でると、薄い衣装越しに伝わってくる鼓動が&nだんだんゆっくりになっていくのがわかった。"
 msgstr ""
 
 #  Korean Text: '- 안정을 되찾은 뽀끄루와 다시 마주보고 앉았다.'
 #: DialogScript[DG_ChCS-10Stage04_1_1].Script
-msgid "―安定を取り戻したポックルと再び向き合いで座る。"
+msgid "- 落ち着きを取り戻したポックルと再び向かい合って座る。"
 msgstr ""
 
 #  Korean Text: '- 완전히 풀어진 얼굴로 싱글거리던 뽀끄루의 얼굴이 내가 뿔을 집어들자 순식간에 의기소침해졌다.'
 #: DialogScript[DG_ChCS-10Stage04_1_2].Script
-msgid "―完全復活して楽しく笑っていたのに、俺がまた角を持ち上げると意気消沈してしまうポックル。"
+msgid "- 安心したのか、楽しそうに笑い始めたが、俺がまた例の角を取り出すと、&nポックルはあっという間に意気消沈してしまった。"
 msgstr ""
 
 #  Korean Text: '다, 다시 해야 되는 거겠죠...?'
 #: DialogScript[DG_ChCS-10Stage04_1_3].Script
-msgid "や、やり直さないといけないんですよね…？"
+msgid "また最初から、やり直さないといけないんですよね…？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_3].SelectionIndex[1]
-msgid "心配しないで。おかしくなったらすぐ外してあげるから。"
+msgid "心配するな。おかしくなったらすぐ外すから。"
 msgstr ""
 
 #  Korean Text: '- 어깨를 축 늘어뜨렸던 뽀끄루의 표정이 조금 밝아졌다.'
 #: DialogScript[DG_ChCS-10Stage04_1_4].Script
-msgid "―肩を落としていたポックルの顔が少しは明るくなった。"
+msgid "- 肩をガックリと落としていたポックルの顔が少し明るくなった。"
 msgstr ""
 
 #  Korean Text: '- 신뢰가 가득 담긴 눈동자로 나를 바라보던 뽀끄루가 살짝 고개를 끄덕였다.'
 #: DialogScript[DG_ChCS-10Stage04_1_5].Script
-msgid "―信頼の瞳で俺を見つめるポックルが小さく頷く。"
+msgid "- 信頼でいっぱいの瞳で俺を見つめていたポックルは、小さく頷いた。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_5].SelectionIndex[1]
-msgid "かけるよ。"
+msgid "被せるよ。"
 msgstr ""
 
 #  Korean Text: '- 눈을 내리깔고 얌전히 앉아 있는 뽀끄루에게 다시 뿔을 씌웠다.'
 #: DialogScript[DG_ChCS-10Stage04_1_6].Script
-msgid "―目を伏せて大人しく座っているポックルに、もう一度角を被らせた。"
+msgid "- 目を伏せて大人しく座っているポックルに、もう一度角を被らせた。"
 msgstr ""
 
 #  Korean Text: '- 무슨 일이 일어나도 바로 반응할 수 있도록 온 몸을 긴장시키고 있을 때, 생각지도 못한 소리가 들렸다.'
 #: DialogScript[DG_ChCS-10Stage04_1_7].Script
-msgid "―何が起きてもすぐ対応できるよう全身を緊張させていたが、思いもしなかった声が聞こえた。"
+msgid "- 何が起こってもすぐ対応できるように全身を緊張させていたが、&nポックルは思いもよらぬ声を発した。"
 msgstr ""
 
 #  Korean Text: '냥.'
@@ -61626,27 +61632,27 @@ msgid "にゃん。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_8].SelectionIndex[1]
-msgid "……にゃん？"
+msgid "…にゃん？"
 msgstr ""
 
 #  Korean Text: '냐앙~'
 #: DialogScript[DG_ChCS-10Stage04_1_9].Script
-msgid "にゃーん。"
+msgid "にゃあ～。"
 msgstr ""
 
 #  Korean Text: '- 충격에 얼어붙어 있는 나를 의아하다는 듯 바라보며, 뽀끄루는 손등을 핥기 시작했다.'
 #: DialogScript[DG_ChCS-10Stage04_1_10].Script
-msgid "―ショックにフリーズしてしまった俺を見て頭を傾げたポックルは、自分の手の甲をな舐め始めた。"
+msgid "- あまりの衝撃にフリーズしてしまった俺を見て、不思議そうに首を傾げる&nポックルは、自分の手の甲を舐め始めた。"
 msgstr ""
 
 #  Korean Text: '- 마치... 고양이처럼.'
 #: DialogScript[DG_ChCS-10Stage04_1_11].Script
-msgid "―まるで…猫のように。"
+msgid "- まるで…猫のように。"
 msgstr ""
 
 #  Korean Text: '사장님~ 냐앙~ 헤헷...'
 #: DialogScript[DG_ChCS-10Stage04_1_12].Script
-msgid "社長にゃ～えへへ…"
+msgid "社長～にゃ～ん。へへっ…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_12].SelectionIndex[1]
@@ -61655,66 +61661,66 @@ msgstr ""
 
 #  Korean Text: '- 완전히 고양이가 되어버린 것은 아닌듯, 뽀끄루는 나를 부르며 안겨들었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_13].Script
-msgid "―完全に猫になったわけではないらしく。ポックルは俺を呼びながら腕の中へ飛び込んできた。"
+msgid "- いや、完全に猫になったわけではないらしく。&nポックルは俺のことを呼びながら俺の胸に潜り込んできた。"
 msgstr ""
 
 #  Korean Text: '사장님~ 쓰다듬어달라냥~'
 #: DialogScript[DG_ChCS-10Stage04_1_14].Script
-msgid "社長～撫でて欲しいにゃ～"
+msgid "社長～撫でて欲しいにゃ～ん"
 msgstr ""
 
 #  Korean Text: '- 조금 전에 봤던 뽀끄루의 눈동자가 머릿속에 아른거린다.'
 #: DialogScript[DG_ChCS-10Stage04_1_15].Script
-msgid "―信頼で満ちていたポックルの瞳が脳裏に過る。"
+msgid "- あまりの可愛さに崩壊しそうになる理性……！"
 msgstr ""
 
 #  Korean Text: '- 무너지려는 이성을 그 흔들림 없는 신뢰로 가득한 눈빛을 떠올리며 붙들었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_16].Script
-msgid "―崩れようとする理性を、彼女の信頼の瞳だけを頼りにしてやっと耐える。"
+msgid "'- 先程の信頼いっぱいの瞳で俺を見ていたポックルを&n必死に頭に思い浮かべ、なんとか耐える。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_16].SelectionIndex[1]
-msgid "お、終わるまでにじっとしていようね。いい子いい子。"
+msgid "お、終わるまで大人しくしておこうね。いい子いい子。"
 msgstr ""
 
 #  Korean Text: '냐앙~?'
 #: DialogScript[DG_ChCS-10Stage04_1_17].Script
-msgid "にゃー？"
+msgid "にゃ～？"
 msgstr ""
 
 #  Korean Text: '- 뽀끄루의 천진한 표정이 내 심장을 강타했다.'
 #: DialogScript[DG_ChCS-10Stage04_1_18].Script
-msgid "―ポックルの天然な顔が俺の心臓にクリーンヒットした。"
+msgid "- ポックルの最上級にあざとい表情が俺の心臓に突き刺さった。"
 msgstr ""
 
 #  Korean Text: '- 제, 제길. 이건 위험한데.'
 #: DialogScript[DG_ChCS-10Stage04_1_19].Script
-msgid "―くっ…これはヤバいぞ…"
+msgid "- くっ……くそ…。これは…危険だ…"
 msgstr ""
 
 #  Korean Text: '- 지금까지 대원들과 많은 역경을 헤쳐왔지만 이렇게까지 위기감을 느낀 적은 없었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_20].Script
-msgid "―今まで隊員たちと数々の逆境を乗り越えてきたが、これまでの危機感を覚えたことはない。"
+msgid "- 今まで隊員たちと数々の逆境を乗り越えてきた…&nきた…が、これほどの危機感を覚えたことはない…。"
 msgstr ""
 
 #  Korean Text: '- 등줄기를 타고 흐르는 식은땀을 느끼며, 나는 뽀끄루를...'
 #: DialogScript[DG_ChCS-10Stage04_1_21].Script
-msgid "―背筋に伝う冷え汗を感じながら、俺はポックルのことを…"
+msgid "'- 背筋を伝う汗…。&n俺はポックルを…"
 msgstr ""
 
 #  Korean Text: '- 피눈물을 흘리는 심정으로 뻗던 손을 멈췄다.'
 #: DialogScript[DG_ChCS-10Stage04_1_22].Script
-msgid "―血涙を飲み込む気持ちで伸ばしかけた手を止めた。"
+msgid "- 俺はポックルに伸びていた手を、血の涙を流しながらなんとか堪えた。"
 msgstr ""
 
 #  Korean Text: '사장님... 헤헷.'
 #: DialogScript[DG_ChCS-10Stage04_1_23].Script
-msgid "社長…えへへ。"
+msgid "社長…へへへっ。"
 msgstr ""
 
 #  Korean Text: '- 내 마음을 아는지, 모르는지. 뽀끄루는 마치 고양이가 그루밍을 하듯이 내 얼굴 이곳저곳을 핥기 시작했다.'
 #: DialogScript[DG_ChCS-10Stage04_1_24].Script
-msgid "―俺の気も知らず、ポックルは猫みたいに俺の顔のあっちこっちを舐め始めた。"
+msgid "- 俺の気も知らず、ポックルはまるで猫が毛づくろいするように、&n俺の顔をあちこち舐め始めた。"
 msgstr ""
 
 #  Korean Text: '... 하아...'
@@ -61724,111 +61730,111 @@ msgstr ""
 
 #  Korean Text: '- 미안해, 뽀끄루. 난 여기까지인가 봐.'
 #: DialogScript[DG_ChCS-10Stage04_1_25].Script
-msgid "―ごめん、ポックル。俺はここまでのようだ…"
+msgid "- すまない、ポックル。俺はここまでのようだ…"
 msgstr ""
 
 #  Korean Text: '- 이성의 벽에 금이 가고 있는 것이 느껴진다. 그 균열 사이로 참을 수 없는 욕망이 새어나온다.'
 #: DialogScript[DG_ChCS-10Stage04_1_26].Script
-msgid "―理性が崩れ出したことに気づく。そして欲望が溢れ出す。"
+msgid "- 理性に決定的な亀裂が入った…！&nそして、そこから堪えきれず欲望が漏れ出てくる！！"
 msgstr ""
 
 #  Korean Text: '- 머리 위에 물음표를 띄우는 뽀끄루를 무릎 위에 마주보게 앉혔다.'
 #: DialogScript[DG_ChCS-10Stage04_1_27].Script
-msgid "―頭の上にはてなを浮かべるポックルを、俺は自分の膝の上に向き合いで座らせる。"
+msgid "'- 頭の上に大きな疑問符を浮かべるポックルを、&n俺と向かい合うよう、膝の上に座らせた。"
 msgstr ""
 
 #  Korean Text: '우냐앙~?'
 #: DialogScript[DG_ChCS-10Stage04_1_28].Script
-msgid "うにゃ～ん～？"
+msgid "うにゃあぁん～？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_28].SelectionIndex[1]
-msgid "ぐへへ…もふもふ撫で倒して…"
+msgid "くっくっく…このもふもふを撫で回して…"
 msgstr ""
 
 #  Korean Text: '- 검은 욕망이 마침내 입 밖까지 새어나왔다.'
 #: DialogScript[DG_ChCS-10Stage04_1_29].Script
-msgid "―黒き欲望が口から出てしまう。"
+msgid "- 抑えていた黒い欲望が口から出てしまう。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_29].SelectionIndex[1]
-msgid "めちゃくちゃにしてやるよ…ぐへへ…"
+msgid "めちゃくちゃにしてやる…！ふふふふふふふ…"
 msgstr ""
 
 #  Korean Text: '- 마침내 위기감을 느낀 것인지 뽀끄루가 몸을 굳혔다.'
 #: DialogScript[DG_ChCS-10Stage04_1_30].Script
-msgid "―やっと身の危機を感じたのかポックルが身を固める。"
+msgid "- ようやく身の危機を感じたのか、ポックルは体を縮こまらせる。"
 msgstr ""
 
 #  Korean Text: '- 하지만 늦었다. 뽀끄루는 이미 내 손아귀에 있다.'
 #: DialogScript[DG_ChCS-10Stage04_1_31].Script
-msgid "―だがもう遅い！お前は俺のものだ！"
+msgid "- しかし、もう遅い。&nポックル！すでにお前は俺の手のひらの上だ！"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_31].SelectionIndex[1]
-msgid "いい子だ…大人しくいたたたたたたっ！？"
+msgid "さぁ…いい子だ…大人しくにゃあああああっ！？"
 msgstr ""
 
 #  Korean Text: '- 옆구리에서 느껴지는 강한 통증에 나도 모르게 비명을 지르고 말았다.'
 #: DialogScript[DG_ChCS-10Stage04_1_32].Script
-msgid "―脇腹から感じる激しい痛みに我を忘れて悲鳴を上げてしまった。"
+msgid "- 突如、脇腹に走った激しい痛みに我を忘れ、悲鳴を上げてしまった。"
 msgstr ""
 
 #  Korean Text: '- 눈물을 찔끔 흘리며 돌아보자 익숙한 고양이 메이드가 있다.'
 #: DialogScript[DG_ChCS-10Stage04_1_33].Script
-msgid "―涙目になって振り返ってみるとそこには見慣れた猫メイドがいた。"
+msgid "- 涙目になりながら振り返ると、そこには見慣れた猫メイドがいた。"
 msgstr ""
 
 #  Korean Text: '- 보란듯이 한숨을 내쉬는 페로와 차마 눈을 마주칠 수 없었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_35].Script
-msgid "―これ見よがしに溜息を吐くペロと合わせる顔がなかった。"
+msgid "- わざとらしくため息を吐いてみせるペロと目が合わせられない…。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_35].SelectionIndex[1]
-msgid "そ、そんな目で見ないでよぉ…"
+msgid "そ、そんな目で見ないで…"
 msgstr ""
 
 #  Korean Text: '주인님께서 가끔씩 엉뚱한 행동을 하시는 건 알고 있었습니다만...'
 #: DialogScript[DG_ChCS-10Stage04_1_36].Script
-msgid "時々ご主人様がおかしな行動に走るのは存じていましたが…"
+msgid "ご主人様はたまにとんでもない行動をされるのは、よくわかっていたつもりですが…"
 msgstr ""
 
 #  Korean Text: '- 어느새 내 품을 빠져나가 기지개를 켜고 있는 뽀끄루를 바라보던 페로의 시선이 설명을 요구하듯 나에게 향했다.'
 #: DialogScript[DG_ChCS-10Stage04_1_37].Script
-msgid "―いつの間にか俺の腕の中から飛び出して体を伸ばしているポックルを見て、ペロの目が俺に説明を要求する。"
+msgid "- いつの間にか俺の腕から飛び出して、うーんと伸びをしているポックル。&nそれを見たペロの冷ややかな目が俺に説明を求めていらっしゃる…。"
 msgstr ""
 
 #  Korean Text: '- 간략하게 상황을 전하자 페로는 또다시 땅이 꺼져라 한숨을 내쉬었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_38].Script
-msgid "―簡単に説明するとまた大きい溜息を吐くペロ。"
+msgid "- 簡単に状況を説明すると、ペロはまた大きなため息を吐いた。"
 msgstr ""
 
 #  Korean Text: '...큰 문제는 아니었군요. 방해해서 죄송합니다.'
 #: DialogScript[DG_ChCS-10Stage04_1_39].Script
-msgid "…大した問題ではなかったのですね。お邪魔したようで申し訳ありません。"
+msgid "…大した問題ではないようですね…。お邪魔したようで申し訳ありません。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_39].SelectionIndex[1]
-msgid "いた、下手したら二度と戻れないところだったよ。"
+msgid "いや、ありがとう…手遅れになるところだった。"
 msgstr ""
 
 #  Korean Text: '- 뽀끄루의 풍성한 머리카락을 쓰다듬기 시작했다간 영원히 헤어나올 수 없었겠지...'
 #: DialogScript[DG_ChCS-10Stage04_1_40].Script
-msgid "―あのもふもふなポックルの髪の毛を撫でたら最後、永遠の虜にされていたかもしれない…"
+msgid "- ポックルのもふもふの髪をあのまま撫で始めてしまっていたら、&n永遠にやめられなくなっていたかもしれない…"
 msgstr ""
 
 #  Korean Text: '근처에서 철충 무리가 발견됐습니다.'
 #: DialogScript[DG_ChCS-10Stage04_1_41].Script
-msgid "近くで鉄虫の群れが見つかりました。"
+msgid "この近くで鉄虫の群れを発見しました。"
 msgstr ""
 
 #  Korean Text: '저희들끼리 해결할 수 있는 수준으로 보입니다만, &n주인님께서 작은 전투라도 직접 지휘하시겠다고 하셨으니...'
 #: DialogScript[DG_ChCS-10Stage04_1_42].Script
-msgid "私たちだけでも片付けられるほど小規模でしたが、&nご主人様がどんな戦闘もご自分で指揮すると仰っていたので…"
+msgid "私たちだけでも片付けられるレベルでしたが、&nご主人様がどんなに小さな戦闘もご自分で指揮すると仰っていたので…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_42].SelectionIndex[1]
-msgid "わかった。じゃメンバーを選んで…"
+msgid "わかった。じゃあ、出撃させる隊員を選ぼう…"
 msgstr ""
 
 #  Korean Text: '뽀끄루가 갈게냥!'
@@ -61838,22 +61844,22 @@ msgstr ""
 
 #  Korean Text: '- 뽀끄루는 순식간에 사라졌다.'
 #: DialogScript[DG_ChCS-10Stage04_1_44].Script
-msgid "―あっという間にポックルが消えてしまった。"
+msgid "- ポックルはあっという間に消えてしまった。"
 msgstr ""
 
 #  Korean Text: '- 내가 난처하게 올려다보자 페로는 또다시 한숨을 내쉬었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_45].Script
-msgid "―困った顔で俺がフを見上げると、ペロは再び溜息を吐いた。"
+msgid "- 俺がなんとも言えない渋い顔でペロを見上げると、&nペロ様は再び深～いため息を吐いた。"
 msgstr ""
 
 #  Korean Text: '알겠습니다. 뽀끄루 씨는 강하지만, 저 상태로 제대로 싸울 수 있을지 모르니까요.'
 #: DialogScript[DG_ChCS-10Stage04_1_46].Script
-msgid "かしこまりました。充分お強い方ですが、あの状態でちゃんと戦えるかどうか分かりませんし。"
+msgid "わかりました。ポックルさんは十分強い方ですが、&nあの状態ではまともに戦えるかどうかわかりませんし。"
 msgstr ""
 
 #  Korean Text: '제가 따라가겠습니다.'
 #: DialogScript[DG_ChCS-10Stage04_1_47].Script
-msgid "私が援護します。"
+msgid "私が援護いたします。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_1_47].SelectionIndex[1]
@@ -61862,7 +61868,7 @@ msgstr ""
 
 #  Korean Text: '- 함장실을 뒤로하던 페로가 문 앞에서 멈칫했다.'
 #: DialogScript[DG_ChCS-10Stage04_1_48].Script
-msgid "―艦長室を後にしようとしたペロが、ドアの前で止まる。"
+msgid "- 艦長室を後にしようとしたペロが、ドアの前で止まる。"
 msgstr ""
 
 #  Korean Text: '저, 저기... 주인님.'
@@ -61872,17 +61878,17 @@ msgstr ""
 
 #  Korean Text: '- 페로의 시선이 바닥을 맴돈다.'
 #: DialogScript[DG_ChCS-10Stage04_1_50].Script
-msgid "―ペロの視線が床を泳ぐ。"
+msgid "- ペロの視線が床をぐるぐると泳いでいる。"
 msgstr ""
 
 #  Korean Text: '- 한동안 눈을 깜빡이며 손가락을 꼼지락 거리던 페로가 어렵게 입을 열었다.'
 #: DialogScript[DG_ChCS-10Stage04_1_51].Script
-msgid "―暫く目をぱちぱちとし、指をもじもじしていたペロがやっと口を開いた。"
+msgid "- しばらく目をパチパチさせて、&n指をモジモジしていたペロがやっとのことで口を開いた。"
 msgstr ""
 
 #  Korean Text: '...주, 주인님께서 원하시면...'
 #: DialogScript[DG_ChCS-10Stage04_1_52].Script
-msgid "…ご、ご主人様のお望みならば…"
+msgid "…ご、ご主人様がお望みでしたら…"
 msgstr ""
 
 #  Korean Text: '저, 저도... 할 수 있어.......'
@@ -61897,17 +61903,17 @@ msgstr ""
 
 #  Korean Text: '- 볼을 새빨갛게 물들인 페로는 내 심금을 울리는 한 마디를 남기고 사라졌다.'
 #: DialogScript[DG_ChCS-10Stage04_1_55].Script
-msgid "―顔を真っ赤にして逃げたペロの最後の言葉が、俺のハートをぐらつかせた。"
+msgid "'- その一言は俺の心にクリティカルヒットした。&nそして頬を真っ赤にしたペロは、恥ずかしそうに艦長室を後にする。"
 msgstr ""
 
 #  Korean Text: '- 평소의 페로도 좋지만...'
 #: DialogScript[DG_ChCS-10Stage04_1_56].Script
-msgid "―いつものペロもいいけど…"
+msgid "- 普段のペロも良いけど…"
 msgstr ""
 
 #  Korean Text: '- ......가끔씩 부탁해볼까...'
 #: DialogScript[DG_ChCS-10Stage04_1_57].Script
-msgid "―………時々頼んでみるかな…"
+msgid "- ……時々、お願いしてみようかな…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_2_1].SelectionIndex[1]
@@ -61916,116 +61922,116 @@ msgstr ""
 
 #  Korean Text: '- 불행인지 다행인지 전투중에 그만 뿔이 벗겨지고 말았다.'
 #: DialogScript[DG_ChCS-10Stage04_2_2].Script
-msgid "―幸か不幸か戦闘中に角が外されてしまった。"
+msgid "- 幸か不幸か、角は戦闘中に外れてしまった。"
 msgstr ""
 
 #  Korean Text: '- 함께 나간 페로 덕분에 전투는 무사히 종료됐지만, 돌아온 뽀끄루는 굳게 입을 다물고 있다.'
 #: DialogScript[DG_ChCS-10Stage04_2_3].Script
-msgid "―一緒に出撃したペロのお陰で戦闘は無事に終了したが、帰ってきたポックルは一向に口を開こうとしない。"
+msgid "- 一緒に出撃したペロのおかげで戦闘は無事に終了したが、&n帰ってきたポックルは一向に口を開こうとしない。"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage04_2_3].SelectionIndex[1]
-msgid "ご、ごめん。出来心でつい…"
+msgid "ご、ごめん。思わず…止められなかった…"
 msgstr ""
 
 #  Korean Text: '아뇨, 사장님을 탓하는 건 아니에요...'
 #: DialogScript[DG_ChCS-10Stage04_2_4].Script
-msgid "いいえ、社長を責めてはいません…"
+msgid "いえ、社長のせいなんかじゃありません…"
 msgstr ""
 
 #  Korean Text: '그냥... 그런 모습을 보여버려서... 앞으로 어떻게 해야 하나 하고...'
 #: DialogScript[DG_ChCS-10Stage04_2_5].Script
-msgid "ただ…あんな醜態を見せてしまった私が…これからどの顔をして生きていけばいいかと…"
+msgid "ただ…あんな姿を見せてしまって…&nこれから私はどんな顔をして生きていけばいいのか…"
 msgstr ""
 
 #  Korean Text: '- 고양이처럼 애교를 부리던 뽀끄루의 모습이 떠오른다.'
 #: DialogScript[DG_ChCS-10Stage04_2_6].Script
-msgid "ー猫のように甘えていたポックルの姿を思い出す。"
+msgid "- 猫のように甘えていたポックルの姿を思い出す。"
 msgstr ""
 
 #  Korean Text: '- 그 모든 기억이 남아 있다고 생각하면...'
 #: DialogScript[DG_ChCS-10Stage04_2_7].Script
-msgid "―あの時の全ての記憶が残っているとなると…"
+msgid "- あの時の記憶がすべて残っているとなると…"
 msgstr ""
 
 #  Korean Text: '헤헤... 이제 어떻게 되든 상관없어요. 그런 모습까지 보여 버린 걸요.'
 #: DialogScript[DG_ChCS-10Stage04_2_8].Script
-msgid "へへ…もう私はどうなってもいいですよ。あんな姿まで見せてしまったんですもん。"
+msgid "へへ…もうどうなってもかまいませんよ…。&nあんな姿を見せてしまったんですから…。&nへへ…"
 msgstr ""
 
 #  Korean Text: '사장님, 어서 뿔을 씌워 주시겠어요? &n헤헷, 그래도... 이번에는 조금 덜 부끄러운 거였으면 좋겠네요...'
 #: DialogScript[DG_ChCS-10Stage04_2_9].Script
-msgid "社長、早く角を被せて下さい。&nえへへ…でも…今回はもう少し恥ずかしくないものだったらいいな…"
+msgid "社長、早く角をかぶせて下さい。&nへへっ…でも…できれば…次はもう少し恥ずかしくないものだったら…いいな…"
 msgstr ""
 
 #  Korean Text: '- 모든 것을 내려놓은 듯 후련하기까지 한 뽀끄루의 미소가 가슴을 쿡쿡 찔렀다.'
 #: DialogScript[DG_ChCS-10Stage04_2_10].Script
-msgid "―悟りを開き全てを諦めてしまったポックルの空っぽな笑顔が痛々し過ぎる。"
+msgid "- 全てを諦め、悟りを開いてしまったポックルの虚ろな笑顔が痛々しい！&nもうやめてあげて！"
 msgstr ""
 
 #  Korean Text: '- 양심의 가책을 느끼며 다시 레플리카를 집어들었다.'
 #: DialogScript[DG_ChCS-10Stage04_2_11].Script
-msgid "―良心の痛みを感じながらレプリカを取り直す。"
+msgid "- 良心の呵責に苛まれながら、角を手にする。"
 msgstr ""
 
 #  Korean Text: '- 이번에는 부디 잘 끝나길...'
 #: DialogScript[DG_ChCS-10Stage04_2_12].Script
-msgid "―どうか今回は無事で終わってくれ…"
+msgid "- どうか…これで無事に終わりますように…"
 msgstr ""
 
 #  Korean Text: '- 무서울 정도로 집착하는 뽀끄루도,'
 #: DialogScript[DG_ChCS-10Stage05_1_1].Script
-msgid "―恐ろしいほど執着するポックルも、"
+msgid "- 激ヤバポックルも、"
 msgstr ""
 
 #  Korean Text: '- 고양이가 되어버린 뽀끄루도... 이 모습에 비하면 아무것도 아니었다.'
 #: DialogScript[DG_ChCS-10Stage05_1_2].Script
-msgid "―猫になってしまったポックルも…この姿に比べるとなんてこともなかった。"
+msgid "- にゃんにゃんポックルも…この姿に比べるとなんてこともなかった。"
 msgstr ""
 
 #  Korean Text: '- 다시 뿔을 쓴 뽀끄루는... 내 앞에서...'
 #: DialogScript[DG_ChCS-10Stage05_1_3].Script
-msgid "―角を着け直したポックルは…俺の目の前で…"
+msgid "- 角を着け直したポックルは…俺の目の前で…"
 msgstr ""
 
 #  Korean Text: '- 노래를 부르며 발랄하게 춤을 추고 있다.'
 #: DialogScript[DG_ChCS-10Stage05_1_4].Script
-msgid "―楽しく歌い踊っている。"
+msgid "- 楽しそうに歌いながら踊っている。"
 msgstr ""
 
 #  Korean Text: '우리들의 작은 마음이~♬'
 #: DialogScript[DG_ChCS-10Stage05_1_5].Script
-msgid "俺たちの小さな心が～♬"
+msgid "私たちの小さな心が～♬"
 msgstr ""
 
 #  Korean Text: '당신의 앞길을 밝힐 수 있기를~♬'
 #: DialogScript[DG_ChCS-10Stage05_1_6].Script
-msgid "君の行く道を照らせるように～♬"
+msgid "あなたの道を照らせます～ように～♬"
 msgstr ""
 
 #  Korean Text: '- 마지막 포즈를 취하며 한 곡을 마무리한 뽀끄루는 바로 다시 노래하기 시작했다.'
 #: DialogScript[DG_ChCS-10Stage05_1_7].Script
-msgid "―最後の決めポーズで歌い終えたポックルは、休み無しで次の曲を歌い始めた。"
+msgid "- 最後の決めポーズをビシッと決めて、歌い終えたポックルは、&nすぐに次の曲を歌い始めた。"
 msgstr ""
 
 #  Korean Text: '- 벌써 몇 곡째인지도 모르겠다.'
 #: DialogScript[DG_ChCS-10Stage05_1_8].Script
-msgid "―もう何曲目なのやら…"
+msgid "- もうこれで何曲目なんだろう…"
 msgstr ""
 
 #  Korean Text: '- 지치지도 않고 노래하는 뽀끄루를 그저 바라봤다.'
 #: DialogScript[DG_ChCS-10Stage05_1_9].Script
-msgid "―疲れず歌って踊るポックルを、俺はただ眺めているだけ。"
+msgid "- 休むことなく歌い続けるポックルを、俺はただ眺めているだけ。"
 msgstr ""
 
 #  Korean Text: '- 너무나 행복하게 노래하는 모습에 나도 덩달아 기분이 좋아진다.'
 #: DialogScript[DG_ChCS-10Stage05_1_10].Script
-msgid "―あまりにも幸せそうに歌う彼女の姿に、俺も思わず楽しくなってきた。"
+msgid "- あまりにも幸せそうに歌う姿を見ていると、俺もなんだか楽しくなってきた。"
 msgstr ""
 
 #  Korean Text: '이번 생에도~♬ 또 다음... 앗...'
 #: DialogScript[DG_ChCS-10Stage05_1_11].Script
-msgid "生まれ変わるなら～♬　また…　…っ！？"
+msgid "生まれ変わっても～♬&nまた…めぐり逢いたい～…あっ……"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage05_1_11].SelectionIndex[1]
@@ -62034,32 +62040,32 @@ msgstr ""
 
 #  Korean Text: '- 한창 노래를 부르는 중에 갑자기 풀썩 쓰러지는 뽀끄루를 간신히 붙잡았다.'
 #: DialogScript[DG_ChCS-10Stage05_1_12].Script
-msgid "―歌っている真っ最中にいきなり倒れ込むポックルを、やっと受けて盛られた。"
+msgid "- 歌っている最中に突然、充電が切れたように倒れるポックルを、慌ててキャッチ。"
 msgstr ""
 
 #  Korean Text: '- 다행히도 이상이 생긴 것은 아닌듯, 뽀끄루는 이내 몸을 일으켰다.'
 #: DialogScript[DG_ChCS-10Stage05_1_13].Script
-msgid "―どこも以上はないようで、ポックルはすぐ体を起こした。"
+msgid "- 幸い、どこにも異常はなさそうで、ポックルはすぐに体を起こした。"
 msgstr ""
 
 #  Korean Text: '아... 끝난 것, 같아요.'
 #: DialogScript[DG_ChCS-10Stage05_1_14].Script
-msgid "あ…効果が切れたみたいです。"
+msgid "…たぶん…終わったと…思います。"
 msgstr ""
 
 #  Korean Text: '- 그 말과 동시에 뿔의 한쪽에서 붉은색으로 점멸하던 불빛이 초록색으로 바뀌었다.'
 #: DialogScript[DG_ChCS-10Stage05_1_15].Script
-msgid "―その言葉と同時に、角の片方で赤く点滅していた光が緑に変わった。"
+msgid "- その言葉と同時に、角の片方で赤く点滅していた光が緑に変わった。"
 msgstr ""
 
 #  Korean Text: '- 단순히 조정 작업이 완료되었다는 표시일 테지만.'
 #: DialogScript[DG_ChCS-10Stage05_1_16].Script
-msgid "―単に調整プロセスが終わったというシグナルだろうけど。"
+msgid "- 単に調整が完了したという合図なんだろうけど。&nたったそれだけにしては…大変だった…。"
 msgstr ""
 
 #  Korean Text: '- 숨을 몰아쉬며 상기된 표정으로 올려다보는 뽀끄루의 모습에 그것은 내게 더 큰 의미로 느껴졌다.'
 #: DialogScript[DG_ChCS-10Stage05_1_17].Script
-msgid "―息が上がり上気した顔で見上げるポックルに、俺はそれにもっと大きな意味があると思った。"
+msgid "- 肩を上下させて呼吸しながら、上気した顔で俺を見上げるポックル。&nその顔からは疲れとは別の満足感の様なもの感じた。"
 msgstr ""
 
 #  Korean Text: '하아, 하아, 사장, 님...'
@@ -62068,70 +62074,70 @@ msgid "はぁ…はぁ…しゃ、社長…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage05_1_19].SelectionIndex[1]
-msgid "いい歌だったよ。調整も終わったしもう休んで。"
+msgid "とってもいい歌だった。調整も終わったからもう休もう。"
 msgstr ""
 
 #  Korean Text: '네에... 꺅?!'
 #: DialogScript[DG_ChCS-10Stage05_1_20].Script
-msgid "はいぃ…きゃっ！？"
+msgid "はい…きゃっ！？"
 msgstr ""
 
 #  Korean Text: '- 몸에 힘이 없는 뽀끄루를 안아올려 침대에 눕혔다.'
 #: DialogScript[DG_ChCS-10Stage05_1_21].Script
-msgid "―もう力の抜けたポックルをお姫様抱っこしてベッドに寝かせる。"
+msgid "- 力が抜けてしまったポックルを抱き上げて、ベッドに寝かせてあげる。"
 msgstr ""
 
 #  Korean Text: '- 이불을 덮어줄 때까지도 어안이 벙벙한듯 눈을 깜빡이던 뽀끄루의 얼굴이 한순간에 터질듯이 붉게 달아올랐다.'
 #: DialogScript[DG_ChCS-10Stage05_1_22].Script
-msgid "―布団をかけるまで何が起きたか分からず目をぱちぱちしていたポックルの顔が、いきなりぽん！と赤くなる。"
+msgid "- 布団をかけてあげるまで、ただ目をパチパチさせていたポックルだったが、&nやっと状況を把握したようで、顔が一気に赤くなった。"
 msgstr ""
 
 #  Korean Text: '아, 아으으...'
 #: DialogScript[DG_ChCS-10Stage05_1_23].Script
-msgid "あ、あうぅ…"
+msgid "ああ、はあうぅ…"
 msgstr ""
 
 #  Korean Text: '- 머리까지 이불을 뒤집어쓰고 부끄러워하던 뽀끄루가 이불 밖으로 눈만 빼꼼 내밀었다.'
 #: DialogScript[DG_ChCS-10Stage05_1_24].Script
-msgid "―頭まで布団をかけて丸くなり恥ずかしがっていたポックルが、布団の隙間に目だけ見せる。"
+msgid "- 頭まで布団をかぶって、恥ずかしそうに悶えていたポックルは、&n少しするとピョコっと顔を出して、うるうるとした目で俺を見つめた。"
 msgstr ""
 
 #  Korean Text: '저기... 사장님. 제 노래... 어땠나요...? 제 의지로 부른 건 아니지만...'
 #: DialogScript[DG_ChCS-10Stage05_1_25].Script
-msgid "あの…社長。私の歌、どうでした…？自分の意思で歌ったわけではないんですけど…"
+msgid "あの…社長。私の歌、どうでしたか…？&n自分の意思で歌ったわけではないんですけど…"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage05_1_25].SelectionIndex[1]
-msgid "良かったよ。俺一人が聞くのがもったいないほど。"
+msgid "良かったよ。俺が一人で聞くのはもったいないくらい。"
 msgstr ""
 
 #  Korean Text: '......헤헷.'
 #: DialogScript[DG_ChCS-10Stage05_1_26].Script
-msgid "……えへへ。"
+msgid "……へへっ。"
 msgstr ""
 
 #  Korean Text: '뿔을 다시 쓰길 잘했네요... 아마 닥터가 선물해준 거겠죠...?'
 #: DialogScript[DG_ChCS-10Stage05_1_27].Script
-msgid "角を付け直して良かったです…多分ドクターがプレゼントしてくれたんですよね…？"
+msgid "また角を被って良かったです…&n多分、博士さんがプレゼントしてくれたんですよね…？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage05_1_27].SelectionIndex[1]
-msgid "変なのも混じってたけどね。"
+msgid "大変だったけどな…。"
 msgstr ""
 
 #  Korean Text: '- 작게 쿡쿡 웃으며 테이블 위의 레플리카를 바라보던 뽀끄루가 조심스레 내 손을 잡았다.'
 #: DialogScript[DG_ChCS-10Stage05_1_28].Script
-msgid "―小さく笑いテーブルの上のレプリカを見つめていたポックルが、恐る恐ると俺の手を取った。"
+msgid "- 小さく笑い、テーブルの上に置かれたレプリカを見ていたポックルが、&n恐る恐る俺の手を握った。"
 msgstr ""
 
 #  Korean Text: '사장님. 방금 전같은 노래는 이제 못 부르지만...'
 #: DialogScript[DG_ChCS-10Stage05_1_29].Script
-msgid "社長。さっきのような歌はもう歌えませんけど…"
+msgid "社長。さっきみたいな歌は歌えませんけど…"
 msgstr ""
 
 #  Korean Text: '다른 노래도... 들어주실래요?'
 #: DialogScript[DG_ChCS-10Stage05_1_30].Script
-msgid "他の歌でも…聞いてくださいますか…？"
+msgid "他の歌も…聞いてくれますか…？"
 msgstr ""
 
 #: DialogScript[DG_ChCS-10Stage05_1_30].SelectionIndex[1]
@@ -62140,22 +62146,22 @@ msgstr ""
 
 #  Korean Text: '그, 그럼 이거부터... 가, 가사를 잘 들어주세요...?'
 #: DialogScript[DG_ChCS-10Stage05_1_31].Script
-msgid "じ、じゃぁこの曲から…か、歌詞をよく聞いてくださいね…？"
+msgid "じ、じゃぁこの歌から…。&nか、歌詞をよく聞いてくださいね…？"
 msgstr ""
 
 #  Korean Text: '- 결국 밤이 깊을 때까지 뽀끄루의 곁에서 노래를 들었다.'
 #: DialogScript[DG_ChCS-10Stage05_1_32].Script
-msgid "―結局、夜遅くまで彼女の傍で歌を聞いた。"
+msgid "- 結局、夜が更けるまでポックルの歌を聞いた。"
 msgstr ""
 
 #  Korean Text: '- 덕분에 업무를 처리하려면 밤을 꼬박 새워야겠지만...'
 #: DialogScript[DG_ChCS-10Stage05_1_33].Script
-msgid "―お陰で仕事を片付けるまで残業しないといけないけど…"
+msgid "- 残りの仕事は徹夜で終わらせないとな…"
 msgstr ""
 
 #  Korean Text: '- 충분히... 그럴만한 가치가 있었다는 생각이 든다.'
 #: DialogScript[DG_ChCS-10Stage05_1_34].Script
-msgid "―充分…それだけの価値があると思えた。"
+msgid "- でも…彼女の歌声には、それだけの価値が十分あると思った。"
 msgstr ""
 
 #  Korean Text: '- 여느때와 다름없이 평화로운 오르카.'

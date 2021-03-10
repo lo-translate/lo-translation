@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1409,7 +1409,7 @@ msgstr ""
 
 #  Korean Text: '석양 엔딩'
 #: MapStage[Ch02Ev6Stage06].StageName
-msgid "夕焼けウエディング"
+msgid "夕焼けエンディング"
 msgstr ""
 
 #  Korean Text: '침입자 격퇴 Ⅵ'
@@ -2195,6 +2195,14 @@ msgstr ""
 #  Korean Text: '깊고 깊은 감시자'
 #: MapStage[Ch05Stage08].StageName
 msgid "深淵の監視者"
+msgstr ""
+
+#: MapStage[Ch05Stage08Ex].StageDesc
+msgid "深層偵察中に発見されたアンダーウォッチャーの予備機。バイオロイド達は動き始めたアンダーウォッチャーを破壊せんとする。"
+msgstr ""
+
+#: MapStage[Ch05Stage08Ex].StageName
+msgid "もう一つ!"
 msgstr ""
 
 #  Korean Text: '스카디와 콘스탄챠는 가상현실 접속기의 정보를 찾는다.'

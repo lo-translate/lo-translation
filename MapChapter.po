@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-10 12:00-0400\n"
+"PO-Revision-Date: 2021-03-10 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -63,6 +63,10 @@ msgstr "Legacy of Rioboros Exploration"
 #  Korean Text: '세인트 오르카의 비밀작전 2부'
 #: MapChapter[Chapter_02Ev5].ChapterName
 msgid "セントオルカの秘密作戦2部"
+msgstr ""
+
+#: MapChapter[Chapter_02Ev6].ChapterName
+msgid "不思議な国のチョコ女王2部"
 msgstr ""
 
 #  Korean Text: '즐거운 나의 집'
