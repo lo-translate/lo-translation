@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-03-10 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -66,6 +66,16 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage01_1_10].Script
 msgid "これで目を覚ましていただけるといいんだけど…"
 msgstr ""
+
+#  Korean Text: 'P/A-00 그리폰'
+#: DialogScript[DG_Ch01Stage01_1_12].Char_Name_L
+msgid "P/A-00グリフォン"
+msgstr "P/A-00 Griffon"
+
+#  Korean Text: '콘스탄챠 S2'
+#: DialogScript[DG_Ch01Stage01_1_12].Char_Name_R
+msgid "コンスタンツァS2"
+msgstr "Constantia S2"
 
 #  Korean Text: '살아났나? 눈을 깜빡거리는데? 숨도 제대로 쉬는 것 같아.'
 #: DialogScript[DG_Ch01Stage01_1_12].Script
@@ -629,6 +639,11 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage01_2_53].Script
 msgid "…戻る道はないようです。ご主人様、どうしましょうか？"
 msgstr ""
+
+#  Korean Text: '프레스터 요안나'
+#: DialogScript[DG_Ch01Stage01_2_54].Char_Name_C
+msgid "プレスターヨアンナ"
+msgstr "Prester Johanna"
 
 #  Korean Text: '거기 있는 것은 우리 자매들이 아닌가?&n보아하니, 제법 곤란한 상황에 처한 듯 한데…'
 #: DialogScript[DG_Ch01Stage01_2_54].Script
@@ -1248,6 +1263,11 @@ msgstr ""
 msgid "艦橋"
 msgstr "Bridge"
 
+#  Korean Text: '포츈'
+#: DialogScript[DG_Ch01Stage03b_1_1].Char_Name_L
+msgid "フォーチュン"
+msgstr "Fortune"
+
 #  Korean Text: '응? 사령관님 왔어? 사령관님, 포츈 누나가 부탁이 좀 있거든?'
 #: DialogScript[DG_Ch01Stage03b_1_1].Script
 msgid "あっ、司令官おかえり。&nお姉さん、ちょっとお願いがあるんだけど？"
@@ -1506,6 +1526,11 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage04_2_4].Script
 msgid "AGSの反応があるですって？"
 msgstr ""
+
+#  Korean Text: 'SD3M 펍 헤드'
+#: DialogScript[DG_Ch01Stage04_2_5].Char_Name_C
+msgid "SD3Mポップヘッド"
+msgstr "SD3M Pupp Head"
 
 #  Korean Text: '사용자의 신원을 확인합니다.&n철충 감염 반응 … 없음! 신원 확인…바이오로이드 2개 개체. 범죄 기록… 없음.'
 #: DialogScript[DG_Ch01Stage04_2_5].Script
@@ -1835,6 +1860,11 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage05_2_8].Script
 msgid "幸いにもボクの部隊は全滅を免れた。生存者が残っていたようだ。&nどういうことか説明するよ。フォールン、こっちに来てくれ。"
 msgstr ""
+
+#  Korean Text: 'CT2199W 폴른'
+#: DialogScript[DG_Ch01Stage05_2_9].Char_Name_L
+msgid "CT2199Wフォールン"
+msgstr "CT2199W Fallen"
 
 #  Korean Text: '이 개체는 [c][ffd130]CT 2199W 폴른[-][/c],&n보통은 코드 네임인 [c][ffd130]폴른[-][/c]으로 불리는 개체라네.'
 #: DialogScript[DG_Ch01Stage05_2_9].Script
@@ -3107,6 +3137,11 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage09_2_9].Script
 msgid "本部、聞こえますか？&nこちら21分隊。本部、通信接続可能でしょうか？"
 msgstr ""
+
+#  Korean Text: '라비아타 프로토타입'
+#: DialogScript[DG_Ch01Stage09_2_10].Char_Name_C
+msgid "ラビアタプロトタイプ"
+msgstr "Labiata"
 
 #  Korean Text: '여기는 라비아타 프로토타입. 21 스쿼드? &n임무는 완료한 거야?'
 #: DialogScript[DG_Ch01Stage09_2_10].Script
@@ -4919,6 +4954,11 @@ msgstr ""
 msgid "確かにこの辺は資源には困らないけれど…鉄虫もたくさん居るの。&nそれと正確な地形情報が十分にないわ。"
 msgstr ""
 
+#  Korean Text: '에이미 레이저'
+#: DialogScript[DG_Ch02Stage02_1_4].Char_Name_L
+msgid "エイミーレイザー"
+msgstr "Amy the Razor"
+
 #  Korean Text: '후후. 그 부분은 제가 도움이 되겠군요.'
 #: DialogScript[DG_Ch02Stage02_1_4].Script
 msgid "ふふ。そのことなら私が力をお貸ししましょうか。"
@@ -5996,6 +6036,11 @@ msgstr ""
 msgid "こちら21分隊。所属分隊や小隊を教えてください。&n…誰も居ませんか？"
 msgstr ""
 
+#  Korean Text: '코코 인 화이트셸'
+#: DialogScript[DG_Ch02Stage05_2_4].Char_Name_C
+msgid "ココ･イン･ホワイトシェル"
+msgstr "CoCo & WhiteShell"
+
 #  Korean Text: '아! 21스쿼드! 여긴 1부대 1스쿼드 소속 코코 머큐리에요!&n혹시 콘스탄챠 언니인가요?'
 #: DialogScript[DG_Ch02Stage05_2_4].Script
 msgid "あっ！21分隊っ！こちらは1部隊1分隊所属のココ・マーキュリーです！&nもしかしてコンスタンツァお姉ちゃんですか？"
@@ -6838,6 +6883,11 @@ msgstr ""
 #: DialogScript[DG_Ch02Stage07e_1_1].BG_Description
 msgid "マリーの挨拶"
 msgstr ""
+
+#  Korean Text: '불굴의 마리'
+#: DialogScript[DG_Ch02Stage07e_1_1].Char_Name_C
+msgid "不屈のマリー"
+msgstr "Indomitable Marie"
 
 #  Korean Text: '반갑습니다. 각하.&n이렇게 뵙게 되어 영광입니다.'
 #: DialogScript[DG_Ch02Stage07e_1_1].Script
@@ -8212,6 +8262,11 @@ msgstr ""
 msgid "よし。接続してくれ。"
 msgstr ""
 
+#  Korean Text: '에이다 Type-G'
+#: DialogScript[DG_Ch03Stage02_1_10].Char_Name_C
+msgid "エイダーType-G"
+msgstr "Aeda Type-G"
+
 #  Korean Text: '여기는 에이다, 전용 통신 포트로 연결합니다.'
 #: DialogScript[DG_Ch03Stage02_1_10].Script
 msgid "こちらエイダー、専用通信ポートに接続します。"
@@ -8591,6 +8646,11 @@ msgstr ""
 msgid "セルジュークとの遭遇"
 msgstr ""
 
+#  Korean Text: 'K180 셀주크'
+#: DialogScript[DG_Ch03Stage02b_2_1].Char_Name_L
+msgid "K180セルジューク"
+msgstr "K180 Seljuq"
+
 #  Korean Text: '셀주크 모델 가동 중.&n에이다로부터의 명령 접수 중...'
 #: DialogScript[DG_Ch03Stage02b_2_1].Script
 msgid "セルジュークモデル稼働中。エイダーからの命令受信中…"
@@ -8758,6 +8818,11 @@ msgstr ""
 #: DialogScript[DG_Ch03Stage03b_1_1].BG_Description
 msgid "トモとLRLの談笑"
 msgstr ""
+
+#  Korean Text: '토모'
+#: DialogScript[DG_Ch03Stage03b_1_1].Char_Name_L
+msgid "トモ"
+msgstr "Tomo"
 
 #  Korean Text: '아, 왠지 오늘은 힘 빠지는 거 있지? 연구 자료 같은 멋지고 지적인 게 좀 있을 &n줄 알았는데 텅텅 비어 있었어. 완전 엠프티...'
 #: DialogScript[DG_Ch03Stage03b_1_1].Script
@@ -10752,11 +10817,6 @@ msgstr ""
 msgid "はい。まだです。そろそろ戻ってくるとは思いますが…"
 msgstr ""
 
-#  Korean Text: 'P/A-00 그리폰'
-#: DialogScript[DG_Ch03Stage11_2_3].Char_Name_C
-msgid "P/A-00グリフォン"
-msgstr "P/A-00 Griffon"
-
 #  Korean Text: '대장! '
 #: DialogScript[DG_Ch03Stage11_2_3].Script
 msgid "隊長！"
@@ -10940,6 +11000,11 @@ msgstr ""
 #: DialogScript[DG_Ch03Stage12_2_1].BG_Description
 msgid "交渉場所"
 msgstr ""
+
+#  Korean Text: 'HQ1 알바트로스'
+#: DialogScript[DG_Ch03Stage12_2_1].Char_Name_R
+msgid "HQ1アルバトロス"
+msgstr "HQ1 Albatross"
 
 #  Korean Text: '반갑군. 로봇.'
 #: DialogScript[DG_Ch03Stage12_2_1].Script
@@ -11691,11 +11756,6 @@ msgstr ""
 #: DialogScript[DG_Ch03Stage15_2_9].Script
 msgid "そうか。なら接続を頼む。"
 msgstr ""
-
-#  Korean Text: '에이다 Type-G'
-#: DialogScript[DG_Ch03Stage15_2_10].Char_Name_C
-msgid "エイダーType-G"
-msgstr "Aeda Type-G"
 
 #  Korean Text: '반갑습니다. &n바이오로이드 마리. 전 AGS의 총사령을 맡고 있는 에이다라고 합니다.'
 #: DialogScript[DG_Ch03Stage15_2_10].Script
@@ -12823,6 +12883,11 @@ msgstr ""
 #: DialogScript[DG_Ch04Stage01b_2_1].BG_Name
 msgid "戦場"
 msgstr ""
+
+#  Korean Text: '바닐라 A1'
+#: DialogScript[DG_Ch04Stage01b_2_1].Char_Name_L
+msgid "バニラA1"
+msgstr "Vanilla A1"
 
 #  Korean Text: '이건 예상 외의 만남이군요.&n오랜 만이에요. 콘스탄챠 언니.'
 #: DialogScript[DG_Ch04Stage01b_2_1].Script
@@ -14341,6 +14406,11 @@ msgstr ""
 msgid "対空砲設置場所"
 msgstr ""
 
+#  Korean Text: 'T2 브라우니'
+#: DialogScript[DG_Ch04Stage05e_2_1].Char_Name_R
+msgid "T-2ブラウニー"
+msgstr "T2 Brownie"
+
 #  Korean Text: '좋아. 이 지역은 제압했군.&n브라우니. 대공포를 설치해라.'
 #: DialogScript[DG_Ch04Stage05e_2_1].Script
 msgid "よし。この地域は制圧できた。&nブラウニー。対空砲を設置してくれ。"
@@ -14967,11 +15037,6 @@ msgstr ""
 #: DialogScript[DG_Ch04Stage08_1_14].Script
 msgid "うん？何の音？&n事故かな？"
 msgstr ""
-
-#  Korean Text: '불굴의 마리'
-#: DialogScript[DG_Ch04Stage08_1_15].Char_Name_C
-msgid "不屈のマリー"
-msgstr "Indomitable Marie"
 
 #  Korean Text: '전원, 전투 준비! 습격이다! 전투를 준비하라!'
 #: DialogScript[DG_Ch04Stage08_1_15].Script
@@ -16561,6 +16626,11 @@ msgstr ""
 msgid "どうしたの…？私は何も言ってないわ…ちょっと待って！？"
 msgstr ""
 
+#  Korean Text: '트릭스터'
+#: DialogScript[DG_Ch05Stage04_2_4].Char_Name_L
+msgid "トリックスター"
+msgstr "Trickster"
+
 #  Korean Text: '... 안갈에게 저주받을 자들아... &n언젠가는 저주로 외신의 꿈 속에서 죽어갈 오염될 벌레들...'
 #: DialogScript[DG_Ch05Stage04_2_4].Script
 msgid "…アンガルに呪われた者たちよ…いつかは呪いにより&n外神の夢の中で死んでいく定めの汚れた虫どもめ…"
@@ -16949,6 +17019,11 @@ msgstr ""
 #: DialogScript[DG_Ch05Stage05_2_5].Script
 msgid "こちらコンスタンツァS2 416。&nスカディーさん？聞こえますか？"
 msgstr ""
+
+#  Korean Text: '스카디'
+#: DialogScript[DG_Ch05Stage05_2_6].Char_Name_C
+msgid "スカディー"
+msgstr "Scathy"
 
 #  Korean Text: '아, 여기는 스카디. 미안해요. 콘스탄챠, 지금 공격을 받고 있어서...&n통신을 늦게 받았군요.'
 #: DialogScript[DG_Ch05Stage05_2_6].Script
@@ -18473,6 +18548,21 @@ msgstr ""
 msgid "ドゥームブリンガー招集"
 msgstr ""
 
+#  Korean Text: '멸망의 메이'
+#: DialogScript[DG_Ch06Stage01b_1_1].Char_Name_C
+msgid "滅亡のメイ"
+msgstr "May of Doom"
+
+#  Korean Text: 'B-11 나이트 앤젤'
+#: DialogScript[DG_Ch06Stage01b_1_1].Char_Name_L
+msgid "B-11ナイトエンジェル"
+msgstr "B-11 Night Angel"
+
+#  Korean Text: '37식 다이카'
+#: DialogScript[DG_Ch06Stage01b_1_1].Char_Name_R
+msgid "37式ダイカ"
+msgstr "Type37 Daika"
+
 #  Korean Text: '네... 확인했어요.'
 #: DialogScript[DG_Ch06Stage01b_1_1].Script
 msgid "はい…確認いたしました。"
@@ -18872,6 +18962,10 @@ msgstr ""
 #  Korean Text: '잠깐만… 여기서 어디로 가야…'
 #: DialogScript[DG_Ch06Stage02_1_12].Script
 msgid "ええと…ここからどこへ行けば…"
+msgstr ""
+
+#: DialogScript[DG_Ch06Stage02_1_13].Char_Name_C
+msgid "1000637243エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '반갑습니다. 실험자 여러분. 애덤 존스가 설계하고 아미나 존스가 구축한&n가상 현실. [c][ffd130]마지막 금고[-][/c]에 오신 것을 환영합니다.'
@@ -20379,6 +20473,11 @@ msgstr ""
 #: DialogScript[DG_Ch06Stage04e_1_1].BG_Description
 msgid "出撃を準備する分隊員たち"
 msgstr ""
+
+#  Korean Text: 'T-3 레프리콘'
+#: DialogScript[DG_Ch06Stage04e_1_1].Char_Name_R
+msgid "T-3レプリコン"
+msgstr "T-3 Leprechaun"
 
 #  Korean Text: '햐~! 이거, 저 같은 보병이 마리 대장님과 임무라니.&n진짜 영광이지 말입니다.'
 #: DialogScript[DG_Ch06Stage04e_1_1].Script
@@ -22861,10 +22960,20 @@ msgstr ""
 msgid "- バイオロイドたちに囲まれた俺の体はまだ熱っぽかった。"
 msgstr ""
 
+#  Korean Text: '닥터'
+#: DialogScript[DG_Ch07Stage01_1_2].Char_Name_C
+msgid "ドクター"
+msgstr "Doctor"
+
 #  Korean Text: '흠…'
 #: DialogScript[DG_Ch07Stage01_1_41].Script
 msgid "ふむ…"
 msgstr ""
+
+#  Korean Text: 'P/A-8 블랙 하운드'
+#: DialogScript[DG_Ch07Stage01b_1_1].Char_Name_R
+msgid "P/A-8ブラックハウンド"
+msgstr "P/A-8 Blackhound"
 
 #  Korean Text: '응? 뭐가?'
 #: DialogScript[DG_Ch07Stage01e_1_7].Script
@@ -22888,25 +22997,55 @@ msgstr ""
 msgid "次に"
 msgstr ""
 
+#  Korean Text: 'P-22 하르페이아'
+#: DialogScript[DG_Ch07Stage02b_1_1].Char_Name_C
+msgid "P-22ハルピュイア"
+msgstr "P-22 Harpyia"
+
 #  Korean Text: '그게 무슨 소리야?'
 #: DialogScript[DG_Ch07Stage02e_2_25].Script
 msgid "何だいきなり？"
 msgstr ""
+
+#  Korean Text: 'AL 팬텀'
+#: DialogScript[DG_Ch07Stage03_1_50].Char_Name_C
+msgid "ALファントム"
+msgstr "AL Phantom"
+
+#  Korean Text: 'AT-4 파니'
+#: DialogScript[DG_Ch07Stage03_2_1].Char_Name_C
+msgid "AT-4パニ"
+msgstr "AT-4 Pani"
+
+#  Korean Text: 'AT-100 비스트헌터'
+#: DialogScript[DG_Ch07Stage03_2_1].Char_Name_L
+msgid "AT-100ビーストハンター"
+msgstr "AT-100 Beast Hunter"
+
+#  Korean Text: '로열 아스널'
+#: DialogScript[DG_Ch07Stage03_2_1].Char_Name_R
+msgid "ロイヤル・アーセナル"
+msgstr "Royal Arsenal"
 
 #  Korean Text: '발사!'
 #: DialogScript[DG_Ch07Stage03_2_7].Script
 msgid "今です！発射！"
 msgstr ""
 
-#  Korean Text: '로열 아스널'
-#: DialogScript[DG_Ch07Stage03_2_25].Char_Name_L
-msgid "ロイヤル・アーセナル"
-msgstr "Royal Arsenal"
+#  Korean Text: 'P-29 린트블룸'
+#: DialogScript[DG_Ch07Stage03b_1_1].Char_Name_C
+msgid "P-29リントヴルム"
+msgstr "P-29 Lindwurm"
 
-#  Korean Text: 'AT-100 비스트헌터'
-#: DialogScript[DG_Ch07Stage03_2_34].Char_Name_R
-msgid "AT-100ビーストハンター"
-msgstr "AT-100 Beast Hunter"
+#  Korean Text: '레아'
+#: DialogScript[DG_Ch07Stage03e_1_1].Char_Name_R
+msgid "オベロニア･レア"
+msgstr "Rhea"
+
+#  Korean Text: 'T-75 워울프'
+#: DialogScript[DG_Ch07Stage03e_2_24].Char_Name_R
+msgid "T-75ウェアウルフ"
+msgstr "T-75 Werewolf"
 
 #: DialogScript[DG_Ch07Stage04_1_55].SelectionIndex[1]
 msgid "すまない。"
@@ -22917,10 +23056,25 @@ msgstr ""
 msgid "では…"
 msgstr ""
 
-#  Korean Text: 'P/A-8 블랙 하운드'
-#: DialogScript[DG_Ch07Stage04b_1_1].Char_Name_R
-msgid "P/A-8ブラックハウンド"
-msgstr "P/A-8 Blackhound"
+#  Korean Text: 'P-49 슬레이프니르'
+#: DialogScript[DG_Ch07Stage04b_1_3].Char_Name_C
+msgid "P-49スレイプニール"
+msgstr "P-49 Sleipnir"
+
+#  Korean Text: 'S12 쉐이드'
+#: DialogScript[DG_Ch07Stage04e_1_21].Char_Name_R
+msgid "S12シェード"
+msgstr "S12 Shade"
+
+#  Korean Text: '세이렌'
+#: DialogScript[DG_Ch07Stage05_1_5].Char_Name_R
+msgid "セイレーン"
+msgstr ""
+
+#  Korean Text: '트리아이나'
+#: DialogScript[DG_Ch07Stage05_1_15].Char_Name_L
+msgid "トリアイナ"
+msgstr "Triana"
 
 #: DialogScript[DG_Ch07Stage05_2_5].SelectionIndex[1]
 msgid "そうだな。"
@@ -22931,15 +23085,45 @@ msgstr ""
 msgid "海辺"
 msgstr ""
 
+#  Korean Text: '철혈의 레오나'
+#: DialogScript[DG_Ch07Stage05e_1_7].Char_Name_R
+msgid "鉄血のレオナ"
+msgstr "Bloodstained Leona"
+
+#  Korean Text: '무적의 용'
+#: DialogScript[DG_Ch07Stage05e_2_3].Char_Name_C
+msgid "無敵の竜"
+msgstr "Invincible Dragon"
+
+#  Korean Text: '홍련'
+#: DialogScript[DG_Ch07Stage06_1_1].Char_Name_R
+msgid "C-77紅蓮"
+msgstr "C-77 HongRyeon"
+
+#  Korean Text: '블랙 리리스'
+#: DialogScript[DG_Ch07Stage06_2_1].Char_Name_C
+msgid "ブラックリリス"
+msgstr "Black Lilith"
+
 #  Korean Text: '[c][57e137]잠시 후,[-][/c]'
 #: DialogScript[DG_Ch07Stage06_2_13].Script
 msgid "[c][57e137]しばらく経過した後。[-][/c]"
 msgstr ""
 
+#  Korean Text: '성벽의 하치코'
+#: DialogScript[DG_Ch07Stage06_2_14].Char_Name_R
+msgid "城壁のハチコ"
+msgstr "Hachiko of Castling"
+
 #  Korean Text: '네? 하지만…'
 #: DialogScript[DG_Ch07Stage06_2_37].Script
 msgid "え…？ですが…"
 msgstr ""
+
+#  Korean Text: '스파르탄 캡틴'
+#: DialogScript[DG_Ch07Stage07_1_1].Char_Name_L
+msgid "S25スパルタンキャプテン"
+msgstr "S25 Spartan Captain"
 
 #  Korean Text: '칫...'
 #: DialogScript[DG_Ch07Stage07_1_30].Script
@@ -22954,6 +23138,21 @@ msgstr ""
 #: DialogScript[DG_Ch07Stage08_1_1].BG_Name
 msgid "海岸"
 msgstr ""
+
+#  Korean Text: '신속의 칸'
+#: DialogScript[DG_Ch07Stage08_1_1].Char_Name_L
+msgid "迅速のカーン"
+msgstr "Swift Khan"
+
+#  Korean Text: 'T-14 미호'
+#: DialogScript[DG_Ch07Stage08_1_30].Char_Name_C
+msgid "T-14ミホ"
+msgstr "T-14 Miho"
+
+#  Korean Text: 'T-8W 발키리'
+#: DialogScript[DG_Ch07Stage08_1_30].Char_Name_R
+msgid "T-8Wヴァルキリー"
+msgstr "T-8W Valkyrie"
 
 #  Korean Text: '- ... ...'
 #: DialogScript[DG_Ch07Stage08_1_48].Script
@@ -22995,6 +23194,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage01_1_6].Script
 msgid "1000629018エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '아르망'
+#: DialogScript[DG_Ch08Stage01_1_7].Char_Name_L
+msgid "アルマン枢機卿"
+msgstr "Armand"
 
 #: DialogScript[DG_Ch08Stage01_1_7].Script
 msgid "1000629019エラーが発生しました。"
@@ -23047,6 +23251,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage01_1_15].Script
 msgid "1000629027エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '이그니스'
+#: DialogScript[DG_Ch08Stage01_1_16].Char_Name_C
+msgid "イグニス"
+msgstr "Ignis"
 
 #: DialogScript[DG_Ch08Stage01_1_16].Script
 msgid "1000629028エラーが発生しました。"
@@ -23148,6 +23357,11 @@ msgstr ""
 msgid "1000629044エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: '자비로운 리앤'
+#: DialogScript[DG_Ch08Stage01_1_33].Char_Name_L
+msgid "慈悲深いリエン"
+msgstr ""
+
 #: DialogScript[DG_Ch08Stage01_1_33].Script
 msgid "1000629045エラーが発生しました。"
 msgstr ""
@@ -23155,6 +23369,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage01_1_34].Script
 msgid "1000629046エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '오드리 드림위버'
+#: DialogScript[DG_Ch08Stage01_1_35].Char_Name_R
+msgid "オードリードリームウィーバー"
+msgstr "Audrey"
 
 #: DialogScript[DG_Ch08Stage01_1_35].Script
 msgid "1000629047エラーが発生しました。"
@@ -23299,6 +23518,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage01_2_1].BG_Description
 msgid "1000630226エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '엠프리스'
+#: DialogScript[DG_Ch08Stage01_2_1].Char_Name_L
+msgid "エンプレス"
+msgstr "Empress"
 
 #: DialogScript[DG_Ch08Stage01_2_1].Script
 msgid "1000629072エラーが発生しました。"
@@ -23568,9 +23792,19 @@ msgstr ""
 msgid "1000629123エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: 'P-24 핀토'
+#: DialogScript[DG_Ch08Stage01b_1_1].Char_Name_L
+msgid "P-24ピント"
+msgstr "P-24 Pinto"
+
 #: DialogScript[DG_Ch08Stage01b_1_1].Script
 msgid "1000629800エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: 'T-60 불가사리'
+#: DialogScript[DG_Ch08Stage01b_1_2].Char_Name_R
+msgid "T-60ブルガサリ"
+msgstr "T-60 Bulgasari"
 
 #: DialogScript[DG_Ch08Stage01b_1_2].Script
 msgid "1000629801エラーが発生しました。"
@@ -23683,6 +23917,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage01b_1_29].Script
 msgid "1000629828エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: 'AS-12 스틸 드라코'
+#: DialogScript[DG_Ch08Stage01b_1_30].Char_Name_L
+msgid "AS-12スチールドラコ"
+msgstr "AS-12 Steel Draco"
 
 #: DialogScript[DG_Ch08Stage01b_1_30].Script
 msgid "1000629829エラーが発生しました。"
@@ -23908,12 +24147,22 @@ msgstr ""
 msgid "1000630332エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: '레모네이드 알파'
+#: DialogScript[DG_Ch08Stage01e_1_7].Char_Name_R
+msgid "1002100216エラーが発生しました。"
+msgstr ""
+
 #: DialogScript[DG_Ch08Stage01e_1_7].Script
 msgid "1000630333エラーが発生しました。"
 msgstr ""
 
 #: DialogScript[DG_Ch08Stage01e_1_8].Script
 msgid "1000630334エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '해체자 아자즈'
+#: DialogScript[DG_Ch08Stage01e_1_9].Char_Name_L
+msgid "1002100215エラーが発生しました。"
 msgstr ""
 
 #: DialogScript[DG_Ch08Stage01e_1_9].Script
@@ -24143,6 +24392,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage01e_2_13].SelectionIndex[1]
 msgid "1000630485エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '스노우 페더'
+#: DialogScript[DG_Ch08Stage01e_2_14].Char_Name_C
+msgid "スノーフェザー"
+msgstr "Snow Feather"
 
 #: DialogScript[DG_Ch08Stage01e_2_14].Script
 msgid "1000630374エラーが発生しました。"
@@ -24491,6 +24745,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage02_1_40].Script
 msgid "1000629163エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: 'A-1 블러디 팬서'
+#: DialogScript[DG_Ch08Stage02_2_1].Char_Name_R
+msgid "A-1ブラッディパンサー"
+msgstr "A-1 Bloody Panther"
 
 #: DialogScript[DG_Ch08Stage02_2_1].Script
 msgid "1000629164エラーが発生しました。"
@@ -25724,6 +25983,11 @@ msgstr ""
 msgid "1000629262エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: 'T-50 PX 실키'
+#: DialogScript[DG_Ch08Stage03_1_45].Char_Name_C
+msgid "T-50PXシルキー"
+msgstr "T-50 PX Silky"
+
 #: DialogScript[DG_Ch08Stage03_1_45].Script
 msgid "1000629263エラーが発生しました。"
 msgstr ""
@@ -25848,6 +26112,11 @@ msgstr ""
 msgid "1000629293エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: 'T-13 알비스'
+#: DialogScript[DG_Ch08Stage03_2_15].Char_Name_R
+msgid "T-13アルヴィス"
+msgstr "T-13 Alvis"
+
 #: DialogScript[DG_Ch08Stage03_2_15].Script
 msgid "1000629294エラーが発生しました。"
 msgstr ""
@@ -25907,6 +26176,16 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage03_2_29].Script
 msgid "1000629308エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: 'T-12 베라'
+#: DialogScript[DG_Ch08Stage03_2_30].Char_Name_L
+msgid "T-12カリアフ・ベラ"
+msgstr "T-12 Bheur"
+
+#  Korean Text: 'GS-10 샌드걸'
+#: DialogScript[DG_Ch08Stage03_2_30].Char_Name_R
+msgid "GS-10サンドガール"
+msgstr "GS-10 Sand Girl"
 
 #: DialogScript[DG_Ch08Stage03_2_30].Script
 msgid "1000629309エラーが発生しました。"
@@ -26039,6 +26318,11 @@ msgstr ""
 #: DialogScript[DG_Ch08Stage03_2_55].Script
 msgid "1000629334エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '징벌의 사디어스'
+#: DialogScript[DG_Ch08Stage03b_1_1].Char_Name_L
+msgid "懲罰のサディアス"
+msgstr "Sadius of Retribution"
 
 #: DialogScript[DG_Ch08Stage03b_1_1].Script
 msgid "1000629981エラーが発生しました。"
@@ -26418,6 +26702,11 @@ msgstr ""
 
 #: DialogScript[DG_Ch08Stage04_1_20].Script
 msgid "1000629354エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '레모네이드 오메가'
+#: DialogScript[DG_Ch08Stage04_1_21].Char_Name_C
+msgid "レモネードオメガ"
 msgstr ""
 
 #: DialogScript[DG_Ch08Stage04_1_21].Script
@@ -28884,6 +29173,11 @@ msgstr ""
 msgid "1000629770エラーが発生しました。"
 msgstr ""
 
+#  Korean Text: '철의 왕자'
+#: DialogScript[DG_Ch08Stage09_2_1].Char_Name_C
+msgid "鉄の王子"
+msgstr ""
+
 #: DialogScript[DG_Ch08Stage09_2_1].Script
 msgid "1000629771エラーが発生しました。"
 msgstr ""
@@ -28926,6 +29220,10 @@ msgstr ""
 
 #: DialogScript[DG_Ch08Stage09_2_10].Script
 msgid "1000629780エラーが発生しました。"
+msgstr ""
+
+#: DialogScript[DG_Ch08Stage09_2_11].Char_Name_R
+msgid "1000637246エラーが発生しました。"
 msgstr ""
 
 #: DialogScript[DG_Ch08Stage09_2_11].Script

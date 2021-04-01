@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-03-10 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -561,6 +561,68 @@ msgstr ""
 #: PCStory[Story_Char_BR_Tomoe_N_3_PECS_LRL_4].StoryFileName
 msgid "教科書"
 msgstr "Textbook"
+
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Fotia_1].DgStartTriggerString1
+msgid "魔法少女マジカル白兎の好感度80以上"
+msgstr ""
+
+#  Korean Text: '사령관은 대원들이 변화하는 모습에 뿌듯함을 느끼고 있습니다.'
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Fotia_1].StoryDesc
+msgid "司令官は隊員たちの成長っぷりに遣り甲斐を感じています。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Fotia_1].StoryFileName
+msgid "電力不足？"
+msgstr ""
+
+#  Korean Text: '달의 마력이 담긴…'
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Fotia_1].StoryName
+msgid "月の魔力の秘められし…"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Sowan_3].DgStartTriggerString1
+msgid "ストーリーファイル「現場検挙」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Sowan_3].StoryDesc
+msgid "誰の影響でしょうか。ソワンも大分丸くなりましたね。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_3P_Sowan_3].StoryFileName
+msgid "地獄の料理長"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_DS_Baekto_4].DgStartTriggerString1
+msgid "ストーリーファイル「地獄の料理長」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_DS_Baekto_4].StoryDesc
+msgid "白兎は未だに服に力が宿っていると信じています。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_DS_Baekto_4].StoryFileName
+msgid "月見餅を探して"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_DS_Baekto_5].DgStartTriggerString1
+msgid "ストーリーファイル「月見餅を探して」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_DS_Baekto_5].StoryDesc
+msgid "月のご加護が供にあらんことを。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_PECS_Fortune_2].DgStartTriggerString1
+msgid "ストーリーファイル「電力不足？」完了"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_PECS_Fortune_2].StoryDesc
+msgid "フォーチュンは妹たちのお世話に忙しいです。が、悪戯心は忘れていません。"
+msgstr ""
+
+#: PCStory[Story_Char_DS_Baekto_N_7_PECS_Fortune_2].StoryFileName
+msgid "現場検挙"
+msgstr ""
 
 #: PCStory[Story_Char_DS_Faucre_N_6_3P_CSPerrault_4].DgStartTriggerString1
 msgid "ストーリーファイル「試験稼働＃1」完了"

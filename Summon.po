@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2020-09-09 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -20,6 +20,14 @@ msgstr ""
 #  Korean Text: '점착 폭탄'
 #: Summon[SUMMON_SU_C4Bomb_N].Name
 msgid "粘着爆弾"
+msgstr ""
+
+#: Summon[SUMMON_SU_GoldenFactory_N].Name
+msgid "1002800009エラーが発生しました。"
+msgstr ""
+
+#: Summon[SUMMON_SU_HoloTiger_N].Name
+msgid "ホログラムタイガー"
 msgstr ""
 
 #  Korean Text: '반응 지뢰'

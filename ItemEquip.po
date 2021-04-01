@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-03-10 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -42,9 +42,34 @@ msgstr "CPU Enhancement Circuit SP"
 msgid "演算強化回路EX"
 msgstr "CPU Enhancement Circuit EX"
 
+#  Korean Text: '적중+{0} / 방어력{1}'
+#: ItemEquip[Equip_Chip_AccTypeB_T1].ItemDesc
+msgid "1001200517エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '연산 성능을 강화해 적중을 높입니다. 오버 클럭으로 방어력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_AccTypeB_T1].ItemDesc_Detail
 msgid "演算機能を強化し命中を上げます。オーバークロックでHPが減少します。"
+msgstr ""
+
+#  Korean Text: '연산 강화 회로 베타 RE'
+#: ItemEquip[Equip_Chip_AccTypeB_T1].ItemName
+msgid "1001200428エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '연산 강화 회로 베타 MP'
+#: ItemEquip[Equip_Chip_AccTypeB_T2].ItemName
+msgid "1001200429エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '연산 강화 회로 베타 SP'
+#: ItemEquip[Equip_Chip_AccTypeB_T3].ItemName
+msgid "1001200430エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '연산 강화 회로 베타 EX'
+#: ItemEquip[Equip_Chip_AccTypeB_T4].ItemName
+msgid "1001200431エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '공격력+{0}\n치명타+{0}'
@@ -173,6 +198,36 @@ msgstr "Output Stabilizer Circuit SP"
 msgid "出力安定回路EX"
 msgstr "Output Stabilizer Circuit EX"
 
+#  Korean Text: '공격력+{0} / 회피{1}'
+#: ItemEquip[Equip_Chip_AtkTypeB_T1].ItemDesc
+msgid "1001200513エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '출력을 강화해 공격력을 높입니다. 오버 클럭으로 회피가 감소 합니다.'
+#: ItemEquip[Equip_Chip_AtkTypeB_T1].ItemDesc_Detail
+msgid "1001200600エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '출력 강화 회로 베타 RE'
+#: ItemEquip[Equip_Chip_AtkTypeB_T1].ItemName
+msgid "1001200424エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '출력 강화 회로 베타 MP'
+#: ItemEquip[Equip_Chip_AtkTypeB_T2].ItemName
+msgid "1001200425エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '출력 강화 회로 베타 SP'
+#: ItemEquip[Equip_Chip_AtkTypeB_T3].ItemName
+msgid "1001200426エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '출력 강화 회로 베타 EX'
+#: ItemEquip[Equip_Chip_AtkTypeB_T4].ItemName
+msgid "1001200427エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '치명타+{0}'
 #: ItemEquip[Equip_Chip_Cri_T1].ItemDesc
 msgid "クリティカル+{0}"
@@ -218,6 +273,36 @@ msgstr ""
 #  Korean Text: '개량형 분석 회로 EX'
 #: ItemEquip[Equip_Chip_CriAccEx_T4].ItemName
 msgid "改良型分析回路EX"
+msgstr ""
+
+#  Korean Text: '치명타+{0} / 방어력{1}'
+#: ItemEquip[Equip_Chip_CriTypeB_T1].ItemDesc
+msgid "1001200529エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '적의 약점을 분석해 치명타를 높입니다. 오버 클럭으로 방어력이 감소 합니다.'
+#: ItemEquip[Equip_Chip_CriTypeB_T1].ItemDesc_Detail
+msgid "1001200604エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '분석 회로 베타 RE'
+#: ItemEquip[Equip_Chip_CriTypeB_T1].ItemName
+msgid "1001200440エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '분석 회로 베타 MP'
+#: ItemEquip[Equip_Chip_CriTypeB_T2].ItemName
+msgid "1001200441エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '분석 회로 베타 SP'
+#: ItemEquip[Equip_Chip_CriTypeB_T3].ItemName
+msgid "1001200442エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '분석 회로 베타 EX'
+#: ItemEquip[Equip_Chip_CriTypeB_T4].ItemName
+msgid "1001200443エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '효과 저항 / 해로운 효과 해제 Lv.1'
@@ -297,9 +382,34 @@ msgstr "Anti-Impact Enhancement Circuit SP"
 msgid "耐衝撃回路EX"
 msgstr "Anti-Impact Enhancement Circuit EX"
 
+#  Korean Text: '방어력+{0} / 공격력{1}'
+#: ItemEquip[Equip_Chip_DefTypeB_T1].ItemDesc
+msgid "1001200521エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '내 충격 성능을 강화해 방어를 높입니다. 오버 클럭으로 공격력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_DefTypeB_T1].ItemDesc_Detail
 msgid "耐衝撃性能を強化し防御を上げます。オーバークロックでHPが減少します。"
+msgstr ""
+
+#  Korean Text: '내 충격 회로 베타 RE'
+#: ItemEquip[Equip_Chip_DefTypeB_T1].ItemName
+msgid "1001200432エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '내 충격 회로 베타 MP'
+#: ItemEquip[Equip_Chip_DefTypeB_T2].ItemName
+msgid "1001200433エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '내 충격 회로 베타 SP'
+#: ItemEquip[Equip_Chip_DefTypeB_T3].ItemName
+msgid "1001200434エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '내 충격 회로 베타 EX'
+#: ItemEquip[Equip_Chip_DefTypeB_T4].ItemName
+msgid "1001200435エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '강화용 저가형 칩셋'
@@ -397,9 +507,34 @@ msgstr "Reaction Enhancement Circuit SP"
 msgid "反応強化回路EX"
 msgstr "Reaction Enhancement Circuit EX"
 
+#  Korean Text: '회피+{0} / 공격력{1}'
+#: ItemEquip[Equip_Chip_EvTypeB_T1].ItemDesc
+msgid "1001200525エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '반응 속도를 향상시켜 회피를 높입니다. 오버 클럭으로 공격력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_EvTypeB_T1].ItemDesc_Detail
 msgid "反応速度を向上させ回避を上げます。オーバークロックでHPが減少します。"
+msgstr ""
+
+#  Korean Text: '반응 강화 회로 베타 RE'
+#: ItemEquip[Equip_Chip_EvTypeB_T1].ItemName
+msgid "1001200436エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '반응 강화 회로 베타 MP'
+#: ItemEquip[Equip_Chip_EvTypeB_T2].ItemName
+msgid "1001200437エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '반응 강화 회로 베타 SP'
+#: ItemEquip[Equip_Chip_EvTypeB_T3].ItemName
+msgid "1001200438エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '반응 강화 회로 베타 EX'
+#: ItemEquip[Equip_Chip_EvTypeB_T4].ItemName
+msgid "1001200439エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '회로 내구도를 높여 HP가 증가합니다.'
@@ -427,9 +562,34 @@ msgstr "Durability Enhancement Circuit SP"
 msgid "回路耐久強化EX"
 msgstr "Durability Enhancement Circuit EX"
 
+#  Korean Text: 'HP+{0} / 공격력{1}'
+#: ItemEquip[Equip_Chip_HpTypeB_T1].ItemDesc
+msgid "1001200533エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '회로 내구도를 높여 HP가 증가합니다. 오버 클럭으로 공격력이 감소 합니다.'
 #: ItemEquip[Equip_Chip_HpTypeB_T1].ItemDesc_Detail
 msgid "回路耐久度を高めてHPが増加します。オーバークロックで攻撃力が減少します。"
+msgstr ""
+
+#  Korean Text: '회로 내구 강화 베타 RE'
+#: ItemEquip[Equip_Chip_HpTypeB_T1].ItemName
+msgid "1001200444エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '회로 내구 강화 베타 MP'
+#: ItemEquip[Equip_Chip_HpTypeB_T2].ItemName
+msgid "1001200445エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '회로 내구 강화 베타 SP'
+#: ItemEquip[Equip_Chip_HpTypeB_T3].ItemName
+msgid "1001200446エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '회로 내구 강화 베타 EX'
+#: ItemEquip[Equip_Chip_HpTypeB_T4].ItemName
+msgid "1001200447エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '적 공격 시, 획득 경험치 증가 Lv.1'
@@ -572,9 +732,34 @@ msgstr "Optimization Circuit SP"
 msgid "回路最適化EX"
 msgstr "Optimization Circuit EX"
 
+#  Korean Text: '행동력+{0} / 회피{1}'
+#: ItemEquip[Equip_Chip_SpdTypeB_T1].ItemDesc
+msgid "1001200537エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '각 처리 성능을 향상시켜 행동력이 증가합니다. 오버 클럭으로 회피가 감소 합니다.'
 #: ItemEquip[Equip_Chip_SpdTypeB_T1].ItemDesc_Detail
 msgid "各処理性能を向上させ行動力が増加します。オーバークロックでHPが減少します。"
+msgstr ""
+
+#  Korean Text: '회로 최적화 베타 RE'
+#: ItemEquip[Equip_Chip_SpdTypeB_T1].ItemName
+msgid "1001200448エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '회로 최적화 베타 MP'
+#: ItemEquip[Equip_Chip_SpdTypeB_T2].ItemName
+msgid "1001200449エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '회로 최적화 베타 SP'
+#: ItemEquip[Equip_Chip_SpdTypeB_T3].ItemName
+msgid "1001200450エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '회로 최적화 베타 EX'
+#: ItemEquip[Equip_Chip_SpdTypeB_T4].ItemName
+msgid "1001200451エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '공격력+{0} / 치명타+{1} / 적중+{2} / 방어 관통'
@@ -1012,6 +1197,21 @@ msgstr "This is an Expanded Cosmic Booster specifically for CM67 Stinger."
 msgid "宇宙用拡張ブースター"
 msgstr "Expanded Space Booster"
 
+#  Korean Text: '공격력+{0} / 화염 저항+{1} / 전기 저항+{2} '
+#: ItemEquip[Equip_Sub_CMIIShield_T4].ItemDesc
+msgid "1001200509エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '켈베로스 전용 촙 메이커 II와 강화 티타늄 실드입니다. 라운드 개시 시, 방어력이 증가하며 반격이 활성화 됩니다. <스턴 롯드>의 피해량이 20% 증가합니다.'
+#: ItemEquip[Equip_Sub_CMIIShield_T4].ItemDesc_Detail
+msgid "1001200596エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '촙 메이커 II'
+#: ItemEquip[Equip_Sub_CMIIShield_T4].ItemName
+msgid "1001200421エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '전기 저항+{0} / 전기 속성 피격 시, 능력 증가'
 #: ItemEquip[Equip_Sub_ElectroGenerator_T1].ItemDesc
 msgid "電気耐性+{0}/電気属性被撃時、能力増加"
@@ -1167,6 +1367,21 @@ msgstr ""
 msgid "補助外骨格EX"
 msgstr ""
 
+#  Korean Text: '공격력+{0} / 치명타+{1} / 적중+{2} / 라운드 시작시 AP 증가'
+#: ItemEquip[Equip_Sub_FCS_T4].ItemDesc
+msgid "1001200557エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '셀주크 전용 사격 조정 시스템입니다.\n장착 시 공격력, 치명타, 적중이 증가하며 매 라운드 AP를 획득합니다.'
+#: ItemEquip[Equip_Sub_FCS_T4].ItemDesc_Detail
+msgid "1001200612エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: 'F.C.S'
+#: ItemEquip[Equip_Sub_FCS_T4].ItemName
+msgid "1001200465エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '적중+{0} / 회피+{1}'
 #: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemDesc
 msgid "命中+{0}/回避+{1}"
@@ -1183,6 +1398,21 @@ msgstr ""
 #: ItemEquip[Equip_Sub_FortuneOrb_T4].ItemName
 msgid "運命の水晶玉EX"
 msgstr "Crystal Ball of Fate EX"
+
+#  Korean Text: '화염 저항+{0} / 냉기 저항+{1} / 행동력+{2}'
+#: ItemEquip[Equip_Sub_GigantesArmor_T4].ItemDesc
+msgid "1001200511エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '기간테스 전용 신형 외장 장갑입니다. 기존보다 가볍고 탄력 있는 특수 소재로 만들어져, 받는 피해가 감소합니다.'
+#: ItemEquip[Equip_Sub_GigantesArmor_T4].ItemDesc_Detail
+msgid "1001200598エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '개량형 복합 장갑'
+#: ItemEquip[Equip_Sub_GigantesArmor_T4].ItemName
+msgid "1001200423エラーが発生しました。"
+msgstr ""
 
 #  Korean Text: '공격력+{0} / 회피+{1}'
 #: ItemEquip[Equip_Sub_GrandCruChocolate_T4].ItemDesc
@@ -1280,6 +1510,21 @@ msgstr ""
 #: ItemEquip[Equip_Sub_IcePack_T4].ItemName
 msgid "冷却パックEX"
 msgstr "Cooling Pack EX"
+
+#  Korean Text: '치명타+{0} / 적중+{1} / 적중 감소 해제'
+#: ItemEquip[Equip_Sub_ImSpSight_T4].ItemDesc
+msgid "1001200558エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '신소재로 강화된 스코프입니다.\n치명타와 적중이 증가하며 적중 감소 해제 효과를 얻습니다.'
+#: ItemEquip[Equip_Sub_ImSpSight_T4].ItemDesc_Detail
+msgid "1001200613エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '개량형 초정밀 조준기 EX'
+#: ItemEquip[Equip_Sub_ImSpSight_T4].ItemName
+msgid "1001200466エラーが発生しました。"
+msgstr ""
 
 #  Korean Text: '적중+{0} / 치명타+{1} / 사거리 증가'
 #: ItemEquip[Equip_Sub_Interceptor_T4].ItemDesc
@@ -1487,6 +1732,36 @@ msgstr "Increase Accuracy / Range Lv.4"
 msgid "観測装備EX"
 msgstr "Observation Equipment EX"
 
+#  Korean Text: '사용 안함'
+#: ItemEquip[Equip_Sub_Odamplifier_T1].ItemDesc
+msgid "1001200505エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: 'O.D 증폭기 RE'
+#: ItemEquip[Equip_Sub_Odamplifier_T1].ItemName
+msgid "1001200418エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: 'O.D 증폭기 MP'
+#: ItemEquip[Equip_Sub_Odamplifier_T2].ItemName
+msgid "1001200419エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: 'O.D 증폭기 SP'
+#: ItemEquip[Equip_Sub_Odamplifier_T3].ItemName
+msgid "1001200420エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '공격력 증가 / 지속 고정 피해'
+#: ItemEquip[Equip_Sub_Odamplifier_T4].ItemDesc
+msgid "1001200508エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '라운드 개시 시, 체내의 오리진 더스트를 일시적으로 증폭시켜 공격력이 크게 증가하지만 지속 고정 피해를 입습니다. 바이로오이드에게만 효과가 있으며, HP 25% 이상일 때만 발동합니다.'
+#: ItemEquip[Equip_Sub_Odamplifier_T4].ItemDesc_Detail
+msgid "1001200595エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: 'O.D 증폭기 EX'
 #: ItemEquip[Equip_Sub_Odamplifier_T4].ItemName
 msgid "O.D増幅器EX"
@@ -1542,9 +1817,24 @@ msgstr "Increase Attack / Action Speed / Take Fixed Damage Lv.4"
 msgid "出力制限解除装置EX"
 msgstr "Output Limit Remover EX"
 
+#  Korean Text: '공격력 증가 / 자신 받는 피해 증가'
+#: ItemEquip[Equip_Sub_ParticleAcceleratorATK_T4].ItemDesc
+msgid "1001200573エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '공격기 전용 장비입니다. 라운드 개시 시, 고에너지를 생성해 공격력이 크게 증가하지만 받는 피해도 함께 증가합니다.'
 #: ItemEquip[Equip_Sub_ParticleAcceleratorATK_T4].ItemDesc_Detail
 msgid "1002600578エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '입자 가속기 [력] EX'
+#: ItemEquip[Equip_Sub_ParticleAcceleratorATK_T4].ItemName
+msgid "1001200478エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '사거리 증가'
+#: ItemEquip[Equip_Sub_Precision_T4].ItemDesc
+msgid "1001200553エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '사거리 증가 기능이 특화된 관측 장비 입니다. 사거리 감소 효과를 해제하며 사거리가 증가합니다.'
@@ -1552,9 +1842,29 @@ msgstr ""
 msgid "射程距離増加機能に特化された観測装備です。射程距離減少効果を解除し射程距離が増加します。"
 msgstr ""
 
+#  Korean Text: '정밀형 관측 장비 EX'
+#: ItemEquip[Equip_Sub_Precision_T4].ItemName
+msgid "1001200464エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '적중+{0} / 회피+{1} / 정찰 / 지휘 강화'
+#: ItemEquip[Equip_Sub_QMObserver_T4].ItemDesc
+msgid "1001200512エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '철혈의 레오나 전용 지휘 보조 프레임입니다. 정찰 기능이 상시 활성화 되며, 지휘 계통 패시브 스킬의 효과가 증가합니다.'
+#: ItemEquip[Equip_Sub_QMObserver_T4].ItemDesc_Detail
+msgid "1001200599エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '전투 관측 프레임'
 #: ItemEquip[Equip_Sub_QMObserver_T4].ItemName
 msgid "戦闘観測フレーム"
+msgstr ""
+
+#  Korean Text: '다크엘븐 전용 전투장비 세트 입니다.\n장착 시 공격력, 치명타, 적중이 증가하며 방어 관통 효과를 얻습니다.'
+#: ItemEquip[Equip_Sub_RangerSet_T4].ItemDesc_Detail
+msgid "1001200608エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '레인저용 전투장비 세트'
@@ -1936,14 +2246,49 @@ msgstr ""
 msgid "テロ鎮圧用アーマー"
 msgstr "Terror Suppression Armor Plating"
 
+#  Korean Text: '공격력+{0} / 치명타+{1} / 적 사망 시 HP 감소'
+#: ItemEquip[Equip_Sub_ThornNecklace_T4].ItemDesc
+msgid "1001200555エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '베로니카 전용 가시 목걸이 입니다.\n장착 시 공격력과 치명타가 증가하는 반면 적 사망 시 공격력 일정 비율의 HP가 감소합니다.'
+#: ItemEquip[Equip_Sub_ThornNecklace_T4].ItemDesc_Detail
+msgid "1001200610エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '특수 대원용 가시 목걸이'
 #: ItemEquip[Equip_Sub_ThornNecklace_T4].ItemName
 msgid "特殊隊員用の棘首輪"
 msgstr ""
 
+#  Korean Text: '방어력+{0} / 체력+{1} / 열보호 / 받는 피해 감소 / 모든 속성 저항'
+#: ItemEquip[Equip_Sub_UnevenTerrain_T4].ItemDesc
+msgid "1001200554エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '엘븐 전용 특수 프레임 입니다.\n장착 시 방어력과 HP가 증가하며 열보호가 활성화되고 받는 피해 감소와 모든 속성 저항 효과가 발생합니다.'
+#: ItemEquip[Equip_Sub_UnevenTerrain_T4].ItemDesc_Detail
+msgid "1001200609エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '험지용 특수 프레임'
 #: ItemEquip[Equip_Sub_UnevenTerrain_T4].ItemName
 msgid "険地用の特殊フレーム"
+msgstr ""
+
+#  Korean Text: '공격력+{0} / 치명타+{1} / 적중+{2}'
+#: ItemEquip[Equip_Sub_VerminEliminator_T4].ItemDesc
+msgid "1001200510エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '시저스 리제 전용 신형 블레이드입니다. 라운드 개시 시, 공격력 감소 효과를 해제하며 방어 관통이 크게 증가합니다.'
+#: ItemEquip[Equip_Sub_VerminEliminator_T4].ItemDesc_Detail
+msgid "1001200597エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '해충 파쇄기'
+#: ItemEquip[Equip_Sub_VerminEliminator_T4].ItemName
+msgid "1001200422エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '공격력 / 회피 / 행동력 증가 / 받는 피해 감소'
@@ -2008,9 +2353,94 @@ msgstr "Anti-Air Attack Lv.4"
 msgid "対機動戦闘システムEX"
 msgstr "Anti-Air Combat System EX"
 
+#  Korean Text: '대 기동/중장 공격 Lv.1'
+#: ItemEquip[Equip_System_AntiAirArmor_T1].ItemDesc
+msgid "1001200563エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '기동형/중장형에 대응하기 위한 전투 OS 입니다.'
+#: ItemEquip[Equip_System_AntiAirArmor_T1].ItemDesc_Detail
+msgid "機動型/重装型に対応するための戦闘OSです。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 시스템 RE'
+#: ItemEquip[Equip_System_AntiAirArmor_T1].ItemName
+msgid "1001200470エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 공격 Lv.2'
+#: ItemEquip[Equip_System_AntiAirArmor_T2].ItemDesc
+msgid "1001200564エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 시스템 MP'
+#: ItemEquip[Equip_System_AntiAirArmor_T2].ItemName
+msgid "1001200471エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 공격 Lv.3'
+#: ItemEquip[Equip_System_AntiAirArmor_T3].ItemDesc
+msgid "1001200565エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 시스템 SP'
+#: ItemEquip[Equip_System_AntiAirArmor_T3].ItemName
+msgid "1001200472エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 공격 Lv.4'
+#: ItemEquip[Equip_System_AntiAirArmor_T4].ItemDesc
+msgid "1001200566エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 시스템 EX'
+#: ItemEquip[Equip_System_AntiAirArmor_T4].ItemName
+msgid "対機動/重装戦闘システムEX"
+msgstr ""
+
+#  Korean Text: '대 기동 공격 베타 Lv.1 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiAirTypeB_T1].ItemDesc
+msgid "1001200541エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '기동형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다.'
 #: ItemEquip[Equip_System_AntiAirTypeB_T1].ItemDesc_Detail
 msgid "機動型に対応するための戦闘OSです。オーバークロックで持続固定ダメージを受けます。"
+msgstr ""
+
+#  Korean Text: '대 기동 전투 시스템 베타 RE'
+#: ItemEquip[Equip_System_AntiAirTypeB_T1].ItemName
+msgid "1001200452エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동 공격 베타 Lv.2 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiAirTypeB_T2].ItemDesc
+msgid "1001200542エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동 전투 시스템 베타 MP'
+#: ItemEquip[Equip_System_AntiAirTypeB_T2].ItemName
+msgid "1001200453エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동 공격 베타 Lv.3 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiAirTypeB_T3].ItemDesc
+msgid "1001200543エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동 전투 시스템 베타 SP'
+#: ItemEquip[Equip_System_AntiAirTypeB_T3].ItemName
+msgid "1001200454エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동 공격 베타 Lv.4 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiAirTypeB_T4].ItemDesc
+msgid "1001200544エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 기동 전투 시스템 베타 EX'
+#: ItemEquip[Equip_System_AntiAirTypeB_T4].ItemName
+msgid "1001200455エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '대 중장 공격 Lv.1'
@@ -2058,9 +2488,94 @@ msgstr "Anti-Heavy Attack Lv.4"
 msgid "対重装戦闘システムEX"
 msgstr "Anti-Heavy Combat System EX"
 
+#  Korean Text: '대 중장/경장 공격 Lv.1'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T1].ItemDesc
+msgid "1001200567エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '중장형/경장형에 대응하기 위한 전투 OS 입니다.'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T1].ItemDesc_Detail
+msgid "重装型/軽装型に対応するための戦闘OSです。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 시스템 RE'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T1].ItemName
+msgid "1001200473エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 공격 Lv.2'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T2].ItemDesc
+msgid "1001200568エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 시스템 MP'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T2].ItemName
+msgid "1001200474エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 공격 Lv.3'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T3].ItemDesc
+msgid "1001200569エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 시스템 SP'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T3].ItemName
+msgid "1001200475エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 공격 Lv.4'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T4].ItemDesc
+msgid "1001200570エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 시스템 EX'
+#: ItemEquip[Equip_System_AntiArmorTrooper_T4].ItemName
+msgid "対重装/軽装戦闘システムEX"
+msgstr ""
+
+#  Korean Text: '대 중장 공격 베타 Lv.1 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T1].ItemDesc
+msgid "1001200549エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '중장형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다.'
 #: ItemEquip[Equip_System_AntiArmorTypeB_T1].ItemDesc_Detail
 msgid "重装型に対応するための戦闘OSです。オーバークロックで持続固定ダメージを受けます。"
+msgstr ""
+
+#  Korean Text: '대 중장 전투 시스템 베타 RE'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T1].ItemName
+msgid "1001200460エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장 공격 베타 Lv.2 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T2].ItemDesc
+msgid "1001200550エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장 전투 시스템 베타 MP'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T2].ItemName
+msgid "1001200461エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장 공격 베타 Lv.3 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T3].ItemDesc
+msgid "1001200551エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장 전투 시스템 베타 SP'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T3].ItemName
+msgid "1001200462エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장 공격 베타 Lv.4 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T4].ItemDesc
+msgid "1001200552エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 중장 전투 시스템 베타 EX'
+#: ItemEquip[Equip_System_AntiArmorTypeB_T4].ItemName
+msgid "1001200463エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '대 경장 공격 Lv.1'
@@ -2108,9 +2623,94 @@ msgstr "Anti-Light Attack Lv.4"
 msgid "対軽装戦闘システムEX"
 msgstr "Anti-Light Combat System EX"
 
+#  Korean Text: '대 경장/기동 공격 Lv.1'
+#: ItemEquip[Equip_System_AntiTrooperAir_T1].ItemDesc
+msgid "1001200559エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '경장형/기동형에 대응하기 위한 전투 OS 입니다.'
+#: ItemEquip[Equip_System_AntiTrooperAir_T1].ItemDesc_Detail
+msgid "軽装型/機動型に対応するための戦闘OSです。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 시스템 RE'
+#: ItemEquip[Equip_System_AntiTrooperAir_T1].ItemName
+msgid "1001200467エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 공격 Lv.2'
+#: ItemEquip[Equip_System_AntiTrooperAir_T2].ItemDesc
+msgid "1001200560エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 시스템 MP'
+#: ItemEquip[Equip_System_AntiTrooperAir_T2].ItemName
+msgid "1001200468エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 공격 Lv.3'
+#: ItemEquip[Equip_System_AntiTrooperAir_T3].ItemDesc
+msgid "1001200561エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 시스템 SP'
+#: ItemEquip[Equip_System_AntiTrooperAir_T3].ItemName
+msgid "1001200469エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 공격 Lv.4'
+#: ItemEquip[Equip_System_AntiTrooperAir_T4].ItemDesc
+msgid "1001200562エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 시스템 EX'
+#: ItemEquip[Equip_System_AntiTrooperAir_T4].ItemName
+msgid "対軽装/機動戦闘システムEX"
+msgstr ""
+
+#  Korean Text: '대 경장 공격 베타 Lv.1 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T1].ItemDesc
+msgid "1001200545エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '경장형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다.'
 #: ItemEquip[Equip_System_AntiTrooperTypeB_T1].ItemDesc_Detail
 msgid "軽装型に対応するための戦闘OSです。オーバークロックで持続固定ダメージを受けます。"
+msgstr ""
+
+#  Korean Text: '대 경장 전투 시스템 베타 RE'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T1].ItemName
+msgid "1001200456エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장 공격 베타 Lv.2 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T2].ItemDesc
+msgid "1001200546エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장 전투 시스템 베타 MP'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T2].ItemName
+msgid "1001200457エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장 공격 베타 Lv.3 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T3].ItemDesc
+msgid "1001200547エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장 전투 시스템 베타 SP'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T3].ItemName
+msgid "1001200458エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장 공격 베타 Lv.4 / 효과 저항 감소'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T4].ItemDesc
+msgid "1001200548エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '대 경장 전투 시스템 베타 EX'
+#: ItemEquip[Equip_System_AntiTrooperTypeB_T4].ItemName
+msgid "1001200459エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '공격력 / 받는 피해 증가 Lv.1'
@@ -2406,6 +3006,21 @@ msgstr "Accuracy +{0} / Evasion +{1} / Reduced Damage Lv.4"
 msgid "高機動マニューバシステムEX"
 msgstr "High-Speed Maneuvering System EX"
 
+#  Korean Text: '경험치 증가/행동력 감소'
+#: ItemEquip[Equip_System_ImExp_T4].ItemDesc
+msgid "1001200571エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '학습형 OS로 인해 전투 승리 시, 획득 경험치가 크게 증가 하지만 행동력이 감소 합니다.'
+#: ItemEquip[Equip_System_ImExp_T4].ItemDesc_Detail
+msgid "学習型OSにより戦闘に勝利する場合、獲得経験値が大幅に増加しますが行動力は減少します。"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 시스템 EX'
+#: ItemEquip[Equip_System_ImExp_T4].ItemName
+msgid "1001200476エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '공격력 증가 / 적중+{0} / 행동력 감소 Lv.1'
 #: ItemEquip[Equip_System_Maneuver_T1].ItemDesc
 msgid "攻撃力増加/命中＋{0}/行動力減少Lv.1"
@@ -2502,6 +3117,16 @@ msgstr "Increased Capabilities Lv.4"
 #: ItemEquip[Equip_System_Normal_T4].ItemName
 msgid "標準型戦闘システムEX"
 msgstr "Standard Combat System EX"
+
+#  Korean Text: '공격력+{0} / 적중+{1} / 적 사망 시 공격력 증가'
+#: ItemEquip[Equip_System_OverFlow_T4].ItemDesc
+msgid "1001200556エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '타이런트 전용 폭주 유도 시스템 OS 입니다.\n장착 시 공격력과 적중이 증가하며 적 사망시 짧은 시간 공격력이 증가하는 효과를 얻습니다.'
+#: ItemEquip[Equip_System_OverFlow_T4].ItemDesc_Detail
+msgid "1001200611エラーが発生しました。"
+msgstr ""
 
 #  Korean Text: '폭주 유도 시스템 OS'
 #: ItemEquip[Equip_System_OverFlow_T4].ItemName

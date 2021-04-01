@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-02-18 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1281,6 +1281,16 @@ msgstr "金色の波: Action Speed +{0}%"
 msgid "金色の波：周辺の味方の命中/攻撃力/行動力増加、特定キャラクターが分隊に含まれる場合、最大3スタック"
 msgstr "金色の波: 周辺の味方の命中 / Attack / 行動力増加、特定キャラクターが分隊に含まれる場合、最大3スタック"
 
+#  Korean Text: '수확의 낫 : 받는 피해+{0}%'
+#: BuffEffect[Effect_3P_Dryad_N_11].BuffEffectType1_Desc
+msgid "収獲の鎌 : 受けるダメージ+{0}%"
+msgstr ""
+
+#  Korean Text: '수확의 낫 : 적 방어력 감소, 받는 피해 증가'
+#: BuffEffect[Effect_3P_Dryad_N_11].Name
+msgid "収獲の鎌 : 敵の防御力減少、受けるダメージ増加"
+msgstr ""
+
 #  Korean Text: '수확제 : 보호 무시 피해, 치명타 시 피해량 증가, 자신 행동력 감소'
 #: BuffEffect[Effect_3P_Dryad_N_21].Name
 msgid "収穫祭：保護無視ダメージ、クリティカル時のダメージ量増加、自分の行動力減少"
@@ -1335,6 +1345,166 @@ msgstr ""
 #: BuffEffect[Effect_3P_DummyP01_N_4].Name
 msgid "1000109130エラーが発生しました。"
 msgstr ""
+
+#  Korean Text: '유모의 머신건 : 방어력 {0}%'
+#: BuffEffect[Effect_3P_Eternity_N_1].BuffEffectType1_Desc
+msgid "乳母のマシンガン : 防御力 {0}%"
+msgstr ""
+
+#  Korean Text: '유모의 머신건 : 방어력+{0}%'
+#: BuffEffect[Effect_3P_Eternity_N_1].BuffEffectType2_Desc
+msgid "乳母のマシンガン : 防御力+{0}%"
+msgstr ""
+
+#  Korean Text: '유모의 머신건 : 받는 피해 감소 효과 해제 (분노)'
+#: BuffEffect[Effect_3P_Eternity_N_1].BuffEffectType3_Desc
+msgid "乳母のマシンガン : 受けるダメージ減少効果解除(憤怒)"
+msgstr ""
+
+#  Korean Text: '유모의 머신건 : 방어력 {0}% (분노)'
+#: BuffEffect[Effect_3P_Eternity_N_1].BuffEffectType4_Desc
+msgid "乳母のマシンガン : 防御力 {0}% (憤怒)"
+msgstr ""
+
+#  Korean Text: '유모의 머신건 : 적 방어력 감소 / 자신 방어력 증가, ~일 경우 적 받는 피해 감소 효과 해제 / 적 방어력 대폭 감소'
+#: BuffEffect[Effect_3P_Eternity_N_1].Name
+msgid "乳母のマシンガン : 敵の防御力減少/自分の防御力増加、 ~の場合、敵の受けるダメージ減少効果解除/敵の防御力 大幅に減少"
+msgstr ""
+
+#  Korean Text: '편히 잠드소서 : 피해량+{0}% (분노)'
+#: BuffEffect[Effect_3P_Eternity_N_2].BuffEffectType1_Desc
+msgid "楽にお眠りください : ダメージ量+{0}% (憤怒)"
+msgstr ""
+
+#  Korean Text: '편히 잠드소서 : <분노> 상태일 경우 추가 피해'
+#: BuffEffect[Effect_3P_Eternity_N_2].Name
+msgid "楽にお眠りください : <憤怒>状態の場合、追加ダメージ"
+msgstr ""
+
+#  Korean Text: '2인용 관 : 피해 무효 {0}회'
+#: BuffEffect[Effect_3P_Eternity_N_3].BuffEffectType1_Desc
+msgid "２人用の棺 : ダメージ無効{0}回"
+msgstr ""
+
+#  Korean Text: '2인용 관 : 받는 피해 감소 {0}%'
+#: BuffEffect[Effect_3P_Eternity_N_3].BuffEffectType2_Desc
+msgid "２人用の棺 : 受けるダメージ減少 {0}%"
+msgstr ""
+
+#  Korean Text: '2인용 관 : 공격력+{0}% (공격기/보호기) (헌신)'
+#: BuffEffect[Effect_3P_Eternity_N_3].BuffEffectType3_Desc
+msgid "２人用の棺 : 攻撃力+{0}% (攻撃機/保護機) (献身)"
+msgstr ""
+
+#  Korean Text: '2인용 관 : 방어력+{0}% (분노)'
+#: BuffEffect[Effect_3P_Eternity_N_3].BuffEffectType4_Desc
+msgid "２人用の棺 : 防御力+{0}% (憤怒)"
+msgstr ""
+
+#  Korean Text: '2인용 관 : 지정 대상 보호'
+#: BuffEffect[Effect_3P_Eternity_N_3].BuffEffectType5_Desc
+msgid "２人用の棺 : 指定対象保護"
+msgstr ""
+
+#  Korean Text: '2인용 관 : 대상에게 무적 효과 / 지정 대상 보호 부여'
+#: BuffEffect[Effect_3P_Eternity_N_3].Name
+msgid "２人用の棺 : 対象に無敵効果/指定対象保護付与"
+msgstr ""
+
+#  Korean Text: '헌신적인 메이드 : 방어력+{0}%'
+#: BuffEffect[Effect_3P_Eternity_N_4].BuffEffectType1_Desc
+msgid "献身的なメイド : 防御力+{0}%"
+msgstr ""
+
+#  Korean Text: '헌신적인 메이드 : 받는 피해 감소 {0}%'
+#: BuffEffect[Effect_3P_Eternity_N_4].BuffEffectType2_Desc
+msgid "献身的なメイド : 受けるダメージ減少 {0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : {0}% HP로 전투 속행  (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_4].BuffEffectType3_Desc
+msgid "献身的なメイド : {0}%のHPで戦闘続行 (解除不可)"
+msgstr "献身的なメイド: {0}%のHPで戦闘続行 (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : 효과 저항+{0}% (헌신) (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_4].BuffEffectType4_Desc
+msgid "献身的なメイド : 効果抵抗+{0}% (献身) (解除不可)"
+msgstr "献身的なメイド: 効果抵抗+{0}% (献身) (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : 방어력 증가 / 받는 피해 감소 / 전투 속행 부여'
+#: BuffEffect[Effect_3P_Eternity_N_4].Name
+msgid "献身的なメイド : 防御力増加/受けるダメージ減少/戦闘続行付与"
+msgstr "献身的なメイド: 防御力増加 / Damage Reduction / 戦闘続行付与"
+
+#  Korean Text: '기선 제압 : 공격력+{0}%'
+#: BuffEffect[Effect_3P_Eternity_N_5].BuffEffectType1_Desc
+msgid "機先制圧 : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '기선 제압 : 방어 관통+{0}%'
+#: BuffEffect[Effect_3P_Eternity_N_5].BuffEffectType2_Desc
+msgid "機先制圧 : 防御貫通+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '기선 제압 : {0}% 위력으로 반격 (분노) (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_5].BuffEffectType3_Desc
+msgid "機先制圧 : {0}%の威力で反撃 (憤怒) (解除不可)"
+msgstr "機先制圧: {0}%の威力で反撃 (憤怒) (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '기선 제압 : 공격력+{0}% (분노) (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_5].BuffEffectType4_Desc
+msgid "機先制圧 : 攻撃力+{0}% (憤怒) (解除不可)"
+msgstr "機先制圧: 攻撃力+{0}% (憤怒) (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '기선 제압 : 방어 관통+{0}% (분노) (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_5].BuffEffectType5_Desc
+msgid "機先制圧 : 防御貫通+{0}% (憤怒) (解除不可)"
+msgstr "機先制圧: 防御貫通+{0}% (憤怒) (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '기선 제압 : 공격력 / 방어 관통 증가'
+#: BuffEffect[Effect_3P_Eternity_N_5].Name
+msgid "機先制圧 : 攻撃力/防御貫通増加"
+msgstr "機先制圧: 攻撃力 / Increased Defense Penetration"
+
+#  Korean Text: '유모의 머신건 : 방어력+{0}% (헌신)'
+#: BuffEffect[Effect_3P_Eternity_N_11].BuffEffectType1_Desc
+msgid "乳母のマシンガン : 防御力+{0}% (献身)"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '2인용 관 : 지정 대상 보호 (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_31].BuffEffectType1_Desc
+msgid "２人用の棺 : 指定対象保護(解除不可)"
+msgstr "２人用の棺: 指定対象保護 (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '2인용 관 : 행동력+{0}% (지원기)(헌신)'
+#: BuffEffect[Effect_3P_Eternity_N_34].BuffEffectType1_Desc
+msgid "２人用の棺 : 行動力+{0}% (支援機)(献身)"
+msgstr "２人用の棺: 行動力+{0}% (Supporter)(献身)"
+
+#  Korean Text: '헌신적인 메이드 : 받는 피해 감소 {0}% (부활)'
+#: BuffEffect[Effect_3P_Eternity_N_34].BuffEffectType2_Desc
+msgid "献身的なメイド : 受けるダメージ減少 {0}% (復活)"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : 분노 (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_43].BuffEffectType1_Desc
+msgid "献身的なメイド : 憤怒 (解除不可)"
+msgstr "献身的なメイド: 憤怒 (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : 방어력+{0}% (헌신) (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_44].BuffEffectType2_Desc
+msgid "献身的なメイド : 防御力+{0}% (献身) (解除不可)"
+msgstr "献身的なメイド: 防御力+{0}% (献身) (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : 받는 피해 감소 {0}% (헌신) (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_44].BuffEffectType3_Desc
+msgid "献身的なメイド : 受けるダメージ減少 {0}% (献身) (解除不可)"
+msgstr "献身的なメイド: 受けるダメージ減少 {0}% (献身) (Cannot be released)"
+
+#  Generated Partial Match; Korean Text: '헌신적인 메이드 : 헌신 (해제 불가)'
+#: BuffEffect[Effect_3P_Eternity_N_46].BuffEffectType1_Desc
+msgid "献身的なメイド : 献身 (解除不可)"
+msgstr "献身的なメイド: 献身 (Cannot be released)"
 
 #  Generated Partial Match; Korean Text: '덤벼랏! : 대상 도발 (펜리르)'
 #: BuffEffect[Effect_3P_Fenrir_N_1].BuffEffectType1_Desc
@@ -2544,6 +2714,16 @@ msgstr "白い翼［抱擁］: Evasion +{0}%"
 msgid "白い翼［抱擁］：指定範囲内の味方保護/火炎耐性増加/攻撃力と支援機の行動力が一時的に増加"
 msgstr ""
 
+#  Korean Text: '하얀 날개 [급속 냉각] : 행동력 {0}%'
+#: BuffEffect[Effect_3P_SnowFeather_N_21].BuffEffectType1_Desc
+msgid "白い翼[金属冷却] : 行動力 {0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '하얀 날개 [급속 냉각] : 적 이동불가, 행동력 / 적중 감소'
+#: BuffEffect[Effect_3P_SnowFeather_N_21].Name
+msgid "白い翼 [金属冷却] : 敵の移動不可、行動力/命中率減少"
+msgstr "白い翼 [金属冷却]: 敵の移動不可、行動力 / Accuracy Down"
+
 #  Korean Text: '날개짓 : 받는 피해 {0}% 감소'
 #: BuffEffect[Effect_3P_SnowFeather_N_31].BuffEffectType1_Desc
 msgid "はばたき：受けるダメージ減少{0}%減少"
@@ -3483,6 +3663,91 @@ msgstr ""
 msgid "拠点防御モード：AP減少"
 msgstr "拠点防御モード: AP Down"
 
+#  Korean Text: '작열! 헬파이어 빔 : 방어력{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_1].BuffEffectType1_Desc
+msgid "炸裂！ヘルファイヤービーム : 防御力{0}%"
+msgstr ""
+
+#  Korean Text: '작열! 헬파이어 빔 : 회피{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_1].BuffEffectType2_Desc
+msgid "炸裂！ヘルファイヤービーム : 回避率{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '작열! 헬파이어 빔 : 방어력 / 회피 감소'
+#: BuffEffect[Effect_AGS_Goltarion_N_1].Name
+msgid "炸裂！ヘルファイヤービーム :防御力/回避率減少"
+msgstr "炸裂！ヘルファイヤービーム: Defense / Evasion Reduction"
+
+#  Korean Text: '소환!! 데모닉 웨폰 : 피해량+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_2].BuffEffectType1_Desc
+msgid "召喚！！デモニックウェポン : ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '소환!! 데모닉 웨폰 : 보호 무시, 방어력 / 회피 감소 상태 시 추가 피해'
+#: BuffEffect[Effect_AGS_Goltarion_N_2].Name
+msgid "召喚！！デモニックウェポン : 保護無視、防御力/回避率減少状態の場合、追加ダメージ"
+msgstr ""
+
+#  Korean Text: '불사의 장갑 : {0}% HP 전투 속행'
+#: BuffEffect[Effect_AGS_Goltarion_N_3].BuffEffectType1_Desc
+msgid "不死の装甲 : {0}% HP戦闘続行"
+msgstr ""
+
+#  Korean Text: '불사의 장갑 : 전투 속행'
+#: BuffEffect[Effect_AGS_Goltarion_N_3].Name
+msgid "不死の装甲 : 戦闘続行"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '마왕님, 조심하십시오! : 지정 대상 보호 (경장)'
+#: BuffEffect[Effect_AGS_Goltarion_N_4].BuffEffectType1_Desc
+msgid "魔王様、お気を付けください！ : 指定対象保護(軽装)"
+msgstr "魔王様、お気を付けください！: 指定対象保護 (Light)"
+
+#  Korean Text: '마왕님, 조심하십시오! : 효과 저항+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_4].BuffEffectType2_Desc
+msgid "魔王様、お気を付けください！ : 効果抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '마왕님, 조심하십시오! : 냉기 저항+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_4].BuffEffectType3_Desc
+msgid "魔王様、お気を付けください！ : 冷気抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '마왕님, 조심하십시오! : 화염 저항+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_4].BuffEffectType4_Desc
+msgid "魔王様、お気を付けください！ : 火炎抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '마왕님, 조심하십시오! : 전기 저항+{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_4].BuffEffectType5_Desc
+msgid "魔王様、お気を付けください！ : 電気抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '마왕님, 조심하십시오! : 지정 대상 보호 / 효과 저항 / 모든 속성 저항'
+#: BuffEffect[Effect_AGS_Goltarion_N_4].Name
+msgid "魔王様、お気を付けください！ : 指定対象保護/効果抵抗/すべての属性抵抗"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '작열! 헬파이어 빔 : 피해량+{0}% (공격기)'
+#: BuffEffect[Effect_AGS_Goltarion_N_12].BuffEffectType1_Desc
+msgid "炸裂！ヘルファイヤービーム : ダメージ量+{0}% (攻撃機)"
+msgstr "炸裂！ヘルファイヤービーム: ダメージ量+{0}% (Attacker)"
+
+#  Korean Text: '작열! 헬파이어 빔 : 공격기에게 추가 피해'
+#: BuffEffect[Effect_AGS_Goltarion_N_12].Name
+msgid "炸裂！ヘルファイヤービーム : 攻撃機に追加ダメージ"
+msgstr ""
+
+#  Korean Text: '소환!! 데모닉 웨폰 : 화염 저항{0}%'
+#: BuffEffect[Effect_AGS_Goltarion_N_21].BuffEffectType1_Desc
+msgid "召喚！！デモニックウェポン : 火炎抵抗{0}%"
+msgstr ""
+
+#  Korean Text: '내부 부품 손상 : 전투 속행 불가'
+#: BuffEffect[Effect_AGS_Goltarion_N_32].BuffEffectType1_Desc
+msgid "内部部品損傷 : 戦闘続行不可"
+msgstr ""
+
 #  Generated Partial Match; Korean Text: '세뇌의 파동 : 공격력+{0}%'
 #: BuffEffect[Effect_AGS_Goltarion_N_34].BuffEffectType1_Desc
 msgid "洗脳の波動：攻撃力+{0}%"
@@ -3502,6 +3767,11 @@ msgstr "洗脳の波動: Accuracy +{0}%"
 #: BuffEffect[Effect_AGS_Goltarion_N_37].BuffEffectType1_Desc
 msgid "洗脳の波動：防御貫通+{0}%"
 msgstr "洗脳の波動: Defense Penetration +{0}%"
+
+#  Korean Text: '네놈은 뭐냐?!'
+#: BuffEffect[Effect_AGS_Goltarion_N_45].BuffEffectType1_Desc
+msgid "お前は何者だ⁈"
+msgstr ""
 
 #  Korean Text: '약점 관찰 : 받는 피해+{0}%'
 #: BuffEffect[Effect_AGS_MrAlfred2_N_1].BuffEffectType1_Desc
@@ -3825,6 +4095,10 @@ msgstr "軍用現代化個数: Counterattack"
 #  Korean Text: '목표 견제 : 적중 감소'
 #: BuffEffect[Effect_AGS_Rampart_N_15].Name
 msgid "目標牽制：命中減少"
+msgstr ""
+
+#: BuffEffect[Effect_AGS_Rampart_N_16].BuffEffectType1_Desc
+msgid "1000109163エラーが発生しました。"
 msgstr ""
 
 #  Korean Text: '기사의 응시 : 피해량+{0}%'
@@ -4224,6 +4498,26 @@ msgstr "閃光弾: Remove Accuracy Buff"
 msgid "閃光弾：AP/命中率減少/命中率強化解除"
 msgstr "閃光弾: AP / Accuracy Down / Remove Accuracy Buff"
 
+#  Korean Text: '패시브 레이더 : 치명타+{0}%'
+#: BuffEffect[Effect_AGS_SpartanA_N_3].BuffEffectType1_Desc
+msgid "パッシブレーダー : クリティカル率+{0}%"
+msgstr ""
+
+#  Korean Text: '패시브 레이더 : 행동력+{0}%'
+#: BuffEffect[Effect_AGS_SpartanA_N_3].BuffEffectType2_Desc
+msgid "パッシブレーダー : 行動力+{0}%"
+msgstr ""
+
+#  Korean Text: '패시브 레이더 : 공격력+{0}%'
+#: BuffEffect[Effect_AGS_SpartanA_N_3].BuffEffectType3_Desc
+msgid "パッシブレーダー : 攻撃力+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '패시브 레이더 : 인접 로봇 공격력 / 치명타 / 행동력 증가'
+#: BuffEffect[Effect_AGS_SpartanA_N_3].Name
+msgid "パッシブレーダー : 隣接するロボットの攻撃力/ クリティカル率/行動力増加"
+msgstr "パッシブレーダー: 隣接するロボットの攻撃力 / クリティカル率 / Action Speed Up"
+
 #  Generated Partial Match; Korean Text: '스파르탄 포메이션 : 공격력+{0}%'
 #: BuffEffect[Effect_AGS_SpartanA_N_7].BuffEffectType1_Desc
 msgid "スパルタンフォーメーション：攻撃力+{0}%"
@@ -4233,6 +4527,21 @@ msgstr "スパルタンフォーメーション: Attack +{0}%"
 #: BuffEffect[Effect_AGS_SpartanA_N_7].Name
 msgid "スパルタンフォーメーション：攻撃力/行動力増加/受けるダメージ減少"
 msgstr "スパルタンフォーメーション: Attack / Action Speed Up / Damage Reduction"
+
+#  Korean Text: '데이터 링크 : 방어력 {0}%'
+#: BuffEffect[Effect_AGS_SpartanA_N_11].BuffEffectType1_Desc
+msgid "データリンク : 防御力{0}%"
+msgstr ""
+
+#  Korean Text: '데이터 링크 : 강화 효과 해제'
+#: BuffEffect[Effect_AGS_SpartanA_N_12].BuffEffectType1_Desc
+msgid "データリンク : 強化効果解除"
+msgstr ""
+
+#  Korean Text: '섬광탄 : [다연장 미사일] 협동 공격'
+#: BuffEffect[Effect_AGS_SpartanA_N_21].BuffEffectType1_Desc
+msgid "閃光弾 : [多連装ミサイル]協同攻撃"
+msgstr ""
 
 #  Korean Text: '집중 공격 : 피해량+{0}%'
 #: BuffEffect[Effect_AGS_SpartanB_N_1].BuffEffectType1_Desc
@@ -4247,6 +4556,66 @@ msgstr ""
 #  Korean Text: '포착 : 표식 대상에게 추가 피해'
 #: BuffEffect[Effect_AGS_SpartanB_N_2].Name
 msgid "捕捉：標的対象に追加ダメージ"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 치명타+{0}%'
+#: BuffEffect[Effect_AGS_SpartanB_N_3].BuffEffectType1_Desc
+msgid "指令誘導 : クリティカル率+{0}%"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 적중+{0}%'
+#: BuffEffect[Effect_AGS_SpartanB_N_3].BuffEffectType2_Desc
+msgid "指令誘導 : 命中率+{0}%"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 공격력+{0}%'
+#: BuffEffect[Effect_AGS_SpartanB_N_3].BuffEffectType3_Desc
+msgid "指令誘導 : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 방어 관통+{0}%'
+#: BuffEffect[Effect_AGS_SpartanB_N_3].BuffEffectType4_Desc
+msgid "指令誘導 : 防御貫通+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '지령 유도 : 공격력 / 치명타 / 적중 증가'
+#: BuffEffect[Effect_AGS_SpartanB_N_3].Name
+msgid "指令誘導 : 攻撃力/ クリティカル率/命中率増加"
+msgstr "指令誘導: 攻撃力 / クリティカル率 / Accuracy Up"
+
+#  Korean Text: '데이터 링크 : 행동력 {0}%'
+#: BuffEffect[Effect_AGS_SpartanB_N_11].BuffEffectType1_Desc
+msgid "データリンク : 行動力{0}%"
+msgstr ""
+
+#  Korean Text: '데이터 링크 : 행동 불가'
+#: BuffEffect[Effect_AGS_SpartanB_N_12].BuffEffectType1_Desc
+msgid "データリンク : 行動不可"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 방어 관통 증가'
+#: BuffEffect[Effect_AGS_SpartanB_N_21].Name
+msgid "指令誘導 : 防御貫通増加"
+msgstr ""
+
+#  Korean Text: '다연장 미사일 : [섬광탄] 협동 공격'
+#: BuffEffect[Effect_AGS_SpartanB_N_22].BuffEffectType1_Desc
+msgid "多連装ミサイル : [閃光弾]協同攻撃"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 치명타+{0}%(공격 지원)'
+#: BuffEffect[Effect_AGS_SpartanB_N_31].BuffEffectType1_Desc
+msgid "指令誘導 : クリティカル率+{0}%(攻撃支援)"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 적중+{0}%(공격 지원)'
+#: BuffEffect[Effect_AGS_SpartanB_N_31].BuffEffectType2_Desc
+msgid "指令誘導 : 命中率+{0}%(攻撃支援)"
+msgstr ""
+
+#  Korean Text: '지령 유도 : 공격력+{0}%(공격 지원)'
+#: BuffEffect[Effect_AGS_SpartanB_N_31].BuffEffectType3_Desc
+msgid "指令誘導 : 攻撃力+{0}%(攻撃支援)"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '타겟 설정 : 표식'
@@ -4309,6 +4678,16 @@ msgstr "スパルタンフォーメーション: Action Speed +{0}%"
 msgid "スパルタンフォーメーション：スパルタンシリーズ強化/攻撃支援"
 msgstr "スパルタンフォーメーション: スパルタンシリーズ強化 / Follow-up Attack"
 
+#  Korean Text: '데이터 링크 : 치명타+{0}%'
+#: BuffEffect[Effect_AGS_SpartanC_N_4].BuffEffectType1_Desc
+msgid "データリンク : クリティカル率+{0}%"
+msgstr ""
+
+#  Korean Text: '전술 데이터 링크 : 데이터 링크 1회 (치명타 증가)'
+#: BuffEffect[Effect_AGS_SpartanC_N_4].Name
+msgid "戦術データリンク : データリンク1回(クリティカル率増加)"
+msgstr ""
+
 #  Korean Text: '타겟 설정 : 받는 피해 증가'
 #: BuffEffect[Effect_AGS_SpartanC_N_11].Name
 msgid "ターゲット設定：受けるダメージ増加"
@@ -4328,6 +4707,11 @@ msgstr "目標指示: Critical Hit Rate +{0}% (Robot)"
 #: BuffEffect[Effect_AGS_SpartanC_N_12].BuffEffectType3_Desc
 msgid "目標指示：行動力+{0}%(ロボット)"
 msgstr "目標指示: Action Speed +{0}% (Robot)"
+
+#  Korean Text: '데이터 링크 : 적중 {0}%'
+#: BuffEffect[Effect_AGS_SpartanC_N_15].BuffEffectType1_Desc
+msgid "データリンク : 命中率{0}%"
+msgstr ""
 
 #  Generated Partial Match; Korean Text: '타이런트 바이트 : 적 HP% 낮을수록 피해량+{0}%'
 #: BuffEffect[Effect_AGS_Tyrant_N_1].BuffEffectType1_Desc
@@ -4554,6 +4938,76 @@ msgstr ""
 msgid "タイラントバイト：防御力減少"
 msgstr "タイラントバイト: Defense Reduction"
 
+#  Korean Text: '페이브웨이 : 표식 지정'
+#: BuffEffect[Effect_AGS_Watcher_N_1].BuffEffectType1_Desc
+msgid "ベイブウェイ : 標的指定"
+msgstr ""
+
+#  Korean Text: '페이브웨이 : 방어력 강화 해제'
+#: BuffEffect[Effect_AGS_Watcher_N_1].BuffEffectType2_Desc
+msgid "ベイブウェイ : 防御力強化解除"
+msgstr ""
+
+#  Korean Text: '페이브웨이 : 회피{0}% 감소'
+#: BuffEffect[Effect_AGS_Watcher_N_1].BuffEffectType3_Desc
+msgid "ベイブウェイ : 回避率{0}%減少"
+msgstr ""
+
+#  Korean Text: '페이브웨이 : 표식, 방어력 강화 효과 해제, 회피 감소'
+#: BuffEffect[Effect_AGS_Watcher_N_1].Name
+msgid "ベイブウェイ : 標的、防御力強化効果解除、回避率減少"
+msgstr ""
+
+#  Korean Text: '협동정찰 : 공격력+{0}%(중장형)'
+#: BuffEffect[Effect_AGS_Watcher_N_2].BuffEffectType1_Desc
+msgid "協同偵察 : 攻撃力+{0}%(重装型)"
+msgstr ""
+
+#  Korean Text: '협동정찰 : 적중+{0}%(중장형)'
+#: BuffEffect[Effect_AGS_Watcher_N_2].BuffEffectType2_Desc
+msgid "協同偵察 : 命中率+{0}%(重装型)"
+msgstr ""
+
+#  Korean Text: '협동정찰 : 공격력+{0}%(경장형)'
+#: BuffEffect[Effect_AGS_Watcher_N_2].BuffEffectType3_Desc
+msgid "協同偵察 : 攻撃力+{0}%(軽装型)"
+msgstr ""
+
+#  Korean Text: '협동정찰 : 행동력+{0}%(경장형)'
+#: BuffEffect[Effect_AGS_Watcher_N_2].BuffEffectType4_Desc
+msgid "協同偵察 : 行動力+{0}%(軽装型)"
+msgstr ""
+
+#  Korean Text: '협동정찰 : 중장형 아군 공격력/적중 적의 수 많을 수록 증가, 경장형 아군 공격력/행동력 적의 수 적을 수록 증가'
+#: BuffEffect[Effect_AGS_Watcher_N_2].Name
+msgid "協同偵察 : 重装型の味方の攻撃力/命中率が敵の数が多いほど増加、軽装型の味方の攻撃力/行動力が敵の数が少ないほど増加"
+msgstr ""
+
+#  Korean Text: '브림스톤 : 공격 지원 (경장형/중장형, 공격기/지원기)'
+#: BuffEffect[Effect_AGS_Watcher_N_3].BuffEffectType1_Desc
+msgid "ブリムストーン : 攻撃支援(軽装型/重装型、攻撃機/支援機)"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '브림스톤 : 치명타+{0}%(공격기)'
+#: BuffEffect[Effect_AGS_Watcher_N_3].BuffEffectType2_Desc
+msgid "ブリムストーン : クリティカル率+{0}%(攻撃機)"
+msgstr "ブリムストーン: クリティカル率+{0}% (Attacker)"
+
+#  Generated Partial Match; Korean Text: '브림스톤 : 방어력+{0}%(보호기)'
+#: BuffEffect[Effect_AGS_Watcher_N_3].BuffEffectType3_Desc
+msgid "ブリムストーン : 防御力+{0}%(保護機)"
+msgstr "ブリムストーン: 防御力+{0}% (Defender)"
+
+#  Generated Partial Match; Korean Text: '브림스톤 : 행동력+{0}%(지원기)'
+#: BuffEffect[Effect_AGS_Watcher_N_3].BuffEffectType4_Desc
+msgid "ブリムストーン : 行動力+{0}%(支援機)"
+msgstr "ブリムストーン: 行動力+{0}% (Supporter)"
+
+#  Korean Text: '브림스톤 : 경장형/중장형, 공격기/지원기 지원 공격, 공격기 치명타, 보호기 방어력, 지원기 행동력 증가'
+#: BuffEffect[Effect_AGS_Watcher_N_3].Name
+msgid "ブリムストーン : 軽装型/重装型、攻撃機/支援機の支援攻撃、攻撃機のクリティカル率、保護機の防御力、支援機の行動力増加"
+msgstr ""
+
 #  Generated Partial Match; Korean Text: '알비스 출동! : 대상 도발 (알비스)'
 #: BuffEffect[Effect_BR_Alvis_N_1].BuffEffectType1_Desc
 msgid "アルヴィス出動！：挑発(アルヴィス)"
@@ -4672,6 +5126,101 @@ msgstr ""
 #  Korean Text: '못 지나갈걸? : 경장형 공격 / 지원기 AP 증가'
 #: BuffEffect[Effect_BR_Alvis_N_16].Name
 msgid "通さないよ！：軽装型攻撃/支援機のAP増加"
+msgstr ""
+
+#  Korean Text: '공중 저격 : 피해량+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_1].BuffEffectType1_Desc
+msgid "空中狙撃 : ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '공중 저격 : 방어력 {0}% 감소'
+#: BuffEffect[Effect_BR_ALWraith_N_1].BuffEffectType2_Desc
+msgid "空中狙撃 : 防御力 {0}%減少"
+msgstr ""
+
+#  Korean Text: '공중 저격 : 회피 {0}% 감소'
+#: BuffEffect[Effect_BR_ALWraith_N_1].BuffEffectType3_Desc
+msgid "空中狙撃 : 回避率{0}%減少"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '공중 저격 : 보호 무시, 표식, 치명타시 피해량 증가, 적중 시 방어력/회피 감소'
+#: BuffEffect[Effect_BR_ALWraith_N_1].Name
+msgid "空中狙撃 : 保護を無視、標的、クリティカル時、ダメージ量増加、命中時、防御力/回避率減少"
+msgstr "空中狙撃: 保護を無視、標的、クリティカル時、ダメージ量増加、命中時、防御力 / Evasion Reduction"
+
+#  Korean Text: '조준 폭격: [석기 시대로!] 협동 공격'
+#: BuffEffect[Effect_BR_ALWraith_N_2].BuffEffectType1_Desc
+msgid "照準爆撃: [石器時代に！]協同攻撃"
+msgstr ""
+
+#  Korean Text: '조준 폭격 : 받는 피해+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_2].BuffEffectType2_Desc
+msgid "照準爆撃 : 受けるダメージ+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '조준 폭격 : 행동력{0}%(해제 불가)'
+#: BuffEffect[Effect_BR_ALWraith_N_2].BuffEffectType3_Desc
+msgid "照準爆撃 : 行動力{0}%(解除不可)"
+msgstr "照準爆撃: 行動力{0}% (Cannot be released)"
+
+#  Korean Text: '조준 폭격 : 보포 무시, 받는 피해 증가, 멸망의 메인 [석기 시대로!] 협동 공격, 공격 적중 시 자신 행동력 감소'
+#: BuffEffect[Effect_BR_ALWraith_N_2].Name
+msgid "照準爆撃 : 保護を無視、受けるダメージ増加、滅亡のメイ[石器時代に！]協同攻撃、攻撃命中時、自分の行動力減少"
+msgstr ""
+
+#  Korean Text: '하늘의 저격수 : 적중+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_3].BuffEffectType1_Desc
+msgid "空の狙撃手 : 命中率+{0}%"
+msgstr ""
+
+#  Korean Text: '하늘의 저격수 : 치명타+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_3].BuffEffectType2_Desc
+msgid "空の狙撃手 : クリティカル率+{0}%"
+msgstr ""
+
+#  Korean Text: '하늘의 저격수 : 회피+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_3].BuffEffectType3_Desc
+msgid "空の狙撃手 : 回避率+{0}%"
+msgstr ""
+
+#  Korean Text: '하늘의 저격수 : 방어 관통+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_3].BuffEffectType4_Desc
+msgid "空の狙撃手 : 防御貫通+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '하늘의 저격수 : 적중/치명타/회피 증가, 방어 관통 증가'
+#: BuffEffect[Effect_BR_ALWraith_N_3].Name
+msgid "空の狙撃手 : 命中率/クリティカル率/回避率増加、防御貫通増加"
+msgstr "空の狙撃手: 命中率 / Critical Chance / 回避率増加、防御貫通増加"
+
+#  Korean Text: '정밀 타격 지원 : 공격력+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_4].BuffEffectType1_Desc
+msgid "精密打撃支援 : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '정밀 타격 지원 : 적중+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_4].BuffEffectType2_Desc
+msgid "精密打撃支援 : 命中率+{0}%"
+msgstr ""
+
+#  Korean Text: '정밀 타격 지원 : 치명타+{0}%'
+#: BuffEffect[Effect_BR_ALWraith_N_4].BuffEffectType3_Desc
+msgid "精密打撃支援 : クリティカル率+{0}%"
+msgstr ""
+
+#  Korean Text: '정밀 타격 지원 : [둠 브링어] 소속 효과 +50% 증가'
+#: BuffEffect[Effect_BR_ALWraith_N_4].BuffEffectType4_Desc
+msgid "精密打撃支援 : [ドゥームブリンガー]所属時の効果+50%増加"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '정밀 타격 지원 : 공격력/적중/치명타 증가, [둠 브링어] 소속 효과  50% 추가'
+#: BuffEffect[Effect_BR_ALWraith_N_4].Name
+msgid "精密打撃支援 : 攻撃力/命中率/クリティカル率増加、[ドゥームブリンガー]所属時、効果50%追加"
+msgstr "精密打撃支援: 攻撃力 / Accuracy / クリティカル率増加、[ドゥームブリンガー]所属時、効果50%追加"
+
+#  Korean Text: '공중 저격 : 방어력 {0}% 감소'
+#: BuffEffect[Effect_BR_ALWraith_N_11].BuffEffectType1_Desc
+msgid "空中狙撃 : 防御力{0}%減少"
 msgstr ""
 
 #  Korean Text: '암살 목표 : 표식 설정 / 받는 피해 증가'
@@ -6893,6 +7442,86 @@ msgstr "戦場掌握: Increased Defense Penetration"
 msgid "鎮圧隊形編成：保護機に受けるダメージ減少/回避増加/列保護"
 msgstr "鎮圧隊形編成: 保護機に受けるダメージ減少 / 回避増加 / Column Protection"
 
+#  Korean Text: '확산 빔 포트 : 피해량+{0}% (경장형)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_1].BuffEffectType1_Desc
+msgid "拡散ビームポート : ダメージ量+{0}% (軽装型)"
+msgstr ""
+
+#  Korean Text: '확산 빔 포트 : 피해량+{0}% (중장형)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_1].BuffEffectType2_Desc
+msgid "拡散ビームポート : ダメージ量+{0}% (重装型)"
+msgstr ""
+
+#  Korean Text: '확산 빔 포트 : 경장형/중장형 추가 피해'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_1].Name
+msgid "拡散ビームポート : 軽装型/重装型に追加ダメージ"
+msgstr ""
+
+#  Korean Text: '대공 무력화 : 명중률{0}% 감소'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_2].BuffEffectType1_Desc
+msgid "対空中和 : 命中率{0}%減少"
+msgstr ""
+
+#  Korean Text: '대공 무력화 : 기동형 추가 데미지{0}% 감소'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_2].BuffEffectType2_Desc
+msgid "対空中和 : 機動型追加ダメージ{0}%減少"
+msgstr ""
+
+#  Korean Text: '대공 무력화 : 보호 무시 피해, 명중률 감소, 적 기동형 데미지 감소'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_2].Name
+msgid "対空中和 : 保護を無視しダメージ、命中率減少、敵の機動型ダメージ減少"
+msgstr ""
+
+#  Korean Text: '지휘 통제 : 회피+{0}%'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_3].BuffEffectType1_Desc
+msgid "指揮統制 : 回避率+{0}%"
+msgstr ""
+
+#  Korean Text: '지휘 통제 : 대 경장 피해량+{0}%'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_3].BuffEffectType2_Desc
+msgid "指揮統制 : 対軽装ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '지휘 통제 : 대 중장 피해량+{0}%'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_3].BuffEffectType3_Desc
+msgid "指揮統制 : 対重装ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '지휘 통제 : 회피 증가, 대 경장 공격력/대 중장 피해량 증가'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_3].Name
+msgid "指揮統制 : 回避率増加、対軽装攻撃力/対重装ダメージ量増加"
+msgstr ""
+
+#  Korean Text: '간섭 대응 유닛 : 피해 무효화 (라운드 1)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_4].BuffEffectType1_Desc
+msgid "干渉対応ユニット : ダメージ無効化(ラウンド 1)"
+msgstr ""
+
+#  Korean Text: '간섭 대응 유닛 : 방어막+{0}(라운드 2)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_4].BuffEffectType2_Desc
+msgid "干渉対応ユニット : バリア+{0}(ラウンド 2)"
+msgstr ""
+
+#  Korean Text: '간섭 대응 유닛 : 행동력+{0}%(라운드 2)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_4].BuffEffectType3_Desc
+msgid "干渉対応ユニット : 行動力+{0}%(ラウンド 2)"
+msgstr ""
+
+#  Korean Text: '간섭 대응 유닛 : 행동력+{0}%(라운드 3이상)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_4].BuffEffectType4_Desc
+msgid "干渉対応ユニット : 行動力+{0}%(ラウンド3以上)"
+msgstr ""
+
+#  Korean Text: '간섭 대응 유닛 : 1라운드 무적, 2라운드 방어막/행동력, 3라운드 이후 행동력 증가'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_4].Name
+msgid "干渉対応ユニット : 1ラウンドの間無敵、2ラウンドの間バリア/行動力、3ラウンド以降行動力増加"
+msgstr ""
+
+#  Korean Text: '간섭 대응 유닛 : 행동력+{0}%(라운드 3이상)'
+#: BuffEffect[Effect_BR_Hraesvelgr_N_43].BuffEffectType1_Desc
+msgid "干渉対応ユニット : 行動力+{0}%(ラウンド 3以上)"
+msgstr ""
+
 #  Korean Text: '장갑 관통 : 방어력 관통 효과'
 #: BuffEffect[Effect_BR_Impet_N_1].Name
 msgid "装甲貫通：防御貫通効果"
@@ -8201,6 +8830,36 @@ msgstr "頭上に撃つ: Accuracy +{0}%"
 msgid "頭を下げろ!：前方の保護機防御力/回避率/行動力増加"
 msgstr "頭を下げろ!: 前方の保護機防御力 / Evasion / Action Speed Up"
 
+#  Generated Partial Match; Korean Text: '전위 추가 지원 : {0}% 위력으로 반격(보호기)'
+#: BuffEffect[Effect_BR_Miho_N_5].BuffEffectType1_Desc
+msgid "前衛追加支援 : {0}%の威力で反撃(保護機)"
+msgstr "前衛追加支援: {0}%の威力で反撃 (Defender)"
+
+#  Korean Text: '전위 추가 지원 : 행 보호'
+#: BuffEffect[Effect_BR_Miho_N_5].BuffEffectType2_Desc
+msgid "前衛追加支援 : ライン保護"
+msgstr ""
+
+#  Korean Text: '전위 추가 지원 : 공격력+{0}%'
+#: BuffEffect[Effect_BR_Miho_N_5].BuffEffectType3_Desc
+msgid "前衛追加支援 : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '전위 추가 지원 : 적중+{0}%'
+#: BuffEffect[Effect_BR_Miho_N_5].BuffEffectType4_Desc
+msgid "前衛追加支援 : 命中率+{0}%"
+msgstr ""
+
+#  Korean Text: '전위 추가 지원 : 행동력+{0}%'
+#: BuffEffect[Effect_BR_Miho_N_5].BuffEffectType5_Desc
+msgid "前衛追加支援 : 行動力+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '전위 추가 지원 : 범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가'
+#: BuffEffect[Effect_BR_Miho_N_5].Name
+msgid "前衛追加支援 : 範囲内の保護機にライン保護/反撃を付与、自分および保護機の攻撃力/命中率/行動力増加"
+msgstr "前衛追加支援: 範囲内の保護機にライン保護 / 反撃を付与、自分および保護機の攻撃力 / Accuracy / Action Speed Up"
+
 #  Korean Text: '전위 지원 : 전방의 보호기 AP 증가'
 #: BuffEffect[Effect_BR_Miho_N_11].Name
 msgid "前衛支援：前方の保護機AP増加"
@@ -8225,6 +8884,21 @@ msgstr "止めの狙撃: Damage +{0}%"
 #: BuffEffect[Effect_BR_Miho_N_13].Name
 msgid "フィニッシュスナイプ：ダメージ増幅対象のダメージ量増加"
 msgstr ""
+
+#  Generated Partial Match; Korean Text: '전위 추가 지원 : 공격력+{0}%(보호기)'
+#: BuffEffect[Effect_BR_Miho_N_56].BuffEffectType1_Desc
+msgid "前衛追加支援 : 攻撃力+{0}%(保護機)"
+msgstr "前衛追加支援: 攻撃力+{0}% (Defender)"
+
+#  Generated Partial Match; Korean Text: '전위 추가 지원 : 적중+{0}%(보호기)'
+#: BuffEffect[Effect_BR_Miho_N_57].BuffEffectType1_Desc
+msgid "前衛追加支援 : 命中率+{0}%(保護機)"
+msgstr "前衛追加支援: 命中率+{0}% (Defender)"
+
+#  Generated Partial Match; Korean Text: '전위 추가 지원 : 행동력+{0}%(보호기)'
+#: BuffEffect[Effect_BR_Miho_N_58].BuffEffectType1_Desc
+msgid "前衛追加支援 : 行動力+{0}%(保護機)"
+msgstr "前衛追加支援: 行動力+{0}% (Defender)"
 
 #  Korean Text: '잔해 수집 1단계 : AP {0}'
 #: BuffEffect[Effect_BR_Neodym_N_1].BuffEffectType1_Desc
@@ -12201,6 +12875,116 @@ msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.9"
 msgid "龍殺者の証：効果発動率増加LV.10"
 msgstr "Mark of the Dragonslayer: Increased Effectiveness Lv.10"
 
+#  Korean Text: '대 기동/중장형 OS : 기동형 피해량+{0}%'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_1].BuffEffectType1_Desc
+msgid "対機動/重装型OS : 機動型ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '대 기동/중장형 OS : 중장형 피해량+{0}%'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_1].BuffEffectType2_Desc
+msgid "対機動/重装型OS : 重装型ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.1'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_1].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.1"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.2'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_2].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.2"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.3'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_3].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.3"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.4'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_4].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.4"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.5'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_5].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.5"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.6'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_6].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.6"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.7'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_7].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.7"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.8'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_8].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.8"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.9'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_9].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.9"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.10'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_10].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.10"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.11'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_11].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.11"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.12'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_12].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.12"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.13'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_13].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.13"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.14'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_14].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.14"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.15'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_15].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.15"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.16'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_16].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.16"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.17'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_17].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.17"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.18'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_18].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.18"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.19'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_19].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.19"
+msgstr ""
+
+#  Korean Text: '대 기동/중장 전투 OS : 기동형 / 중장형 공격 시, 피해 증가 Lv.20'
+#: BuffEffect[Effect_BUFF_AntiAirArmor_N_20].Name
+msgid "対機動/重装戦闘OS : 機動型/重装型を攻撃時、ダメージ増加Lv.20"
+msgstr ""
+
 #  Korean Text: '대 기동형 OS 베타 : 피해량+{0}%'
 #: BuffEffect[Effect_BUFF_AntiAirTypeB_N_1].BuffEffectType1_Desc
 msgid "対機動型OSK：ダメージ+{0}%"
@@ -12311,6 +13095,116 @@ msgstr ""
 msgid "対機動戦闘OS：機動型攻撃時、ダメージ増加K/固定ダメージLv.20"
 msgstr ""
 
+#  Korean Text: '대 중장/경장형 OS : 중장형 피해량+{0}%'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_1].BuffEffectType1_Desc
+msgid "対重装/軽装型OS : 重装型ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '대 중장/경장형 OS : 경장형 피해량+{0}%'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_1].BuffEffectType2_Desc
+msgid "対重装/軽装型OS : 軽装型ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.1'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_1].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.1"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.2'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_2].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.2"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.3'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_3].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.3"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.4'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_4].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.4"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.5'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_5].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.5"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.6'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_6].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.6"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.7'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_7].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.7"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.8'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_8].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.8"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.9'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_9].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.9"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.10'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_10].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.10"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.11'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_11].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.11"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.12'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_12].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.12"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.13'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_13].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.13"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.14'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_14].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.14"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.15'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_15].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.15"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.16'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_16].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.16"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.17'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_17].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.17"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.18'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_18].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.18"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.19'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_19].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.19"
+msgstr ""
+
+#  Korean Text: '대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.20'
+#: BuffEffect[Effect_BUFF_AntiArmorTrooper_N_20].Name
+msgid "対重装/軽装戦闘OS : 重装型/軽装型を攻撃時、ダメージ増加Lv.20"
+msgstr ""
+
 #  Korean Text: '대 중장형 OS 베타 : 피해량+{0}%'
 #: BuffEffect[Effect_BUFF_AntiArmorTypeB_N_1].BuffEffectType1_Desc
 msgid "対軽装型OSK：ダメージ+{0}%"
@@ -12419,6 +13313,116 @@ msgstr ""
 #  Korean Text: '대 중장 전투 OS 베타 : 중장형 공격 시, 피해 증가 K / 효과 저항 감소 Lv.20'
 #: BuffEffect[Effect_BUFF_AntiArmorTypeB_N_20].Name
 msgid "対重装戦闘OS：重装型攻撃時、ダメージ増加K/固定ダメージLv.20"
+msgstr ""
+
+#  Korean Text: '대 경장/기동형 OS : 경장형 피해량+{0}%'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_1].BuffEffectType1_Desc
+msgid "対軽装/機動型OS : 軽装型ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '대 경장/기동형 OS : 기동형 피해량+{0}%'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_1].BuffEffectType2_Desc
+msgid "対軽装/機動型OS : 機動型ダメージ量+{0}%"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.1'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_1].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.1"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.2'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_2].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.2"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.3'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_3].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.3"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.4'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_4].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.4"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.5'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_5].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.5"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.6'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_6].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.6"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.7'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_7].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.7"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.8'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_8].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.8"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.9'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_9].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.9"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.10'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_10].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.10"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.11'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_11].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.11"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.12'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_12].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.12"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.13'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_13].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.13"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.14'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_14].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.14"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.15'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_15].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.15"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.16'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_16].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.16"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.17'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_17].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.17"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.18'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_18].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.18"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.19'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_19].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.19"
+msgstr ""
+
+#  Korean Text: '대 경장/기동 전투 OS : 경장형 / 기동형 공격 시, 피해 증가 Lv.20'
+#: BuffEffect[Effect_BUFF_AntiTrooperAir_N_20].Name
+msgid "対軽装/機動戦闘OS : 軽装型/機動型を攻撃時、ダメージ増加Lv.20"
 msgstr ""
 
 #  Korean Text: '대 경장형 OS 베타 : 효과 저항 {0}% 감소'
@@ -16576,6 +17580,116 @@ msgstr "Cooling Pack: Increase AP when attacking Lv.10"
 msgid "冷却パック：攻撃時、AP増加Lv.11"
 msgstr "Cooling Pack: Increase AP when attacking Lv.11"
 
+#  Korean Text: '개량형 고속 학습 OS : 경험치+{0}%'
+#: BuffEffect[Effect_BUFF_ImExp_N_1].BuffEffectType1_Desc
+msgid "改良型高速学習OS : 経験値+{0}%"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 행동력{0}%'
+#: BuffEffect[Effect_BUFF_ImExp_N_1].BuffEffectType2_Desc
+msgid "改良型高速学習OS : 行動力{0}%"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.1'
+#: BuffEffect[Effect_BUFF_ImExp_N_1].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.1"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.2'
+#: BuffEffect[Effect_BUFF_ImExp_N_2].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.2"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.3'
+#: BuffEffect[Effect_BUFF_ImExp_N_3].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.3"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.4'
+#: BuffEffect[Effect_BUFF_ImExp_N_4].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.4"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.5'
+#: BuffEffect[Effect_BUFF_ImExp_N_5].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.5"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.6'
+#: BuffEffect[Effect_BUFF_ImExp_N_6].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.6"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.7'
+#: BuffEffect[Effect_BUFF_ImExp_N_7].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.7"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.8'
+#: BuffEffect[Effect_BUFF_ImExp_N_8].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.8"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.9'
+#: BuffEffect[Effect_BUFF_ImExp_N_9].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.9"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.10'
+#: BuffEffect[Effect_BUFF_ImExp_N_10].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.10"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.11'
+#: BuffEffect[Effect_BUFF_ImExp_N_11].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.11"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.12'
+#: BuffEffect[Effect_BUFF_ImExp_N_12].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.12"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.13'
+#: BuffEffect[Effect_BUFF_ImExp_N_13].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.13"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.14'
+#: BuffEffect[Effect_BUFF_ImExp_N_14].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.14"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.15'
+#: BuffEffect[Effect_BUFF_ImExp_N_15].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.15"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.16'
+#: BuffEffect[Effect_BUFF_ImExp_N_16].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.16"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.17'
+#: BuffEffect[Effect_BUFF_ImExp_N_17].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.17"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.18'
+#: BuffEffect[Effect_BUFF_ImExp_N_18].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.18"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.19'
+#: BuffEffect[Effect_BUFF_ImExp_N_19].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.19"
+msgstr ""
+
+#  Korean Text: '개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.20'
+#: BuffEffect[Effect_BUFF_ImExp_N_20].Name
+msgid "改良型高速学習OS : 獲得経験値増加/行動力減少 Lv.20"
+msgstr ""
+
 #  Korean Text: '개량형 초정밀 조준기 : 적중 감소 해제 50%'
 #: BuffEffect[Effect_BUFF_ImSpSight_N_1].BuffEffectType1_Desc
 msgid "改良型超精密照準器：命中減少解除50％"
@@ -19677,6 +20791,117 @@ msgstr "Enemy Attack Reduction Aura"
 #: BuffEffect[Effect_DS_Johanna_N_11].Name
 msgid "騎士道：受けるダメージ減少"
 msgstr "騎士道: Damage Reduction"
+
+#  Korean Text: '시라누이 : 효과 저항 {0}% 감소'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_1].BuffEffectType1_Desc
+msgid "不知火 : 効果抵抗{0}%減少"
+msgstr ""
+
+#  Korean Text: '시라누이 : 지속 화염 피해 {0}'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_1].BuffEffectType2_Desc
+msgid "不知火 : 持続火炎ダメージ{0}"
+msgstr ""
+
+#  Korean Text: '시라누이 : 피해량+{0}%(화염 일격필살)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_1].BuffEffectType3_Desc
+msgid "不知火 : ダメージ量+{0}%(火炎一撃必殺)"
+msgstr ""
+
+#  Korean Text: '시라누이 : 적 효과 저항 감소, 화염 속성 고정 피해, [일격필살] 활성화 시 추가 피해'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_1].Name
+msgid "不知火 : 敵の効果抵抗減少、火炎属性固定ダメージ、[一撃必殺]活性化時、追加ダメージ"
+msgstr ""
+
+#  Korean Text: '오의 [화신강림] : 화염 저항{0}% 감소'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_2].BuffEffectType1_Desc
+msgid "奥義[火神降臨] : 火炎抵抗{0}%減少"
+msgstr ""
+
+#  Korean Text: '오의 [화신강림] : 피해량+{0}%(화염)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_2].BuffEffectType2_Desc
+msgid "奥義[火神降臨] : ダメージ量+{0}%(火炎)"
+msgstr ""
+
+#  Korean Text: '오의 [화신강림] : 피해량+{0}%(화염 일격필살)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_2].BuffEffectType3_Desc
+msgid "奥義[火神降臨] : ダメージ量+{0}%(火炎一撃必殺)"
+msgstr ""
+
+#  Korean Text: '오의 [화신강림] : 보호 무시 피해, 화염 속성  저항 감소, 냉기/전기 속성 저항 감소 상태 일 시 추가 피해, [일격필살] 활성화 시 추가 피해'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_2].Name
+msgid ""
+"奥義[火神降臨] : 保護を無視しダメージ、火炎属性の抵抗減少、冷気/電気属性の抵抗減少状態の時、追加ダメージ、[一撃必殺]活性化時、追加ダメージ"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_3].BuffEffectType1_Desc
+msgid "炎の舞 : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%(라운드감소)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_3].BuffEffectType2_Desc
+msgid "炎の舞 : 攻撃力+{0}%(ラウンド減少)"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 자신 공격력 증가'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_3].Name
+msgid "炎の舞 : 自分の攻撃力増加"
+msgstr ""
+
+#  Korean Text: '일격필살 : 활성 상태'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_4].BuffEffectType1_Desc
+msgid "一撃必殺 : 活性状態"
+msgstr ""
+
+#  Korean Text: '일격필살 : 행동력+{0}%'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_4].BuffEffectType2_Desc
+msgid "一撃必殺 : 行動力+{0}%"
+msgstr ""
+
+#  Korean Text: '일격필살 : [일격필살] 버프 상태, 행동력 증가'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_4].Name
+msgid "一撃必殺 : [一撃必殺]バフ状態、行動力増加"
+msgstr ""
+
+#  Korean Text: '시라누이 : 일격필살 해제'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_13].BuffEffectType1_Desc
+msgid "不知火 : 一撃必殺解除"
+msgstr ""
+
+#  Korean Text: '오의 [화신강림] : 피해량+{0}%(화염 일격필살)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_22].BuffEffectType1_Desc
+msgid "奥義[火神降臨] : ダメージ量+{0}%(火炎 一撃必殺)"
+msgstr ""
+
+#  Korean Text: '오의 [화신강림] : 일격필살 해제'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_23].BuffEffectType1_Desc
+msgid "奥義[火神降臨] : 一撃必殺解除"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%(4라운드)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_31].BuffEffectType1_Desc
+msgid "炎の舞 : 攻撃力+{0}%(4ラウンド)"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%(3라운드)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_32].BuffEffectType1_Desc
+msgid "炎の舞 : 攻撃力+{0}%(3ラウンド)"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%(2라운드)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_33].BuffEffectType1_Desc
+msgid "炎の舞 : 攻撃力+{0}%(2ラウンド)"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%(1라운드)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_34].BuffEffectType1_Desc
+msgid "炎の舞 : 攻撃力+{0}%(1ラウンド)"
+msgstr ""
+
+#  Korean Text: '불꽃의 춤 : 공격력+{0}%(히든)'
+#: BuffEffect[Effect_DS_KunoichiKaen_N_35].BuffEffectType1_Desc
+msgid "炎の舞 : 攻撃力+{0}%(隠し)"
+msgstr ""
 
 #  Korean Text: '은밀 : 추가 전기 피해+{0}%'
 #: BuffEffect[Effect_DS_KunoichiZero_N_1].BuffEffectType1_Desc
@@ -23557,6 +24782,181 @@ msgstr "精密先導射撃: Defense Penetration"
 #  Korean Text: '점착탄 연사 : 사거리+{0}%'
 #: BuffEffect[Effect_MP_LegionSPEX_N_16].BuffEffectType1_Desc
 msgid "粘着弾連射：射程距離+{0}%"
+msgstr ""
+
+#  Korean Text: '주인님을 위하여 : AP+{0}'
+#: BuffEffect[Effect_MP_LemonadeAvatar_Challenge1_2].BuffEffectType1_Desc
+msgid "ご主人様のために : AP+{0}"
+msgstr ""
+
+#  Korean Text: '주인님을 위하여 : 전투 속행'
+#: BuffEffect[Effect_MP_LemonadeAvatar_Challenge1_2].BuffEffectType2_Desc
+msgid "ご主人様のために : 戦闘続行"
+msgstr ""
+
+#  Korean Text: '주인님을 위하여 : 공격력+{0}%'
+#: BuffEffect[Effect_MP_LemonadeAvatar_Challenge1_2].BuffEffectType3_Desc
+msgid "ご主人様のために : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '주인님을 위하여 : 치명타+{0}%'
+#: BuffEffect[Effect_MP_LemonadeAvatar_Challenge1_2].BuffEffectType4_Desc
+msgid "ご主人様のために : クリティカル率+{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '주인님을 위하여 : AP/공격력/방어력 증가, 전투 속행 부여'
+#: BuffEffect[Effect_MP_LemonadeAvatar_Challenge1_2].Name
+msgid "ご主人様のために : AP/攻撃力/防御力増加、戦闘続行付与"
+msgstr "ご主人様のために: AP / Attack / 防御力増加、戦闘続行付与"
+
+#  Korean Text: '공간 이동'
+#: BuffEffect[Effect_MP_LemonadeAvatar_EV8_5].BuffEffectType1_Desc
+msgid "空間移動"
+msgstr ""
+
+#  Korean Text: '화신 : 완전한 모습으로 현현'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_1].Name
+msgid "化身 : 完全な姿で出現"
+msgstr ""
+
+#  Korean Text: '주인님을 위하여 : 방어력+{0}%'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_2].BuffEffectType4_Desc
+msgid "ご主人様のために : 防御力+{0}%"
+msgstr ""
+
+#  Korean Text: '은총 부여 : 방어막+{0}'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_3].BuffEffectType1_Desc
+msgid "恩寵進上 : バリア+{0}"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '방어막'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_3].Name
+msgid "バリア"
+msgstr "Shield"
+
+#  Korean Text: '공간 장악 : 피해 무효화'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_4].BuffEffectType1_Desc
+msgid "空間掌握 : ダメージ無効化"
+msgstr ""
+
+#  Korean Text: '피해 무효화 / 해제 불가'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_4].Name
+msgid "ダメージ無効化/解除不可"
+msgstr ""
+
+#  Korean Text: '연결 해제 : [공간 장악] 해제'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_5].BuffEffectType1_Desc
+msgid "連結解除 : [空間掌握] 解除"
+msgstr ""
+
+#  Korean Text: '[공간 장악] 해제'
+#: BuffEffect[Effect_MP_LemonadeAvatar_N_5].Name
+msgid "[空間掌握] 解除"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 적중 강화 해제'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_1].BuffEffectType1_Desc
+msgid "ケストスヒマス : 命中率強化解除"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 뒤로 {0}칸 밀기'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_1].BuffEffectType2_Desc
+msgid "ケストスヒマス : 後方に{0}枠押し出す"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 출력전개'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_1].Name
+msgid "ケストスヒマス : 出力全開"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : AP {0}으로 변경'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_2].BuffEffectType1_Desc
+msgid "ケストスヒマス : AP{0}に変更"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 치명타+{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_2].BuffEffectType2_Desc
+msgid "ケストスヒマス : クリティカル率+{0}%"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 효과 저항+{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_2].BuffEffectType3_Desc
+msgid "ケストスヒマス : 効果抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 알고리즘 개선'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_2].Name
+msgid "ケストスヒマス : アルゴリズム改善"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 받는 피해-{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_3].BuffEffectType1_Desc
+msgid "ケストスヒマス : 受けるダメージ-{0}%"
+msgstr ""
+
+#  Korean Text: '경장갑 OS : 경장 받는 피해 감소 / 기동 중장 받는 피해 증가'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_3].Name
+msgid "軽装甲OS : 軽装が受けるダメージ減少/機動重装が受けるダメージ増加"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 사거리+{0}'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_4].BuffEffectType1_Desc
+msgid "ケストスヒマス : 射程距離+{0}"
+msgstr ""
+
+#  Korean Text: '사거리 OS : 기동 사거리, 적중 증가 / 경장 중장 사거리, 적중 감소'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_4].Name
+msgid "射程距離OS : 機動の射程距離、命中率増加/軽装重装の射程距離、命中率減少"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : AP+{0}'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_5].BuffEffectType1_Desc
+msgid "ケストスヒマス : AP+{0}"
+msgstr ""
+
+#  Korean Text: '중장갑 OS : 중장 AP, 행동력 증가 / 경장 중장 AP, 행동력 감소'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_5].Name
+msgid "重装甲OS : 重装AP、行動力増加/軽装重装AP、行動力減少"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 이동 불가'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_11].BuffEffectType1_Desc
+msgid "ケストスヒマス : 移動不可"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 사거리{0}'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_12].BuffEffectType1_Desc
+msgid "ケストスヒマス : 射程距離{0}"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 받는 피해+{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_31].BuffEffectType1_Desc
+msgid "ケストスヒマス : 受けるダメージ+{0}%"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 적중+{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_41].BuffEffectType1_Desc
+msgid "ケストスヒマス : 命中率+{0}%"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 적중{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_43].BuffEffectType1_Desc
+msgid "ケストスヒマス : 命中率{0}%"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 행동력+{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_51].BuffEffectType1_Desc
+msgid "ケストスヒマス : 行動力+{0}%"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : AP{0}'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_52].BuffEffectType1_Desc
+msgid "ケストスヒマス : AP{0}"
+msgstr ""
+
+#  Korean Text: '케스토스 히마스 : 행동력{0}%'
+#: BuffEffect[Effect_MP_LemonadeOmega_N_53].BuffEffectType1_Desc
+msgid "ケストスヒマス : 行動力{0}%"
 msgstr ""
 
 #  Generated Partial Match; Korean Text: '쇼크 밤 : 행동력{0}%'
@@ -28558,6 +29958,16 @@ msgstr "観測砲撃: Accuracy / Critical Hit Rate / シールド&ダメージ�
 msgid "砲弾再装填：行動不可"
 msgstr "砲弾再装填: Stunned"
 
+#  Korean Text: '머신캐논 연사 : 방어력 감소 / 치명타 시, 강화 효과 해제'
+#: BuffEffect[Effect_MP_Slasher_N_2].Name
+msgid "マシンキャノン連射 : 防御力減少/クリティカル時、強化効果解除"
+msgstr ""
+
+#  Korean Text: '장갑 찢기 : 치명타 시, 피해량 증가 및 받는 피해 감소 해제'
+#: BuffEffect[Effect_MP_Slasher_N_3].Name
+msgid "装甲破り : クリティカル時、ダメージ量増加および受けるダメージ減少解除"
+msgstr ""
+
 #  Korean Text: '경직 : 행동력 감소 효과'
 #: BuffEffect[Effect_MP_Sparrow_N_1].Name
 msgid "硬直：行動力減少効果"
@@ -32495,6 +33905,225 @@ msgstr "Covering Important Personnel: {0}% Damage Reduction"
 msgid "要員掩蔽：受けるダメージ減少"
 msgstr "Covering Important Personnel: Damage Reduction"
 
+#  Korean Text: '위협사격 : 표식 지정'
+#: BuffEffect[Effect_PECS_Leanne_N_1].BuffEffectType1_Desc
+msgid "威嚇射撃 : 標的指定"
+msgstr ""
+
+#  Korean Text: '위협사격 : 공격력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_1].BuffEffectType2_Desc
+msgid "威嚇射撃 : 攻撃力{0}%"
+msgstr ""
+
+#  Korean Text: '위협사격 : 회피 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_1].BuffEffectType3_Desc
+msgid "威嚇射撃 : 回避率{0}%"
+msgstr ""
+
+#  Korean Text: '위협사격 : 보호 무시 피해, 표식, 적 공격력 / 회피 감소, 협동공격'
+#: BuffEffect[Effect_PECS_Leanne_N_1].Name
+msgid "威嚇射撃 : 保護無視ダメージ、標的、敵の攻撃力/回避率減少、協同攻撃"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 공격력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_2].BuffEffectType1_Desc
+msgid "本部支援要請 : 攻撃力{0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 모든 속성 저항력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_2].BuffEffectType2_Desc
+msgid "本部支援要請 : すべての属性抵抗力{0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 효과 저항 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_2].BuffEffectType3_Desc
+msgid "本部支援要請 : 効果抵抗 {0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 받는 피해+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_2].BuffEffectType4_Desc
+msgid "本部支援要請 : 受けるダメージ+{0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 보호 무시, 공격력 감소, 모든 속성 저항 감소, 효과 저항 감소, 받는 피해 증가'
+#: BuffEffect[Effect_PECS_Leanne_N_2].Name
+msgid "本部支援要請 : 保護無視、攻撃力減少、すべての属性抵抗減少、効果抵抗減少、受けるダメージ増加"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : AP+{0}'
+#: BuffEffect[Effect_PECS_Leanne_N_3].BuffEffectType1_Desc
+msgid "熱血刑事 : AP+{0}"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 방어막+{0}'
+#: BuffEffect[Effect_PECS_Leanne_N_3].BuffEffectType2_Desc
+msgid "熱血刑事 : バリア+{0}"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 모든 속성 저항+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_3].BuffEffectType3_Desc
+msgid "熱血刑事 : すべての属性抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 효과 저항+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_3].BuffEffectType4_Desc
+msgid "熱血刑事 : 効果抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 전투 시작 시 AP 증가, 대기시 AP/모든 속성 저항/효과 저항 증가, 방어막 생성'
+#: BuffEffect[Effect_PECS_Leanne_N_3].Name
+msgid "熱血刑事 : 戦闘開始時、AP増加、待機時、AP/すべての属性抵抗/効果抵抗増加、バリア生成"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 정찰 활성화'
+#: BuffEffect[Effect_PECS_Leanne_N_4].BuffEffectType1_Desc
+msgid "外部情報網 : 偵察活性化"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 회피+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_4].BuffEffectType2_Desc
+msgid "外部情報網 : 回避率+{0}%"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 모든 속성 저항+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_4].BuffEffectType3_Desc
+msgid "外部情報網 : すべての属性抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 받는 피해{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_4].BuffEffectType4_Desc
+msgid "外部情報網 : 受けるダメージ{0}%"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '외부 정보망 : 정찰 효과, 공격력/회피/모든 속성 저항 증가, 받는 피해 감소'
+#: BuffEffect[Effect_PECS_Leanne_N_4].Name
+msgid "外部情報網 : 偵察効果、攻撃力/回避率/すべての属性抵抗増加、受けるダメージ減少"
+msgstr "外部情報網: 偵察効果、攻撃力 / Evasion / すべての属性抵抗増加、受けるダメージ減少"
+
+#  Korean Text: '정의 집행 : 공격력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_5].BuffEffectType1_Desc
+msgid "正義執行 : 攻撃力{0}%"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 회피 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_5].BuffEffectType2_Desc
+msgid "正義執行 : 回避率{0}%"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 모든 속성 저항 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_5].BuffEffectType3_Desc
+msgid "正義執行 : すべての属性抵抗 {0}%"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 받는 피해+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_5].BuffEffectType4_Desc
+msgid "正義執行 : 受けるダメージ+{0}%"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 공격력 / 회피 / 속성 저항 감소 / 받는 피해 증가 효과 분석'
+#: BuffEffect[Effect_PECS_Leanne_N_5].Name
+msgid "正義執行 : 攻撃力/回避率 /属性抵抗減少/受けるダメージ増加効果分析"
+msgstr ""
+
+#  Generated Partial Match; Korean Text: '위협사격 : 보호 무시 피해, 표식, 적 공격력/회피 감소'
+#: BuffEffect[Effect_PECS_Leanne_N_11].Name
+msgid "威嚇射撃 : 保護無視ダメージ、標的、敵の攻撃力/回避率減少"
+msgstr "威嚇射撃: 保護無視ダメージ、標的、敵の攻撃力 / Evasion Reduction"
+
+#: BuffEffect[Effect_PECS_Leanne_N_13].BuffEffectType1_Desc
+msgid "1000109161エラーが発生しました。"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 화염 속성 저항력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_22].BuffEffectType1_Desc
+msgid "本部支援要請 : 火炎属性抵抗力{0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 냉기 속성 저항력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_23].BuffEffectType1_Desc
+msgid "本部支援要請 : 冷気属性抵抗力{0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 전기 속성 저항력 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_24].BuffEffectType1_Desc
+msgid "本部支援要請 : 電気属性抵抗力{0}%"
+msgstr ""
+
+#  Korean Text: '본부 지원 요청 : 효과 저항 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_25].BuffEffectType1_Desc
+msgid "本部支援要請 : 効果抵抗{0}%"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : AP+{0}(대기)'
+#: BuffEffect[Effect_PECS_Leanne_N_31].BuffEffectType1_Desc
+msgid "熱血刑事 : AP+{0}(待機)"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 방어막+{0}(대기)'
+#: BuffEffect[Effect_PECS_Leanne_N_32].BuffEffectType1_Desc
+msgid "熱血刑事 : バリア+{0}(待機)"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 화염 속성 저항+{0}%(대기)'
+#: BuffEffect[Effect_PECS_Leanne_N_33].BuffEffectType1_Desc
+msgid "熱血刑事 : 火炎属性抵抗+{0}%(待機)"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 냉기 속성 저항+{0}%(대기)'
+#: BuffEffect[Effect_PECS_Leanne_N_34].BuffEffectType1_Desc
+msgid "熱血刑事 : 冷気属性抵抗+{0}%(待機)"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 전기 속성 저항+{0}%(대기)'
+#: BuffEffect[Effect_PECS_Leanne_N_35].BuffEffectType1_Desc
+msgid "熱血刑事 : 電気属性抵抗+{0}%(待機)"
+msgstr ""
+
+#  Korean Text: '열혈 형사 : 효과 저항+{0}%(대기)'
+#: BuffEffect[Effect_PECS_Leanne_N_36].BuffEffectType1_Desc
+msgid "熱血刑事 : 効果抵抗+{0}%(待機)"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 공격력 +{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_41].BuffEffectType1_Desc
+msgid "外部情報網 : 攻撃力+{0}%"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 화염 속성 저항+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_43].BuffEffectType1_Desc
+msgid "外部情報網 : 火炎属性抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 냉기 속성 저항+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_44].BuffEffectType1_Desc
+msgid "外部情報網 : 冷気属性抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 전기 속성 저항+{0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_45].BuffEffectType1_Desc
+msgid "外部情報網 : 電気属性抵抗+{0}%"
+msgstr ""
+
+#  Korean Text: '외부 정보망 : 받는 피해{0}% 감소'
+#: BuffEffect[Effect_PECS_Leanne_N_46].BuffEffectType1_Desc
+msgid "外部情報網 : 受けるダメージ{0}%減少"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 화염 속성 저항 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_52].BuffEffectType1_Desc
+msgid "正義執行 : 火炎属性抵抗 {0}%"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 냉기 속성 저항 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_53].BuffEffectType1_Desc
+msgid "正義執行 : 冷気属性抵抗 {0}%"
+msgstr ""
+
+#  Korean Text: '정의 집행 : 전기 속성 저항 {0}%'
+#: BuffEffect[Effect_PECS_Leanne_N_54].BuffEffectType1_Desc
+msgid "正義執行 : 電気属性抵抗 {0}%"
+msgstr ""
+
 #  Korean Text: '럭키 히트! : 피해량+{0}%'
 #: BuffEffect[Effect_PECS_LRL_N_1].BuffEffectType1_Desc
 msgid "ラッキーヒット!：ダメージ量+{0}%"
@@ -32852,6 +34481,10 @@ msgstr ""
 msgid "誘引策：自分が標的/防御力増加/被ダメージ減少/全ての属性抵抗増加"
 msgstr "誘引策: 自分が標的 / Defense Up / 被ダメージ減少 / 全ての属性抵抗増加"
 
+#: BuffEffect[Effect_PECS_MissSafety_N_11].BuffEffectType1_Desc
+msgid "1000109162エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '유인책 : 전기 속성 저항+{0}%'
 #: BuffEffect[Effect_PECS_MissSafety_N_31].BuffEffectType1_Desc
 msgid "誘引策：電気属性抵抗+{0}%"
@@ -32936,6 +34569,10 @@ msgstr ""
 #: BuffEffect[Effect_PECS_PuppHead_N_12].Name
 msgid "検挙完了!：攻撃力/クリティカル率/命中率増加"
 msgstr "Arrest Complete!: Attack / Critical Chance / Accuracy Up"
+
+#: BuffEffect[Effect_PECS_PuppHead_N_21].BuffEffectType1_Desc
+msgid "1000109160エラーが発生しました。"
+msgstr ""
 
 #  Korean Text: '테이져 캐논 : 전기 속성 저항력 {0}%'
 #: BuffEffect[Effect_PECS_Sadius_N_1].BuffEffectType1_Desc
@@ -33122,6 +34759,16 @@ msgstr ""
 msgid "ガードオプシティズン：シティーガード所属の分隊の場合、自分の攻撃力/クリティカルスタック増加、範囲内の電気属性抵抗増加"
 msgstr ""
 
+#  Korean Text: '가드 오브 시티즌: 공격력+{0}%(자비로운 리앤)'
+#: BuffEffect[Effect_PECS_Sadius_N_57].BuffEffectType1_Desc
+msgid "ガードオブシチズン: 攻撃力+{0}%(慈悲深いリエン)"
+msgstr ""
+
+#  Korean Text: '가드 오브 시티즌 : 치명타+{0}%(자비로운 리앤)'
+#: BuffEffect[Effect_PECS_Sadius_N_57].BuffEffectType2_Desc
+msgid "ガードオブシチズン : クリティカル率+{0}%(慈悲深いリエン)"
+msgstr ""
+
 #  Generated Partial Match; Korean Text: '시야 차단 : 공격력 {0}%'
 #: BuffEffect[Effect_PECS_Saetti_N_1].BuffEffectType1_Desc
 msgid "視野遮断：攻撃力{0}%"
@@ -33292,6 +34939,10 @@ msgstr "不屈の消防官: {0}% Damage Reduction (2段階)"
 msgid "不屈の消防官：受けるダメージ{0}%減少(3段階)"
 msgstr "不屈の消防官: {0}% Damage Reduction (3段階)"
 
+#: BuffEffect[Effect_PECS_Serpent_N_21].BuffEffectType1_Desc
+msgid "1000109159エラーが発生しました。"
+msgstr ""
+
 #  Korean Text: '긴급 구조 : 범위내 경장/중장형 아군 보호, 자신 HP 50% 이하면 AP 증가'
 #: BuffEffect[Effect_PECS_Serpent_N_31].Name
 msgid "緊急救助：範囲内の軽装/重装型の味方保護、自分のHP50%以下でAP増加"
@@ -33311,6 +34962,14 @@ msgstr "不屈の消防官: Continue Battle at {0} HP (Cannot be released)"
 #: BuffEffect[Effect_PECS_Serpent_N_43].Name
 msgid "不屈の消防官：被ダメージ減少/行動力増加 /戦闘続行"
 msgstr "不屈の消防官: 被ダメージ減少 / 行動力増加 / Battle Continuation"
+
+#: BuffEffect[Effect_PECS_Serpent_N_44].BuffEffectType1_Desc
+msgid "1000109157エラーが発生しました。"
+msgstr ""
+
+#: BuffEffect[Effect_PECS_Serpent_N_45].BuffEffectType1_Desc
+msgid "1000109158エラーが発生しました。"
+msgstr ""
 
 #  Korean Text: '회심의 일격 : 피해 감소 해제'
 #: BuffEffect[Effect_PECS_Spartoia_N_1].BuffEffectType1_Desc

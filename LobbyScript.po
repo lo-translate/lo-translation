@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-03-10 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -4728,6 +4728,38 @@ msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Stinger].LobbyScript1[3](Affection<100)
 msgid "破壊。突破。破壊。突破。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScript1[1](Affection<100)
+msgid "素敵なショーのためには訓練は必要不可欠で、高難易度の演目をこなすには優れた身体能力も重要です。見てください！私、こんなこともできるんですよー？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScript1[2](Affection<100)
+msgid "どんな辛いことでもポジティブに考えれば全部乗り越えることができます！ほら、司令官もスマイルスマイル～"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScript1[3](Affection<100)
+msgid "昔の私たちはサーカス団員とも仲良く過ごしてきたんです。ここの方たちともそんな風に仲良くできたらいいな。"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScript2[1](Affection>40)
+msgid "きゃっ…！？た、確かにそうですよね…。どれくらい丈夫で柔軟なのかは触ってみないとわかりませんもんね…？…そ、それにしてはちょっと触り過ぎでは…？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScript3[3](Affection>70)
+msgid "ポジティブバカって…言われたことがあるんです…。うぅ、これにはさすがの私も……あれ…？まさか…司令官もそう思ってるんですか！？"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScript4[2](Affection=100)
+msgid "あの…私はただポジティブなだけで、何でもOKってわけではなく……でも…司令官にはそうなっちゃいますね。なんでだろう…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScriptSp1[1](Affection<100,SpecialTouch)
+msgid "こ、これは司令官ならではの挨拶の方法…！？じゃ…ないだろうし…"
+msgstr ""
+
+#: LobbyScript[LobbyScript_PECS_Sunny].LobbyScriptSp2[1](Affection=100,SpecialTouch)
+msgid "なるほど、これは司令官の愛情表現なんですね！そういうことなら私も一緒にやってもいいですか？"
 msgstr ""
 
 #: LobbyScript[LobbyScript_PECS_Tiequan].LobbyScript1[1](Affection<100)

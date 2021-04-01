@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-03-10 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -863,6 +863,16 @@ msgstr ""
 msgid "もう一つの運命のカリスト"
 msgstr "Callisto of Different Fate"
 
+#  Korean Text: '당신을 구원자라고 여기게 된 아자젤이 새로운 의무를 다하려고 합니다. 종교 활동 시간에 만난 브라우니에게 큰 도움을 받았다고 하네요.'
+#: CharSkin[Skin_DS_Azazel_1].SkinDesc
+msgid "貴方を救済者と信じているアザゼルが、新しい義務を果たそうとしています。宗教活動時間で知り合ったブラウニーから助言を貰ったと言ってますね。"
+msgstr ""
+
+#  Korean Text: '반려의 의무'
+#: CharSkin[Skin_DS_Azazel_1].SkinName
+msgid "伴侶の義務"
+msgstr ""
+
 #  Korean Text: '만월의 힘이 충만한 빨간 망토 백토가 나타났습니다! 할로윈에 날뛰는 마물들은 각오하는 게 좋을 겁니다!'
 #: CharSkin[Skin_DS_Baekto_1].SkinDesc
 msgid "満月の力がみなぎる赤いマントの白兎が登場しました！ハロウィンの日に暴れ回る魔物たちは覚悟した方がよさそうです！"
@@ -885,6 +895,16 @@ msgstr ""
 #: CharSkin[Skin_DS_Charlotte_1].SkinName
 msgid "フランス風宝石ビキニ"
 msgstr "French Jewelry Bikini"
+
+#  Korean Text: '아르망 또한 아자젤처럼 자신의 대행자를 선택했습니다. 그런데… 음… 과연 이게 최선이었을까요…?'
+#: CharSkin[Skin_DS_Charlotte_2].SkinDesc
+msgid "アルマンもアザゼルみたいに自分の代行者を選びました。ですが…うーん…何故ベストを尽くさなかったのでしょうか…"
+msgstr ""
+
+#  Korean Text: '조금 이상한 대행자'
+#: CharSkin[Skin_DS_Charlotte_2].SkinName
+msgid "斜め上すぎる代行者"
+msgstr ""
 
 #  Korean Text: '어느 친구의 강요로 전직한 뽀끄루 (전) 대마왕입니다. 크기야 어쨌든 보는 이들에게 꿈과 희망만 줄 수 있으면 아무래도 좋지 않을까요?'
 #: CharSkin[Skin_DS_Faucre_1].SkinDesc

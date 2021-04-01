@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-03-10 12:00-0400\n"
+"PO-Revision-Date: 2021-04-01 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -1587,6 +1587,11 @@ msgstr ""
 #: PC[Char_PECS_Stinger_N].Name
 msgid "CM67スティンガー"
 msgstr "CM67 Stinger"
+
+#  Korean Text: '반가워요~ 최고의 쇼를 감상할 준비는 됐어요?'
+#: PC[Char_PECS_Sunny_N].DialogJoin
+msgid "はじめまして～！最高のショーを楽しむ準備はできましたか～！？"
+msgstr ""
 
 #  Korean Text: '아크로바틱 써니'
 #: PC[Char_PECS_Sunny_N].Name
