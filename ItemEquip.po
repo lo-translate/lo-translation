@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-04-01 12:00-0400\n"
+"PO-Revision-Date: 2021-04-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -139,7 +139,7 @@ msgstr "Output Enhancement Circuit EX"
 #  Korean Text: '공격력+{0} / 치명타{1}'
 #: ItemEquip[Equip_Chip_AtkControl_T1].ItemDesc
 msgid "攻撃力+{0} / クリティカル{1}"
-msgstr ""
+msgstr "ATK +{0} / Crit {1}"
 
 #  Korean Text: '공격력이 증가하지만, 치명타는 감소하는 회로입니다.'
 #: ItemEquip[Equip_Chip_AtkControl_T1].ItemDesc_Detail
@@ -149,22 +149,22 @@ msgstr ""
 #  Korean Text: '출력 제어 회로 RE'
 #: ItemEquip[Equip_Chip_AtkControl_T1].ItemName
 msgid "出力制御回路RE"
-msgstr ""
+msgstr "Output Control Chip RE"
 
 #  Korean Text: '출력 제어 회로 MP'
 #: ItemEquip[Equip_Chip_AtkControl_T2].ItemName
 msgid "出力制御回路MP"
-msgstr ""
+msgstr "Output Control Chip MP"
 
 #  Korean Text: '출력 제어 회로 SP'
 #: ItemEquip[Equip_Chip_AtkControl_T3].ItemName
 msgid "出力制御回路SP"
-msgstr ""
+msgstr "Output Control Chip SP"
 
 #  Korean Text: '출력 제어 회로 EX'
 #: ItemEquip[Equip_Chip_AtkControl_T4].ItemName
 msgid "出力制御回路EX"
-msgstr ""
+msgstr "Output Control Chip EX"
 
 #  Korean Text: '공격력+{0} / 치명타+{1} / 행동력{2}'
 #: ItemEquip[Equip_Chip_AtkCri_T1].ItemDesc

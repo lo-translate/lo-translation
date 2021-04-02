@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-04-01 12:00-0400\n"
+"PO-Revision-Date: 2021-04-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -5501,7 +5501,7 @@ msgstr ""
 #  Korean Text: '출력 제어 회로 EX'
 #: ShopDesc[16059].ProductName
 msgid "出力制御回路EX"
-msgstr ""
+msgstr "Output Control Chip EX"
 
 #  Korean Text: '출력을 강화해 공격력을 높입니다. 오버 클럭으로 HP가 감소 합니다.'
 #: ShopDesc[16060].NPCDescription
