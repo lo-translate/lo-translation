@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"PO-Revision-Date: 2021-04-01 12:00-0400\n"
+"PO-Revision-Date: 2021-04-02 12:00-0400\n"
 "POT-Creation-Date: \n"
 "Project-Id-Version: \n"
 "X-Generator: Poedit 2.4\n"
@@ -819,192 +819,236 @@ msgstr "Before the battle"
 #: DialogScript[DG_Ch01Stage02_1_1].Script
 msgid "ここから先は敵陣です。ヨアンナさん？よろしく頼みます。"
 msgstr ""
+"We'll have contact with the enemy from this point onwards. Johanna, please go "
+"ahead."
 
 #  Korean Text: '물론이네. 주군을 실망시킬 순 없지.'
 #: DialogScript[DG_Ch01Stage02_1_2].Script
 msgid "もちろんだ。殿を失望させるわけにはいかない。"
-msgstr ""
+msgstr "Leave it to me! I will not disappoint the lord!"
 
 #  Korean Text: '응. 이젠 물러설 수도 없어. &n이렇게 된 이상, 내가 제일 많이 처치할 테야!'
 #: DialogScript[DG_Ch01Stage02_1_3].Script
 msgid "そうね。今さら退却することもできないし。&nこうなった以上、私が一番多くやっつけてやる！"
 msgstr ""
+"Yep, there's no way to escape from this. Now that it's come to this, I'll be "
+"the MVP!"
 
 #  Korean Text: '정말 다행이에요. 요안나 씨... 덕분에 무사히 빠져나올 수 있었어요.&n주인님도 안전하게 지킬 수 있었고요.'
 #: DialogScript[DG_Ch01Stage02_2_1].Script
 msgid "とっても助かりました。ヨアンナさん…&nおかげで無事に脱出することができました。&nご主人様も安全にお守りできましたし。"
 msgstr ""
+"Thanks a lot for the help, Johanna. We can get out of the siege all thanks to "
+"you. And you also protected the commander!"
 
 #  Korean Text: '어려운 자를 돕는 것이 바로 기사의 도리이지.&n아, 주군께는 이제 제대로 인사를 드려야겠군.'
 #: DialogScript[DG_Ch01Stage02_2_2].Script
 msgid "困っている者に手を差し伸べるのがまさに騎士の道理。&nやっとこれで主君に正式なご挨拶ができる。"
 msgstr ""
+"To help those in need are the missions for a Knight. Ah, I need to properly "
+"greet the lord!"
 
 #  Korean Text: '동쪽과 남쪽, 바다 건너의 기사. 모든 사제들과 예언자들의 여왕,&n외로이 신앙을 지키는 자들의 보호자, 사제여왕 요안나라고 하지.'
 #: DialogScript[DG_Ch01Stage02_2_3].Script
 msgid "東と南、そして海を越えた先より来たる騎士。&nすべての司祭と預言者たちの女王、信仰する者たちの守護者、&n司祭の女王ヨアンナだ。"
 msgstr ""
+"The Knight from the East, the South and across the sea. Queen of all priests "
+"and prophets. I am Johanna, Queen of Priests and Protector of the Faithful."
 
 #  Korean Text: '이제는 오롯이 홀로 남으신 귀하신 분께 경의를 바치노라.'
 #: DialogScript[DG_Ch01Stage02_2_4].Script
 msgid "一人残った貴殿に敬意を示す。"
-msgstr ""
+msgstr "All my respects to the one and only lord that's still here."
 
 #: DialogScript[DG_Ch01Stage02_2_4].SelectionIndex[1]
 msgid "そんなに歓迎してもらって嬉しいよ。"
-msgstr ""
+msgstr "Thank you for your elegant greeting."
 
 #: DialogScript[DG_Ch01Stage02_2_4].SelectionIndex[2]
 msgid "言葉遣いが変わってるな。"
-msgstr ""
+msgstr "That was... a very outstanding tone."
 
 #  Korean Text: '아니, 이렇게 나타나 주어서 짐이 오히려 기쁘군.'
 #: DialogScript[DG_Ch01Stage02_2_5].Script
 msgid "こうして生き残ってくれて余も嬉しいぞ。"
-msgstr ""
+msgstr "No, I'm the one who wants to thank you for showing up like this."
 
 #  Korean Text: '하지만, 그보다 더욱 급한 전할 말이 있어&n이 기쁨을 시로 표현하지 못하는 걸 부디 용서하게나.'
 #: DialogScript[DG_Ch01Stage02_2_6].Script
 msgid "それよりも緊急を要する伝言がある。&n故にこの嬉しさを詩で表現できぬことを許したまえ。"
 msgstr ""
+"But I have more messages to deliver, and I hope you'll forgive me if I don't "
+"have time to write a poem about this joy."
 
 #  Korean Text: '혹시... 기지에 관한 이야기인가요?&n기지에 무슨 일이 생기기라도 했나요?'
 #: DialogScript[DG_Ch01Stage02_2_7].Script
 msgid "もしかして…基地に関する情報ですか？&n基地で何か起こったんですか？"
-msgstr ""
+msgstr "Is it about the base? What happened?"
 
 #  Korean Text: '그대는 역시 총명하군. 라비아타 공이 그대에게 이 일을 맡길만도 해.'
 #: DialogScript[DG_Ch01Stage02_2_8].Script
 msgid "さすがは聡明なそなた。&nラビアタ公がそなたにこの仕事を任せた理由が分かる。"
-msgstr ""
+msgstr "You are very wise. I can see why Labiata put you in charge."
 
 #  Korean Text: '요안나가 마중을 나왔는데도 기지와는 통신이 되지 않았으니까요.'
 #: DialogScript[DG_Ch01Stage02_2_9].Script
 msgid "ヨアンナさんがこうして迎えに来てくれたのに、&n基地との通信が接続できないんです。"
 msgstr ""
+"I guessed it that way because you came to find us, and we can't communicate "
+"with the base."
 
 #  Korean Text: '흠... 대충 짐작을 하고 있는 것 같으니 간단하게 말하지.&n지금 기지는 공격을 받고 있다네. 좀 더 정확히는... 우리 모두 퇴각을 하고 있지.'
 #: DialogScript[DG_Ch01Stage02_2_10].Script
 msgid "ふむ…おおよその見当は付いているようだから簡潔に述べよう。&n現在基地は攻撃を受けている、要するに…&n我々は撤退を余儀なくされている。"
 msgstr ""
+"Well, you probably guessed it, so let's keep this short. The base is under "
+"enemy attack. Or perhaps it's more accurate to say that we are all in a "
+"retreat."
 
 #  Korean Text: '퇴각이요?'
 #: DialogScript[DG_Ch01Stage02_2_11].Script
 msgid "撤退ですって？"
-msgstr ""
+msgstr "A retreat?"
 
 #  Korean Text: '라비아타 공이 전투 중에 좀 많이 다쳤다네.&n게다가 적이 너무 많아. 아무래도 버틸 수 없을 것 같아서 말야.'
 #: DialogScript[DG_Ch01Stage02_2_12].Script
 msgid "ラビアタ公が戦闘中に大怪我を負ったそうだ。&nしかも敵の数が非常に多い。&nどう考えても耐えきれぬと判断した結果だ。"
 msgstr ""
+"Labiata was hurt in the battle. Besides, there were way too many of them."
 
 #  Korean Text: '일단은 흩어져서 다시 전열을 가다듬을 생각이지.'
 #: DialogScript[DG_Ch01Stage02_2_13].Script
 msgid "ひとまずは分散し改めて戦列を整える作戦だ。"
-msgstr ""
+msgstr "She decided it was not possible to hold the line."
 
 #  Korean Text: '말도 안돼! 걱정 마. 우리가 인간을 찾았으니까.&n명령을 받고 제대로 싸울 수만 있다면 그까짓 놈들...'
 #: DialogScript[DG_Ch01Stage02_2_14].Script
 msgid "そんなの嘘よ！心配要らないって…！私たちは人間を見つけたのよ！&n命令を受けて戦えばそれくらい…"
 msgstr ""
+"That's impossible! We found the human, and he's fine! If we just take orders "
+"and fight properly, those Parasites...!"
 
 #  Korean Text: '그리폰, 너라면 그렇게 말할 줄 알았지.&n그래서 라비아타 공이 날 보낸 것이기도 하고.'
 #: DialogScript[DG_Ch01Stage02_2_15].Script
 msgid "グリフォン、お前ならそう言うと思った。&n故にラビアタ公が余を派遣したのである。"
-msgstr ""
+msgstr "Griffon, I know you would say so. That's why Labiata sent me here."
 
 #  Korean Text: '언니는... 괜찮은가요?'
 #: DialogScript[DG_Ch01Stage02_2_16].Script
 msgid "ラビアタお姉さまは…大丈夫なんですか？"
-msgstr ""
+msgstr "Is Labiata still ok?"
 
 #  Korean Text: '상처가 제법 크긴 하지만 시간이 가면 낫는 부상이야.&n그대가 그렇게 걱정할 일은 없다네.'
 #: DialogScript[DG_Ch01Stage02_2_17].Script
 msgid "重傷ではあるが時間が経てば癒える傷だ。&nそこまで心配することはない。"
 msgstr ""
+"She was hurt badly, but I think over time she'll heal. Don't worry too much "
+"about it."
 
 #  Korean Text: '그렇군요. 그럼 언니가 요안나 씨를 보낸 건 주인님의 안전을 위해선가요?'
 #: DialogScript[DG_Ch01Stage02_2_18].Script
 msgid "そうですか。ではお姉さまがヨアンナさんを送ったのは&nご主人様の安全のためですか？"
 msgstr ""
+"Is that so... Then the reason Labiata sent Johanna here is for Master's "
+"safety, isn't it?"
 
 #  Korean Text: '그런 것도 있고, 혹시라도 기지로 돌아오려고 할 경우엔 등대 지하로 안내할&n생각이었지. 굳이 그럴 필요는 없어 보이는군.'
 #: DialogScript[DG_Ch01Stage02_2_19].Script
 msgid "それもあるが、もし基地に帰還しようとした場合、&n灯台の地下へ案内するつもりだった。&n今となってはその必要はなさそうだ。"
 msgstr ""
+"That's one of the reasons. I'm also here because if you said you wanted to go "
+"back to the base, I'll lead you to the Lighthouse. But that seems unnecessary "
+"now..."
 
 #  Korean Text: '그럼 다른 자매들도 등대 지하의 그곳으로 오는 건가요?'
 #: DialogScript[DG_Ch01Stage02_2_20].Script
 msgid "ということは他の仲間たちも灯台の地下へ集まるのでしょうか？"
-msgstr ""
+msgstr "Then are my other sisters also coming to the Lighthouse too?"
 
 #  Korean Text: '아, 그건 그러지 않기로 했다네. 그 기지까지 철충들에게 들킨다면 위험하니&n말일세. 우린 모두 흩어져서 적을 유인하기로 했지.'
 #: DialogScript[DG_Ch01Stage02_2_21].Script
 msgid "その計画は中止となった。&n「そこ」が鉄虫たちに察知される危険性がある。&n我々は分散し敵を誘導することにした。"
 msgstr ""
+"Well... no. If the Iron Parasites all swarmed the base that would have been "
+"the end for us, so we decided to split up and distract them."
 
 #  Korean Text: '그런…'
 #: DialogScript[DG_Ch01Stage02_2_22].Script
 msgid "そんな…"
-msgstr ""
+msgstr "Oh no...!"
 
 #  Korean Text: '너무 걱정할 필요는 없다네.&n라비아타 공은 현명한 사람이고 여러 가지 대비책을 마련해 두었으니.'
 #: DialogScript[DG_Ch01Stage02_2_23].Script
 msgid "心配することはない。ラビアタ公は賢明なお方だ。&nいくつかの作戦を準備しておる。"
 msgstr ""
+"Don't worry too much about it, Labiata is wise, and she'll have backup plans "
+"for them."
 
 #  Korean Text: '우리는 그곳으로 갈 준비만 하면 되는 거라네.'
 #: DialogScript[DG_Ch01Stage02_2_24].Script
 msgid "我々は「そこ」へ行く準備だけをすればいい。"
-msgstr ""
+msgstr "We'll just need to get ready to go there."
 
 #: DialogScript[DG_Ch01Stage02_2_24].SelectionIndex[1]
 msgid "一体、「そこ」って何なんだ？"
-msgstr ""
+msgstr "Where is \"there\"?"
 
 #  Korean Text: '아, 저희가 감청 때문에 정확하게 말하지 않는 버릇이 나와 버렸네요.&n그곳은…'
 #: DialogScript[DG_Ch01Stage02_2_25].Script
 msgid "あ、傍受を警戒し過ぎて、つい私たちの癖が出てしまいましたね。&n具体的に申し上げますと、「そこ」というのは…"
 msgstr ""
+"Ah, I'm sorry, to prevent communication interception, we got used to speak "
+"vaguely. By \"there\", she meant..."
 
 #  Korean Text: '잠깐, 콘스탄챠. 짐은 주군이 그곳을 보고 놀라는 모습을 보고 싶다네.&n조금만 지나면 바로 볼 수 있으니 그때의 즐거움을 위해 조금 참는 게 어떤가?'
 #: DialogScript[DG_Ch01Stage02_2_26].Script
 msgid "暫し待ちたまえ、コンスタンツァ。&n余は殿が「そこ」を見て驚く姿を見てみたい。&nじきに見れるのだ。その時の楽しみのため少し我慢してはどうだ？"
 msgstr ""
+"Wait, don't spoil the surprise. Let the lord see it for himself. We will see "
+"it shortly. The lord will have to wait till then."
 
 #  Korean Text: '그래. 인간 처음부터 좀 태연해서 놀라는 것도 좀 보고 싶거든?&n콘스탄챠, 어차피 나중에 알아도 상관 없잖아.'
 #: DialogScript[DG_Ch01Stage02_2_27].Script
 msgid "そうね。人間の奴、いつも平然としててつまらない。&nちょっとは驚く顔も見てみたくない？&nコンスタンツァ、説明は後でもいいじゃない。"
 msgstr ""
+"Agreed-- The human is unconcerned at the moment, so letting him know now or "
+"later makes no difference, right? Constantia?"
 
 #  Korean Text: '정말... 주인님. 어떻게 할까요? 나중에 알려 드려도 될까요?'
 #: DialogScript[DG_Ch01Stage02_2_28].Script
 msgid "困ったわね…ご主人様。どういたしましょうか？&n後程お話してもよろしいですか？"
 msgstr ""
+"Sigh... Master, what do you think? I can tell you afterwards if you are ok "
+"with it."
 
 #: DialogScript[DG_Ch01Stage02_2_28].SelectionIndex[1]
 msgid "構わない。"
-msgstr ""
+msgstr "I'm okay with that."
 
 #  Korean Text: '그 편이 더 즐거울 거예요. 그럼, 주인님 '그곳'을 향해 출발할까요?'
 #: DialogScript[DG_Ch01Stage02_2_29].Script
 msgid "その方が少しは楽しいかもしれませんね。&nではご主人様、「そこ」に向かって出発しましょう。"
-msgstr ""
+msgstr "Maybe it will be more fun that way. Master, let's go then!"
 
 #  Korean Text: '호위용인 저나, 군사용인 그리폰과는 달리 요안나 씨는 엔터테인먼트 용으로&n만들어졌으니까요.'
 #: DialogScript[DG_Ch01Stage02_2_30].Script
 msgid "護衛用の私や軍事用のグリフォンとは違い、&nヨアンナさんは娯楽用に開発されました。"
 msgstr ""
+"It's because she was made for entertainment purposes, unlike me who was made "
+"for Escorting, or Griffon for combat."
 
 #  Korean Text: '좋은 연기를 위해서 말투나 교육을 좀… 고풍스럽게 받으셨어요.'
 #: DialogScript[DG_Ch01Stage02_2_31].Script
 msgid "高品質な演技のため言葉遣いやその他の教育をですね…&n多少古風な設定で受けられました。"
-msgstr ""
+msgstr "How should I put this... She had very elegant educations."
 
 #  Korean Text: '그 말대로, 짐은 과거의 영광을 현세인들에게 보여주기 위해 돌아온 여왕.&n짐의 행동과 말투가 주군에게 익숙치 않더라도 양해를 구하네.'
 #: DialogScript[DG_Ch01Stage02_2_32].Script
 msgid "説明の通り、余は過去の栄光を現世の者に見せるため再降臨した。&n余の行動と言葉遣いが殿には不慣れに感じるかもしれないが理解を請う。"
 msgstr ""
+"That's correct. I am a queen who has come back to life to show the glory of "
+"the past to the people of the present. I hope you will forgive me if my "
+"gestures and tone of voice are unfamiliar to my lord."
 
 #  Korean Text: '등반 도중에'
 #: DialogScript[DG_Ch01Stage03_1_1].BG_Description
