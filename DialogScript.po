@@ -15,7 +15,7 @@ msgstr ""
 #  Korean Text: '어둠 속에서'
 #: DialogScript[DG_Ch01Stage01_1_1].BG_Description
 msgid "闇の中で"
-msgstr ""
+msgstr "闇の中で See wiki for translation credits"
 
 #  Korean Text: '구멍 뚫린 폐허'
 #: DialogScript[DG_Ch01Stage01_1_1].BG_Name
@@ -26,46 +26,61 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage01_1_1].Script
 msgid "- 背中から全身を破壊されるかのような痛みが襲った。&n体に激痛が走り、動くこともできない。"
 msgstr ""
+"- My back hurts like it will break anytime. It's so painful that I can't even "
+"move."
 
 #  Korean Text: '- 눈을 뜰 힘도 없어 어둠 속에서 여기가 어딜까 생각한다.&n하지만, 아무 것도 생각나지 않고 머리만 격렬하게 아파온다.'
 #: DialogScript[DG_Ch01Stage01_1_2].Script
 msgid "- 目を開ける事も出来ず、暗闇の中で自分がいる場所を推測しようとする。&nしかし何もわからず頭だけが激しく痛んだ。"
 msgstr ""
+"- I don't even have the energy to lift my eyelids, I try to think of where I "
+"am in this total darkness but nothing comes to mind, and my head continues to "
+"hurt."
 
 #  Korean Text: '- 고통 속에서 생각하는 것을 그만 두려고 할 때, 목소리가 들려왔다.'
 #: DialogScript[DG_Ch01Stage01_1_3].Script
 msgid "- あまりの苦痛に考えることを止めようと思った瞬間、声が聞こえた。"
 msgstr ""
+"- It's getting too painful to even think but just when I'm about to give up, "
+"I hear a voice."
 
 #  Korean Text: '숨은 쉬는데? 살아 있는 것 같아!&n벌써 죽어 버린 줄 알았는데… 조금만 늦었으면 큰일 날 뻔 했겠는데?'
 #: DialogScript[DG_Ch01Stage01_1_4].Script
 msgid "息はしてる？…生きてるみたい！&nもう死んでると思ってたのに…&nもう少し遅れてたら大変なことになってたわね！"
 msgstr ""
+"Is he still breathing? Seems he's still alive. I thought he was dead for "
+"sure... If we were a bit late, he definitely would have been dead."
 
 #  Korean Text: '그리폰, 조금 더 정중하게 말하렴. 드디어 찾은 인간님인데...&n우리 주인이 되실 분이잖아.'
 #: DialogScript[DG_Ch01Stage01_1_5].Script
 msgid "グリフォン、言葉遣いには気をつけなさい。&nやっと見つけた人間様なのよ…&n私たちのご主人様になる御方なんだから。"
 msgstr ""
+"Griffon, please don't say such unlucky things... We finally found a human, a "
+"human that might be our Master."
 
 #  Korean Text: '- 누구지? 알 수 없는 목소리가 들린다.'
 #: DialogScript[DG_Ch01Stage01_1_6].Script
 msgid "- 誰だろう？知らない声が聞こえる。"
-msgstr ""
+msgstr "- Who's that? I don't recognize the voices..."
 
 #  Korean Text: '흥, 주인은 무슨. 난 아직 주인이라고 인정 안했거든?&n… 어쨌든 그 주사부터 놔. 슬슬 숨소리가 간당간당해지고 있으니까'
 #: DialogScript[DG_Ch01Stage01_1_7].Script
 msgid "ふん、主人？私はまだ主人とは認めてないんだけど？…&nとりあえずその注射打ったほうがいいんじゃない？&n息がかなり苦しそうだし。"
 msgstr ""
+"Pfff, 'Master'. I don't think he will be my Master... What are you waiting "
+"for? Give him the shot already, I'm not sure if he can take another breath."
 
 #  Korean Text: '- 목 옆이 따끔하더니 무언가 내 몸에 주입되고 있다. 주사 바늘인가?'
 #: DialogScript[DG_Ch01Stage01_1_9].Script
 msgid "- 首筋が一瞬チクリとする。&n何かが俺の体に注入されているようだ。注射針か？"
 msgstr ""
+"- I feel a small pain around my neck area and something flowing into my body. "
+"Is that the injection needle?"
 
 #  Korean Text: '이걸로 깨어나셨으면 좋겠는데…'
 #: DialogScript[DG_Ch01Stage01_1_10].Script
 msgid "これで目を覚ましていただけるといいんだけど…"
-msgstr ""
+msgstr "Hopefully he'll wake up after this shot..."
 
 #  Korean Text: 'P/A-00 그리폰'
 #: DialogScript[DG_Ch01Stage01_1_12].Char_Name_L
@@ -80,75 +95,95 @@ msgstr "Constantia S2"
 #  Korean Text: '살아났나? 눈을 깜빡거리는데? 숨도 제대로 쉬는 것 같아.'
 #: DialogScript[DG_Ch01Stage01_1_12].Script
 msgid "生き返った？目がピクピクしてる？&n息もちゃんと吸えてるみたいね。"
-msgstr ""
+msgstr "Still alive? Seems like he's blinking his eyes, and is breathing fine."
 
 #  Korean Text: '휴, 다행이야.&n이분이 명령만 내려 주시면 우리도 이젠 제대로 싸울 수 있을 테니…'
 #: DialogScript[DG_Ch01Stage01_1_13].Script
 msgid "よかった。この御方が命令さえ出してくれれば&n私たちもまともに戦えるはず…"
 msgstr ""
+"Huu... that's good. If he gives us the order, we can finally fight properly."
 
 #  Korean Text: '괜찮긴 한 거야? 그러니까 명령을 내릴 수 있을 정도로 말이야.&n분명히 기억이 없을 거라고 했잖아.'
 #: DialogScript[DG_Ch01Stage01_1_14].Script
 msgid "こんな状態でそんなことできるかなぁ？命令を出すなんて…&n記憶もないみたいだし。"
 msgstr ""
+"Are you sure he's OK enough? I mean... OK enough to give orders. You said he "
+"won't have any memories or something, didn't you?"
 
 #  Korean Text: '이상한 명령이라도 내리면 어쩌지?'
 #: DialogScript[DG_Ch01Stage01_1_15].Script
 msgid "おかしな命令でも出されたらどうするつもり？"
-msgstr ""
+msgstr "What if he gives us some unusual orders?"
 
 #  Korean Text: '그럴 리야 있겠니? 그리고 기억이 없어도 괜찮아.&n적어도 파괴 명령만 내려 주셔도... 싸움이 훨씬 수월해 질 테니까.'
 #: DialogScript[DG_Ch01Stage01_1_16].Script
 msgid "そんなことあるわけないでしょ？それに記憶がなくても大丈夫よ。&n破壊命令さえ出せれば…。戦闘がずっと楽になるはずよ。"
 msgstr ""
+"He shouldn't? And if he has no memories then that is a good thing. As long as "
+"he gives the 『Destroy Order』... at least that can make the fighting a little "
+"bit easier."
 
 #  Korean Text: '- 파괴 명령? 기억이 없다고? 제대로 싸운다고?&n이 소녀들은 누구고 무슨 이야길 하고 있는 걸까?'
 #: DialogScript[DG_Ch01Stage01_1_17].Script
 msgid "- 破壊命令？記憶がない？まともに戦える？&nこの少女たちは一体誰で、何の話をしているんだ？"
 msgstr ""
+"- Destroy order? No memory? Fighting a little bit easier? Who are these "
+"girls, and what are they talking about?"
 
 #  Korean Text: '- 당장 몸을 일으켜 물어보고 싶지만 아직도 몸이 제대로 움직여지지 않는다.'
 #: DialogScript[DG_Ch01Stage01_1_18].Script
 msgid "- すぐにでも起き上がって聞いてみたいが、&nまだ体が自由に動かせない。"
 msgstr ""
+"- Although I want to sit up and ask them those questions, my body is still "
+"not ready to operate under my command."
 
 #  Korean Text: '칫, 그래도 이상한 명령이나 내리면 그냥 짐덩어리일걸?&n게다가 기억도 없으면 뭐든지 다 설명해야 하잖아.'
 #: DialogScript[DG_Ch01Stage01_1_19].Script
 msgid "チッ、もし変な命令出したりしたらただのお荷物なんだけど？&nそれに記憶がないから全部いちいち説明しないといけないじゃない。"
 msgstr ""
+"Tsk, even if he gives us unusual orders, he's still just a burden. Not to "
+"mention that he has no memory, we'll need to explain everything to him."
 
 #  Korean Text: '설명이야 해드리면 되잖아. 시간이 좀 걸리더라도…&n분명히 우리에게 파괴 명령을 내려 주실 거야.'
 #: DialogScript[DG_Ch01Stage01_1_20].Script
 msgid "説明して差し上げましょう。たとえ時間がかかったとしても…&nきっと私たちに破壊命令を出してくださるはずよ。"
 msgstr ""
+"Explanation shouldn't be a problem? Even if it takes some time... I believe "
+"he will give us the Destroy Order."
 
 #  Korean Text: '그럴려나? 흐응… 응? 잠깐, 지금 움직였어! 깨어난 것 같은데?&n인간, 깨어난 거지? 깨어난 거 맞지?'
 #: DialogScript[DG_Ch01Stage01_1_21].Script
 msgid "そうかな？ふん。…うん？ちょっと、今動いたよ！&n意識が戻ったみたいだけど！？&n人間、起きたの？何か言ってみなよ！"
 msgstr ""
+"We'll see about that... Hmm... Wait. Did he just move? Is he finally waking "
+"up? Hey wake up human, you are awake right?"
 
 #: DialogScript[DG_Ch01Stage01_1_21].SelectionIndex[1]
 msgid "ここはどこ？"
-msgstr ""
+msgstr "Where am I?"
 
 #: DialogScript[DG_Ch01Stage01_1_21].SelectionIndex[2]
 msgid "君たちは何者？"
-msgstr ""
+msgstr "Who are you?"
 
 #  Korean Text: '어? 말을 하네? 저기 콘스탄챠, 인간이 말도 할 수 있어?&n[c][ffd130]철충[-][/c]들은 말을 못하던데…'
 #: DialogScript[DG_Ch01Stage01_1_22].Script
 msgid "あれ？喋れるみたいだよ？コンスタンツァ、人間も言葉を喋るの？&n[c][ffd130]鉄虫[-][/c]は言葉を喋れないのに…"
 msgstr ""
+"Oh? He's speaking! Hey Constantia, Humans speak right? Or is it just the "
+"[c][ffd130]Iron Parasites[-][/c] that don't speak?"
 
 #  Korean Text: '원래 말은 인간님들이 하는 거야.&n우린 인간님들을 흉내낸 거고. 우린, 인간님들을 모방해서 만든 거니까.'
 #: DialogScript[DG_Ch01Stage01_1_23].Script
 msgid "本来人間様は言葉を使うのよ。私たちが人間様の真似をしているだけ。&n私たちは人間様を模倣して作られたんだから。"
 msgstr ""
+"Language is something that originated from Humans, Griffon. We are just "
+"mimicking the Humans. We are just imitations of Humans."
 
 #  Korean Text: '잠시만요. 인간님, 일단 일으켜 드리고 설명은 조금만 있다가 드릴게요.&n조금만 기다려 주세요.'
 #: DialogScript[DG_Ch01Stage01_1_24].Script
 msgid "少々お待ちください。人間様。お体をお支えいたします。&n説明は後でいたしますので、もう少しお待ちください。"
-msgstr ""
+msgstr "Please wait a little bit, Human. We'll explain everything later on."
 
 #  Korean Text: '반갑습니다. 인간님. 전 [c][ffd130]가정경비용 바이오로이드 콘스탄챠[-][/c],&n그리고 이 아이는 [c][ffd130]기동공격용 바이오로이드 그리폰[-][/c]이라고 해요.'
 #: DialogScript[DG_Ch01Stage01_1_26].Script
@@ -156,107 +191,137 @@ msgid ""
 "はじめまして。人間様。&n私は[c][ffd130]家庭警備用バイオロイドのコンスタンツァ[-"
 "][/c]、&nこちらは[c][ffd130]機動攻撃用バイオロイドのグリフォン[-][/c]と申します。"
 msgstr ""
+"Nice to meet you, Human. I'm the [c][ffd130]Home Security Bioroid, "
+"Constantia[-][/c]. The girl over here is the [c][ffd130]Flying Attacking type "
+"Bioroid, Griffon[-][/c]."
 
 #  Korean Text: '그리폰, 너도 인사해야지?'
 #: DialogScript[DG_Ch01Stage01_1_27].Script
 msgid "グリフォン、あなたも挨拶して。"
-msgstr ""
+msgstr "Griffon, give yourself a proper introduction, will you?"
 
 #  Korean Text: '흥, 미리 말하지만 이름 함부로 부르면서 친한 척 할 생각은 하지마.&n난 다른 애들처럼 인간만 기다리진 않았으니까.'
 #: DialogScript[DG_Ch01Stage01_1_28].Script
 msgid "ふん、先に言っとくけど私の名前を気安く呼んだりしないでよね。&n私は他の子たちとは違って、人間なんか待ってなかったんだから。"
 msgstr ""
+"I'll make this very clear, don't call my name like you know me well. I'm not "
+"waiting for a human like everyone else!"
 
 #  Korean Text: '그리폰? 그건 인사가 아니잖니?&n다시… 제대로 하자. 응?'
 #: DialogScript[DG_Ch01Stage01_1_29].Script
 msgid "グリフォン？それでは挨拶にはなってないわよ？&nもう一度…きちんと挨拶して。ね？"
-msgstr ""
+msgstr "Griffon? That's not a introduction... Do it again, please?"
 
 #: DialogScript[DG_Ch01Stage01_1_29].SelectionIndex[1]
 msgid "人間を待っていなかったってどういうことだ？"
-msgstr ""
+msgstr "What do you mean by waiting for a human?"
 
 #: DialogScript[DG_Ch01Stage01_1_29].SelectionIndex[2]
 msgid "バイオロイド？お前たちは人間じゃないのか？"
-msgstr ""
+msgstr "Bioroid? So not humans?"
 
 #  Korean Text: '아, 궁금한 게 많으실 테지만… 조금만 기다려 주시겠어요?&n아직, 절차가 끝나지 않아서…'
 #: DialogScript[DG_Ch01Stage01_1_30].Script
 msgid "あ、気になることがたくさんあるでしょうが…&n少々お待ちいただけますか？まだ手続きが終わってないので…"
 msgstr ""
+"Well... Just like I thought, there's a lot of questions to be answered... But "
+"could you please wait a bit? The procedures aren't finished yet..."
 
 #  Korean Text: '음... 그럼 일단 바로 비상 시 사령관 등록 절차를 시작하는 게 좋겠네요.&n시간이 많은 것도 아니니...'
 #: DialogScript[DG_Ch01Stage01_1_31].Script
 msgid "えっと…&nまずは非常時の司令官登録手続きを急いだ方がよさそうですね。時間が余りありませんので…"
 msgstr ""
+"Hmmmm, let's just go through the Emergency Commander Registration process "
+"now. We don't have too much time..."
 
 #  Korean Text: '모든 걸 숨김없이 제대로 알려 드리기 위해선 사령관 이름 등록이 필요해요.&n혹시 성함을 말씀해 주실 수 있나요?'
 #: DialogScript[DG_Ch01Stage01_1_32].Script
 msgid "すべてを正確にご説明するためにはお名前の登録が必要です。&nお名前を教えていただけますでしょうか？"
 msgstr ""
+"To make sure the conversations will go smoothly, please tell us your name."
 
 #: DialogScript[DG_Ch01Stage01_1_32].SelectionIndex[1]
 msgid "俺の名前は…"
-msgstr ""
+msgstr "My name is..."
 
 #  Korean Text: '{0}님이시군요. 알겠어요.&n바이오로이드 데이터베이스에 등록을 완료했어요.'
 #: DialogScript[DG_Ch01Stage01_1_33].Script
 msgid "{0}様ですね。&n承知いたしました。&nバイオロイドデータベースへの登録が完了しました。"
-msgstr ""
+msgstr "So it is {0}? Understood. Registering Bioroid database right now."
 
 #  Korean Text: '지금 상황에 대해서 설명을 드리고 싶지만…&n여긴 지금 많이 위험한 곳이라서 일단 본부로 가서 설명을 드릴게요.'
 #: DialogScript[DG_Ch01Stage01_1_34].Script
 msgid "今の状況についてご説明したいところなのですが…&nここはとても危険な場所ですので、&nひとまずは本部に戻ってからご説明いたします。"
 msgstr ""
+"I would like to give a brief explanation of the current situation... But it "
+"is dangerous right now, so I'll explain it to you when we get back to the "
+"base."
 
 #  Korean Text: '여기에 온 것도 철충들을 따돌리고 온 거라…&n들키기 전에 빨리 빠져 나가야...'
 #: DialogScript[DG_Ch01Stage01_1_35].Script
 msgid "ここへも鉄虫の追跡からやっとの思いで逃れて来ましたので&n見つかる前に早く離れないと…"
 msgstr ""
+"We got here by distracting the Iron Parasites... but we should definitely go "
+"before they notice us..."
 
 #  Korean Text: '칫, 콘스탄챠. 이 자식들 눈치 챈 것 같아.&n동쪽 통로에 적들이 탐지되는데? 거리는... 씨이... 500미터 이내!'
 #: DialogScript[DG_Ch01Stage01_1_37].Script
 msgid "チッ、コンスタンツァ。あいつらに気付かれたみたい。&n東の方角の通路に敵を探知。&n距離は…えぇ！？…500メートル以内！"
 msgstr ""
+"Hey, Constantia, I think they already did. There are signals from the Eastern "
+"exit... Distance... shit, within 500 meters!"
 
 #  Korean Text: '벌써? 다른 통로를 스캔해 줘.&n철충이 없는 통로는 없어?'
 #: DialogScript[DG_Ch01Stage01_1_38].Script
 msgid "そんな近くに？他の通路をスキャンしてちょうだい。&n鉄虫がいない通路はないの？"
 msgstr ""
+"They're already this close to us? Is there another exit? An exit without Iron "
+"Parasites?"
 
 #  Korean Text: '콘스탄챠! 싸우자! 숫자도 여섯 정도야. 흩어져 있기도 하고.&n이젠 인간도 있으니 명령만 받으면 제대로 싸울 수 있잖아!'
 #: DialogScript[DG_Ch01Stage01_1_39].Script
 msgid "コンスタンツァ！戦おう！数も六匹足らずで分散してるし。&n人間がいるんだから、命令さえ出せれば戦うのに問題ないんでしょ？"
 msgstr ""
+"Constantia, let's just fight! There's only six of them, and they are "
+"scattered around. We also have the human with us, he just needs to give us "
+"orders and we can fight!"
 
 #  Korean Text: '… 일단은 통로부터 찾아줘.&n이렇게 {0} 님이 노출된 전투는 너무 위험해. 일단은 피하는 걸로…'
 #: DialogScript[DG_Ch01Stage01_1_40].Script
 msgid "…ま、まず退路を見つけてくれるかしら。&nこんな{0}様が無防備な状態での戦闘は&nあまりにも危険だわ。ひとまずここは避難したほうが…"
 msgstr ""
+"We need to find a way out first. If the Iron Parasites see {0}... We can't "
+"take that risk. We should retreat first..."
 
 #  Korean Text: '빈 통로가 없어서 하는 말이거든?&n이 자식들… 문을 부수면서 오고 있어.'
 #: DialogScript[DG_Ch01Stage01_1_42].Script
 msgid "安全な通路がないから戦おうって言ってるんでしょ！&nあいつら…扉を壊しながらこっちに来てる。"
 msgstr ""
+"I told you there's NO EXITS! They've destroyed the only one and are getting "
+"close."
 
 #  Korean Text: '너도 나도 전투 프로그램이 내장돼 있잖아.&n숫자가 적은 동쪽 통로에 있는 녀석들 정도는 충분히 이길 수 있을 거야.'
 #: DialogScript[DG_Ch01Stage01_1_43].Script
 msgid "私たちはみんな戦闘プログラム内蔵型よ！？&nあの位の数なら十分に勝てるって。"
 msgstr ""
+"Both you and I have battle modules loaded on us, if it's the Eastern Exit I "
+"think we can win!"
 
 #  Korean Text: '이 인간이 파괴 명령만 내려준다면 말야.'
 #: DialogScript[DG_Ch01Stage01_1_44].Script
 msgid "この人間が破壊命令さえ出してくれればね。"
-msgstr ""
+msgstr "...Only if this human can give us orders."
 
 #  Korean Text: '… 이렇게 위험한 상황이 될 줄은 몰랐는데…&n저, {0} 님? 저희에게 파괴 명령을 내려주실 수 있으신가요?'
 #: DialogScript[DG_Ch01Stage01_1_45].Script
 msgid "…こんな危険な状況になるとは思ってもいなかったわ…&nあの、{0}様？&n私たちに破壊命令を出してくださいませんか？"
 msgstr ""
+"I can't believe this is happening... Uhh, sorry, {0}, could you please give "
+"us the Destroy Order?"
 
 #: DialogScript[DG_Ch01Stage01_1_45].SelectionIndex[1]
 msgid "破壊命令？なんで？"
-msgstr ""
+msgstr "Destroy Order? What's that?"
 
 #  Korean Text: '저흰 사령관 인간님의 [c][ffd130]명령[-][/c]이 없이는 방어 외에 파괴가 금지되어 있어요.&n인간님이 파괴 명령을 내려주신다면… 싸워서 포위를 돌파할 수 있어요.'
 #: DialogScript[DG_Ch01Stage01_1_46].Script
@@ -264,88 +329,112 @@ msgid ""
 "私たちは人間司令官の[c][ffd130]命令[-"
 "][/c]がない限り、破壊行動は出来ません。&n人間様が破壊命令を出してくだされば…&n戦って包囲を突破することができます。"
 msgstr ""
+"Unless we are defending, we cannot fight in any situation if there are no "
+"[c][ffd130]orders[-][/c] given from a human commander. If the human can give "
+"the Destroy Order... I think we can fight and break the siege."
 
 #: DialogScript[DG_Ch01Stage01_1_46].SelectionIndex[1]
 msgid "誰と戦うっていうんだ？"
-msgstr ""
+msgstr "Who are we fighting with?"
 
 #  Korean Text: '당연히 철충이지! 설마, 철충도 모르는 건 아니지?'
 #: DialogScript[DG_Ch01Stage01_1_47].Script
 msgid "鉄虫に決まってるでしょ！まさか、鉄虫も知らないの？"
 msgstr ""
+"It's the Iron Parasite shitturds! Hey, don't tell me you don't even know what "
+"Iron Parasites are!?"
 
 #  Korean Text: '- 철충. 뭘까?&n이 이름을 듣는 순간 마치 칼이 머리를 헤집는 것 같은 고통이 든다.'
 #: DialogScript[DG_Ch01Stage01_1_48].Script
 msgid "- 鉄虫。何故だろう？その名前を聞いた瞬間、&n頭の中をまるでナイフでえぐられるような苦痛を感じた。"
 msgstr ""
+"- Iron Parasite, what in the hell is that. The moment I heard the name, "
+"there's a moment of stirring pain inside my head."
 
 #  Korean Text: '뭐, 뭐야? 왜 그렇게 갑자기 심각한 표정이야?&n모르면... 그냥 내가 설명해 주면 되는데...'
 #: DialogScript[DG_Ch01Stage01_1_49].Script
 msgid "ど、どうしたのよ？何で急にそんな深刻な顔するの？&n知らないなら…私が説明してあげるから…"
 msgstr ""
+"Wh-wait, why are you that angry... You can tell me if you don't understand, I "
+"can explain it to you..."
 
 #  Korean Text: '- 그리폰이라는 소녀의 말이 귀에 공허하게 울린다.&n철충이라는 이름을 듣는 순간 수없이 많은 말들이 내 머리를 헤집는다.'
 #: DialogScript[DG_Ch01Stage01_1_50].Script
 msgid "- グリフォンという少女の言葉が耳に虚ろげに響く。&n鉄虫という名を聞いた瞬間、無数の言葉が俺の頭を埋め尽くした。"
 msgstr ""
+"- Griffon's words echoed in my head. The moment I heard \"Iron Parasite\", "
+"many words started appearing in my head."
 
 #  Korean Text: '- 포식! 멸망! 이단! 악마!&n수없이 많은 말들과 이미지들이 눈 앞을 지나간다.'
 #: DialogScript[DG_Ch01Stage01_1_51].Script
 msgid "- 捕食！滅亡！異端！悪魔！&n数えきれないほどの単語とイメージが脳裏をよぎる。"
 msgstr ""
+"- Gluttony! Annihilation! Heresy! Demons! So many words and images pass "
+"through my mind."
 
 #  Korean Text: '- 난, 불현듯 철충이 내 적이라는 것과 그들과 싸우는 방법을 떠올린다.&n마치 홍수처럼 철충과 싸울 수 있는 지식이 떠오른다.'
 #: DialogScript[DG_Ch01Stage01_1_52].Script
 msgid "- 俺は気が付くと鉄虫は敵だという感覚に襲われ、&nそいつらと戦う方法を考えていた。&nまるで滝のように鉄虫と戦うための戦略が浮かんできた。"
 msgstr ""
+"- I don't know why, but I feel a surge of hostility against the Iron Parasite "
+"as knowledge of Iron parasites floods my mind."
 
 #  Korean Text: '괜찮아? 인간? 미안, 난 그냥... 말한 건데... 무안 주려고 한 게 아니라…&n뭐, 뭐야? 갑자기 그런 눈을 하고는...'
 #: DialogScript[DG_Ch01Stage01_1_53].Script
 msgid "大丈夫？人間？ごめん、悪気はなかったのよ…&n気分を悪くしたなら謝るわ…&nど、どうしたの？急にそんな目つきして…"
 msgstr ""
+"Human, are you okay? Sorry, I was just... saying things.... I wasn't blaming "
+"you... W-wait, don't be so angry..."
 
 #: DialogScript[DG_Ch01Stage01_1_53].SelectionIndex[1]
 msgid "破壊命令を下す。指揮は俺が執ればいいんだな？"
-msgstr ""
+msgstr "Destroy Order? I can do that. Can I be in charge for the battle?"
 
 #  Korean Text: '뭐? 너 괜찮아?&n기억도 없으면서 어떻게 전투 지휘를 하려고?'
 #: DialogScript[DG_Ch01Stage01_1_54].Script
 msgid "え？本気なの？&n記憶もないくせにどうやって戦闘指揮を執るつもり？"
 msgstr ""
+"Wait, what? Are you really OK? You have no memory and you want to be in "
+"charge for the battle?"
 
 #: DialogScript[DG_Ch01Stage01_1_54].SelectionIndex[1]
 msgid "信じてほしい。"
-msgstr ""
+msgstr "Just trust me."
 
 #  Korean Text: '- 내 머리 속에 떠오르는 지식이 가짜가 아니라면.&n문제가 없을 것이다.'
 #: DialogScript[DG_Ch01Stage01_1_55].Script
 msgid "- 俺の頭の中に浮かぶ知識が正しければ。問題ないはず。"
 msgstr ""
+"- If the knowledge in my head isn't fake, then there shouldn't be a problem."
 
 #  Korean Text: '… 알겠습니다. 파괴 명령, 받았어요.&n그리폰, 그리폰도 전투 준비를 해.'
 #: DialogScript[DG_Ch01Stage01_1_56].Script
 msgid "…承知いたしました。破壊命令、確かに受け取りました。&nグリフォン、あなたも戦闘準備を整えて。"
-msgstr ""
+msgstr "...Destroy Order received. Griffon, prepare for battle."
 
 #  Korean Text: '콘스탄챠까지... 단체로 어떻게 된 거 아니야?'
 #: DialogScript[DG_Ch01Stage01_1_57].Script
 msgid "コンスタンツァまで…あんたたち一体どうしちゃったの？"
-msgstr ""
+msgstr "Constantia, even you are like this... What's wrong with everyone!?"
 
 #  Korean Text: '그리폰, 우린 명령을 받았어. 믿으라는 말씀도 들었고.&n그럼... 수행해야지.'
 #: DialogScript[DG_Ch01Stage01_1_58].Script
 msgid "グリフォン、私たちは命令を授かったわ。&n信じろというお言葉も頂いた。となれば…やるしかないわ。"
 msgstr ""
+"Griffon. We already received the Destroy Order, and were told to trust him. "
+"There's nothing left to think about."
 
 #  Korean Text: '아... 진짜... 나도 모르겠다.&n그럼, 동쪽 통로로 움직이면 돼?'
 #: DialogScript[DG_Ch01Stage01_1_59].Script
 msgid "はぁ…ったく…もう知らない。そうと決まったら…&nとりあえず東側の通路に行けばいい？"
-msgstr ""
+msgstr "Alright, I don't care anymore! Let's head to the Eastern Exit then, no?"
 
 #  Korean Text: '그렇게 명령을 받았으니까... 그럼 이동할게요. 사령관 님.&n전투 지휘를 부탁 드립니다.'
 #: DialogScript[DG_Ch01Stage01_1_60].Script
 msgid "命令通りならその方向ね…移動します。司令官。&n戦闘指揮をお願いいたします。"
 msgstr ""
+"If the order is like that... We should get going, commander. Please command "
+"the battle."
 
 #  Korean Text: '전투 직후'
 #: DialogScript[DG_Ch01Stage01_2_1].BG_Description
@@ -355,194 +444,232 @@ msgstr ""
 #  Korean Text: '도시 폐허'
 #: DialogScript[DG_Ch01Stage01_2_1].BG_Name
 msgid "廃墟都市"
-msgstr ""
+msgstr "City Ruins"
 
 #  Korean Text: '역시, 제대로 싸우면 별 것도 아니잖아.'
 #: DialogScript[DG_Ch01Stage01_2_1].Script
 msgid "ほ～ら、本気出せば大したことないじゃん。"
-msgstr ""
+msgstr "Huh, if we fight properly it's apparently not a issue."
 
 #  Korean Text: '그래. 처음치곤 잘 한 것 같아. &n그래도 자만하면 안돼. 이 철충들은 하급 전투원들이니까…'
 #: DialogScript[DG_Ch01Stage01_2_2].Script
 msgid "そうね。初めてにしては上出来だったわ。&nでも油断はだめよ。&nさっきの鉄虫たちは下級戦闘員に過ぎないわ…"
 msgstr ""
+"Yeah, for a first battle that's well done. But don't let your guard down. "
+"Those Iron Parasites are the lowest rank ones."
 
 #  Korean Text: '고위 철충, [c][ffd130]연결체[-][/c]들이 얼마나 무서운 지는 너도 잘 알잖니?'
 #: DialogScript[DG_Ch01Stage01_2_3].Script
 msgid "上級鉄虫の[c][ffd130]連結体[-][/c]たちの恐ろしさは&nあなたもよく知ってるでしょ？"
 msgstr ""
+"The higher-up Parasites, I believe even you heard the horrible stories about "
+"the 『[c][ffd130]Linked Ones[-][/c]』, right?"
 
 #  Korean Text: '걱정 마셔. 방심 같은 거 안하거든?'
 #: DialogScript[DG_Ch01Stage01_2_4].Script
 msgid "心配しないでよ。油断なんかしてないってば。"
-msgstr ""
+msgstr "Yeah yeah I'm not letting my guard down, don't you worry."
 
 #  Korean Text: '그것보다... 인간? 아까 그거 어떻게 한 거야?&n전투 지휘한 거 말이야.'
 #: DialogScript[DG_Ch01Stage01_2_5].Script
 msgid "それより…人間。さっきのはどういうことよ。&n戦闘指揮ちゃんと執れてたじゃない。"
 msgstr ""
+"Actually... Human? How did you do that thing back there? The 'Battle Command' "
+"thing?"
 
 #  Korean Text: '사령... 주인님, 혹시 전술이나 그런 것에 대해 배우신 적이 있으신가요?&n너무 자연스럽게 지휘를 하셔서 놀랐어요. 그렇지 않니? 그리폰?'
 #: DialogScript[DG_Ch01Stage01_2_6].Script
 msgid ""
 "司令…ご主人様、戦術について学ばれたことがおありですか？&nとても慣れた感じで指揮を執られていたので驚きました。&nグリフォンもそう思ったでしょ？"
 msgstr ""
+"Comman... Master. Have you studied battle tactics somewhere? I'm surprised at "
+"how natural you were when you were commanding. Isn't that so, Griffon?"
 
 #  Korean Text: '흥… 뭐, 뭐 나쁘진 않았지. 그렇다고 되게 좋은 것도 아니고. 보통 정도?'
 #: DialogScript[DG_Ch01Stage01_2_7].Script
 msgid "ふん…まぁ、悪くはなかったね。&nでもすごく上手ってわけでもないし、普通ってとこかな？"
-msgstr ""
+msgstr "Hmm, uhhh, not bad, I guess? But not good as well? Just so-so I guess?"
 
 #  Korean Text: '그, 그보다 인간, 아까 뭘 물어보려고 했었잖아?&n뭐 물어보려고 했어?'
 #: DialogScript[DG_Ch01Stage01_2_8].Script
 msgid "そ、それよりも人間、さっき何を聞こうとしてたの？"
 msgstr ""
+"Master, your memory isn't completely back to normal, right? Master, I can "
+"give you a short explanation if you need."
 
 #: DialogScript[DG_Ch01Stage01_2_8].SelectionIndex[1]
 msgid "お前たちはバイオロイドなのか？バイオロイドって何なんだ？"
-msgstr ""
+msgstr "What are Bioroids?"
 
 #: DialogScript[DG_Ch01Stage01_2_8].SelectionIndex[2]
 msgid "何で俺が司令官なんだ？"
-msgstr ""
+msgstr "Why am I the Commander?"
 
 #: DialogScript[DG_Ch01Stage01_2_8].SelectionIndex[3]
 msgid "ひとまずは早く移動しよう。"
-msgstr ""
+msgstr "We should go."
 
 #  Korean Text: '이상한 걸 묻네? 인간이 우릴 만들었잖아?&n우리가 바이오로이드인 것도 모르는 거야?'
 #: DialogScript[DG_Ch01Stage01_2_9].Script
 msgid "おかしなこと聞くのね。人間が私たちを作ったのよ？それなのに私たちがバイオロイドだってことも知らないの？"
 msgstr ""
+"What a question... We were made by humans, right? What do you mean you don't "
+"even know what we Bioroids are?"
 
 #  Korean Text: '주인님은 지금 기억이 완전하지 않잖니.&n주인님, 제가 간단하게 설명을 해드릴게요.'
 #: DialogScript[DG_Ch01Stage01_2_10].Script
 msgid "ご主人様は今はまだ記憶が完全に戻ってないのよ。&nご主人様、私が簡単にご説明いたします。"
-msgstr ""
+msgstr "His memories aren't completely back, Griffon. I'll explain..."
 
 #  Korean Text: '저희 같은 바이오로이드들은 과거, 인간님들에게 봉사하기 위해&n생물학적인 방법, 그러니까 인간님의 세포를 베이스로 만들어졌어요.'
 #: DialogScript[DG_Ch01Stage01_2_11].Script
 msgid "私たちバイオロイドは過去、人間様に仕えるため生物学的な方法、&nつまり人間の細胞をベースに開発されました。"
 msgstr ""
+"We Bioroids were made to serve humans, and were made based on human cells "
+"using Biological methods."
 
 #  Korean Text: '인간님들이 하기 힘든 노동이나 위험한 경비나 그런 작업들을 위해서요.&n저희 같은 경우는 전투를 위해 훈련 받은 바이오로이드고요.'
 #: DialogScript[DG_Ch01Stage01_2_12].Script
 msgid "人間様に代わり、大変な作業や危険な警備などをするのが仕事です。&n私たちの場合だと戦闘用に訓練されたバイオロイドとなります。"
 msgstr ""
+"We were made for labor work or patrolling duties which were too harsh for "
+"humans to carry out. In our case, we are Bioroids that underwent combat "
+"training."
 
 #  Korean Text: '덕분에, 인간님들이 멸망한 이후에도… 이렇게 저항을 계속할 수 있었죠.&n혹시 다른 궁금한 부분이 있으신가요?'
 #: DialogScript[DG_Ch01Stage01_2_13].Script
 msgid "おかげで人間様が滅亡した後でも…&nこうして抵抗を続けることができました。&n他に何か気になることはございますか？"
 msgstr ""
+"Thanks to our training, when humanity came to an end... We were able to "
+"resist like this. Do you have any other questions?"
 
 #: DialogScript[DG_Ch01Stage01_2_13].SelectionIndex[2]
 msgid "人間が滅亡しただと？"
-msgstr ""
+msgstr "What, you said humanity came to an end?"
 
 #  Korean Text: '... 인간님들이 멸망한 후에 저희가 처음으로 찾은 인간님이니까요.'
 #: DialogScript[DG_Ch01Stage01_2_14].Script
 msgid "…人間様が滅亡した後、私たちが初めて出会った人間様ですから。"
-msgstr ""
+msgstr "... After the human race was destroyed, you are the first human we met."
 
 #  Korean Text: '기억이 안 나시겠지만… 안타깝게도 인간님들은 멸망했어요.&n철충들에 의해서요.'
 #: DialogScript[DG_Ch01Stage01_2_15].Script
 msgid "記憶されていらっしゃらないのかもしれませんが…&n悲しいことに人間様たちは滅亡しました。鉄虫たちによって…"
 msgstr ""
+"I know you have no memory but... Yes, I'm sorry, the Iron Parasites "
+"annihilated the human race."
 
 #  Korean Text: '어디선가 갑자기 나타난 철충들이 인간님들의 기계 문명을 먹어치웠고…&n기계라는 무기를 잃은 인간님들은 저항할 수 없었죠.'
 #: DialogScript[DG_Ch01Stage01_2_16].Script
 msgid "どこからともなく現れた鉄虫たちが人間様たちの機械文明を蝕み…&n機械という武器を失った人間様は抵抗の術がありませんでした。"
 msgstr ""
+"They showed up out of nowhere, and took control of humanity's old "
+"technological civilization. Without the technology, the humans weren't able "
+"to resist."
 
 #  Korean Text: '바이오로이드들이 열심히 대항을 하긴 했지만…&n결국에는...'
 #: DialogScript[DG_Ch01Stage01_2_17].Script
 msgid "バイオロイドたちは懸命に対抗しましたが…結局…"
-msgstr ""
+msgstr "The Bioroids fought hard, but in the end...."
 
 #  Korean Text: '- 인간의 멸망. 선뜻 와닿지 않는다. 기억이 없어서일까?&n오히려 나보다 이 콘스탄챠가 더욱 슬퍼하고 있는 느낌이다.'
 #: DialogScript[DG_Ch01Stage01_2_18].Script
 msgid "- 人間の滅亡。いまいちピンとこない。記憶がないからか？&n俺よりもコンスタンツァの方が悲しんでいるように見える。"
 msgstr ""
+"- Humanity had come to an end. That sounded like someone else's problem. Is "
+"it because I lost my memory? In fact, compared to me, Constantia looks sadder "
+"when she talks about it."
 
 #  Korean Text: '- 이상한 기분이다. &n그것보다도 이 사태를 빨리 파악해야 한다는 생각이 머리를 채운다.'
 #: DialogScript[DG_Ch01Stage01_2_19].Script
 msgid "- 妙な気分だ。&nそれより今のこの状況を早く把握しなければ…"
 msgstr ""
+"- This doesn't feel right, and I feel the urge to figure this out as soon as "
+"possible."
 
 #  Korean Text: '네. 더 늦으면 해가 지기 전에 본부에 닿기 힘들 거예요.&n일단, 본부에 통신을 넣을 게요. 그리폰?'
 #: DialogScript[DG_Ch01Stage01_2_25].Script
 msgid "そうですね。&nこれ以上遅くなると日が暮れた後の帰還となってしまいかねません。&nとりあえず、本部に通信を入れます。グリフォンいい？"
 msgstr ""
+"Sure. We should be able to get back to the base before sunset. Griffon, "
+"didn't we get a communication from the base earlier?"
 
 #  Korean Text: '응. 그럼 통신 연결할게.'
 #: DialogScript[DG_Ch01Stage01_2_26].Script
 msgid "いいわよ。通信接続するわね。"
-msgstr ""
+msgstr "Riiiiight. Let me patch us through..."
 
 #  Korean Text: '응? ... 이거 왜 이래? 고장이라도 났나?'
 #: DialogScript[DG_Ch01Stage01_2_27].Script
 msgid "あれ？…どうしたんだろう？故障かな。"
-msgstr ""
+msgstr "Hm? Wait, huh? Is this thing broken?"
 
 #  Korean Text: '왜 그러니? '
 #: DialogScript[DG_Ch01Stage01_2_28].Script
 msgid "どうしたの？"
-msgstr ""
+msgstr "What's wrong?"
 
 #  Korean Text: '신호는 가는데 아무도 통신을 받질 않아.&n무슨 일이지?'
 #: DialogScript[DG_Ch01Stage01_2_29].Script
 msgid "信号はちゃんと行ってるみたいなんだけど、誰も受信しないの。&nどうしたんだろう？"
 msgstr ""
+"I sent communication signals but nobody is picking it up. What could this be?"
 
 #  Korean Text: '설마... 기지에 무슨 일이 생긴 건…'
 #: DialogScript[DG_Ch01Stage01_2_30].Script
 msgid "まさか…基地で何か起こったのでは…"
-msgstr ""
+msgstr "Oh no, if something happened at the base..."
 
 #  Korean Text: '그, 그러기야 했겠어? 그럼, 바로 움직이자.&n그러니까... 가보면 알겠지.'
 #: DialogScript[DG_Ch01Stage01_2_31].Script
 msgid "ま、まさか。そんなことあるわけないでしょ？&nだとしたら今すぐ行かなきゃ。行けば…分かることよ。"
 msgstr ""
+"H-ha you must be joking right? Let's go then... We go there and we'll see..."
 
 #  Korean Text: '... 아냐. 일단 피난처로 먼저 가자.&n등대 아래, 쉘터 말야.'
 #: DialogScript[DG_Ch01Stage01_2_32].Script
 msgid "…いいえ、それよりもまずは避難できる場所に行きましょう。&n灯台の下のシェルターよ。"
 msgstr ""
+"...No. Let's go to the emergency shelter first. The one under the lighthouse."
 
 #  Korean Text: '거기? 그게 있는데? 정말?&n그냥 기지로 바로 가는 게 낫지 않아?'
 #: DialogScript[DG_Ch01Stage01_2_33].Script
 msgid "ええ？こいつがいるっていうのに？本気なの？&nこのまま基地に帰った方がいいんじゃない？"
 msgstr ""
+"Go there? Even if we have that? Really? Shouldn't we just head straight back "
+"to base?"
 
 #  Korean Text: '아냐. 혹시라도 인간님이 위험할 수 있는 건 피해야 해.&n만약에라도 기지가 공격을 받고 있다면...'
 #: DialogScript[DG_Ch01Stage01_2_34].Script
 msgid "いいえ。人間様に何かあってからでは遅いわ。&nもし基地が攻撃を受けていたら…"
 msgstr ""
+"No, we can't afford anything that might harm the human. If the base was "
+"really under attack..."
 
 #  Korean Text: '일단 우리가 쉘터에 가서 인간님을 안전한 곳에 모시고&n기지에 가보면 될 거야.'
 #: DialogScript[DG_Ch01Stage01_2_35].Script
 msgid "今はひとまずシェルターに行って、人間様を安全な場所に避難させる。&nそれから基地に行った方が安全よ。"
-msgstr ""
+msgstr "We'll head to the shelter first, then we'll go to the base afterwards."
 
 #  Korean Text: '그래. 그럼 그렇게 해.&n인간, 그렇게 해도 상관 없지?'
 #: DialogScript[DG_Ch01Stage01_2_36].Script
 msgid "分かったわ。そうしよ。人間も問題ないわね？"
-msgstr ""
+msgstr "Let's do it that way then. Human, you ok with that?"
 
 #  Korean Text: '- 현재 상황에선 안전한 선택을 한다는데 거부할 이유는 없다.'
 #: DialogScript[DG_Ch01Stage01_2_37].Script
 msgid "- 現在の状況で安全な選択を断る理由はない。"
-msgstr ""
+msgstr "- Taking the safest option. No reason to not agree with that."
 
 #  Korean Text: '문제없다.'
 #: DialogScript[DG_Ch01Stage01_2_37].SelectionIndex[1]
 msgid "問題ない。"
-msgstr ""
+msgstr "Yes, no problem."
 
 #  Korean Text: '응. 그럼 출발하자고. 등대 피난처로.'
 #: DialogScript[DG_Ch01Stage01_2_38].Script
 msgid "いいわ。だったら出発するわよ。灯台のシェルターへ。"
-msgstr ""
+msgstr "Alright, let's go then! To the Lighthouse shelter!"
 
 #  Korean Text: '길을 탐색하는 도중'
 #: DialogScript[DG_Ch01Stage01_2_39].BG_Description
@@ -553,92 +680,108 @@ msgstr ""
 #: DialogScript[DG_Ch01Stage01_2_39].Script
 msgid "お帰りなさい、グリフォン。あっちはどうだった？&nどの道が一番安全そう？あれ？表情が冴えないわね…"
 msgstr ""
+"Welcome back Griffon, how's the situation? Which route is the safest? Wait, "
+"what's that look on your face?"
 
 #  Korean Text: '저게 뭐야? 말도 안돼.&n철충이 이 근처에 빽빽하게 깔렸는데?'
 #: DialogScript[DG_Ch01Stage01_2_40].Script
 msgid "何あれ…信じらんない。&n鉄虫の集団がこの近くまで押し寄せてきるんだけど？"
 msgstr ""
+"What in the world was that? That's impossible! The area is swarming with Iron "
+"Parasites!"
 
 #  Korean Text: '전투 없이 지나가긴 불가능해.&n어째서 이렇게 철충들이 몰려 온 거지?'
 #: DialogScript[DG_Ch01Stage01_2_41].Script
 msgid "戦闘なしに通過することは不可能だと思うわ。&nいつの間にこんなたくさんの鉄虫が押し寄せてきたんだろ。"
 msgstr ""
+"We can't leave this area without fighting it seems. Why are the Iron "
+"Parasites gathered around here?"
 
 #  Korean Text: '설마... 주인님을 노리고?'
 #: DialogScript[DG_Ch01Stage01_2_42].Script
 msgid "まさか…ご主人様を狙って？"
-msgstr ""
+msgstr "...They might be aiming for Master?"
 
 #  Korean Text: '정말 그럴 수도 있을 것 같아. 칫... 어떻게 안 거야?'
 #: DialogScript[DG_Ch01Stage01_2_43].Script
 msgid "そうかもしれない。チッ…どうやって分かったんだろ？"
-msgstr ""
+msgstr "Yeah, possibly. Tsk, how did they know the human was here?"
 
 #  Korean Text: '... 옛날, 멸망 전쟁 당시에도 철충인 이상할 정도로 인간님들을 잘 찾아냈다고&n하니까 이상한 일도 아냐.'
 #: DialogScript[DG_Ch01Stage01_2_44].Script
 msgid "…過去、滅亡戦争当時も鉄虫は異常なほどに&n人間の居場所を嗅ぎ付けたそうよ。不思議なことではないわ。"
 msgstr ""
+"...Do you remember back in the Annihilation war, it wasn't that surprising "
+"when the Iron Parasites easily found out where the humans were hiding."
 
 #  Korean Text: '어쨌든, 이대로 있으면 위험하단 말이지?'
 #: DialogScript[DG_Ch01Stage01_2_45].Script
 msgid "とにかく、このままだと危険ってことね？"
-msgstr ""
+msgstr "Well, if we stay here, it will be more dangerous, won't it?"
 
 #  Korean Text: '응. 점점 포위망을 좁혀 오는 것 같아. 어떻게 하지?&n빠져나갈 길이 없어.'
 #: DialogScript[DG_Ch01Stage01_2_46].Script
 msgid "うん。どんどん包囲網が狭まってきてる。&nどうする？逃げ道がないわ。"
 msgstr ""
+"Yes, and they are closing in. What should we do now, there's no way to "
+"breakthrough this..."
 
 #  Korean Text: '주인님? 어떻게 하는 게 좋을까요?&n아무래도 적들이 포위해 오고 있는 것 같아요.'
 #: DialogScript[DG_Ch01Stage01_2_47].Script
 msgid "ご主人様？どういたしましょうか？&n鉄虫たちに包囲されてしまったようです。"
 msgstr ""
+"Master, what should we do now? It seems that we'll need to breakout this "
+"siege..."
 
 #: DialogScript[DG_Ch01Stage01_2_47].SelectionIndex[1]
 msgid "強行突破で包囲網を通過してみよう。"
-msgstr ""
+msgstr "Lets face them head on and fight our way out"
 
 #: DialogScript[DG_Ch01Stage01_2_47].SelectionIndex[2]
 msgid "迂回路を見つけてみよう。"
-msgstr ""
+msgstr "Is there a detour somewhere that we can take?"
 
 #  Korean Text: '역시... 그 방법 밖에 없겠죠?&n그리폰, 포위망의 가장 얇은 곳을 알려줘.'
 #: DialogScript[DG_Ch01Stage01_2_48].Script
 msgid "やはり…その方法しかなさそうですね。分かりました。&nグリフォン、包囲網の一番薄い場所を教えて。"
 msgstr ""
+"If that's the only way, so be it. Griffon, please look for the weakest point "
+"in their siege."
 
 #  Korean Text: '… 일단, 동쪽으로 가는 게 제일 좋을 것 같아.&n그치만, 콘스탄챠? 아무래도… 이 인원만 가지고는 무리일 것 같은데…'
 #: DialogScript[DG_Ch01Stage01_2_49].Script
 msgid "分かった。東の方に行った方がよさそうよ。&nでも、コンスタンツァ？&nどう考えても…今の状態じゃ数的に不利な気がする…"
 msgstr ""
+"...I think east is best. But Constantia, with this amount of Iron Parasites "
+"outnumbering us, it will be rough..."
 
 #  Korean Text: '우리가 어떻게든 해 내야 해.&n그럼 그 길로 괜찮을까요, 주인님?'
 #: DialogScript[DG_Ch01Stage01_2_50].Script
 msgid "それでも私たちで何とかしないと。&nこのルートでよろしいでしょうか、ご主人様？"
-msgstr ""
+msgstr "We'll make something happen. Let's go that way Master, shall we?"
 
 #: DialogScript[DG_Ch01Stage01_2_50].SelectionIndex[1]
 msgid "すぐに出発しよう。"
-msgstr ""
+msgstr "Go straight to East"
 
 #  Korean Text: '네. 주인님. 그럼 바로 출발할 준비를 할게요.'
 #: DialogScript[DG_Ch01Stage01_2_51].Script
 msgid "はい。ご主人様。では今すぐに出発準備に取り掛かります。"
-msgstr ""
+msgstr "Understood, Master. Then let's get prepared to go."
 
 #: DialogScript[DG_Ch01Stage01_2_51].SelectionIndex[1]
 msgid "ちょっと待った、あそこに誰かいるぞ。"
-msgstr ""
+msgstr "Wait, someone is there"
 
 #  Korean Text: '없어. 없어. 그런 길이 있으면 미리 말했지.'
 #: DialogScript[DG_Ch01Stage01_2_52].Script
 msgid "ないってば。そんな道があったらとっくに言ってたわよ。"
-msgstr ""
+msgstr "No... I went around and checked already."
 
 #  Korean Text: '... 돌아갈 길은 없는 것 같아요. 주인님. 어떻게 해야 할까요?'
 #: DialogScript[DG_Ch01Stage01_2_53].Script
 msgid "…戻る道はないようです。ご主人様、どうしましょうか？"
-msgstr ""
+msgstr "Seems like there's no detour after all. What now, Master?"
 
 #  Korean Text: '프레스터 요안나'
 #: DialogScript[DG_Ch01Stage01_2_54].Char_Name_C
@@ -648,27 +791,29 @@ msgstr "Prester Johanna"
 #  Korean Text: '거기 있는 것은 우리 자매들이 아닌가?&n보아하니, 제법 곤란한 상황에 처한 듯 한데…'
 #: DialogScript[DG_Ch01Stage01_2_54].Script
 msgid "そこにいるのは我らの仲間ではないのか？&n見るからに窮地に陥り困っているようだが…"
-msgstr ""
+msgstr "HA! My sisters are here! Looks like you all could use a helping hand!"
 
 #  Korean Text: '당신은 요안나 씨?! 이게 대체 어떻게 된 일이죠...?'
 #: DialogScript[DG_Ch01Stage01_2_55].Script
 msgid "ヨアンナさん？！どういうことでしょうか…？"
-msgstr ""
+msgstr "You are... Johanna!? What happened?"
 
 #  Korean Text: '요안나? 설마 여기서 우릴 기다린 거야?'
 #: DialogScript[DG_Ch01Stage01_2_56].Script
 msgid "ヨアンナ？まさかここで私たちを待ってたの？"
-msgstr ""
+msgstr "Johanna? Were you waiting here by yourself for all this time?"
 
 #  Korean Text: '음! 안타깝게도, 지금 모든걸 설명해 줄 시간은 없다네.&n모두들 이쪽으로. 나를 따라오게.'
 #: DialogScript[DG_Ch01Stage01_2_57].Script
 msgid "ふん！残念ながら今ここで一部始終を説明している時間はない。&n皆こちらへ。余についてくるのだ。"
 msgstr ""
+"Yes, but there's no time for a full explanation. Everybody, please follow me "
+"this way!"
 
 #  Korean Text: '전투 직전'
 #: DialogScript[DG_Ch01Stage02_1_1].BG_Description
 msgid "戦闘直前"
-msgstr ""
+msgstr "Before the battle"
 
 #  Korean Text: '여기서부터는 적진이군요. 요안나? 잘 부탁드려요.'
 #: DialogScript[DG_Ch01Stage02_1_1].Script
